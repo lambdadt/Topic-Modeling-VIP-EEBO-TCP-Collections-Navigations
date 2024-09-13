@@ -2,8 +2,8 @@ import xml.etree.ElementTree as ET
 
 # Define file paths
 input_file = '/Users/parag/Desktop/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/Navigations_headed_xml/A0-A5/A00005.headed.xml'
-output_text_file = '/mnt/data/parsed_text.txt'
-output_footnotes_file = '/mnt/data/footnotes.txt'
+output_text_file = '/Users/parag/Desktop/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/Navigations_headed_xml/Parsed_texts/A00005_parsed_text.txt'
+output_footnotes_file = '/Users/parag/Desktop/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/Navigations_headed_xml/Parsed_texts/A00005_footnotes.txt'
 
 def parse_xml(input_file):
     # Parse the XML file
