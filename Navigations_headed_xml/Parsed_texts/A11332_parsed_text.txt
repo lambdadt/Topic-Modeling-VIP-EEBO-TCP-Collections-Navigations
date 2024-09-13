@@ -1,0 +1,225 @@
+A true report and description of the taking of the iland and towne of S. Maries by a shippe of Amsterdam, and foure English pinnasses. 1599. Translated out of Dutch into English.
+Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A11332
+
+
+
+
+STC 21591
+
+
+
+ESTC S102612
+
+
+
+
+
+99838384
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A true report and description of the taking of the iland and towne of S. Maries by a shippe of Amsterdam, and foure English pinnasses. 1599. Translated out of Dutch into English.
+[8]p.   
+
+
+London :
+
+
+Imprinted by [J. Windet for] Iohn Wolfe,
+
+
+1600.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+[Santa Maria(Azores)] --  Early works to 1800.
+Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Kate Allen
+Sampled and proofread
+2013-10
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+21591
+
+
+S102612
+
+
+99838384
+
+
+2760
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A TRVE REPORT AND DESCRIPTION of the taking of the Iland and Towne of 
+S. Maries,
+ by a Shippe of 
+Amsterdam, and foure English Pinnasses.
+ 1599.
+
+
+Translated out of Dutch into English.
+
+
+
+
+embellished fleur de lis
+
+
+VBIQVE FLORET
+
+
+
+
+LONDON Imprinted by 
+Iohn Wolfe.
+ 1600.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A true report and Description of the taking of the Iland and Towne of S. Maries, by a ship of Amsterdam and foure English Pinnasses.
+
+
+A
+Fter that the great and mightie fleet, set forth and furnished by the vnited Prouinces (in the yeare of our Lord 1599.) against the king of 
+Spaine
+ and his countries, vn∣der the conduct and command of the noble Lord 
+Peter van Does,
+ Admirall and Generall of the same, had set saile, and put themselues forwards on their no lesse va∣liant then succesfull voyage (which God with his omnipotent hand alwaies vouchsafeth to guide and protect in all their lawfull attemptes:) it so chanced, that vpon the 10. of Iune, there strayed from the fleete, a ship of 
+Amsterdam,
+ wherein was Captaine 
+Garret Iohnson Cater,
+ who in crossing to and fro, to recouer a sight of the fleet, for about the space of three weekes, happened vpon the first of Iuly to discrie neere vnto the Iland of Saint 
+Mary
+ foure small sailes, which afterwards he perceiued to be foure small English Pinnasses, whereof the biggest was of the burthen of thirtie lastes, the les∣ser about seauen lastes, and the other two accor∣dingly. Being all these four Pinnasses together furnished with nine cast pieces, and could make out amongst them one hundred men, (when that they
+
+ knew them to be all friends, and that the Captains had beene aboard one of the other) after their mutu∣all greetings and welcomes vsed at sea, the En∣glish Captaines gaue Ca
+taine 
+Cater
+ intelligence, how that they lay in waite for a barke lying vnder 
+S. Maries
+ Iland, which they said was rich
+y laden, contayning a great treasure, and that with his aid and help they might easily take her. Whereupon the said 
+Cater
+ promised them his good helpe, and furtherance to fetch the barke from the shoare, if so it were, that by his assistance they might take her: but it was told him by the Captaine of the greater Pinnasse that it would be impossible to take the barke, without that first they tooke the Iland it selfe. Whereupon after deliberation taken with them (being able to furnish out in al, nine score men, which the said Captaine said would suffice to take the Iland) they resolued to assault the same with their men. And hauing made the saide Captaine 
+Cater
+ their Admirall, they altogether bended their course towardes the Iland, and the same day en∣tred vnder the towne, preparing themselues to giue the assault the next day.
+
+
+The second of Iuly, being the visitation of the blessed virg
+n 
+Marie,
+ they shot very strongly with foure gr
+at peeces out of Captaine 
+Caters
+ ship vp∣on the towne of 
+S. Marie:
+ meane while the men be∣gan to be 
+owed a shore, being all well appointed and prepared to skirmish, taking their course East∣wards to the Iland, to fal vpon the same in the low ground, but they could not doe it, by reason of the
+
+ great number of the inhabitantes vpon the shoare, which easily might haue hindered their landing. Wherefore Captaine 
+Cater
+ after due considerati∣on thought it requisite to sende two of the English pinnasses, with eight or ten men towards the west side of the said Iland, the which with plying vp and downe, should seeme to assault the Iland on that side, himselfe going also in his boate, with some of his men, rowing towards the West side of the Iland: whereupon they were shot at by some Spanish soldiers with Muskets, which lay there vpon the flat land, and afterwardes the same day they shot mightily with a great peece vpon the pin∣nasses, all which was done to that ende, that the soldiers which were occupied on the West side of the Iland, should not withdraw themselues to the East side thereof to resist their assault there: which otherwise without doubt th
+y would haue done.
+
+
+Our men now being landed in the East part of the Iland, after a small skirmish and little trou∣ble, (by Gods help) wonne the Iland: for the Spa∣niardes on the East side being assaulted suddenly and vnlooked for, fled immediately: so that our men tooke not onely the aboue named barke, but also had the whole Iland and the Towne to their will and disposition.
+
+
+Which done, the said Captaine 
+Cater
+ by aduise of the English Captaines, set a ransome on the I∣land, commanding the chiefe inhabitants thereof to bring them a certaine summe of Duckets.
+
+
+Vpon the 4. of Iuly they forsooke the Iland a∣gaine,
+
+ because there was no good roade to ride in, as also because that the Westerly winde began to rise strongly from the shore, so that they should haue beene in some perill if they had stayed.
+
+
+Thus was the Ilande and Towne of S. 
+Ma∣ries
+ wonne and taken, after they had lyen there three daies.
+
+
+They might wel haue kept the same, if they had thought it to haue beene any thing aduantagious, or profitable for them.
+
+
+The chiefe of the Iland being by them deman∣ded what the reason was that so lightly they yeel∣ded the Iland: aunswered, that they knew God was displeased with them, that hee would punish them for their sins, and that therfore they thought it in vaine to resist.
+
+
+To the Almightie God be infinit praises for this and many other victories graunted vnto vs, and be it his blessed will to continue the same, and to blesse all our lawful enterprises, to the praise, honor, and glorie of his holy name, and the saluation of our soules.
+
+
+Perused by me Garret Iohnson Cater.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2646 @@
+Poor Robins Character of France, or, France painted to the life in a brief dialogue of the description of that nation, their manners, customs, complements, language, discourse &c. : as also, an exact character of the city of Paris, of their gentry, peasants, women &c. / by Poor Robin ...
+Poor Robin.
+Approx. 69 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2006-06 (EEBO-TCP Phase 1).
+A55410
+
+
+
+
+Wing P2878
+
+
+
+ESTC R8615
+
+
+
+
+
+ocm 13736675
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Poor Robins Character of France, or, France painted to the life in a brief dialogue of the description of that nation, their manners, customs, complements, language, discourse &c. : as also, an exact character of the city of Paris, of their gentry, peasants, women &c. / by Poor Robin ...
+Poor Robin.
+Winstanley, William, 1628?-1698.
+31 p.   
+
+
+London :
+
+
+[s.n.],
+
+
+1666.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+France --  Description and travel.
+France --  Description and travel --  Early works to 1800.
+Paris (France) --  Description and travel.
+2005-08
+TCP
+Assigned for keying and markup
+2005-08
+Aptara
+Keyed and coded from ProQuest page images
+2006-01
+Emma (Leeson) Huber
+Sampled and proofread
+2006-01
+Emma (Leeson) Huber
+Text and markup reviewed and edited
+2006-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P2878
+
+
+13736675
+
+
+101631
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POOR ROBIN'S
+
+CHARACTER
+OF
+FRANCE:
+OR,
+
+FRANCE
+ Painted to the Life. IN
+A BRIEF DIALOGUE
+OF THE
+Description of that Nation, their Man∣ners,
+Customs, Complements, Lan∣guage,
+Discourse, 
+&c.
+ AS ALSO,
+An exact 
+Character
+ of the City of 
+Paris,
+
+of their Gentry, Peasants, Women, 
+&c.
+ By 
+POOR ROBIN,
+ Knight of the
+Burnt-Island, a Well willer to the
+French Taylors.
+
+
+London,
+ Printed in the Year 1666.
+
+
+
+
+
+
+
+
+To the Judicious READERS.
+
+
+Gentlemen,
+
+
+I
+ Here present you with a Dish of Dainties, I assure you
+you no 
+Kickshaws,
+ though drest after the French mode.
+To describe that people aright, a man must have in him
+extraordinary of the Mimmick, and therefore I would desire
+the Reader in the perusal of these Lines, to adde to them
+something of action; for it is impossible to personate a
+French-man aright, unless he with it play the Antick:
+My request therefore is to all those who shall read this 
+ook
+in Taverns, Ale-houses, or Coffee-houses, to have a special
+care therein, that I may not be murthered in my own Lines,
+but to adde to it a graceful shaking of the head, drawing back
+the legs, and thrusting out the shoulders, and then it will
+be 
+ala mode France.
+ If all the humors I have writ of them
+do not suit patt to the Nation the same time you read this,
+you must impute it to the fickleness of those people, whose
+inconstancy is such, that let me now write never so real a
+truth of their Garb or Clothes, though the Author and
+Printer make all the haste imaginable, they will be in another
+fashion before the Book can be published, that a Taylor may
+as well take measure of a Garment for the Moon, as an Au∣thor
+to describe the Habits and Fashions of that People. So
+now Reader, having told you at the door how you are to be∣have
+your self, if you please walk in and see the Show.
+
+
+
+
+
+
+
+
+
+
+
+
+POOR ROBIN'S
+CHARACTER
+OF
+FRANCE.
+
+
+
+
+English-man.
+
+
+GOod morrow, 
+Monsieur.
+
+
+
+
+
+
+French-man.
+
+
+Tres humble Serviteur, Monsieur.
+
+
+
+
+
+
+English-man.
+
+
+What makes you stirring so early this morning?
+
+
+
+
+
+
+French-man.
+
+
+No ting, but me owe de leetle mony to de Hoastess, and de pocky-hora
+vill no stay, but send vor de Shargeant, dat scare me worss den de Tif∣fell;
+begar me sooner see de Tiffel den de Shargeant, me be de sush
+Bird vas vill no sing in de Cage: fish vay sall me take to be safe? me
+mus come no near de Hoastess, me goe in de 
+France,
+ den 
+futra
+ vor de
+Shargeant.
+
+
+
+
+
+
+English-man.
+
+
+And what Calling do you intend when you come into 
+France?
+
+
+
+
+
+
+French-man.
+
+
+Ah, me have de brava Calling in de Varle, me play ode 
+Fidle,
+ me
+teash a to Dance, O so rare, so rare! begar 
+London
+ vill de undone
+when me be in de 
+France:
+ Begar you no ave de autre man in all de Shitty
+so brave fellow as me selfe; yet begar me no shuse but run, de pocky
+Shargeant doe scare a me so.
+
+
+
+
+
+
+English-man.
+
+
+Indeed a Fidler in 
+France
+ is a man of a very high repute, for I
+remember about five years ago being in your Countrey at a town
+
+
+not far distant from 
+Orleans,
+ whilest I and the rest of my compa∣ny
+(amongst which was a 
+Fille de Joy
+ of 
+Paris
+) were at Dinner,
+there entred into our Room three of these uncouth fellows, with
+Flats on their heads like cover'd Dishes, and in such a garb as our
+Countrey-men use to clothe Poles wherewith to affrighten Crows
+from eating their Corn, being for the most part pinn'd together,
+and the rest fastened with here and there a stitch, so that they
+were 
+a la mode de Tatterdemallion.
+ At the first sight of them I
+cast one eye on my Cloak, and the other on my Sword, as not
+knowing what occasion I might have of the one, to desend the
+other; for by their insol
+nt int
+nsion and sa
+cy boldness, I could
+not imagine them to be other than Thieves: but when I took a
+more strict survey of their Apparrel, I soon alter'd that opinion,
+and rather guess'd them to be the Excrement of a Prison, though
+it soon appeared that I was alike deceived in my thoughts, they
+being neither better nor worse than errant Fidlers. These fel∣lows,
+though such as we in 
+England
+ should not hold worthy of the
+Whipping-post, without leave, and without reverence on their
+parts performed, fell to their work, abusing our ears with such an
+harsh Lesson, that one of our School-boys playing on the 
+Jews-Trump
+
+compared to this, might have been taken for the Musick
+of the Spheres: but as if this had not been punishment enough un∣to
+us, they must needs adde to it one of their Songs, but then
+how did I bless my self in the remembrance of our Ballad-singers
+when they Chant the Tunes of 
+In Summer time,
+ and 
+Ch
+vy-Chase!
+
+Now though I understood not French perfectly yet by that little
+I had, and the simpering of the 
+Fille de Joy,
+ I perceived it was
+Bawdy, yea, such as could not patiently be endured by any but a
+French-man.
+
+
+
+
+
+
+French-man.
+
+
+Begar you be de Rouge to speak sush ting of de French-man, no pee∣ple
+in de varle dat do sing like unto dem; begar me should by de prate
+tink dat dis drunk, but dat me no see stagger.
+
+
+
+
+
+
+English man.
+
+
+But 
+Monsieur,
+ give me leave to proceed in my Story: what to
+do to be rid of these fellows I knew not, for I knew not how to
+call them Rogues handsomly in French, and for other Languages
+
+
+they understood none, and to beat them, they were Villains of
+such an inferior quality, as indeed was not worthy of mine or any
+honest mans anger; a knot of Rascals so infinitely below the se∣verity
+of a Statute, that they would have discredited the Stocks;
+and to have hang'd them, as it would have hazarded the reputa∣tion
+of the Gallowes, so it would have been unprofitable to the
+Executioner, their Clothes being onely fit for the Rag-woman;
+it would have puzzled a man in a whole years time to have studi∣ed
+a Vengeance for them which they would not have injured, in
+the suffering the greatest torment one could inflict on them, be∣ing
+not to hearken to their Ribaldry. But to proceed, after their
+Song was ended, one of them pulled a Dish out of his pocket,
+and set it before us, into which we were to cast our Benevolence,
+which by custom (you know 
+Monsieur
+) is but but onely a Soll from
+every man; such a rare Calling it is to be a Fidler in 
+France!
+
+
+
+
+
+
+French-man.
+
+
+Begar me be no sush Fidler, me be de Mushishaner, dat play to de
+Lords, to de Ladies; me goe brave in de Parrell, me kish de Shamber∣maid,
+me lye wid de Kitchen-Wensh, but if me get her wid Shilde, O
+Diabolo, vat sall become of me den?
+
+
+
+
+
+
+English-man.
+
+
+It is but shifting into another Countrey, you know Fidlers and
+Beggars are never out of their Sphere. I suppose it is impossible
+for you to be lowsie you shift so often.
+
+
+
+
+
+
+French-man.
+
+
+Begar me go to 
+Parry
+ de brav
+ Shitty in de varle, dis Shitty is no
+compare wid 
+Parry,
+ no more den de Bushers knife is wid a long Tord.
+
+
+
+
+
+
+English-man.
+
+
+Indeed 
+Monsieur
+ your Comparison is very suitable, if by your
+last word you mean 
+Paris,
+ as I suppose you do; the onely stink of
+which place being a greater strength unto it, and more powerful
+to keep out an Enemy, than the Ditches or Bullwarks round a∣bout
+it; well therefore may it be said to be the strongest Town
+in Christendom, if we take the word (strong) in that sense, as
+when we say, such a man hath a 
+strong breath;
+ for otherways it is
+so weak, that if the stink of the streets keep him not out, there
+is no assurance to be looked for of the Walls: But that which is
+
+
+most admirable, is, that in such a perpetuated constancy of stinks,
+there is also such an admirable and distinct variety, that a Chy∣mical
+Nose after two or three perambulations, would hunt out
+b
+inde-fold, each several street by the smells, as perfectly as an∣other
+by his eye in a serene Skie at noon day.
+
+
+
+
+
+
+French man.
+
+
+Par ma foy de tell loud lye, begar 
+Parry
+ is so brava dat no express
+it, begar be Son of Debastalder to say 
+Parry
+ tinks, when it is sweet as
+de Rose, and de brava Houses in de varle.
+
+
+
+
+
+
+English-man.
+
+
+I confess your Houses in 
+Paris
+ are very handsom to the street∣ward,
+but for the Furniture within, they come very much behind
+ours; the French men most commonly carrying all their wealth
+on their back, so that when they are in their best Clothes, they
+may be said to be in the middle of their Estates, when the poorest
+Trades man in 
+London
+ hath his Plate to drink in, and is served up
+with his Pewter-dishes of several sorts, your Artisans of 
+Paris
+
+coming so far behinde them, that they would be glad of meat
+(could they but reach to the price of it) although it were in a
+Wooden Dish.
+
+
+
+
+
+
+French-man.
+
+
+Begar de Artisan of 
+Parry
+ be de brava fellow, de Engliss Taylor be
+noting, de make Breech vit vor de Plough-man, 'tis not 
+ala mode France:
+
+De France Taylor trick de Clown up so rara, make him zhow like de
+Gentil-man. De Engliss Barber Trim make man like de Goate.
+
+
+
+
+
+
+English-man.
+
+
+The French Barber trims so as makes a man look like a Mon∣key,
+come 
+Monsieur
+ I must help you out with it: You French men
+are indeed excellent fellows for Toys, very perfect at Tooth∣picks,
+Beard-brushes, and Gentle womens Fans; but in other more
+substantial Trades how infinitely short do you come of the Eng∣lish?
+Your Cutlers make such abominable and fearful Knives, as
+would grieve a mans heart to see them, enough almost to make
+one loathe the Victuals that should be cut by such mis-shapen In∣struments.
+And your Glovers are worse than your Cutlers, for
+you would imagine by their Gloves, that the hand for which they
+were made, were cut off by the wrist. And what excellent work∣men
+
+
+your Painters are, may be seen by the Signes hanging over
+each door in 
+Paris
+ for a distinguishment, as with us at 
+London:
+ but
+so hideously are these made, and so little resembling the thing sig∣nified,
+that if a Hen did not scrape better Pourtraitures on a
+Dunghil, I would be bound to eat no other meat but of a French
+paisant womans dressing during life, which would be a torment
+next to starving; very convenient therefore is it that they have
+it printed in Capital Letters under every Sign what it is, for fear
+the Spectators should take a Cock for a Bull, or a Pigg for a
+Goss-hawk.
+
+
+
+
+
+
+French-man.
+
+
+Me can no longra endure to heare 
+Parry
+ de brave Shitty in de varle to
+be so degraste.
+
+
+
+
+
+
+English-man.
+
+
+A brave City indeed, and of a strange composition, wherein a
+man cannot live in the Summer for fear of being poisoned with
+the stink, nor in the Winter for the like danger of being mired
+with the dirt.
+
+
+
+
+
+
+French-man.
+
+
+Begar if de speak so false of 
+Parry
+ de brava Shitty, vat will de den
+doe of de Countrey!
+
+
+
+
+
+
+English-man.
+
+
+For your Countrey, I must confess indeed the soyl thereof is
+enough plentiful, stored with Corn, Beasts, and Fowls; but alas,
+what is that to the poor peasant, who onely beholdeth it with his
+eyes, seldom or never so much as tasting it with his mouth; a
+Capon or Rabbit being almost as unlawful for these miserable
+Creatures to eat, as it was in the Old Law for any but the Priests
+to eat Shew-bread. I believe one of your Countrey Taylors has
+but an ordinary Trade with them, they thinking themselves hap∣py
+if in their apparel they can but mount to Canvass, for wool∣len
+Cloth is beyond the reach of their purse, and he that aspires
+to Fustain, will not stick to justle for the best place in the Parish,
+even to that of the Church-warden: For Hats they will be sure
+to have them, though their Bellies pinch for it, and that it may
+appear they have them, they alwayes keep them on their heads.
+I suppose they are great Enemies to Hosiers and Shooe-makers,
+
+
+because they seldom wear any Shooes or Stocking;, but such as
+Nature furnishes them withal, unless it be on some principal Ho∣ly-day,
+when they will be sure to go to Church.
+
+
+
+
+
+
+French-man.
+
+
+Vat dis de speak of de p
+isant, begar de paisant be de Clown in all
+Country, but de France Gentilman is de brave Gentilman in de varle.
+
+
+
+
+
+
+English-man.
+
+
+What is spoken of your Nation in general, that they are won
+with a Feather, and lost with a straw, may more particularly be
+applyed to these your 
+de brave Gentil men,
+ who at fi
+st sight will
+be as familiar with you as your sleep, and follow you as doth your
+shadow; but upon the least distaste, for a word speaking they
+will draw their sword: They are brave fellows at a first On-set,
+begin an action like thunder, and end it in a smoke, at the first
+encounter more than men, in the close thereof less than women.
+They are very Complemental, and full of their Court Cringes,
+without which none is accounted a Gentil-man. At my first co∣ming
+to 
+Paris,
+ one of these Monsieurs add essed himself to me,
+carrying his head as if he had been ridden with a Martingal, then
+did he draw back his legs, and thrust out his shoulders in such a
+ridiculous posture, that made my Worship to laugh heartily to see
+the Ape out-done by the French-man.
+
+
+
+
+
+
+French-man.
+
+
+Begar me can forbeare no longra, de Rouge, de Rascal, de Jack-napes,
+compare de France-man ala moda, to de Ape, begar fleesh, blood, spee∣rit,
+na de Saule can no suffer dis; par ma foy de thrush Tord in de heart
+bleed if de speak dis.
+
+
+
+
+
+
+English-man.
+
+
+Monsieur,
+ not so angry, we know the temper of your Country∣men
+well enough, though you will draw the Sword on the least
+distaste, a minutes pause sheathes it again, then if a man beats
+you into better manners you will take it kindly, kiss your hand,
+and cry 
+Serviteur.
+ I must confess at first when I came to 
+Paris,
+ I
+did much admire the gallantry of your Nation, thinking no place
+in the world comparable to it for Nobility and Gentry, until at
+last one foul mistake rectified my judgement, which was this:
+There came to visit a Scotch Lord of my acquaintance a French
+
+
+Gallant, who had on him a Sute of Turky Grogram doubled
+with Taffata, 
+asht after the French fashion, and belayed with
+Bugle-lace, a Shirt of pure Holland appearing through the open∣ings
+of his Doublet, which was likewise wrought with curious
+Needle-work; the Points at his Waste and Knees (for so the fa∣shion
+there then was) alledged with a Silver-edging; his Garters,
+Roses, and Hat-band sutable to his Points; a Beaver Hat, and a
+pair of Silk-stockings; his Cloak also of Turky Grogram cut up∣on
+black Taffaty. This man by his Habit I guessed to be no less
+than a Lord, (for who would have imagined 
+Aesops
+ Fable to have
+been a real truth, that the Ass was drest up in the Lyons skin)
+and according to the man that I imagined him to be, I gave him
+the Stile of 
+My Lord
+ at every word. After some discourse, he see∣ing
+me to clap a Handkerchief to my cheek, and to make a kinde
+of a sowre face, asked me what I ailed? I told him I was very
+much troubled with the Tooth-ache. Alas, said he, that is a grie∣vous
+pain, but ca
+l on me at my Lodging the next morning, and I
+shall presently give you ease: I humbly thanked his Lordship for
+such an immense favor, with the greatest obeysance I could de∣vise;
+and the next morning somewhat before the time appoint∣ed,
+sent my servant for a Barber to trim me and make me neat,
+because I could not tell what occasion I might have of seeing his
+Lady, or his Daughters. This Messenger chanced to happen on
+his Lordship, who was no other than a Barber; but when I saw
+him come in with his Apron before him, and pulling a Case of In∣struments
+out of his pocket, bless me! I thought I should have
+split my self with laughing, had not the consideration of my own
+folly, of being so obeysant to him the night before, something re∣strained
+me. His Lordship, though he guessed the cause of my
+extraordinary mirth, yet fell to work about me, to the earning
+of a 
+Quardesou,
+ and indeed he was very dexterous in his Art, and
+soon made my Chin 
+ala mode;
+ then would he have proceeded to
+to the pulling out of my Tooth, but the pain being now some∣thing
+abated, I told his Lordship I would retain it in my head a
+little longer: wherefore pocketing up his 
+Quardesou,
+ with a low
+cringing, and less courtesie on my part than before, his Lordship
+departed.
+
+
+
+
+
+
+
+
+French-man.
+
+
+Begar dat vas brave, de France Barber couzen de Engliss-man,
+begar me no shuse but laugh till de burss: O de France Barbers be de
+brave fellows in de varle, but where den did thee goe ven de went
+from 
+Parry?
+
+
+
+
+
+
+English-man.
+
+
+A Friend and I having a great desire to see the Countrey, we
+took Post-horse, intending for 
+Amiens,
+ but might as good have
+been mounted on a Post, as on such Jades; as lean they were as
+
+Envy
+ is by the Poets feigned to be, having neither flesh on their
+bones, nor skin on their flesh, nor hair on their skin; neither was
+it so alone, that their bones might be numbred through their skin,
+but the Spur-galls had made such Casements in their flesh, that an
+ordinary Farrier might have known what Diseases they were trou∣bled
+with, by surveying their Entrails. They were very easie to
+be mounted, and there was no great fear of melting them by over∣riding,
+surely 
+Don Quixot
+'s 
+Rozinante
+ was a horse of State to
+either of these. Being thus mounted, and galloping a foot pace,
+in twelve hours we had ridden fourteen miles; night coming on,
+and a pretty big Town just before us, we resolved to lodge there,
+whert enquiring for one of the chief Inns, we were directed to
+the skelliton of a House, which in 
+England
+ would scarcely have
+passed for an Ale-house, and yet there it was an Inn, ay, and an
+honorable one too: Alighting at the door, the Hoast of the house
+came out unto us, at first sight I took him to be one of the three
+Fidlers I told you of before, a pitiful ragged, shabby fellow.
+
+
+
+
+
+
+French-man.
+
+
+Dat is no honest to de grase French Inns, de base Guest dat raile on
+de Hoast; begar de French Inns be more good den de Engliss Inns, ver
+in de French Inns is de brave vine, but in de Engliss Inns is no ting
+but de Beere
+
+
+
+
+
+
+English-man.
+
+
+But 
+Monsieur,
+ notwithstanding your Wine, I suppose our ordi∣nary
+Ale-houses are a story higher praise worthy than your Inns,
+as may appear by the description of this, and by which you may
+give a guess at the rest. No sooner were we alighted, but our
+Hoast (the ragged fellow I told you of before) conducted us to a
+
+
+room, somewhat resembling a Charnel-house, being full as dark
+and as dampish; on one side whereof was a pretty big hole, which
+formerly had been a Glass-window, but the Glass being gone it
+was for the most part stopped up with Pease straw: In this room
+was the resemblance of three Beds, for by their description you
+will say it was improper to call them Beds; the foundation of
+them was of straw, which not having been shifted in many a year,
+it was so infinitely thronged together, that the Wooll-packs which
+our Judge sit on in the Parliament, were melted Butter to them.
+Upon this lay a large Bag containing a Medley of Flocks and Fea∣thers,
+but so ill ordered, that they stuck out of the sides like to the
+knobs of a Crab-tree Cudgel; the Sheets on those Beds were
+
+party per pale,
+ a mean betwixt white and black, and so course, that
+a Mariner would have disdained to have used them for a Sayl; the
+Coverlets were alike answerable to the rest of the Bedding, here
+a hole, and there a patch, and for Curtains and Valances, my
+Landlady had disrobed the Beds of them two years before, to make
+she and the kinde natured Gentleman her Husband, Clothes of
+them.
+
+
+
+
+
+
+French-man.
+
+
+Begar if de make Cloase of de Curtans a
+d de Vaylance, den de
+look like de Jack Pudding.
+
+
+
+
+
+
+English man.
+
+
+Having taken a view of the Furniture of this Room, seeing eve∣ry
+thing so nasty, I supposed it was impossible to finde any Vi∣ctuals
+there; and that if our horses were the Pictures of 
+Envy,
+
+this place was the Receptacle of 
+Famine:
+ But see how I was mi∣staken
+in my thoughts! for my Hoastess (whose head was wrap∣ped
+about with a dirty Dish-clout) had for our Suppers cut the
+throat of a Pullet, and tearing it in pieces with her hands, she af∣ter
+that took away Feathers and Skin together, stripping it as we
+strip Rabbets in 
+England,
+ then clapping it into a Pan, it was soon
+fryed and set upon the Table; the Napery belonging to which was
+suitable to the Bedding, as foul and as dirty, my Landlady being
+so provident a Creature, she would not have it worn out with of∣ten
+washing. The Napkins were fit companions for the Clothes,
+
+
+which would rather foul ones fingers with whiping on them, than
+make them clean.
+
+
+
+
+
+
+French-man.
+
+
+Begar she were de Slu
+t dat no w
+sh Linnen till de tink, par ma foy
+de Shade va
+d bin hanged; bega
+ me could raile on her out of all
+de cry.
+
+
+
+
+
+
+English-man
+
+
+Nay 
+Monsieur,
+ you may as well rail on the rest as on this, for
+though some few of your Inns be not altogether so wretched, yet
+is the alteration almost insensible.
+
+
+
+
+
+
+French-man.
+
+
+Begar de lye dere be brave Inns in 
+France,
+ in 
+Paris,
+ in 
+Roven,
+
+&c. one, twa, tre stories high, where de Hoast goe like de Gentil∣man,
+and de Hoastess like de Madam.
+
+
+
+
+
+
+English man.
+
+
+I speak not of your Inns in 
+Paris,
+ nor some other great Cities,
+but of those in the Countrey, which are generally such as this, and
+therefore 
+Monsieur,
+ give me leave to go on in my Story. The
+Meat being on the Board, we fell unto it, hunger making us the
+better able to digest the Nastiness of the Cookery: After Sup∣per,
+desirous to go to Bed to refresh our Bodies, weary with ri∣ding
+on those tyred Jades, we called for a 
+Chamberlain,
+ but you
+might a good have spoken Greek to them, none of them under∣standing
+what a Chamberlain was: at last came a fellow with some
+patches hanging on him, but for the most part open to the skin,
+who having pulled off our Boats, presently had recourse to the
+Coverlet to wipe them, and having rubb'd one side a little, left the
+other part to be finished by us if we would have it; it was enough
+for him that he had written the Copy. Thus forced to make a
+Law of Necessity, we lay till morning, not making extraordinary
+haste out, lest perchance we might have lost the sight of my Hoa∣stess
+and her daughters; they were not very hard to be known, for
+at the first blush a stranger might swear that they were of a blood,
+and indeed it had bin great pity had it bin otherwise. Not to ho∣nor
+them with a further Character, let it suffice to know, that their
+persons kept so excellent a decorum with the house and furniture,
+that it was great pity they should be parted.
+
+
+
+
+
+
+
+
+French-man
+
+
+Begar me no vill stay if de speak so; Oh Mordien, we sall shitt
+me selfe to heare do parte, and den vill they say dere is de shitten
+French-man.
+
+
+
+
+
+
+English-man.
+
+
+Well then, 
+Monsieur,
+ to take my leave of this Inn; being about
+to depart, we had such a throng about us of those ill-favoured fa∣ces,
+and every one chiming out this Ditty, 
+Pour les Servant,
+ that
+one might with greater ease have distributed a Dole at a rich mans
+Funeral, than to give them a penny, their importunity, be you
+never so hasty, will forestal your Bounty; yet their ambition is
+not so high: after all this impudent begging, they expect but a
+Soll, and he that gives them more out-bids their expectation, and
+shall be counted a Spend-thrift.
+
+
+
+
+
+
+French-man.
+
+
+Begar me vill stay no longra, de be sush time taking leave of de
+Inn, dat de might in dat time have rid fife, sex, sefen mile.
+
+
+
+
+
+
+English-man.
+
+
+Well then, to proceed: Being mounted, and riding very softly
+according to the Genius of our horses, at the end of the Town
+we came to a great Green, and it being then a petty Holy-day,
+there was assembled on the Green a Miscelany or Gallimaufry of
+all ages and conditions on purpose to dance.—
+
+
+
+
+
+
+French-man.
+
+
+Begar me mush speak now: O de dance, de skip, de fidele, par ma
+foy de brava ting in all de varle.
+
+
+
+
+
+
+English-man.
+
+
+It seems your Nation does naturally affect it, not onely the
+poor Peasants, but also the Gallant Monsieurs and Damoseils;
+for here were assembled both Youth and Gentry, Age and Po∣verty,
+the Rags interwoven with the Silks, and wrinkled Brows
+interchangeably mingled with fresh Beauties. Those whom age
+had forced to walk with a staff in the street, here taught their feet
+to measure out the paces of a Dance, and others that had been
+long troubled with the Sciatica, though they could not trip it so
+nimbly, yet would enfo
+ their feet to hobble. Some of them
+were so ragged, you would have thought that a swift Galliard
+
+
+would almost have shaked them into nakedness, and yet would
+they venture the loosing of their Clothes for the gaining of a
+Dance. Nay, those whom either Age or other Infirmity had not
+permitted to go, yet would be carryed thither in their Chairs, to
+behold the Pastimes, and tread the measures with their Eyes; to
+perswade them to stay at home when they heard the Fidle, was to
+seek to empty the Sea with a spoon, or to perswade a 
+Lutners
+
+Love-Lady to become a Nun.
+
+
+
+
+—A work so great,
+
+
+Would make 
+Olympus
+ bearing 
+Atlas
+ sweat.
+
+
+
+
+
+
+
+
+French man.
+
+
+O de brave exercise in de varle, begar no ting is wid it de com∣pare.
+O de brave shite to heare de Fidele, to see dem dance, to leap,
+to skip.—O dat me were amongst dem.—
+
+
+
+
+
+
+English-man.
+
+
+That which to you is so pleasing, soon wearied us, wherefore
+we took our leaves of them, and proceeded on in our Journey, and
+about Noon came to another Town somewhat bigger than a Vil∣lage,
+and comparable to the worser sort of Market-Towns in
+
+England,
+ distant from the place where we lay before, about five
+miles, (for we rid very hard, and spared not for Horse-flesh) here
+we resolved to bait both our selves and our horses, and to that
+purpose singled out an Inn where we expected to finde best ac∣commodations,
+and indeed we thought we had found a great pur∣chase,
+for there it was our fortune to meet with a Rabbet, larded
+it was, as all meat is in that Countrey, otherwise it is so lean it
+would be burnt up ere it could be roasted, it was served up with
+the feet on, and the reason of the custom thereof in that Country
+is (I conceive) that being a frugal Nation, they would make them
+go the further. The sight of this Dish gave us great content, but
+when we came to eat thereof, it proved so tough, that I verily
+think it was no more than two removes from that Rabbet which
+was in the Ark; but though it proved so bad in the eating, the
+price thereof was good enough, no less than Half a Crown Eng∣lish.
+My Companion thought it to be very dear, but I adjudged
+otherwise, for certainly the Grass which fed it was worth more
+than eight times the money.
+
+
+
+
+
+
+
+
+French-man.
+
+
+Begar some men do tink meat is no good if dat it be no deare, par
+may foy vould me had it present, me could eat it, vor me is very
+angry.
+
+
+
+
+
+
+English-man.
+
+
+Nay 
+Monsieur,
+ if you be so angry that you grow quarrelsom,
+I shall beat you into better manners.
+
+
+
+
+
+
+French-man.
+
+
+Begar me no say quarrelsom, me be angry, dat is, me could veede
+on de Rappit.
+
+
+
+
+
+
+English-man.
+
+
+O cry you mercy Sir, now I understand ye, I suppose you are
+better to feed than to fight; but alas, Rabbets are too dainty meat
+for French Peasants, for in that rank I must place ye, though now
+you have got on a borrowed Garb of English Feathers, but when
+you come amongst your fellows, you must then be glad to do as
+they do, your Bread of the coursest flour, and so black that it can∣not
+admit of the name of brown, and for drink have recourse to
+the next Fountain, content onely with so much as is sufficient to
+keep you from the extremities of Cold and Famine.
+
+
+
+
+
+
+French-man.
+
+
+Begar be de R
+gue to call me Paisant, me be de Gentilman Mu∣shishaner,
+me be de Compaigne vor de Lord, vor de Madam, me fi∣dele
+vor de Gentilman, and at de Weddin.
+
+
+
+
+
+
+English-man.
+
+
+Now you put me in minde of a Wedding, I must tell y
+ of one
+that I saw once at 
+Orleans,
+ where at my going into the Town, I
+met with Mistriss Bride coming from the Church: The day before
+she had been somewhat of the condition of such as scowre Drip∣ping-pans
+in Great Mens houses, and went accoutred as those wo∣men
+that in 
+London
+ cry 
+Kitching-stuff
+ about the streets of the Ci∣ty:
+but now there was a strange metamorphosis in her, you
+would not believe she was the same woman, she was so tricked up
+with Scarffs, Rings, Cross-garters, Knots of Ribbonds, 
+&c.
+ that
+she was 
+a la mode France.
+ Now could the fellow have marryed
+onely her Clothes, I should have very much applauded his for∣tune,
+but it could not be so (God be merciful to him) he was al∣so
+
+
+chained to the Wench, much good may it do him with her, and
+much joy may they have together most peerless Couple.
+
+
+
+
+Sing,
+ Hymen, Hym
+n, O Hymenae
+,
+
+
+O Hymen, Hymen, Hymenaee.
+
+
+
+
+I would have a French man marry none but a French woman, for
+a fitter Match cannot be.
+
+
+
+
+
+
+French-man.
+
+
+Vat is dat de say? begar France weemen be de brave weemen in de
+varle.
+
+
+
+
+
+
+English-man.
+
+
+Now 
+Monsieur,
+ I shall speak something of what I observed of the
+women in your Country, and to begin with the Peasants, as being
+most in number: They are a sort of people which cannot say the
+least claim to any share of beauty, so that she which with us is rec∣koned
+amongst the vulgar, would be amongst them esteemed for a
+Princess, quite contrary to the women in 
+England,
+ where you have
+many thatched Cottages that harbour such Beauties, as would
+tempt 
+Jupiter
+ from his Throne to court them in a golden Showre.
+Answerable to their Beauty is their Attire, their head being wrap∣ped
+about with an old Dish clout turned out of service, or the cor∣ner
+of a Table-cloath reserved from washing; the goodness of
+their faces tells us that that is sufficient, for why should the back∣part
+of their head be handsomer than the fore-part? They have no
+need of Masks, and the Bacon-rined colour of their faces tells us
+that they were strangers to Bon graces when they were children.
+As concerning Petticoats, they have all of them such a kinde of
+Garment, but most of them so short, you would think them cut off
+at the Placket; Now when the Parents have worn them till such
+time as the rottenness of them will save a labor of undressing, they
+are a nevv cut out and fitted for the children, by vvhich time they
+have done vvith them, they speed to the dunghil, being scorned to
+be taken up by the Rag-vvoman. For shooes and stockings they
+take no great care for, few of them ever had above one pair in all
+their lives, and vvhich they vvear every day, being very durable.
+In this degree hath Nature placed them, and the greatest happi∣ness
+that they do enjoy, is that they are contented vvith the same.
+
+
+
+
+
+
+
+
+French-man.
+
+
+But vat is dis of de Paisant to de France Gentil woman.
+
+
+
+
+
+
+English-man.
+
+
+Well, next I will speak somthing of the middle sort of wo∣men,
+or such as live in Cities and great Towns, (for I shall for∣bear
+to mention the Court, as being above my sphere) of these
+sort of women there is much difference from the Peasants; but
+in what? surely nothing but in attire, otherwise Nature hath
+not been over prodigal to them for beauty, so that 
+Don Quixot
+
+did not so deservedly assume to himself the title of 
+The Knight
+of the ill favoured face,
+ as they may that of the 
+Damosels
+ of it;
+The most comly and best proportioned part about them is their
+hands, long, white, and slender; but scarce shall you see one
+of a hundred, whose wrists, and betwixt their fingers is no
+
+all over-run with a scab like to a leprosie. Their dispositions
+hold good correspondency with their faces, and suit as well as
+a Toast and Nutmeg doth with a pot of Ale in the depth of Win∣ter,
+all which you will swear to be truth, when you once come
+but to hear them speak; no better Character being to be ga∣thered
+of them, then from their prating, which is so tedious
+and infinite, that you shall sooner want ears than they Tongues;
+set but their Tongues once a going, and they are like to a
+Watch, you need not winde them up above once in twelve hours,
+for so long will the Thread of their discourse be in spinning,
+such everlasting Talkers are they all, that they will sooner
+want breath then words, there being no wayes to silent them,
+but only to go out of their Companies. But were this only to
+some of their Familiars, it were the more tolerable, but stran∣ger
+or acquaintance, all is one, though indeed no man is to
+them a stranger, for in two houres time you shall have them as
+familiar, and as merry with you, as if you had been of their ac∣quaintance
+seven yeares, or bred up in a house together ever
+since you were born; Now though I cannot condemn any of
+them of dishonesty, as having had no such experience of them,
+yet to an Englishman such sudden affability argues somwhat of
+a confident boldness, to say no worse. I remember, the first
+time I came to 
+London,
+ being but a young Novice, scarcely wri∣ting
+
+
+
+Man,
+ passing through 
+Luteners-lane,
+ a Gentlewoman stand∣ing
+at the door accosted me with these words, 
+How do you Sir,
+I am heartily glad to see you well, how have you done a long time?
+
+Seeing so beautiful a Lady, with black patches on her face, and
+drest 
+Alamode de France,
+ thus to salute me, I could not chuse
+but admire; 
+Madam,
+ said I, 
+do you know me? alack
+ (Sir said she)
+
+pray come in and let us discourse together:
+ but notwithstanding
+her bold invitation away I went, and coming to my Lodging,
+relating the story, Sir, said one to me, you must have a care of
+such Creatures, for notwithstanding their brave Garbe, they
+are no other then common Strumpets. This sudden fami∣liarity
+of the French-women made me to remember this
+story. for—
+
+
+
+
+
+
+French-man.
+
+
+Begar be de Rogue, de shallenge de feeld, compare de
+French Madam to de 
+Lutener-lane
+ pocky-hora; begar me no
+shuse but feight up to de nose in plood; begar me can no dure
+dis.
+
+
+
+
+
+
+English-man.
+
+
+You fight, you sh—think you with high words to daunt
+me? do not I know the Nature of your Country men better
+then so? how in one thing they very much resemble the De—
+meekness or submission maketh them insolent, but a little
+resistance putteth them to their heels, or makes him your
+Spaniel.
+
+
+
+
+
+
+French-man.
+
+
+Begar me tink no hurt, though de speak so. Tres humble Serviture
+Mounsieur.
+
+
+
+
+
+
+English-man.
+
+
+Then to proceed in my story concerning the French women.
+They are abundantly full of laughter and toying, and have al∣ways
+in store some lascivious songs, which they refuse not to
+sing in any company, so that a stranger would think modesty
+were quite banished the Kingdom, or rather that it had never
+been there; and whereas women in other Countrys are most
+ashamed to discourse of those parts which makes them women.
+These French Dames will talk of them, even before men, as
+
+
+broadly as a Midwife, or a Barber-Surgeon. So that if that saying
+be true, that 
+Modesty is the best apparel of a woman,
+ I doubt many
+of the Female sex in 
+France,
+ must go thinly clad, and a great many
+of them quite naked.
+
+
+
+
+
+
+French-man.
+
+
+Begar dere be but some dut be so bad as de peak of.
+
+
+
+
+
+
+English-man.
+
+
+Truly I saw but little difference amongst them, it is an
+Epidemical disease, both Maids and Wives, Madams and
+Damosels, Rich and Poor, alike sick of it, if there were any
+difference, it was onely in this, that those who were highest in
+their places and callings, were likewise highest in this lightsom
+vein of ribaldry.
+
+
+
+
+
+
+French-man.
+
+
+De speak of de Common hora, but de Fransh Gentilwoman be no
+sush.
+
+
+
+
+
+
+English-man.
+
+
+God forbid I should condemne every one of them, though
+they generally be so, but for them you call 
+Common whores, I
+
+must rank them in a degree by themselves; It was my fortune
+once to be in the company of two of these 
+Fille de joyes,
+ but
+never since I first knew mankinde and the world, did I observe so
+much impudence in the general, as I did in these two; so au∣daciously
+bawdie in their discourse, that even any immodest
+ear would have abhorred their language, and of such a shame∣less
+deportment, that their very behaviour would have fright∣ed
+lust out of the most incontinent man living, but a 
+French∣man.
+
+In a word, they were Wenches able to have shamed all
+the Friers with whom they had trafficked, for they would not be
+
+cast-a,
+ and could not be 
+caut-a,
+ and so I leave them, for me∣thinks
+my discourse of them is unsavoury, but he that rakes in
+filthy puddles, must be sure to meet with nasty stinks.
+
+
+
+
+
+
+French-man.
+
+
+Begar de hora be over all de varle, dere be de creat many in de Lon∣don,
+me go in de Turnbull street, me go in de Neetingale lane me go
+in de Rosemary lane, me go in de Ra-ra-ratcleefe high way, me go to
+Damaris Page, me sure doe find pocky-hora, me veele it in my bones.
+
+
+
+
+
+
+
+
+English-man.
+
+
+Ha 
+Mounsieur,
+ have you got a Clap with a 
+French
+-Fiddle.
+
+
+
+
+
+
+French-man.
+
+
+Begar me no deny it, me pay Shurgeon one, twa, tree pound var de cure.
+
+
+
+
+
+
+English-man
+
+
+I commend you 
+Mounsieur,
+ for your ingenuous acknowledg∣ment;
+but I having spoken so much of the 
+French
+-woman, I
+think it convenient to say somthing of the men, for pity it is
+they should be parted.
+
+
+
+
+
+
+French-man.
+
+
+Begar me will listen to dat, me love to heare of de France Gen∣til-man.
+
+
+
+
+
+
+English-man.
+
+
+As I said of the women, you might character them out by
+their discourse, so may I say of the men, you may look into their
+breasts by their talk, which most commonly runneth upon two
+wheels, 
+treason and ribaldry.
+ Never in my life did I hear
+people talk less reverently of their Prince, and as our Nation
+have been always addicted too much to your Apish fashions, so
+in our late times, when Rebellion was rampant, had they got
+too much of your unworthy custom of speaking irreverently of
+their King; but I hope that custom is out of use with us now.
+I wish it were so in 
+France;
+ where scarce a day passeth without
+some seditious Pamphlet printed and published, in disgrace of
+the King, or some of his Courtiers; the Contents of which
+Libels they will not spare to speak of in each place where they
+come; take them from this, (which you can hardly do till
+they have told all) and then they fall upon their ribaldry, re∣lating
+stories of their own uncleanness, with a face as confi∣dent,
+as if they had no accidents to please their Hearers more
+commendable. Never did valiant Captain more glory in the
+number of the Cities he had taken, then they will do of the
+several women which they have prostituted.
+
+
+
+
+
+
+French-man.
+
+
+Par ma foy me no dislike dat, me love to hear talk Bawdy de leetle,
+me be no shamed of dat, begar it does teekle my ling
+ to hear dit.
+
+
+
+
+
+
+
+
+English-man.
+
+
+Nay, I know that you are not only good to talk bawdy,
+but to act bawdily, and to boast of it too, as many of your
+Countrey-men have done, who having been at 
+London,
+ upon
+their return, report strange 
+Chimera
+'s of the 
+English
+ modesty;
+as what Merchants wives they enjoyed here, and in what fa∣miliarity
+such and such a Lady entertained them at 
+Westminster,
+
+when the poor fooles have been cozened with common Prosti∣tutes;
+and to this purpose I shall relate you a pretty story.
+A 
+French Mounsieur
+ coming over full pursed to 
+London,
+ be∣ing
+hot in the Codpiece as many of them are, desired a
+Cooler, but his ambition soared so high, that common beau∣ties,
+(such as those of 
+France
+) would not serve his turn; but
+he must have a rare one, no lesse then a 
+Phoenix;
+ and falling in
+acquaintance with a 
+French Pandar,
+ for a sum of money he
+promised him the enjoyment of a Lady, who was much fa∣moused
+for her beauty; the 
+Mounsieur
+ gladly hearkens there∣to,
+pays his money, and thinks every houre ten, till the pre∣fixed
+houre come. In the mean space the 
+Pandar
+ goes to a com∣mon
+Prostitute, instructs her in the business, they share the mo∣ney,
+and she takes upon her to imitate the Lady; a Coach is
+hired, (for a Cart m
+ght have been in danger of shaking her in
+pieces) the 
+Pandar
+ and she goes together, who conducts her
+to the 
+Mounsieur,
+ the 
+French
+ Gentilman courts her 
+alamede,
+
+swears he is her servant, and she with a seeming unwillingness
+at last condescends to his request, but whilest he is busie in
+his employment, she picks his pocket of his Watch, and three∣score
+pieces of gold, which as soon as she rises from the Bed, is
+strait conveyed to the 
+Pandar,
+ who all this while guarded the
+door. Upon the receit of the prize he is gone; but before the
+pretty Mob could make an escape, 
+Mounsieur
+ misses his Watch
+and his money, he stormes and chafes like a mad-man, mistrusts
+his Mob, but wonders a Lady of her quality, as he took her to
+be, would do such a thing. Necessity has no Law, she endea∣vours
+an escape, gets into the street, but 
+Mounsieur
+ overtakes
+her there, and layes flat felony to her Ladiship, presently an
+huburb is made, the Constable comes and carries them both be∣fore
+
+
+a Justice, the Frenchman challenges her Ladiship with his
+money, and she challenges him with a Rape; the Mob is searcht,
+but no money found; 
+Mounsieur
+ is askt again, if he would
+swear positively she pickt his pocket; he considers of it, and
+then says, 
+he was mistake;
+ but she being known to be a prime
+Trader in 
+Fleet-yard,
+ was sent to 
+Bri
+ewell,
+ and 
+Mounsieur
+ dis∣mist
+to go to borrow money to go to the Surgeon, of whom now
+he had great need.
+
+
+
+
+
+
+French-man.
+
+
+Begar me was serve sush a trick one, me go into 
+de Lutener-lane,
+
+de-brave Gentilwoman at de door call me in; me kiss her, and me do
+someting else, but when me was gone, me vent to de Ordinary to eat
+Veetle, ven me come to pay, all me mony vas gone.
+
+
+
+
+
+
+English-man.
+
+
+And how come you off with the Cook?
+
+
+
+
+
+
+French-man.
+
+
+Begar de Cook call me French Rogue, tell me de beat-me, me vas
+pray him to bè quiet, and me vild leave de tord for his reckoning.
+
+
+
+
+
+
+English-man.
+
+
+That was a right French trick, to eat up the Cooks meat, and
+leave him a a tord for his reckoning.
+
+
+
+
+
+
+French-man.
+
+
+Me do no mean de tord in de belly, me mean de tord dat hang by
+de side.
+
+
+
+
+
+
+English-man.
+
+
+Nay 
+Mounsieur,
+ it is pitty you should ever speak any thing but
+French, your Language being very agreeable to your Natures,
+which to be spoken with a grace, the head, body, shoulders must
+all concern in the pronouncing of it, and the many Proverbs
+wherewith it is furnished, makes it very significant to your Na∣tions
+humor of scoffing. Indeed it is very full of Courtship,
+which makes all your people so Complemental: The poorest
+Cobler in the Village having his Court-cringes, and his 
+Eau
+beneste de Cour,
+ his Court holy-water, as perfectly as the best Lord
+of them all.
+
+
+
+
+
+
+French-man.
+
+
+And vy shoole henot, begar 
+Franceman
+ be de all Gentilman.
+
+
+
+
+
+
+
+
+English-man.
+
+
+And that makes you in your ordinary discourse to bestow
+the highghest of titles upon those of the lowest condition, and by
+this reason the Beggar begetteth 
+Mounsieurs
+ and 
+Madams
+ to his
+sons and daughters, as familiarly as the King.
+
+
+
+
+
+
+French-man.
+
+
+Begar di
+ true or me be de hang.
+
+
+
+
+
+
+English-man.
+
+
+But on what Gibbit 
+Mounsieur
+ would you desire to be
+hanged on, for I observed in your Country there were seve∣ral
+sorts of them, every 
+Haute Justice
+ having his peculiar
+Gibbit, which were made wonderful methodically, by the
+criticisme of which you may judge of the quality of him that
+owneth it; for the Gibbit of one of the Nobles hath but
+two pillars, that of the Chastellan three, the Barons
+four, the Earls six, and the Dukes eight, so exact is
+your Nation that they observe a Mode even in their Gal∣lowses.
+
+
+
+
+
+
+French-man.
+
+
+But begar me no love hanging, me shuse to die in de straw,
+den be hang on de vine Gallowes in all de 
+France.
+ Begar
+den me mus eat no more quood Mutt, quood Beef, quood
+Lamb, 
+&c.
+
+
+
+
+
+
+English-man.
+
+
+Now you speak of Beef, Mutton, and Lamb, give me
+leave to tell ye some observations I made of your Cookery,
+and how your Gentlemens tables furnished, which though
+they come not nigh ours, yet are they beyond comparison
+above the Paisants. Their Beef they cut out into little chops,
+so smal, that what goes there for a laudable dish, would be
+thought here to be a University Commons, now served
+from the hatch. A loyne of Mutton serve amongst them for
+three roastings, besides the hazard of making pottage with
+the Rump. They have likewise store of Fowl, but such
+as the King found in 
+Scotland,
+ viz. foule napkins, foule
+table cloaths, &c. but to speak truth, that which they have is
+sufficient for Nature and a friend, were it not for the
+
+
+strange misteries of the Kitching-wench. Their Cooks are
+much famed for rare fellows, but their skill consists not in
+the handling of Beef, Mutton, and such like solid meats,
+but in the making of puff-pastes, kickshaws, and such fine
+devices, onely to fill the pallat, but not the belly, and so
+by consequence would make rare fellows in a Garrison, to cozen
+the belly, and feed the eye. Now if you can digest the sluttishness
+of the Cookery of (which is most abominable at the first fight)
+sit down and welcome, where you must say your own Grace,
+private Graces being there as ordinary as private Masses, and
+from whence (perhaps) they learned them. Grace ended,
+fall to where you like best, for they observe no order nor
+method in their eating, and if you expect a to have Carver, you
+may rise a hungry; thus are their Tables furnished, and
+think themselves served in as great state as King 
+Nebuchad∣nezars.
+
+
+
+
+
+
+French-man.
+
+
+Vat is dat you say,
+ No be gott no sir.
+
+
+
+
+
+
+English man.
+
+
+I said 
+Nebuchadnezar,
+ the name is something hard.
+
+
+
+
+
+
+French-man.
+
+
+Begar so it is; No, no, no, no be gott no sir.
+Eng. ne. Fr. ne. Eng. bu. Fr. bu. Eng. chad. Fr. chad Eng. ne.
+Fr. ne. Eng. zar. Fr. zar. now me have it, 
+Ne-bu-chad-ne-zar,
+
+begar me vil carry dis name into me Country var to cure de Tooth∣ake.
+
+
+
+
+
+
+English-man.
+
+
+And why may not that name cure the tooth-ach, as
+well as many cures which are ascribed to be done by Re∣liques,
+of which Reliques I saw divers of them at 
+St
+Denis,
+ a small town with a great wall, showing like all
+the world like a 
+Spaniards
+ little face in his great 
+uffe,
+or like a small chop of Mutton in a large dish of Pot∣tage
+at the th
+ee Penny Ordinary, at this Town in the
+Church of 
+ D
+nis, is sa
+d to be kept one of the naile
+
+
+
+Town in the Church of St. 
+Dennis,
+ is said to be kept one of the
+Nails which fastened our Saviour to the Cross, as also a piece of
+the Cross it self, though so many parts thereof are shown at several
+places, that were they all put together, would have broken the
+back of 
+Symon
+ of 
+Cyrene
+ to have carryed it. Here is also some of
+the Virgin 
+Maries
+ milk, the Arm of St. 
+Simeon
+ set in a Case of
+Gold, the Reliques of St. 
+Lewis,
+ and the Head of St. 
+Dennis,
+ with
+a part of his Body; of this St. 
+Dennis
+ (being the Patron of 
+France
+)
+I shall tell you a Story, more than ever you read in the History
+of the 
+Seven Champions of Christendom,
+ and perhaps as true, which
+is this: He being to suffer death under the Reign of 
+Domitian
+ the
+Emperor, for not bowing before the Altar of 
+Mercury,
+ when the
+Executioner had smitten off his head, he caught it in his arms, and
+ran with it down the Hill as fast as his legs would carry him; ha∣ving
+run thus half a mile he sat down and rested, and so he did nine
+times in all, (you must conceive he was very heavy loaden to car∣ry
+his head in his arms) but having ran three miles, he ran himself
+quite out of breath, for then he fell down and died, over which
+place was built this Church consecrated to his Memory wherein
+the aforesaid Reliques are kept.
+
+
+
+
+
+
+French-man.
+
+
+Begar Sen 
+Dennis
+ was de brave fellow when he live, he cut, he slase,
+he slay, he feight like de spright; he vas love Wench named 
+Ros∣salen,
+
+she make him Cuckoll, he weare de horns on his head sefen year;
+den came 
+Zhorge
+ on de Hoars-back, and wid his Tord cut dem off
+at one blow.
+
+
+
+
+
+
+English-man.
+
+
+Was not St. 
+George
+ of 
+England
+ than a brave man to do so wor∣thy
+an Act?
+
+
+
+
+
+
+French-man.
+
+
+Begar he was de brave Shampion in all de varle, but de France
+man; he kill de burn Dragon, but de Seignior 
+Amadis de Gaule
+ be
+kill de Shyant, one, twa, tre, four story high; begar den he was brave
+fellow; let me see den, dere was Monsieur le 
+Charlemaigne,
+ de Roy
+
+Pepin,
+ Monsieur 
+Oliver,
+ Monsieur 
+Rowland,
+ begar de France man
+be de creat killer of de Shyants in all de varle.
+
+
+
+
+
+
+
+
+English-man.
+
+
+Indeed no Nation in the wo
+ld is greater killers of Gyants and
+multitudes of people than the French; but how? why in Roman¦ces,
+wherein there is little danger in fighting; but for real feats
+of Arms, alas how far short do they fall in the performance! How
+often have they been beaten by the English, with the greatest dis∣advantage
+almost that might be? witness 
+Poicters, Crescy,
+ and
+
+Agen-Court
+ Battels, wherein their Armies exceeded ours almost
+ten to one; nay, have we not taken their Kingdom from them?
+the English King Crowned King of 
+France
+ in 
+France?
+ where was
+their Valour then? Why they were forced to have recourse to a
+Witch, one 
+Joan
+ of 
+Arc,
+ when 
+France
+ lay as it were expiring out
+her latest breath. How were they forced to pretend a Message to
+her from God, to breathe new courage into the hearts of their fan∣ting
+Soldiers? and yet when they had wrought all these Forgeries,
+it was not so much their Courage as our own Divisions, that cau∣sed
+the English expulsion out of 
+France.
+
+
+
+
+
+
+French-man.
+
+
+Begar though me ha skill to Fidele, me ha no skill in de History, me
+can no tell if de speak true; but me mush tink dis, me mush 
+give loo∣ser
+leave to speak.
+
+
+
+
+
+
+English-man.
+
+
+Nay 
+Monsieur,
+ if you are up with your Proverbs, I must also give
+you one, which though but a homely one, yet sets out the three
+Nations, French, English, and the Spaniards to the life. The
+French man is compared to a Flea, quickly skipping into a Coun∣trey,
+and as quickly skipping out; their Valor being like a blaze
+of fire, makes of a sudden a great show, but is quickly extinguish∣ed.
+The English are like a Lowse, slowly mastering a place, and
+as slowly driven out again. The Spaniard like to a Crab fish
+
+hardly gaining any thing, but where he enters seldom or neve
+
+again removed.
+
+
+
+
+
+
+French-man.
+
+
+Begar me leeke dis Proverb well enough of de men, vat is de Pr
+verb
+of de weemen?
+
+
+
+
+
+
+English-man.
+
+
+They say that to the making up of an absolute Woman, the
+
+
+
+is required the parts of a Dutch woman from the Girdle down∣wards,
+the parts of a French woman from the Girdle up to the
+Neck, over which must be placed an English Face, for the great∣er
+perfection of all the rest; for if you come to compare the
+French Beauries with the English, alas they are not to be named
+the same day with them, their Faces being as bad a punishment
+to the Eyes, as their Discourse is a torment to the Eares: And
+herein may the English glory, that they have the fairest Women,
+the goodliest Horses, and the best breed of Dogs in all the whole
+world; To which we may adde, that as 
+England
+ is said to be 
+A
+Paradise for women,
+ by reason of their Priviledges, so it may be
+said to be 
+A Paradise of women,
+ by reason o
+ their un-marchable
+Perfections.
+
+
+
+
+
+
+French-man.
+
+
+Begar de France woman be de hansom woman vor all dat.
+
+
+
+
+
+
+English-man.
+
+
+For your French women, as their shoulders and backs are so
+broad that they hold no proportion with their middles, so are they
+of a very black hair, and swarthy complexion; and though the
+Poets do commend 
+Leda
+ for he
+ black hair, as in that Verse of
+
+Ovids,
+
+
+Leda fuit nigris conspicienda comis.
+
+yet that blackness reached onely to a kinde of dark brown, not
+so fearful as this of the French women, who are generally blacker
+th
+n a gracious loveliness can admit: And though black hair do
+give a lustre to a beautiful Face, as a shadow doth to a Picture,
+or a 
+Sable bearing
+ to a 
+Field a
+gent;
+ yet what are the French wo∣mens
+Faces concerned in that, which are so far from that thing
+called 
+Beauty,
+ that when they are adorned with black Patches,
+they look like rusty Gammons of Bacon stuck with Cloves.
+
+
+
+
+
+
+French man.
+
+
+Me can no shuse but confess me had rader eat of de Gammon of
+Baoon, dan kiss de hansom woman in all de v
+rle.
+
+
+
+
+
+
+English-man.
+
+
+Now you talk of kissing, I cannot but much admire that humor
+of the French women, who though (as I said before) they are so
+light and wanton in their discourse and gestures, yet are so coy of
+
+
+their Lips that they will not admit of a kiss, accounting that wo∣man
+that is kissed, more than half whored, be her deportment o∣ther
+wayes never so civil▪ Now, though I must confess I like this
+their custom very well, it sparing me many an unsavory piece of
+mannerliness when I was amongst them, yet it was to me a kinde
+of a strange Riddle, that they should confine all immodesty and
+lasciviousness to a harmless kiss. But as it is said of the Italian,
+
+That he will rather murther a man in private, than speak ill of him
+openly,
+ so it may be thought of these Damosels, that they will not
+refuse a mans bed in private, although they deny to kiss him
+openly.
+
+
+
+
+
+
+French-man.
+
+
+Begar de tell lye, de France Madam be de Civil Madam dat lives
+in de whole varle.
+
+
+
+
+
+
+English-man.
+
+
+Yes 
+Monsieur,
+ I shall tell you of a piece of Civility of one of
+your Madams, as I was informed by an Acquaintance of mine
+who was an Eye-witness to it. That being at a Tilting, a Roguish
+Boy was peeking under a Ladies Coats, a Courtier seeing it, went
+about to remove him from that sawcy action: but when her La∣dyship
+perceived his intention, she hindred him with this Com∣plement,
+
+Laisse Monsieur, laisse les yeux ne sont pas larrons:
+ The
+boys eyes would steal nothing away. Certainly those who are
+so w
+nton in their discourse and actions abroad, will not stick out
+of play, when Night and the Curtains may conceal it.
+
+
+
+
+
+
+French-man.
+
+
+Par ma foy vis is no sush ting, de Frensh be a no soe bad, dey make
+more conscience den so.
+
+
+
+
+
+
+English-man.
+
+
+I will not deny but there may be some of them very conscien∣tious,
+but generally they are most irreverent and irreligious;
+great Scoffers, yea in matters of Religion, and at those times
+when they should be most solid, witness that Gallant who lying
+on his Death-bed, when he had the 
+Hoast
+ (so they call the Sacra∣ment
+of the Lords Supper) brought to him by a Lubberly Priest,
+he said, 
+That Christ came to him, as he went into
+ Jerusalem, 
+riding▪
+upon an Ass.
+ Another of them being to receive the Sacrament,
+
+
+when the Priest had with many words perswaded him that the
+Bread and Wine was the real Body and Blood of Christ, he refu∣sed
+to taste of it, because it was then Fryday. And I was infor∣med
+by a Gentleman, that at a Mass in the 
+Cordeliers
+ Church in
+
+Paris,
+ he saw two French Papists, when the most sacred Mystery
+of their Faith was celebrating, break out into such a blasphemous
+and atheistical laughter, that even an 
+Ethnick
+ would have blushed
+to have heard it. Can we then think these men to be religious,
+who make a scoff at the Divine Mysteries of our Salvation? Cer∣tainly
+had a 
+Lutheran
+ done this, some French hot-head or other,
+would have sent them laughing to 
+Pluto.
+
+
+
+
+
+
+French-man.
+
+
+Dat is none good to do soe; me had rather goe to dine den to die,
+to feede den to feight, dere is no sush haste to goe to de Teiffel, he vill
+have dem soone enough me varrant ye. Me vill be glad to live so long
+as de old woman of 
+Parry.
+
+
+
+
+
+
+English-man.
+
+
+I remember dat old woman very well, who was of such an age,
+that it is questionable whether she were ever young or no: for,
+but that I have read the Scriptures, otherwise I should have been
+apt to have believed that she was one of the first Pieces of the
+Creation, and that by some mischance or other she had scaped
+the Flood: Our Countrey-man 
+Tom. Parr
+ the 
+Salopian Wonder,
+
+was but an Infant to her; at the least you could not but have ima∣gined
+her one of the Reliques of the first Age after the building of
+
+Babel,
+ several Ages before the birth of the 
+Wandring Jew;
+ her
+face was for all the world like unto that of 
+Sibylla Erythrea
+ in an
+old Print, or like that of 
+Solomons
+ two Harlets in the Painted
+Cloth, or like those Statuas on the out-side of 
+Westminster Abbey,
+
+which for these six hundred years have been exposed to winde and
+weather. It is doubtful whether our Arch Poet 
+Ed. Spenser,
+ when
+he writ his Poem of 
+The Ruines of Time,
+ did not purposely in∣tend
+it of her; sure I am it is very appliable in the Title. Now
+by reason that all her Teeth were out, her Tongue was boundless,
+and without ceasing would move for six and twenty hours toge∣thet,
+the fastidious pratler which 
+Horace
+ mentioneth in his 
+Ninth
+Satyr,
+ was but a Poisne to her. Now whether she be living still,
+
+
+or no, I know not, but if she once come to be speechless, I sup∣pose
+she is then past all recovery.
+
+
+
+
+
+
+French-man.
+
+
+Begar she was creat pratler indeed, and so me tink we be, derefore
+me now make haste, vor my belly de chime Noon, and me mush make
+haste vor fe
+r of de pocky Shargeant.
+
+
+
+
+
+
+English-man.
+
+
+Well 
+Monsieur,
+ onely one word before you go, and then fare∣well.
+There is an old Proverb, that the Emperor of 
+Germany
+ is
+
+Rex Regom,
+ the King of 
+Spain
+ is 
+Rex Hominem,
+ the King of
+
+France Rex Asinorum,
+ and the King of 
+England Rex Diabalo∣rum.
+
+The Emperor of 
+Germany
+ is called 
+Rex Regem,
+ in respect
+of having so many free Princes under him, who have power of
+themselves to Coyn Money, raise Soldiers, and other Immuni∣ties
+consenant to Regal Authority. The King of 
+Spain Rex Ho∣minem,
+
+for that his Subjects are so constant and faithful in their
+Allegiance, not questioning what the Prince does, but obeying
+because he so commands it. The King of 
+France
+ is called 
+Rex
+Asinorum,
+ because of the Subjects patient bearing of those insup∣portable
+Taxes which he sucks out of their sweat and blood. Pride
+in matters of Sumptuousness, and the Civil Wars which lasted a
+long time in that Countrey, having occasioned most of the Crown
+Lands to have been sold or mortgaged, so that the Subject is
+now onely the Revenue of the Crown. The Kings hand lying so
+heavy upon them, that it hath almost thrust them into an 
+Egyp∣tian
+
+bondage: To recite all those Impositions which this miser∣able
+people are afflicted withal, were almost as wretched as the
+payment of them, I shall briefly instance in some few, and first
+
+Gabelle de Sel,
+ or Gabel on Salt, which is an Imposition that no
+man in the Kingdom (some few Countries excepted) can eat any
+Salt, but he must buy it of the King, and at his price; but this
+is not all, for though through poverty many of them could be con∣tented
+to eat meat (when they can get it) without Salt, yet are
+they forced to take such a quantity of it, or howsoever they will
+have of them so much money. This Imposition is exacted with
+such unconscionable rigour, that it is thought to be worth unto
+the King 3000000 of Crowns yearly. Next is the 
+Taillon,
+ a
+
+
+heavy burthen which lies almost altogether upon the poor Pea∣sant,
+who are a people of any other the most unfortunate, paying
+such infinite Rents to their Lords, and such innumerable Taxes
+to the King, that all their care and extream labour is onely suffi∣cient
+to pay their Duties, and keep them from the extremities of
+cold and famine. This Imposition was at first levyed by way of
+Extraordinary Subsidy, and lay alike heavy upon all, but now it is
+confined onely to the Peasant; the greater Towns, the Of∣ficers
+of the Kings House, the Officers of War, the President,
+Councellors, and Officers of the Courts of Parliament, the No∣bility,
+the Clergy, and the Scholars of the University, being freed
+from it. Divers Imposts have they besides, as the Soll upon the
+Liure, which is the twentieth penny of all things bought or sold,
+onely 
+Corn
+ and 
+Sallets
+ excepted. Imposts upon Wine double and
+treble, and after all this, the poor Vintner forced to pay the 8th
+penny of that Wine which he selleth, to the King. Then is there
+besides Imposts on all sorts of Fruits, Provisions, Wares, and Mer∣chandize,
+to which we may adde the base and corrupt money in it,
+being for the most part made of Tin and Brass. Hardly shall you
+see a Piece of Gold of the French stamp, scarce any but what
+comes out of 
+Spain,
+ which are very ill proportioned, and which
+one resembles to a French Cheese, being neither long, nor square,
+nor round, nor thick, nor thin, nor great, nor little, nor any one
+of these, but yet all, and yet none of them.
+
+
+These Circumstances considered, we may the clearer see our
+own felicities, which to express in a word, is to say onely this,
+
+That the English Subject is in no circumstance a French man,
+ though
+we are so blinde as herein not to see our own happiness, but by
+our often Rebellions have given occasion to that Apellation, that
+the King of 
+England
+ is 
+Rex Diabalorum.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

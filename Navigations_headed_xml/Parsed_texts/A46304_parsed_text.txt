@@ -1,0 +1,296 @@
+A journal of all that happen'd in the march of the Vaudois till their arrival in the valleys of St. Martin and Lusern written from Lausanne the 19th of September 1689 to an eminent merchant in London, with the number of those that passed the lake to joyn them.
+Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A46304
+
+
+
+
+Wing J1096
+
+
+
+ESTC R17383
+
+
+
+
+
+ocm 11861914
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A journal of all that happen'd in the march of the Vaudois till their arrival in the valleys of St. Martin and Lusern written from Lausanne the 19th of September 1689 to an eminent merchant in London, with the number of those that passed the lake to joyn them.
+1 sheet ([2] p.)   
+
+
+London :
+
+
+Printed for Ben. Griffin ...,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Waldenses --  France.
+Broadsides --  England --  London --  17th century
+2013-09
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Olivia Bottum
+Sampled and proofread
+2013-11
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+J1096
+
+
+R17383
+
+
+11861914
+
+
+50026
+
+
+
+
+
+
+
+
+
+
+
+
+A JOURNAL Of all that happen'd in the MARCH of the VAUDOIS Till their Arrival in the Valleys of St. 
+Martin
+ and 
+Lusern;
+ Written from 
+Lausanne
+ the 19th. of 
+September
+ 1689. to an Eminent Merchant in 
+London,
+ with the Number of those that pass'd the Lake to joyn them.
+
+
+LICENS'D 
+September
+ 27th. 1689. 
+J. F.
+
+
+THE 
+Vaudois
+ to the number which I mention'd in the last that I sent you, set forward from this City about fifteen days since; with a Resolution to go into the Valleys of 
+Piemont,
+ distant from hence about five and thirty Leagues. I was one of those that desir'd one of the Magistrates of this place, to let them have the conveniency of Boats, for that Monsieur the Bailiff had forbid the people here to fur∣nish them with any, tho' under hand he was willing enough they should have them, as being one that wish'd well to the common Cause, however he is forced to observe some little measures and punctillio's by reason of the Neutrality: But at length I engag'd Monsieur 
+le Boursie
+ one of the Judges to go to the Fort at two of the Clock at Night, whither I accompanied him, and obtain'd permission, that the 
+Vaudois
+ might be fur∣nishd with Boats: We also assisted them with all such other necessaries as lay in our power. They had an extraordinory good passage over the Lake; and as they march'd forward, they seiz'd upon the Priests and Lords of the Villages through which they pass'd. But finding by that time they had gone two days march, that there was a Bridge broken down to impede their passing farther; they threatened their Prisoners to put them to death, if they did not take care to have the Bridge repair'd; so that the Country people that liv'd on the other side were forc'd to repair the Bridge, which the 
+Vaudois
+ pass'd in good Order.
+
+
+The Duke of 
+Savoy
+ having intelligence of their March, rais'd the Militia of his own Country, and sent away a Courier to the Marquess 
+de Larre
+ Collonel of Dragoons, and Commander of the Forces in the Dauphinate, to stop the farther progress of the 
+Vaudois,
+ who were then upon the Frontiers. Thither therefore he hasten'd with four Troops of Dragoons, whom he caus'd to break down a Bridge, and Entrench'd the Militia of 
+Savoy
+ in the same place to dispute the passage. But the 
+Vaudois
+ upon the first discharge which they made, kill'd the Commander of the Savoyards, who was a Marquiss also, with several others, which put the rest into such a Terrour that they abandon'd the Pass. Here the 
+Vaudois
+ lost a Minister and four Souldiers, whom the Enemy carried bound to 
+Chamberg,
+ and there hang'd them up.
+
+
+Afterwards Monsieur 
+Larre
+ meeting them with four Troops of Dragoons, ask'd them whither they were going; they Answer'd they were going to their own homes; by whose Order? To whom? Their Minister Mr. 
+Arnauld
+ who has appear'd all along at the Head of them; Replied, by Order of the 
+King of
+ England, William 
+the Third.
+ Upon which the Commander told 'em, that they were a Company of Vagabond Ras∣cals, and that he would trample them to death under his Horses Feet, and so Com∣manded his Dragoons to ride up to them, which Mr. 
+Arnauld
+ seeing, prepar'd his peo∣ple
+
+to receive them accordingly, which they did; and after a Fight that lasted two Hours, they won the Victory, having kill'd a hundred and fifty of the Dragoons, and two Captains, befides sive or six more Inferiour Officers kill'd and wounded; and Mr. 
+de Larré
+ wounded in the Elbow of which he is since dead: Of the 
+Vaudois
+ not above fifteen or twenty kill'd and wounded.
+
+
+Thus they enter'd into the Valleys of of 
+Pregolas
+ which are under the Dominion of 
+France,
+ where about two hundred of the Inhabitants of the said Valleys joyn'd them. In their March they pillag'd the Abby of 
+Ouls
+ in the French Territory; where they found 180000 Livres, or 15000 
+l.
+ English, and twenty four Monks, whom they carried along with them as Hostages. They also took upon the Moun∣tains above twenty Thousand Sheep. At the same time they met the Baggage be∣longing to the Popes Nuncio, returning from 
+Paris
+ to 
+Rome.
+ They open'd the Packs, and took out all the Plate, but meddl'd with nothing else; but besides all this Booty, they found the Valleys of St. 
+Martins
+ and 
+Lusern,
+ where they are now Arriv'd, well stor'd with Corn, which makes us believe they will find it a difficult thing to make them dislodge from thence, having expell'd the 
+Savoyards
+ that liv'd in the Vale to the very tops of all the Mountains. All 
+Savoy
+ is in Arms, to prevent those that have taken Sanctuary in 
+Switzerland,
+ from going to their Assistance, as it is believ'd they will do; the 
+Switzers
+ not at all opposing the Levies which they make in those parts.
+
+
+The Duke of 
+Savoy
+ has Written a very severe Letter to the 
+Switzers
+ upon this oc∣casion, which they have taken very ill, no less offended that he had broken his word with them, in not restoring to them the Ministers and Children of the 
+Vandois.
+ The Canton of 
+Oury,
+ which is a popish Canton, has deliver'd up a hundred and five of those poor people to the Embassador of 
+Savoy,
+ after they had robb'd them of all their Cloaths and mony, and put four of them to the Rack, to make them discover the de∣signs of the rest of their Brethren, but they would not confess any thing. The Em∣bassador has caus'd them to be tied two and two together, and sent them away into 
+Savoy,
+ for fear that the Lords of 
+Zurie
+ and of 
+Berne
+ should redemand them, which they did; to whom the popish Cantons return'd for Answer, that they had de∣liver'd them up already, but with this condition, that no harm should be done them; which very much displeas'd the Lords of 
+Zurie
+ and 
+Berne;
+ insomuch that it proved the occasion of a Rupture between them.
+
+
+There are already departed above 1500 Men to joyn those that are March'd before; in order to which they have pass'd the Lake, and two Thousand more are ready to Embark, with a resolution to follow them. They are all French that fled for Refuge, except four hundred 
+Vaudois,
+ who came hither as soon as they understood the depar∣ture of the rest, And had not Mounfieur the Bailiff forbid the Switzers, upon pain of death, not to stir out of the State, there would have gone above two thousand. How∣ever this has not hindred a very considerable number from going, finding the 
+Vaudois
+ so successful in their Enterprizes.
+
+
+It is hoped, that the King of 
+England
+ will prevail with the King of 
+Spain
+ to declare war against the Duke of 
+Savoy;
+ to the end the 
+Milainois
+ Governors may be ordered to furnish them with all such necessaries which they shall stand in need of. For other∣wise, it will be a difficult thing for these poor people to preserve what they have got. The King of 
+France
+ having order'd the forces of of the 
+Dauphinate
+ to march, to expel them from those places where a little Assistance would defend them from all the force of their Enemies. The Embassador of 
+France
+ at 
+Geneva
+ makes a great noise and speaks loud upon this occasion. We expect with impatience the result of the Consultations of the 
+Assembly
+ at 
+Baden. Savoy
+ is all in Arms, and the people are strangely alarm'd, at so many Commotions. The French Troops are quartered round about 
+Geneva:
+ How∣ever as yet all things are quiet: In expectation of more News I remain, 
+YOƲRS,
+ &c
+
+
+We thought it not from the purpose to gratifie the Curiofity of the Reader to add this Century of 
+Nostre Damus
+ in regard it agrees so well and falls out so pat to the Con∣dition of 
+France
+ at this time.
+
+
+
+
+When ere the Crescent shall decrease,
+
+
+An Eagle shall the mighty Cock deplume,
+
+
+In Sixteen hundred Eighty Nine
+
+
+Great Changes then by death shall come.
+
+
+The same Fate shall two Kings attend,
+
+
+Good Cheese to
+ Calvin 
+and his Friend.
+
+
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed for 
+Ben. Griffin
+ in the 
+Great Old Baily,
+ 1689.
+
+
+
+
+
+
+
+
+

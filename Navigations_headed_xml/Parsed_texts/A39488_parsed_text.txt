@@ -1,0 +1,184 @@
+By the Lords Justices of England, a proclamation ... whereas we have received information ... that one Henry Every commander of the ship called the Phancy ... has, under English colours, acted as common pirate ...
+England and Wales. Lords Justices.
+Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2004-03 (EEBO-TCP Phase 1).
+A39488
+
+
+
+
+Wing E933
+
+
+
+ESTC R39433
+
+
+
+
+
+ocm 18410808
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the Lords Justices of England, a proclamation ... whereas we have received information ... that one Henry Every commander of the ship called the Phancy ... has, under English colours, acted as common pirate ...
+England and Wales. Lords Justices.
+1 broadside.   
+
+
+London :
+
+
+Printed for Charles Bill, and the executrix for Thomas Newcomb ...,
+
+
+[1696]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Avery, John, fl. 1695.
+Pirates --  England.
+Proclamations --  Great Britain.
+Great Britain --  History --  1689-1714.
+2003-08
+TCP
+Assigned for keying and markup
+2003-09
+SPi Global
+Keyed and coded from ProQuest page images
+2003-10
+John Latta
+Sampled and proofread
+2003-10
+John Latta
+Text and markup reviewed and edited
+2003-12
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+E933
+
+
+18410808
+
+
+107510
+
+
+
+
+
+
+
+
+
+
+
+
+By the Lords Justices of England, A PROCLAMATION.
+
+
+Tho. Cantuar. J. Sommers 
+CS.
+ Pembroke 
+C.P.S.
+ Devonshire. Shrewsbury. Dorset. Godolphin.
+
+
+W
+Hereas We have Received Information from the Governour and Com∣pany of Merchants of 
+London
+ Trading to the 
+East Indies,
+ That one 
+Henry Every
+ Commander of the Ship called the 
+Phancy,
+ of Fourty six Guns, and One hundred and thirty Men, has, under 
+English
+ Colours, acted as a Common Pirate and Robber upon the High Seas, and hath presumed under such Colours to Commit several Acts of Piracy upon the Seas of 
+India
+ or 
+Persia,
+ which may occasion great Damage to the Merchants of 
+England,
+ Trading into those Parts; We have therefore thought fit (by the Advice of His Majesties most Honourable Privy Coun∣cil) to Issue this Proclamation, hereby Declaring, That the said 
+Henry Every,
+ together with divers other 
+English
+ Men and Foreigners, to the Number of about One hundred and thirty, did Steal and Run away with the said Ship then called the 
+Charles,
+ from the Port of 
+Corona
+ in 
+Spain
+; And that the said 
+Henry Every
+ hath not any Commission or Authority from His Majesty to Command the Ship or the Men therein, but that the said 
+Henry Every,
+ and such as are with him in the said Ship, are Pirates, and Common Robbers upon the High Seas. And We do hereby Charge and Command all His Majesties Admirals, Captains, and other Officers at Sea, and all His Majesties Governours and Commanders of any Forts, Castles, or other Places in His Majesties Plantations, or otherwise, to Seize and Take the said 
+Henry Every,
+ and such as are with him in the said Ship, and cause them to be punished as Pirates upon the High Seas, and in case of Resistance to Sink and Destroy the said Ship. And We do hereby further De∣clare, That in case any of the Persons who are in the said Ship with the said 
+Henry Every,
+ shall Discover the said 
+Henry Every,
+ so as that the said 
+Henry Every,
+ or the said Ship may be Seized or Taken, or shall be otherwise Instrumental in Seizing the said 
+Henry Every,
+ or the said Ship, he or they making such Discovery or Seizure, shall have His Majesties Gracious Pardon for their Offences: And that such Person or Persons, or any other Person or Persons who shall Discover the said 
+Henry Every,
+ so as the said 
+Henry Every,
+ or the said Ship may be Seized or Taken, or shall be otherwise Instrumental in Seizing the said 
+Henry Every,
+ or the said Ship, he or they making such Discovery or Seizure, shall have a Reward of Five hundred Pounds, which said Sum of Five hundred Pounds the Lords Commissioners of His Majesties Treasury are hereby Required and Directed to Pay accordingly.
+
+
+Given at the Council Chamber at Whitehall,
+ 
+the Seventeenth Day of Iuly,
+ 1696.
+ 
+In the Eighth Year of His Majesties Reign.
+
+God save the King.
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed by 
+Charles Bill,
+ and the Executrix of 
+Thomas Newcomb,
+ deceas'd; Printers to the Kings
+
+
+
+
+
+
+
+
+

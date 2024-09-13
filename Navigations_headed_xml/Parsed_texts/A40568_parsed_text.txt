@@ -1,0 +1,507 @@
+A Full and true account of the landing of the late King James II in Ireland with a particular relation of his voyage ...
+Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A40568
+
+
+
+
+Wing F2307
+
+
+
+ESTC R34443
+
+
+
+
+
+ocm 14438711
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Full and true account of the landing of the late King James II in Ireland with a particular relation of his voyage ...
+1 sheet (2 p.)   
+
+
+London :
+
+
+Printed for R. Baldwin ...,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+James --  II, --  King of England, 1633-1701.
+Great Britain --  History --  James II, 1685-1688.
+2013-09
+TCP
+Assigned for keying and markup
+2013-11
+SPi Global
+Keyed and coded from ProQuest page images
+2013-12
+Kate Allen
+Sampled and proofread
+2013-12
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+F2307
+
+
+R34443
+
+
+14438711
+
+
+102338
+
+
+
+
+
+
+
+
+
+
+
+
+A Full and True ACCOUNT Of the LANDING of the Late King James II. IN IRELAND. WITH A particular Relation of his Voyage, And Manner of RECEPTION, AND OF The SHIPS, MEN, MONEY, and ARMS, Which he hath brought along with him from 
+France.
+
+
+
+
+March
+ 22. 1688/9.
+
+
+Imprimatur.
+
+
+James Fraser.
+
+
+
+
+THat the World may be assured, that the late King
+ James 
+it now landed in
+ Ireland, 
+I shall not only give a particular Account of his Arrival there, but also of his Journey from the Court of
+ France, 
+to the Port of
+ Brest, 
+and like
+ise of his Voyage thence to
+ Ireland, 
+and of the Ships, Men, Money, and Arms, which the
+ French 
+King hath sent along with him for his Assistance.
+
+
+The 25th of the last Month, 
+New Stile,
+ the late King 
+James
+ went from St. 
+Germains
+ to 
+Peris,
+ and there heard Mass in the Metro∣politan Church of that City, where he was received by the Arch-bishop at the head of the Chapter, and received the Sacrament at the hands of the 
+Abbe Perfait,
+ Canon of the said Church. He afterwards dined with the Count 
+de Lauz
+,
+ on whom that Morn∣ing before he went to Mass, he conferr'd the Honour of the Order of the Ga
+e
+. Af∣
+er Dinner he went to the Palace of 
+Orleans,
+ 
+o visit and take leave of Madamoiselle of 
+Orleans,
+ Madam the Great Dutches of 
+Tus∣cany,
+ and Madam of 
+Guise.
+ In the Eve
+∣ing he went to the Court at 
+Versailles,
+ to take leave of the 
+French
+ King, and return'd that Night to his late Queen at St. 
+Germains en Lay.
+
+
+The 27th the 
+French
+ King went to St. 
+G
+¦mains,
+ to take leave of the late King of 
+Eng∣land.
+
+
+The 28th. early in the Morning, all thing
+ being ready for the late King's Journey to 
+Brest,
+ he took leave of his late Queen and the Child, all present being in Tears at his departure, the late King not excepted. 
+e travelled in a Calash, accompanied by the Marshal Duke 
+de Luxembourg,
+ and Count 
+de M
+lly,
+ as also by the Count 
+de Aveux,
+ the last 
+French
+ Embassadour in 
+Holland,
+ and now appointed to go along with the late King of 
+England,
+ in Quality of Embassa∣dour Extraordinary from the 
+French
+ Ki
+g. He wen
+ guarded by some 
+French
+ Horse, and preceded and accompanied by divers 
+English, Scotch
+ and 
+Irish
+ O
+cers. The same day the late King got to 
+Orleans,
+ where he was lodged in the House of the Sieur 
+de Creit,
+ Intendant of the Province, who met him a League and a half with his Coaches; the Citizens were in Arms, and complimen
+ him in a Body. The Intendant entertain'd him magnif
+cently at Supper; And the next Morning, b
+ing the First of 
+March,
+ after ha∣ving heard Mass, he continued his Journey, and arrived that Night at 
+Tours,
+ where 
+e was received and entertain
+d in like manner,
+
+ by the Marquess 
+Rasilly,
+ Lieutenant General.
+
+
+The 2d, after having heard Mass, he went and lodg'd that Night at 
+Angers,
+ and after∣wards continued his way towards 
+Nantes
+ and 
+Roch-Bernard,
+ where he was magnifi∣cently received and treated by the Duke 
+de Chau
+,
+ Govern
+ur of 
+ritany.
+
+
+O
+ 
+he 5th of 
+M
+h
+ 
+nstant, 
+w St
+,
+ the late King arriv
+ in the Even
+g at 
+Brest,
+ accompanied by the Persons aforesaid, as also by the Marshal 
+d' Estrees,
+ who met and recei∣ved him at 
+Lanveoc,
+ three Leagues off of 
+Brest,
+ with a Frigat and a Galiot, and most of the Boa
+ 
+longing to the Ships. He 
+as saluted as 
+e p
+ssed 
+long by 
+ll 
+h
+ Gu
+ of the Castle and Ships. The Coun
+ 
+d
+ Beth
+ne,
+ Chief of the Squadron, and the Sieur 
+de C
+∣seau,
+ Intendant of the Sea, received him at his landing; where he was also received by the Bish
+ of 
+on,
+ clo
+ed Po
+ically at the head of 
+e C
+gy; he pa
+ 
+hrough 
+ double Fi
+ of C
+zens, 
+ wer
+ ranged 
+ Arms on b
+th s
+es the S
+ets, to 
+he Lo
+gings pre∣pared for him. He supped in Publick, ha∣ving at his Table the Duke of 
+Berwick,
+ the Marshal 
+d' Estrees,
+ and the General Sea-Officers, with those General Land-Officers which the 
+French
+ King sent to accompany him to 
+Ireland.
+
+
+The 6th he went to se
+ the Ship
+, and went on board the St. 
+Michael,
+ commanded by the Sieur 
+Gabaret,
+ Chief of the Squadron, as also on board another Man of War, commanded by the Sieur 
+an
+ 
+so Chief of a Sq
+adron, and in the Evening he visited the Magazins of the Sea-Anchal. There 
+ ready in that Port Fourteen 
+French
+ Men of War, Three Fireships, and Seven Frigats, to Convoy the late King, as also a sufficient number of Ten∣ders, and Vessels of Burden; to transport Land-Forces, Arms and Ammunition.
+
+
+On the 7th, the Wind coming fair, the late King 
+barque 
+ board the Str 
+Michael,
+ where he no
+ done entered the Cabin but the Wind turn'd Northerly, he lay on board all 
+ and the Wind continuing contrary, he 
+ the 8th 
+ 
+our, land th
+re remain'd till 
+he 
+; the Wind presenting fair al second 
+, about Noon that day, he went on board 
+ same Ship, and about 4 weighed Anchor, 
+nd 
+ for fall. About 12 at Night, being just got out of the Bay of 
+Brest,
+ the Wind 
+opped about Southerly, and oblig'd them to come to 
+ Anchor, wher
+ they remain'd till 
+ next 
+, and t
+ re
+h'd into the Harbour.
+
+
+On the 14th the Wind presented fair a third time, but being Easterly, and hearing some 
+English
+ and 
+D
+tch
+ Men of War were approaching, they deferr'd putting to Sea. That Night they 
+ceived advice, that there were neither 
+English
+ nor 
+Dutch
+ near them, and that the Coa
+ was clear; nevertheless they deferr'd setting sail till 
+Thursday,
+ being the 17, 
+New Stile,
+ when the Wind being turn'd South-West, fair for 
+Ireland,
+ and against the ap∣proach of any Ships from the 
+Do
+,
+ they put to Sea a third time, the Wind proved wave∣ring, and so retarded their passage, that it was the 
+ of this Month before they made sight of 
+Ireland.
+
+
+Being that day come near the Bay of 
+King∣sale,
+ the Wind chopp'd contrary, and oppos'd their Approach or Entrance for above thirty hours, so that they were all that time forced to keep out at Sea, during which time they put forth 
+English
+ Colours; then the Wind turn'd favourable, and they advanc'd within the Bay, havin
+ taken dow
+ the 
+English
+ a
+d put fo
+th the 
+F
+ench
+ Colour
+ and sent a 
+oat on 
+cre to give the Town of 
+Kingsale
+ notice that it was the late King that was coming. Whereupon the Magistrates, Inhabitants, Officers and Soldiers in the Tow
+ gathered together and put themselves in 
+ 
+eadiness to receive t
+ late King; which wa
+ perfo
+m'
+, by all tha
+ were 
+ o
+ Papi
+s, w
+th great 
+lacrity, who floc∣ked to the Water-side and Huzza'd his Land∣ding, whilst the Governour of the Royal Fort or Citadel saluted his Arrival with a treble disch
+ge of the C
+non, as a
+o b
+e Mus∣kete
+, as also Rin
+ing of B
+, a
+ Bonfire
+ whe
+ Healths we
+ drank u
+ 
+nees, 
+ 
+the C
+fusion of all Heretick
+ and 
+nemies 
+ their True Catholick King
+ James. Notice of whose Arrival being forthwith given to the Earl of 
+Tyrconnel
+ at 
+Dublin,
+ a sufficient Guard was quickly ordered on the Road betwixt 
+Kingsale
+ and that City.
+
+
+The next day the la
+ King having heard Mass, and 
+Te Deum
+ being sung for joy of his Arrival in that Kingdom, and having recei∣ved the Sacrament at the hands of an 
+Irish
+ Jesuit, he was by the Tow
+ entertain'd at Din∣ner. That Night he went to a Person of Qu
+y's House an 
+I
+ish
+ man, attended by four 
+French
+ General Officers, and about Two hundred subaltern Officers stayed behind in the Town, with most of the 
+English, Scotch,
+ and 
+Irish
+ Forces; and the Souldiers (who 'tis thought are about Twelve hundred, with Arms for as many more, and about Four hundred thousand Crowns in Money re∣main'd on board, it not being then re
+ved whether they should sail forward for 
+D
+lin,
+ or land them there.
+
+
+On 
+Thursday
+ the 14/
+ Instant, the late King being recovered of the Indisposition caused by the Sea, set forward for 
+Dublin,
+ where he arrived on 
+Saturday
+ following being the 
+ of this Month, being met and received by the Earl of 
+Tyrconnel
+ ten miles from 
+Dublin,
+ who conducted him thither, having caused all the Forces there to be drawn up at the entrance into the Town, who saluted the late King's Arrival with three Vollies of Shot The Lord Mayor, Aldermen, and Comm
+ Council also met Him in their Formalitie
+ The Streets were lined with the 
+Irish
+ Li
+ Guard even to the Castle-gate, where the la
+ King was conducted and lodged. The P
+¦pists Inhabitants shouting, the Souldie
+ Muskets discharging, the Bells ringing, an
+ at Night Bonfires in all parts of the Town.
+
+
+The next day being 
+Sunday,
+ there wa
+ singing of 
+Te Deum,
+ and Processions for joy and a multitude of Masses said for the Ad¦vancement of the Catholick Cause; to t
+ great Terrour of all the Disarmed Protestan
+ there and thereabouts.
+
+
+
+
+
+
+
+
+
+
+London:
+ Printed for 
+R. Baldwin,
+ near the 
+Black Bull
+ in the 
+Old-Baily.
+ 1689.
+
+
+
+
+
+
+
+
+

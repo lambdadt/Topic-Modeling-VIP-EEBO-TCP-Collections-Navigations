@@ -1,0 +1,285 @@
+At the court at Whitehall the 16th of February, 1680 Present, the Kings most excellent Majesty, His Highness the Prince Rupert Lord Bishop of London ... Whereas since the expiration of the Act of Parliament made in the 22d & 23d year of his Majesties reign, entitled, An Act for regulating the plantation trade; ...
+Proclamations. 1681-02-16.
+England and Wales. Sovereign (1660-1685 : Charles II)
+Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A39438
+
+
+
+
+Wing E855
+
+
+
+ESTC R215339
+
+
+
+
+
+99827239
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+At the court at Whitehall the 16th of February, 1680 Present, the Kings most excellent Majesty, His Highness the Prince Rupert Lord Bishop of London ... Whereas since the expiration of the Act of Parliament made in the 22d & 23d year of his Majesties reign, entitled, An Act for regulating the plantation trade; ...
+Proclamations. 1681-02-16.
+England and Wales. Sovereign (1660-1685 : Charles II)
+Charles II, King of England, 1630-1685.
+1 sheet ([2] p.)   
+
+
+London :
+
+
+printed by the assigns of John Bill, Thomas Newcomb and Henry Hills, printers to the Kings most Excellent Majesty,
+
+
+1680 [i.e. 1681]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Great Britain --  Commerce --  Ireland --  Early works to 1800.
+Great Britain --  Foreign relations --  Ireland --  Early works to 1800.
+2013-08
+TCP
+Assigned for keying and markup
+2013-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Kate Allen
+Sampled and proofread
+2013-11
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+E855
+
+
+R215339
+
+
+99827239
+
+
+31655
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+royal blazon or coat of arms
+
+
+C R
+
+
+HONI SOIT QVI MAL Y PENSE
+
+
+DIEV ET MON DROIT
+
+
+ At the Court at Whitehall the 16
+th
+ of February, 1680.
+
+
+
+
+Present, 
+
+
+The Kings most Excellent Majesty,
+
+
+His Highness Prince 
+Rupert
+
+
+Lord Chancellor
+
+
+Lord Privy Seal
+
+
+Lord Chamberlain
+
+
+Earl of 
+Chesterfield
+
+
+Earl of 
+Ailesbury
+
+
+Earl of 
+Conway
+
+
+Lord Bishop of 
+London
+
+
+Mr. 
+Hyde
+
+
+Mr. 
+Finch
+
+
+Lord Chief Justice 
+North
+
+
+Mr. Secretary 
+Jenkins
+
+
+Sir 
+Thomas Chicheley
+
+
+Mr. 
+Godolphin.
+
+
+
+
+W
+Hereas since the Expiration of the Act of Parliament made in the 22d & 23d year of His Majesties Reign, En∣tituled, 
+An Act for Regulating the Plantation Trade;
+ Whereby the word 
+Ireland
+ was directed to be left out of all such Bonds as should be taken for Ships setting Sail for any 
+English
+ Plantation in 
+America, Asia
+ or 
+Africa,
+ several Bonds have beén given for many Ships and Vessels, That in case the said Ships or Vessels should Load any Sugars, Tobacco, Cotton-wooll, Indico, Ginger, Fustick, or other Dying Wood of the Growth, Production or Manufacture of any 
+English
+ Plantations in 
+America, Asia,
+ or 
+Africa;
+ The same Commodities shall be by the said Ship or Vessel brought to some Port of 
+England, Wales,
+ to the Port or Town of 
+Berwick
+ upon 
+Tweed,
+ or 
+Ireland,
+ according to the Act of Navigation made in the Twelfth year of His Majesties Reign.
+
+
+And whereas for the better keéping the Trade of His Majesties Plantations to this Kingdom, and for the further good of the Trade and Navigation thereof, It is since Provided and Enacted by One Act of Parliament made in the 25th year of His Ma∣iesties Reign, Entituled. 
+An Act for the better Securing the Plantation Trade.
+ That if any Ship or Vessel which by Law may Trade
+
+ in any of His Majesties Plantations, shall come to any of them to Ship and take on Board any of the aforesaid Commodities, and that Bond shall not be first given with one sufficient Surety to bring the same to 
+England
+ or 
+Wales,
+ or the Town of 
+Berwick
+ upon 
+Tweed,
+ and to no other place, and there to unload and put the same on shore (the danger of the Seas onely excepted) that there shall be answered and paid to His Majesty, His Heirs and Successors, for so much of the said Commodities as shall be Laded and put on Board such Ship or Vessel, the several Rates and Duties appointed by the said Act to be paid for the same; To be Levied, Collected and Paid at such Places, and to such Collectors and other Officers as are or shall be appointed in the respective Plantations, to Collect, Levy and Receive the same before the Lading thereof.
+
+
+By means and vertue of which said last recited Act, all Ships and Vessels which shall Lade any of the aforesaid sorts of Commodities in any of His Majesties said Plantations, although that Bond hath been given to bring the same to some other place then 
+England, Wales,
+ or 
+Berwick,
+ are liable to pay for the same, the several Rates and Duties imposed by the said Act, to be paid before the Lading thereof in the respective Plantations.
+
+
+NOw for Incouragement of all His Majesties Subjects in their Trade to His Majesties Plantations, His Majesty was pleased this day to Order in Council, That for the avoiding of the payment of the Duties appointed to be paid by the afore∣said Act of the 25th year of His Majesties Reign, any person or persons concerned in any Ships or Vessels Entring for any of His Majesties aforesaid Plantations (which by Law may Trade thither) shall voluntarily offer Bond with one Surety, to bring their Lading of the abovesaid enumerated sorts of Goods to 
+England, Wales,
+ or 
+Berwick
+ upon 
+Tweed,
+ and to no other place, and there to Vnload and put the same on Shore (the danger of the Seas onely excepted) That the Chief Officers of the Cu∣stom-house of such Port or Place from whence the said Ship shall set Sail, shall accept of, and take such Bond accordingly, and give Certificates thereof, as in such cases hath beén accustomed. And as to such Ships and Vessels as have already, or may before the Publication of this Order happen to have given Bond to bring their Ladings of the said Goods to 
+England, Wales, Berwick,
+ or 
+Ireland,
+ That if any person or persons concerned in the said Ships, shall desire to take in the said Bonds, or any of them, and to give new Bonds with one Surety, for the coming of the said Ships with their Ladings of the said sorts of Goods to 
+England, Wales,
+ or 
+Berwick,
+ and to no other place, and there to Vnlade and put the same on Shore, That the Officers who have the keeping of the said Bonds, shall deliver the same to them, and take new Bond from them, as aforesaid, and give Certificates of their having delivered up the former Bond, and having taken such New Bonds; And in such Case His Majesty is hereby pleased to remit the taking, or demanding from any such Ships or Vessels, any of the Duties and Rates Imposed by the aforesaid Act made in the Twenty fifth year of His Majesties Reign. And the Commissioners of His Majesties Customs, and all His Majesties Officers of the Cu∣stoms in 
+England,
+ and in the respective Plantations, are required to take notice thereof, and to take care that the same be duly observed.
+
+
+And for the better Information of all His Majesties Loving Subjects in these Matters, It was this day further Or∣dered by His Majesty in Council, That Notice hereof be given to all His Majesties Loving Subjects, by the Publick Af∣fixing of this Order in all the Custom-Houses in 
+England
+ and 
+Wales,
+ and Town and Port of 
+Berwick
+ upon 
+Tweed.
+
+
+And the Commissioners of His Majesties Customs are hereby required to take care that the same be done according∣ly: And also that Notice of this His Majesties Order in Council be given to the Collectors of His Majesties Customs in His Majesties respective Plantations.
+
+
+JOHN NICHOLAS.
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed by the Assigns of 
+John Bill, Thomas Newcomb
+ and 
+Henry Hills,
+ Printers to the Kings most Excellent Majesty. 1680.
+
+
+
+
+
+
+
+
+

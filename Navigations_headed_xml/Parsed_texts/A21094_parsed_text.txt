@@ -1,0 +1,2044 @@
+A true and large discourse of the voyage of the whole fleete of ships set forth the 20. of Aprill 1601. by the Gouernours and assistants of the East Indian marchants in London, to the East Indies Wherein is set downe the order and manner of their trafficke, the discription of the countries, the nature of the people and their language, with the names of all the men dead in the voyage.
+Approx. 53 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A21094
+
+
+
+
+STC 7459
+
+
+
+ESTC S113954
+
+
+
+
+
+99849182
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A true and large discourse of the voyage of the whole fleete of ships set forth the 20. of Aprill 1601. by the Gouernours and assistants of the East Indian marchants in London, to the East Indies Wherein is set downe the order and manner of their trafficke, the discription of the countries, the nature of the people and their language, with the names of all the men dead in the voyage.
+[2], 34 p.   
+
+
+At London :
+
+
+Imprinted [by R. Read] for Thomas Thorpe, and are to be solde by William Aspley,
+
+
+1603.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Voyages and travels --  Early works to 1800.
+2012-07
+TCP
+Assigned for keying and markup
+2012-07
+SPi Global
+Keyed and coded from ProQuest page images
+2012-08
+Susie Lorand
+Sampled and proofread
+2012-08
+Susie Lorand
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+7459
+
+
+S113954
+
+
+99849182
+
+
+14319
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A TRVE AND LARGE DIS∣COVRSE OF THE ƲOYAGE OF THE WHOLE FLEETE OF SHIPS SET forth the 20. of Aprill 1601. by the Gouer∣nours and Assistants of the East Indian Marchants in London, to the 
+East Indies.
+
+
+WHEREIN IS SET downe the order and manner of their trafficke, the discription of the Countries, the nature of the people and their language, with the names of all the men dead in the Voyage.
+
+
+AT LONDON Imprinted for 
+Thomas Thorpe,
+ and are to be solde by 
+William Aspley.
+ 1603.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A TRVE AND LARGE DISCOƲRSE OF THE EAST INDIA VOYAGE DE∣parting out of 
+England
+ the 20. day of Aprill 1601.
+
+
+T
+He 20. of Aprill 1601. we wayed Anchor and set saile out of 
+Torbay
+ by 
+Dartmouth.
+
+
+The 2. of May one of our Admiralles men fell ouer∣boord from the maine yard and was drowned.
+
+
+The 7. of May we came to the 
+Canares,
+ where the Generall determined to renew our water: but altering his purpose, we wayed our Anchors and departed with a faire winde.
+
+
+The 10. of May being Sunday the Generall, Captaines and Maisters dined a boord the 
+Hector.
+ Where the generall deliuered them articles to be obserued and kept both by sea and land, and what punishmēt should be inflicted vpon the offenders.
+
+
+
+
+The 12. of May wee passed the 
+Tropicke
+ with a fresh gaile.
+
+
+The 24. we had a great storme.
+
+
+The 25. we had a storme with great store of raine.
+
+
+The 27. we had another storme continuing two houres.
+
+
+The 21. of Iune we tooke a Porting all whose lading was Wine, Oyle, and Meale, being about the burthen of 100. tunne; who not resisting was discharged of his Marchandise in foure dayes, to euery ship according to his proportion.
+
+
+The 29. of Iune we passed the 
+Equinoctiall,
+ with a fresh gale of winde.
+
+
+The 12. of Iuly our maister Gunner of the 
+Ascention
+ dyed, who was the first that dyed in that ship: Here we tooke many flying fishes in the Aire.
+
+
+The 16. of Iuly we doubled the shoales of Bras∣eele, and for ioy thereof, euery messe had a canne of Wine to supper.
+
+
+The 20. of Iuly we cast off the 
+Guift,
+ being a∣bout 18. degrees to the South of the 
+Equinoctiall,
+ here we tooke more fish then we could eate.
+
+
+About the first of August many of our men in euery ship fell sicke of the scuruy, so that many di∣ed, and few were free of the infection throughout the fleete: so that there died 80. men in the fleete before we came to land.
+
+
+The 9. of September, it pleased God after our
+
+long distresses, to send vs to the sight of land at 
+Sol∣dania
+ 16. leagues from the 
+Cape de bona Esperance,
+ and because it was in the night, and all our men ve∣ry weake, we were in great danger, beeing very neare the shoare, but God strēgthned vs, so that by his helpe, and the helpe of some of our Admiralles men when they had mored their ship, we were pre∣serued not being able to helpe our selues.
+
+
+The 10. day our Generall went a shoare to see if he could get some fresh victuals, and after hee had talked with the countrey people they made signes that they would bring Oxen and Sheepe within two or three sleepes.
+
+
+The 14. day euery ship sent prouision on shoare for the building of 
+Tents,
+ and this day the inhabi∣tantes of the country brought bullockes and sheep and so continued day lie for 12 dayes togeather, so that there were bought about 900 or 1000. sheep and bullockes in that time, The price of a bullock was two peeces of Yron hoopes of 6. inches long a peece, and the price of a sheepe one peece of the same length, prouided that the oxen and sheepe were fat, or else we would not buy them. The people are blacke and goe naked, sauing that they weare short coates of Seales skinne, and a peece of the same skinne about their members, they are tall of stature, flat nosed, swift in running, they will picke & steale, although you looke on them: Their language is very hard to be pronounced by reason of a kinde of clacking with the tongue, so
+
+that we could not learne one worde of their lan∣guage: The country is full of pleasant riuers, there is also Deare, Quailes, and Partriges: In this baye there is a small Iland not inhabited nor any good thing groweth: Thither did the general sēd 6. sheep and two rammes, for the reliefe of strangers that might come thither, which shortly after was found there by certaine Flemmings to their reliefe, be∣cause they could get no cattell of the country peo∣ple. In this Iland, there is great aboundance of Seales, and Penguines, in such number as is almost incredible? The Seales, some are iusset & some are blacke, both vgly & fearefull to looke on, the olde ones which are as big almost as a Beare, cry like a Beare, and the young ones crie like vnto Lambes, they haue but two feete, yet they vse their hinder partes in going, by which meanes, they will goe or clime vp any rocke a great pace, some of these we killed and made oyle of them, and some of the youngest we did eate, which to vs seemed good meate. They lay partly on land, and partly in the water, for there is their refuge. The Penguine is as strange as the other, being a bird which hath a strange and a proude kinde of going, they are of the bignesse of a Ducke, they haue finny wings with which they swim a great pace, but cannot flie, and these are in such aboundance that you may take them vp with your hands as many as you will, the egges of these Penguines was there in such a∣boundance as we could not almost go for them, so
+
+that we laded our boat with Seales, Penguines, and egges in two houres; In this Bay likewise as it is credibly reported by the Flemmings, there is ano∣ther Iland of Conies, in as great aboundance as the other of Seales and Penguines.
+
+
+Before our departure from hence we had a Ser∣mon and a Communion one a Sunday in the forenoone, and afternoone one of our men which was a Iew, was christened and called 
+Iohn,
+ our 
+Ge∣nerall
+ being his godfather.
+
+
+The 29. of October we wayed our Anchors, and set saile, there being dead in the whole fleete at this time 107. and others that were sicke recoue∣red to health.
+
+
+The first of Nouember we doubled the 
+Cape de∣bona Esperance
+ with great store of winde, raine, and haile.
+
+
+The 26. we saw Saint 
+Laurence.
+
+
+The 2. of December we had so many huge and great Grampoyses about our shippe as was strange and wonderfull.
+
+
+The 4. of December we had great stormes which continued al day and the same night, so that we were in danger to loose some of our compa∣ny.
+
+
+The 16. we saw the land of 
+Madagascar,
+ and the Iland of Saint 
+Marie,
+ and the next day we cast an Anchor betweene both landes, and sent our boats to Saint 
+Maries
+ to see what was to be gotten; but could get nothing there but Oringes & Lemmans
+
+of which we made good stoare of water, which is the best remedy against the scuruy, here we conti∣nued 3. or 4. dayes but could get no other things, but lemmons, some hony combes, some milke, and some rice which we bought for beades, we saw but only one Cow, which they draue away as soone as they saw vs, whereby we imagined they had small store. The people of this Iland are of a tall stature and very well limmed and proportioned such as we haue not seene in these parts of the world, they go naked sauing about their members they weare cloath made of the barkes of trees, and the women weare of the same stuffe from their breasts to their feete.
+
+
+The 21. we had a mighty storme both of winde and raine, so that our ship lost an Anchor, the 
+Hector
+ let slip her Anchor, and the 
+Susan
+ broake her bow sprit, and here we were in great danger, by reason we were in such a straight betweene two landes: here our ship was almost aboord the Admirall, but God deliuered vs, this storme continued 12. houres very forcible, in which time two of our Admirals men fell from the maine yarde, whereof one was saued and the other drowned, and as the winde was vehement, so the aire was very thicke and misty which made it the more dange∣rous.
+
+
+The 26. day we Anchored in the Baye of 
+An∣togill,
+ and the next daye our boates were sent on shoare and meeting with the people of the
+
+Countrie, we bought of them Rice, Lemmons & Plantons, in great quantitie and number, for we bought a measure of Rice which wayed two pounds and a halfe, for a bloud-stone, or a blew Bead, and twentie Lemmons, or twentie Plan∣tons for a Bead. In this place they haue small store of Cattell, but they went with vs vnto another Baye, where there was more store, of whome we bought two or three, giuing fiue and thirtie Chri∣stall Beads for a Bullocke, and afterwards because they would sell vs no more, wee went and tooke some from them perforce, giuing them in Beads as we paide for the other, to the valew of ten shil∣lings.
+
+
+The first of Ianuary wee began to build our Pinnace.
+
+
+The 7. of Ianuary, fiue of the 
+Susans
+ compa∣nie, being some boyes, and some youthes, stoale away the Boate from the ships stearne, thinking to haue gone to the Maine to haue liued there, but by chaunce were espyed, so that they were faine to put themselues on shoare vppon a small Iland not inhabited, where they continued two or three dayes, and beeing weary of their faire and lodging, came againe aboorde, and were punished for their offences.
+
+
+The 17. of Ianuary, one 
+Christopher New∣church
+ our Surgeon of the 
+Ascention
+ poysoned himselfe, but it did not worke his death: yet was he greeuously tormented for three or foure dayes,
+
+for which cause he was dismissed of his place, and should haue beene left in this place a shoare, had not Maister 
+Hauers
+ intreated for him who tooke him into his shippe to liue as an ordynary man.
+
+
+The 4. day of February we had a great storme of winde and raine, which continued all day and the same night.
+
+
+The 20. day Maister 
+Brodbancke,
+ Maister of the Admirall died.
+
+
+The 23. day of February, Maister 
+Pullin
+ our prea∣cher died.
+
+
+The 23. day Maister 
+Napper
+ Maister of the vice Admirall died, and the same day one of our Admi∣rals men being sicke of the Calanture, leaped ouer∣boord and was no more seene.
+
+
+The 27. day being Saterday, the lamentablest accident happened, that happened since wee de∣parted England, and thus it was, Maister 
+Winter
+ the Maisters Mate of the Admiral dying, the rest of the Captaines and Maisters went to his burial and according to the order of the sea, there was 2. or 3. great ordinances discharged at his going a shoare, but the maister Gunner of the Admirall being not so carefull as he should haue beene, vnfortunately killed Maister 
+Brand
+ Captaine of the 
+Ascention
+ and the Boatswaines mate of the same ship, to the great danger of the Maister, his mare and another Mar∣chant who were hurt and besprinckled with the bloud of these massacred men, so these men going to the buriall of another were themselues carryed
+
+to their owne graues. Thus did we loose a man re∣ligious, wise & prouident; such a one as the whole fleete will misse, both for good husbandry, care, and good aduice: Vpon these alterations 
+Roger Hau∣kin
+ was made maister of the Admirall, maister 
+In∣deck
+ maister of the vice Admirall, for maister 
+Nap∣per
+ was dead, maister 
+Coale
+ maister of the Ascenti∣on, maister 
+Pope
+ was made Captaine of the Ascen∣tion and some of the other Marchants remooued some to one ship, some to another.
+
+
+The 4. day of March, wee set saile out of this tempestuous and vnfortunate Baye, where there was many men died of the flixe out of the Admi∣rall. So that wee continued here two monethes and eight dayes, hauing for the most part euery daye fearefull thunder, raine and lightenning, as the like is not heard in our countrey, for they haue many slaine with the thunder which maketh them make hast to gette home before night. The people are very industrious and take great paines, both in setting of Rice which groweth there in great quantytie, so that there is whole stackes thereof, as also in beating and winnowing the same. They weaue such thinges as they weare about their bodyes beeing made of the barke of trees. Their houses are but meane, standing halfe a yarde from the ground and couered with leaues, with a hoale at one ende of the same house to creepe in at on their knees.
+
+They loue Wine exceedingly, with which they will bee very drunke: As there is many small townes, so there is many Gouernours which are knowne from the other, both by the reuerence is giuen them of the people, and their ornaments of brasse Rings, and Beades: they are maruelous nimble with their Lawnces and Targets, but very fearefull of our Peeces. The chiefe Gouernour came aboorde of vs with his wife to dinner, where we might perceiue their manner of feeding to be very homely, and for their assurance of safe∣tie, there was so many sent a shoare as came a∣boord, and after dinner, Captaine 
+Middleton
+ gaue the principall man a thinne shute of 
+Manchester
+ stuffe, which pleased him well.
+
+
+
+
+Certaine words of their language.
+
+
+Taughu,
+ Wine.
+
+
+Rano,
+ Water.
+
+
+Herinco,
+ Fish.
+
+
+Bedehang,
+ Beades.
+
+
+Kissow,
+ a Knife.
+
+
+Totombar,
+ Rice.
+
+
+Lemona,
+ Lemons.
+
+
+Eeno,
+ Full.
+
+
+Semiss
+,
+ no more left.
+
+
+Matty,
+ Thunder.
+
+
+Sungo Funsho,
+ ripe Plantons.
+
+
+Essa,
+ One.
+
+
+Roe,
+ Two.
+
+
+Tellu,
+ Three.
+
+
+Effa,
+ Foure.
+
+
+Demi,
+ Fiue.
+
+
+Ena,
+ Six.
+
+
+Ceto,
+ Seuen.
+
+
+Vallo,
+ Eight.
+
+
+Ciui,
+ Nine.
+
+
+Foolo,
+ Ten.
+
+
+Beginning againe and reckoning to ten.
+
+
+
+
+
+
+The 17. day of Aprill, we passed the 
+Equinocti∣all
+ line which is the second time that we passed it.
+
+
+The 30. day of March we were on the shoales of 
+Adu
+ which is nine degrees to the South of the 
+Equinoctiall
+ and at the first sight of ground (being full of rockes) our ship had but 4. fadome and a halfe, here we were in great danger, being inclosed & compassed round with rocks as in a pound, and hauing spent 2. dayes and nights in turning and re∣turning but could finde no way out, at the length the Pinnace was sent before to finde where there was least danger, and hauing found 7. or 8 fadom we all followed her and hauing passed this danger, we gaue God the praise which had mercifully de∣liuered vs.
+
+
+The 7. day of May, we had sight of 
+Nicombar,
+ which is about 40. leagues from 
+Sumatra,
+ this night following we had a great storme, and in this storme if God had not deliuered vs wonderfully our ship or the 
+Hector,
+ or both had suncke in the sea, being almost aboord of one another in lying of those I∣lands: this night also we lost company with the Pinnace, but within 2. or 3. dayes she came to vs in that habor, here we stayed 9. or 10. dayes to wa∣ter and ballast our shippes and to mount our or∣dinance. The people of the country brought vs aboord Coaker nuts, Cassado roots, Pouncea∣trones, and Lemmons, and some hens, but they made dainty of their hens, for they would not sell
+
+them vnder two Counters a peece, taking them for gould, although they solde other things for olde peeces of Linnen, and small peeces of Yron hoopes, some of these people speake 
+Portugale,
+ who tolde vs that the 
+Portugales
+ vse to put into this harbor as they goe to 
+Mallacca,
+ and that two 
+Gallions
+ were there two moneths before our com∣ming thether, which had bought all the Amber-Greese was to be gotten.
+
+
+The 18. day we set saile from hence, but by rea∣son of fowle weather, and contrary windes, our Admirall lost his boate, and sprung a leake, and therefore would haue fetched that harbor againe, but could not. So wee went to other Ilands called 
+Sombrai,
+ 10. or 12. leagues to lewward 
+Nicombar.
+ Heere our 
+Admirall
+ lost an anckor, for the ground is rockie, and full of counterfeit Currall. The pro∣ple of this Iland goe naked, hauing onely their pri∣uities bound vp in a narrow peece of Linnē cloath, which commeth about their middle like a girdell, and so betweene their twist: they are of a tawnie couler, they annoint their faces with diuers coul∣lers, they are well limmed, but very fearefull, for they would neither come aboord our ships, nor come into our boates: There groweth in this Iland Trees, that for the talenesse, greatnesse, and straightnesse thereof, they will serue the biggest Shippe in our Fleete for a maine Maste, and the Iland is full of these Trees.
+
+
+Heere likewise we did finde vpon the Sandes a
+
+small twigge growing vp greene like a young tree, and offering to pull the same vp it shrinketh into the ground, and sincketh, vnlesse you holde very harde, but beeing pulled vp, a great worme growth about the roote thereof, very strange to see, of these I gathered many. We departed from hence the 29. of this moneth.
+
+
+The 2. of Iune, wee anckored in the roade of 
+Dachen,
+ where wee had of the countrie people came aboorde of vs with their Canows, grea∣ter then any wee had seene before, hauing raf∣ters of eache side of them, so that they cannot sincke.
+
+
+The next day, there came some of the Factors for the Flemmings aboorde of vs, to welcome vs into that Countrey. And the same daye our 
+Vize-Admirall
+ went a shoare to the King, with a message from our Generall, accompanied with Maister 
+Salter,
+ Maister 
+Ianuerme,
+ and Maister 
+Groue,
+ who hearing of their landing, sent them Elephants to ride to his court, being about a mile from the landing place, where they were kindlie entertained, and giuing too the Vize-Admirall, a Roabe and a Tucke of Callico imbrodered with golde.
+
+
+The 4. of Iune being Saterday, the Generall went on shoare, accompanied with Captaine 
+Ha∣uers,
+ Captaine 
+Pope,
+ and many other Marchants, to deliuer the Queenes letter, and to giue him pre∣sents, which were a Bason & Ewer of siluer, a stand∣ing
+
+cup of siluer, a Head-peece, a paire of Hāgers, a Fanne of Fethers, & a Looking-glasse: these be∣ing deliuered by the Marchants, none pleased him so well as the Fanne of Feathers, with which hee caused his women to Fanne him. First at the Ge∣nerals landing, the Flemmings mette him and car∣ried him to their house, where he stayed vntill the King sent for him: In the meane while there came a Noble-man called 
+Curcon,
+ who would haue receiued her Maiesties letter to haue deliue∣red it to the King, but our Generall refused to de∣liuer it to any, but to the King himselfe. Then did the King send sixe Elephants for the Generall and his attendants, whereof there was one Elephant which was the greatest that carried a Cannopie couered with Redde cloath, in which Cannopie was a peece of Silke, and a peece of cloath of gold to carrie her Maiesties letter in, and vpon this Elephant none did ride but he that carried the let∣ter. The Generall ridde vppon another with a guide before him, and vppon the rest some did ride and some did not, for it is very vneasie riding vppon them, their backes are so broade, and they so great and tall.
+
+
+The King did likewise send his Trumpets and other Musicke which played before the Generall to the Courte, and there was twentie other that carried streamers of silke of diuers coulours, ac∣cording to that countrie manner. So the Gene∣rall entering into the first gate of the Court rested
+
+himselfe there, vntill the King had notice of his comming, who presently sent for him, and foure other of the principall men about the Generall, who when they had brought him to the King, came backe for the presents, which were car∣ryed in by the Marchants appointed for that purpose.
+
+
+And after they had passed three courtes, they came into a place couered with Cannopies, ad∣ioyning to the Kings Gallerie, where the King satte, and after they had giuen 
+Doulat
+ to the King, and the King resaluted them according to their Countrie fashion, which is by lifting both their handes aboue their heads, they satte downe to dinner, where they had great cheere, and to the number of two or three hundreth se∣uerall dishes of meate, baked, roasted, and boy∣led: The Dishes and Cuppes wherein they were serued, were most of goulde, and of a mettall much like to Bell mettall, which is dea∣rer then goulde, euery dishe couered, some with 
+Purslain
+ of 
+China.
+ Their drinke is called 
+Aracke,
+ and is verye strong, and is not to bee drunke without water, yet that which is gene∣rally drunke in the countrie is nothing so strong, nor so wholesome.
+
+
+The King asked our Generall if our Queene were married, & how long she had raigned, which when the Generall had answered by his interpre∣tor, the King wondred. The King likewise told the
+
+Generall, if the words in her Maiesties letter came from the hart, he had cause to thinke well thereof. Dinner being ended, the King caused his Damsels to daunce, and his women to play Musicke vnto them, who were richly adorned with Bracelets and Iewels, and this was a great fauour: for hee dooth not vsually let them be seene to any. The King did likewise giue vnto our Generall a fine white Roabe, and a Tucke, imbrodered with gold very ritchly: also a great Girdell and two Crises, all which one of his Noble-men put on in the Kings presence, and in this manner hee departed the Court and went aboord; and the King sent him aboorde a Bullocke, and great store of fresh fish. So that to conclude, he did receiue hir Maie∣sties letter with great kindnesse, and entertained our Generall with greater state then hee is accu∣stomed to doe to other nations, as wee might per∣ceiue by diuers Embassadors that came thether whilest we were there.
+
+
+The 5. of Iune Captaine 
+Pope
+ went a shoare for one of our men which was lest in the towne all night by his owne negligence, for the Gene∣rall did feare because hee spoake 
+Portugale,
+ and that there were 
+Portingalls
+ in the towne, that hee might make knowne vnto them some-thing which might bee preiudiciall to the Fleete, Maister 
+Pope
+ dined this day with the King, who gaue him a Heyffer to carrie aboorde with him.
+
+
+
+
+The 7. day of Iune, after the Generall had li∣cence vnder the Kings hand both for the safe lan∣ding of all our marchandise, without paying any custome or toale, as also that we might buy & sell of the country people, without let or molestation: then did Captaine 
+Hauers,
+ Maister 
+Pope, Henry Middleton,
+ & Maister 
+Starkey
+ take a house, wherin to lay their Marchandise.
+
+
+The 8. day of Iune, the Generall went a shoare to lodge there.
+
+
+The 11. day of Iune, the King did annoint the Generall with ritch oyntment, and called him his sonne.
+
+
+About this time one 
+Thorougood
+ in our Admi∣rall was araigned, and found guiltie of mutiny and comtempe, and therefore was condemned to bee hanged; but by great intreaty he was forgi∣uen.
+
+
+The 13. day the Generall went to the young Prince, which dwelleth halfe a mile from his fa∣ther, and the Generall gaue him a peece of plate, A paire of hangers and a sworde, the Prince enter∣tained him kindely, gaue him a roabe and a cri∣ses, and gaue vnto them which came in with him ruckes of callico Lawne.
+
+
+The 17. day of Iune, one 
+Curcon
+ a principall man in that countrie & diuers others, came aboord our ships to see them, but especially to see the 
+Su∣san,
+ whom the Generall had offered to the King to sell, for a certaine quantity of Pepper, but could
+
+not agree, so after they had banqueted aboord the Admirall, and dyned aboorde the vice Admirall, they departed with a peale of ordinance.
+
+
+The 19. day the Admirall receiued a boates la∣ding of Pepper which was the first was bought, the price was 64. Rialles of eight the Bahar, which is of our waight, reckoning two hundred Catties to a Bahar and euery Catty thirty one Ounces, is three hundred eighty seuen pound and a halfe, fiue score to the hundred.
+
+
+During the time we were at 
+Dachem
+ the King desired to haue our Pinnace goe to Pedeir, accom∣panyed with a Portugalles frigat, to take if they might rouers at sea, which did rob his subiectes, and did send to the valew of 100. Markes in golde, for those that should be imployed in that businesse, and because the General sent the Pinnace with 14. or 15. men (of whome 
+Gabriel Towerson
+ was Cap∣taine) but did no seruice. Therefore the Generall would haue giuen the King that mony againe but hee would not receiue it by any meanes, saying what hee gaue, he gaue, and would not take a∣gaine.
+
+
+And at the same time there was seuen or eight hundred houses burnt at sundry times in 
+Dachem
+ while we were there.
+
+
+Therefore the Generall bought an oulde stone house bui
+te it and couered it with slate, and at our comming awaye gaue it the king, the
+
+ground & house cost almost one hundred pound starling.
+
+
+The Generall hauing intelligence of the price and goodnesse of Pepper at 
+Priaman
+ and seeing the smal quantity that was to be gotten at 
+Dachem,
+ sent the 
+Susan
+ thether with our small Pinnace to bring news of her successe, and because Captaine 
+Hauerd
+ was lately dead, 
+Henry Middleton
+ was appointed Cape Marchant in his place.
+
+
+The 24. daye of Iune there came into the road of 
+Dachem
+ a Flemmish Pinnace which had lost her Admiral, of which Fleete one 
+Spilbacke
+ of Middle-bourough was Generall, shee was of the burthen of fifty tunne, and had but three men and two boyes in her, which Pinnace our General bought, for they mistrusted they should not heare of their Generall againe.
+
+
+There came also into the roade of 
+Daehem
+ a great shippe of Saint Mallos in Fraunce of the burthen of foure hundred tunne. The Generall his name was 
+Mounser de Bardeler,
+ they lost their vice Admirall by Shipwracke vppon the 
+Maldeus
+ & departed from 
+Dachem
+ for France with about 14. tunne of Pepper, some smale quantity of Sinamon, and some Indico, so that he had not halfe of his lading.
+
+
+The 8. day of September, came into this roade two flemish ships from 
+Seylon
+ with Sinamon vn∣to whome did belong the Pinnace that our Ge∣nerall
+
+bought, and because our Generall had resol∣ued to goe for Malacca, he did take the Admirall of the flemmings with him being about 200, tunne and very well manned, and in consideration there∣of to haue the 8. part of what was taken, & for our owne fleete the General had compounded that the company should haue the sixt part.
+
+
+The 11. day of September, our 
+Admiral, vice Admi∣rall, Rear Admirall,
+ & the flemish ship and Pinnace departed hence for the straightes of 
+Malacca
+ our generall dangerously sicke. Captaine Pope dyed. During the time of the Generalles absence, the French men had raised the price of Pepper, from 24. Tayes the Bahar to 27. and 30. and 32. so that we were forced to buy some of that price.
+
+
+The 3. day of October, being in the straites of 
+Mallacca
+ the 
+Hector
+ espyed a great ship towardes e∣uening which came from S. 
+Thoma,
+ & was bound for 
+Malacca,
+ and the next morning yeelded them∣selues without any resistance, or so much as any one man hurt, this day we beganne to vnlade her, and had out of hir 950. packes of Calico, and Pen∣tadoes, besides many great chestes with Marchan∣dise, all which was vpon her orlops, But her hould was full of Rice, and because of a storme, that did arise we were forced to leaue hir with that great aboundance of Rice, and with store of victuals as Porke, Butter, Cheese, Ruske, conserues, suc∣kets, hens in pickle, hens preserued with store of Sinamon water, and palmeto Wine: the name of
+
+this ship was the Saint 
+Anthony,
+ and of the bur∣then of 700. tun: and it was strange to see the num∣ber of men, women and children that were in her not so few as 600. persons whereof there was but a few Portingalles, the rest passengers and People of these countries. And in 6. dayes we had dischar∣ged her of the best of her lading, and would haue taken more if we had had time and place. Thus our fleete returning to 
+Dachin
+ the 28 of October, our Generall gaue order, for the shipping as well of such Marchandise as came out of England and was vnsould, as also all such Pepper, and Sinna∣mon as was bought in the absence of the fleete, and made what speede possible might bee for our departures thence. At this time came our Pinnace from 
+Priaman
+ with letters to our Ge∣nerall, where was good newes, both for the price and quantity of Pepper, vppon the re∣ceite whereof the Generall sent the Pinnace which we bought of the flemmings to 
+Priaman,
+ with some of the prised goodes and other com∣modities.
+
+
+The King of this Countrey is very ritch in∣treasure, and strong in the number of men, he hath great store of Ordinance of Brasse, and those verye great and Massey, their Lawes are seuerely inflicted vpon them that offend, either by deliuering them to the 
+Elephantes
+ to be deuoured or cutting of their Noses, and eares, accord∣ing to the haynousnesse of the offence. They
+
+bury their dead with great solemnitie, & mourne ouer their graues certaine dayes, setting vp at each ende of their Graues either one or two stones, carued according to the abilitie of the person, and they are buryed together in families. The people are verye subtill and cunning in bargai∣ning, and vnconstant in all their wordes, for they will sell one thing to diuers men, and take earnest of them all; and if another will giue any thing more, he shall haue it. Their coyne is goulde and lead, that of goulde they call 
+Masse,
+ sixe of them for a Royall of eight: Those of Lead they call 
+Cashe,
+ whereof 2100. maketh a 
+Masse,
+ so that a 
+Copaine
+ is the fourth part of a 
+Masse,
+ being 525. 
+Cashe,
+ for which you may buye Hearbes and Fruites, and Fishe: euery daye in the weeke is a market day for victualls, not so much as Friday which they call their Good-day; but they keepe no shoppes open for Marchandize on that daye. There is great store of Hennes, Buffles and Bul∣lockes, yet very deare, a Henne at nine pence or twelue pence, Buffels at two Tayes and a halfe, which is thirtie shillings starling, Egges, eighteene or twentie for nine pence: and at our comming away, foureteene for nine pence: Rice is brought from other places thether, as good Marchandize, and is solde by the 
+Bambue,
+ sixe or seauen 
+Bambues
+ for nine pence, euery 
+Bambue
+ being an Ale quarte; So that in this place there is neither marchandize nor any thing else good cheape of it selfe, the
+
+countrie is very vnwholsome, that almost it may be said of it, as it is said of 
+Malacca,
+ fewe come the∣ther, but eyther loose hide or hayre: heere we lost ten or twelue men out of our ship. There are E∣lephants in greater number and bigger stature, then in any of those parts, which are the chiefe strength of this land, the greatest is ruled with a little Boye, hauing a sticke with a hooke at the end, and is of the greatest vnderstanding of any beast liuing: as for their strength, I did see one drawe the Kings Frigat laden with Pepper, which was a ground, being ten or twelue tunne, very ea∣silie. The King taketh pleasure to see them fight, as likewise in Cock-fighting, at which game they lay a hundred pound, or a hundred & fiftie pound Starling on a Cockes head. Their Shippes, Sayles, Mastes, Anchors, and Cables, are all of wood.
+
+
+
+
+Malies
+ speech, such as is vsed in these 
+Indies.
+
+
+1. 
+Satu.
+
+
+2. 
+Dua.
+
+
+3. 
+Tiga.
+
+
+4. 
+Vmpat
+
+
+5. 
+Lema.
+
+
+6. 
+Nam.
+
+
+7. 
+Toufeurs.
+
+
+8. 
+Delapan.
+
+
+9. 
+Simbalan.
+
+
+10. 
+Sapula.
+
+
+11. 
+Sablas.
+
+
+12. 
+Duo blas.
+
+
+13. 
+Tiga blas.
+
+
+14. 
+Vmpat blas,
+ &c.
+
+
+100. 
+Saratus.
+
+
+1000. Sariba.
+
+
+
+
+Pege,
+ Goe.
+
+
+Marre,
+ Come hether.
+
+
+Barapa,
+ How sell you.
+
+
+Iam,
+ A Henne.
+
+
+Tellor,
+ Egges.
+
+
+Deduc,
+ Sit downe.
+
+
+Mana pege,
+ whether go you.
+
+
+Harry,
+ A day,
+
+
+Campan,
+ A Ship.
+
+
+Praw,
+ A Boate.
+
+
+Barass,
+ Rice.
+
+
+Ladda,
+ Pepper.
+
+
+Ladda sula,
+ White Pep∣per.
+
+
+Tanna,
+ Earth.
+
+
+Roma,
+ A house.
+
+
+Macan,
+ Eate.
+
+
+Babbe,
+ Porcke.
+
+
+Pedang,
+ A Sworde.
+
+
+Cheremin,
+ A Glasse.
+
+
+Baick,
+ Good.
+
+
+Teda baick,
+ Not good.
+
+
+Carron,
+ A bagge.
+
+
+Tally,
+ A Corde.
+
+
+Suda,
+ Quickly.
+
+
+Isuc,
+ To morrow.
+
+
+Bree,
+ Giue me.
+
+
+Rotan,
+ that which they bind their houses with.
+
+
+Cring,
+ Drye.
+
+
+Aire,
+ Water.
+
+
+Appe,
+ Fire.
+
+
+Attowan,
+ Sir.
+
+
+Roge, Sultan,
+ The King.
+
+
+Taw,
+ I vnderstand you.
+
+
+Tida tau,
+ I doe not vn∣derstand.
+
+
+Gyngo,
+ A Iewes Harpe.
+
+
+Sussu,
+ Milke.
+
+
+
+
+When we were ready to depart this Roade, we had a hundred and foure-score men dead in the whole Fleete.
+
+
+
+
+The 11. of Nouember we wayed anchor alto∣gether, and the 13 of the same moneth, we parted with our Generall and Vize-Admirall, they went to 
+Priaman
+ where the 
+Susan
+ did lade, and from thence to 
+Bantam
+ (for there is the best saile for such commodities as were taken in the Prise, of any place in all the 
+Indies
+) and we for England: 
+Deus vortat bene.
+
+
+The 11. of December we had the Moonsoon or trade winde, and so continued sayling before the winde vnto the first of Ianuarie, after which time wee found the winde variable, being in the height of 20. degrees to the South of the line.
+
+
+The 11. of Ianuary hauing a storme in the night, we had sixe 
+Corpus Sanctus,
+ so called by the 
+Por∣tingals;
+ whereof three were vpon our Maine top Maste head, two on our fore-top, and one vpon our flagge staffe, they seemed to vs to be as bigge as the biggest Starres, and are neuer seene but in stormes, and vanish away before the storme en∣deth: if they be seene in the cheanes or shrowds of the ship, it is a signe the storme is of longer continuance, if in the highest toppes, it is like∣wise a signe the storme is ended, and so we found it for certaine.
+
+
+About this time our Maister Gunner, and an other of the Gunner roome dyed.
+
+
+The 13. day we saw two Marmaides, and as we iudged them, they were Male and Female, be∣cause the Mosse of one of their heads was longer
+
+then the other, their heades are very round, and their hinder parts are deuided like two legges, they say they are signes of stormy weather; and so we found it, For the 17. day following we had a great storme with a contrary winde which continued 4. dayes.
+
+
+The 22 the French ship which we left at 
+Dachem
+ ouertooke vs, being in the height of 33. and a halfe and about 250 or 300 leagues from 
+Cape de bona Esperance
+ who was glad of our company, both in regard their ship was so leake, that they were faine to pumpe almost continually, as also they had hope to be releeued of vs with victualles for they had nothing but Rice and water: we caught daylie for sixe weekes space great store of fish more then wee coulde eate, as of 
+Albecores, Bonitos
+ and 
+Dolphins.
+
+
+From the 22. to the 30. we had a faire winde at E. S. E on which day being in 34 and a halfe we had a great storme, and as it was great, so it was suddaine before we could take in our sailes which maketh them dangerous, wee laye at Hull two dayes, after which time we had a faire winde at E and by S. being about 60. leagues from 
+Cape de bona Esperance.
+
+
+The 3. of February one of our men going to the toppe mast head espied the 
+Cape de bona,
+ &c as also two Holland shippes, to our great ioye and com∣fort, for whome we stayed, and whereas before, the French and we had resolued to goe into 
+Solda∣nia
+
+
+road the next morning, by reason of their com∣pany, we shapte our course for S. 
+Hellena.
+ These two ships had beene at 
+Paetania
+ where they laded pep∣per, and at the 
+Molucos
+ where they had Cloues, & vpon the coast of 
+China
+ where they bought Silkes both raw & twisted, so that their lading was very rich. The Admiral being of the burthē of 600. tun, and the other 200. tun, both well appointed with men and Ordinance, sauing that some of their men were sicke, and when we had toulde them that our Admirall, and vice Admirall, were gone to 
+Ban∣tam,
+ they tould vs of a certaine they should soone be laden, and at a low price, for they came from thence, and at their first comming thether, the Countrey thought they had come thither to buy Pepper, but when they sawe they were laden al∣ready, they would haue soulde it for any price, so that in regarde of the Marchandise our Gene∣nerall carryeth with him (which is the prize goodes) and the great quantytie of Peper which they haue no meanes to vtter, there is no doubt by the grace of God, but they shall bee la∣den good cheape, and in verye short time, A∣men.
+
+
+The 20. daye of Februarye wee had sight of Sainte 
+Hellena
+ and the twentye one daye wee anchored in the roade, where wee deli∣uered vnto the French-men, and vnto the Hollanders such victualies to relieue them as
+
+we could spare, which was sixe hogsheades of Porke, two hundreth of Stockfish, one hogshead of Beanes, and fiue hundred of bread, whereof the hollanders were in great want. This Iland is not an earthly Paradice as it is reported, but it is a place of good water, & some Lemmon trees, & Fig trees, planted by the Portingalles, & great stoare of goats and hogges, and partridges, but not to be gotten without great labour and paines, for they are wilde, and the Iland full of great high hilles. The greatest refreshing in this place is fish in great aboundance, so that all our shippes haue taken in one day foure hundred fish, here did one 
+Moore
+ die, which was one of our Maister his mates, he was sicke euer since we came from 
+Dachin.
+
+
+The 9, day of March, the French-men departed this roade.
+
+
+The 14. day of March, the Generall of the flem∣mings Anchor came home, which caused vs to de∣part thence the same day, for their men were well recouered and refreshed.
+
+
+The 21. day of March, we had sight of the 
+As∣cention
+ Iland which lyeth in eight degrees to the South of the 
+Equinoctiall.
+
+
+The 28. and 29 very little winde.
+
+
+The 30. day of March, we pasled the 
+Equinoc∣tiall
+ line, with a fine gale which is the fourth time we passed it.
+
+
+The first of Aprill calme.
+
+
+The 3.4. and 5. very calme, much raine, and the
+
+winde verye mutable beeing in 2. degrees to the North-ward of the line.
+
+
+The 6.7.8. and 9. a fresh gaile.
+
+
+The 21. day of Aprill, we entred the 
+Saragoss
+ sea being in 19. degrees.
+
+
+The 25. day we passed the Tropickes, the same day one of our men died.
+
+
+The last of Aprill wee were in 30. degrees, and the next day we had a great gaile with some raine.
+
+
+The 15. day of May, we were in 40. degrees and in the height of 
+Flore,
+ and 
+Corues,
+ heere the windes were variable and very colde.
+
+
+The 25. day we saw a small ship but could not speake with her.
+
+
+The first of Iune, we were in 44. degrees ⅓. ha∣uing a good gaile of winde at the South-west, we holding our course North-east.
+
+
+The 5. day we sounded, and found ground at 94. fadome.
+
+
+The eight day of May, we had sight of the 
+Li∣zard,
+ and so with out stay to the Downes, & from thence into the riuer to Woolwich, God be pray∣sed for it, and send the rest home in safety.
+
+
+
+
+
+
+Certaine words of 
+Pegu
+ language.
+
+
+Mugaru,
+ what call you it.
+
+
+Kidnan tiuan,
+ Giue mee bread.
+
+
+Fegoe,
+ a Catte.
+
+
+Boon,
+ A Knife.
+
+
+Tobacu,
+ A Pen.
+
+
+Slappoit,
+ A Booke.
+
+
+Pappoit,
+ A Table booke.
+
+
+Memuru,
+ What is your name?
+
+
+Talla,
+ A Chest.
+
+
+Tene,
+ A Pillow.
+
+
+Tayongabalon,
+ a Maste.
+
+
+Pomeé,
+ Breeches.
+
+
+Cheochum,
+ Stockins.
+
+
+Botoway,
+ A Thombe.
+
+
+Toway,
+ a fist.
+
+
+Cadup,
+ a head.
+
+
+Suck,
+ haire of the head.
+
+
+Slagota,
+ the eare.
+
+
+Yu, yu,
+ I, I.
+
+
+Moat,
+ eyes.
+
+
+Tegla,
+ By and by.
+
+
+Ciniaut,
+ Let me see.
+
+
+Catu,
+ The Moone.
+
+
+Shenon,
+ A Starre.
+
+
+Yacata,
+ The morning.
+
+
+Keka,
+ Good.
+
+
+Kecho,
+ sit downe.
+
+
+Cacadòe,
+ The palme of the head.
+
+
+Sanimbodoway,
+ the naile of the hand.
+
+
+Nepóe,
+ Sir.
+
+
+Mucherow,
+ how sell you.
+
+
+Cabang,
+ A Ship.
+
+
+Aw, aw,
+ what say you?
+
+
+Braw,
+ A Woman.
+
+
+True,
+ A Man.
+
+
+Fekeé,
+ A Whoore.
+
+
+Oiara,
+ I will goe.
+
+
+Tamonra,
+ Farewell.
+
+
+Keag,
+ God.
+
+
+Cling, Clang,
+ Much.
+
+
+Nung, nung,
+ come hither
+
+
+Cooke,
+ Come hither,
+
+
+Cleá,
+ Dogge.
+
+
+Cle,
+ Bite.
+
+
+Kleg,
+ A Hogge.
+
+
+Togatu,
+ Noone.
+
+
+Daick,
+ Water.
+
+
+Carrow toway,
+ wash hāds
+
+
+Ksole,
+ To spit.
+
+
+Stcake,
+ Sleepe.
+
+
+Notada,
+ Arise.
+
+
+Tarangcatu,
+ A doore.
+
+
+Poctarang,
+ opē the dore.
+
+
+Dotarang,
+ shut the dore.
+
+
+Chulay,
+ let it downe.
+
+
+Downang,
+ Take vp.
+
+
+
+
+
+
+
+
+
+
+❧ A note of the mens names deceased out of the 
+Dragon.
+
+
+1
+ William Thomson.
+
+
+2
+ Iob: Harket.
+
+
+3
+ William Allin.
+
+
+4
+ Raphe Arden.
+
+
+5
+ Christopher Scot.
+
+
+6
+ Edward Maior.
+
+
+7
+ Thomas May.
+
+
+8
+ Iohn Pegoune.
+
+
+9
+ Iohn Iohnson.
+
+
+10
+ Philip Salisbury.
+
+
+11
+ Edmund Dauies.
+
+
+12
+ Richard Ioanes.
+
+
+13
+ Daniell Richardson.
+
+
+14
+ Iohn Clackson.
+
+
+15
+ Robert Poppe.
+
+
+16
+ Iohn Webbe.
+
+
+17
+ Iohn Humber.
+
+
+18
+ William Burrowes.
+
+
+19
+ Mathew Perchet.
+
+
+20
+ Edward Keall.
+
+
+21
+ Nicholas VVilliams.
+
+
+22
+ Peter Bennet.
+
+
+23
+ Leonard Nichols.
+
+
+24
+ Robert Dame.
+
+
+25
+ Iohn Iudson.
+
+
+26
+ William Barker.
+
+
+27
+ William Barret.
+
+
+28
+ William Ridge.
+
+
+29
+ Ralphe Salter.
+
+
+30
+ Ieremy Gaufe.
+
+
+31
+ Henry Thickpenny.
+
+
+32
+ Henry Brigges.
+
+
+33
+ Rice Williams.
+
+
+34
+ Martine Topsaile.
+
+
+35
+ M. VVilli. Bradbanke
+
+
+36
+ Richard Androwes.
+
+
+37
+ M. Tho: Pullē preach.
+
+
+38
+ Ieames Fullar.
+
+
+39
+ William Winter.
+
+
+40
+ William Hall.
+
+
+41
+ Iohn Hankin.
+
+
+42
+ Richard Exame.
+
+
+43
+ Robert Hill.
+
+
+44
+ Iohn VVoodall.
+
+
+45
+ Iohn Ieane.
+
+
+46
+ Robert Keachinman.
+
+
+47
+ Ieames Cauerly.
+
+
+48
+ Iohn Hope.
+
+
+
+
+49
+ Iohn Trincall.
+
+
+50
+ Iohn Duke.
+
+
+51
+ Martaine Cornelison.
+
+
+52
+ Launslet Taylor.
+
+
+53
+ Iohn Settell.
+
+
+54
+ William Burrowes.
+
+
+55
+ Perceuall Stradling.
+
+
+56
+ Iohn Harrice.
+
+
+57
+ Frauncis Pormoth.
+
+
+58
+ Edward Baddiford.
+
+
+59
+ Thomas Price.
+
+
+60
+ Phillip Goulding.
+
+
+61
+ Roger Morrice.
+
+
+62
+ Stephen Burdall.
+
+
+63
+ Nicholas Ragwood.
+
+
+64
+ George Wattes.
+
+
+65
+ Myles Berry.
+
+
+66
+ William Mounke.
+
+
+
+
+
+
+A note of the mens names decea∣sed out of the 
+Hector.
+
+
+1
+ Iohn Robinson.
+
+
+2
+ Thomas Dassell.
+
+
+3
+ Ieames Iefferes.
+
+
+4
+ Morrice Webbe.
+
+
+5
+ Mathew Starkey.
+
+
+6
+ Iohn Middleton.
+
+
+7
+ Thomas Appollow.
+
+
+8
+ Iohn Fishaker.
+
+
+9
+ George Parsons.
+
+
+10
+ Walter Cobbe.
+
+
+11
+ Edward Holte.
+
+
+12
+ Richard Marshall.
+
+
+13
+ Iohn Osseuer.
+
+
+14
+ Morrice Hammont.
+
+
+15
+ Thomas Wilkinson.
+
+
+16
+ William Iones.
+
+
+17
+ Edmund Faurcliffe.
+
+
+18
+ Roger Moore.
+
+
+19
+ Robert Ashplie.
+
+
+20
+ Peter Iohnson.
+
+
+21
+ Adam Children.
+
+
+22
+ Robert Burche.
+
+
+23
+ Henry Great.
+
+
+24
+ Nicholas Franke.
+
+
+25
+ William Predam.
+
+
+26
+ Emanuell Sims.
+
+
+27
+ Iohn Harris.
+
+
+28
+ Maist. Henry Napper.
+
+
+
+
+29
+ Christopher Cadde.
+
+
+30
+ Thomas Pinchbanke.
+
+
+31
+ Rowland Hils.
+
+
+32
+ Oliuer Adams.
+
+
+33
+ Iohn Endick, Maister.
+
+
+34
+ Iohn Russell.
+
+
+35
+ Iohn Martin.
+
+
+36
+ Iohn Coman.
+
+
+37
+ Iohn Holliday.
+
+
+
+
+
+
+A note of the mens names decea∣sed out of the 
+Ascention.
+
+
+1
+ William Leake.
+
+
+2
+ William Pizing.
+
+
+3
+ William Whitting.
+
+
+4
+ Gabriell Stone.
+
+
+5
+ William Hambling.
+
+
+6
+ Edward Carricke.
+
+
+7
+ Arnold Malyn.
+
+
+8
+ William Morgan.
+
+
+9
+ Robert Sauadge.
+
+
+10
+ Iohn Verker.
+
+
+11
+ Richard Burrice.
+
+
+12
+ Iohn Griffeth.
+
+
+13
+ Michaell Nicholson.
+
+
+14
+ Iohn Fare.
+
+
+15
+ Thomas Daurell.
+
+
+16
+ Iohn Rowe.
+
+
+17
+ Robert Double.
+
+
+18
+ Robert Cooper.
+
+
+19
+ Iohn Hampton.
+
+
+20
+ Thomas Cocklim.
+
+
+21
+ William Betty.
+
+
+22
+ Robert Batman.
+
+
+23
+ Iohn Badby.
+
+
+24
+ Richard Horton.
+
+
+25
+ Iohn Syclemore.
+
+
+26
+ William Williamson.
+
+
+27
+ Richard Hamond.
+
+
+28
+ Thomas Eueret.
+
+
+29
+ Augustin Iordan.
+
+
+30
+ Thomas Way.
+
+
+31
+ Methewsalē Mountioy
+
+
+32
+ William Brune Capt.
+
+
+33
+ Thomas VVard.
+
+
+34
+ Thomas Scriuen.
+
+
+35
+ William Maler.
+
+
+36
+ Robert Pope, Captain.
+
+
+37
+ Iohn Reddoe.
+
+
+38
+ Thomas Salter.
+
+
+
+
+
+
+
+
+A note of the mens names decea∣sed out of the 
+Susan.
+
+
+1
+ Henry Page.
+
+
+2
+ Christopher Scult.
+
+
+3
+ Iohn Church.
+
+
+4
+ Iohn Foster.
+
+
+5
+ Edward Seely.
+
+
+6
+ Martaine Ioxes.
+
+
+7
+ Gilbert Crippin.
+
+
+8
+ Richard Pope.
+
+
+9
+ Iohn Smith.
+
+
+10
+ Marchus Floud.
+
+
+11
+ Nicholas Sims.
+
+
+12
+ Edward Steele.
+
+
+13
+ Richard Bowyer.
+
+
+14
+ Michaell Allen.
+
+
+15
+ Richard Smally.
+
+
+16
+ Thomas VVilson.
+
+
+17
+ Richard Spencer.
+
+
+18
+ Thomas Ioanes.
+
+
+19
+ Ieames Sket.
+
+
+20
+ Richard Whitehead.
+
+
+21
+ Robert Michel.
+
+
+22
+ Iohn Earle.
+
+
+23
+ Christopher Androws
+
+
+24
+ Iacob Iohnson.
+
+
+25
+ Anthony Younger.
+
+
+26
+ Robert Powell.
+
+
+27
+ Iohn Bishop.
+
+
+28
+ Morgan Priddis.
+
+
+29
+ William Haward.
+
+
+30
+ Richard Sprat.
+
+
+31
+ Henry Iohnson.
+
+
+32
+ Richard Egleston.
+
+
+33
+ Ieames Vpgraue.
+
+
+34
+ Iohn Goulding.
+
+
+35
+ Iohn Browne.
+
+
+36
+ Iohn Haward Cap.
+
+
+37
+ Phillip Winscombe.
+
+
+38
+ Iohn Samon.
+
+
+39
+ Iohn Fousticke.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+

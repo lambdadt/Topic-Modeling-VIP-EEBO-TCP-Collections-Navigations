@@ -1,0 +1,189 @@
+A declaration of the Lords and Commons assembled in Parliament that no ships, bargues, or other vessels shal from henceforward make any voyage to New-castle for the fetching of coales, or any other commodity untill that towne shall be reduced into such hands as shall declare themselves for King and Parliament.
+Declaration of the Lords and Commons assembled in Parliament concerning coales and salt
+England and Wales. Parliament.
+Approx. 4 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A37757
+
+
+
+
+Wing E1463
+
+
+
+ESTC R16633
+
+
+
+
+
+ocm 12165063
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A declaration of the Lords and Commons assembled in Parliament that no ships, bargues, or other vessels shal from henceforward make any voyage to New-castle for the fetching of coales, or any other commodity untill that towne shall be reduced into such hands as shall declare themselves for King and Parliament.
+Declaration of the Lords and Commons assembled in Parliament concerning coales and salt
+England and Wales. Parliament.
+[8] p.   
+
+
+[London] :
+
+
+... Printed for John Wright ... ,
+
+
+Ian. 16, 1642.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Trade regulation --  England.
+Newcastle upon Tyne (England) --  History.
+Great Britain --  History --  Civil War, 1642-1649 --  Sources.
+2013-09
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Olivia Bottum
+Sampled and proofread
+2013-11
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+E1463
+
+
+R16633
+
+
+12165063
+
+
+55279
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT: That no Ships, Barques, or other Vessels shal from hence forward make any Voy∣age to New-Castle for the fetching of Coales, or any other Commodity, untill that Towne shall be reduced into such hands, as shall declare themselves for King and Parliament
+
+
+
+
+Die Sabbathi, 14 Ian. 1642.
+
+
+ORdered by the Lords and Commons Assembled in Parliament, that this Declaration shall be forthwith Printed and Publish∣ed.
+
+
+John Browne, Cler. Parliament
+
+
+
+
+Ian. 16. Printed for 
+John Wright
+ in the Old-Bailey. 1642.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT.
+
+
+Die Sabbathi,
+ 14. 
+Ian.
+ 1642.
+
+
+T
+He Lords and Commons as∣sembled in PARLIAMENT, taking into their conside∣ration the number of Shipps, and quantity of Money, that
+
+is every yeare imployed from 
+London,
+ and other Parts and places of this Kingdome, for the fetching of Coales and Salt from 
+Newcastle, Sunderland,
+ and 
+Blyth;
+ And finding that since the beginning of the present Troubles, that Towne of 
+New∣castle,
+ being possessed by For∣ces raised against the King, and Parliament, hath beene, and is the principall In-let of Forreine Ayde, Forces, and Ammuni∣tion, for the strengthning of that Force that intends Destru∣ction to the Parliament, and thereby to the Religion, Lawes, and Liberties of this Kingdome; And taking into
+
+Consideration, that sufficient Coales be supplyed from other Parts, for the use of this King∣dome, doe Declare, That they are inforced for the safetie of the Kingdome, and for the bet∣ter hindering of the supporting of the said Forces, and of the reducing of the Towne of 
+Newcastle,
+ and the Parts Adja∣cent, to yeeld obedience, and submission, to the Commands of the two Houses of Parlia∣ment, Are constreined for the present, to hinder the repai∣ring of Shippes to 
+Newcastle, Sunderland,
+ and 
+Blyth,
+ lest those Ships and Money which are intended to procure Fewel,
+
+for the supportation of the Kingdome, be improved to give Vigour and mainteinance to the Warre, raised to the De∣struction thereof; For preven∣tion whereof, we the Lords and Commons doe Ordaine, That no Shippe, Shippes, or Barques, shall from hencefor∣wards, make any Voyage for the fetching of Coales, or Salt, from 
+Newcastle, Sunderland,
+ or 
+Blyth,
+ or carrying of Corne, or other Provision of Victuall, Vntill that Towne of 
+Newcastle
+ shall be freed of, and from the Forces there now raised, or mainteined against the Parlia∣ment, and the Towne be redu∣ced
+
+into such hands, and condi∣tion, as shall declare themselves for King and Parliament; And the Masters, Owners, and Say∣lors of Ships, and Barques, are hereby required, not to presume to goe that Voyage contrary to this Ordi∣nance; And it is further Ordai∣ned, and Ordered, that if any Ship, Vessell, or Barque, shall at any time after the first day of 
+February
+ next comming Im∣port, or bring into any Port or Place of this Kingdome, any Coales or Salt Laden from 
+Newcastle, Sunderland,
+ and 
+Blyth,
+ or any of them, untill further Order be taken by both Hou∣ses
+
+of Parlament, that every such Ship, Vessell, and Barque, and the Master and Saylors in the same, shall be seized upon, and stayed in such Port and Place where they come in, Vn∣till the two Houses of Parlia∣ment being thereof Informed, shall take further Order and Direction therin.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3238 @@
+Syr Degore
+Approx. 43 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A20033
+
+
+
+
+STC 6470
+
+
+
+ESTC S118476
+
+
+
+
+
+99853683
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Syr Degore
+[36] p. : ill.  
+
+
+[Enprynted at London :
+
+
+In Flete strete at the sygne of the sonne by wynkyn de worde,
+
+
+[1512-13]]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Olivia Bottum
+Sampled and proofread
+2013-10
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+6470
+
+
+S118476
+
+
+99853683
+
+
+19077
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¶ Syr Degore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L
+Ordynges and ye wyll holde you styll
+
+
+A gentyll tale tell you I wyll
+
+
+Of knyghtes of this countree
+
+
+That hath trauayled beyonde the see
+
+
+To seke auentures bothe nyght & daye
+
+
+And how they myght theyr strengh assay
+
+
+As dyde a knyght his name was syr Degore
+
+
+One of the best that was founde hym before
+
+
+Somtyme in Englonde there was a kynge
+
+
+A noble man of maners in all thynge
+
+
+Stoute in armes and vnder shylde
+
+
+Full moche doubted in batayll and felde,
+
+
+There was no man than veramente
+
+
+That with hym Iusted in turmente
+
+
+That out of his styrope myght brynge his fote
+
+
+He was so stronge without doubte
+
+
+The kynge had no chyldern but one
+
+
+A doughter as whyte as whalles bone
+
+
+That mayden he loued as his lyfe
+
+
+Her moder was deed the quene his wyfe
+
+
+In trauayll of chylde she dyed alas
+
+
+But whan that mayden of aege was
+
+
+Kynkes sones her woed then
+
+
+Emperours Dukes and other men
+
+
+To haue that mayden in maryage
+
+
+For loue of her grete herytage
+
+
+But than the kynge dyde them answere
+
+
+That no man sholde wedde her
+
+
+But yf that he myght with stoute Iustynge
+
+
+The kynge out of his sadyll brynge
+
+
+And downe hym lose his styropes two
+
+
+Many one assayed and myght nought do
+
+
+
+
+Euery yere of ryght it wolde
+
+
+A grete feest wole he holde
+
+
+Vpon his quenes murnynge daye
+
+
+That was buryed in an abbaye
+
+
+So on a daye the kynge wolde ryde
+
+
+To an abbaye there besyde
+
+
+To do dyryges and masses bothe
+
+
+The poore to fede and the naked to clothe
+
+
+His owne doughter with hym rode
+
+
+And in the forest styll she abode
+
+
+She called her chamberlayne her to
+
+
+And other maydens she dyde also
+
+
+And sayd adowne she muste alyght
+
+
+Better her clothes to amende and ryght
+
+
+Adowne they ben alyght all thre
+
+
+Her damoysell and so dyde she
+
+
+A full longe stounde there she abode
+
+
+Tyll all the meyne frome her rode
+
+
+They gate vp and after they wolde
+
+
+But they coude not they ryght waye holde
+
+
+The wodde was roughe and thycke ywysse
+
+
+And they toke theyr waye all amysse
+
+
+They rode southe they rode west
+
+
+In to the thycke of that forest
+
+
+And in to a londe they came at the last
+
+
+Than weryed they wonder faste
+
+
+Than wyst the well amysse they had gone
+
+
+And downe the lyght euerychone
+
+
+And they called all in fere
+
+
+But there myght no man them here
+
+
+The weder was hote before the none
+
+
+They wyst neuer what was best to done
+
+
+
+
+But layde them downe vpon the grene
+
+
+Some fel on slepe as I wene
+
+
+Thus they fell on slepe euerychone
+
+
+Saue the kynges doughter alone
+
+
+She went aboute and gadred floures
+
+
+And to here the songe of small foules
+
+
+So longe she dyde forth pas
+
+
+That she wyst neuer where she was
+
+
+y
+e
+ waye to her damoyselles she wolde haue nome
+
+
+But she wyst neuer how to come
+
+
+Than gan she crye wonder sore
+
+
+She wepte and wronge her handes thore
+
+
+And sayd alas that I was borne
+
+
+For well I wote I am forlorne
+
+
+For wylde bestes wyll me rynde
+
+
+Or ony man may me fynde
+
+
+And then she sawe a Ioyfull syght
+
+
+To her came prekynge a fayre knyght
+
+
+Full well he semed a gentyll man
+
+
+And ryche clothes hym vpon
+
+
+Well farynge both of fote and honde
+
+
+There was non suche in that londe
+
+
+So stout a man than was he
+
+
+He sayd madame god you se
+
+
+Be ye a drade of me ryght nought
+
+
+I haue none armes with me brought
+
+
+I haue the loued this many a yere
+
+
+And now I haue founde the here
+
+
+Thou shalte be my lēmanne or I go
+
+
+Wheder it tourne to wele or wo
+
+
+No more to done then coude she
+
+
+But wepte and cryed and wolde haue fle
+
+
+
+
+Anone began he her to be holde
+
+
+And dyde with her what he wolde
+
+
+And berafte her her mayden hode
+
+
+And than before the lady he stode
+
+
+He sayd madame gentyll and fre
+
+
+With chylde I wote well that ye be
+
+
+Well I wote it shall be a knaue
+
+
+Therfore my swerde he shall haue
+
+
+My good swerde of ameaunt
+
+
+For therwith I slewe a gyaunt
+
+
+I brake the poynt in his hede
+
+
+And in the felde I it leued
+
+
+Dame take it vp lo it is here
+
+
+For thou spekest not with me this many a yere
+
+
+And yet parauenture the tyme may come
+
+
+That I maye speke with my sone
+
+
+And by this sworde I may hym ken
+
+
+He kyssed his loue and wente then
+
+
+The knyght passed as he come
+
+
+All wepynge the lady that swerde vp nome
+
+
+She wente awaye sore wepynge
+
+
+And founde her maydens slepynge
+
+
+She hydde the swerde so as she myght
+
+
+And called them vp anone ryght
+
+
+And toke theyr horses euerychone
+
+
+And began to ryde soone anone
+
+
+And than ther came at the last
+
+
+Many a knyght prekynge fast
+
+
+Fro the kynge than were they sent
+
+
+To were wheder they wente
+
+
+They brought them in to the hye waye
+
+
+And rode in fere to that abbaye
+
+
+
+
+There was done seruyce and all thynge
+
+
+With many a masse and ryche offerynge
+
+
+And whan that seruyce was all done
+
+
+And gan to passe the hye none
+
+
+The kynge vnto his palays gan ryde
+
+
+And moche people by his syde
+
+
+Whan euery man was gladde and blythe
+
+
+The lady soned many a sythe
+
+
+Her baly waxed more and more
+
+
+She wepte and wronge her handes sore
+
+
+So vpon a daye she gan sore wepe
+
+
+A mayden of hers toke good kepe
+
+
+And sayd madame for charyte
+
+
+Why ye do wepe ye wyll tell me
+
+
+Mayden and I tell the before
+
+
+And thou me wrey I were but lore
+
+
+For I haue ben euer meke and mylde
+
+
+And truly nowe I am with chylde
+
+
+And yf ony man it vnder yede
+
+
+Euery man wolde tell in euery stede
+
+
+That my fader on me it wan
+
+
+For I loued neuer other man
+
+
+And yf my fader it may wete
+
+
+Suche sorowe his herte may gete
+
+
+That he shall neuer mery man be
+
+
+For all his Ioye is layde on me
+
+
+And tolde the damoysell all in fere
+
+
+How the chylde was begoten on here
+
+
+Now gentyll lady greue you nought
+
+
+For styll it shall be forth brought
+
+
+Shall no man it wytte certaynly
+
+
+Truely madame but you and I
+
+
+
+
+Tyme was come she was vnbounde
+
+
+And delyuered both hole and sounde
+
+
+A man chylde there was bore
+
+
+Gladde was the lady therfore
+
+
+The mayden serued her at her wyll
+
+
+And layde the chylde in a cradyll
+
+
+She wrapped hym in clothes anone
+
+
+And was all redy for to haue gone
+
+
+Yet was the chylde vnto the moder holde
+
+
+She gaue it .xx. pounde of golde
+
+
+And .x. pounde of syluer also
+
+
+Vnder his heed she gan it doo
+
+
+Moche it is that a chylde behoues
+
+
+She put with hym a payre of gloues
+
+
+Herlemman gaue her them in a stonde
+
+
+They wolde elles on no womans honde
+
+
+On chyldes nother woman they nolde
+
+
+But on his moders handes they wolde
+
+
+And bad the chylde no wyfe wedde in londe
+
+
+But the gloues wolde on her honde
+
+
+For they myght serue no where
+
+
+Saue the moder that dyde hym bere
+
+
+A letter with the chylde put she
+
+
+With the gloues also perde
+
+
+She knyt the letter with a threde
+
+
+A boute his necke a full good spede
+
+
+Than was it in the the letter wrytte
+
+
+Who so it founde shulde it wytte
+
+
+For crystes loue yf ony good man
+
+
+This wofull chylde fynde can
+
+
+Do hym be crystened of preestes honde
+
+
+And to helpe hym to lyue in londe
+
+
+
+
+With this syluer that is here
+
+
+Tyll he may armes bere
+
+
+And helpe hym with his owne good
+
+
+For he is come of gentyll blode
+
+
+And whan she had thus done
+
+
+The mayden toke her leue full sone
+
+
+With the chylde in the cradyll and all thynge
+
+
+She stale awaye in the euenynge
+
+
+And went her waye she wyste not whyder
+
+
+Thrughe thycke and thynne in the breer
+
+
+She wente all the wynter nyght
+
+
+By shynynge of the mone lyght
+
+
+Then was she redely ware anone
+
+
+Of an hermytage made of stone
+
+
+An holy man had there his dwellynge
+
+
+And theder she wente without lesynge
+
+
+And sette the cradyll at the dore
+
+
+For she durste dwell no lenger thore
+
+
+But turned agayne a none ryght
+
+
+And came agayne the same nyght
+
+
+The hermyte rose on the morowe tho
+
+
+And his knaue also
+
+
+Lorde he sayd I crye the mercy
+
+
+For nowe I here a yonge chylde crye
+
+
+This holy man his dore vndyde
+
+
+And founde the cradell in the stede
+
+
+He lyfte vp the shete anone
+
+
+And loked vpon the lytell grome
+
+
+Than helde he vp his ryght honde
+
+
+And thanked Ihesu cryst of his sonde
+
+
+He bare the chylde in to the chapell
+
+
+For Ioye of hym he ronge the bell
+
+
+
+
+And layde vp the gloues and the tresoure
+
+
+And crystened the chylde with grete honoure
+
+
+And in the worshyp of the trynyte
+
+
+He called the chyldes name Degore
+
+
+For Degore to vnderstonde it is
+
+
+But thynge that almoost is lost ywys
+
+
+As thynge that is almoost a goo
+
+
+Therfore he called that chylde soo
+
+
+The hermyte was an holy man of lyfe
+
+
+He had a syster that was a wyfe
+
+
+He sente the chylde to her full rathe
+
+
+With moche money by his knaue
+
+
+And badde she sholde take good hede
+
+
+The chylde to nourysshe and fede
+
+
+And this lytell chylde Degore
+
+
+Vnto that cyte was I bore
+
+
+The good man and his wyfe in fere
+
+
+The chylde they kepte as it theyr owne were
+
+
+Tyll it was .x. wynter olde
+
+
+He waxed a fayre chylde and a bolde
+
+
+Well taught fayre and kynde
+
+
+There was none suche in all that ende
+
+
+What tyme .x. yere was come and spente
+
+
+Vnto the hermyte they hym sente
+
+
+The hermyte longed hym for to se
+
+
+Thenne was he a fayre chylde and fre
+
+
+He taught the chylde of clarkes lore
+
+
+Other .x. wynter withouten more
+
+
+And whan he was of .xx. yere
+
+
+He was a man of grete powere
+
+
+There was no younge man in that londe
+
+
+That myght stande a brayde of his honde
+
+
+
+
+And whan the hermyte that dyde see
+
+
+That he a man so stronge wolde be
+
+
+A stalworthe man in ony werke
+
+
+And of his tyme a well good clerke
+
+
+He toke his florens and his gloues
+
+
+That he had kepte sor hym in his house
+
+
+But his .x. pounde that was sterlynge
+
+
+was spente aboute the chyldes kepynge
+
+
+The hermyte toke hym his lettre to rede
+
+
+He loked therin that same stede
+
+
+Syr he sayd for saynt charyte
+
+
+Was this lettre made by me
+
+
+Ye sone by hym that me deme shall
+
+
+Thus I founde the and tolde hym all
+
+
+He sette hym downe on knees full blythe
+
+
+And thanked the hermyte many sythe
+
+
+And sayd he wolde not rest in londe
+
+
+Tyll the tyme he had his fader fonde
+
+
+He gaue the hermyte halfe his golde
+
+
+And the remenaunt vp he folde
+
+
+He toke his leue and fayne wolde go
+
+
+The hermyte sayd he sholde not so
+
+
+To seke thy kynne thou mayst not endure
+
+
+Without good horse and good armure.
+
+
+
+
+¶ How syr Degore fought with a dragon in a fo¦rest and slewe hym.
+
+
+
+
+
+
+
+SIr hermyte he sayd in dede
+
+
+I wyll haue no other wede
+
+
+But a batte in mi honde
+
+
+Myn enemyes therwith to withstande
+
+
+A full good sapelynge of an oke
+
+
+On whome he sette therwith a stroke
+
+
+Where he neuer so tall a man
+
+
+Nor yet so good armure hym vpon
+
+
+He wolde hym fell to the grounde
+
+
+With that same batte in that stounde
+
+
+
+
+The chylde kyssed the hermyte tho
+
+
+And toke his leue for to goo
+
+
+Degore wente forthe on his waye
+
+
+Thrughe a forest halfe a daye
+
+
+He harde no man nor sawe none
+
+
+Tyll it was past the hye none
+
+
+Thenne harde he grete strokes fall
+
+
+That made grete noyse withall
+
+
+Full soone he thought that thynge to se
+
+
+To wyte what the strokes myght be
+
+
+There was an erle bothe stoute and gay
+
+
+He was come theder that same day
+
+
+For to hunte for a dere or a doo
+
+
+But his houndes were gone hym fro
+
+
+Thenne was there a dragon grete and grymme
+
+
+Full of fyre and also venimme
+
+
+with a wyde throte and tuskes grete
+
+
+Vpon that knyght fast gan he bete
+
+
+And as a lyon thenne was his fete
+
+
+His tayle was longe and full vnmete
+
+
+Bytwene his hede and his tayle
+
+
+Was .xxii. fote withouten fayle
+
+
+His body was lyke a wyne tonne
+
+
+He shone full bryght agaynst the sonne
+
+
+His eyen were bryght as ony glasse
+
+
+His scales were harde as ony brasse
+
+
+And therto he was necked lyke a horse
+
+
+He bare his hede vp with grete force
+
+
+The breth of his mouth that dyde out blowe
+
+
+As it had bene a fyre on lowe
+
+
+He was to loke on as I you tell
+
+
+As it had ben a fende of hell
+
+
+
+
+Many a man he had shente
+
+
+And many a horse he had rente
+
+
+And to that erle harde batayll began
+
+
+But he defended hym lyke a man
+
+
+And boldely smote hym with his swerde
+
+
+But of all his strokes he was not aferde
+
+
+His skynne was harde as ony stone
+
+
+Wherfore he myght hym no harme done
+
+
+And whan the erle syr Degore se
+
+
+Helpe syr he sayd for saynt charyte
+
+
+And thenne answerde syr Degore
+
+
+Full gladly syr and god before
+
+
+whan the dragon of Degore had a syght
+
+
+He left the erle and came to hym ryght
+
+
+And the chylde that was so stronge
+
+
+Toke his staffe that was longe
+
+
+And smote the dragon so on the crowne
+
+
+That in that wodde he fell downe
+
+
+And then that dragon anone ryght
+
+
+Smote the chylde with suche myght
+
+
+With his tayle vpon the ryght syde
+
+
+That downe he fell in that tyde
+
+
+And he sterte vp anone full ryght
+
+
+And defended hym with moche myght
+
+
+With that staffe that was so longe
+
+
+He brake of hym bothe fote and bone
+
+
+That it was wonder for to se
+
+
+He was so toughe he myght not deye
+
+
+Tyll Degore one stroke at hym flonge
+
+
+With his staffe that was so stronge
+
+
+He smote hym on the crowne on hye
+
+
+That he made his braynes out flye
+
+
+
+
+And thenne the erle was glade and blythe
+
+
+And thanked Degore many a sythe
+
+
+And prayed hym he wolde with hym ryde
+
+
+Vnto his palays there be syde
+
+
+And there he made hym a knyght
+
+
+And made hym good chere that nyght
+
+
+Rentes tresoure and half his londe
+
+
+He wolde haue sezyd in to his honde
+
+
+Syr Degore thanked hym truely
+
+
+And prayed hym of his curtaysye
+
+
+To lette his ladyes before hym come
+
+
+Wyues medens more and some
+
+
+And also your doughter eke
+
+
+And yf my gloues ben for them mete
+
+
+Or wyll vpon ony of there hondes
+
+
+Than wolde I fayne take my londes
+
+
+And yf my gloues wyll not soo
+
+
+Thenne wyll I take my leue and goo
+
+
+All the women were out brought
+
+
+That there aboute myght be sought
+
+
+All the assayed the gloues than
+
+
+But they where mete for no woman
+
+
+Syr Degore toke vp his gloues anone
+
+
+And also toke leue for to gone
+
+
+The Erle was a lorde of gentyll blode
+
+
+He gaue syr Degore a stede ryght good
+
+
+And therto he gaue hym good armure
+
+
+The whiche was both fayre and sure
+
+
+And also a page his man to be
+
+
+And an hakneye to ryde on truely
+
+
+Syr Degore was glade and blythe
+
+
+And thanked the erle many a sythe
+
+
+
+
+He rode forthe vpon his waye
+
+
+Many a myle vpon somers daye
+
+
+Vpon a daye moche people he mette
+
+
+He houed styll and fayre them grette
+
+
+And asked a squyre what tydynge
+
+
+And frome whens came all that folke rydynge
+
+
+The squyre sayd syr veramente
+
+
+They come frome the parlamente
+
+
+Fro a counseyll the kynge dyde make
+
+
+The whiche is for his doughters sake
+
+
+But whan the parlament was moost plenere
+
+
+The kynge lete crye bothe fer and nere
+
+
+Yf ony man were soo bolde
+
+
+That with the kynge Iust wolde
+
+
+He sholde haue his doughter in maryage
+
+
+And all his londe and herytage
+
+
+It is a londe bothe good and fayre
+
+
+And the kynge therto had none ayre
+
+
+But sertes there dare no man graunt therto
+
+
+Many one sayd they myght not doo
+
+
+For euery man that rydeth to hym
+
+
+He beteth them with strokes grym
+
+
+Some he breketh the necke anone
+
+
+Of some he cracketh bothe backe and bone
+
+
+Some thrughe the body he glytte
+
+
+And some to deth he smytte
+
+
+And to hym may no man do nothynge
+
+
+Suche a grace euer had our kynge
+
+
+Syr Degore stode in a stody than
+
+
+And thought he was a doughty man
+
+
+And I am in my yonge blode
+
+
+And I haue horse and armure good
+
+
+
+
+And as I trowe a full good stede
+
+
+I wyll assaye yf that I may spede
+
+
+And yf I may bere the kynge downe
+
+
+I may be a man of grete renowne
+
+
+And yf that he me fell can
+
+
+There knoweth no body what I am
+
+
+Dethe or lyfe what so me be tyde
+
+
+I wyll ones ayenst hym ryde
+
+
+Thus in the cyte his ynne he takes
+
+
+And rested hym and mery makes
+
+
+So vpon a day the kynge he mette
+
+
+He kneled downe and fayre hym grette
+
+
+He sayde syr kynge of moche myght
+
+
+My lorde hath sent me to you ryght
+
+
+To warne you how it shall be
+
+
+My lorde wyll come and fyght with the
+
+
+To Iust with the my lorde hathe nome
+
+
+The kynge sayd he shall be welcome
+
+
+Be he knyghte or barowne
+
+
+Erle Duke or chorle in towne
+
+
+There is no man I wyll forsake
+
+
+Who all may wynne all may take
+
+
+
+
+
+
+¶ How syr Degore Iusted with the kynge of En¦glonde and smote hym downe.
+
+
+S
+O on the morowe the day was sette
+
+
+The kynge auysed moche the bette
+
+
+But thenne there was no lyuynge man
+
+
+That Degore trusted moche vpon
+
+
+But to chirche that tyme went he
+
+
+To here a masse of the trynyte
+
+
+
+
+
+
+
+
+To the fader he offered a floryne
+
+
+And to the sone another fyne
+
+
+The thyrde to the holy goost he offered
+
+
+The preest in his masse for hym prayed
+
+
+And whan the masse was done
+
+
+Vnto his ynne he wente anone
+
+
+He dyde arme hym well in dede
+
+
+In ryche armure good at nede
+
+
+His good stede he began to stryde
+
+
+And toke his spere and forthe dyde ryde
+
+
+His knaue toke an other spere
+
+
+And after his mayster gan it bere
+
+
+Thus in the felde syr degore a bode than
+
+
+They kynge came with many a man
+
+
+Many came theder redely
+
+
+To se the iustynge truely
+
+
+All that in the felde were
+
+
+They sayd and dyde swere
+
+
+
+
+That they neuer or that tyme se
+
+
+So fayre a man with theyr eye
+
+
+As was that yonge knyght syr Degore
+
+
+But non wyst what man was he
+
+
+They rode to gyder at the laste
+
+
+On theyr good stedes full faste
+
+
+The kynge had the gretter shafte
+
+
+And more he coude of that crafte
+
+
+To dasshe hym downe thenne had he mente
+
+
+And in his shylde sette shuche a dente
+
+
+That his good spere all to braste
+
+
+But Degore was stronge and sat fast
+
+
+Than sayd the kynge alas alas
+
+
+For me befell neuer suche a case
+
+
+There was neuer man that I myght hit
+
+
+That euer myght my stroke sytte
+
+
+This is a man all for the nones
+
+
+For he is a man of grete bones
+
+
+Thenne toke the kynge a gretter tre
+
+
+And square also mote I the
+
+
+And yf his necke wyll not a two
+
+
+His backe shall or that I goo
+
+
+The kynge rode to hym with grete randowne
+
+
+And thought to haue dasshed the chylde downe.
+
+
+He smote syr Degore soone anone
+
+
+Ryght before the brst bone
+
+
+That his horse was rered on hye
+
+
+And syr Degore was fallen nye
+
+
+Syr Degore thus his cours out yode
+
+
+He was sore angry in his mode
+
+
+Alas he sayd I haue myssed yet
+
+
+And he hath me twyes hit
+
+
+
+
+And neuer ones with hym I met
+
+
+By god I shall me auyse bet
+
+
+They rode togyder with grete myght
+
+
+In theyr sheldes theyr speres pyght
+
+
+That theyr good speres all to broke
+
+
+Vnto theyr handes with the stroke
+
+
+And than the kynge began to speke
+
+
+Gyue me a spere that wyll not breke
+
+
+For he shall anone be smyten downe
+
+
+Thoughe he be as stronge as was sampsowne
+
+
+And yf he be the deuyll of hell
+
+
+I shall hym soone downe fell
+
+
+The kynge toke a spere styfe and stronke
+
+
+And Degore toke a nother good and longe
+
+
+And stouly to the kynge he smytte
+
+
+The kynge hym fayled and Degore hym it
+
+
+And syr Degore soo hym bete
+
+
+That he made the kynges horse torne vp his fete.
+
+
+Boldely he rode vp than
+
+
+And semed a full goodly man
+
+
+The kynge was out of his sadyll caste
+
+
+Wherof his doughter was sore a gaste
+
+
+Thenne was there moche noyse and crye
+
+
+The kynge was sore asshamed for thy
+
+
+Wele I wote his doughter was sory
+
+
+Fer thenne she wyste redely
+
+
+That she shulde maryed be
+
+
+To a man of a straunge countree
+
+
+And lede her lyfe with suche one
+
+
+That she wyste neuer fro whens he come
+
+
+The kynge sayd to syr Degore
+
+
+Come heder fayre sone me before
+
+
+
+
+And thou were as gentyll a man
+
+
+As thou semest to loke vpan
+
+
+And thou coude wyt and reason doo
+
+
+As thou arte doughty man to
+
+
+I wolde thynke my londe well beset
+
+
+And yf it were fyue tymes the bet
+
+
+For worde spoken I must nedes holde
+
+
+Before my barons that be so bolde
+
+
+I take the my doughter by the honde
+
+
+And sesse the in all my londe
+
+
+To be myn heyre after me
+
+
+In Ioye and blysse for to be
+
+
+
+
+
+
+¶ How syr Degore wedded his moder the kȳges doughter of Englonde / and howe shewe knewe y
+t
+ he whas her sone by the gloues.
+
+
+
+
+
+
+GRete ordynaunce was there wrought
+
+
+To the chyrche dore they were brought
+
+
+And were there wedded veramente
+
+
+Vnto the holy sacramente
+
+
+Loke what foly happened there
+
+
+That he sholde wedde his owne modere
+
+
+The whiche had borne hym one her syde
+
+
+And yet he knewe nothynge that tyde
+
+
+He knewe nothynge of her kenne
+
+
+Nor she knewe nothynge of hym
+
+
+And bothe togyder ordeyned to bedde
+
+
+Yet parauenture they may be sybble
+
+
+Thus dyde syr Degore the bolde
+
+
+He wedded his moder to haue and to holde
+
+
+God suffred moche thynge there
+
+
+But yet he lete them not synne in fere
+
+
+It passed on the hye tyme of none
+
+
+And the daye was nere hande done
+
+
+To bed was brought bothe he and she
+
+
+With grete myrthe and solempnyte
+
+
+Syr Degore stode and be helde than
+
+
+And thought of the hermyte holy man
+
+
+That he sholde neuer for thy
+
+
+Wedde no Wedowe nor lady
+
+
+But yf she myght the gloues two
+
+
+Lyhtly vpon her handes doo
+
+
+Alas than sayd syr Degore
+
+
+The tyme that euer I was bore
+
+
+And sayd anone with heuy chere
+
+
+Me had leuer than all this kyngdome here
+
+
+That is now sessyed in to my honde
+
+
+That I were fayre out of this londe
+
+
+
+
+The kynge these wordes harde tho
+
+
+And sayd dere sone why sayst thou so
+
+
+Is there ought ayenste thy wyll
+
+
+Other done or sayd that dothe the yll
+
+
+Or ony thynge that is mysdone
+
+
+Tell me and it shall be amended sone
+
+
+Naye lorde he sayd thenne
+
+
+But for all the maryage that done hath ben
+
+
+I wyll not with no woman mell
+
+
+Wyfe wedowe nor damoysell
+
+
+But yf she myght these gloues doo
+
+
+Lyghtly vpon her handes two
+
+
+And whan the lady gan this here
+
+
+A none she changed all her chere
+
+
+And all to gyder turned her mode
+
+
+Her visage waxed rede as ony blode
+
+
+She knewe that the gloues longed to her
+
+
+And sayd gyue me the gloues fayre syr
+
+
+She toke the gloues in that that stede
+
+
+And lyghtly vpon her handes them dyde
+
+
+She fell downe and began to crye
+
+
+And sayd lorde god I aske mercy
+
+
+I am thy moder that the dyde bere
+
+
+And thou arte my owne sone dere
+
+
+Syr Degore full sone tho
+
+
+Toke her vp in his arumes two
+
+
+Than were they glade and blythe
+
+
+They kyssed to gyder many a sythe
+
+
+The kynge of them had grete meruayll
+
+
+Of the noyse they made withouten fayll
+
+
+And was a basshed of theyr wepynge
+
+
+And sayd doughter what is this thynge
+
+
+
+
+Fader she sayd wyll ye it here
+
+
+Ye wene that I a mayden were
+
+
+Nay truely fader I am none
+
+
+For it is .xx. wynter a gone
+
+
+This is my sone god it wote
+
+
+And by these gloues I it wotte
+
+
+She tolde hym all togyder there
+
+
+How he was begoten on here
+
+
+Than bespake syr Degore
+
+
+Swete moder than sayd he
+
+
+Where is my fader wonnynge
+
+
+And whan herde ye of hym ony tythynge
+
+
+Sone she sayd by heuen kynge
+
+
+I can tell of hym no tydynge
+
+
+But whan thy fader frome me wente
+
+
+A poyntles swerde he me lente
+
+
+And charged me to kepe it than
+
+
+Tyll the tyme thou were a man
+
+
+She fette the swerde full swythe
+
+
+And syr Degore it out twythe
+
+
+Longe and brode it was perde
+
+
+There was none suche in that countre
+
+
+Truely sayd syr Degore than
+
+
+Who so it owed he was a man
+
+
+Now god of heuen he me kepe
+
+
+Nyght nor daye I wyll not slepe
+
+
+Tyll the tyme I may my fader se
+
+
+In crystendome yf that he be
+
+
+He made hym mery that ylke nyght
+
+
+On the moro whan it was day lyght
+
+
+He wente to the chyrche to here masse
+
+
+And made hym redy for to passe
+
+
+
+
+Than sayd the kynge my nexte kynne
+
+
+I wyll gyue the knyghtes with the to wynne
+
+
+Syr he sayd gramercy than
+
+
+With shall go no other man
+
+
+But my knaue that may take hed
+
+
+To myn armure and to my stede
+
+
+He lepte on horse the sothe to saye
+
+
+And rode forth on his Iournaye
+
+
+Many a myle and many awaye
+
+
+He rode forth on his palfraye
+
+
+And euer more he rode west
+
+
+Tyll tyme he came to a forest
+
+
+Wylde bestes there wente hym by
+
+
+And foules songe there full merely
+
+
+So longe he rode tyll it drewe to nyght
+
+
+The sone wente doune and fayled lyght
+
+
+Vnto some towne fayne wolde he ryde
+
+
+But there was none on neyther syde
+
+
+Soone after he founde a castell clere
+
+
+A lady truely wonned there
+
+
+A fayre castell of lyme and stone
+
+
+But other towne there was none
+
+
+Degore sayd to his knaue that tyde
+
+
+Wyll we to that castell ryde
+
+
+And all nyght abyde wyll we
+
+
+And aske lodgynge for charyte
+
+
+The drabryge was drawen tho
+
+
+And the yate stode open also
+
+
+Vnto the castell they gan them spede
+
+
+And fyrst he stabled vp his stede
+
+
+And than he set vp his hakeney
+
+
+I noughe they founde of corne and hey
+
+
+
+
+He wente a boute and gan to call
+
+
+Bothe in the courte and eke in hall
+
+
+Nether for loue nor yet for awe
+
+
+Lyuynge man none there they sawe
+
+
+And in the myddes of the hall floure
+
+
+There was a grete fyre in that stoure
+
+
+Than sayd his man leue syre
+
+
+I haue wonder who made this fyre
+
+
+Yf he wyll come agaye this nyght
+
+
+I wyll hym abyde as I am knyght
+
+
+He set hym done vpon the dease
+
+
+And made hym well at ease
+
+
+Than was he ware soone of one
+
+
+That at the dore he gan gone
+
+
+And thre maydens fayre and fre
+
+
+That where trussed vp to the knee
+
+
+Twayne of them bowes dyde bere
+
+
+And two of them charged were
+
+
+With venyson that was full good
+
+
+Thenne syr Degore vp stode
+
+
+And blessed them a none ryght
+
+
+But they spake not to the knyght
+
+
+But whente in to the cambre a none
+
+
+And shytte the dore full sone
+
+
+And a none after therwithall
+
+
+There came a dwarfe in to the hall
+
+
+Foure fote was the length of hym
+
+
+His vysage was bothe grete and grym
+
+
+And the hear that on his heed was
+
+
+It was yelo as ony waye
+
+
+But full stouly than loked he
+
+
+
+
+He ware a cyrcote that was grene
+
+
+With blaunchmer it was furred I wene
+
+
+He was well clade and well dyght
+
+
+His shone was corked as a knyght
+
+
+He was large bothe of fote and hande
+
+
+As ony man was in that lande
+
+
+Syr Degore loked on hym tho
+
+
+And to hym reuerence dyde doo
+
+
+And he to hym wolde speke no worde
+
+
+But made hym besy to lye the borde
+
+
+He layde the clothe and sette forth brede
+
+
+And also wyne bothe whyte and rede
+
+
+Torches in the hall he dydde lyght
+
+
+All thynge redy to souper he dyght
+
+
+And sone after with grete honoure
+
+
+There came a lady out of her boure
+
+
+And with her came maydens fyftene
+
+
+Some in rede and some in grene
+
+
+Syr Degore folowed a none ryght
+
+
+And nought she spake vnto that knyght
+
+
+But yede and wasshed euerychone
+
+
+And to souper gan they gone
+
+
+The lady was fayre and bryght
+
+
+In the myddes of the desse she set downe ryght
+
+
+On euery syde sat maydens fyne
+
+
+Fayre and goodly as ony was a lyue
+
+
+By god than sayd syr Degore
+
+
+I haue you blessed and ye not me
+
+
+But ye seme dombe by saynt Iohan
+
+
+I shall make you speke and I can
+
+
+Syr Degore coude of curteysy
+
+
+He yede and sat before the lady
+
+
+
+
+And whan he had taken that sete
+
+
+He toke a knyfe and cutte his mete
+
+
+Full lytell mete at souper ete he
+
+
+He dyde so be holde that mayden fre
+
+
+Hym thought she was the fayrest lady
+
+
+That euer afore he dyde se
+
+
+All his herte thought and myght
+
+
+Was on that lady that was to bryght
+
+
+And whan they had souped all
+
+
+The dwerfe brought water in to the hall
+
+
+Thenne gan they wasshe euerychone
+
+
+And than to chambre gan they gone
+
+
+Truely quod Degore and after I wyll
+
+
+To loke on that lady all my fyll
+
+
+Who that me warneth he shall abye
+
+
+Or to do hym make a sory crye
+
+
+Vpon the stayre the waye he nome
+
+
+And soone in to the chambre he come
+
+
+They lady that was so fayre and bryght
+
+
+Vpno her bedde she sat downe ryght
+
+
+She harped notes swete and fyne
+
+
+Her maydens fylled a pyece of wyne
+
+
+And syr Degore sat hym downe
+
+
+For to here the harpes sowne
+
+
+That thorowe the notes of the harpe shyll
+
+
+He layde hym downe and slepte his fyll
+
+
+This fayre lady that ylke nyght
+
+
+She bad go couer that gentyll knyght
+
+
+And ryche clothes aboute hym caste
+
+
+And the lady wente to a nother bed at the laste
+
+
+So on the morowe whan it was daye
+
+
+The lady rose the sothe to saye
+
+
+
+
+And in to the chambre her waye gan take
+
+
+She sayd syr knyght a ryse and wake
+
+
+They lady sayd all in game
+
+
+Ye be well worthy to haue blame
+
+
+For as a beest all nyght thou dyde slepe
+
+
+And of my maydens tokest no kepe
+
+
+And than answered the knyght so fre
+
+
+Mercy madame and forgyue it me
+
+
+The notes of thyne harpe it made
+
+
+Or elles the good wyne that I hade
+
+
+But tell me now my lady hende
+
+
+Or I out of this chambre wende
+
+
+who hathe this castell in his honde
+
+
+And who is lorde of this londe
+
+
+wheder that ye be mayden or wyfe
+
+
+And in what maner ye lede your lyfe
+
+
+And why ye haue so many women
+
+
+Alone withouten ony men
+
+
+Syr fayne I wolde the tell
+
+
+And thou coude it amende well
+
+
+My fader was a bolde barowne
+
+
+And holden a lorde of toure and towne
+
+
+He had neuer chylde but me
+
+
+I am ayre in this countre
+
+
+
+
+
+
+¶ How syr Degore foughte for a lady with a gy∣aunt and slewe hym.
+
+
+
+
+
+
+
+THere hathe me wowed many a knyght
+
+
+And many a squyre well dyght
+
+
+But than theyr wonned here besyde
+
+
+A stoute gyaunt full of pryde
+
+
+He hathe me desyred longe nad yore
+
+
+And hym to loue may I neuer more
+
+
+He is a boute with his mestrye
+
+
+To do me shame and velonye
+
+
+And he hathe slayne my men ychone
+
+
+Saue my sory dwerfe alone
+
+
+Ryght as they stode she fell to grounde
+
+
+And soned there in that stounde
+
+
+All her damoyselles to her come
+
+
+To comforte her and her vp nome
+
+
+The lady loked on syr Degore
+
+
+Lefe dame thenne sayd he
+
+
+Be not adrad whyles I am here
+
+
+
+
+I wyll the helpe to my powere
+
+
+Syr she sayd thenne all my londe
+
+
+I wll it cesse in to thy honde
+
+
+And all my good I wyll the gyue
+
+
+And all my body whyle I lyue
+
+
+For to be at all your wyll
+
+
+Erly and late loude and styll
+
+
+And thy lemman for to be
+
+
+To wreke me nowe on myn eneme
+
+
+That was Degore fayne to fyght
+
+
+For to defende that ladyes ryght
+
+
+And to sle that other knyght
+
+
+And wynne that lady that was so bryght
+
+
+And as they stode bothe in fere
+
+
+Her maydens came rydynge with heuy chere
+
+
+She bad drawe the bryge hastely
+
+
+For here cometh youre enemy
+
+
+Or elles he wyll sle vs ychone
+
+
+Syr Degore sterte vp anone
+
+
+Oute at a wyndowe he hym se
+
+
+He was sone armed on horse hye
+
+
+So stoute a man as he was one
+
+
+In armes sawe she neuer none
+
+
+Syr Degore armed hym by lyue
+
+
+And oure of the castell he gan dryue
+
+
+And rode euen the gyaunt agayne
+
+
+They smote togyder with moche mayne
+
+
+That theyr good speres all to brast
+
+
+Degore was stroge and sat fast
+
+
+But his stedes bake braste a two
+
+
+Thenne syr Degore fell to the grounde tho
+
+
+And thenne he sterte vp and loughe
+
+
+
+
+And his good swerde he out drughe
+
+
+Than sayd the gyaunt to hym anone
+
+
+On fote we wyll to gyder gone
+
+
+Thou hast sayd Degore slayne my good stede
+
+
+I hope to quyte the thy mede
+
+
+To sle thy stede nought I wyll
+
+
+But to fyght with the my fyll
+
+
+And tho they fought on fote in fere
+
+
+With stronge strokes on helme clere
+
+
+The gyaunt gaue syr Degore
+
+
+Houge strokes grete plente
+
+
+And syr Degore dyde hym also
+
+
+Tyll helme and basynet barste in two
+
+
+The gyanut was a greued sore
+
+
+Bycause he hadde his blode lore
+
+
+He stroke vpon syr Degore soo
+
+
+That to the grounde he made hym goo
+
+
+Syr Degore recouered soone a plyght
+
+
+And suche a stroke he gaue that knyght
+
+
+And on the crowne soo it sette
+
+
+That throwe his helme and basynet
+
+
+He made the swerde go thorowe his het
+
+
+And anone the gyaunt fell downe deed
+
+
+The lady sat in her castell
+
+
+And fawe all the holde batayll
+
+
+How the gyaunt was slayne
+
+
+That wolde her haue forlayne
+
+
+She was as glade of that syght
+
+
+As euer was bryde of the daye lyght
+
+
+Syr Degore came to the caestll
+
+
+Ano agaynst hym came that damoysell
+
+
+She thanked hym of his good dede
+
+
+
+
+And in her chambre she dyde hym lede
+
+
+She sette hym on her bed anone
+
+
+And vnarmed hym full sone
+
+
+She toke hym in her harmes two
+
+
+And kyssed hym .C. tymes and mo
+
+
+And sayd all my good I wyll the gyue
+
+
+And my body whyle I lyue
+
+
+Gramercy damoysell then sayd he
+
+
+Of that ye haue graunted me
+
+
+But I must in to ferre contree
+
+
+Mo auentures for to se
+
+
+Vnto this twelue monthes be ago
+
+
+And thenne I shall come you to
+
+
+He betoke her to the heuen kynge
+
+
+The lady wepte at his departynge
+
+
+Syr Degore rode vpon his waye
+
+
+Many a longe Iourney
+
+
+And euer more he rode west
+
+
+Tyll a lande he founde in a forest
+
+
+To hym came prekynge a knyght
+
+
+Well armed and on his horse dyght
+
+
+In armes that wolde endure
+
+
+With fyne golde and ryche asure
+
+
+Thre bore hedes were theryne
+
+
+They whiche were of golde fyne
+
+
+As soone as euer he sawe that knyght
+
+
+He spake to hym a none ryght
+
+
+And sayd velayne what doost thou here
+
+
+In my forest to sle my dere
+
+
+Syr Degore sayd with wordes meke
+
+
+Syr of thy dere I take no kepe
+
+
+For I am auenturous knyght
+
+
+
+
+That gothe to seke warre and fyght
+
+
+His fader answered and sayd saunfayll
+
+
+And thou be come to seke batayll
+
+
+Thenne make the redy in a stounde
+
+
+For thou haste thy felowe founde
+
+
+And thenne syr Degore without daungere
+
+
+Armed hym to fyght with his fadere
+
+
+
+
+
+
+¶ How syr Degore fought with his fader & how his fader knewe hym by the broken swerde.
+
+
+
+
+A Well godd helme for the nones
+
+
+And well sette with precyus stones
+
+
+
+
+It myght well be his owne saunfayll
+
+
+For he wanne it ones in batayll
+
+
+He kest his shelde aboute his swere
+
+
+Of ryall armes good and dere
+
+
+His good stede he began to stryde
+
+
+He toke his spere and began to ryde
+
+
+And his man toke an other spere
+
+
+And by his syde he gan it bere
+
+
+But loke what foly began that tyde
+
+
+The sone agaynst the fader gan ryde
+
+
+But neyther knewe other a ryght
+
+
+And thus began they to fyght
+
+
+Syr Degore had the greater shafte
+
+
+And wonder well he coude his crafte
+
+
+To dasshe hym downe than had he wente
+
+
+And in his shelde gaue suche a dente
+
+
+That his good spere all to brast
+
+
+But his fader was stronge and sat fast
+
+
+Another cours than haue they take
+
+
+The fader for the sones sake
+
+
+So harde they smote togyder in sothe
+
+
+That theyr horses backes broke bothe
+
+
+And thenne they fought on fote in fere
+
+
+Wirh harde strokes on helme clere
+
+
+And thus his fader a meruayled was
+
+
+Of his swerde that was poyntles
+
+
+And to hym sayd anone ryght
+
+
+Abyde a whyle thou gentyll knyght
+
+
+Where was thou borne and in what londe
+
+
+Syr he sayd in Englonde
+
+
+A kynges doughter is my moder
+
+
+But I wote not who is my fader
+
+
+
+
+What is thy name thenne sayd he
+
+
+Syr my name is Degore
+
+
+Syr Degore thou arte welcome
+
+
+For well I wote thou arte my sone
+
+
+By this swerde I knowe the here
+
+
+The poynt is in my pautenere
+
+
+He toke the poynt and sette it to
+
+
+And they accorded bothe two
+
+
+So longe they haue spoke togyder
+
+
+Bothe the sone and the fader
+
+
+That they be ryght well at one
+
+
+The fader and the sone alone
+
+
+Syr Degore and his fader dere
+
+
+In to Englonde they rode in fere
+
+
+They were bothe armed and well dyght
+
+
+As it becometh euery knyght
+
+
+They rode forth on theyr Iourney
+
+
+Many a myle of that countrey
+
+
+And on theyr way they rode full fast
+
+
+In to Englonde they came at the laste
+
+
+Whan they myght Englonde se
+
+
+They drewe theder as they wolde be
+
+
+Whan they wher to that palays come
+
+
+They wher welcome all and some
+
+
+And they behelde ouer all
+
+
+The lady them spyed ouer a wall
+
+
+And whan that lady sawe that syght
+
+
+She wente to them with all her myght
+
+
+And ryght well she them knewe
+
+
+And than she chaunged all her hewe
+
+
+And sayd my dere sone Degore
+
+
+Thou hast thy fader brought with the
+
+
+
+
+Truely madame than sayd he
+
+
+Full well I wote that it is he
+
+
+Now thanked be god than sayd the kynge
+
+
+For nowe I wote without lesynge
+
+
+Who is syr Degores fader in dede
+
+
+The lady swoned in that stede
+
+
+And sone after sekerly
+
+
+The knyght wedded that lady
+
+
+She and her sone was departed I twynne
+
+
+For he and she were to nye of kynne
+
+
+Forth thenne wente syr degore
+
+
+With the kynge and his meyne
+
+
+His fader and his moder dere
+
+
+Vnto they castell they wente in fere
+
+
+Where as dwelled that lady bryght
+
+
+That he had wonne in fyght
+
+
+And wedded her witth grete solempnyte
+
+
+Before all the lordes of that countre
+
+
+Thus came the knyght out of his care
+
+
+God gyue vs grace well to fare
+
+
+And that we all vpon domes day
+
+
+Come to the blysse that lasteth ay.
+
+
+
+
+AMEN
+
+
+
+
+
+
+
+
+
+
+¶ Thus endeth the treatyse of syr Degore. En∣prynted at London in Flete strete at the sygne of the sonne by Wynkyn de worde.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2796 @@
+The present state of New-England considered in a discourse on the necessities and advantages of a public spirit in every man ... : made at the lecture in Boston, 20 d. 1 m. 1690, upon the news of an invasion by bloody Indians and French-men begun upon us / by Cotton Mather.
+Mather, Cotton, 1663-1728.
+Approx. 80KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2016-02 (EEBO-TCP Phase 2).
+A50155
+
+
+
+
+Wing M1143
+
+
+
+ESTC R14946
+
+
+
+
+
+ocm 13143947
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The present state of New-England considered in a discourse on the necessities and advantages of a public spirit in every man ... : made at the lecture in Boston, 20 d. 1 m. 1690, upon the news of an invasion by bloody Indians and French-men begun upon us / by Cotton Mather.
+Mather, Cotton, 1663-1728.
+[2], 52 p.   
+
+
+Boston :
+
+
+Printed by Samuel Green,
+
+
+1690.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+United States --  History --  King William's War, 1689-1697.
+2013-12 
+SPi Global
+Keyed and coded from ProQuest page images 
+2014-06 
+Colm MacCrossan 
+Sampled and proofread 
+2014-06 
+Colm MacCrossan
+Text and markup reviewed and edited 
+2015-03 
+pfs
+Batch review (QC) and XML conversion 
+
+
+
+
+
+
+M1143
+
+
+R14946
+
+
+13143947
+
+
+98025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Present State of
+ New-England. Considered in a 
+DISCOURSE On the Necessities and Advantages
+ of a Public Spirit 
+In every MAN;
+ Especially, 
+At such a time as this.
+ Made at the LECTURE in 
+Boston
+ 20. d. 1. m. 1690. 
+Upon the News of an
+ Invasion 
+by bloody
+ INDIANS 
+and
+ FRENCH-MEN, 
+begun upon Us.
+ By 
+Cotton Mathex.
+
+
+— Non displicuisse meretur,
+
+
+Festinat Patriae qui placuisse suae.
+
+
+BOSTON
+ Printed by 
+Samuel Green.
+ 1690.
+
+
+
+
+
+
+
+
+To the Honourable 
+Simon Bradstreet
+ 
+Esqr.
+ 
+GOVERNOƲR
+ Of the 
+Massachuset Colony;
+ The Aged, Faithful, Venerable 
+Mordecai
+ of his Countrey:
+
+
+To the 
+Honourable;
+ Sr. 
+WILLIAM PHIPS
+ Kt. 
+GENERAL
+ of the Forces now Engage∣ing against our worst Enemies; One Raised by God 
+for such a time as this;
+
+
+And 
+To the Honourable 
+Wait Winthrop
+ Esq; 
+MAJOR-GENERAL
+ of the 
+Massachuset-Colony:
+ A continual Exemple of a 
+Public Spirit;
+
+
+ALL OF THEM, the most Loyal Subjects of 
+THEIR MAJESTIES,
+ As well as the very Happy 
+PATRONS
+ of 
+New-England:
+
+
+These Reflections on our 
+Present 
+State,
+ Ravished, first from my 
+Thoughts
+ by the 
+Necessities
+ of 
+All;
+ & now from my 
+Hands,
+ by the Importunities of 
+Many;
+ are Most Humbly Dedicated, by Their 
+Sincere Servant,
+
+
+C. M.
+
+
+
+
+
+
+
+
+
+
+
+
+A Publick Spirit Recommended unto the Inhabitants of 
+NEW-ENGLAND 
+In A SERMON
+ At 
+Boston Lecture.
+ March 
+20. 1690.
+
+
+
+
+Esther IV. 14.
+
+
+If thou altogether hold thy peace at this time, Thou and thy Fathers House shall be destroyed.
+
+
+
+
+TIS well known, that the late 
+Me∣thods
+ of this weekly and ancient LECTURE, have been, to insist first on the Affairs of a sincere CONVERSION, and then on the Duties of a pious CONVERSATION. Having dis∣patched the 
+former,
+ we are now entertaining
+
+ you with our our Discourses and Directions on the latter. And you must Indulge me this Digression, that the fresh News of our 
+Distress
+ and 
+Danger
+ which within this four and twenty Hours arrived unto us, have diverted my Thoughts to 
+That
+ which you may behold this Text pointing at.
+
+
+I could not 
+altogether hold my peace at this time,
+ without obse ving, that we have as ma∣ny 
+Duties
+ as we have 
+Objects
+ to be concerned with. But as one of the 
+Objects
+ which we often have before us, is, 
+The People of God placed in very terrible Distress, and Danger;
+ thus among the 
+Duties
+ then expected from us, none of the least Remarkable and Considerable is, 
+The venturing of our All, in the service of that holy People.
+ Such was the 
+Object,
+ and such the 
+Duty
+ which our Text refers unto. The peo∣ple of God, had their 
+All
+ now just 
+going
+ to be 
+gone,
+ and a great person is here called upon to venture 
+All,
+ for the service of this People that were thus Expiring.
+
+
+The words now read, are a message sent by a Renowned 
+Mordecai,
+ to the Empress of the World. The whole Book of 
+Esther
+ is a commentary upon one Verse in the seven∣teenth of 
+Exodus;
+ and that part of it which we are now upon, claims a particular share of the Exposition. But we must Praeface our Discourse upon it, with a 
+few,
+ and but a few,
+
+ Remarks upon the blessed 
+Mordecai,
+ that we may 
+feel
+ whereabouts we are. Know then that 
+Mordecai
+ was a Famous, an Aged, and an Holy Jew. He had been carried into Cap∣tivity, with 
+Jeconiah,
+ above seventy years be∣fore. And he 
+Returned
+ to, and 
+Resided
+ at 
+Je∣rusalem,
+ till the work of the 
+Temple
+ received its unhappy interruption: but then he 
+Retired
+ that he might serve his People in the Court of 
+Ahashuerus
+ (who was also called 
+Artax∣erxes
+) there: A very laudable Example! 'twas the effect and effort of a most noble generosi∣ty, in a worthy Man, when his opportunities to 
+Do good
+ were shut up at home, thus to ex∣pose himself unto all the Temptations of a 
+Princes Court,
+ that he might there be service, able to the People of God.
+
+
+But our 
+Mordecai
+ gives a great affront un∣to one 
+Haman,
+ a Minion in the Court of 
+Per∣sia.
+ That 
+Haman
+ by his Brigues, had obtain∣ed from the Persian Emperour, a Commission and Priviledg to require a more than common Reverence from the Courtiers then about the Palace. But this good man found it against his Conscience to take such a notice of such a Miscreant. The scruple arose in him, either from 
+This;
+ That 
+Haman
+ was an 
+Amalekite
+ he was among the Children of that 
+Agog,
+ wh
+ 
+Samuel
+ slew; and so of a Generation both 
+accursed
+ by God, and no less justly that
+
+ greatly 
+Abhorred
+ by 
+Israel;
+ or which I rather Think, from 
+This,
+ That it was a 
+Divine
+ and 
+Sacred
+ Respect, which 
+Haman
+ did now require. Such was the respect which the haughty and impious Kings of 
+Persia,
+ would sometimes arrogate unto themselves; and they would sometimes impart the same unto their Para∣sites and Favourites. Had it been a meer civil respect which was here demanded, it would have been very 
+superfluous
+ and well nigh 
+ridiculous
+ to have given express com∣mand unto all 
+the Kings Servants that were in the Court
+ concerning it; good manners were doubtless enough used there. Now that a godly 
+Jew
+ should refuse to render such an Honour to a sorry 
+Potsheard of the Earth,
+ is not at to be wondred at, when we call to mind, That even the prudent, but pagan 
+Grecians
+ did refuse it, in their Address to the 
+Persian
+ Monarchs; and the 
+Athenians
+ put one 
+Timocrates
+ to death, for adoring of 
+Darius
+ in such a manner. Such a check was given to the pride of 
+Haman!
+ Now the bloody Re∣venge of this Hellish Monster prompted him to pursue no meaner a satisfaction for this in∣dignity, than the utter 
+Desolation
+ and 
+Extirpa∣tion,
+ of the whole Nation which 
+Mordecai
+ was of: one Lark will not fill the belly of such a 
+Vulture.
+ Besides he saw the whole Nation was of such 
+Principles
+ and 
+Perswasions
+ in Re∣ligion,
+
+ as gave a reproof to his wicked practi∣ces; an intolerable Nation was it that would know no God, but the Lord 
+Jehovah,
+ and with whom 
+Creature-Worship
+ was now grown into Detestation: and therefore he procures an order for the total Destruction of all the Jews, to be executed, according to the advice which he sought of the 
+Divel
+ for it, about this time of the year; and I suppose 
+Anno mundi
+ 3485.
+
+
+Perhaps, the 
+Jews
+ were before this, grown a little too secure and careless: it might fill them with many promises of none but 
+Good Times
+ for them, when they saw one of their own Religion sitting on the Throne. More∣over, The 
+Jews
+ had every where offended the God of Heaven, by neglecting of His Ordi∣nances for the sake of their own Secular Ac∣commodations. But we now all of the sud∣den see them that were the 
+only people of God in the world,
+ involved in most Awakening and Horrible Calamities; and they have a pros∣pect of Nothing but a Speedy, a present 
+Ru∣ine
+ before their Eyes. 'Twas by something bigger than a 
+Wonder,
+ that the People of God were now preserved!
+
+
+A Strange Providence had exalted a Kins∣woman of 
+Mordecai's,
+ whose Name was 
+Esther,
+ to be the Queen of the Persian Empire; and she must be the Instrument of the preservation.
+
+ In order hereunto, we find in our Context, a very solemn Message of her Uncle to her; in which we may Contemplate,
+
+
+First, a 
+Duty.
+ The Duty pressed is, To 
+venture All for the Rescue of them that were the Afflicted People of God.
+ The Thing Enjoined upon 
+Esther
+ was, 
+Go in unto the King, and make Supplication for thy people.
+ This was the only step that could be taken for saving the People of God: but it was one very desperate and perillous. There was a cursed and a crabbed 
+Law
+ among them, which made it capital for any uncalled person to come into the 
+presence
+ of the King, unless it should please His pow∣erful and Soveraign Majesty to Extend His 
+Golden Scepter,
+ as a Token of a Pardon for that presumption. Wherefore now to push into the presence of the King, was to rush more evidently upon the point of a 
+Sharp Sword,
+ than of a 
+Golden Scepter;
+ it was to hazard the Loss of 
+All;
+ not only a 
+Crown,
+ but a 
+Life
+ too must be ventured in it. And the late Carriages of the Emperour unto 
+Est∣her,
+ could not but increase her Suspicions and Jealousies that his Affections began to be A∣lienated from her; whi
+h made the Under∣taking yet more Dubious, Dangerous, and Formidable. However, still this was the Charge of the good 
+Mordecai, If All must be ventured, then venture All; when the People of
+
+ God are perishing, All that we have, is too little to be ventured for their Help.
+
+
+Secondly, A 
+Reason
+ The Reason is, like a good 
+Sawce
+ made up of 
+Sowre
+ and 
+Sweet.
+ It is made up of 
+Discords,
+ and there is a no∣table 
+Musick
+ in it.
+
+
+First, We have 
+Necessity
+ for this venture mentioned. Says 
+Mordecai
+ to his Neece, 
+Think not that thou shalt escape.
+ He speaks to her, as to a Passenger Embark'd in the same Vessel. Says he, 
+Don't think that you shall not share with, and fare like, the rest of the people of God, that are now ready to be swallowed up
+ It was more probable, that the 
+Queen
+ would suffer for being a 
+Jew,
+ than that the 
+Jew
+ should escape for being a 
+Queen.
+ Being a 
+Queen,
+ has been found not enough to put a person beyond the Reach of Malice and En∣vy; as the 
+Queen
+ of 
+Dioclesian,
+ and the 
+Queen
+ of 
+Navarre,
+ besides nearer instances, have as∣sured us. A Lively venture for the People of God, was once, it seems, the only way to de∣fend a 
+Royal
+ person from every fatal mischief.
+
+
+But Secondly, We have 
+Encouragement
+ for this Venture tendered Says 
+Mordecai
+ with a Magnanimous Faith. 
+If thou altogether hold thy peace at this time, there shall Enlargement and Deliverance arise from another place.
+ Here was that 
+Faith,
+ by which, as the Apostle notes, the Believers of old, 
+Escaped the Edge of the Sword.
+
+
+
+
+From another place.
+ There are Jewish Rab∣bins who look upon 
+Place,
+ here to be the Name of God. It has been admired, that the Name of GOD, is no where to be seen in the Book of 
+Esther;
+ and the Jews have a profane and foolish Custome thereupon. But indeed, as the Greeks would write 
+.
+
+
+, upon their Books, much more may we see 
+God
+ in every verse, 
+God
+ in every line of this Memorable Book. If the Name of 
+Makom,
+ or, 
+Place
+ be here put upon our God, it is not without a cause: For, 
+All things are in God;
+ He is Immense and Boundless in His Being; we cannot so well say, 
+That God is in the World,
+ as, 
+That the World is in Him;
+ and whether it be proper or no, to say, That God is even in the 
+Imaginary Space
+ beyond the 
+utmost Selvidge
+ of the World, this I am sure of, That the 
+Utmost Selvedge
+ of the World does not limit and confine this infi∣nite God, and the 
+Heaven of Heavens cannot Contain Him.
+ 'Tis therefore suggested here, That when the People of God can have no 
+place
+ of Safety, but are in every 
+place
+ obnox∣ious to dreadful Persecutions, yet then, in their 
+GOD
+ they will have a 
+place
+ to repair unto. 'Tis possible, That this Glorious PLACE may keep the worst of all their E∣nemies from coming at them?
+
+
+But what is the Duty 
+then
+ incumbent upon
+
+ 
+our selves.
+ You have heard it in the 
+Text
+ and you shall again hear it, in our 
+Doctrine,
+ thereupon; which is briefly 
+This.
+
+
+That every Christian should Readily and Chearfully 
+Venture
+ his All to to serve the people of God, when a 
+Time of Distress and Danger
+ cal∣leth for it.
+
+
+It had been both 
+presumptuous
+ and 
+Injurious
+ to have Exhorted 
+Estther
+ unto doing so, if it had not been a Duty altogether indispensable. The Blessed God, for most wise and great 
+Ends,
+ permits 
+Times of Distress and Danger
+ to come upon His people. That 
+His Attributes
+ may be Magnified, and that both His and Their 
+Adversaries
+ may be prepared for the Vengeance, which belongs unto them, There∣fore 'tis that the most High brings His Peo∣ple sometimes into most amazing Exigencies; 'tis for these causes, that they not rarely fall into such 
+Times of Distress and Danger,
+ that like them in the Days of 
+Esther,
+ they Ly 
+mourning and weeping and wailing in Sackcloth and Ashes,
+ before the Lord; and they see themselves no where but upon the prodigious
+
+ praecipices of Rumes hardly to be avoided.
+
+
+In 
+such
+ a condition of Affairs (which is too much 
+our own
+ Condition) something must be done; 
+Attempts
+ must be made for the Relief and Rescue, of the 
+People
+ so likely to be cut off. Tho' it becomes us to, 
+Stand still, and see the Salvation of God,
+ I do not know that we are to 
+sit still,
+ without the use of Means under our Discouragements. But these 
+Attempts
+ can't be made without 
+Ventures
+ in them. 'Tis as possible they may miscarry, as that they may be successful. However, we must yet 
+venture
+ hard, and 
+Venture
+ far, yea, and Venture 
+All,
+ to serve the People of God, in their 
+Distress
+ and 
+Danger. If at THIS TIME thou altogether
+ forbear, and refrain, the doing of what may be serviceable to the Di∣stressed People of God, behold with an Holy Terror, the Doom upon that Omission, 
+Thou and thy House shall be destroyed.
+
+
+We have two 
+Questions
+ before us, to be a little Reflected on.
+
+
+First, 
+What,
+ And
+
+
+Secondly, 
+Why,
+ we must 
+Venture
+ for the Distressed People of God.
+
+
+The first of our Questions, is,
+
+
+What Ventures are we to make for the People of God, when Distress or Danger calls?
+
+
+I must make 
+short work
+ of it, and in 
+One Word
+ comprise what is to be said. I say then,
+
+
+
+
+We are to Venture every Thing in the world, but a precious and immortal Soul.
+ So did 
+Esther
+ our Pattern. There is no Jewel, but that one of a never dying 
+Soul,
+ too valuable to be ventured, when God and His People is to be served. The first Lesson, the A. B. C. of Christianity, is that in 
+Mat.
+ 16.24. 
+Let a man Deny himself.
+ We are so to 
+Deny
+ out selves, as to 
+Venture
+ our selves, and 
+All
+ that we 
+Are,
+ and All that we 
+Have,
+ to serve the 
+People of the Saints of the Most High.
+ But because you Look to see some particulars in the 
+Bill of Charges
+ which the Distress & Danger of Gods People, may put upon you, Let me say;
+
+
+First, We must venture our 
+Quiet,
+ for the People of God. It was the Speech of a Gallant Man, in 2 Sam. 11.11. 
+The Ark and Israel and Judah abide in Tents, and my Lord Joab, and the Servants of my Lord are Encamped in the open fields; shall
+ I 
+then go into my house, to Eat and to Drink—I will not do this thing,
+ Well said, thou brave 
+Hero!
+ May we in like manner scorn to Consult the Delights and Pleasures of our own Repose, when the Ser∣vice of God and His People shall call us forth. Many 
+Pains,
+ many 
+Toyls,
+ and all the uncom∣fortable Fatigues of 
+Business,
+ must be Encoun∣tred, without Reluctancies, when the People of God are to be served; and we should for∣sake
+
+ our soft Beds, our full 
+Tables,
+ and our Fine 
+Houses,
+ for the sake thereof. We should engage in the Service of our Genera∣tion, tho' there should be two 
+Hankerchiefs
+ which we are thereby necessitated unto the continual wearing of; One to wipe off the 
+Sweat
+ of Labour and another to wipe off the 
+Dirt
+ of Reproach. We may not, for the Love of 
+Ease,
+ decline the doing of what is to be done for the Interest of God, and of His People.
+
+
+Again, We must venture our 
+Estate
+ for the People of God. It is Recorded for the ever∣lasting Reputation of those well-disposed men, in 2 Cor. 8.2 
+Their deep Poverty, a∣bounded unto the Riches of Liberali?y,
+ or 
+Sim∣plicity,
+ as it may be rendred. Many persons can do nothing in a way of Service for the People of God, because they say, 
+They are poor.
+ Nay, but our extreamest 
+Poverty
+ should not hinder our 
+Liberality,
+ When God and His People are to be served with what we have: Whatever 
+Simplicity
+ the Wity and Crafty and Gripple Hold-fasts of the World, may imagine in it. We should not grumble at a∣ny 
+Expences
+ which the Service of God and His People is to be maintained with; and tho' we have no more than 
+Two Mites
+ to give, we should part with more than 
+One
+ of them, rather than his Interest should meet
+
+ with any prejudice.
+
+
+Furthermore, we must venture our 
+Ho∣nour
+ for the People of God. It was an Act for which 
+Moses
+ is for ever 
+Honourable,
+ in Heb 11.24, 25. 
+He Refused to be called, The Son of
+ Pharaohs Daughter, 
+choosing rather to suffer Affliction, with the People of God:
+ Tho' we may arise to never so much Grandeur, Dig∣nity, and Preferment, by overlooking the Service of God and His People, we should think 
+Little
+ of the 
+Grandeur,
+ and rather trample upon such Dignity and Preferment. Tho' our Titles may be, 
+Reverend,
+ or 
+Wor∣shipful,
+ or 
+Honourable,
+ and perhaps 
+Rightly
+ so too; nevertheless we should think it no 
+Hu∣miliation
+ to us, that the People of God must be served by us. We are swoln with the 
+vainest Air,
+ if we count our selves too Bigg to do what is bespoke for the Interest of those that we should be 
+Benefactors
+ unto, if we would not unworthily pretend to be 
+Superi∣ours
+ over them.
+
+
+Moreover, we must venture our 
+Friends
+ for the people of God. The Lord General of 
+Israel
+ had a dear and a kind 
+Brother,
+ to whom nevertheless he said, as in 2 
+Sam.
+ 10, 11, 12. 
+Be of good Courage, let us play the men for our People: and the Lord do that which seemeth Him good.
+ Tho it be a 
+Brother,
+ yea, and somewhat nearer than a 
+Brother
+ that we must
+
+ part withal, for the Service of God and His People, yet we must be willing to take our leave of such Rela ions. It was a very com∣mendable Bravery in that Father, who having had 
+six
+ lovely and loving 
+Sons
+ kill'd in the Service of the Public, brought out a 
+seventh,
+ even the Staff of his old 
+Age,
+ unto the Press-Masters, and said 
+Here I have one Son more; take him too; this cause is worth them all.
+ Sup∣pose we have a 
+Benjamin
+ with us, which we dote so much upon, that our Gray hairs do with 
+sad hearts
+ tremble at his departure from us: yet 
+Benjamin
+ too mu t go, if the service of our 
+Joseph,
+ our Jesus have occasion for him. There are many persons, who have brought very bitter, woful, doleful Miseries upon their 
+Children,
+ by detaining them from the Service of Gods People, when some hazard has ap∣peared in it. Let us count the very best of our 
+Friends,
+ never better bestowed, than in such a 
+Service
+ as may be reputed a 
+Friendship
+ to the Interest of God.
+
+
+All that I have hitherto asked for, is but a 
+Small Venture;
+ there is 
+One
+ more that we are to make.
+
+
+Finally then, We are to venture our very LIVES for the People of God, when they can't be brought out of 
+Distress
+ and 
+Danger
+ without the venture of our 
+Lives.
+ 'Tis what we are summoned unto in 1 
+John
+ 3.
+
+ 16. 
+We ought to lay down our Lives for the Brethren.
+ If an Heathen 
+Pylades
+ and 
+Orestes
+ could not think their 
+Lives
+ too large a price for each others 
+Peace,
+ what 
+Life
+ should be too much to be Sacrificed for the 
+Peace
+ of a People which God counts 
+His own?
+ The Apostle 
+Paul
+ tells us, 
+For a good man one would even dare to Dy
+ and hee saw it when an 
+A∣quila
+ and 
+Priscilla
+ were so ready to Dy for 
+him.
+ If a 
+good Person
+ be so valuable, What can then bee too much for a 
+Good People
+ of the Lord? When 
+Adron,
+ when 
+David,
+ beheld a Destroying Evil breaking in upon the People of God, they carried their 
+Lives
+ to keep it off. We are to do what we can for such a People, tho it be with 
+The Jeopardy of our Lives.
+ If we have a call to 
+Ride into the very Bowels of the Earth,
+ for the Service of the Public, we should as 
+He
+ of old, with all Spur and Speed be there. The Service of God and His People should make us to say, as the Martyr once, 
+If every Hair of my Head were a Man, they should all be Sacrificed in this Glorious cause.
+
+
+These are 
+Ventures
+ that we should none of us be Backward unto. But our Second Que∣stion then Enquires.
+
+
+Why are such Ventures to be made for the People of God, when a Pressing Time cal∣leth for them.
+
+
+
+
+Briefly, We ow our 
+All
+ unto the 
+People
+ of God. A 
+Minister
+ of God said once unto another, Philem. 19. 
+Thou owest unto me, even thine own self.
+ How much more may the 
+People
+ of God say this unto us all, 
+Thou owest us thy self and thy All;
+ The People of God may call for our 
+All
+ And
+
+
+First, The 
+Order
+ of God Empowers the 
+People
+ of God, to call for it. We are 
+His
+ by 
+Creation. He has made us and not we our selves.
+ We are 
+His
+ by 
+Redemption.
+ He has 
+Bought us and not for our selves.
+ Our God says unto us, as in 1 
+Cor.
+ 6.19. 
+Ye are not your own.
+ That which He has done for us, ob∣liges us to say unto 
+Him
+ devoutly what the Prince of old foolishly said unto another, I 
+am thine, and all that
+ I 
+have.
+ Shall I not add, That we are 
+His
+ by 
+Profession
+ too? I pray, which of you dare to say, I 
+have some∣thing that God is not the Owner of?
+ We 
+Pro∣fess
+ that all we can Style 
+our own,
+ shall be, 
+For Him and not for another;
+ otherwise we ly in our dayly Protestations. We have our 
+All
+ from God. It is, 
+In Him that we Live and Move and have our Being.
+ And shall not our 
+All
+ be 
+For
+ Him too? Well, The God of Hea∣ven has made His People, the Receivers of His 
+Rents,
+ His 
+Dues.
+ They have a 
+Letter of Atturney
+ for it; and you shall see me produce it, before I stirr. It is in 
+Matth.
+ 25.40. 
+Verily I say unto you, Inasmuch as you have done it unto
+
+ the least of these my Brethren,
+ (Blessed Lord, Condescendest thou to Style thy poor People so? and shall we count any thing too dear to be Ventured for them!) 
+Ye have done it unto me.
+
+
+Secondly, The 
+Design
+ of God likewise Em∣powers them to call for it. All Things are Ordained and Intended by our Good God, for the use of His People; He says in 1 
+Cor.
+ 3.21. 
+All is yours.
+ And shall we defraud them as to any part of that 
+All?
+ What is it that God allowes us our 
+Life
+ and all the Refreshments and Enjoyments of it for? Tis not that 
+we
+ may have a Tast of a few Sensual Delights; God has not that Regard unto our 
+Sensuality.
+ No, Tis that the People of God may be the bet∣ter for it; therefore tis that we are made 
+Stew∣ards
+ of our little 
+All.
+ Why, the whole World stands on this very Ground, 
+That the People of God may be Provided for;
+ if there were none of 
+them
+ to be Served the Eternal God, would with swift Lightenings and Hot Thunder∣bolts, immediately set fire to the Universe. How comes the Greatest 
+King
+ to set upon a Chair of State? It is affirmed of 
+Cyrus,
+ a Pu∣issant Emperour, in 
+Isa.
+ 45.4 
+For Jacob my Servants sake, and for Israel mine Elect,
+ I 
+have called thee.
+ Much more ought we 
+Little Folks
+ to imagine, that when we have arrived unto any thing of the World, the Almighty God
+
+ says unto us, 
+Tis for the Sake and the Service of my Israel, that
+ I 
+have Blessed thee.
+ Shall I utter a word beyond any that has yet passed from me? We are then to be Sensible of what we read about our Lord Jesus Christ Himself, in 
+Eph.
+ 1.22. 
+God hath put all things under His Feet:
+ What for? It followes, 
+And gave Him to be Head over all things to the Church
+ What a thing is here? It seems that our Lord Jesus is made 
+Heir of all things,
+ and has the Government of the whole World put into His Hands, (in part) that so the People of God may thereby be Served & Saved forever more, And what shall you and I, Little Creatures, then think of all the 
+Advantages
+ which God has put into 
+our
+ Hands! Whom, I pray, 
+Whom
+ are they to be Serviceable to?
+
+
+Thirdly, The 
+Glory
+ of God, gives them a Concernment in our 
+All.
+ 'Tis the Name worn by the People of God in Isa. 46.13. 
+Is∣rael, my Glory.
+ The Lord our God has more 
+glory
+ from His People, than from all the Vi∣sible World besides. Indeed all the Sincere and Active Returns of 
+glory
+ which from the face of the Earth go up unto Him, are a∣mong such as these. The Great God is greatly 
+Glorify'd
+ by the prosperity of His People, 
+They
+ Know Him, 
+They
+ Love Him, 
+They
+ Praise Him, while 
+Prosperity
+ gives them 
+Opportunity
+ so to do; and as 'tis said in Psal,
+
+ 102.16. 
+When the Lord shall build up Zion, He shall appear in His Glory.
+ The 
+Glory
+ of God is promoted, when the 
+Zion
+ of God is Defended, Enlarged, Served. And what should we Dedicate and Consecrate our 
+All
+ unto, but the 
+Glory
+ of Him that is 
+God over All?
+ 'Tis said, 
+Eat and Drink unto the Glory of God;
+ every Bit of 
+Meat,
+ every Drop of 
+Drink,
+ that we have; and whatever is reck∣oned in our 
+All,
+ may be devoted unto the 
+Glory
+ of God. If 
+so,
+ it must go to the 
+Service
+ of His People too.
+
+
+Lastly, The 
+Wrong
+ we have done to the People of God, Enables them to Demand our 
+All.
+ What is it that brings 
+Distress
+ or 
+Danger
+ upon the People of God? It is, 
+Our Sin.
+ We, by our 
+Sins
+ have had an Hand in all the Inconveniencies, which put the People of God upon calling for our Help? How shall we then repair this Wrong, but by pro∣fering our 
+All,
+ to bring them out of their Distressed Plight? Hence came that carriage of 
+David,
+ in 2 Sam 24.17. 
+He said,
+ 
+ 
+have sinned; but these Sheep, what have they done? Let thy Hand, I pray thee, be against m.
+ Even so should an holy Ingenuity prompt us to think with our selves; 
+'Tis we th
+ 
+ sin∣ned, and for our Sins, there are Storms 
+ 
+es now threatning the People of God; O let them all be spared, and let my All go towards the Redeem∣ing
+
+ of them.
+ This was that which poured Oyl into the Flame of that 
+Zeal
+ which 
+Paul
+ was once inspired with; He could say, I 
+was once Injurious!
+ and this made him with a scarce imitable Diligence and Faithfulness, now lay out His 
+All,
+ to serve the People of God, who had heretofore been worse for his Misdemeanours.
+
+
+But the Improvement of these things re∣mains. And it shall be in these Deductions.
+
+
+
+
+Deduction I.
+
+
+Hence, a 
+private Spirit,
+ especially at a Time of much 
+Distress
+ and 
+Danger
+ with the People of God, is an evil much to be Rebuked. For us to see the People of God gasping, bleed∣ing, dying under Difficulties, and yet, 
+At this Time altogether to hold our peace!
+ O 'tis a most unaccountable 
+Baseness;
+ and the mouth of our God hath stigmatized it with the charact∣ers of most horrible 
+Woes;
+ as in Amos 6.6. 
+Wo to them, that are not grieved for the Affil
+∣ction of Joseph!
+ I lay down these two Asserti∣ons.
+
+
+First, At 
+All
+ Times we should 
+Employ
+ our 
+All
+ for the People of God It should be our Ambition to be as the Blessed 
+Bradford
+ was, 
+Always doing of Good with Tongues, or Pen, or Purse, or some other way.
+ Most amiable was the Meditation, which 
+David
+ was treating himself withal, in 2 Sam. 7:2. 
+He sits down
+
+ in his House,
+ and thinks. 
+What shall I do for the House of my God?
+ That Enquiry, 
+What Service may
+ I 
+do for the Church of God?
+ should often be Rolled in our Minds; and it will be so, if we do not too much countenance a 
+Spiritual Barrenness
+ in our Lives. The Church of God, is well worth our 
+Serving;
+ next un∣to the 
+Man
+ Christ Jesus, it is the Noblest Creature that ever was formed by the power∣ful and Curious Hand of the 
+Great God that formed all things.
+ There is not an 
+Angel
+ in Heaven, but what would g adly wait upon the smallest and poorest Member in the 
+Church-Mystical;
+ even so, the 
+Little Ones have their Angels.
+ Yea, our Mighty 
+Saviour
+ Himself, counted the very 
+Blood of God,
+ and 
+Life of God
+ a fit Ransome for the Salvation of of the Church; and shall not we then reck∣on the Church and People of God a fit sub∣ject for the best of our sorry Services? But I pass on to say,
+
+
+Secondly, In Times of much 
+Distress
+ and 
+Danger
+ with the People of God, we are then especially to 
+Venture
+ our All on their behalf. We are 
+at this Time
+ to speak yea, and Act for them, Let the 
+Venture
+ Look never so big and black upon us.
+
+
+Indeed, This is not the Spirit of every man; Too, too many are of a 
+private,
+ Selfish, Nar∣row Spirit, and are scandalously 
+Little
+ in their
+
+ Inclinations. 'Tis pitty but some 
+Odious Com∣parison
+ should be excogitated for them. Will they 
+Venture All?
+ No, they study for nothing but to 
+Save One:
+ And if God have Raised up some Extraordinary Person, to 
+Venture
+ His 
+All,
+ for the Deliverance of His Afflicted Countrey, perhaps all the Thanks that they give him is, 
+Who bid him do it?
+ Will they 
+Venture
+ All? No, They 
+Refuse
+ All, or at least they 
+Begrutch
+ All, that should go from them, for the publick Weal. They Complain of 
+All,
+ and Murmur at 
+All,
+ tho' it be a wretch∣ed 
+Little,
+ which they are Compell'd unto, for the 
+common Safety.
+ Will they 
+Venture
+ All? No, They use all their Wits and all their Thoughts to Contrive, how to 
+Do no∣thing at all;
+ and tho' they can spend many 
+Pounds
+ in a year upon a pernicious 
+Lust,
+ yet a Summe not capable of so High a Deno∣mination exacted by a Reasonable 
+Tax,
+ is with them an 
+Oppression
+ which (because they are far from 
+Wise) does make them Mad.
+ What would they be at? They would not care tho' the 
+Houses
+ of their Neighbours were Burnt, if their own 
+Apples
+ might be Roasted at the Flame. What would they have? They subordinate their 
+All,
+ to this mighty Thing, that they may sleep like the 
+Toad,
+ (I have now found a comparison for them!) with Claws full of the Dust which
+
+ is in the Belly of the Earth. There is this Detestable 
+Neutrality
+ in multitudes of men; that 
+Let
+ the People of God sink, or swim, 'tis all one to them, 
+Modo hic sit bene,
+ (as he said) if their own Earthly Pleasures be not thereby Abated.
+
+
+Alas, For this 
+Private Spirit!
+ It is 
+this
+ that has a more Dismal Aspect upon our 
+own
+ Land, than all the other things that Bode ill unto us. We read in 2 
+Tim.
+ 3.1, 2. 
+In tho last Days Perillous Times shall come; for men shall be lovers of their own selves.
+ I krow a Countrey in the World, that can afford many 
+Effectual Expositors
+ upon that memorable Text. God grant that the 
+last Dayes
+ of 
+New-England
+ may not now be Running; tis 
+too
+ Evident, that we have most 
+Perillous Times,
+ and, I wish it were not 
+as
+ Evident, that men are too gene∣rally 
+Lovers of their own selves.
+
+
+To Sharpen the Rebukes that are due to such an 
+Evel Spirit.
+
+
+
+
+Consider. 1.
+
+
+By a 
+Private Spirit
+ no man proves a 
+Real Gainer
+ in the end. Men think to 
+Save
+ by such a 
+Self Consultation;
+ but they 
+Loose
+ Egre∣giously and very Miserably: as tis said in 
+Math
+ 16.24. 
+Whosoever will save his Life shall loose it.
+ The men of a 
+Private Spirit
+ are loosers, even in 
+this
+ World. The allwise God has uncountable wayes to Deprive and Be∣reave
+
+ men of those very things, which a 
+Pri∣vate Spirit
+ was resolved upon the Retaining of. The men of 
+Succoth
+ and 
+Penuel,
+ would do no∣thing for Supporting the Army that was go∣ing against the 
+Midianites.
+ No, said they 
+Let such and such Towns bear all the Charges, if they will:
+ But you forget not the Destruction that soon overtook them for it. The Citizens of 
+Constantinople
+ were so Coveteous, that they would not maintain a Watch on the Walls of their City when it was besieged; the 
+be∣seigers
+ by that Def ct soon became the 
+Pos∣sessors
+ of their wealth and found Vast-Coffers of it, hoarded up. This 
+Private Spirit
+ renders men Obnoxious to the te rible 
+Displeasure
+ of an Holy and an Angry God; and what Se∣curity can they have against the Desolating strokes of 
+That?
+ When 'twas Judged that some of the Provinces in 
+Israel
+ were break∣ing off from the Rest, and setting up for them∣selves, and intending no more to bear the Name of 
+The united Colonies;
+ What said the man of God unto them, in 
+Numb.
+ 32 23. 
+Be∣hold, yee have Sinned against the Lord; and be sure your Sin will find you out.
+ It was a Note in a great Song, 
+Judg.
+ 5.23. 
+Curse yee
+ Me¦roz, 
+said the Angel of the Lord, Curse ye bitter∣ly the Inhabitants thereof.
+ Why, what had they done, that the 
+Bitter
+ waters of Jealousy and Consumption must in this large Quantity
+
+ be got ready for them? How many 
+Men
+ had they kill'd? and how many 
+Towns
+ had they burn'd? Alas, There is nothing of all th
+, their Fault was this, 
+Because they came not un∣to the Help of the Lord, against the Mighty.
+ If all the 
+Angels
+ in the Heaven, can make a 
+pri∣vate
+ Spirit prove a 
+cursed
+ One, and inflict a 
+Blast
+ upon those whom 'tis prevailing in, it shall be done!
+
+
+Yea, and they shall in the 
+other
+ World be Losers too. Who are those that shall perish for ever? Why, They are the Men that can't 
+Venture.
+ We find, in 
+Rev.
+ 21.8. 
+The Fear∣ful,
+ to be the 
+First
+ in the Roll of them that shall go into the 
+Lake which burns with Fire and Brimstone;
+ they that were for bringing up the 
+Rear
+ in all 
+Services
+ here, must Lead the 
+Van
+ in the 
+Sufferings
+ of the Pit below. Our 
+Everlasting Recompences
+ will be very much ad∣justed, by the Regards which we had for the Flocks of the Lord Jesus here. 'Tis an awful Scripture, in Isa. 60.12. 
+The Nation and Kingdom, that will not serve thee
+ (the peo∣ple of God) 
+shall perish.
+ If a 
+Nation,
+ a 
+Kingdom,
+ How much more must the 
+Unser∣viceable Person
+ Look to be 
+served
+ so?
+
+
+
+
+
+
+Consider
+ 2.
+
+
+A 
+private Spirit,
+ is very far from a 
+Christi∣an Spirit.
+ It was the great Rule of the Pri∣mitive Christianity, in 1 Cor. 10.24. 
+Let no
+
+ man seek his own, but every man Anothers Wealth.
+ It was the Spirit of 
+Christ,
+ in 2 Cor. 
+ 9 
+Tho' he was Rich, yet for your sakes, He became Poor.
+ But of what Spirit then are 
+they,
+ that cannot part with any 
+Riches
+ for the Benefit of their Neighbourhood? It was the Spirit of 
+Paul,
+ in Rom. 9.3. 
+I could wish that my self were Accursed from Christ, for my Brethren.
+ What Spirit are they then of, that cannot bear to see themselves a jot the 
+poorer
+ or the 
+Meaner
+ for their 
+Brethren?
+ In the Primitive 
+Jerusal
+m,
+ they had, 
+All things in Common.
+ And a Readiness to 
+Communicate
+ is but agreeable to all the Children of that First Christian Church, which was, 
+The Mo∣ther of us all.
+ Are we Members of that 
+Bo∣dy,
+ which the People of God make up, or no? If we 
+are,
+ we shall be, 
+Concerned for the whole.
+ A Good Man will say, as he in Ps. 1
+2.8. 
+For my Brethren and Companions sakes, I will now say, peace be within thee.
+ When he Looks upon the People of God, he thinks, 
+These are my Brethren, they and
+ I 
+have the same Father;
+ He also thinks, 
+These are my Compani∣ons,
+ I 
+hope to dwell with them throughout Eter∣nal Ages.
+ Hereupon, he can do any thing for them, and feels his Heart within him knit unto them, as 
+Davids
+ was to 
+Jonathan.
+ This is indeed the Mark, the Sign, which a true Child of God may be known withal;
+
+ as in 1 John 3.14. 
+We know that we have passed from Death unto Life, because we Lo
+ the Brethren.
+ We are yet in a state of 
+De
+,
+ if we count any thing too much for the Ser∣vice of God and of His People.
+
+
+
+
+
+
+
+
+Deduction. II.
+
+
+How
+ Sinful, 
+How
+ Woful, 
+How
+ Wicked then are They, that will not forego, what is worse then 
+Nothing,
+ to Serve the people of God! If we are to Venture 
+All,
+ what are they who will not Forego 
+Sin,
+ which is worse than 
+No∣thing
+ that the people of God may not thereby be Ruined? If we are to Venture a 
+Life,
+ Surely, we are much more to give up a 
+Lust,
+ when the Service of Gods people call us there∣unto. We are then, to do, as in Math. 5.29. 
+Pluck out a Right eye,
+ and 
+Cut off a Right Hand
+ which has been Anathematiz'd by the word of God. Let this word reach all the Lewd and Wild Sinners, which it belongs unto. To 
+you
+ be 
+this
+ now declared; The 
+best Ser∣vice
+ that you can do for the People of God, is, 
+To Forsake your Wicked wayes, and your Unjust Thoughts, and Return unto the Lord.
+ Most Ob∣durate, Wretched, Bloody Sinners are you, if you had rather see this 
+Whole People
+ destroy∣ed, than that a Mortification should befal one of your 
+Delicate
+ and 
+Beloved
+ Sins. I am to tell you, That this is the Language of your
+
+ Impenitency, and 
+Blush you not?
+ When the Roman Emperour uppraided his General 
+Ter∣rentius,
+ for the Loosing of a Battel, he reply'd 
+Sir, I must tell you, that it is you that lost the Day for us, by your open Fighting against the God of Heaven as you do.
+ This may duely be cast in the Teeth of all the 
+Bad Livers
+ in this Place. You that Live without the fear of God, You that Live after a Prayerless and Careless and Profane rate, not haveing the 
+Fear of God before your Eyes:
+ You are those that every Day do the things, 
+For which the Wrath of God comes.
+ This people of God is now in such 
+Distress
+ and 
+Danger
+ as it never saw before; and I ask not your leave to tell you, 
+That you are the Authors of it all.
+ Tis 
+You,
+ that bring whole Armyes of 
+Indians
+ and 
+Gallic
+ Blood Hounds in upon us; tis 
+you
+ that clog all our 
+Councels
+ with such Delay and Slowness, as terrifies us in our most Ratio∣nal Expectations. You are perhaps the most Querimonious, and Outragious of all People, in your 
+Discontents,
+ Why, but 
+your
+ unsub∣dued Sins are those which breed all our 
+Dis∣contents.
+ These, 
+They
+ are the 
+Accursed Things,
+ which make you the 
+Achans
+ of the whole Congregation. You often ask, 
+What Newes?
+ and long to hear of, 
+All Peace.
+ But 
+I
+ say, 
+What Peace as long as your Notorious and allow∣ed Abominations are Continued?
+ Let 
+Them
+ go,
+
+ and All will be 
+Peace
+ in a Little while.
+
+
+I use the m
+re freedome in this Repre∣hension, as being able to back it, with a great Authority. The Honourable 
+General Chart
+ of this Colony, have newly Published a very Serious and Solemn 
+Proclamation,
+ warn∣ing all 
+Offendors
+ against the Lawes of Sobrie∣ty, to mend their manners, and all 
+Officers
+ to Prosecute such offendors, as the principal Troublers of their Countrey; and, Adver∣tising us, that if a 
+Reformation
+ be not Endea∣voured, the Righteous God will 
+Punish us yet seven Times for our Iniqu ties.
+ O Happy, thrice and four times Happy 
+New-England
+ that is under the Protection of such a Government. Well, Now take this 
+Warning,
+ ye Sinners in 
+Zion;
+ be 
+Warned
+ into a true Repentance. To Slight such a 
+Warning
+ from the meanest person in the World, were a Dangerous Un∣reproveableness; but when such a 
+Warnsng
+ is given by a 
+Father,
+ it has a particular Stamp of God upon it, and 
+Wo
+ to those that shall be Disobedient thereunto. It is related concer∣ning the Sons of 
+Eli, They hearkened not to the Voice of their Father, because the Lord would slay them.
+
+
+Behold the 
+Fathers
+ of this Country, have been Warning all 
+Bad-livers,
+ That if 
+They
+ don't Repent, 
+We
+ must perish: if you now show your selves Refractory in your 
+provo∣king
+
+ Evils,
+ what will the Issue be, but this, 
+They hearkened not unto the voice of their Fathers because God would make a terrible Slaughter of Them, and of all their unhappy Neighbours?
+ The Word of our God unto us all, is, that in Jer. 18.11. 
+Behold,
+ I 
+frame evil against you, and devise a Device against you; Return Ye Now every one from his Evil Way.
+ O that this Counsel of God might be Acceptable to us. I would a little alter the Terms of my Text, and say, 
+If thou altogether hold thy Sin, at this Time, thou shalt be destroyed for it.
+
+
+
+
+
+
+Deduction III.
+
+
+But how lamentable then is the Condition of 
+Them,
+ that venture their All, 
+against
+ the People of God! Such 
+Fools
+ there are in the World; malicious and prodigious 
+Fools
+ in∣deed! Such an One was that Fool-hardy Monarch, the King of 
+Egypt,
+ that would Venture His 
+All,
+ into the very bottom of the Red-sea, rather than leave the people of God unpursued. How many are there, that will venture their very 
+All,
+ for the Disturbing and Oppressing of them, concerning whom the God of Heaven said, Long ago, 
+Touch them not; Do them no Harm!
+ But what get they by this Bargain, this 
+Phrensy?
+ It was the Speech of God, in Zech. 12.2. 
+Behold,
+ I 
+will make Jerusalem a Cup of Trembling.
+
+
+ Truly, Every Drop of 
+Blood,
+ yea; or of 
+Tear
+ Squeezed from the Abused people of God, proves a 
+Cup of Trembling,
+ that is, a 
+Cup of Poi∣son,
+ to the procurers of it; It makes them at Length to Vomit, their very Bowels up. To hurt the people of God, what is it, but, A 
+Pushing hard against a great Stone?
+ it gives Rubs and Wounds and an horrible Death to the Invaders. All the 
+Four Monarchies
+ of the World, have Tumbled into Confusion, for their Enmity, to that 
+People,
+ who are yet to make the 
+Fifth.
+ To seek the Harm of this people, is to make an Impotent Assault and Batt'ry upon the Omnipotent God Himself: but, 
+Wo did ever harden himself against God and prosper?
+ Poor, Unworthy, Unthankful 
+New-England,
+ has long had Experience of such Dis∣appointments befalling of its 
+Venturesome
+ Ene∣mies. It was noted about the 
+Piccardines
+ of old, that Reforming people of God, 
+If a man be Weary of his Life, let him become an Enemy to the
+ Piccardines. This has been the Fate at∣tending those whome the people of God, (and 
+This
+ people) have been an Ey-sore unto. The great God has taken them in hand and made them find the Risque of their very 
+Lives
+ in their 
+Serpentine Enmity.
+
+
+
+
+
+
+Deduction. IV.
+
+
+For a close; 
+May such a Public Spirit then be Awakened in us All for the people of God, in the
+
+ Distress and Danger which is now upon us.
+
+
+The last Evening fill'd us with new Alarms of an Attack from 
+New France
+ upon this poor land; which was before involved in Cala∣mities that astonish'd us. I ask your pardon, that the 
+Sudden
+ Impression of those Newes upon me, has been so 
+violent,
+ as to force my (tis possible, 
+Too Rash
+) Thoughts thus to a∣nother Theme than that which I had been preparing for you. But, as the most of those places which the Devastations of the last year fell upon, were the more Pagan Skirts of 
+New-England,
+ where no 
+Minister
+ of God was coun∣tenanced; and 
+that
+ very place which is just now Assaulted and Consumed, has had upon it the Infamy of a most Heathenish Disre∣spect unto a 
+Ministry;
+ so, on the other side, I cannot speak in any Assembly, where a 
+Preacher
+ of the Gospel may hope for a more Candid and Courteous Acceptance, than in the Numerous Auditory now before me.
+
+
+Wherefore, I take leave to 
+mind
+ you, of what, I suppose every man can 
+Tell
+ me; That is, That we may all sit and Sigh this Day, th
+ clause in Neh. 9.37. 
+We are in great Distress.
+ And, as the Orator once could say, 
+Non est civis Romanus, qui in hac Tem∣pestate Ridere potest;
+ He is no 
+Roman,
+ that can be merry at such a Time as this. Thus may I truly say, 
+He is no New-Englander
+ (not
+
+ worthy of the Name) 
+who at such a Time as this, will not Venture his All, for this Af∣flicted people of God.
+ God forbid, that the Des∣cription of the 
+New-Englandmen,
+ should at any Time, and much more at 
+This,
+ be 
+That
+ in Phil. 2.21. 
+All seek their own.
+ We have at this Time, a great Service to be done for their Majesties: 
+K. 
+William,
+ and 
+Q. 
+Mary,
+ whome God grant long to Reign; and this, not 
+only
+ by Securing their Interest in 
+this
+ large Territory, and Consequently in all 
+America,
+ but 
+also
+ by making a brisk Salley forth upon the 
+French
+ Territories, which must else be a Perpetual obstacle to the Thriving of these Plantations. The Service of their Majesties in the 
+former
+ of these was the cause of the Re∣volutions here almost a year a goe; we are now invited unto their Service in the 
+latter
+ of them, notwithstanding that the Dissensions that have been sown among us by the 
+Reliques
+ of our late Oppressors have so much enfee∣bled us. But that which will make my Ap∣plication unto you at this time, yet more Pungent, is, 
+That we are undone if we do not now venture our All.
+
+
+
+
+Consider
+ 1.
+
+
+We are Precipitated into such 
+Destress
+ and 
+Danger,
+ as we have never seen before; No∣thing so 
+Exquisite
+ has hitherto befallen us. Our cause indeed is That, in Math. 3.10.
+
+ 
+The Ax is laid unto the Roots of the Trees.
+ The 
+Knife
+ of our God ha's been heretofore cut∣ting and Pruning of us, but either 
+Ill
+ Fruit, or 
+No
+ Fruit is the 
+Best Fruit
+ which we have hitherto yielded unto that glorious Hus∣band-man. Wherefore He is now come forth against us, with an 
+Ax,
+ a French 
+ax,
+ accom∣panied with 
+Indian Hatchets;
+ and our very 
+Root
+ is like to receive the strokes thereof. Tis wonderful if the Sentence upon the Bar∣ren Fig-tree, be not pass'd upon us, 
+Cut them down!
+ with an eye to the Execution of that Sentence upon the Jewes, we find mentioned, in Isai. 66 6. 
+A Voice from the City, a Voice from the Temple, a Voice of the Lord.
+ Even so, at this Time, there is a 
+Voice
+ coming from al∣most every side of us; there is a 
+Voice
+ from the 
+North,
+ a 
+Voice
+ from the 
+East,
+ a 
+Voice
+ from the 
+West;
+ a 
+Voice,
+ as Loud as that in the Hea∣vens, which gave Terrour to all this Land a few Months ago. What says this 
+Voice,
+ but this, 
+They are going to be Cut down for ever.
+ This is the 
+Voice
+ of the Combinations, which our Adversaries have made against us; this is the 
+Voice
+ of the strange Distractions and Di∣visions which the 
+Quarrel-some
+ among our selves do infest us withall; and this is the 
+Voice
+ of all our Fears. 
+Every thing looks Black.
+ For my own part, I freely confess, what issue my own Thoughts are come unto: Tis, That if
+
+ the Blessed God intend that the Divel shall keep 
+America
+ during the Happy 
+Chiliad
+ which His Church is now very 
+quickly
+ Entring into, (I say, very 
+quickly,
+ for tis now past Questi∣on with me, 
+That the Second Wo is past;
+ and the 
+Third
+ you know then 
+Cometh quickly
+) then our Lord Jesus will within a few Months break up House among us, and we go for our Lodging either to 
+Heaven
+ or to 
+Europe
+ in a very little while. But if our God will wrest 
+America
+ out of the Hands of its old Land-Lord, 
+Satan,
+ and give these 
+utmost ends of the Earth
+ to our Lord Jesus, than our present conflicts will shortly be blown over, and something better than, 
+A Golden Age,
+ will arrive to this place, and this perhaps before all of our 
+First Planters
+ are fallen a sleep. Now, Tis a dismal 
+Uncertainty
+ and 
+Ambigui∣ty
+ that we see ourselves placed in. Briefly, such is our case, 
+That something must be done out of hand.
+ And indeed, our 
+All is at the Stake;
+ we are beset with a Thousand Per∣plexities and Entanglements. The Question which we have now before us, in short is This, 
+Whether we will venture All, with an Hope to Preserve All,
+ or 
+Whether we will keep All, with an Assurance to Loose All, by doing so.
+
+
+
+
+
+
+Consider
+ 2.
+
+
+Tis a Precious 
+People
+ of God, which the
+
+ present Exigencies press us to the Serving of. The people which has a 
+Little while possessed
+ this Land may say before the Lord, as they in Isa. 63.19. Lord 
+We are thine.
+ A Venture of your 
+All,
+ is bespoke for a people that are in 
+Covenant
+ with God, and under a Comfortable 
+Relation
+ to Him. Tis for 
+a Peo∣ple
+ that the God of Heaven has heretofore miraculously appeared for: A 
+People
+ which have proportionably more of God among them than any part of mankind beside. 
+A People
+ who 
+concur
+ in, and 
+Suffer
+ for, that Protestation, 
+The Lord is our King, our Lord, our Law-giver.
+ Who would not Serve such at People? It was an Expression used once by a most hearty Servant of 
+New-England,
+ (the Honourable 
+William Stoughton
+) to a very gerat Assembly, 
+God Sifted Three Nations, that He might bring choice Grain into this Wilderness.
+ The 
+Product
+ of that 
+choice Grain,
+ is that which now calls for our Ad∣ventures. If 
+New-England
+ miscarry, there will then fall some Thousands of People that 
+Love the Lord Jesus Christ in Sincerity,
+ and that are affectionately 
+Acknowledging of Him in all their ways.
+ But if Things go well with 
+New-England,
+ there will Myriads of Praises be continually going up from hence unto the 
+God of our Fathers.
+ Our God will be 
+Praised
+ here, for our Deliverances, yea,
+
+ shall I say it? He will be 
+Praised
+ for it in the Third Heaven too. as it was said, in Rev. 18.20. 
+Rejoyce over her, thou Heaven.
+ If 
+Heaven
+ will 
+Rejoice
+ at the 
+Destruction
+ of 
+Antichrist,
+ it will also 
+Rejoice
+ at the 
+Deli∣verance
+ of 
+New-England,
+ which tho it be in the same Latitude with 
+Italy,
+ is yet a∣mong the Sincerest of its 
+Antipodes.
+ In the Day when poor 
+New-England
+ shall be deli∣vered from its present Extremities, Then, 
+Rejoyce over her, thou Heaven.
+ Doubtless, There will Tidings be carried unto 
+Heaven
+ of it; and it may be 
+particularly
+ notify'd un∣to those good old men that went from hence to those Blessed Regions. Our Predecessors which are gone to the 
+Spirits of just men made perfect,
+ may hear what a Deliverance God has wrought for their poor Children here; and 
+Heaven
+ will then Ring with Tri∣umphant Praises to the great Saviour of 
+New-England,
+ who can withold his 
+All
+ from the Service of 
+such
+ a People? Me thinks, I should say as the Martyr once, 
+A loss, That
+ I 
+have but one Life to loose!
+ Tis 
+Immanuels Land
+ that we Venture for. The Almost only 
+Garden
+ which our Lord Jesus has in the vast continent of 
+America,
+ has the wild Boars of the Wilderness trying to get into it; and That is it which now calls for our Venture of our 
+All.
+
+
+
+
+The Psalmist could say, in Psal. 122.
+. 
+Because of the House of the Lord our God, I will seek thy Good.
+ Why, There is among us, 
+The House of the Lord our God.
+ And this is indeed the Real Cause, of our having been so ma∣ligned, hated, vexed, as we have been. The 
+Devils
+ are stark mad, that the 
+House of the Lord our God,
+ is come into these Remote cor∣ners of the World; and they fume, they fret prodigiously, That some of their old Vassals and Bondslaves here, begin to 
+pray
+ unto the Almighty God. Hence, 'tis, that we were not only of late got into the clutches of Ru∣lers, 
+That swore by the Living God, they would Ruine our Churches;
+ but upon our Deliverance from 
+Them,
+ there is now falling upon us an Armed Force, which arm at our total Extir∣pation. The Controversy between Us and 
+Them
+ is now brought unto that Narrow, in Exod. 32.26. 
+Who is on the Lords side?
+ Even so, 
+Who is for Jesus, against Satan,
+ and, 
+who is for the true Christian, Protestant Religion, a∣gainst Popery and Paganism?
+ You must now venture for one of those. Take your choice my dear Country, men; but there is no room to be 
+Indifferent.
+
+
+
+
+
+
+Consider
+ 3.
+
+
+How 
+Much
+ is ventured by how 
+Many,
+ A∣gainst the People of God? This was That which the Psalmist was not a little quickned
+
+ with; in Psal. 119.139. 
+My zeal hath consu∣med me, because my Enemies have forgotten thy words.
+ Look upon our 
+Enemies;
+ they endure all sorts of Travel and Hardship; they ven∣ture their 
+All,
+ that they may do a misehief to us; and shall 
+we
+ venture 
+Nothing
+ on the other side? If an 
+Haman
+ can disburse, above 
+eigh∣teen hundred thousand pounds,
+ if 
+I
+ miscount it not, that he might bring an horrid Rout up∣on the People of God; and shall an 
+Esther
+ now, 
+altogether hold her peace?
+ Or shall we hug our 
+Dust
+ so fast as to let go none of it for the Deliverance of this people? There are 
+Tumultuous
+ and 
+Obstreperous
+ persons (such 
+Ha∣man
+ signifies in English) who stick at no∣thing for the 
+mischief
+ of this people; & shall we stick at any thing for their 
+Service?
+ Men will Expose themselves to 
+Beggary,
+ to 
+Discre∣dit,
+ to untimely 
+Death,
+ and to Eternal 
+Dam∣nation,
+ that they may compass their 
+Mischie∣vous Devices;
+ very shameful will be our Crime, if we 
+out-do them
+ not in Studies for the Good of our 
+Israel.
+
+
+I have no more now to do, but only to make you these five proposals.
+
+
+
+
+
+
+
+
+The first Proposal.
+
+
+Let us be 
+One and All,
+ that we may the more chearfully and Readily 
+Venture our All.
+ Alas, 
+For the Divisions of New-England, we have great Searchings of Heart!
+
+
+
+
+The Great 
+Austin
+ would sometimes address his Hearers in such pathetical Terms as those, 
+per tromendum Dei Judicium vos Adjuro'
+ Thus would I say; and tho' I have no Commission from them for it, yet I would speak it in the Name of all the 
+Sensible
+ persons in the Land; 
+O our Brethren, We Adjure you by the Tremen∣dous Judgments of God,
+ that you immediately Abate and Compose all your Differences. E∣very Globule of the Blood shed by the 
+French
+ among the Contentious 
+Albanians
+ t'other day, makes a loud cry unto us; and methinks, I hear that cry like the 
+Groans of Deadly wound∣ed Men,
+ passing over the Woods unto us, 
+O do not quarrel any more; but unite immediate∣ly against your more united Enemies.
+ May this people become, Like a 
+Bundle of Arrows
+ bound a little too fast and close, for the strongest Arm to break us; and may our God say of 
+New-England,
+ as in Cant. 6.9. My 
+Dove, my Undefiled, is but One.
+ What a sickly, yea, what a 
+Rotten
+ Body have we, if our Flesh Rankle and Fester for a meer scratch of a 
+Pin?
+ We have been giving our little 
+scratches
+ to one another, while we have been mana∣ging the Debates, that the unsettlement of our Government has furnished us withal; but what? Shall they turn into 
+Gangrenes
+ with us? It is an awful Intimation and Admoni∣tion, in Job. 19.29. 
+Wrath brings the punish∣ments
+
+ of the Sword.
+ Are we not now Lan∣guishing under the 
+Fulfilments
+ of that word? we have had 
+wrath
+ among us; all our Af∣fairs have been Enflamed by 
+wrath
+ one against another; and because of this, 
+Behold, a Sword, a Sword is furbished for the Slaughter.
+ Have done then, with all this 
+wrath.
+ Methinks, the 
+Bell
+ Rings very loud, that calls upon us, to put out all our 
+Fires!
+ When the poor 
+Spa∣nards at Lima
+ t'other day, felt the beginnings of an hideous 
+Earthquake
+ round about them, one of the first things in their agonies was, 
+To make Reconciliations.
+ May our 
+Heart quake
+ at this Day, put us upon doing so. Let us, in short, sacrifice all but 
+Conscience,
+ to 
+peace
+ a∣mong our selves Even, the 
+Law
+ it self, not∣withstanding the Exact Regard which ought to be had unto it, I say, the Law it self in some 
+Circumstances
+ and 
+Punctilio's,
+ gives way to the 
+publick safety,
+ which is the 
+supream Law
+ of all It was against 
+Law,
+ for 
+Esther
+ to ven¦ture upon what she did: but it could not be avoided, or Omitted. How much more, must our 
+Will,
+ and 
+Humour,
+ and 
+Passion
+ give way to the 
+Good of the whole?
+ My Brethren, The 
+Canaanite
+ and the 
+Perizzite,
+ is coming into the Land; and therefore I accost you in those words of 
+Abraham,
+ Gen. 13.8. 
+Let there be no strife,
+ I 
+pray thee, between Me, and Thee; for we are Brethren.
+
+
+
+
+
+
+
+
+The Second Proposal.
+
+
+Let 
+Mordecai
+ have the Dispose of 
+Us
+ & our 
+All.
+ Our God has blessed this People with 
+Prudent, Patient, Pious
+ RULERS, to whom there belongs that Character of 
+Mordecai
+ in Esther 10.3. 
+Seeking the Welfare of his Brethren and speaking peace to all his Seed.
+ It is pu
+ely thro' our 
+Fault,
+ if the Rest of 
+His
+ Character be not 
+Theirs
+ also, 
+Accepted of the Multitude of his Brethren.
+ Let 
+These
+ be so acknowledged, Obeyed, as they ought to be. The 
+Disrespect
+ cast upon 
+Government,
+ has been the thing that has made naked those parts of the Country which most of our Disasters have Light upon and those 
+Troublesome
+ and 
+Implacable
+ persons that seek to Enfeeble the Authority into an incapacity of Action at such a time as this, are to be stigmatized as 
+Men far from seek¦ing the Welfare of the Children of Is∣rael.
+ Nor can any thing be more Ill-boding to 
+Ʋs
+ & our 
+All,
+ than the cursed 
+Murmurings,
+ which the Almighty God hears in our Tents from Day to Day. Instead of 
+praying
+ to God for the 
+Direction
+ of our Government, at this Extraordinary time, we spend our time in 
+Fretting
+ and 
+Railing
+ at them; 
+Nothing they do can please.
+
+
+And tho' I believe there is not such a well intending nor a better deserving Government in this world, than that which 
+New-England
+
+
+ now sits under the shadow of, nevertheless, what is the whole business of many people, but a 
+making
+ (I cannot say, finding) faults in their administrations: 'tis not at all admira∣ble to me, I tell you truly, I do not at all ad∣mire at it; that the Fiery Scorpions of 
+Cana∣da,
+ are now stinging of a Congregation thus Distempered.
+
+
+But I pray, Are we not 
+all
+ in a 
+Storm?
+ And have not our own Votes placed at the 
+Helm,
+ those worthy persons, that are in this Juncture at it? What? would Every man think to 
+Steer
+ the Vessel? I can tell you, That you would soon bee weary of it. No∣thing but a measure of 
+Grace,
+ which I doubt 
+you
+ are not furnish'd with, would Enable you to undergo the Fatigues of so great a Slavery. Pray, mind the Business of your own Station; Pull the 
+Ropes,
+ Ply the 
+Oars,
+ and the 
+Sails,
+ as you are Commanded; but leave the 
+Helm,
+ where tis managed by those that can have no other Interest, but what is 
+yours.
+
+
+I know not whether we have never been too like 
+Issachar,
+ for any other Quality; but I would we were like 
+Issachar
+ for that in 1 Chron. 12.22. 
+they had understanding of the times, to know what Israel ought to do;
+ and 
+All their Brethren
+ were at their com∣mandment. It the 
+Members
+ fall out
+
+ with the 
+Vitals,
+ the old 
+Romans
+ story tells you, the unhappy issue of it.
+
+
+
+
+
+
+The Third Proposal.
+
+
+Let our 
+All
+ in this World, be very 
+Little
+ in our opi∣nion of it. 
+The World, The World,
+ it is truly a most 
+Bewitching
+ thing; and the 
+Love
+ of it, will be a 
+Root of all Evil
+ to us But, is not the 
+Spell
+ over, is not the 
+Charm
+ broken yet? Methinks, the 
+Enchantment
+ should be Dissolved by the other 
+Devils,
+ that are coming to take 
+This
+ away. May we become Like 
+Strangers
+ in the World? We shall be as ready to dispose well of our 
+All,
+ as the Psalmist was, who could say, in Psal 39 6, 12, 
+They are disquieted in vain, who heap up Riches, and know not who shall gather them.
+ Why, how came 
+Rich∣es
+ to be so Little regarded with him? It follows, 
+I am a Stranger with thee, and a Sojourner.
+ When we Look upon our Earthly 
+All,
+ think we, 
+I shall quickly be gone from it All,
+ and think, I 
+can do well enough without it All;
+ this will encline us to make Right Ventures of our 
+All.
+ The 
+Dutch
+ have a saying, which ought to find a Room with us, 
+He that hath Lost his Mony, hath Lost Nothing; He that hath lost his Credit, has lost Half; but he only that hath lost his Soul, hath lost All.
+ O make sure of a bet∣ter, an Higher, a Nobler 
+All,
+ than what our 
+Earth
+ af∣fords; We shall then be Like those, of whom 'twas said in Heb 10 34. 
+Ye took joyfully the spoiling of your Goods, knowing in your selves, that you in Heaven have a better and an Enduring Substance.
+ If we venture all 
+our Goods,
+ yet still we shall have 
+Heaven
+ Left: 
+Heaven
+ is, 
+The good part which cannot be taken away.
+ Make sure of 
+Heaven,
+ and you may stand upon the Ruines of the World, with such Expressions as the Minister of 
+Nola
+ had, when he was Rifled of 
+All
+ he had; 
+Lord,
+ I 
+am not concerned about these things, for thou knowest
+ (said he, pointing to the Heavens) 
+that my All is there!
+ Souls get into Christ, and the 
+Romish Eagles
+ will do us no Hurt;
+
+ when we are gathered into the shadow of His Blessed and 
+Saving Wings
+
+
+
+
+
+
+The Fourth Proposal.
+
+
+Let us not Lose our 
+Time,
+ that we may not Lose our 
+All,
+ when we venture 
+All
+ We may say, with a speci∣
+ 
+gard unto 
+This Time,
+ as in Eph. 5 15. 
+Redeem the 
+ because the Days are Evil.
+ Every thing loudly calls upon us, 
+Make haste.
+ It was a wonder, that 
+All
+ was 
+ Lost; when, as in Judg. 5.16, 17. Some 
+Abode a∣
+ng the Sheep-folde,
+ and others were intent upon 
+Tra∣ding
+ and 
+Shipping,
+ tho' the 
+Canaanites
+ were upon their Backs. Common prudence now calls for 
+Expedition;
+ & all things concur in that Advice unto us, 
+Be up and be doing.
+ Shall we be drawing 
+Circles
+ in the Earth, when the City is just falling into the Hands of its Enemies. O That every Town in the Country, were so Nimble, in offering the 
+Service
+ of their 
+Quota,
+ for the work of 
+this Day,
+ as they ought to be!
+
+
+
+
+
+
+The Last Proposal.
+
+
+Finally, 
+Venture
+ to 
+speak
+ for the People of God Let us make 
+Esthers
+ Venture in our Prayers; and resolve, as in Isa 62 1 
+For Zions sake,
+ I 
+will not hold my peace.
+ Indeed we run something of a 
+Venture
+ in it, if our pray∣ers become so Frequent, and so Fervent, as that the Omnipotent God should be put upon saying, 
+Let me A∣lone!
+ For then, if God have determined the Consuming of this place, He will first 
+kill
+ them that He shall find so 
+standing in the Gap.
+ But O 
+that
+ I 
+may Dy standing there!
+ perhaps, it may Cost some of us our 
+Lives,
+ that God may, 
+Make a way for his Anger;
+ but it will cost us our 
+Souls,
+ if by our Negligence, we 
+Leave
+ a way for that 
+Anger.
+ Come then, Betake your selves to zea∣lous 
+Prayers
+ in every place, Those of you that never yet made one Hearty 
+Prayer,
+ for 
+Goos
+ sake; now Be∣gin. 
+Craesus
+ had a Dumb Son, who tho' he never spoke before; yet seeing a man go to kill his Father, his Agonies made him speak and shriek, 
+O don't kill my
+
+ Father!
+ poor people, if it could never hitherto be said of you, 
+Behold they pray!
+ yet I beseech you, 
+Be Now
+ found upon your knees, and beg, 
+Lord, Let not all be lost.
+ Even the Pagan 
+Mohawks
+ upon the late Ca∣lamities at 
+Albany,
+ have that Sentence in their Propo∣sitions, 
+We must now look up to the Heavens!
+ O the
+ let us 
+Christians
+ be Looking there. May the 
+Wheel of Prayer
+ be set a going in all parts of the land; may our publick Lectures, and our 
+private Meetings
+ in all places be turned into 
+Days of Prayer.
+ A successful Battel once Commenced with that Watch-word, 
+Now for the Fruit of prayer! Now for the Fruit of prayer!
+ Why let us be plowing and planting every Day for such 
+Fruit.
+ Even those who can do 
+little
+ or 
+nothing
+ else but pray, may do much by their prayers. We find 
+Esther and her Maidens
+ at it. The 
+Devout Women
+ may this way obtain the Favour of the Almighty for us. 
+Melancthon
+ hoped the 
+Reformation
+ would be carried on, 
+Because godly Women would meet and pray for that Mercy.
+ Our 
+preservation
+ may in like manner be promoted Yea, and 
+Serious Children
+ too, may make us all beholden to them. God spared 
+Ninive,
+ because of the 
+Children
+ in it; You 
+Children
+ that shall pray, and cry, and call, as well as you can unto the Lord, may have a great Influence upon the sparing of 
+New-England.
+
+
+Let me conclude my SERMON, as the Martyr his Letter, 
+pray, pray, pray,
+ Never more need than 
+NOW.
+
+
+
+
+
+
+
+
+
+
+BY The 
+GOVERNOUR
+ and GENERAL COURT 
+the COLONY of the
+ Massachusetts Bay; 
+In New-England.
+
+
+IT having been a thing too sensible and obvious to escape the Observation of all who are not wholly strangers in our 
+Israel;
+ that this poor Land has laboured under a long 
+Series
+ of Afflictions and Calamities, whereby we have suffered successively in our precious and pleasant Things, and have seen the anger of the righteous God against us, expressed in Characters, which ought to be as terrible as they must needs be visible unto us; it having also, both by the 
+Testimonies
+ of those, that after the most humble and exact Enquiries into the mind of God, have discovered the same unto us, and by their own general and repeated Confessi∣ons, become undeniable; that a corrup∣tion
+
+ of Manners attended with inexcusa∣ble 
+Degeneracies
+ and 
+Apostasies,
+ found in too many of this People, is the cause of that Controversie, which the God of our Fathers has, for many years maintaini
+ with us: It being likewise at this da
+ such a 
+Probation time
+ with all 
+New-En¦gland
+ as this Countrey has never before seen from the first foundation of it, and the judgments of that Holy God, who hath beheld how incorrigible we have hi∣therto been under all His Dispensations, now arriving to such an extremity. That the 
+Ax is laid to the Root of the Trees,
+ and we are in imminent danger of perish∣ing, if a speedy 
+REFORMATION
+ of our 
+Provoking Evils
+ prevent it not:
+
+
+This COURT have therefore thought it needful to praeface their other Endea∣vours for the Publick Welfare, with a very solemn Admonition unto this whole People, that they every where give De∣monstrations of a thorough 
+Repentance,
+ without which we have little reason to hope for any good succese in our Affairs.
+
+
+Wherefore it is Ordered, that the Laws
+
+ of this Colony against 
+Vice,
+ and all sorts of 
+Debauchery
+ and 
+Prophaneness
+ (which 
+Laws
+ have too much lost their edg by the late Interruption of the Government) be now faithfully and vigorously put in Execution; Particularly the 
+LAWS
+ a∣gainst 
+Blasphemy, Cursing, Prophane Swear∣ing Lying, unlawful Gaming, Sabbath break∣ing, Idleness, Drunkenness, Ʋncleanness,
+ and all the Enticements and Nurseries of such 
+Impieties.
+ Together with all other the wholsome 
+Laws
+ and 
+Orders
+ agreeable to the present Circumstances of the Coun∣trey; by the Execution whereof, we may approve our selves 
+a peculiar People, zea∣lous of good works.
+
+
+And as all Persons are hereby warned to avoid those 
+Vices
+ which these 
+Laws
+ are designed for the Prevention and Cha∣stisement of (the 
+Lovers
+ of, and 
+Plea∣ders
+ for, such Iniquities, being among the principal 
+Troublers
+ of their Countrey) So all inferiour 
+Officers
+ are enjoyn'd to perform their Duty in finding and bring∣ing out Offenders against the aforesaid 
+Laws,
+ and withal to give notice to such
+
+ Offenders that they must expect the Ju∣stice of an 
+Exemplary Punishment.
+
+
+And that no attempt towards 
+Refor∣mation,
+ may want that Assistance which all good men will be willing to give the¦reunto, 'tis hoped that the Ministers of God will to the publick Reading of this 
+Proclamation,
+ adjoyn their own fervent Labours, not only for the Rebukeing and Suppressing of those 
+Provoking Evils,
+ which are marked for common Hatred: but also to witness against the more 
+Spiritual Sins,
+ which fall not so much under the cognizance of Hu∣mane 
+Laws,
+ namely, such as 
+Ʋnbelief, Worldliness, Heresy, Pride, Wrath, Strife, Envy,
+ and the 
+Neglect
+ of commu∣nion with God, in both Natural and In∣stituted 
+Worship,
+ and the 
+Contempt
+ of the 
+everlasting Gospel,
+ with a shameful want of due 
+Family-Instruction,
+ which are the 
+Roots of Bitterness
+ in the midst of us.
+
+
+Moreover, after the Example of 
+Pious Rulers
+ commended in Sacred Writ; the 
+Churches
+ every where are hereby advised to give utmost Encouragement unto the
+
+ Faithful and Watchful 
+Pastors
+ of their Souls; to seek (where they 
+lack
+) a full Settlement and Enjoyment of such 
+Offi∣cers,
+ as the Lord Jesus Christ has appoint∣ed for their Edification; to reflect seri∣ously and frequently on their 
+Covenants,
+ to sharpen their 
+Discipline
+ against those that 
+walk disorderly;
+ and immediately to compose their 
+Differences
+ and 
+Conten∣tions
+ (if 
+such
+ there be) whereby any of them may be distempered and enfeeb∣led, that so they may become 
+Terrible as an Army with Banners.
+
+
+Furthermore it is Expected that the several 
+Towns
+ within this Jurisdiction do speedily furnish themselves with all fit means for the good 
+Education of Youth,
+ and take special care to avoid 
+Factions
+ & 
+Quarrels
+ in their other 
+Town Affairs;
+ and all Plantations are strictly forbidden to continue without the Advantages of ha∣ving the 
+Word
+ of God constantly preacht unto them, or without a Sincere and Active Industry, to obtain the Presence of the Lord Christ in all His blessed 
+Or∣dinances.
+
+
+
+
+And Finally, this whole People are hereby advertised, that if these 
+Essayes
+ for an universal Reformation, shall be obstru∣cted (as those in the dayes of the Reform∣ing 
+Josiah
+ were) by Mens being 
+settled on their Lees,
+ and 
+hating to be Reformed,
+ they can reasonably look for no other issue than this, that the jealous God 
+will punish them yet seven times more for their iniquities:
+ But, that if the God of Hea∣ven shall grant unto them the Grace to 
+Remember whence they are fallen, and Re∣pent and do the first Works,
+ it will give a greater Prospect of 
+Prosperity,
+ than can arise from the best 
+Counsels,
+ and biggest 
+Armies.
+
+
+The Work of 
+Reformation
+ thus 
+endea∣voured,
+ is now 
+recommended
+ unto the bles∣sing of the Almighty, with whom alone it is, to Recover a Backsliding people; perswading our selves, that the Event thereof would be 
+Salvation nigh unto us, and Glory dwelling in our Land.
+
+
+Isaac Addington
+ Secr.
+
+
+March
+ 13 1689./90.
+
+
+
+
+
+
+
+
+
+
+

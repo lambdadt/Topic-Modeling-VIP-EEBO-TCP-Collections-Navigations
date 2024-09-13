@@ -1,0 +1,385 @@
+A letetr [sic] vvritten by Captaine Edvvard Winne, to the right honourable, Sir George Caluert, Knight, his Maiesties principall secretary: from Feryland in Newfoundland, the 26. of August. 1621
+Winne, Edward.
+Approx. 13 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-01 (EEBO-TCP Phase 1).
+A15589
+
+
+
+
+STC 25854
+
+
+
+ESTC S102192
+
+
+
+
+
+99837989
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A letetr [sic] vvritten by Captaine Edvvard Winne, to the right honourable, Sir George Caluert, Knight, his Maiesties principall secretary: from Feryland in Newfoundland, the 26. of August. 1621
+Winne, Edward.
+[2], 21, [1] p.   
+
+
+[London :
+
+
+s.n.],
+
+
+Imprinted MDCXXI [1621]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Baltimore, George Calvert, --  Baron 1580-1632 --  Early works to 1800.
+Newfoundland --  Description and travel --  Early works to 1800.
+2002-02
+TCP
+Assigned for keying and markup
+2002-03
+SPi Global
+Keyed and coded from ProQuest page images
+2002-04
+TCP Staff (Michigan)
+Sampled and proofread
+2002-04
+Olivia Bottum
+Text and markup reviewed and edited
+2002-05
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+25854
+
+
+99837989
+
+
+2343
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A LETETR VVRITTEN BY CAP∣taine EDVVARD WINNE, to the Right Honourable, Sir 
+George Caluert,
+ Knight, his Maiesties Principall Secretary: From 
+Fe∣ryland
+ in 
+Newfoundland, the
+ 26. of 
+August. 1621.
+
+
+Imprinted MDCXXI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TO THE RIGHT HO∣nourable, Sir 
+George Caluert,
+ Knight, his Maiesties prin∣cipall Secretary.
+
+
+May it please your Honour,
+
+
+Vpon the 26. day of 
+Iune,
+ betweene 12. and 1. in the morning we did set saile & departed from 
+Plimmoth,
+ and vp∣on the 4. day of 
+August,
+ (Gods name be praised for it) we safely arriued at 
+Feryland.
+ There happe∣ned nothing in our ouer-bound passage worthy your Honours leasure of reading. Our passage was somewhat tedious, the
+
+
+which hapned by meanes of much Westerly winds, and not without some foule weather.
+
+
+The first land we made was that to the Westward of 
+Cape de Raze,
+ and the wind at North-east, by reason whereof our ariuall aforesaid was pro∣longed by the space of two dayes, in the interim of which time wee trauersed to and a∣gaine, to make good that which might mainetaine that out∣wardnesse towards our wished Harbour. Hauing the happines of a cleere skie al about, & both Coast and Continent without any Rayne, Fogge or Hazines, they being in these parts the
+
+
+common attendants of Easter∣ly winds. By this commodity I had the full view of the Coast betweene (as wee supposed) 
+Cape Saint Maries, Cape de Raze,
+ and 
+Cape Ballard,
+ and as farre as 
+Renouze,
+ and as we hold alongst the same, I saw (in my meane iudgmēt) the beautifullest Coast and the pleasantest Sea Cant that euer mine eyes beheld, for that spacious tract. It is a very Champion Country without a∣ny Hill, appearing either with∣in Land, or vpon the Coast, re∣presenting it selfe vnto me like a pleasant Medow, and the Sea∣banke all along of an equall height, and that so indifferent,
+
+
+that out of a floating Boat one may easily throw a quoit vpon the leuell shore. Of the fertili∣ty of the soyle I can say nothing onely that it is very probable that much or most part thereof may proue very good with the help of mans industry, seeming to be void of woods, and the endowments of Harbours and Roades for Shipping, 
+Trepassey
+ excepted.
+
+
+Renouze
+ is a place of great fi∣shing, and about a league to the Northward of the same is the Harbour of 
+Fermoze,
+ thence to 
+Agnafort,
+ another league, from thence to 
+Feryland
+ about a mile, & to 
+Cape Broyle
+ another, inclu∣ding
+
+
+
+Capling Bay
+ between both, being ignorant as yet of that to the Northward of the same. But from 
+Renoze
+ to 
+Cape Broyle,
+ for Woods and pleasant Harbours they are most pleasant to be∣hold, the Sea Cant whereof be∣ing vneuen and hilly, yet not extreme, but of height indiffe∣rent, the Inland more enclining towards a Champion, and by generall consent here, 
+Feryland
+ is as pleasant and as profitable a Harbour as any in the Land. It is endowed with about 100. acres of pasture land, and as much more of that which is wooddie: all which lying to the Sea-boord of the beach, which
+
+
+seuers it so from the Maine, that it is almost an Iland. There is likewise about 200. acres more, lying close to the Harbour, the which (with some labour) may be made good pasture land.
+
+
+The Sea coast to the North∣ward of 
+Renouze,
+ is most capa∣ble and fittest for Wood-land as now it is, but (most destroy∣ed) from the bottome of the Harbours, and so inwards, for arable and (most) pasture.
+
+
+Both Sea and Land heere swarme (as it were) with bene∣fits and blessings of God for mans vse and reliefe.
+
+
+The Land here is (without doubt) very fertile, for 
+I
+ haue
+
+
+since my arriuall seene Wheate, Barly and Rye, growing here full eared & kerned, the which had beene accidentally shed out of Salt Mats among Stones & Grasse. Therefore ground of better choise, well manured and fitly prepared, will doubtlesse bring forth plentifull increase, and wherefore there is no iust doubt to be made: for in reason where there is a Summer, there will be a Haruest.
+
+
+Besides there are many other inuitements, which (as it were) becken vnto your Honors per∣seuerance. First the commodi∣ty of the Salt, which for vent and making here may fitly and
+
+
+ne∣cessarily bee vndertaken. Se∣condly Hempe and Flaxe for cordage, and thred for necessa∣ry vses, as also for Nets and Lines for fishing, Tarre, Yron and Timber in some measure, and places to be had for boords and building, & also for Masts, and yards for Shipping. So likewise Hops will grow heere a profitable Marchandize. Also here are two fishing seasons, the the former for dry fish, and the latter for Cor-fish: wherewith (together with the traine of the whole) many Ships are imploi∣ed to the Market & otherwise.
+
+
+My want of leasure causeth me to omit many things, which
+
+
+otherwise I might haue enlar∣ged, this my seruice of writing.
+
+
+By the consent and aduise of some of the masters of this Har∣bour, I am become an humble suter vnto your Honour for the redresse of such abuses, the which (except a speedy redresse may be had) wil ouerthrow the whole.
+
+
+1. And first that Stones or Ballast may not from hence∣forth be cast into the Harbour, and the Beaches preserued. 2. Secondly, that no man neither burne nor pull downe Stages, Flakes, nor any part thereof. 3. Thirdly that the rinding of Trees may be prohibited, but
+
+
+only such as shall bee felled for necessary vses and needefull behoofes. Fourthly, that all such Woods and Timber-trees so felled, may bee cut close to to the ground. 5. Lastly, that no man may bee wronged in their Boats and traine-fats, or in any thing else whatsoeuer. And therefore if this by your Honors fauour and procure∣ment may be had, a prosperous & flourishing time will follow, and all things here will goe on well hereafter, the which God grant: And for the which, the said Masters humbly pray that large penalties may (therin be specified, and first to be pro∣claimed
+
+
+in 
+Englund.
+ Thus refer∣ring all vnto your Honors wis∣dome and full consideration. Our busines, or rather your Ho∣nors now goeth forward apace; the frame is in hand, and almost ready for the rearing; the seller is already diged; al things by Gods grace and blessed assistance shall be performed with al care & di∣ligence, whereof your Honour may be pleased to rest assured, as by the successe of my careful∣nesse it shall plainely appeare.
+
+
+The 5. persons and prouision from aboord the 
+Beniamin,
+ are safely ariued here the 17. of 
+Au∣gust,
+ but not without some dan∣ger, for I was enforced to send
+
+
+for them in two shallops of fi∣shing Botes from the Iles of 
+Speare,
+ 4. leagues from this place.
+
+
+The place whereon I haue made choise to plant and build vpon, is according to the Let∣ter 
+A
+ in this superficiall draught here inclosed, it being the fittest the warmest, and most com∣modious of all about the Har∣bour. And as soone as the house and fortification is fitted and finished, I shall (God wil∣ling) prepare and fence in a pro∣portion of seede ground, and a Garden close by the house. It may please your Honour not to send any Cattle the next yeere, because I cannot prouid fodder
+
+
+for them so soone, before there bee some quantity of Corne growing, but it may please your Honour to send some Goates, a few tame Conies for breede, as also Pigs, Geese, Ducks and Hens. I haue some Hens alrea∣dy: some Spades from 
+London
+ were necessary, if of the best making, also some good Pick∣axes, yron Croes, and a Smith, and also such as can brew and bake.
+
+
+Meale and Malt would bee sent rather then otherwise, be∣ing both better cheap, & of lesse waste, yet referring all to your Honors pleasure therein, hum∣bly praying you would be plea∣sed
+
+
+to proceed with all cheere∣fulnes, nothing doubting of a good and profitable succsse, for here are are great hopes, and a large Territory for to imploy and receiue many needy people in a blessed and a profitable do∣ing, euen who may liue heere both wealthily and happily.
+
+
+And withall it may likewise please your Honour, that after one yeere more we shall be able to subsist of our selues by our owne industry, with Master 
+Iennings
+ his helpe and furthe∣rance, and that with his profit and content.
+
+
+I doubt not but that within the compasse of a small time to
+
+
+make your Honour a sauer.
+
+
+If your Honor please, you may defer the sending of a salt Pan one yeere more. 
+Brigs
+ and 
+Owen
+ hath bin touched with the Scur∣uie, but are now well recouered but all the rest of vs are in per∣fect health, I thanke God for it.
+
+
+One Master 
+Yawe,
+ Master of a Ship of 
+Barnstable
+ (whose ow∣ner is called Master 
+Strange
+) hee did spare mee halfe his Stage; the which did stand me in great steede to put my prouision in at the first landing of them. Ma∣ster 
+Luxen,
+ a Master of another Ship of 
+Barnstable,
+ hee shewed me much courtesie, & bestow∣ed on me a Hen and 10. Chick∣ens.
+
+
+Master 
+Richard Martin,
+ Ma∣ster of the 
+Blessing
+ of 
+Dartmouth,
+ he gaue me a couple of yong Pullets, kind entertainement, and many good turnes. Master 
+Michael Waltham,
+ Master of a Ship of 
+Weimouth,
+ hee went in person to the Ile of 
+Speare,
+ in a Boate of his owne, to helpe to fetch our men and prouision from aboord the 
+Beniamin,
+ hee hath besides done mee many good Offices, and hath sent mee many presents of Fresh-fish, and his Mate bestowed on mee a good Hen.
+
+
+My happinesse of preuayling hetherto hath beene such, that all the Masters as well as the
+
+
+common sort throughout this Harbour haue vsed me kindly, and to say truely, I haue not dis∣cerned so much as a sowre as∣pect vpon mee amongst them all.
+
+
+I haue not beene (and please your Honour) wanting in any thing, which by faire perswasi∣ons might produce a good li∣king of your Honours procee∣dings: insomuch that (I am perswaded) diuers wil stay with me another yeere. Therefore I humbly pray your Honour to entreate Master 
+Iennings
+ to send me 3. Peeces of Ordnance, a full Saker, a Minion, & a lesser Peece for our defence, a Drumme,
+
+
+and a Ship Ancient.
+
+
+And thus with my humble duty remembred, I most hum∣bly cease to trouble your Ho∣nour any further for this time, resting
+
+
+Your Honors most humble and faithfull seruant,
+
+Edward Winne.
+
+
+Feryland,
+ 
+the 26. of August. 1621.
+
+
+
+
+
+
+
+
+ANOTHER LETTER of the 28. of August, from the said Captaine 
+Winne,
+ vnto Master Secretary 
+Caluert.
+
+
+MAy it please your Honour,
+
+
+Vpon the 
+26.
+ of this present I deliuered vnto one Ma∣ster 
+Henry Zeny,
+ Master of a Ship of 
+Milbrooke,
+ neere 
+Plim∣moth,
+ a Packet directed to Ma∣ster 
+Iennings,
+ wherein my Letters to your Hononr were enclosed: the Coppies whereof I haue likewise here inclosed, and haue sent the same by one Master 
+Busse,
+ Master of the
+
+
+
+Prosperous
+ a Ship of 
+Bristol,
+ hum∣bly praying your Honour, that I may be furnished with all necessary Tooles and prouision of Victuals the next yeare, and if your Honour may, with about the number of twenty persons more, whereof a Surgeon, and a lear∣ned and a religious Minister: that then your Honour may be pleased by Gods assistance, not to doubt of a good and a profitable successe in e∣uery respect, and a flourishing plan∣tation, women would bee necessary heere for many respects. Some two miles from this Harbour, direct West, there is a pleasant Champion fit for the Farme, which I trust with your Honours leaue, to set forward another yeere. And thus with my
+
+
+humble duty remembred and re∣commended vnto your Honour and my good Lady, beseeching the Almighty to blesse you and yours, and so I rest.
+
+
+Your Honors most humble faith full and obedient seruant,
+
+Edward Winne.
+
+
+From
+ Ferryland, 
+the 28. of August 1621.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+An ordinance of the Lords and Commons assembled in Parliament for and concerning one tenth part more of customes and subsidies to be paid according to this ordinance : for the defence of the towns and ports, of Plymouth, the isle of St. Nicholas, the towns of Poole and Lyme and places neer adjacent.
+Laws, etc.
+England and Wales.
+Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A37931
+
+
+
+
+Wing E1857
+
+
+
+ESTC R19221
+
+
+
+
+
+ocm 12114459
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An ordinance of the Lords and Commons assembled in Parliament for and concerning one tenth part more of customes and subsidies to be paid according to this ordinance : for the defence of the towns and ports, of Plymouth, the isle of St. Nicholas, the towns of Poole and Lyme and places neer adjacent.
+Laws, etc.
+England and Wales.
+7 p.   
+
+
+[London] :
+
+
+Printed for Edward Husbands,
+
+
+November 20, 1643.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Taxation --  Law and legislation --  England.
+Plymouth (England) --  History --  Sources.
+Great Britain --  History --  Civil War, 1642-1649 --  Sources.
+2013-09
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Olivia Bottum
+Sampled and proofread
+2013-11
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+E1857
+
+
+R19221
+
+
+12114459
+
+
+54259
+
+
+
+
+
+
+
+
+
+
+
+
+AN ORDINANCE OF 
+The
+ Lords 
+and
+ Commons 
+assembled
+ in PARLIAMENT;
+
+
+For and concerning one Tenth part more of Customes and Subsidies, to be paid according to this Ordinance;
+
+
+For the Defence of the Towns and Ports of 
+Plymouth,
+ the Isle of St. 
+Nicholas,
+ the Towns of 
+Poole,
+ and 
+Lyme,
+ and places neer adjacent.
+
+
+
+
+ORdered by the Commons in Parliament, That this Or∣dinance be forthwith printed and published:
+
+
+H: Elsynge, Cler. Parl. D. Com.
+
+
+
+
+Printed for 
+Edward Husbands,
+ November 20. 1643.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Mercurii, 
+15
+ Nov. 
+1643. AN ORDINANCE OF
+ The Lords and Commons assembled in Parliament, &c.
+
+
+IN regard of the great necessity of the Town and Port of 
+Plimmouth,
+ and Island of Saint 
+Nicholas,
+ and the Towns of 
+Pool
+ and 
+Lyme,
+ and places neer adjacent;
+
+
+Be it Ordained by the Lords and Commons in Parliament assembled, That where any Subsidy, Custome, or other duty, on the First day of November, in the yeer of our Lord
+
+God, 1643. is or shall be laid or im∣posed by Authority, or Ordinance of both Houses of Parliament, upon any Goods, VVares, or other Mer∣chandizes, of what nature, kinde, or quality soever, to be exported out of, or imported into the Kingdom of 
+England,
+ or Dominion of 
+Wales;
+ That their one Tenth part more of the Rate of the Custome, Subsidy, or Duties now paid, or according to the Book of Rates now, by such au∣thority or Ordinance established, be paid and answered, over and above the said Custome, Subsidy or Duty, from and after the Fifteenth day of November, of and from all and eve∣ry such Goods, VVares, and other Merchandize so to bee exported or imported, That is to say, where Ten
+
+shillings now is paid, there hereafter shall be paid One shilling more, and after that Rate for more or lesse, to continue till it be otherwise Ordain∣ed by both Houses of Parliament; and to be received, collected and ta∣ken by 
+Nathan Wright, Francis Lenthall,
+ and 
+George Henly,
+ of 
+Lon∣don,
+ Merchants, their Deputy and Deputies, and by them to be paid o∣ver to such Treasurer as shall be ap∣pointed by both Houses of Parlia∣ment, to bee imployed for, in, and about the Defence of the said Town and Port of 
+Plymouth,
+ and 
+Jsland,
+ and the Towns of 
+Pool
+ and 
+Lyme,
+ and places neer there or adjacent, by Order of both Houses of Parliament, or such other persons to whom they shall give Authority in that behalf:
+
+And the said Subsidy and Impositi∣on to bee paid, under such penalty and seizures as are established by an Ordinance or Act now in being, for other customes and Subsidies already established: And the collectors be se∣cured and saved harmlesse, by Au∣thority of both Houses of Parlia∣ment, in what they shall do in exe∣cution of the Premises: Provided al∣wayes, That as touching the Duty hereby imposed, there be no dedu∣ction or defalcation of 15. 
+l. per. Cent:
+ And it is further Ordered, That the Customers, Comptrollers, and other Officers whom it may concern in the Port of 
+London,
+ and other the out-Ports, Do take particular notice of this Ordinance, who are to passe no Entry, untill the said Duty of one
+
+Tenth part over and above the pre∣sent custome, be duly satisfied, and paid to the said Collectors or their Deputies, and signified under their hands in writing. And be it further Ordained by the authority aforesaid, That there shalbe allowed 4. 
+d. per lib.
+ out of every Twenty shillings so paid for such collection.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

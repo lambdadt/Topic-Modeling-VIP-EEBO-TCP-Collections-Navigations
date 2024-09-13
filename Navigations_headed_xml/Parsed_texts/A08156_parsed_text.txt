@@ -1,0 +1,584 @@
+Three great overthrovves one in the Palatinate, against Monsieur Tilley, the Duke of Bauaria's generall: giuen by the king of Bohemia himselfe, being in person in the same battell, with Sir Horatio Vere, but not Count Mansfield, as is reported, hee being at the same time in Spiers. The other before Haggenaw, against Leopaldus forces, the emperours brother, by Count Mansfields garrisons, left in the same citie. The last in Languedock in France, against the Kings forces, since Soubrizes defeat by his brother the Duke of Rohan, who hath taken Memorancy the admirall prisoner. Collected out of two letters, the one sent from Heydelburgh, the other from Mainhime, by an expresse post, that arriued here on May day at night.
+Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A08156
+
+
+
+
+STC 18507.44
+
+
+
+ESTC S102342
+
+
+
+
+
+99838129
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Three great overthrovves one in the Palatinate, against Monsieur Tilley, the Duke of Bauaria's generall: giuen by the king of Bohemia himselfe, being in person in the same battell, with Sir Horatio Vere, but not Count Mansfield, as is reported, hee being at the same time in Spiers. The other before Haggenaw, against Leopaldus forces, the emperours brother, by Count Mansfields garrisons, left in the same citie. The last in Languedock in France, against the Kings forces, since Soubrizes defeat by his brother the Duke of Rohan, who hath taken Memorancy the admirall prisoner. Collected out of two letters, the one sent from Heydelburgh, the other from Mainhime, by an expresse post, that arriued here on May day at night.
+[3], 6-22 p.   
+
+
+[London] :
+
+
+And now published [by B. Alsop] this third of May,
+
+
+MDCXXII [1622]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Thirty Years' War, 1618-1648 --  Early works to 1800.
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Colm MacCrossan
+Sampled and proofread
+2013-10
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18507.44
+
+
+S102342
+
+
+99838129
+
+
+2489
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THREE GREAT OVERTHROVVES ONE In the Palatinate, against Monsieur 
+Tilley,
+ the Duke of 
+Bauaria's
+ Generall: Giuen by the King of 
+Bohemia
+ himselfe, being in Person in the same Battell, with Sir 
+Horatio Vere,
+ but not Count 
+Mansfield,
+ as is reported, hee being at the same time in 
+Spiers.
+ THE OTHER Before 
+Haggenaw,
+ against 
+Leopaldus
+ Forces, the Emperours Brother, by Count 
+Mansfields Gar∣risons, left in the same Citie.
+ THE LAST In 
+Languedock
+ in 
+France,
+ against the Kings Forces, since 
+Soubizes
+ Defeat by his Brother the Duke of 
+Rohan,
+ who hath taken 
+Memorancy
+ the Admirall Prisoner. Collected out of two Letters, the one sent from 
+Heydelburgh,
+ the other from 
+Mainhime,
+ by an ex∣presse Post, that arriued here on May day 
+at Night.
+
+
+And now published this third of May, MDCXXII.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATTERS CON∣CERNING THE PALATI∣NATE, WITH THE DEFEAT of Monsieur 
+Tilley
+ in the Palatinate, and the Duke of Memorancy in 
+France.
+
+
+T
+Here are two sorts of men in the world, compared to tame and wilde beasts, and these are flatte∣rers and detractors, and that wor∣thily: For what vice may he pre∣dominant in a Prince, or Com∣mon wealth, which a flatterer can∣not guild ouer with the faire appearance and colours of vertue: and what businesse can present it selfe on the stage of this world, but a detractor will calum∣niate and desire it; which is more apparant at this in∣stant in the combustions of 
+Europe,
+ then euer was heard of in many ages: for how many be there that sooth vp the humour of some kings (besides the Ie∣suites, whose profession is blinde ignorance, and su∣perstitious zeale, euen to set forward impietie) to stand vpon termes of soueraigntie and imperious∣nesse, as is great reason in Monarchies, though the subiects be slaughtered, the countrey deuasted, the people mangled, the peace dilacerated, the Churches abandoned, religion defaced, and God blasphemed: and how many be there that discredit the cause of
+
+ distressed Princes, and the thriuing of religious busi∣nesses, although the finger of God doth point it out that fairer daies shall follow stormy weather, which is most apparant concerning the 
+Bohemian
+ affaires, and the 
+Palatinates
+ recouery, wherein both flatterer and detractor step on the stage of this world to act their Scenes with deceitfull hurts and malitious in∣tents. The flatterer carryed away with outward showes of the Papacy, and 
+Catholicke
+ Princes, will not apprehend, that there can be any determination of their greatnesse, but cry out with 
+Nabuchadnezer
+ to worship the golden image of their Monarchy. The detractor shaking his head, and biting his lip at any successe shall happen, and deriding the busi∣nesse, as if the Gyants attempted to fight against hea∣uen. Thus haue they magnified the house of 
+Austria
+ and the proceedings of the Empire: thus haue they discredited the King of 
+Bohemias
+ attempts, and set strange characters on his actions.
+
+
+But as in all disputations there is a Moderator: so would I might now meete with such men, as will stand Neuters, and neither preuaricate iudgement, nor ouerthrow veritie: and if the higher matters are too transcendent for their capacitie, yet let them giue way to true relations, and honest reports, without scornes, or cachinations: but because I shall neuer haue my expectation satisfied in this kind in regard of the multiplicy of humours in a common wealth, I leaue them all to bee deceiued themselues, or deceiue others, and onely apply my selfe in this discourse to such men, who out of ciuill honestie entertaine good newes with ioy, and welcome bad
+
+ with commiseration and pittie, making this vse of both, that God is the manifester of his owne iudge∣ments and mercy to all the world. And so to the bu∣sinesse in hand, and to tell you what hath hapned of late in the 
+Palatinate,
+ since the King of 
+Bohemia
+ came there, and chanced in other places as the cause hath thriued, and men haue had their mindes stirred vp with good affections.
+
+
+Know then, that the fifteenth of our Aprill, and the fiue and twentieth 
+Stilo nouo,
+ 1622. there came letters from 
+Stuchgaret,
+ that a thousand horse, and foure thousand foote of Duke 
+Weymers
+ of 
+Saxony
+ arriued at 
+Laffen
+ ouer the Neckar, who brought word that the next day there will be also 3000. at 
+Rottenburg
+ for the Marquesse of 
+Baden,
+ who cōmeth in person to set forward the 
+Bohemian
+ cause. But the same day there was a mixture with as bad newes: for they will haue it that Generall 
+Tilley
+ came to neather 
+Gemunds
+ a prety great towne, and as hee serued the peasants in the villages, so he vsed the peo∣ple in this place, killing all the souldiers, slaughtring most part of the Burghers, torturing the preachers, and sparing neither Captaine nor officers, nay the very schollers were subiect to his fury, so that it see∣med he was either blinde with ignorant zeale, or mad with intemperate rage.
+
+
+A little before 
+Leopaldus
+ had sent downe a 1000. souldiers into his countrey, who had passage euen by permission of the people and some towne garri∣sond with 
+Mansfields
+ men to march ouer the bridge toward 
+Haggenaw,
+ and I must confesse, that though
+
+ 
+Leopaldus
+ hath beene much disappointed in his ex∣spectation for diuers troopes out of 
+Italie,
+ and mo∣ney from 
+Spaine,
+ yet came their souldiers dayly from 
+Austria,
+ and certaine companies of 
+Swiss
+ are ready to marshall a prety army in 
+Alsatia,
+ had not the the garrison of 
+Haggenaw
+ made a fearefull salley vp∣on some scattered troopes, killed diuers souldiers, and brought eight Captains of horse into the towne, which when the rest vnderstood, whom 
+Mansfield
+ had placed in the villages, and loath to be behinde their fellowes in glorious exploytes and profitable booty, they likewise drew to a head of three thou∣sand, and approched a village in which were fifteen-hundred of 
+Leopaldus
+ men, whom they not onely frighted with an alarum, but discomfited with a great slaughter, taking some prisoners, and many armes: but you must know in these disasters it is farre better here then with Monsieur 
+Tilley,
+ because the souldiers haue an ordinary ransome, and vpon surprisals, there is an ordinary deliuery, wherein and whereby Count 
+Mansfield
+ hath gotten such a reputation for the faire sparings of all people that submit, or yeeld him con∣tribution, that the better sort commended his di∣scretion and military customes, and inferiors pray for his successe and augmentation of honour, especially clap their hands for ioy, when they heare him cry out for the Cospell, and the King of 
+Bohemia.
+ Yea I will be bold to say that these warres haue made more true hearted Protestants, then all the flatteries of Peace, and wantonnesse of prosperitie could euer doe.
+
+
+
+
+Much about this time (and here I pray you par∣don me for precedencie of Dayes, or Actions; for I would be loth to tye you or my selfe to such sear∣ches: it is sufficient, that you shall receiue the Re∣lations fully, honestly, and truely, as they chaunced) And so I say, much about this time Count 
+Mans∣field
+ came to 
+Germishem
+ with three Regiments, whi∣ther also repaired Monsieur 
+Rauillau,
+ to treat with him about matter of great importance, especially a Truce: but hee now answered, that hee could not determine of any thing, vntill the King of 
+Bohemia
+ were setled, who should dispose of Businesse at his owne pleasure.
+
+
+Vpon the necke of this, as wee say, there came as∣surance of the Marquesse of 
+Badens
+ preparation to the Warre: who sent word, that his Armie was in a readinesse, but hee would willingly haue a Campe at 
+Durmishem,
+ as being able to keepe the Field him∣selfe, hauing leuied Souldiers, and trayned Bands, to the number of ten thousand, besides Waggons and Munition, Carriages and Pioners, with all other Furniture belonging to a great Captaine: Nay, his Customes were so Religious, that in the middest of his Troupes hee obserued the Sabboth, and com∣manded both Prayer and Fasting for one Meale in the same, whensoeuer hee determined any Attempt, or set himselfe a-worke for befitting Enterprises. To this you may adde the Arriuall of Palatine 
+Lodo∣wick Phillips
+ at 
+Germersteme,
+ and many Friends in o∣ther places, as true fore-runners of the King of 
+Bo∣hemia's
+ comming indeed.
+
+
+
+
+Monsieur 
+Tilley
+ all this while ranged vp and downe, and sometimes shewed his Horse in the Fields before 
+Ladenberg,
+ and sometimes came with his Foot to giue Alarums to 
+Heydelberg,
+ and some∣times terrified the Townes with diuers Outrages, and at all times watched opportunitie, to be reuen∣ged on Count 
+Mansfield,
+ or at least to take him at aduantage in some Expedition, that hee might ac∣knowledge hee had a Souldier to his Aduersarie, and as great a deseruer of Renowne as himselfe: In which courses hee continued, to the affrighting both of Townes, Villages, People, and the whole Armie, till the King of 
+Bohemia
+ came indeede; by whose occasion, the second Battaile, which is promised you, chanced, as you shall heare here∣after; though for my part I could bee contented with the Title of a Skirmish. The denomination of Battaile carryes too much terror with it, and too much curiositie of distinction, as beeing the highest part of Militarie Discipline: in which, many circumstances are to bee considered, as mu∣tuall Agreement, a Day appointed, the Trenches cast open, the maine Forces vnobscured, the Troopes orderly marshalled, the Cannon placed, and in a word, a preparation made to Death and Slaughter, as you see a Feast appointed to entertaine some great Prince.
+
+
+Now came the time, the long-wished time of the arriuall of the King into the Palatinate, about which there is some disparitie of reports. For some will haue his Armie to meet him after his Conuoy
+
+ from the Duke of 
+Bulloigne:
+ Some say, hee tooke Waggon, for the ease and accommodating his Per∣son; and some say, hee out-stripped the Armie, and came onely with three Post-horse to 
+Gernshem,
+ from whence, hee spent three seuerall dayes in visiting 
+Mainhem, Franckendale,
+ and 
+Heydelberg:
+ in all which places, according to the common acclamations in welcomming their Princes, as their Ioy exceeded, their Ceremonies augmented; and the Prince saw plainly, it was no common custome of the peoples welcomming their Princes, whosoeuer they be, but a heartie desire to shew their loue and obedience vnto him, who had ventured his life to come amongst them, and would neuer desist, till they were recom∣penced for their losses.
+
+
+But it was too soone to begin so effectually, and so there passed at this time a reciprocal thankfulnesse and ceremonie betweene them: yet in my conscience it lacked some feruency, because the ignorant people imputed some vnkindnesse vnto him, in regard that by his forsaking of them, they were compelled to for∣sake their houses, and inheritances, to leaue them to a strangers vsurpation. But this aspersion was quickly wiped away with a gentle hand of obseruation, and a present entertaining of new ioy, especially that they now hoped, that these strange Harpies which deuou∣red their plentie, should eyther bee expulsed by the valour of 
+Zetes
+ and 
+Culines,
+ or enforced to a compo∣sition, which might deliuer euery one his portion a∣gaine: which although it seemed now a little dimini∣shed, yet they well hoped, time and good husbandry
+
+ would reduce to her pristinate fulnesse and hand∣somenesse: To which they were the rather induced, because the Marquesse of 
+Baden
+ hath much augmen∣ted Count 
+Mansfields
+ Army, by vniting their For∣ces together, and visiting King 
+Frederick,
+ who can∣not be saluted otherwise, nor receiue any Character, then the King of 
+Bohemia.
+
+
+When these Princes were thus solemnly met, and that a Councell of Warre had resolued on some things worthy their presence, and so great an Army; Monsieur 
+Rauille
+ was discharged, and sent home without an answer: For they were resolued to haue no Peace, but to make way to new fortunes by sharpe Swords.
+
+
+In the meane while that these things passed in the Palatinate, 
+Bauaria
+ suspecting the worst, had ray∣sed more Forces of his owne, and had more sent him by the Emperour: so that there departed from 
+Vppenhem
+ ouer the Bridge eleuen Troupes of Horse into the Lantgraue of 
+Darmstadts
+ Countrey, to ioyne with 
+Tilley
+ at 
+Simpen.
+
+
+And thus nothing was expected, but Mischiefe, and Reuenge on all sides: For no body durst looke out of 
+Laudenberg,
+ by reason of the Horsemen of 
+Heydelberg,
+ which watched them continually; nor was there now any thing thought vpon, but watch∣ing one another, to take aduantage for their owne ends and purposes.
+
+
+And in this manner stood the Businesse of the Pa∣latinate at this houre; and so must rest a while, till you heare the newes of 
+Silesia.
+
+
+
+
+The Duke of 
+Saxony
+ somewhat troubled, that 
+Lu∣satia
+ was denyed him by the Emperour, remained rather discontented then pleased, and so gaue way to the Princes of 
+Silesia
+ to cal a Diet because of the vp∣rores. For the souldiers had mustred themselues to assault 
+Glatz:
+ but were repulsed by the yong Earle of 
+Thorn,
+ who slue many of them, and made them retire with great losse, whereupon to preuent the worst, he entertained 150. souldiers more, who came from 
+Wittingham,
+ by which occasion they are so strength∣ned and hartned, that they haue protested to defend themselues to the last man. In like manner the other Protestants are much incensed against the Bishops, and euery where there is crying out vpon the Catho∣lickes tyranny, and wicked Iesuites: whereupon the Bishop of 
+News
+ will take from them of 
+Cuntele
+ the vse of their Churches, prohibite their assemblies, de∣ny the reading of the Scriptures, and as ill as 
+Iulian
+ the Apostate, debarre the intercourse of Christians: now 
+Cuntele
+ is three mile distant from 
+Meuse,
+ and was euer a priuiledged place, whither they of the religion resort, and were prowd againe to be reputed Protestants. For although in these places there was some disparity betweene the Caluinists and Luthe∣rans, which bred some scandall to the professors: yet were they all glad of the generall title of Protestants, as you see at this houre, the Papists generally reioyce at the name of Catholicke: from the Bishops exam∣ple many Priests and officialls performed the like, but the people vnaccustomed to such indignities, from murmuring fell to opposition, and so stood vp∣on a guard of defence, and began some slender oppo∣sitions
+
+ in many places, resorting to the Princes and Lords of the Prouince both in towne and villages, desiring them to let them haue the freedome of their soules, how euer the Emperour or Duke of 
+Saxony
+ vnder him would seeme to command their bodyes, and obedience to extraordinary contributions: vpon this there is great mustring of souldiers round about and the Emperour sent a new messenger to the Duke of 
+Saxony
+ to bee carefull of the gouernment. For he knew the losse of 
+Bohemia
+ depended vpon the abso∣lute reuolt of 
+Silesia:
+ But the truth is, they were affrayde of the Marquesse of 
+Ieggendorff
+ euerie where, who for all the Parliament of 
+Hunga∣rie,
+ and the great assembly there to rectifie the disorders of the Common-wealth, grew strong with new forces, and was reputed twen∣tie thousand, and feared to come against them presently: For the countrey grew mutinous, and euery man suspected one another, considering the Emperour was reputed weake, and would glad∣ly haue a peace, if hee knew which way to obtayne it with his honour: to which I am the rather induced, because new Souldiers must haue money and good entertainment, and the old were worne out with many and diuers difficul∣ties; especially slaughter, hunger and sickenesse; besides the Countreys lay wasted where they quartered, and the Inhabitants did not husband nor till their grounds as they were woont in former times: and this was the generall cause almost throughout all 
+Germanie,
+ at which the people euery where were very much mooued, be∣cause
+
+ troubles arose not for Religion or the Gospels sake as the maine poynt of the same: but for ambitious titles, and matters of State and gouernement, of which there is neither time nor occasion to dispute heere: and thus much for the remoter places.
+
+
+Now wee may draw neere home, and come to that you desire, the second Skirmish I pro∣mised you, which was against Monsieur 
+Tilley
+ in the 
+Palatinate,
+ and concerning which there are diuers reports: but this Letter is come from 
+Crutsnach,
+ wherein the Spaniards lie in Garrison, and therefore I am perswaded they would make the best of a businesse against them, and bee as sparing as they could to discredit their owne affayres, and so they tell the tale in this manner.
+
+
+Although the Report of the King of 
+Bohe∣mias
+ comming into the 
+Palatinate
+ was quickely divulged, and made knowne to all the Garri∣sons, especially 
+Openhem
+ and 
+Crutsnach,
+ where the Spaniards lay, and had laine euer since their comming into the Countrey: so that now they were very well fortified and intrenched: yet as they had beene quiet all this Winter, they were now likewise neuer startled by the rumour, so that it was then supposed, that they had some priuate or secret directions so to doe, or knew there was some capitulation about their remouing and rendition of the place: notwith∣standing 
+Bauaria
+ would not bee so answered, but as the Emperour had giuen him the Countrey, he would maintaine the Title, and also iustifie the
+
+ possession: but as you heard in many places, there came interpositions, and no doubt would prooue him an intruder. Besides, when it was obiected vnto him, that although the Emperour as exasperated a∣gainst the Prince 
+Fredericke,
+ had done this for the present, and made his indignation an example of reuenge: yet either it could not last, or time would worke a reconciliation: but as for him, it must needs be a perpetuall cause of displeasure, and their poste∣rity in the remembrance would hunt one another in∣to the fields of slaughter and warre. To this 
+Bauaria
+ replyed, let hereafter times looke to themselues, hee would not goe about to preuent destiny, he had now for himselfe his limitation, & therefore regarded no more, then the present, his owne glory, and the Em∣perors dignitie, which in his failing now must needs be made a scorne to all nations: whereupon he pro∣ceeded (as you haue diuers times heard) and was in∣deed the onely supportation which his Imperiall Maiestie trusted vnto, as affecting the reuolt of 
+Prague,
+ opposing the enemies of 
+Bohemia
+ and 
+Mora∣uia,
+ repulsing the souldiers which had begun in 
+Au∣stria,
+ and now maintaining an army in the 
+Palatinate,
+ of which hee made Monsieur 
+Tilley
+ Generall, who had no question deserued well of fame and report for many sundry actions, wherein both himselfe and his Master had attained the reputation of good soul∣diers.
+
+
+In this course did they continue all this winter, repining at nothing more then the proceedings of Count 
+Mansfield,
+ who was now the onely barre and hindrance of their fortunes, wherefore they watched
+
+ all opportunities to oppose him, but hee grew too strong for them, and as I may say too prowd: for he left them in scorne to a hard winter, and made way for his owne glory, euen through the Pallaces of Bi∣shops, and countreys of Catholickes, which neither 
+Bauaria
+ nor 
+Tilley
+ could preuent. Yea, when hee had done what he listed, he came backe againe amongst them with greater fury and more impetuous vio∣lence, like the Ramme, which fighting with his ad∣uersary, retireth by little and little, but not for feare or dastardlinesse, but to returne with greater courage and force: thus in the meane time comes the King of 
+Bohemia,
+ as I sayd, into the 
+Palatinate
+ a∣gaine, and found 
+Bauaria
+ and 
+Tilley
+ springing with the spring to new vigour and lustre, insomuch that at two seuerall times 
+Tilley
+ had surprised some part of his carriages, and slaine some few of the reare of his army: yea he continued with that brauery, that hee did shew himselfe most when the King was strongest especially after the King of 
+Bohemia
+ was come into the Palatinate: for then he bestirred himselfe indeed, and not onely spoyled the villages, but threatned 
+Heydelberg,
+ who had many alarums by his meanes, and many reports of her besieging: not thus conten∣ted, he braued the campe himselfe, and came out in fury to set vpon the King in an audacious manner, and so a skirmish began, which a little rebated his fury, but yet not eclipsed his glory.
+
+
+Here gentle Reader I know not what to say vnto thee, because rumour is spred into streames con∣cerning this matter: but in regard my Letter comes from 
+Crutsnach,
+ from the Spaniards, and
+
+ that all Letters tend to one purpose, that there was such a defeat, I will follow my Copie, let other men please themselues as they list, and so they tell the tale thus.
+
+
+The King after hee had ioyned his force that 
+Mansfield
+ had sent vnto him with Sir 
+Horatio Vere,
+ hauing occasion to remooue his army, was pursued, or if you will, attended vpon by Monsieur 
+Tilley,
+ who marched along with all his forces to ouerlooke the proceedings, which was orderly performed, vn∣till the King came to a bridge, where for the time he made a stand, as indeede not thinking it conue∣nient to passe ouer, considering 
+Tilley
+ was so neere, and in a valley beside him.
+
+
+Tilley
+ againe coniecturing that he made this stay for feare of him, came the bolder forward, and pres∣sed so fast toward him, that hee was compelled to breake through a battaile of his owne pikes with his horse, which must needs disorder his foot, and which was iudiciously discouered by the King: insomuch that being well prepared, hee tooke the aduantage, sending some horse to entertaine these, who came so forward, and aduancing with the rest against the dis∣ranked pikes that could not so easily be brought in∣to forme and fashion againe, and so without dwel∣ling long on the businesse, because they continued not long in the skirmish, 
+Tilleyes
+ battle was ouer∣throwne, and he himselfe had much adoe to escape: then followed a strange slaughter: for there were pe∣rished and taken prisoners betweene 5. or 6. thou∣sand men, but most of them slaine, and last of all it ended with spoyle, for the souldiers tooke away their
+
+ armes, and stripped their bodyes, leauing them na∣ked to the fowles of the ayre. Thus is 
+Tilley
+ escaped, and therefore we can say no more of him: yet onely Count 
+Mansfield
+ is now a subiect to talke of, and no question will run in some violent course of glory, if the Emperour doe not speedily send more forces, and raise a greater army: for in my conscience this victory hath elated him more then all his former proceedings in the Bishopricke of 
+Spires
+ or 
+Leopal∣dus
+ countrey: to which I haue a faire way of beleefe, in regard that heretofore 
+Mansfield
+ was willing to hearken to a parley, and entertained the Emperours messages, and Letters about a peace: but now he gaue it out, it was onely to winne time, and to com∣passe his endes, which were to serue the King of 
+Bohemia,
+ and his comming into the Palatinate, by whom he would be both directed, and commanded, and without whose permission he would not so much as consent to a truce or cessation of armes.
+
+
+At last (as you haue heard) the Palatine comes vnto him, and is welcommed in euery place and applauded of all the people, so that it is doubted, hee will stand vpon the higher termes, because hee hath the stronger force: as for the Spanish Garri∣sons, they are firme and well prouided, yet I see no reason for their continuance, except 
+Baua∣ria
+ bee supplyed, and a new order taken to re∣nue the warre: For whether warre or peace, I am resolued, that Prince 
+Frederick
+ will not suffer vs thus to remaine in his countrey, and be as thorns in his sides.
+
+
+
+
+To this effect was the Letter from 
+Crutsnach,
+ writ∣ten by one of the Garrison, and therefore I am per∣swaded it was impartiall, and according to the Busi∣nesse: so that there is hope for the generall Cause to thriue, and the particular Businesse of the Palatinate to cheare vs with a new recouerie. And thus much for those Affaires.
+
+
+Heere is also another Letter come secretly from 
+Paris,
+ concerning the Kings Forces in 
+Languedock,
+ which I suppose is very conuenient to be published, according to the probabilitie of the matter, and the fearefulnesse of the Time. It is not my purpose to dispute of the Actions of Princes, but to lament the poore estate of Protestants. It cannot bee hid from the eares of the World, that is not hid from the eyes of the People; and so, as rumour hath told vs of the distresses of the Protestants of 
+France,
+ good thoughts haue instructed vs to wish the pacification of their Troubles, and pray for the diuersion of the Kings anger against them, with the cessation of the Warre. But it will not be: And therefore, for my part, I referre the Businesse to God, who can cure the wounds of his Church, and comfort the hearts of his People, which haue of late, especially in 
+France,
+ been more sadded then euer before; in regard there is a Booke published in 
+Paris
+ of Monsieur 
+Subizes
+ defeat going to 
+Rochel,
+ whom the King followed in person, and slew many of his company: this Relation filled their soules with griefe, and their eyes with teares; and in such a manner the sorrow for the same en∣creased, that they would not admit of recouerie, and ioy, although they presently heard, that Monsieur
+
+ Duke 
+de Rohan, Subizes
+ Brother, being in the field for the Protestants in 
+Languedock,
+ had giuen Duke 
+Me∣morancy,
+ the Admirall of 
+France,
+ a great Ouerthrow, which is thus confirmed.
+
+
+After the Iesuites had preuayled with the 
+French
+ King to goe against 
+Rochel,
+ and prosecute the Busi∣nesse of 
+Montalbon,
+ the Souldiers were mustered in euery place, and the Generall of the Armie proclay∣med nothing but Warre and Destruction; yet was there Oppositions against them: and the Protestants of 
+Prouince
+ and 
+Languedock
+ well hoped, that Mon∣sieur 
+Desguiers
+ would take their Cause in hand, and defend their Religion; which whether he will or no, is yet doubtfull, and so hangs in suspence.
+
+
+But Monsieur 
+de Rohan
+ would not tarry for his re∣solution, and raysed such Forces as he could, to sup∣ply 
+Mountabon,
+ and defend the Countrey: against whom was sent Duke 
+Memorancy,
+ as Generall of the Kings Army, with other Lords and Gentlemen of qualitie; who came forward with a goodly Army, and too goodly (if it had pleased God otherwise) because it was against their Brethren. But Kings command, and subiects must obey: 
+Mountmorancy
+ comes forward apace, and 
+Mountaban
+ was afraid of a new obsession: but it proued otherwise. For 
+Rohan
+ was couragious, and presumed on the Cause, though it were against his Prince: so in plaine termes (as they say) they fell to a Battaile; in which, all things were ordered belonging to Martiall Discipline, but that the Lord of Battailes did disorder the Businesse. For comming to blowes, and ioyning with furie, 
+Memorancy
+ gaue way, and 
+Rohan
+ tooke the aduan∣tage:
+
+ yet the fight continued long, and till the maine Rout was too too apparant, there seemed no diffe∣rence. But at last, as no extremitie can last, the Vic∣torie fell to the Protestants, and the Admirall was taken prisoner, with two Brothers of his Bloud; but one of them died of his wounds, and many other were slaine out-right: The Letter sayes fiue thou∣sand, the Rumor more, but the Religious heart sayes there were too many of these, considering the Busi∣nesse was betweene Friends and Kindred, Countrey∣men and of one Nation, Christians and Neighbors, and not betweene Strangers and Enemies to the Kingdome.
+
+
+This is that wee receiue from forraine Parts, and this is that wee hearken after in our owne Countrey: euery one wishing well to the King of 
+Bohemia's
+ proceedings, euery one praying truely for the afflic∣ted Churches abroad; yea, cursing the Iesuites for such a Doctrine, that bellowes out nothing but Warre and Death, Slaughter and Reuenge, Cruel∣tie and Spoyle, when yet the Sauiour of the World bad 
+Peter
+ put vp his Sword, and feed his Flocke; rode with 
+Hosanna
+ and 
+Palmes
+ to 
+Ierusalem,
+ and not with Armies and Triumph; submitted to Scornes and Buffetting, and did not reuenge himselfe: And yet these men dare seduce the Princes of the World, and blaspheme the God of Heauen, who laughes them to scorne for the present, and will in time to come cast them in a Bed of Affliction with the Whore of 
+Babylon.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

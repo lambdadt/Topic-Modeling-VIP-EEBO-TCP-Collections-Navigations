@@ -1,0 +1,1323 @@
+A relation of a discovery lately made on the coast of Florida (from lat. 31 to 33 deg. 45 min. north-lat.) / by William Hilton, Anthony Long and Peter Fabian, in the ship Adventure, which set sayl from Spikes Bay, Aug. 10. 1663. and was set forth by several gentlemen and merchants of the Island of Barbadoes ; giving an account of the nature and temperature of the soyl, the manners and disposition of the natives, and whatsoever else is remarkable therein ; together with proposals made by the commissioners of the lords proprietors to all such persons as shall become the first setlers on the rivers, harbors, and creeks there.
+Hilton, William, d. 1675.
+Approx. 56 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2007-10 (EEBO-TCP Phase 1).
+A43838
+
+
+
+
+Wing H2043
+
+
+
+ESTC R35440
+
+
+
+
+
+ocm 15305484
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A relation of a discovery lately made on the coast of Florida (from lat. 31 to 33 deg. 45 min. north-lat.) / by William Hilton, Anthony Long and Peter Fabian, in the ship Adventure, which set sayl from Spikes Bay, Aug. 10. 1663. and was set forth by several gentlemen and merchants of the Island of Barbadoes ; giving an account of the nature and temperature of the soyl, the manners and disposition of the natives, and whatsoever else is remarkable therein ; together with proposals made by the commissioners of the lords proprietors to all such persons as shall become the first setlers on the rivers, harbors, and creeks there.
+Hilton, William, d. 1675.
+Long, Anthony.
+Fabian, Peter.
+[3], 34 p.   
+
+
+London :
+
+
+Printed by J.C. for Simon Miller ...,
+
+
+1664.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+South Carolina --  Description and travel.
+North Carolina --  Description and travel.
+Cape Fear River (N.C.)
+2006-11
+TCP
+Assigned for keying and markup
+2006-11
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2006-12
+Jason Colman
+Sampled and proofread
+2006-12
+Jason Colman
+Text and markup reviewed and edited
+2007-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+H2043
+
+
+15305484
+
+
+103392
+
+
+
+
+
+
+
+
+
+
+
+
+Licensed
+
+
+JUNE 22. 1664.
+
+
+Roger L'Estrange.
+
+
+
+
+
+
+
+
+A RELATION OF A Discovery lately made on the Coast of 
+FLORIDA,
+ (From Lat. 31. to 33 Deg. 45 Min. North-Lat.)
+
+
+By 
+William Hilton
+ Commander, and Commissioner with Capt. 
+Anthony Long,
+ and 
+Peter Fabian,
+ in the Ship 
+Adventure,
+ which set Sayl from 
+Spikes
+ Bay, 
+Aug.
+ 10. 1663. and was set forth by several Gentlemen and Mer∣chants of the Island of 
+BARBADOES.
+
+
+Giving an account of the nature and tempera∣ture of the Soyl, the manners and disposition of the Natives, and whatsoever else is remarkable therein.
+
+
+Together with Proposals made by the Commissioners of the Lords Proprietors, to all such per∣sons as shall become the first Setlers on the Rivers, Harbors, and Creeks there.
+
+
+LONDON,
+ Printed by 
+J. C.
+ for 
+Simon Miller
+ at the Star neer the West-end of St. 
+Pauls,
+ 1664.
+
+
+
+
+
+
+
+
+
+
+
+
+
+A true Relation of a Voyage, upon discovery of part of the Coast of FLORI∣DA, from the Lat. of 31 Deg. to 33 Deg. 45 m. North Lat. in the Ship 
+Adventure, William Hilton
+ Commander, and Com∣missioner with Captain 
+Anthony Long
+ and 
+Peter Fabian;
+ set forth by several Gentlemen and Merchants of the Island of 
+Barbadoes;
+ sailed from 
+Spikes
+ Bay, 
+Aug.
+ 10. 1663.
+
+
+A
+FTER Sixteen days of fair wea∣ther, and▪ prosperous windes, 
+Wednesday
+ the 26 instant, four of the clock in the Afternoon, God be thanked, we espied Land on the Coast of 
+Florida,
+ in the lat. of 32 deg. 30 min. being four Leagues or thereabouts to the Northwards of Saint 
+Ellens,
+ having run five hundred and fifty Leagues;
+
+
+and to the Westward of the Meridian of 
+Barbadoes,
+ three hundred thirty and one Leagues. This Evening and the Night following we lay off and on: 
+Thurs∣day
+ the 27th instant, in the morning, we stood in with the Land, and coasted the Shoar to the South∣ward, Ankering at Nights, and sending our Boat out a Mornings, till we came into the lat. of 31 deg. but found no good harbour that way. On 
+Sun∣day
+ the 30th instant, we tacked, and stood North∣ward: and on 
+Wednesday
+ the second of 
+September,
+ we came to an Anchor in five fathoms at the mouth of a very large opening of three Leagues wide, or therea∣bouts, in the lat. of 32 deg. 30 min. and sent our Boat to sound the Channel. On 
+Thursday
+ the third, we entered the Harbour, and found that it was the River 
+Jordan,
+ and was but four Leagues or therea∣bouts N. E. from 
+Port Royal,
+ which by the 
+Spanyards
+ is called St. 
+Ellens:
+ within Land, both Rivers meet in one. We spent some time to sound the Chanels both without and within, and to search the Rivers in several branches, and to view the Land. On 
+Saturday
+ the fifth of 
+September,
+ two 
+Indians
+ came on Board us from the N. E. shoar, whom we entertain∣ed courteously, and afterwards set them on shoar. On 
+Sunday
+ the sixth, several 
+Indians
+ came on Board us, and said they were of St. 
+Ellens;
+ being very bold and familiar; speaking many 
+Spanish
+ words, as, 
+Cappitan, Commarado,
+ and 
+Adues.
+ They know the use of Guns, and are as little startled at the firing of a Peece of Ordnance, as he that hath been used to them many years: they told us the nearest 
+Spanyards
+ were at St. 
+Augustins,
+ and several of them had been there, which as they said was but ten days journey; and
+
+
+that the 
+Spanyards
+ used to come to them at Saint 
+Ellens,
+ sometimes in Canoa's within Land, at other times in small Vessels by Sea, which the 
+Indians
+ describe to have but two Masts. They invited us to come to St. 
+Ellens
+ with our Ship, which they told us we might do within Land. 
+Munday
+ the 14 
+September,
+ our Long-Boat went with twelve hands within Land to St. 
+Ellens.
+ On 
+Wednesday
+ the 16th, came five 
+Indians
+ on board us; one of them pointing to another, said, he was the Grandy Captain of 
+Edistow:
+ whereupon we took especial notice of him, and entertained him accordingly, giving him several Beads, & other trade that pleased him well: He invited us to bring up our Ship into a branch on the N. E. side, and told us of one Captain 
+Francisco,
+ and four more English that were in his custody on shoar; whereupon we shew∣ed him store of all Trade, as Beads, Hoes, Hatchets and Bills, &c. and said, he should have all those things if he would bring the English on board us; which he promised should be done the next day. Here∣upon we wrote a few lines to the said 
+English,
+ fearing it to be a 
+Spanish
+ delusion to entrap us. In the dark of the same Evening came a Canoa with nine or ten 
+In∣dians
+ in her with their Bowes and Arrows, and were close on board before we did discern them: We ha∣led them, but they made us no answer, which increa∣sed our jealousie: So we commanded them on board, and disarmed them, detaining two of them prisoners, and sending away the rest to fetch the 
+English;
+ which if they brought, they should have theirs again. At length they delivered us a Note written with a coal, which seemed the more to continue our jealousie, be∣cause in all this time we had no news of our long-boat
+
+
+from St. 
+Ellens,
+ which we feared was surpri∣zed by the 
+Indians
+ and 
+Spanyards.
+ But to satisfie us that there were 
+English
+ on shoar, they sent us one man on board about twelve of the clock in the Night who related to us the truth of the matter, and told us they were cast away some four or five leagues to the North-ward of the place we then rode, on the 24th of 
+July
+ past, being thirteen persons that came on shoar, whereof three of them were kill'd by the 
+Indians.
+ On 
+Thursday
+ the 17th of 
+September
+ the Long-boat returned from St. 
+Ellens,
+ which presently we sent on shoar to fetch the other 
+English,
+ the 
+Indians
+ delivering us three more; and coming abroad them∣selves, we delivered them their two men. Then we demanded of the chief Commander where the rest of our 
+English
+ were: he answered, Five were carried to St. 
+Ellens,
+ three were killed by the 
+Stonohs,
+ and the other man we should have within two dayes. We replyed to him again, That we would keep him and two more of his chief men, till we had our 
+English
+ that were yet living; and promised them their li∣berty, with satisfaction for bringing us the 
+English.
+ Now to return to the businesse of our Design; the entertainment we had at S. 
+Ellens
+ put us in great fear of the 
+Indians
+ treachery; for we observed their con∣tinual gathering together, and at last began with stern-look'd countenances to speak roughly to us, and came to search our mens Bandileers and Pockets; yet inviting us to stay that night with them: but we made a sudden retreat to our Boat, which caused the 
+Indian
+ King to be in a great rage, speaking loud and angry to his men; the drift of which discourse we understood not. That which we noted there, was a
+
+
+fair house builded in the shape of a Dove-house, round, two hundred foot at least, compleatly cover∣ed with 
+Palmeta
+-leaves, the wal-plate being twelve foot high, or thereabouts, & within lodging Rooms and Forms; two pillars at the entrance of a high Seat above all the rest: Also another house like a Sentinel-house, floored ten foot high with planks, fastned with Spikes and Nayls, standing upon sub∣stantial Posts, with several other small houses round about. Also we saw many planks, to the quantity of three thousand foot or thereabouts, with other Tim∣ber squared, and a Cross before the great house. Likewise we saw the Ruines of an old Fort, compas∣sing more than half an acre of land within the Tren∣ches, which we supposed to be 
+Charls
+'s Fort, built, and so called by the 
+French
+ in 1562, &c. On 
+Mon∣day, September
+ 21. one English youth was brought from St. 
+Ellens
+ aboard us by an 
+Indian,
+ who inform∣ed us that there were four more of their company at St. 
+Ellens,
+ but he could not tell whether the 
+Indians
+ would let them come to us: For saith he, Our Men told me, that they had lately seen a Frier and two 
+Spany∣ards
+ more at St. 
+Ellens,
+ who told them they would send Soldiers suddenly to fetch them away. This day we sayled up the River with our Ship to go through to St. 
+Ellens.
+ On 
+Tuesday
+ the 22 instant, three 
+Indians
+ came on board; one of them we sent with a Letter to the 
+English
+ Prisoners there. On 
+Wednesday
+ the 23d. we sent out Boat and Men to sound the Chanel, and finde out the most likely way to St. 
+Ellens
+ with our Ship by 
+Combeheh.
+ In the mean time came many Canoa's aboard us with Corn, Pumpions, and Ve∣nison, Deer-skins, and a sort of sweet-wood. One
+
+
+of our men looking into an 
+Indian
+ basket, found a piece of 
+Spanish
+ Rusk: it being new, we demanded of the 
+Indian
+ where he had it; who said, Of the 
+Spani∣ards.
+ In the interim, while we were talking, came a Canoa with four 
+Indians
+ from St. 
+Ellens,
+ one stand∣ing up, and holding a paper in a cleft stick; they told us they had brought it from the 
+Spanish
+ Captain at St. 
+Ellens.
+ We demanded how many 
+Spaniards
+ were come thither; who said, Seven, and one 
+Eng∣lish-man:
+ We received their Letter writ in 
+Spanish,
+ but none of us could read it: We detained two of the chiefest 
+Indians,
+ one of them being the Kings Son of S. 
+Ellens,
+ and that kept one of the 
+English
+ priso∣ners▪ the other two we sent away with a Letter to the 
+Spaniard,
+ wherein we gave him to understand, that we understood not his letter; and told the 
+Indi∣ans,
+ when they brought the 
+English,
+ they should have their men again, with satisfaction for their pains. On 
+Thursday,
+ 24 instant, we sayling further up the River to go through, at last came to a place of fresh water, and Anchored there, sending our Boat ashoar with a Guard to get water. Towards night came the first 
+Indian
+ that we sent to St. 
+Ellens
+ with a letter to the 
+English,
+ who brought us another letter from the 
+Spaniards,
+ and an Answer of ours from the 
+English,
+ writ in the 
+Spaniards
+ letter. The 
+Spaniard
+ sent us a quarter of Venison, and a quarter of Pork, with a Complement, That he was sorry he had no more for us at that time. We returned him thanks, and sent him a Jug of Brandy; and withal, that we were sorry we understood not his letter. This night about twelve of the Clock we had a most violent gust of winde, but of no long
+
+
+continuance. On 
+Friday
+ 25 
+September,
+ we weighed, and returned down the River six leagues, or therea∣bouts, because we perceived the 
+Indians
+ had gather∣ed themselves in a Body from all parts thereabouts, and moved as the Ship did: and being informed by an 
+Indian,
+ that the 
+Spaniards
+ would be there the next day; we took in Fire-wood, and continued there that night, at which time one of our 
+Indian
+ Prison∣ers made his escape by leaping over-board in the dark. On 
+Saturday
+ the 26. we weighed, and stood down to the Harbours mouth, and stayed there till 
+Monday
+ the 28. In all which time came no one to us, though we stay'd in expectation of their coming con∣tinually; therefore put out to Sea, concluding their intentions not to be good. Being out of the River 
+Jordan,
+ we directed our course S. W. four leagues or thereabouts for 
+Port-Royal,
+ to sound the Chanel without from the poynts of the Harbour outwards; for we had sounded the Harbour within from the points inward when our Boat was at St. 
+Ellens:
+ And now being athwart the Harbours mouth, we sent our Boat with the Mate and others, who found the N. E. and E. N. E. side of the opening of 
+Port-Royal
+ to be Sholes and Breakers to the middle of the open∣ing; and three leagues or thereabouts into the Sea, from the side aforesaid, is unsafe to meddle with: but the S. W. and W. side we found all bold steering in N. N. W. two or three miles from the S. W. shoar, sayling directed with the S. W. head-land of the en∣trance of 
+Port-Royal:
+ the said head-land is bluft, and seems steep, as though the trees hung over the wa∣ter: But you must note, that if you keep so far from the S. W. side, that you stand in N. N. W. with
+
+
+the bluft head aforesaid, you shall go over the Out∣skirt of the E. N. E. sholing, and shall have but three or four fathom for the space of one league or thereabouts, and then you shall have six and seven fathoms all the way in: But if you borrow more on the S. W. side, till you have brought the S. W. head of the Entry to bear N. N. E. you shall have a fair large Chanel of six, seven, and eight fathoms all the way in, and then five, six, seven and eight fa∣thoms within the Harbour, keeping the Chanel, and standing over to the Northward: we supposed that it flows here as at the River 
+Jordan,
+ because they are but four leagues asunder, and flows S. E. and N. W. seven foot and half, and sometimes eight foot perpendicular: the Mouth of 
+Port-Royal
+ lyes in 32 deg. 20 min. lat. Now as concerning the entrance of the River 
+Jordan,
+ lat. 32 deg. 30 min. or there∣abouts, you shall see a range of Breakers right a∣gainst the opening, two or three leagues off the S. W. Point; which you must leave to the Northward, and steer in with the said S. W. Point, giving a range of Breakers that runs from the said Point a small birth, and you shall have two, three, and four fa∣thoms at low water; and when you come one mile from the Point aforesaid, steer over directly to the N. E. Point, and you shall have six or seven fathom all the way. VVithin the 
+N. W.
+ Point is good An∣choring: you shall have five fathoms fair aboard the shoar: and you shall have five, six, seven, and eight fathoms, sayling all along upon the River, ten leagues, and a large turning Chanel: It flows here 
+S. E.
+ and 
+N. W.
+ seven foot and a half, and eight foot at common Tydes. The River 
+Grandy,
+ or as the 
+In∣dians
+
+
+
+call it 
+Edistow,
+ lyes six leagues or thereabouts from the River 
+Jordan,
+ and seems to be a very fair o∣pening: but because the chief 
+Indian
+ of that Place was on board us, and the Countrey all in Arms, we not knowing how the winde might crosse us, it was not thought fit to stay there: But some of those 
+English
+ that had lived there, being Prisoners, say, that it is a very fair and goodly River, branching in∣to several branches, and deep, and is fresh water at low Tide within two leagues of the Mouth; it seem∣ing to us as we passed by, a good entrance large and wide, lat. 32 deg. 40 min. in or thereabouts. Now our understanding of the Land of 
+Port-Royal,
+ River 
+Jordan,
+ River 
+Grandie,
+ or 
+Edistow,
+ is as followeth: The Lands are laden with large tall Oaks, VValnut and Bayes, except facing on the Sea, it is most Pines tall and good: The Land generally, except where the Pines grow, is a good Soyl, covered with black Mold, in some places a foot, in some places half a foot, and in other places lesse, with Clay under∣neath mixed with Sand; and we think may produce any thing as well as most part of the Indies that we have seen. The 
+Indians
+ plant in the worst Land, be∣cause they cannot cut down the Timber in the best, and yet have plenty of Corn, Pumpions, Water-Mellons, Musk-mellons: although the Land be o∣ver-grown with weeds through their lazinesse, yet they have two or three crops of Corn a year, as the 
+Indians
+ themselves inform us. The Country abounds with Grapes, large Figs, and Peaches; the Woods with Deer, Conies, Turkeys, Quails, Curlues, Plovers, Teile, Herons; and as the 
+Indians
+ say, in Winter, with Swans, Geese, Cranes, Duck
+
+
+and Mallard, and innumerable of other water-Fowls, whose names we know not, which lie in the Rivers, Marshes, and on the Sands: Oysters in a∣bundance, with great store of Muscles; A sort of fair Crabs, and a round Shel▪fish called 
+Horse▪feet;
+ The Rivers stored plentifully with Fish that we saw play and leap. There are great Marshes, but most as far as we saw little worth, except for a Root that grows in them the 
+Indians
+ make good Bread of. The Land we suppose is healthful; for the 
+English
+ that were cast away on that Coast in 
+July
+ last, were there most part of that time of year that is sickly in 
+Virgi∣nia;
+ and notwithstanding hard usage, and lying on the ground naked, yet had their perfect healths all the time. The Natives are very healthful; we saw many very Aged amongst them. The Ayr is clear and sweet, the Countrey very pleasant and delight∣ful: And we could wish, that all they that want a happy settlement, of our 
+English
+ Nation, were well transported thither, &c.
+
+
+
+
+
+
+
+
+FRom 
+Tuesday
+ the 29th of 
+September,
+ to 
+Friday
+ the second of 
+October,
+ we ranged along the shoar from the lat. 32 deg. 20 min. to the lat. 33 deg. 11 min. but could discern no Entrance for our Ship, after we had passed to the Northwards of 32 deg. 40 min. On 
+Saturday
+ the third instant, a vio∣lent storm came up, the winde between the North and the East; which Easterly windes and fowl wea∣ther continued till 
+Monday
+ the 12th. By reason of which storms and fowl weather, we were forced to get off to Sea to secure our selves and ship, and were horsed by reason of a strong Current, almost to Cape 
+Hatterasse
+ in lat. 35 deg. 30 min. On 
+Monday
+ the 12th aforesaid we came to an Anchor in seven fathom at 
+Cape Fair-Road,
+ and took the Meridian-Altitude of the Sun, and were in the lat. 33 deg. 43 min. the winde continuing still Easterly, and fowl weather till 
+Thursday
+ the 15th instant; and on 
+Friday
+ the 16th, the winde being at 
+N. W.
+ we weigh∣ed, and sailed up 
+Cape Fair-River,
+ some four or five leagues, and came to an Anchor in six or seven fa∣thom; at which time several 
+Indian
+ came on Board, and brought us great store of Fresh-fish, large Mul∣lets, young Bass, Shads, and several other sorts of very good well-tasted Fish. On 
+Saturday
+ the 17th, we went down to the Cape to see the English Cattel, but could not finde them, though we rounded the Cape: And having an 
+Indian
+ Guide with us, here we rode till the 24th instant; the winde being against
+
+
+us, we could not go up the River with our Ship; in which time we went on shoar, and viewed the land of those quarters. On 
+Saturday
+ we weighed, and sayled up the River some four leagues or therea∣bouts. 
+Sunday
+ the 25th, we weighed again, and tow∣ed up the River, it being calm, and got up some fourteen leagues from the Harbours mouth, where we mored our Ship. On 
+Monday
+ the 26 
+October,
+ we went down with the Yoal to 
+Necoes,
+ an 
+Indian
+ Plan∣tation, and viewed the Land there. On 
+Tuesday
+ the 27th, we rowed up the main River with our long-Boat and twelve men, some ten leagues or therea∣bouts. On 
+Wednesday
+ the 28th, we rowed up about eight or nine leagues more. 
+Thursday
+ the 29th was foul weather, of much rain and winde, which for∣ced us to make Huts, and lye still. 
+Friday
+ the 30th, we proceeded up the main River, seven or eight leagues. 
+Saturday
+ the 31, we got up three or four leagues more, and came to a Tree that lay athwart the River: but because our Provisions were neer spent, we proceeded no further, but returned down∣ward the remainder of that day; and on 
+Monday
+ the second of 
+November,
+ we came aboard our Ship. 
+Tues∣day
+ the third, we lay still to refresh ourselves. On 
+Wednesday
+ the 4th, we went five or six leagues up the River to search a branch that ran out of the main River towards the 
+N. W.
+ In which branch we went up five or six leagues: not liking the Land, we re∣turned on board that night about midnight, and called that place 
+Swampy-branch. Thursday
+ the fifth in∣stant, we staid aboard; on 
+Friday
+ the 6th we went up 
+Greens
+ River, the mouth of it being against the place we rode with our Ship. On 
+Saturday
+ the 7th, we
+
+
+proceeded up the said River some fourteen or fifteen leagues in all, and found that it ended in several small branches; the Land for the most part being marshy and swamps, we returned towards our ship, and got aboard in the night: 
+Sunday
+ the 8th instant we lay still, and on 
+Monday
+ the 9th we went again up the main River, being well provided with Pro∣visions and all things necessary, and proceeded up∣wards till 
+Thursday
+ noon 12th instant, at which time we came to a place where two Islands were in the middle of the River, and by reason of the crooked∣nesse of the 
+River
+ at that place, several Trees lay a∣thwart both branches, which stopped up the passage of each branch, that we could proceed no further with our Boat; but we went up the River side by land some three or four miles, and found the River to enlarge it self: So we returned, leaving it as far as we could see up a long reach running N. E. we judging our selves from the Rivers mouth North near fifty leagues; we returned, viewing the Land on both sides the River, and found as good tracts of land, dry, well wooded, pleasant and delightful as we have seen any where in the world, with great burthen of Grasse on it, the land being very level, with steep banks on both sides the River, and in some places very high, the woods stor'd with abun∣dance of Deer and Turkies every where; we never going on shoar, but saw of each also Partridges great store, Cranes abundance, Comes, which we saw in several places; we heard several Wolves howling in the woods, and saw where they had torn a Deer in pieces. Also in the River we saw great store of Ducks, T
+ile, VVidgeon, and in the woods great flocks of
+
+
+Parrakeeto's; the Timber that the woods afford for the most part consisting of Oaks of four or five sorts, all differing in leaves, but all bearing Akorns very good: we measured many of the Oaks in several pla∣ces, which we found to be in bignesse some tvvo, some three, and others almost four fathoms; in height, before you come to boughs or limbs, forty, fifty, sixty foot, and some more, and those Oaks very common in the upper parts of both Rivers; Also a very tall large Tree of great bignesse, which some do call 
+Cyprus,
+ the right name we know not, growing in Swamps. Likewise Walnut, Birch, Beech, Ma∣ple, Ash, Bay, Willough, Alder and Holly; and in the lowermost parts innumerable of Pines, tall and good for boards or masts, growing for the most part in barren sandy ground, but in some places up the River in good ground, being mixed amongst Oaks and other Timber. We saw several Mulberry∣trees, multitudes of Grape-Vines, and some Grapes which we did eat of. VVe found a very large and good tract of Land on the N. W. side of the River, thin of Timber, except here and there a very great Oak, and full of Grasse, commonly as high as a mans middle, and in many places to his shoulders, where we saw many Deer and Turkies; also one Deer with very large horns, and great in body, therefore called it 
+Stag-Park▪
+ it being a very pleasant and delightful place, we travelled in it several miles, but saw no end thereof. So we returned to our Boat, and pro∣ceeded down the River, and came to another place some twenty five leagues from the Rivers mouth on the same side, where we found a place no lesse delightful than the former▪ and as far as we
+
+
+could judge, both Tracts came into one. This low∣er place we called 
+Rocky-point,
+ because we found ma∣ny Rocks and Stones of several bignesse upon the Land, which is not common. We sent our Boat down the River before us; our selves travelling by Land many miles, were so much taken with the pleasantnesse of the Land, that travelling into the woods so far, we could not recover our Boat and company that night. On 
+Sunday
+ the morrow follow∣ing we got to our Boat, and on 
+Monday
+ the 16th of 
+November,
+ we proceeded down to a place on the East-side of the River some twenty three leagues from the Harbours mouth, which we call'd 
+Turkie-Quarters,
+ because we killed several Turkies there∣abouts. VVe viewed the Land there, and found some tracts of good Land, and high, facing upon the River about one mile inward, but backwards some two miles all Pine-land, but good pasture-ground: we returned to our Boat, and proceeded down some two or three leagues, where we had formerly view∣ed, and found it a tract of as good Land as any we have seen, with as good Timber on it. The banks of the River being high, therefore we called it 
+High-Land Point.
+ Having viewed that, we proceeded down the River, going on shoar in several places on both sides▪ it being generally large Marshes, and many of them dry, that they may more fitly be called Medows: the wood-land against them is for the most part Pine, and in some places as barren as ever we saw Land, but in other places good Pasture▪ground, And on 
+Tuesday
+ the 17th instant, we got aboard our Ship, riding against the mouth of 
+Green
+'s River, where our men are providing wood, and fitting the
+
+
+Ship for the Sea: In the interim, we took some view of the Land on both sides of the River there, finding some good Land, but more bad, and the best not com∣parable to that above. 
+Friday
+ the 20th instant was foul weather, yet in the Afternoon we weighed, and went down the River some two leagues, and came to Anchor against the mouth of 
+Hilton
+'s River, and took some view of the Land there on both sides, which appeared to us much like unto that at 
+Green
+'s River. 
+Monday
+ 23. we went with our Long-boat well victualled and manned up 
+Hilton
+'s River; and when we came three leagues or thereabouts up the said River, we found this and 
+Green
+'s River to come into one, and so continued for four or five leagues, which causeth a great Island betwixt them. We proceeded still up the River, till they parted a∣gain, keeping up 
+Hilton
+'s River on the Lar-board side, and followed the said River five or six leagues further, where we found another large branch of 
+Green
+'s River to come into 
+Hilton
+'s, which maketh another great Island. On the Star-board side going up, we proceeded stil up the River some four leagues, and returned, taking a view of the Land on both sides, and now judge our selves to be from our ship some eighteen leagues 
+W.
+ and by 
+W.
+ One league be∣low this place came four 
+Indians
+ in a Canoa to us, and sold us several baskets of Akorns, which we sa∣tisfied for, and so left them; but one of them follow∣ed us on the shoar some two or three miles, till he came on the top of a high bank, facing on the 
+River,
+ we rowing underneath it, the said 
+Indian
+ shot an Arrow at us, which missed one of our men very nar∣rowly, and stuck in the upper edge of the Boat, which
+
+
+broke in pieces, leaving the head behind. Hereup∣on we presently made to the shoar, and went all up the bank except four to guide the Boat; we searched for the 
+Indian,
+ but could not finde him: At last we heard some sing further in the Woods, which we thought had been as a Chalenge to us to come and fight them. We went towards them with all speed, but before we came in sight of them, we heard two Guns go off from our Boat, whereupon we retreat∣ed with all speed to secure our Boat and Men: when we came to them, we found all well, & demanded the reason of their firing the Guns: they told us that an 
+Indian
+ came creeping on the Bank as they thought to shoot at them, therefore shot at him a great distance with Swan-shot, but thought they did him no hurt, for they saw him run way. Presently after our re∣turn to the Boat, while we were thus talking, came two 
+Indians
+ to us with their Bows and Arrows, cry∣ing 
+Bonny, Bonny:
+ we took their Bows and Arrows from them, and gave them Beads, to their content. Then we led them by the hand to the Boat, and shew∣ed them the Arrow-head sticking in her side, and re∣lated to them the businesse; which when they under∣stood, both of them manifested much sorrow, and made us understand by signes, that they knew no∣thing of it: so we let them go, and marked a Tree on the top of the bank, calling the place 
+Mount-Skerry.
+ We looked up the River as far as we could discern, and saw that it widened it self, and came running directly down the Countrey: So we return∣ed, and viewed the Land on both sides the River, fin∣ding the banks steep in some places, but very high in others. The banks sides are generally Clay, and
+
+
+as some of our company doth affirm, some Marle. The Land and Timber up this River is no way inferi∣our to the best in the other, which we call the main River: So far as we discovered, this seems as fair, if not fairer than the former, and we think runs further into the Countrey, because there is a strong Current comes down, and a great deal more drift-wood. But to return to the business of the Land and Timber: We saw several plats of Ground cleared by the 
+Indi∣ans
+ after their weak manner, compassed round with great Timber-Trees; which they are no ways able to fall, and so keep the Sun from their Corn-fields very much; yet neverthelesse we saw as large Corn-stalks or bigger, than we have seen any where else: So we proceeded down the River, till we found the Canoa the 
+Indian
+ was in who shot at us. In the morn∣ing we went on shoar, and cut the same in pieces: the 
+Indians
+ perceiving us coming towards them, run away. We went to his Hut, and pulled it down, brake his pots, platters, and spoons, tore his Deer∣skins and Mats in pieces, and took away a basket of Akorns: So we proceeded down the River two leagues, or thereabouts, and came to another place of 
+Indians,
+ bought Akorns and some Corn of them, and went downwards two leagues more: at last we espied an 
+Indian
+ peeping over a high bank: we held up a Gun at him; and calling to him, said, 
+Skerry:
+ presently several 
+Indians
+ appeared to us, making great signes of friendship, saying, 
+Bonny, Bonny,
+ and running before us, endeavouring to perswade us to come on shoar; but we answered them with stern countenances, and said, 
+Skerry,
+ taking up our guns, and threatning to shoot at them; but they cryed still
+
+
+
+Bonny, Bonny:
+ And when they saw they could not pre∣vail, nor perswade us to come on shoar, two of them came off to us in a Canoa, one padling with a great Cane, the other with his hand; they came to us, and laid hold of our Boat, sweating and blowing, and told us it was 
+Bonny
+ on shoar, and at last perswa∣ded us to go ashoar with them. As soon as we land∣ed, several 
+Indians,
+ to the number of near forty lusty men, came to us, all in a great sweat, and told us 
+Bonny:
+ we shewed▪ them the Arrow-head in the Boats-side, and a piece of the Canoa which we had cut in pieces: the chief man of them made a large Speech, and threw Beads into our Boat, which is a signe of great love and friendship; and made us to understand, when he heard of the Affront which we had received, it caused him to cry: and now he and his men were come to make peace with us, making signes to us that they would tye his Arms, and cut off his head that had done us that abuse; and for a further testimony of their love and good will towards us, they presented to us two very handsom propet young 
+Indian
+ women, the tallest that we have seen in this Countrey; which we supposed to be the Kings Daughters, or persons of some great account amongst them. These young women were ready to come into our Boat; one of them crouding in, was hardly per∣swaded to go out again. We presented to the King a Hatchet and several Beads, also Beads to the young women and to the chief men, and to the rest of the 
+Indians,
+ as far as our Beads would go: they promi∣sed us in four days to come on board our Ship, and so departed from us. When we left the place, which
+
+
+was presently, we called it 
+Mount-Bonny,
+ because we had there concluded a firm Peace. Proceeding down the River two or three leagues further, we came to a place where were nine or ten Canoa's all together; we went ashoar there, and found several 
+Indians,
+ but most of them were the same which had made Peace with us before: We made little stay there, but went directly down the River, and came to our Ship before day. 
+Thursday
+ the 26th of 
+No∣vember,
+ the winde being at South, we could not go down to the Rivers mouth: but on 
+Friday
+ the 27th, we weighed at the mouth of 
+Hilton
+'s River, and got down one league towards the Harbours mouth. On 
+Sunday
+ the 29th, we got down to 
+Crane-Island,
+ which is four leagues or thereabouts above the Entrance of the Harbours mouth. Now on 
+Tuesday
+ the first of 
+December,
+ we made a purchase of the River and land of 
+Cape-Fair,
+ of 
+Wattcoosa,
+ and such other 
+Indians
+ as appeared to us to be the chief of those parts: they brought us store of Fresh-fish aboard, as Mullets, Shads, and other very good Fish: this River is all Fresh-water fit to drink. Some eight leagues within the mouth, the Tide runs up about thirty five leagues, but stops and riseth a great deal farther up; it flowes at the Harbours mouth S. E. and N. W. six foot as Neap-Tides, and eight foot at Spring-Tides: the Chanel on the Easter-side by the 
+Cape-shoar
+ is the best, and lyes close aboard the 
+Cape-land,
+ being three fathoms at High-water, in the shallowest place in the Chanel just at the Entrance; but as soon as you are past that place half a Cables length inward, you shall have six or seven fathoms, a fair turning Cha∣nel into the River, and so continuing four or five
+
+
+leagues upwards; afterwards the Chanel is more difficult in some places six or seven fathoms, four or five, and in other places but nine or ten foot, e∣specially where the River is broad. When the River comes to part, and grows narrow, there is all Cha∣nel from side to side in most places; in some places you shall have five, six, or seven fathoms, but ge∣nerally two or three, Sand and Oaze. We viewed the Cape-land, and judged it to be little worth, the Woods of it shrubby and low, the Land sandy and barren; in some places Grass and Rushes, and in other places nothing but clear sand: a place fitter to starve Cattel in our judgement, then to keep them alive; yet the 
+Indians,
+ as we understand, keep the 
+English
+ Cattle down there, and suffer them not to go off the said Cape, as we suppose, because the Countrey-
+Indians
+ shall have to part with them, and as we think, are fallen out about them, who shall have the greatest share. They brought aboard our Ship very good and fat Beef several times, which they could afford very reasonable; also fat and very large Swine, good cheap penny-worths: but they may thank their friends of 
+New-England,
+ who brought their Hogs to so fair a Market. Some of the 
+Indians
+ brought very good Salt aboard us, and made signes, pointing to both sides of the Rivers mouth, that there was great store thereabouts. We saw up the River several good places for the setting up of Corn or Saw-mills. In that time as our businesse called us up and down the River and Branches, we kill'd of wild∣fowl, four Swans, ten Geese, twenty nine Cranes, ten Turkies, forty Duck and Mallard, three dozen of Parrakeeto's, and six or seven dozen of other small Fowls, as Curlues and Plovers, &c.
+
+
+
+VVHereas there was a Writing left in a Post at the Point of 
+Cape-Fair
+ River, by those 
+New-England
+-men that left Cattel with the 
+Indians
+ there, the Contents whereof tended not on∣ly to the disparagement of the Land about the said River, but also to the great discouragement of all those that should hereafter come into those Parts to settle: In Answer to that scandalous writing, We whose names are under-written do affirm, That we have seen facing on both sides of the River, and branches of 
+Cape-Fair
+ aforesaid, as good Land, and as well Timbred, as any we have seen in any other part of the world, sufficient to accommodate thousands of our 
+English
+ Nation, lying commodiously by the said River.
+
+
+On 
+Friday
+ the 4th of 
+December,
+ the winde being fair, we put out to Sea, bound for 
+Barbadoes;
+ and on the 6th day of 
+January,
+ 1663/4, we came to Anchor in 
+Carlisle
+-Bay; and after several known apparent dangers both by Sea and Land, have now brought us all in safety to our long-wish'd-for and much desi∣red Port, to render an Accompt of our Discovery, the verity of which we aver.
+
+
+ 
+
+
+Anthony Long.
+
+
+William Hilton.
+
+
+Peter Fabian.
+
+
+
+
+
+
+
+
+
+
+A Copy of the 
+Spanyard
+'s first Letter.
+
+
+I Am come to this Town of Infidel-
+Indians,
+ to seek some 
+English,
+ which my Governour and Captain-General, 
+Don Alonso de Arangows, de Colis,
+ Cavallier, and Knight of the Order of St. 
+James,
+ for his Majesty, had notice that there was a Ship lost in that Port in which you are, that the men might not run any hazard of their lives, as those with me here have. 
+Don Adeleyers,
+ with the Governor of the Garison of S. 
+Augustine,
+ are gone to ransome and free the Subjects of the King your Ma∣ster, 
+CHARLES
+ the Second: Wherefore I advise you, that if these 
+Indians
+ (although Infidels and 
+Bar∣barians)
+ have not killed any of the Christians, and do require as a gift or courtesie for those four men, four Spades, and four Axes, some Knives, and some Beads, and the four 
+Indians
+ which you have there, you de∣liver them, and that for their sakes that shall sayl on this Coast: you may send a Boat, who when she comes athwart the Port of St. 
+Ellens,
+ may hoist an Ancient twice or thrice, and I will do the same. The shortnesse of the dispatch I desire, for I want pro∣vision for my Soldiers, and the way is large. Your Servant desires you would give me a speedy Answer; and what may be done in your service, I shall do very willingly: And if you have none that can in∣terpret the 
+Spanish
+ Tongue, you may write in your own, for here are your Countrey-men that can un∣derstand it: but if you can, let it be in 
+Spanish.
+
+
+From the Capt. 
+Alanso Argucles.
+ From St. 
+Ellens
+ 
+the
+ 22 
+of
+ Sep∣temb. 1663.
+
+
+
+
+
+
+
+
+The Copies of our Letters sent to the ENGLISH and SPANIARDS at St. 
+Ellens,
+ with the Answer of Mr. 
+William Davis,
+ and the 
+Spaniards
+ also, here inclo∣sed.
+
+
+Loving Friends and Country-men,
+
+
+VVEe are come up the River with our Ship, and are resolved to come through by 
+Combiheh,
+ to St. 
+Ellens,
+ and to get you away by fair means, or otherways. If that will not do, we have five of your company already: and the Captain of 
+Edistow,
+ and one more are Prisoners with us, whom we intend to keep till we have res∣cued all the 
+English
+ Prisoners out of the hands of the 
+Indians.
+ Send us word by this Bearer what you know concerning the 
+Spanyards;
+ for the youth 
+Mor∣gan
+ tells us, that the 
+Spanyards
+ are come with Soldiers to fetch you away. Fail not to inform us how things are. Nothing else at present, but remain
+
+
+Your friend and Servant WILL, HILTON.
+
+
+From on Board the 
+Adventure,
+ 
+Septemb.
+ 21. 1663.
+
+
+
+
+
+
+
+
+An Answer to the 
+Spanyards
+ Letter not understood.
+
+
+Honoured Sir,
+
+
+WHereas wee received a Letter from you the Contents whereof we understand not, because none of us could read 
+Spanish:
+ Our businesse is to demand and receive the 
+English
+ Prisoners from the hands of the 
+Indians,
+ and then they shall have their 
+Indians
+ which we have detained on Board, with satisfaction for their pains. We understand not at present that we have any businesse with you. Not else at present, but remain
+
+
+Your Friend and Servant in what I may, WILL. HILTON.
+
+
+From on Board the 
+Adventure,
+ 
+Septemb.
+ 23. 1663.
+
+
+
+
+To his honoured Friend the 
+Spanish
+ Captain at St. 
+Ellens.
+
+
+
+
+
+
+
+
+
+
+An Answer to Mr. 
+William Davis
+ his Lines written 
+ the 
+Spanyard's
+ Letter, 
+Viz.
+
+
+Mr.
+ William Davis,
+
+
+WEe received your Lines in the 
+Spanish
+ Let∣ter, but hear nothing of your coming to us▪ Let your Keepers send you, and that without delay; for you may assure them, That we will be gone, and carry the 
+Indians
+ away with us, except they send the 
+English
+ suddenly on Board, and then they shall have their 
+Indians
+ upon our receipt of the 
+English.
+ Not else at present, but thank the 
+Spanish
+ Captain for the Pork and Venison he sent us. Remain
+
+
+Your loving Friend WILL. HILTON.
+
+
+From on Board the 
+Adventure,
+ 
+September
+ 24. 1663.
+
+
+
+
+To Mr.
+ William Davis 
+at
+ St. Ellens:
+
+
+
+
+
+
+
+
+
+
+SIR,
+
+
+WEe have received your second Letter▪ and give you no Answer, for the Reason men∣tioned in our former Letter to you. Please to inform the 
+Indians,
+ That if they bring not the 
+English
+ Prisoners on Board us without fur∣ther delay, we are resolved to carry their 
+Indians
+ we have on Board away: But if they will bring the 
+English,
+ they shall have theirs, with satisfaction. Also we thank you for your Venison and Pork. Not else at present, but remain
+
+
+SIR,
+
+
+Your Friend and Servant in what I may WILL. HILTON.
+
+
+From on Board the 
+Adventure
+ 
+Septemb.
+ 24. 1663.
+
+
+
+
+To his Honoured Friend, the 
+Spanish
+ Captain at St. 
+Ellens.
+
+
+
+
+
+
+
+
+
+
+A Copy of the 
+Spanyard
+'s second Letter.
+
+
+MY Governour and Capt. General, as soon as he had News that a Ship, by Nation 
+English,
+ was lost in that Port in which you now are, sent me with Soldiers of the Garison of St. 
+Augustine
+ in 
+Flo∣rida,
+ as they have at other times done, to free them from death; for which cause I came to this Port of St. 
+Ellens,
+ where I found all these 
+Indians
+ in a fright, fearing that you will do them some mis∣chief: So having found four men of those that were lost, I thought good to advise you, that you might carry them in your company, giving some gifts to those 
+Indians
+ which they desire; which is, four Spades, four Axes, some Knives, and some Beads. This they desire, not as payment, but onely as an acknowledgment of a kindness for having saved their lives; which they have always done as Naturals who have given their obedience to the King our Ma∣ster. And they do also desire you to let go those four 
+Indians
+ which are there: You may send a Boat when you discover the Points of St. 
+Ellens;
+ may hoist an Ancient two or three times, and I will do the same. I desire your Answer may be sodain; for I am scarce of Provisions, and the way is somewhat long: and if you have no body who understands 
+Spanish,
+ you may write in 
+English,
+ for here are your Countrey∣men who will interpret it.
+
+
+By the Captain 
+Alanso Arguiles.
+
+
+From St. 
+Ellens,
+ 
+Septemb.
+ 23. 1663.
+
+
+
+
+
+
+
+
+Proposals made to all such Persons as shall undertake to become the first Set∣lers on Rivers, Harbours, or Creeks, whose Mouth or Entrance is Southwards or Westwards of Cape St. 
+Romana
+ in the Province of 
+Carolina,
+ and execute the same at their own hazard and charge of Transportation, Ammunition, and Pro∣vision, as is hereafter expressed, &c.
+
+
+
+
+I.
+
+
+IMprimis,
+ It is agreed and consented to by us 
+Tho∣mas Mudyford,
+ and 
+Peter Colleton,
+ Esquires, who are impowered by the Lords Proprietors to treat in their behalf; That in consideration of the good service which Captain 
+Anthony Long,
+ Captain 
+William Hilton,
+ and Mr. 
+Peter Fabian
+ have done in making so clear a Discovery on that Coast, They shall each of them enjoy to them and their Heirs for ever one thousand Acres of Land apiece upon the said River, Harbour, or Creeks, on such places as they shall desire, not taken up before.
+
+
+
+
+
+
+II.
+
+
+Item,
+ To Master 
+Pyam Blowers,
+ and Master 
+John
+
+
+
+
+Hancock,
+ five hundred Acres apiece, in manner as 
+ Ship, one hundred Acres apiece in manner as aforesaid.
+
+
+
+
+
+
+ Item, 
+ Ship, one hundred Acres apiece in manner as aforesaid.
+
+
+
+
+
+
+IV.
+
+
+Item,
+ 
+ every person that hath subscribed and paid, or hath subscribed and shall pay within two moneths next af∣ter the Date hereof, unto the Treasurer appointed by the Committee for defraying the Charge of the 
+ Discovery, and towards the publique Stock, five hundred: Acres of Land, besides what they are otherwayes to receive and en∣joy each▪ for every thousand pounds of Sugar, and so for greater or lesser quantity proportionably, to possesse and en∣joy the same in manner as aforesaid▪ the said Adventu∣rers having promised, That the severall and respective Persons above-intended, shall within five years next en∣suing, have one Person white or black, young or 
+ transported at their Charge as aforesaid, on that or 
+ other parcel of Land in the Province, for every hundred of Acres of Land that is or shall be due to them for their ad∣ventures as aforesaid: But when once taken up, to settle the same within one year after it is once taken up, or lose the Land.
+
+
+
+
+
+
+V.
+
+
+Item,
+ To every Person that goes, or sends an Agent at his or their own cost with the first Ship or Fleet, or within six weeks next after the first Ship or Fleet that shall be set out from this Island (none to be accompted as first Setters
+
+
+but such as do send in the first Fleet) Armed with a good Fire-lock, ten pounds of Powder, and twenty pounds of Bullet, or Lead, and Victualled for six moneths, shall have one hundred Acres of Land, and the like quantity of Acres for every Man servant that he carrieth so armed and provided, to the person at whose charge they shall be trans∣ported as aforesaid.
+
+
+
+
+
+
+VI.
+
+
+Item,
+ To every person that shall second the first under∣takers, that is to say, shall go within two months went af∣ter those that are accompted as first Setlers, armed and provided as aforesaid, seventy Acres of Land, and se∣venty Acres for every Man-servant that he or they shall carry or send Armed and provided as aforesaid.
+
+
+
+
+
+
+VII.
+
+
+Item,
+ To every person provided as aforesaid, that shall go within two years after the first Undertakers, fifty Acres of Land, and as much to him or them for every Man-servant he or they shall carry or send, armed and pro∣vided as aforesaid.
+
+
+
+
+
+
+VIII.
+
+
+Item,
+ To every Free-woman above the age of twelve years, that shall go, or be carried thither within the first five years, forty Acres of Land.
+
+
+
+
+
+
+IX.
+
+
+Item,
+ To all Male-Children above the age of fourteen
+
+
+years▪ the same quantity that is allowed to Free-men, and on the same Conditions.
+
+
+
+
+
+
+X.
+
+
+Item,
+ The Lords Proprietors will grant unto every Pa∣rish one hundred Acres of Land for the Church and other publique uses.
+
+
+
+
+
+
+XI.
+
+
+Item,
+ To every person that hath subscribed, and shall pay to the above mentioned Discovery, who shall go or send an Agent within the first five years next after the first Set∣lers, forty Acres of Land; and as much to them for every Man-servant they shall carry or send within that time arm∣ed and provided as aforesaid, and the like quantity for all others so transporting themselves or servants within the first three years, who are not Subscribers.
+
+
+
+
+
+
+XII.
+
+
+Item,
+ To every Man-servant that shall go with the first Undertakers, fifty Acres of Land; and to such as go with the second Adventurers thirty Acres, and for all other ser∣vants that shall go within the first five years, twenty Acres, and for every Woman-servant ten Acres, to become due at the Expiration of the first Term of their servitude in that Countrey.
+
+
+
+
+
+
+XIII▪
+
+
+Item,
+ To the Owner of every Negro-Man or Slave, brought thither to settle within the first year, twenty acres; and for every Woman-Negro or Slave, ten acres of Land; and all Men-Negro's, or slaves after that time, and within the first five years, ten acres, and for every Woman-Negro or slave, five acres.
+
+
+
+
+
+
+
+
+XIV.
+
+
+Item,
+ That all the before-mentioned parcels of Land given, or to be given, allotted or granted to any person or persons whatsoever, shall be held and enjoyed to them, their Heirs and Assigns for ever, in free and common Soc∣cage, according to the Tenure of 
+East▪Greenwich
+ within the County of 
+Kent,
+ within the Kingdom of 
+England
+ (and not in 
+Capite,
+ or by 
+Knights-service)
+ paying as a fine once for all to the Lords Proprietors, or their Agents im∣powered to receive the same, one half-peny 
+per acre
+ for every Acre of Land that is or shall be taken up as aforesaid, or the value of the said half-peny 
+per Acre,
+ when the per∣son who is to receive it shall receive his Deed or Copy of Re∣cord for his Land so taken up; and in lieu of all, and all manner of Rents, Services, Fines, Taxes and Imposi∣tions whatsoever, one ear of 
+Indian
+ Corn for every hun∣dred acres of Land so taken up, at a certain time and place prescribed, if lawfully demanded.
+
+
+
+
+
+
+XV.
+
+
+Item,
+ It is further agreed, That every person shall or may take up their Land, or any part thereof, where they please, in any place not before taken up: 
+Provided
+ they do therein submit to such Method as the Governor and Council for the time being shall judge most safe and conve∣nient.
+
+
+
+
+
+
+XVI.
+
+
+Item,
+ That the Lords▪ Proprietors shall grant to the Free-Holders the Priviledge of choosing an annual Assem∣bly, wherein by the consent of the said Lords, or their Delegates, they shall be impowered to make Lawes, and
+
+
+them confirm, publish, and abrogate, as in the great Charter is expressed; and that the Assembly may lawfully, without the consent of the Governour, complain to the said Lords of such Grievances as lye upon the People.
+
+
+
+
+
+
+XVII.
+
+
+Item,
+ That for asmuch as the Lords Proprietors or their Delegates may not be at all times there present, to consent to such Lawes as are or shall be thought necessary; In such Case all Lawes and Orders made by the Governour, Council and Assembly, shall be in forte untill the Denyal thereof by the Lords Proprietors shall be to them signified under their Hands in Writing.
+
+
+
+
+
+
+XVIII.
+
+
+Item,
+ That the said Free-Holders shall have the free∣dome of Trade, Immunity of Customes, and Liberty of Conscience, and all other Priviledges made good unto them as amply and as fully as is at large expressed in the great Charter granted to the said Lords Proprietors from His Majesty.
+
+
+
+
+FINIS,
+
+
+
+
+
+
+
+
+
+
+

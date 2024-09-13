@@ -1,0 +1,183 @@
+Reasons humbly offered, for not doubling the subsidy on tobacco from Virginia and Maryland, &c.
+Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A58255
+
+
+
+
+Wing R537D
+
+
+
+ESTC N48523
+
+
+
+
+
+99834792
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Reasons humbly offered, for not doubling the subsidy on tobacco from Virginia and Maryland, &c.
+2 p.   
+
+
+[London?,
+
+
+s.n.,
+
+
+1720?]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+2013-10
+TCP
+Assigned for keying and markup
+2013-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Kate Allen
+Sampled and proofread
+2013-11
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+R537D
+
+
+N48523
+
+
+99834792
+
+
+39329
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REASONS Humbly Offered, 
+For not Doubling the Subsidy on
+ Tobacco 
+from
+ Virginia 
+and
+ Maryland, 
+&c.
+
+
+THat the laying such additional Subsidy on Tobacco of 1 d. 
+per
+ Pound, above the 5 
+d.
+ already laid by Act of Parliament, will become a great Injury to the Trade of this Kingdom, and to the Plantations of 
+Virginia
+ and 
+Maryland.
+
+
+I. Because thereby it will be advanced to Forreign Markets, which will gradually bring the Trade of our Plantations out of use, by the planting it in 
+Europe,
+ it being evident that the affording our Plan∣tations Tobacco cheap, is a considerable Occasion and Support of our Trade to 
+Holland
+ and the 
+Baltick Seas,
+ the great Expence of Tobacco being amongst the poorer sort of People. Besides, 'tis evident, to all that know 
+Holland
+ and other parts adjoyning as 
+Gelderland, Ʋtricb, Hanover, Brabant,
+ and several other Parts of 
+Germany,
+ plant great Quantity of Tobacco yearly, computed to be of equal Quantity with either of the Provinces of 
+Virginia
+ or 
+Maryland,
+ and would sooner enlarge their Planting if made dearer by Law.
+
+
+II. Besides, such Duties may occasion others in Forreign Parts, to add greater Duty on our Plantation Tobacco, to encourage their own Growth, which hitherto they have not done.
+
+
+III. It will occasion the lessning the Consumption by its dearness, because the poorest sort of labouring People are the greatest Con∣sumers, besides the debauchery by Stalks, and otherwise used to make it cheap.
+
+
+IV. Such great Duty will occasion great Quantities to be run on Shore, and smugled in many Out ports and Creaks of the King∣dom, to the Ruine of those that shall pay the Duty, and to the Destruction of fair Traders.
+
+
+V. It will also swell the Duty to such a great Summ, that the Traders in it will not be able to advance it, nor will it be worth any Man's doing it, because that the Interest of the Money that must redeem the Goods, will in Value exceed the Principle of the Goods; so that thereby the Plantations will inevitably be discouraged.
+
+
+VI. And further the Hazards of Debts contracted by Sale of Tobacco, will be so great, that no Man will trade in it, when
+
+the Merchants must give Credit for eight times the Value of his Principle by Custom, Fraight and Charges, by which means all Merchandize will be discouraged.
+
+
+VII. It will also hereby greatly abate the Navigation to those Plantations, to the Prejudice of this Nation, which employs 200 Sail of Ships at least yearly in it.
+
+
+VIII. It will also abate the Consumption of the Manufactures of this Kingdom, on which those Plantations have hitherto depend∣ed, and have in this particular been more useful to this Nation than any Plantations of his Kingdom whatever, and that while Laws are making to encourage the Wooling Manufactory, this wholly discourages it as to those Plantations.
+
+
+IX. It will engage the Planter to leave off planting Tobacco, and fall in to Manufactories, and to plant Cotten-wool, Hemp and Flax, and breed up Sheep for their Cloathing, which hath in some measure been already attempted, finding that their La∣bour in making Tobacco could not cover their Nakedness. And being once put upon that thoughtfulness, will in a manner dissolve the Trade in Tobacco, so useful to our Commerce at home and abroad.
+
+
+X. This heavy Duty will wholly take off the Affections of those Plantations from 
+England,
+ to see themselves charged twenty times higher in this Duty than any their Neighbouring Plan∣tations for their Growth, which is more profitable to them than Tobacco is to 
+Virginia
+ and 
+Maryland.
+
+
+XI. And its by late Experience found, that the Import of 3 d. 
+per
+ Pound, hath so affected the Planter, that several Counties in 
+Virginia
+ and 
+Maryland
+ have abated the planting Tobacco, and fallen into Manufactories of both Linnen and Woollen, to such a degree, as to give some Supply to their Neighbouring Coun∣ties, and Wool which was four or five Years ago useless to them, is now fought after and bought up for 12 d.
+per
+ Pound.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,231 @@
+An Account of the state of the French fleet their number of men of war & fireships, and the fortifications that [they] are making on their coast for fear of an invasion from England / in a letter from a French merchant at St. Martins, to his friend at London, July 9, New Stile, 1689.
+Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A25991
+
+
+
+
+Wing A393
+
+
+
+ESTC R9465
+
+
+
+
+
+ocm 11665604
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An Account of the state of the French fleet their number of men of war & fireships, and the fortifications that [they] are making on their coast for fear of an invasion from England / in a letter from a French merchant at St. Martins, to his friend at London, July 9, New Stile, 1689.
+1 sheet ([2] p.)   
+
+
+London :
+
+
+Printed for H. Jones,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+France. --  Marine --  Defenses.
+Broadsides --  England --  17th century.
+2012-05
+TCP
+Assigned for keying and markup
+2012-06
+SPi Global
+Keyed and coded from ProQuest page images
+2012-07
+Pip Willcox
+Sampled and proofread
+2012-07
+Pip Willcox
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+A393
+
+
+R9465
+
+
+11665604
+
+
+48020
+
+
+
+
+
+
+
+
+
+
+
+
+AN ACCOUNT Of the State of The French Fleet, Their Number of Men of War & Fireships, And the Fortifications that are making on their Coast, For fear of an 
+Invasion from England.
+ In a LETTER from a French Merchant at St. 
+Martins,
+ to his Friend at 
+London, July
+ 9. New Stile. 1689.
+
+
+
+
+Licensed,
+ 
+July 12. 1689.
+
+
+
+
+SIR,
+
+
+OUR Fortifications are almost finished, all the Platforms in the Cittadel, as well as those of the City, are all in a good Posture, with a good Garrison.
+
+
+Yesterday arrived in this Road a Bark from 
+Brest,
+ where she hath left our Fleet in that Bay or Road, con∣sisting of Forty Two great Ships, besides small Frigats, and Twenty Five Fire-ships; and we are fitting still else-where; but how they will be provided with a sufficient number of Sea-men to man them, I cannot tell.
+
+
+Monsieur 
+De Tourville,
+ the Thirteenth past, Sailed from 
+Thoulon
+ with Twenty Two Sail of Capital Ships, and Eight Fire-ships, and is every day expected at 
+Brest.
+
+
+The Mareschal 
+D'Estrees
+ is at 
+Brest,
+ and is to go on Board the Fleet, intending to Sail the Fifteenth, to seek out the 
+English
+ and 
+Dutch
+ Fleets, in order to Fight them: So that we are in expectation to hear of a bloody Engagement. But others say, that Monsieur 
+De Seignaly
+ goes on Board himself to Command, and not Mareschal 
+D' Estrees.
+
+
+We have no Ships left at 
+Rochefort
+ (all are fitted out that were there) except one Fire-ship, which waits for a Wind, and some Fly-boats, who have Four or Five Hundred Men on Board them, for the use of the Fleet.
+
+
+
+
+I was at 
+Rochel
+ Four or Five Days ago, and viewed all the Fortifi∣cations of that Place, which are very forward, and in a posture of De∣fence. They have destroyed many Families there, as well as here, by pulling their Houses down to the Ground; that are near the Walls.
+
+
+We build a Fort at 
+Bloody-Point,
+ which is also in a great forward∣ness; and we talk of building a great one at the 
+Martreay,
+ and other Fortifications about the Gates. But I see no likelihood of fear this Summer.
+
+
+They have caused to march within this Five or Six Days from 
+Rochel,
+ towards 
+Saumeure,
+ Five or Six Thousand Men, and brought in their room some new Souldiers, raised by the Parishes, within this Three or Four Months, who are to be Disciplined, and supply their Places in the Garrison.
+
+
+The Fortifications of 
+Oleroon
+ are finished, and they have pulled down all the Houses in the Castle.
+
+
+They work likewise very hard upon the Fortifications at 
+Brouage, Rochfort,
+ and the 
+Sheath,
+ which is the entrance of the River of 
+Sher∣rant.
+
+
+A Bark is arrived in 
+Brittany
+ since the Twenty Third past, from 
+Ireland,
+ which brings Advice, That 
+London Derry
+ holds out still, to our great admiration, that it hath not been relieved or taken all this while.
+
+
+If once our Fleet returns into our Ports, it will be very difficult to put it to Sea again: For all things are wanting at 
+Rochefort,
+ and the Stores as empty as a 
+Tennis-Court.
+ And it's said it is the same at 
+Brest.
+
+
+The Rendevouz of all the 
+French
+ Fleet is design'd to be at 
+Belle Isle,
+ not far from the mouth of the 
+Loire
+ in 
+Brittany.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+LONDON:
+ Printed for 
+H. Jones.
+ MDCLXXXIX.
+
+
+
+
+
+
+
+
+

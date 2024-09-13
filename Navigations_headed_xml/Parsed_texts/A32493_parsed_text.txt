@@ -1,0 +1,148 @@
+By the King, a proclamation for recalling and prohibiting seamen from serving of forein princes and states
+England and Wales. Sovereign (1660-1685 : Charles II)
+Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A32493
+
+
+
+
+Wing C3407
+
+
+
+ESTC R222758
+
+
+
+
+
+ocm 15565758
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the King, a proclamation for recalling and prohibiting seamen from serving of forein princes and states
+England and Wales. Sovereign (1660-1685 : Charles II)
+Charles II, King of England, 1630-1685.
+1 broadside.   
+
+
+London :
+
+
+Printed by John Bill, Christopher Barker, Thomas Newcomb, and Henry Hills ...,
+
+
+1677/8 [i.e. 1678]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Great Britain --  History, Naval --  Stuarts, 1603-1714.
+Great Britain --  History --  Charles II, 1660-1685.
+2013-08
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Olivia Bottum
+Sampled and proofread
+2013-11
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+C3407
+
+
+R222758
+
+
+15565758
+
+
+103845
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ · MAL · Y · 
+
+
+DIEV ET MON · DRO
+
+
+ By the King. A PROCLAMATION For Recalling and Prohibiting Seamen from Serving of Forein Princes and States.
+
+
+CHARLES R.
+
+
+T
+He Kings most Excellent Majesty having beén advertised, That great numbers of Mariners, and other Sea-faring men, His Majesties na∣tural born Subjects, have betaken themselves to the Service of Fo∣rein Princes and States, to the great disservice of His Majesty and this Kingdom, and whereby His Majesty and this Kingdom are un∣furnished of men of their sort and Calling: Therefore for redress there∣of for the present, and preventing the like for the future, The Kings most Excellent Majesty, by this His Royal Proclamation (with the Advice of His Privy Council) doth Strictly Charge and Command all Masters of Ships, Pilots, Mariners, Seamen, and other Sea-faring men whatsoever, and wheresoever, (being His Majesties natural born Subjects) who are in the Service of any Forein Prince or State, or do Service in any Forein Ships or Vessels, that forthwith they, and every of them, do withdraw themselves, and depart from such Foreign Servi∣ces, and return home to their native Countreys. And further, His Majesty doth hereby Strictly Prohibit and Forbid all Masters of Ships, Pilots, Mariners, Sea∣men, and other Sea-faring men whatsoever (being His Majesties natural born Sub∣jects) from Entring themselves; And doth hereby Strictly Charge and Command them and every of them, from henceforth to forbear to Enter themselves into Pay,
+
+ or otherwise betake themselves to the Service of any Forein Princes or States, or to Serve in any Forein Ship or Vessel, without His Majesties Special Licence first had and obtained in that behalf: To all which His Majesty doth and will expect due Obedience and exact Conformity; And doth hereby Publish and De∣clare, That the Offenders to the contrary shall not only incur His Majesties just Displeasure, but be Proceéded against for their Contempt, according to the utmost Severities of Law. And further, His Majesty doth hereby Authorize and Com∣mand all His Officers and Ministers in his respective Ports, and all Captains, Masters, and other Officers serving and imployed in any of His Majesties Ships or Vessels at Sea, to Stop and make Stay of all such person and persons as shall endeavor to Transport or Enter themselves into the Service of any Forein Prince or State, contrary to the true intent and meaning of this His Majesties Royal Proclamation, and also Seize upon, Take, and bring away all such Ma∣riners, Seamen, and other Persons aforesaid, as shall be found to be Employed, or Serving in any Ships or Vessels belonging to any Forein Prince or State, or to any Merchant, or other Person or Persons, other then to His Majesty or His Subjects.
+
+
+Given at Our Court at 
+Whitehall,
+
+
+the Three and twentieth day of 
+March
+ 1677/8. In the Thirtieth year of Our Reign.
+
+
+God save the King.
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed by 
+John Bill, Christopher Barker, Thomas Newcomb,
+ and 
+Henry Hills,
+ Printers to the Kings most Excellent Majesty. 1677/8.
+
+
+
+
+
+
+
+
+

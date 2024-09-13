@@ -1,0 +1,4058 @@
+The famous tragedie of King Charles I basely butchered by those who are, omne nesas proni patare pudoris inanes crudeles, violenti, importunique tyranni mendaces, falsi, perversi, perfidiosi, fædifragi, falsis verbis infunda loquentes in which is included, the several combinations and machinations that brought that incomparable Prince to the block, the overtures hapning at the famous seige of Colchester, the tragicall fals of Sir Charls Lucas and Sir George Lisle, the just reward of the leveller Rainsborough, Hamilton and Bailies trecheries, in delivering the late Scottish army into the hands of Cromwell, and the designe the rebels have, to destroy the royal posterity.
+Approx. 92 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A40857
+
+
+
+
+Wing F384
+
+
+
+ESTC R3816
+
+
+
+
+
+ocm 11791246
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The famous tragedie of King Charles I basely butchered by those who are, omne nesas proni patare pudoris inanes crudeles, violenti, importunique tyranni mendaces, falsi, perversi, perfidiosi, fædifragi, falsis verbis infunda loquentes in which is included, the several combinations and machinations that brought that incomparable Prince to the block, the overtures hapning at the famous seige of Colchester, the tragicall fals of Sir Charls Lucas and Sir George Lisle, the just reward of the leveller Rainsborough, Hamilton and Bailies trecheries, in delivering the late Scottish army into the hands of Cromwell, and the designe the rebels have, to destroy the royal posterity.
+[8], 43 p.   
+
+
+[London? :
+
+
+s.n.],
+
+
+1649.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Charles --  I, --  King of England, 1600-1649 --  Drama.
+Great Britain --  History --  Civil War, 1642-1649 --  Drama.
+2012-08
+TCP
+Assigned for keying and markup
+2012-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-01
+Jayanthi Reddy
+Sampled and proofread
+2013-01
+Jayanthi Reddy
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+F384
+
+
+R3816
+
+
+11791246
+
+
+49209
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE FAMOUS TRAGEDIE OF King Charles I.
+
+
+Basely BUTCHERED by those who are,
+
+
+Omne nefas proni patare pudoris inanes
+
+
+Crudeles, violenti, Importunique tyranni
+
+
+Mendaces, falsi, perversi, perfidiosi,
+
+
+Faedifragi, falsis verbis infunda loquentes.
+
+
+IN WHICH IS INCLUDED, The several Combinations and machinations that brought that incomparable PRINCE to the Block, the overtures hapning at the famous Seige of 
+Col∣chester,
+ the Tragicall fals of Sir 
+Charls Lucas
+ and Sir 
+George Lisle,
+ the just reward of the Level∣ler 
+Rainsborough, Hamilton
+ and 
+Bailies
+ Treche∣ries, In delivering the late 
+Scottish
+ Army into the hands of 
+Cromwell,
+ and the designe the Rebels have, to destroy the 
+ROYAL POSTERITY.
+
+
+Printed in the Year, 1649.
+
+
+
+
+
+
+
+
+
+
+To the Sacred MAJESTIE OF Great 
+Britain, France
+ and 
+Ireland,
+ KING 
+CHARLS
+ II.
+
+
+May it please Your Majesty,
+
+
+
+
+I.
+
+
+STerne Fates permitted, Your Great Syre to fall
+
+
+By those (who at the first) disguiz'd their ends
+
+
+With specious showes, and have procur'd our thrall
+
+
+Like holy miscreants, and Religious Fiends,
+
+
+By a most pious trick, have slav'd us all
+
+
+To Death, an Hell, till 
+Jove
+ his mission sends
+
+
+By 
+Michal's
+ hand, to Thee Great 
+Charls
+ His Heire
+
+
+To Redeeme us, and fill the Regall Chaire.
+
+
+
+
+
+
+II.
+
+
+The depth of their Designe, was hatch'd in Hell
+
+
+From the first houre, Your Father warm'd his Seate;
+
+
+So that even 
+Infants
+ now can prattle well
+
+
+Twenty years since (in thought they were as great
+
+
+
+
+As now they are) and (O most strange) to tell
+
+
+Had taken Oathes, their Machine, to compleat
+
+
+Or sinke in the attempt, though to the 
+Nation
+
+
+It seem'd, they nothing sought, but 
+Reformation.
+
+
+
+
+
+
+III.
+
+
+O 
+Reformation
+ dire, that kils our King,
+
+
+Doth both invert, and subvert, Discipline;
+
+
+Vacates all Law, each private man doth bring
+
+
+(For fear) to countenance, their damn'd Designe.
+
+
+Propriety, Great 
+Britains
+ Gimiel KING
+
+
+Taken away, while Treason in a line
+
+
+Like the plague takes, and the damn'd Faction grows
+
+
+Great in that Tribe, in which at first it rose.
+
+
+
+
+
+
+IV.
+
+
+Our Goods and Lives, we forfeit at their wils
+
+
+Our Noble 
+Heros,
+ do by dozens fall;
+
+
+The Loyall Gentry, grief, or Prisons kils;
+
+
+The People each day rob'd and spoil'd of all,
+
+
+While those 
+Plebeians,
+ who procure our ills
+
+
+Feed high, sleep soft, have Kingdomes at their cals.
+
+
+Strange revolution, O accurst mutation
+
+
+That appoints 
+Coblers
+ for to rule a 
+Nation.
+
+
+
+
+
+
+V.
+
+
+But sure (Great Prince) thou oft hast laugh'd aloud
+
+
+To cogitate, what their 
+ambition
+
+
+Hath brought them to, who now are grown so proud
+
+
+As (fearlesse of thy strength, and their condition)
+
+
+As to proclaime Thee Traytor, midst the crowd
+
+
+And to divulge, their Trayterous prohibition
+
+
+If thou returne, for to regaine thy right
+
+
+Thou must expect to perish by their spight.
+
+
+
+
+
+
+
+
+VI.
+
+
+Summon all Nations, to thy speedy aide,
+
+
+Search from the 
+Orient
+ to the 
+Occident,
+
+
+The 
+Gets,
+ and 
+Parthians, Switzers,
+ (who are swaid
+
+
+By fierce 
+Camillas
+ second) 
+Tartars
+ bent
+
+
+To bloud and horrour, those whose God is said
+
+
+To hang twixt Heaven and Earth, the 
+Truculent;
+
+
+Fastidious Moore,
+ take all, except 'gainst none,
+
+
+For many hands, must lead Thee to Thy Throne.
+
+
+
+
+
+
+VII.
+
+
+So let this most unhospitable Land
+
+
+Smart for her Treasons till all kneele to Thee
+
+
+Offering themselves as Slaves to Thy Command
+
+
+Whom 
+Jove
+ hath sworn, an Earthly Deitie
+
+
+That by Thy heavy, and Victorious hand
+
+
+Those Monsters who doom'd Thy great Syre to die
+
+
+May receive treble vengeance, and so perish,
+
+
+Ensuing times, may fear their thoughts to cherish.
+
+
+
+
+
+
+VIII.
+
+
+That having gain'd thine own, appeas'd the Rabble,
+
+
+Silenc'd Thy foes, by Counsels or by Death,
+
+
+Purg'd that accursed fowle 
+Augaean
+ stable
+
+
+At 
+Westminster,
+ by Thy vindictive breath
+
+
+Like Thy Great 
+Ancestors,
+ Thou maist be able
+
+
+To weare in Peace, Great 
+Britaines
+ glorious Wreath,
+
+
+While all Thy Subjects for to serve Thee Joy
+
+
+Singing allowd with me, 
+Vive le Roy.
+
+
+
+
+
+
+
+
+
+
+To the Author, on his Tragedy.
+
+
+WIth a sowre aspect, and a Critick eye
+
+
+I have perus'd, thy well writ Tragedie;
+
+
+My ravisht soul, grew sicker then the Age
+
+
+When as I hastned, to the latter page:
+
+
+Wrapt in a sweet amazement such an one
+
+
+As dreaming men, sometimes, do thinke upon
+
+
+Who when they wake, are wroth and vexed sore
+
+
+They of that sweet delusion taste no more.
+
+
+I wisht thy Play had been more largely writ
+
+
+Or I had ne're seene, or perused it.
+
+
+In which 
+Apollo,
+ and the three times three
+
+
+Sweet 
+Thespian
+ Ladies, chaunt (though dolefully)
+
+
+Such stately layes, that famous 
+Sophocles
+
+
+Would write his Plaies a new, saw he but these:
+
+
+Melpomene,
+ girt in a purple Robe
+
+
+Her hand in Heaven, her foot upon Earths Globe
+
+
+Is taught by thee, to chaunt forth Tragick notes
+
+
+Such as do damn the Rebels and their Votes.
+
+
+He that can read thy Play, and yet forbear
+
+
+For his late Murthered Lord, to shed a tear,
+
+
+Hath an heart fram'd of 
+Adamant
+ and may
+
+
+Passe for an 
+Atheist
+ the Reformed way.
+
+
+But to conclude, thy raptures I admire
+
+
+As those are sung, even to 
+Apollo's
+ lyre,
+
+
+E. D.
+
+
+
+
+
+
+
+
+THE PROLOGUE TO THE GENTRY.
+
+
+THough 
+Johnson, Shakespeare, Goffe,
+ and 
+Devenant,
+
+
+Brave 
+Sucklin, Beaumont, Fletcher, Shurley
+ want
+
+
+The life of action, and their learned lines
+
+
+Are loathed, by the Monsters of the times;
+
+
+Yet your refined Soules, can penetrate
+
+
+Their depth of merit, and excuse their Fate:
+
+
+With this position those rude Elves that dare
+
+
+'Gainst all Divine, and humane Laws, make War;
+
+
+Who count it treble glory, to transgresse
+
+
+Perfect in nothing, but imperfectnesse.
+
+
+Can finde no better engine to advance
+
+
+Their Thrones, then vile, and beastly Ignorance:
+
+
+Their bloudy 
+Myrmidons,
+ o'th' Table round
+
+
+Project, to raze, our Theaters to the ground:
+
+
+No marvell they lap bloud as milke and glory
+
+
+To be recorded, villaines, upon Story.
+
+
+"For having kill'd their KING, where will they stay
+
+
+"That thorow GOD, and MAJESTIE, make way,
+
+
+"Throwing the Nobles, and the Gentry downe
+
+
+"Levelling, all distinctions, to the Crowne.
+
+
+
+
+So that (which Heaven forbid) should they reduce
+
+
+Our 
+English
+ world, to their confused use,
+
+
+'Twill be admir'd, more then a prodegie
+
+
+To hear an Herald, state a prodigee;
+
+
+An 'twill be thought, a sharpe, and bitter blur
+
+
+To salute any, by the title 
+(Sir.)
+
+
+We here present you, his deplored fall
+
+
+Whose Death will prove a ruine generall,
+
+
+(If Fates forbid not) and we hold to view
+
+
+What the world knows, is not more strange then true:
+
+
+Anotomizing Treason, damning them
+
+
+Who Murther'd 
+Charls,
+ to share His Diadem,
+
+
+And to preserve their Soules in flesh, whose ends
+
+
+Unto the ruine, of all 
+Europe
+ tends:
+
+
+But 
+Joves
+ all potent thunder shall divide
+
+
+Their plots, and sinke them, in their height of pride.
+
+
+Exit.
+
+
+
+
+
+
+The Persons.
+
+
+
+
+Fairfax.
+
+
+Ireton.
+
+
+Rainsborough.
+
+
+Peters.
+
+
+Bosvill.
+
+
+Cromwell.
+
+
+Pride.
+
+
+Sir
+ Charls Lucas.
+
+
+Sir
+ George Lisle.
+
+
+Blackburne.
+
+
+Lord
+ Capell.
+
+
+Lord
+ Goring.
+
+
+Treason, Ambition, Lust, Perjury, Sacri∣ledge, Revenge, Parlia∣ment-men, Messengers. Mrs.
+ Lambert.
+
+
+
+
+Mutes.
+
+
+Souldiers
+
+
+Servants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE 
+TRAGEDIE
+ OF 
+King
+ CHARLES 
+the First.
+
+
+
+
+ACT. I.
+
+
+Enter 
+Hugh Peters,
+ and 
+Oliver Cromwwell.
+
+
+
+
+Crom∣well.
+
+
+M
+Y fine 
+facetious Devill,
+ who wear'st 
+the Liverie
+ of 
+the Stygian God,
+ as the white 
+Embleme
+ of thy 
+innocence;
+ Hast thou 
+prepar'd
+ a pithie 
+formall Speech
+ against the 
+essence
+ and 
+the Power of
+ KINGS? that when 
+to morrow
+ all my 
+Myrmi∣dons doe meet
+ on 
+Onslow-heath,
+ like the 
+Greek Exorcist,
+ renowned 
+Calchas,
+ when with his 
+Magicke
+ numbers he incouraged great 
+Alreus
+ Sonne and martiall 
+Diomed
+ to prosecute their Siege 'gainst 
+Priam's
+ Towne, by thy in∣sinuating perswasive art, their hearts may move, like Reeds, when 
+Boreas
+ breath smites the huge 
+Oakes,
+ that on Mount 
+Pelion
+ grow, I know that 
+Nectar
+ hangs upon thy lippes, and that the most absurd Syllogisme, or care-deceiving paradox, maintain'd by thee, shall seem
+
+oraculous, more dangerous to question than the Sacred Writ:
+
+
+Sing then (my 
+Hugh
+) and so thy Numbers sing,
+
+
+All those that heare, may joyntly curse their 
+King.
+
+
+
+
+
+
+Peters.
+
+
+Most valiant, and invincible Commander, whose Name's as terrible to the 
+Royallists
+ as e're was 
+Huniades
+ to the 
+Turkes,
+ or 
+Talbot
+ to the 
+French;
+ thy Nose, like a bright Beacon, sparkling still (the 
+Aetna,
+ that doth fame our English world) hangs like a Comet o're thy dreadfull face, denouncing death & vengeance; the Ancients fam'd 
+Alcides
+ for his Acts, thou hast not slaine, but tane the Kingly 
+Lyon,
+ and like great 
+Tamber∣laine
+ with his 
+Bajazet,
+ canst render him within an Iron-Cage a spectacle of mirth, when e're thou pleasest. Had the Snake-footed, earth-borne Sons of old but had thy ayde, 
+Imponere pelion ossae,
+ old 
+Saturne
+ might have laugh'd to see his Sonne sit sadly by him in the Cime∣rian shades, while thou didst sway the Empire of the Skies; 
+Englands
+ best Patriot, and my noble Patron, a Sermon (such as 
+Ignatius Loyalla
+ himselfe, were he to morrow to supply my place, for dangerous Doctrine, direfull Use, and dreadfull Application, would glory to name his) I have provided such an one,
+
+
+As shall confirme our Faction ten times more
+
+
+Then all that they have known, or heard before:
+
+
+In it I'le prove Kings 
+(ab origine)
+ have been the Peoples plague, given them by the angry Gods in wrath, the meer exuberance of their crimes, the sordid Vulgar be∣ing delighted much to honour those dull Images which themselves erect, and dread those Anticks which them∣selves depaint, themselves affording both the hornes and nailes which make them either dangerous or ugly, I will
+
+assert, that Regall power is Devilish, and inconsistent with the Peoples Freedome: I will make it good, the 
+Tyrant
+ now in hold, (whom some yet call, 
+their Lord King
+ CHARLES) doth merit violent death, as guilty of the many thousand horrours committed in the late most bitter Warre, I will demonstratively—
+
+
+
+
+
+
+Crom.
+
+
+Enough, enough, (my dearest 
+Hugh
+) thou art my better 
+Genius,
+ thy advice, I will relie on with more sure respect, then on a Sybils words or Delphian Oracle, drink the 
+Elixar
+ of that pretious mettall,
+
+[he gives him Gold]
+ 'tis soveraign 'gainst that perilous disease, call'd 
+Speaking truth,
+ 'twill prove an animation to thy mind, for to pro∣ceed in thy audacious practise (I meane, against the King and's House of Peers) thou'lt find it a most precious An∣tidote against the poyson, wavering fame shall spit, and to conclude, a perfect supplement of all defects that Time, or Fate, shall by harsh doome appoint,
+
+
+But what will please the best (my dearest 
+Hugh
+)
+
+
+'Twill purvey for thee, Wine, and Wenches too.
+
+
+
+
+
+
+Pet.
+
+
+Sir, you are pleased to make my faults your mirth, I doe confesse the luscious Paphian sinne, hath ever van∣quish'd all my virtuous powers, the Cyprian Queene (in full aspect of 
+Mars
+) being predominant solely at my birth, besides the constitution of my body made up of moisture and venerable humors (though some great La∣dies say, 
+leane men doe best
+) may help for to extenuate my crime of being too often prov'd beneath the Navell: But Noble Sir, this Colloquie is too poor, if we consi∣der our most high resolves, our language should be like those Lawes we meane to give, awfull and to be won∣der'd at by mortals, sable-brow'd 
+Saturne,
+ and bloud-thirsty
+
+Mars
+ must seem sole Rectors over us abroad, though 
+Venus
+ and her soft Sonne the sightlesse Boy, challenge our utmost faculties in private.
+
+
+
+
+
+
+Crom.
+
+
+Thou art that Load-stone, which shall draw my sense to any part of policy i'the Machiavilian world, we two (like 
+Mahomet
+ and his pliant 
+Monke
+) will frame an 
+English Alchoran,
+ which shall be written with the self-same pensil great 
+Draco
+ grav'd his Lawes; but first, we must subdue the testie Scot, and send the Beggars home, as lowsie, though not so propt with limbs, or so well shap'd as when they chose the politique 
+Hamilton
+ to be their Generall: meane time if those auspicious starres of sinne, whose influence hath prosper'd Treason hither∣to, shall still continue gracious to our villany, 
+Tom Fair∣fax
+ may take in the Towne of 
+Colchester,
+ and force those stubborn truly-valiant 
+Heroes
+ (for in my thoughts I doe esteem them so who have tane shelter in that antient City at least for to comply on remisse tearms; my next work then is to new-mould our Army, and give a strong pur∣gation to those Punies who act for me, and may be cal∣led 
+my Parliament,
+ whose great worke yet remaines to do (my 
+Hugh
+) 
+the King shall die,
+ and they shal Father the most damned act upon the power of 
+justice;
+ that done, all Earles and Lords shall downe for to make way for me and those I favour,
+
+
+Then thee and I, and those whom we create
+
+
+Will Reigne like Princes, and the Lords of Fate.
+
+
+
+
+
+
+Pet.
+
+
+I knew before the scope of your intents, and doe applaud them as magnanimous, and the sole way left to preserve our lives; in order unto which your deare de∣signe, it shall be my taske, both at Presse and Pulpit, to
+
+render Kingly Government obnoxious and incompa∣tible with the Peoples Rights; to prove the imprisoned King a truculent Tyrant, whose bloud alone can expiate Heavens wrath, and purchase an atonement with the Deities; expect me all I may (renowned Sir) for pro∣mulgation of our well-fixt Cause, from which no feare of paine, or hope of profit shall be of force to draw me.
+
+
+For he that dares attempt, and goes not on,
+
+
+Doth leap for safety into 
+Phlegeton.
+
+
+
+
+
+
+Crom.
+
+
+Our conference here must end, some three daies hence I march towards the cold North to meet the Ban∣nock feeding fierry 
+Scots:
+ they have (I heard) already worsted 
+Lambert,
+ and puff'd up with the pride of victory come on like Lyons, flush'd in humane gore, I shall not need to pray your readinesse.
+
+
+
+
+
+
+Pet.
+
+
+Command me as your Creature; Sir, you were pleased to impose a taske upon me (which, by the ayde of some one amongst the Nine, I know not which to thanke for the good turne) I have performed, after a te∣dious pumping: the Theame you gave me, Sir, you know was this,
+
+The Peoples right transcends the power of Kings.
+ Sir, I have done my best to justifie your learned Axiome in this scroule.
+
+
+gives him a Paper.
+
+
+
+
+
+
+Crom.
+
+
+Your love to my requests makes your perfor∣mance of them swift and punctuall by the great 
+Genius
+ of this Land (o're which I hope to Reigne) I had forgot what late I urg'd you to, this shall oblige my love—What's here — I am an ill Versefier or Verse∣maker, (what doe you call your Trimeter-men?) and
+
+none but those have sipt of 
+Hellicon
+ (I've heard) can grace a Verse i'th' reading it —pray sing them your selfe.
+
+
+gives the Scroule backe to
+ Peters.
+
+
+
+
+
+
+Pet.
+
+
+How Sir? sing them!
+
+
+
+
+
+
+Crom.
+
+
+Sing them, or say them, all's one; thinke not I I take you for a Ballet-Poet, but I want tearmes of art.
+
+
+
+
+
+
+Pet.
+
+
+At your pleasure Sir.
+
+
+Peters 
+reads
+
+
+Even till this Age the People durst not see
+
+
+The pride of pompe in formall Tyrannie,
+
+
+The People who raise Kings unto the Crowne
+
+
+Are ladders, standing still, to let them downe.
+
+
+
+
+
+
+Crom.
+
+
+The Peoples backs is the worst paire of staires a man can possibly adventure upon; they are strong, but slippery; firme, but false: You are an excellent Simi∣list (my 
+Hugh
+) 'tis an apt comparison to similize the People to a Ladder; but I pray Heaven thee and I have not ascended so high upon this tall Ladder that we shall never have an opportunity to descend without hazar∣ding our necks.
+
+
+
+
+
+
+Pet.
+
+
+I beseech you Sir, either heare me, without pa∣raphrasing, or command me read no more—
+
+
+
+
+
+
+Crom.
+
+
+Nay, now I see thou art a pettish Poet; read on, I'le be as silent as a Statue—
+
+
+
+
+
+
+Pet.
+
+
+Abolish these false Oracles of might,
+
+
+'Cause we were once blind, shal we now hate light?
+
+
+Why, like the wood that yeilds helves to the Axe
+
+
+Should we upon our selves lay heavy taxe,
+
+
+
+
+Setting up Kings our freedome to confound
+
+
+With our own strength, exhausting our own ground?
+
+
+
+
+
+
+Crom.
+
+
+So, so, enough of this, I'le heare the rest in in private, let it suffice (deare 
+Hugh
+) that I accept your Verses with all love, and do assigne you (if 
+Apollo
+ please) a Grove of Bay to shade your learned skull from his all-piercing Beames; wing'd-Time hath sent one of his Sonnes to warne me hasten hence; my fate moves swift, and I must move with it (my 
+Hugh
+) Farewell, faile not to offer up strict Orisons unto our swarthy Patron if now I prove victorious:
+
+
+A King and Kingdome is my valours prize,
+
+
+By both their ruines, I intend to rise.
+
+
+manet Peters.
+
+
+exit Cromwell.
+
+
+
+
+
+
+Pet.
+
+
+This fellow (sure) was born (as the Third 
+Richard,
+ who once rul'd this Land) with his mouth full of teeth, Nature hath given him an iron soule, able and active limbs, a politique braine which is indeed a store-house of politique stratagems, as if she meant him for the fall & ruine of all mankind; his stout Confederates work their ends amaine, but he outworks 'em all; the very mine they've plac'd for to blow up their pious Soveraigne, shall countermine by Him ruine to themselves, and I saile with them to the invisible Land (my 
+Hugh
+) the 
+King must die,
+ those were his words: Oh sad and fatall project! when they have serv'd their utmost ends upon Him, and on their knees tooke Oathes to re-instate Him, must a black Coffin be His Throne, and a cold Vault His garnished Pavillion? Let the fam'd Villaines of all former times have their dire deeds razed out of Fames black Booke as triviall accidents and neglected dreams,
+
+that these may take up all the roome on Record for the most glorious Miscreants e're Rebell'd; but what strange fancy lurks within my braine, which makes me tax their waies with whom I act, whose deeds I doe applaud as meritorious, deserving honour, and the best repute? what vile sinister fate governs my life? I loath the ills I doe, yet hugge them next my heart. Pardon great 
+Jove
+ and my most gracious Prince, whose virtues doe deprive thee of a being; I must goe on, though 
+Orcus
+ yawne upon me, and 
+Demogorgon
+ (with his damned crew) di∣ctates in person what I preach or write. 
+Cromwell
+ I come with a disguised face, with as reserv'd a cunning as that 
+Greek
+ that broughe in 
+Pallas
+'s Horse to halfe-raz'd 
+Troy;
+ thy craft I wil repell with double care, resting as jealous as I lay perdue behind a potent Foe; thy guilt is great, so mine and all of us; 'tis policy that must protect my life, and place me a degree above you all.
+
+
+For he that will the Devils Master be,
+
+
+Must have a mind, more mischievous then he.
+
+
+Exit.
+
+
+
+
+The end of the first Act.
+
+
+
+
+
+
+
+
+ACT. II.
+
+
+Enter 
+Fairfax, Ireton, Rainsborow,
+ in Armes, Drums beating, Colours flying, with Soldiers as before the Towne of 
+Colchester.
+
+
+
+
+Fair∣fax.
+
+
+THus having tam'd our Enemies in 
+Kent,
+ quieted 
+Cornwall,
+ and secured 
+Devonshire;
+ what now remaines, but with accustomed courage to take in this strong Town of 
+Colchester?
+ with∣in whose Walls doe lodge divers of note, who are pro∣fess'd and open Enemies unto the State we serve.
+
+
+
+
+
+
+Ireton.
+
+
+The fate was just, that with delusive hopes hath led them to a receptacle of ruine, from whence they cannot budge without our knowledge.
+
+
+
+
+
+
+Rainsborow.
+
+
+They're taken in our Toyles, and must not scape with life; quickly let us draw out our Line, and raise our Batteries, girting the Towne with a close Siege, and let the Canons dreadfull voice proclaime to them their certaine ruine.
+
+
+
+
+
+
+Fairf.
+
+
+First let us Summon them to yeild on Termes; if they prove so Fool-hardy as to refuse, then let our Iron-balls in smoake and sulphur sing a sad 
+Requiem
+ in their fearfull eares, sound loud the Summons, that the Foe may heare & know we wish a Parlee.
+
+
+A Parlee sounded.
+
+
+
+
+Sir 
+Charles Lucas,
+ Sir 
+George Lisle,
+ Lord 
+Capell,
+ Lord 
+Goring, &c.
+ appeares as upon the Walls.
+
+
+
+
+Sir 
+Charles.
+
+
+Who gives this hasty Summons?
+
+
+
+
+
+
+Fairfax.
+
+
+Know Sir, the Generall & the Army rais'd for the preservation of the State of 
+England,
+ for to sup∣port
+
+and vindicate their Priviledges; in their Names doth demand, that you yeild up your selves, and all are under your Command, together with this Towne, unto their use.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+Traytour to God, and to thy gracious Prince (for whom I hold this City) chosen thereto by the Essexianists; know, I and these my loyall valiant Cohorts will hold this Towne while twenty doe survive, and rather then yeild up the Towne to you we'l blow our selves (with it) into the Ayre.
+
+
+
+
+
+
+Sir 
+George.
+
+
+Fairfax,
+ thou and thy trayterous Asso∣ciates shall find, this Towne harbours such Men as dare meet thee ingyrt with all thy Myrmidons, one to a hun∣dred, and a hundred to a thousand; Fortune hath fa∣vour'd thee I doe confesse (thou hast triumph'd thou bloudy 
+Marius,
+ and shalt descend unto Hels shades like him) but that proves not the justnesse of thy cause:
+
+
+For, by the same rule 
+Ottaman
+ may boast,
+
+
+The partiall Deities favour him the most.
+
+
+
+
+
+
+Rainsborow.
+
+
+By that God whom I serve thou Tray∣tour 
+Lisle,
+ I'le see thee hewne to pieces, and thy curst Body throwne unto the Dogs.
+
+
+
+
+
+
+Sir 
+George.
+
+
+Avaunt thou home-bred Mungrel, who art (in truth) meerly a valiant Voice, an hollow Cask in w
+ch
+ some rumbling wind delights to sport it selfe; 
+Thersites
+ thus, durst menace 
+Agamemnon,
+ Know Fellow, I have been victorious even against a multitude, have trod the thorny path of cragged Warre, my Body naked and my Feet unshood, have view'd those horrors of a purple Field untroubled and untouch'd, which but-to heare summ'd up, would fright thy Coward-soule from forth her dirty Dog-hole.
+
+
+
+
+
+
+Rainsborow.
+
+
+Why spend we time in Dialogue with
+
+these Miscreants, these cautiffe Elves, who fight for Yoakes and Fetters, with as much zeale as half-starv'd Wretches beg a boone to sate their hungers, and wish profusely for to spend their blouds to please a Tyrants lust?
+
+
+
+
+
+
+Lord 
+Capell.
+
+
+Away, Mechanick Slave, what sawcy Devill prompts thee so to prate, when to the meanest here thou ought'st to stoop with all obsequious duty? thou sordid Groome, whom of a Skippers Boy, the Westminsterian Rebels made thee their Admiral, whom even the dullest Sea-man so despis'd, they scorn'd to hale an Anchor at thy bidding, and at last (tyr'd with thy loathed company) intending to have sowz'd thee in the deep (mov'd with thy tricling teares, and pitious plaints) set thee on shore to foot it backe to 
+Westminster;
+ how dares thy perjur'd tongue to challenge us, serving our dread Lord, His sacred Majesty, Him whom all 
+Europe
+ wonders at, as the best of all the Christian Kings, who for his discreet valour Rivals 
+Scipio,
+ for prudence 
+Salo∣mon,
+ for temperance without parallel, as are his suffe∣rings, and griping griefs by you (base Traytours) each day heap'd upon Him, having immur'd His Royall Per∣son up in a strong Den fit for untamed Lyons, banish'd His loyall and Imperiall Lady, and with Her the two eldest of His Issue, bereaved Him of His Navie and Re∣venue, and what e're truth called His; know perjur'd Rebels, e're this Summer end, (perhaps e're 
+Sol
+ doth hunt the Nemean Lyon) we shall have strong relief, you a just punishment; if not,
+
+
+Our comfort is, though we be left i'th' lurch,
+
+
+We Martyrs, fall, for God, the King, and Church.
+
+
+
+
+
+
+Ireton.
+
+
+You'l not accept then of our profer'd Sum∣mons, or come to composition.
+
+
+
+
+
+
+
+
+L. 
+Goring.
+
+
+Compound! confound we may (perhaps) some thousands of you.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+I am resolv'd ye Traytors, and so I know are these my honoured Friends, which is the sense of all within the Towne, to hold this place even to the utmost hazard; nor are we destitute of much Provision, enough for to supply us many Months; when that failes, we have Horses many hundreds, of Dogs and Cats even a multitude: 
+Zeno,
+ and 
+Chrisippus,
+ the two maine pillars of the Stoicks Sect, pronounce such meats as usefull to Mankind as the best Sheep or Neat: the antient Al∣maines held the self-same doctrine: We'l be their Imi∣tators, and that you may know 'tis our resolution, for∣sake your station, e're we leave the Walls, or the hot breath that lightens from an angry Canons throat, shall trie to waft you thence, away, away, we'l meet you in plaine Field:
+
+
+Thou true 
+Jehovah,
+ now owne thine owne Cause,
+
+
+Thou know'st we fight for thee, our King, & Lawes.
+
+
+
+
+
+
+Fair.
+
+
+Draw up our Troups, we'l make these Boasters feel
+
+
+The potent rigour of our strong-edg'd steel.
+
+
+Alarum, 
+excursions, a shout within, and crying,
+ Open the Gates, On, on, on.
+
+
+Fairfax 
+cum suis Exit.
+
+
+
+
+Enter S
+r
+ 
+C. Lucas,
+ S
+r
+ 
+G. Lisle,
+ & L
+d
+ 
+Capel,
+ their Party: At the other dore, 
+Fairfax, Ireton, Rainsborow,
+ with their Party, they charge three to three, while the Souldiers on both sides in∣counter, the 
+Roundheads
+ are beaten off, a Re∣treat sounded.
+
+
+
+
+Sir 
+Charles.
+
+
+The Power superior to the God of War hath grac'd our first attempt with victory; the Rebels (with exceeding losse) are fled, whom the most valiant
+
+Capel
+ hath in pursuit; see how they scut over the neigh∣bouring Plaines like flocks of Sheep before an hungry Lyon; so for the future, let Almighty 
+Jove
+ infatuate their proud hearts with panick feare who strike at him himselfe in his Vicegerent:
+
+
+Kings are Earths Gods, and those that menace them
+
+
+(Were't in their power) would share His Diadem.
+
+
+He speaks this looking upon some Roundheads lying dead on the ground.
+
+
+Alas deluded self-destroying Men! whose erring Soules by this winged 
+Hermes,
+ hath usher'd unto the depth of 
+Barathrum,
+ in blew flames, for evermore to howle, cursing your selves for your impieties! Oh erring Vul∣gar! oh besotted People, that take such paines to be∣come miserable, who (with the Phrygian Fabulators Dog) catch at vaine shadowes, and lose the substance! So the Athenians courted thirty Tyrants to be the Par∣tie that should gall their heart-strings; and the fond Sy∣racusians laboured sore to have the 
+Dionisii
+ be their Consuls: Was ever any Nation bless'd with so good a Prince (as CHARLES our King) that so opprobriously deserted Him? succeeding Ages cannot chuse but say,
+
+
+Nations have suffer'd cause their Kings were ill,
+
+
+But 
+Britains
+ CHARLES, His Peoples sinnes did kill.
+
+
+But let it hap as God shall appoint, if it be written in the Booke of Fate the Rebels shall dissolve the English Mo∣narchy, with the life-bloud of their most gracious Prince, yet let us hinder that dire ominous day, (while we have being) with our utmost might, and e're we fall and be commixt with new and stranger earth, by hard atchievements and heroick acts (perform'd for 
+Charles,
+ and for our Countries sake) let us provide us fame when we are dead, that the next Age, when they shall read the Story of this unnaturall, uncivill Warre, and amongst
+
+a crowd of Warriours find our Names filed with those that durst passe through all horrors by death and ven∣geance for their KING and Soveraigne:
+
+
+They may sing Peans to our valiant Acts,
+
+
+And yeild us a kind 
+plaudit
+ for our facts.
+
+
+
+
+
+
+Sir 
+George.
+
+
+If we defend this Towne against the Re∣bels furie but one Month longer, the Hamiltonian Duke (who now hath passed 
+Tweed
+ with a numerous Army, full Twenty thousand Scots, Ten thousand English com∣manded by the truly-valiant and invincible Knight, re∣nowned 
+Langdale,
+ we shall have honourable and sure re∣liefe; meane time by frequent Sallies we'l indeavour to breake in pieces 
+Fairfax
+ his guilty Forces; the Prince of 
+Wales
+ is now upon the 
+Downes,
+ and with Him most part of the Royall Navie; the Londoners speake high against the Junto, and every day are fear'd to rise against them; the loyall Welch continue strong in Armes, and eke in every Angle of the Land the People wish for a∣ction; the face of things at present promise fairly:
+
+
+But should all faile (by force of Destinie)
+
+
+Our comfort is, we (when we list) can die.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+I heed not 
+Hamilton
+ or his Resolves, knowing him to be ambitious, treacherous, a 
+Proteus
+ that can shift into all shapes, a slie insinuating Sicophant, who by his most falacious machinations hath been the ruine of the KING and us; 'twas he that instigated first the KING to raise a Warre against the Covenanters, (yet underhand incited them against Him) 'twas he that gave His Majesty advice to go in Person to the Senate-house, there to demand the five seditious Members (yet secretly sent them word of His intentions) 'twas he (how e're he seemed in show averse) that when His Majesty scap'd to the Scots, when 
+Fairfax
+ wholly had subdued
+
+His Forces, procured the damned 
+sallary
+ of his Master, for Twenty thousand pounds; and, I much feare, 'tis he, and onely he, that will betray the Army he now leads, (knowst thou not 
+George
+) he ever did aspire to be the 
+King of Scots.
+
+
+'Tis he that hath made 
+England
+ all on flame,
+
+
+Blasted its beauty, burnt its goodly frame;
+
+
+And the 
+Armilla,
+ which his zeale doth twist
+
+
+Is to be 
+Cataline,
+ yet a Calvanist.
+
+
+
+
+
+
+Sir 
+George.
+
+
+Let him be damn'd and sinke to Hell with all his Sinnes about him, let us doe our parts, and leave the rest to Heaven (Faith Sir 
+Charles
+) since we have beat the Foe, while swarthy 
+Tom
+ flies with his timerous Troups, here let us frollick one halfe houre, 
+Mars
+ and 
+Thalia
+ sometimes doe accord, onely a Health or two unto our Royall Master.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+George,
+ I am easily led by thy advice, al∣though it suite not with our present state to play at Barly-breake in a 
+Golgatha,
+ or drinke downe sorrow 'mongst a heap of Trunks as livelesse as those Clods they lie upon; I prithee doe thy pleasure: but, say that 
+Ireton
+ (who stands facing us) should in the midst of our intended mirth come up and turne our triumph into purple teares, and in our Goblets mix our sanguine gore.
+
+
+
+
+
+
+Sir 
+George.
+
+
+Why? 'twill be rare, I'de wish no other sport; we Lapethites should soon repell those Centaures, the scuffle (sure) would be as strange and famous as that wherein all 
+Ixion's
+ Horse-hoof'd race, were sent to Hell (swift 
+Nessus
+ onely scaping) who was reserv'd for a more dreadfull Fate, they shal have nought to boast of (come they here) but Iron in their Fesh, and Gun-powder in their Noses.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+Be it as thou dost wish, I'le strive to be
+
+as mery as 
+Democritus,
+ and laugh at warre and damages.
+
+
+
+
+
+
+Sir 
+George.
+
+
+You highly honour us (most noble Go∣vernour) My fellow Soldiers, have all
+
+Speaking to the Soldiers.
+ your Armes in readinesse as you were now to Charge the surly Foe, we will not jest away our lives, or give the Roundheads cause to boast a triumph in their Cathe∣drated Conventicles; two of you fetch
+
+Sends two Soldiers.
+ that Runlet of old Sherrie that's placed behind the dore of the Towne Hall, bring also store of Pots, for we shall use 'em here (as the Trojans, when by 
+Atreus
+ Sons they were beleaguer'd close for 
+Hellens
+ rape, 
+Hector, Sarpedon, Troyolus,
+ and old 
+Priam,
+ beneath faire 
+Illion's
+ Walls (gyrt in bright Armes) sate banqueting before the black-hayr'd Greeks, we'l sit securely and pledge full-crown'd Cups, (perhaps) 'twill mad the Rebels:
+
+
+Which if I know, I shall grow fat with laughter,
+
+
+And I will use to drinke them downe hereafter.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+The same good-fellow 
+(George)
+ thou ever wert; see how the Rebels grin and gape upon us.
+
+
+
+
+
+
+Sir 
+George.
+
+
+They should participate of our flowing Cups would they take but the paines to come amongst us, such as the Roman 
+Cateline
+ did provide for those he had drawne in to his Confederacy, Wine mixt with bloud (an horrid Sacacrament) by which they swore to level 
+Romes
+ proud battlements,
+
+The Soldiers returne with the Wine.
+ So, set it downe (my Friends) and quickly pierce it, and then draw out with as inlarg'd a mind as Princes give Gratuities— 'tis rich and lusty liquor, such as would make 
+Heraclitus
+ to laugh, and dull 
+Diogenes
+ daunce, even in his Tub; Here noble Governour, this Bowle brimfull unto the happinesse of Him whom fame of all the European Kings doth call the best.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+With as much willingnesse as one half-spent
+
+with a contagious Feaver, receives a Dose he hopes may bring him health, will
+
+All kneele, they drinke the Health round while the Chambers are shot, and Trum∣pets perpètually sound.
+ I solemnize it upon my knees.
+
+
+
+
+
+
+Sir 
+George.
+
+
+So, this was well perform'd, about again with't.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+Once more receive it Soldiers, and that done, let us retire unto our Garrison, believe me 
+(George)
+ we play with lightning too securely; you know I dare as much, as him dares most, but dare not to be too con∣fidently rash.
+
+
+
+
+
+
+Sir 
+George.
+
+
+By heaven (Sir 
+Charles
+) we will not part so tamely; we'l have one Catch e're we forsake this ground, if you please but to ayde me with your voyce, (for't must be sung in parts) You (Soldiers) all joyne voices in the close, what saith Sir 
+Charles?
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+You may command my suffrage (wor∣thy 
+Lisle
+) I know the Song you fancie; begin—
+
+
+
+
+
+
+SONG.
+
+
+
+
+Sir 
+George.
+
+
+Plump cheek'd
+ Bacchus, 
+we to thee
+
+
+Will yeild all honour, as befits,
+
+
+For sure thou art a Deity
+
+
+That canst refine the dullest wits,
+
+
+The liquour of thy Vine
+
+
+Is pretious and divine,
+
+
+It makes even Cowards fight.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+It prompts our tongues to talke,
+
+
+Though not our feet to walke,
+
+
+And dictates what to write.
+
+
+
+
+
+
+Omnes.
+
+
+Drinke then (Boyes) and drown all sorrow,
+
+
+Who knows if we shall drink to morrow?
+
+
+
+
+
+
+
+
+Sir 
+George.
+
+
+Even in the midst of danger
+
+
+When safetie is a stranger
+
+
+And no hope of reliefe,
+
+
+Take a bowle full of Canary,
+
+
+We of our woes grow weary,
+
+
+And crie a figge for griefe.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+Drinke each a hearty draught
+
+
+Till by the braines y'are caught,
+
+
+'Twill quite expell all humours;
+
+
+Crie, God preserve the King,
+
+
+And shield him with his wing;
+
+
+And a—for the Roundheads rumors.
+
+
+
+
+
+
+Omnes.
+
+
+Drinke, &c.
+
+
+
+
+
+
+
+
+Sir 
+George.
+
+
+Judge you Gentlemen, is not this better than to be alwaies moyling in Sand and Salt-peter, con∣tinually imployed in raising Rampires, throwing up Sconces, and inventing Stratagems, to foile that Foe who feares to looke upon us? hath not this added to your former vigour? we must not alwaies fight, lest we become all but one wound; nor ever tipple, lest the Circaean liquor do metamorphose us into swinish shapes: he that's a true Soldier
+
+
+Will undertake all horrors, for his chinke;
+
+
+And no lesse venture, for a Wench and drinke.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+This doctrine (my friend 
+Lisle
+) is dan∣gerous, yet too much preach'd and practis'd in all Ar∣mies; Souldiers doe dim their glory, and detract from their owne worth that love to drinke and drab; he onely may be term'd truely valiant that can repulse and van∣quish his own passions; but this Dish I perceive (my Sol∣diers) is too much stuff'd with Sage, for you to palliate—I wonder Noble 
+Capel
+ stayes so long, I feare he hath in∣gag'd
+
+himselfe too farre after the flying Foe; he knowes not which way back for to retreate.
+
+
+
+
+
+
+Sir 
+George.
+
+
+He's an experienc'd Souldier, and so in∣ur'd unto the severall Stratagems of warre, that 'twere a sinne 
+Mars
+ would severely plague, but for to doubt his fortune.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+I would not be too confident, or too carelesse, Heavens bring him off with safety, and with honour—let's now re-enter our invincible Fort, and there consult for safety; we must expect the Rebels will once more make their approaches to our Walls (per∣haps) with new Supplies; we will prepare a Tempest 'gainst they Storme.
+
+
+But if great 
+Jove
+ remember whose we are,
+
+
+His ponderous thunder will their Onset marre.
+
+
+Exit.
+
+
+
+
+The end of the second Act.
+
+
+
+
+
+
+ACT. III.
+
+
+Enter 
+Cromwell, solus.
+
+
+
+
+Crom∣well.
+
+
+THus farre my policies run smooth and cur∣rant, deep Rivers glide as silent as the night when shallow Brooks fall with a troubled noise; wherefore was Man created like the Gods, but that like them he should dispose his acts to the great dread of some, envie of others, easily deluded the King
+
+my Master, I have led on with hopes of re-establishment so long, that now He doubts my feign'd reallity; and a strong Partie in the Junto sit, who without me, are now in Treatie with Him, but I shall breake the necke of their Designe (perhaps) before they thinke it, the severall Commanders of the Army are now all of my Faction, while 
+Fairfax
+ (silly Foole) sits like a Statue, as if he nothing knew, or nothing durst, I have propo∣sed unto the severall Officers to forsake the King, and yeild Him up (as one not fit to live) unto the block; I have informed them, (and it takes exceedingly, so for∣ward are the Fooles to worke my ends and their owne certaine ruine) that the King is a Man of bloud, by no meanes to be trusted, being of a rigid and implacable Spirit, hating (even to the death) all have opposed Him, and that should He regaine his former Power, He quick∣ly would make use on't to their ruine, that therefore they should make a retreat in time, nor yeild their necks unto a Tyrants mercy, that they having declar'd so highly for Him, might the more easily (by farre) entrap Him; nor was it a discredit so to doe, since in all Ages such a poli∣tick course hath been thought just and safe: they (sna∣red with my words) resolve to doe so, for to remove the King by violent death, and to set up a Military Power; now my plots worke, the Stage growes great with hor∣ror, the English Monarchy growes sick to death, its very Basis hath an Ague-fit, which wil not cease to shake it, till it be Levell'd to the humble earth.
+
+
+Mount, mount my thoughts, unite like scatter'd springs,
+
+
+'Tis a strong Torrent that must beare downe Kings.
+
+
+Here I appointed my deare Buffone 
+Pe∣ters,
+
+
+Enter
+ Peters, Bos∣will, Pride, 
+with Soldiers.
+ and Coll. 
+Boswill, Pride,
+ and my whole Army to meet about this houre—
+
+See, they come; Welcome deare Friends, you have ob∣serv'd your time: My 
+Hugh,
+ how thrives our Counsell in the Army that our great Generall the Lord 
+Fairfax
+ guides? I am sure these gallant Soules serve under me are all unanimous to shake off Kings, and while the I∣ron's hot to strike that blow which shall for ever free the English Nation from Tyrants, and their awfull power.
+
+
+
+
+
+
+Peters.
+
+
+Heroick Sir, they all (even as one Man) ap∣plaud even to the skies your rare projection, both Offi∣cers and Souldiers covetous for to accomplish what's by you propos'd, and as a signall of their Resolutions, see here, the more part of a queint 
+Remonstrance,
+ which must by us be brought unto a period, wherein we will divulge unto the world, the reasons and grounds of our intents.
+
+
+
+
+
+
+Cromwell.
+
+
+As I would wish, never till now could 
+Eng∣land
+ hope a happinesse; why, how now 
+Boswill,
+ why art thou so sad? the noble 
+Pride
+ stands—like a man a∣stonish'd, or like a marble Statue whose aged feet are wrapt in wither'd mosse, what's the matter?
+
+
+
+
+
+
+Pride.
+
+
+Nothing (deare Sir) but an excessive joy which hath surpriz'd my faculties, and craz'd upon the organs of my speech, my mind is busied 'bout the Kingdomes fate, my Soule in a deep conference with my sense about mature affaires.
+
+
+
+
+
+
+Boswill.
+
+
+The constitution of my Soule agrees with thine in each degree of temper, (most honoured 
+Crom∣well
+) from our late-sworne Principles I'le not recede though Heaven rain'd down fire upon me, though Earth yawn'd wide, and Hell gorg'd balls of Sulphure, the King (that Man of bloud) shall lose His Head, and all His prime Adherents wait on Him unto the other world; the People we will Rule by the Sword's power, their
+
+lives and goods, (by Conquest) we have gain'd, our sway must be maintain'd by Strength, not Law.
+
+
+The Sword that cut a passage to our Sphere
+
+
+'Tis that alone must secure us there.
+
+
+
+
+
+
+Cromwell.
+
+
+Oh let me put thee in my bosome 
+(Boswill)
+ henceforth let us converse more neerly, and like the Zo∣diacks 
+Gemini
+ mix our loves, we'l be a second 
+Pylades
+ and 
+Orestes,
+ and never part till death (my 
+Hugh
+) let's hear some part of that 
+Remonstrance,
+ 'twill highly spurre us on to action.
+
+
+
+
+
+
+Peters.
+
+
+You shall, the most material Clauses (Sir) are these, which take with this 
+exordium
+ I penn'd late yester∣night:
+
+
+He Reads.
+
+
+Absolute power of necessity must subsist and keep above water, though all else be assur'd of drowning, to the losse of all (or at least many) branches of universall Freedome, and therefore the Fox did not conclude amisse when he saw his fellowes steps march towards the Lyons Den,
+ Nos vesti∣gia terrent, 
+if we enter into a strict scrutinie, we shall find that our choice and our nature gave us Kings, the dignity conferr'd upon a single Man, was (sure) intended for the good of all, but where one drawes from all, can that be plea∣sing or fortunate? or to leave this one, can that be injury? and therefore in order theretowe declare, That we will call King CHARLES to an account as the prime Promoter, Abettor, and sole Occasioner of all the murthers, and out∣rages, committed this many yeares, during the Warre, and bring Him to a Tryall for His life; That with Him we will bring to judgement all those of His Partie, who (in order to His Arbitrary Commands) have murthered, spoyled, and impoverished the Free-borne People of
+ England—
+
+
+
+
+
+
+Crom.
+
+
+Hold, I have heard enough, why this is done to purpose, and shewes all gallantry did not die with
+
+Brutus
+ and his Confederate Consulls; now Lawrell wreathes commixt with Myrtle branches shall deck our fortunate brows as the true Patriots of our native Coun∣trey, 
+(We'l give the whole world cause for to remember us)
+ aside the ensuing Ages when they read our Acts shall blesse our memory with devout respect, but flying 
+Phoe∣bus
+ now hath left our Hemisphere, black night hath now put on her ebbon robe and wrapt the Welkin in a sable shrowd, we must away now towards the frozen North, (my fellow Souldiers) we must direct our march to jerke the Scots back to their Sedgie Cottages; malevolent 
+Sa∣turne,
+ oh be thou propitious, prosper thy Agent in his deeds of death,
+
+
+Which are so grim and horrid, full of ire,
+
+
+Some will suspect, the Devill, was my Sire.
+
+
+
+
+Exeunt omnes.
+
+
+Enter 
+Fairfax, Ireton, Rainsborow, cum aliis,
+ as in a Tent, a Table, and Tapers.
+
+
+
+
+Fairfax.
+
+
+How goes the night?
+
+
+
+
+
+
+Ireton.
+
+
+About the howre of twelve.
+
+
+
+
+
+
+Fairfax.
+
+
+Now then, while all the worl'ds involv'd in silence, and man and beast takes their repose and rest, let us determine 'bout these captive Heroes, who, with this Towne of 
+Colchester
+ to morrow must yeild themselves unto our mercy.
+
+
+
+
+
+
+Rainsborow.
+
+
+Renowned Generall, under whose con∣duct we have been fortunate and victorious, I need not now recite, since you well know what vast expence of bloud, of toyle, and treasure, we have been at since we besieg'd this Towne, the third part of our Army quite consum'd by the immured Enemies frequent Sallies, by our unfruitfull Onsets, and hard Duty, and how mercy∣lesse
+
+they have shewn themselves to those (of ours) whom Fortune gave them Prisoners; all which considered, I doe give my vote (and justice speaks the same) that 
+Ca∣pel, Goring, Lucas,
+ and stout 
+Lisle,
+ die without mercy, even that very day which we receive the Towne.
+
+
+
+
+
+
+Ireton.
+
+
+Which is to morrow.
+
+
+
+
+
+
+Fairfax.
+
+
+The Law of Armes will not allow of that, they yeild themselves on Quarter, and for the Peers (I meane 
+Goring
+ and 
+Capel
+) our power doth not extend to question them, they must be order'd as our States de∣cree: the auncient onely Captaines of the world, 
+Ha∣nibal, Scipio,
+ and 
+Themistocles,
+ esteem'd it farre more glorious, having conquer'd their proud Antagonists, to preserve their lives (given them as their boone) then to inflict an ugly censure on them: I love an Enemy that is truely valiant, these have exceeded story in their Acts,
+
+
+And have repell'd a Siege, such as 
+Breda
+
+
+Never beheld, nor famous 
+Ravena.
+
+
+
+
+
+
+Raisborow.
+
+
+Then let them live to be a terror to us, and once more to ingage the Land in broyles, (know Sir) we are not safe whilst these subsist; and should your clement mind so sway your sense, as not to take their lives, who have sought ours, we shall have cause to dis∣esteem your Person and your Power, as him, whose easie nature and sost temper is incompatible with our persons safety, our honour and repute:
+
+
+Since, if by you, mercy to them is showne
+
+
+You seek our ruine, and project your owne.
+
+
+
+
+
+
+Fairfax.
+
+
+Ha.
+
+
+
+
+
+
+Ireton.
+
+
+Though in a rough unpollish'd phrase (he ut∣ters truth) most noble General, let not his seeming rude∣nesse raise your anger, since time hath taught you he is truly faithfull, no lesse magnanimous in active war; Sir, it
+
+concernes you neerly not to permit your innate love to valour, so graile the wings of just deserved fury, you must not tollerate these men to escape with life:
+
+
+For 'twill be thought if you remisly doe,
+
+
+You love their actions, and applaud them too.
+
+
+
+
+
+
+Fairfax.
+
+
+You then are Generals of the Hoste, not I; but be it as you councell, share you betwixt the brave Spirits of Two that (if 
+Pithagor as
+ transmigration were) would make a 
+Thersites,
+ or 
+Thraso
+ valiant, 
+(Rainsborow)
+ see them shot to death as Souldiers destin'd by fortune to a noble end; some two houres hence I shall expect to heare you say, they 
+are dead.
+
+
+My Soule (I feele) is wondrously perplext,
+
+
+Who knowes but mine or your turne may be next?
+
+
+Exit.
+
+
+
+
+
+
+Rainsborow.
+
+
+He's much distemper'd, sure they have bought his mercy; how stoutly did he argue to preserve them, with what reluctancy, denounce their doome.
+
+
+
+
+
+
+Ireton.
+
+
+An ardent love to worth and honour moves him (without all doubt) to pitty their sad fate, for though mountaines may meet, and generate e're they, and we, enter firme union, yet we must needs acknowledge they are Men of most approved valour; but see the cheerfull Lady of the light appeares i'the Horizon deck'd in her saffron robe, having forsook old 
+Tithons
+ chill imbraces, she summons every young and sprightly 
+Sol
+ to wrap her in his odoriferous bosome—harke, they
+
+A shout within.
+ shout; What may this portend?
+
+
+[Enter a Souldier.]
+
+
+What newes doth thy tongue labour with?
+
+
+
+
+
+
+Sould.
+
+
+The Towne of 
+Colchester
+ is just now surren∣dred unto the Generals hands, the Governour S
+r
+ 
+Charles Lucas,
+ his lov'd associate Sir 
+George Lisle,
+ with the L. 
+Ca∣pel,
+
+
+old 
+Goring,
+ and a number more of Gentlemen are cried up as Prisoners.
+
+
+
+
+
+
+Rainsborow.
+
+
+Be it thy charge forthwith to certifie 
+Lu∣cas
+ and 
+Lisle,
+ that they prepare themselves two howers hence to travaile toward the Empire of the Skies, or to the shades of 
+Dis,
+ I meane, 
+to die.
+
+
+
+
+
+
+Sould.
+
+
+I shall, Sir.
+
+
+Exit.
+
+
+
+
+
+
+Rainsborow.
+
+
+Come Commissary, let's goe view the Towne to cheare our Friends, and doome our scornfull Foes:
+
+
+It glads my Soule, and is the onely good
+
+
+That I delight in, for to spill their bloud.
+
+
+Exeunt ambo.
+
+
+
+
+[Enter S
+r
+. 
+Ch: Lucas,
+ & S
+r
+. 
+George Lisle,
+ as in Prison.]
+
+
+
+
+Sir 
+Charles.
+
+
+The iron hand of 
+Jove
+ lies heavy on us, (oh 
+George
+) the proud Rebellious crew prevaile, Loyalty sinks with plumets at his heeles, while curst Rebellion rides on the Sun beams, justles 
+Jove
+ from his seat, and fathomes Clouds.
+
+
+
+
+
+
+Sir 
+George.
+
+
+They may thanke that invincible Cham∣pion, Hunger, had not he help'd, the Towne had yet been ours, the wofull cries of Women, and of Children imploring Bread to staunch their pining stomacks, their guts almost congeal'd to stone within them, their faces black with famine, stalking the streets like (magicke summon'd) Ghosts, together with our owne dire need, inforc'd us to surrender to those Rebels, but 
+Joves
+ dread vengeance (sure) will seize on them that mought (but would not) have prevented this; degenerate 
+London,
+ who hast shaken hands with thine Allegiance, thy aspi∣ring Fabricks ere long must lie—What speaks thy haste?
+
+
+[Enter a Souldier.]
+
+
+
+
+
+
+
+
+Soul.
+
+
+From the Commanders, Col. 
+Rainsborow,
+ and Cōmissary 
+Ireton,
+ I have in trust to let you know, some minutes hence you are to die.
+
+
+Exit.
+
+
+
+
+
+
+S
+r
+ 
+Charls.
+
+
+Oh perjur'd Miscreants! is this your 
+mercy?
+ this my prophetick Soule still whisper'd to me; I knew they in our blouds would bathe their guilt, and sacrifice our lives to their God Treason, these Victims befit 
+Mo∣lech,
+ not 
+Messiah,
+ whom these professed Saints, but reall Devils, seem to make the umpire of their deeds.
+
+
+Angry 
+Rhamnusia,
+ though we fall to dust,
+
+
+Punish these Traytors, for their acts unjust.
+
+
+
+
+
+
+Sir 
+George.
+
+
+Then 'tis decreed, we must take leave of day light, and tread the paths of immortality.
+
+
+Jove,
+ art thou just, hast thou reward for those
+
+
+Who unto pious acts their lives difpose?
+
+
+And hast thou lost thy vengeance, can it be
+
+
+That these aspiring 
+Titans,
+ scape Scot-free?
+
+
+Where are thy dire Cyclopean balles, the same
+
+
+That mudling 
+Mulciber,
+ doth in 
+Lemnos
+ frame?
+
+
+'Tis thy Olympick vigour can alone
+
+
+Ding downe these Rebels unto 
+Phlegeton.
+
+
+[Enter three Souldiers armed.]
+
+
+Ha, what are you?
+
+
+
+
+
+
+Souldiers.
+
+
+Your Executioners.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+You are our welcomest friends; who is allotted to make his 
+exit
+ first?
+
+
+
+
+
+
+1. 
+Sould.
+
+
+Your selfe must lead the dance of death.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+Here then I bid farewell, unto this Stage of misery, my life hath been but one continued Scene, wovenwith perturbations and anxieties—but stay, whither must now my fleeting Soul take wing? into you Starry mansion, or steep 
+Tartarus,
+ up to the Milkie way, she'l take her flight
+
+
+
+
+Where Soules of Heroes doe enjoy their blisse,
+
+
+Where all Celestiall comforts, meet, and kisse;
+
+
+Mankinds Redeemer, oh 
+Emanuel!
+
+
+Who in Mans shape on Earth were pleas'd to dwell, Receive my better part—are you prepar'd—
+
+
+
+
+
+
+Souldiers.
+
+
+We are.
+
+
+
+
+
+
+Sir 
+Charles.
+
+
+Charge me then home, I love to chew those Winter-plums, they are those Cordiall comfits I accept, as sick men do great 
+Gallens
+ Antidotes; methinks the Earth goes round 
+Copernicus:
+ thou didst relate a truth, that 
+Tellus
+ ever hath an Ague fit; 
+Sol
+ wrap thy glorious head within a Cloud, or if thou needs wilt view my Destinie, put on a maske of bloud, Death is but 
+Som∣nus
+ Harbinger, we visit his all-peacefull Monarchy, e're we arive at Heavens golden gates, where such as knock with a religious hand, doe never misse of entrance; Let me imbrace thee 
+(George)
+ e're I part hence,
+
+They imbrace.
+ Thou wilt not long survive me—Shoot, shoot.
+
+
+Incomparable 
+Strafford
+ (see) I come
+
+
+To wait on thee in blest 
+Elizium.
+
+
+They shoot.
+
+
+So, you have done it bravely, you are good Marks-men, I applaud you for't even in Death—so many pas∣sages are allow'd my Soule, she knowes not which to issue out at, this fabricke of my flesh now 'gins to totter, like to some City (for it's Peoples finnes) rock'd by the humerous winds; what a fierce combate is there now maintain'd betwixt my wounded heart & mighty 
+Mors,
+ who grasps it 'twixt his hands, squeezing it like a spunge; so furious 
+Boreas
+ smites the solid Oakes that on Mount 
+Pelion
+ grow, making them nod like unto feeble Reeds, 
+(George)
+ thy hand, my twins of light, have lost their wonted property, death with his icie-fingers seals them up: Farewell, great CHARLES, I die thy loyall Ser∣vant.
+
+George,
+ we shal meet some minutes hence (I doubt not) in a place where all joyes injoy one center; the worlds great Architectresse never saw two of her Sonnes murther'd so barbarously after faire Quarter promised:
+
+
+Therefore great 
+Jove,
+ if thou lov'st loyall breath,
+
+
+Take vengeance on the Authors of my death.
+
+
+
+
+
+
+Sir 
+George.
+
+
+There crack'd the cords of life,
+
+He dies.
+ Oh noble 
+Lucas!
+ let me breathe out my Soule,
+
+Kisses him.
+ upon thy azure lips: so brave a compleat man no Mon∣sters (these excepted) would have butcher'd; my turne is next, is it not?
+
+
+
+
+
+
+Souldiers.
+
+
+It is.
+
+
+
+
+
+
+Sir 
+George.
+
+
+Nor would I purchase life with one In∣treaty, this object so inflames me I am growne weary of this fleshly weed, and faine would put it off, exchanging it for an immortall robe, invelloped with Carbuncles, and Saphires— I, but to have our live bereft by a sharp violent death to sleep in a thin shrowd, involv'd in feign'd earth, our Nerves and Arteries shrunke up like sing'd Lute-strings, or the wither'd Wreath of some fam'd Heroe, made away i'th' darke for to converse with Wormes, and half-form'd creatures, such as the slime of Seven headed 
+Nile
+ produceth by the aide of 
+Phoebus
+ beames: Oh! there's a contemplation that would stag∣ger the most resolved Spirit, but destiny must be obey'd, Death is still death though diversly inflicted: to have ones Throat sluc'd with a golden Knife, or to be thrust through with a silver Sword, mitigates not the wound, more than the sufferance. But, oh ye vengefull Furies of darke Hell! ye three-fell Sisters of steep 
+Erebus,
+ aw∣full 
+Aenyo,
+ all ye dreaded Hags ominous to mortalls, forsake your black Cimerian Cells, and with your steely Whips ascend the Earth, Lash, lash these Traytours to
+
+despaire and obloquie; Let strife, contention, fraud, guile and deep horror seize on great CHARLES his Foes, seve∣ring their strength, and frustrating their hopes till they sinke lower, underneath their Treasons, then plumets cast into the 
+Baltick
+ Sea: Now doe your office,
+
+They shoot.
+ I am prepar'd; Oh! you have put Balls of wild-fire in my Bowels, I am but all one 
+Aetna;
+ Farewell, base gloomie world, in which deluded Man, ravish'd with toyes, hunts after bubbles; till them he breake and va∣nisheth as he had never been, I sinke beneath the burthen of my owne weight, would with my fall, the Machinie of the world might be unriveted and shooke to pieces, the Ayre, cōmixt with Earth, the humid with the tumid Element, and active fire contesting gainst them both, re∣ducing all to the Originall Chaos; but I contend in vaine, the Gods created Man but for their sport, and its fit I should fulfill their ends, wishing but not prevailing; I spie the pure immaculate Soule of 
+Lucas,
+ travailing through the Ayre to find a residence: Stay gentle Spi∣rit, company is good, when tedious journies are pre∣scribed, we'l both fix in one Sphere, when looking downe, we will behold and smile,
+
+
+To see these seeming Saints, but reall Friends
+
+
+Fall by their devilishly devised ends.
+
+
+He dies.
+
+
+
+
+
+
+1. 
+Souldier.
+
+
+The Traytors both are dead.
+
+
+
+
+
+
+2. 
+Souldier.
+
+
+Traytors, those are Traytors, whose most rigorous doome, we have obey'd, in murthering these brave Men.
+
+
+
+
+
+
+3. 
+Souldier.
+
+
+How's this? let's seize upon him.
+
+
+
+
+
+
+1. 
+Souldier.
+
+
+Doe, and make hast to most assur'd dam∣nation.
+
+
+
+
+
+
+2. 
+Souldier.
+
+
+I am no longer of your base so∣cietie;
+
+Drawes.
+ Heaven pardon what is past, my future deeds
+
+shall amply expiate my former crimes, the bloud of noble 
+Lucas
+ and brave 
+Lifle,
+
+
+On 
+Rainsborow's
+ base head, I will requite,
+
+
+And send his Soule unto eternall night.
+
+
+Exit.
+
+
+
+
+
+
+1. 
+Souldier.
+
+
+Let us remove the Bodies, and make af∣ter him.
+
+
+Exeunt, bearing the Bodies.
+
+
+
+
+The end of the third Act.
+
+
+
+
+
+
+ACT. IV.
+
+
+[Enter 
+Peters
+ with M
+rs
+ 
+Lambert.
+]
+
+
+
+
+Pet.
+
+
+THis he impos'd as a command, it hath not been my practice to solicite in causes of this kind for other men.
+
+
+
+
+
+
+M
+rs
+. 
+Lambert.
+
+
+Too soon you have made triall of your skill; doth your grave habit suite with such course im∣ployment, reverend Sir?
+
+
+
+
+
+
+Peters.
+
+
+Faith Mistresse, amongst Friends, the outward garbe ought not to cause a nicety; He is my honoured Patron, tooke me halfe frozen from the foodfull Earth, and warm'd me in his bosome; and 'twere a dull ingra∣titude in me not to reward his bounty with my service: the radiant lustre of your Star-like eyes makes him to bow as your obsequious Vassall, whom thousands count it honour to obey; so great an influence hath your ex∣cellent beauty upon his manly faculties: He's now re∣turn'd, deck'd with triumphant Wreaths, from chasing the Blew Bonnets to their Mountaines, having taught
+
+that stubborne People, his Name can make the Genius of their Country tremble, the politick 
+Hamilton
+ is his Prisoner, all knees bow to him, as Great 
+Caesars
+ Rivall; nothing doth want for to compleat his Conquest, but your assent to love him.
+
+
+
+
+
+
+M
+rs
+. 
+Lambert.
+
+
+Why so I doe, and all Men else that doe retaine his temper.
+
+
+
+
+
+
+Peters.
+
+
+Your love admits of a too vast extent, I mean, can you affect him so, as to admit him to your Bed?
+
+
+
+
+
+
+M
+rs
+ 
+Lambert.
+
+
+S
+t
+ 
+Winifrid
+ forbid it; you know (Sir) that I have a Lord and Husband, a Man made up of magnanimity, whose love is mixt with an indulgent care, should he but doubt of such an Injury, your Master, I my selfe, and all by him suspected, had better enter a Phalarian Bull, or stand the thunders shock— alas! I dare not.
+
+
+
+
+
+
+Peters.
+
+
+These are but Womanish feares, incident unto all your Sex; come, you must yeild to love him, how should your Husband know of your day Banquets, your nightly Revels, and sweet Paphian sports? he's now in 
+Lancashire,
+ Disbanding Troups of Horse: or should some wayward Feind convey the knowledge of your stolne Imbraces unto his jealous eare, my Masters great∣nesse countermands his furie, circled within his armes, should heaven, earth, and hell conspire to wrong you, 'twere sinne to doubt a danger: Consider (Lady) what a potent Friend, what treasure, honour, and content you'l gaine (if mundane glories doe affect you) by yeilding love for love to him, whom other Dames of highest bloud and fortune would sue for such a favour.
+
+
+
+
+
+
+M
+rs
+ 
+Lambert.
+
+
+Although my inward thoughts doe tax my levitie, yet won with your most sugred eloquence; I here yeild all of mine, 
+Lambert
+ calls his, unto your Ma∣sters bosome.
+
+
+
+
+
+
+
+
+Crom.
+
+
+I accept it (Lady) nor
+
+Enter
+ Cromwell, 
+having been seen to peep through the hang∣ings, during the Colloquie 'twixt
+ Pet. 
+& Mrs.
+ Lambert
+ shall my most delicious 
+Parragon
+ ever have cause for to repent her favour, my selfe, my Sword, all under my Command, the spoiles of Nations, all that Earth can boast, shall at thy becke be prov'd for to be summon'd (Popea-like) bathe thou thy delicate body in Asses milke, commixt with Almond flower, (with 
+Cleopatra
+) dissolve inesti∣mable precious Stones in every glasse of luscious Wine thou drink'st, tread thou on Tyrian Silks and Ermins skins, let Art and Nature both industriously conspire to sate thy lavish wishes, my Treasurie is inexhaustible; Three Kingdomes (Deare) I graspe thus— in this palme, their Riches and their glories all are mine, the Goddess of the world my Patroness 
+Fortune
+ hath given all into my hands; as for the Man (they call the KING) He hath not foure and twenty howers to live, I've hyr'd a dapper Lad, a neat-tongu'd (but inexorable Fellow) for fifteene hundred pounds, to ease Him of the burthen of His cares, (good King, he's fitter farre for to converse with Saints and Seraphims, than with erronious and am∣bitious Mortalls, and 'twere a sinne (a grand one) for to deterre the hopes Celestialls have for to enjoy His pre∣sence) my 
+Bradshaws
+ braines doe brood, and hath dis∣cover'd a line of Law that never yet was talkt on, which saith, If Kings doe not obey their Subjects, they may chastise them with Imprisonment, Banishment, or Death; with him a Crew (whom I have eke in pay) doe fit as Judges to make good this Maxime: my 
+Bradshaw
+ is growne proud of his great Office, I've Order'd him for to be cloathed in Purple, all Heads for to stand bare on every shoulder when the Lord President (for so I have created him) shall be in presence, his Co-adjutors all
+
+have honour too; and when assembled, have no worse a title then the 
+High Court of Justice:
+ these all are sworne for to fulfill my ends, and Doome their KING to die; which once perform'd, then I am Lord alone, though not a King by Title, yet by Power, and thou (my Dea∣rest) shalt share glories with me, thy lovely browes deckt with a Coronet of Ophir Gold, inchas'd with Onix Stones; nor doe thou dread thy Husbands anger, his open violence, or his clandestine plots, he is my Vassell meerly at my pleasure; and if I heare he but repines at our Imbraces, I'le spurne his Soule out with my foot. (My 
+Hugh
+) this businesse was well manag'd, thou art a fluent Orator, when Cypryan 
+Venus,
+ and her wing'd Sonne, waits at thy elbow, this service hath oblig'd me more unto thee then all thy former industries.
+
+
+
+
+
+
+Peters.
+
+
+I am your humblest Creature.
+
+
+
+
+
+
+Cromwell.
+
+
+But why (my dearest Mistresse) is that face of yours (which even the Gods gaze at with greedy long∣ing) obscur'd with sullen mists? what sorrow claimes a superiority o're your harmonious senses? oh let not care plow furrowes in that forehead! is (now) more smooth than polish'd Ivory, or the true Turtles feather; give but your grief a name, and if it lie in humane power to ease you, resolve, a speedy and a pleasing remedy hasts to your comfort.
+
+
+
+
+
+
+M
+rs
+ 
+Lambert.
+
+
+Sir, can you thinke my heart is so ob∣durate? or that I can so soone be lost unto a feminine temper, as not to cogitate with what hasty rashnesse I have extinguisht 
+Hymens
+ Tapers, which (some howers since) rivald 
+Sols
+ beames in lustre, with what a forward zeale I have infring'd my Marriage Vow, and given a∣way that which is none of mine? oh Heaven!
+
+
+
+
+
+
+Peters.
+
+
+'sfoot Sir, she's falne into a relapse; kisse her
+
+Sir, (quickly) or shee'l coole so fast, and her heart freeze into so hard a lumpe, not all your future Courtship or activity, shall be of force to melt her to your wishes.
+
+
+
+
+
+
+Crom.
+
+
+How stupid am I in these amorous Arts deare Mistresse! let not penitentiall fancies (the spurious issues of dull Melancholly) gaine the least power over your fa∣culties: what can you feare, while I dare be your friend? think on the glories that I late proposed; all which shall be made yours, with eminent safety.
+
+
+
+
+
+
+M
+rs
+ 
+Lambert.
+
+
+I shall endeavour, Sir, to beare my selfe as her that loves and honours you.
+
+
+
+
+
+
+Cromwell.
+
+
+Now thou sing'st sweetly, in a farre more melifluous tone than Quires of 
+Nightingals,
+ and that this temper never may forsake thee, our time we'l spend in various delights, such as 
+Caligula,
+ were he againe on earth would covet to enjoy; enter ye six prime West∣minsterian Senators:
+
+
+Musick, strike hie, our Spirits to advance,
+
+
+While we doe mingle in an active Dance.
+
+
+
+
+Enter six Masquers, habited for ambition, trea∣son, lust, revenge, perjury, sacriledge, musick; they daunce with them, joyne 
+Cromwell
+ and Mistresse 
+Lambert, Peters
+ singing out last, they daunce together by themselves.
+
+
+
+
+SONG.
+
+
+
+
+Let these joyes ever be in prime,
+
+
+Nought but virtue is a crime;
+
+
+Maugre the wise,
+
+
+Meane men must rise,
+
+
+Every Olympiad of time.
+
+
+
+
+Taste then boldly, terrene pleasures,
+
+
+Yours is the Earth, and all its Treasures;
+
+
+Rifle, Plunder,
+
+
+And keep all under,
+
+
+Let Murmurers waite your leisures.
+
+
+Exeunt Masquers.
+
+
+
+
+
+
+
+
+Cromwell.
+
+
+This was perform'd as I would wish, now Sweet let's in for to compleat our happinesse, and taste those joyes which 
+Jove
+ himselfe will envie, knowing 
+Agenors
+ Daughter, or 
+Calisto, Inachian Io,
+ or his blasted 
+Semele,
+ were not indu'd with beauty so immense as thee (my dearest happinesse)
+
+
+Set on unto the Chamber of delight,
+
+
+Doe not dream 
+(Lambert)
+ thou art horn'd to night.
+
+
+Exeunt.
+
+
+
+
+[Enter 
+Fairfax, Ireton, Rainsborow.
+ &c.]
+
+
+
+
+Fair.
+
+
+I need not advertise you Col. 
+Rainsborow,
+ not to be implacably severe, against the refractory 
+Chom∣ley;
+ or when you are sate downe before that most im∣pregnable 
+Pontefract. Castle
+ to storme more oft than faire advantages calls you to action: 
+Mars
+ go along with you, I am for 
+London
+ with my Prisoners.
+
+
+
+
+
+
+Rains.
+
+
+My Lord, your humble Servant, victory and triumph ever waite upon you.
+
+
+
+
+
+
+Ireton.
+
+
+Farewell noble Colonel.
+
+
+
+
+
+
+Rains.
+
+
+Adieu, sweet Commissary,
+
+Exeunt Fairfax
+ and 
+Ireton.
+ Alone, and in all haste to take my journey, to so remote an Angle of the Land, there to take charge of those I never saw, discard their Generall, and make my selfe their Leader, this is a strange injunction, but I must doe it:
+
+[Enter his 
+Servant
+]
+ Hast thou delivered what I gave in charge?
+
+
+
+
+
+
+Servant.
+
+
+I have Sir; he will not faile punctually to
+
+performe it, and sent you, the true and exact relation (as neer as he can gather) who were the prime Promoters (of your unlookt-for) Journey.
+
+
+
+
+
+
+Rains.
+
+
+Let's to Horse, I'le ride twelve miles this night, they shall have no cause to blame my tardinesse, away.
+
+
+Exeunt.
+
+
+Enter 
+Blackburne
+ (being the Souldier that esca∣ped from amongst the Fairfaxians, with an in∣tent to kill 
+Rainsborow,
+ Act. 3.) with him, three Souldiers, their Pistols and Swords.
+
+
+
+
+
+
+Black.
+
+
+Hist, this way the Villaine posted, onely his Man and he together; I hope the divine justice will not suffer him, for to escape our hands; that way, that way,
+
+
+Exeunt.
+
+
+
+
+[Enter 
+Rainsborow
+ and his 
+Servant.
+]
+
+
+
+
+Rains.
+
+
+We have quite lost the beaten roade—there let our Horses grase awhile; I feele strange thoughts fighting about my heart, either my guilty fancy did de∣lude me, or I beheld the Ghosts of 
+Lucas
+ and of 
+Lisle,
+ all full of wounds staring just now upon me, there, there, dost thou see nothing?
+
+
+
+
+
+
+Serv.
+
+
+Not I Sir; good Sir let us forsake this gloomie glade, it presents horror, and besides the night is neer halfe spent.
+
+
+
+
+
+
+Rainsb.
+
+
+A grim, but supine terror clogs my soule; 
+Morpheus
+ with's leaden Mace arrests my senses, I needs must sleep awhile.
+
+
+Lies downe.
+
+
+
+
+[Enter 
+Blackburne,
+ and his Mates.]
+
+
+
+
+Black.
+
+
+Kind Fates, I thank you; this is that cruell Ty∣ger (my Fellowes) who contriv'd the much lamented deaths of generous 
+Lucas,
+ and the valiant 
+Lisle.
+
+
+
+
+
+
+Rains.
+
+
+Ha, who sent thee hither?
+
+
+He rises up.
+
+
+
+
+
+
+Black.
+
+
+Thy sinnes; I come to kill thee.
+
+
+
+
+
+
+
+
+Rains.
+
+
+It is no easie taske that thou hast undertaken, I have an arme as vigorous as thine, a Pistoll that will lighten e're it thunders, a Sword too that ne'r yet for∣sooke his Master in time of danger.
+
+
+
+
+
+
+Black.
+
+
+If thou but call to mind thy damned Treasons, thy Charnell plots, and vile Conspiracies, thy murthers, rapines, and fell outrages, a Child of seven yeares old may quell thy force and lead thee captive in a string; if thou dar'st thinke thy numerous crimes have not barr'd up the dore of Heav'n 'gainst thee, pray be but speedy in thy orisons, I have no mind to kill thy Soule.
+
+
+
+
+
+
+Rains.
+
+
+Saucie Slave, thinke on thy owne sad end; and either at my feet implore remission of thy rash attempt, or thou art dead.
+
+
+
+
+
+
+Black.
+
+
+So brave, have at you Sir.
+
+
+
+
+
+
+Servant.
+
+
+This is honour beyond
+
+They charge with their Pi∣stols,
+ Rainsborow's 
+Man falls; also one of
+ Black∣burne's 
+Confederates.
+ thought to fall, or to survive my Ma∣sters second.
+
+
+
+
+
+
+Rains.
+
+
+Come on, Sir.
+
+
+
+
+
+
+Black.
+
+
+Though thou hast scap'd my scalding lead, my cooler steele shall find a passage to thy heart.
+
+
+They sight.
+
+
+
+
+
+
+Rains.
+
+
+Thou art not (sure) invulnerable, even 
+Thetis
+ Sonne was slaine by 
+Phrigian Paris
+— but, oh my guilt hangs heavie on my Arme! and impedes the vio∣lence of my blowes—there.
+
+
+They sight.
+
+
+
+
+
+
+Black.
+
+
+Will you not sink, or have you many Souls that take their reigne by turnes? if it be so, I have so good a Cause I cannot shrinke beneath the Trenchant blade, till by my single force, I have dismiss'd them all; there Dogge—
+
+
+
+
+
+
+Rains.
+
+
+Injurious Destinies, have you inrich'd my fame with many victories over whole Troups of men, for to permit my fall in the Catastrophe, by a most despicable
+
+Knapsack-bearer, why carves my flesh as Butchers doe their meat, and bores me till I grow transparent— Oh! my bloud drils like to some prodigall spout which Huswifes set a tilt to cleanse their linnen— but, shall I fall without revenge—
+
+
+He falls.
+
+
+
+
+
+
+Black.
+
+
+Oh! are you measuring out your length in clay? Ye Twins of valour 
+Lucas
+ and brave 
+Lisle,
+
+
+Your heads, up from your earthly pillowes reare,
+
+
+And see your Murtherer lie weltering here.
+
+
+
+
+
+
+Rains.
+
+
+My spirit's faint, my heart is sick to death, I hold the panting lumpe betwixt my teeth, But 'twill not brooke to stay; Let all those that have sought their Soveraignes ruine looke upon me and my deserved de∣stiny, I would invoke the powers above, but them I have so much exasperated, they'l stop their eares to my com∣plaints: Oh! I die—
+
+
+Thou King of flames, let me in Sulphure swim
+
+
+Neare to that Caudron, holds my Patron, 
+Pim.
+
+
+He dies.
+
+
+
+
+
+
+Blackburne.
+
+
+Oh dire and dreadfull end! he's gone to his owne home, (the cursed Dungeon) with as much willingnesse as holy Anchorites surrender their white Soules to holy Angels, his Body we will throw in yon∣der ditch for Beasts and Birds, to prey on:
+
+
+They remove him.
+
+
+I have some wounds, but none (I think) are mortall. Come, fellow Souldier, let us hast to shelter, this deed, when once divulg'd, will be examin'd strictly—
+
+
+Beyond the Seas, for safety I will flie,
+
+
+Till 
+England
+ once more be a Monarchie.
+
+
+Exeunt.
+
+
+
+
+The end of the fourth Act.
+
+
+
+
+
+
+
+
+ACT. V.
+
+
+[Ent. 
+Cromwell
+ with M
+rs
+ 
+Lambert,
+ in their night Robes.]
+
+
+
+
+Crom∣well.
+
+
+APollo
+ is too hasty in his rise, and emulates my happinesse; had 
+Jupiter
+ injoy'd so rare a Creature as thy selfe (my Deare) in his lascivious armes, he would have charm'd bright 
+Phoebus
+ to the East, and have united day & night in one, as when he revell'd 'twixt 
+Amphitrios
+ sheets; how likes my love of her new Bed-fellow?
+
+
+
+
+
+
+M
+rs
+ 
+Lambert.
+
+
+You are as valiant Sir, in those soft skir∣mishes 
+Venus
+ expects in her pavillion, as in those deeds of death 
+Mars
+ doth approve of in his Tent of Warre.
+
+
+[Enter 
+Peters.
+]
+
+
+
+
+
+
+Pet.
+
+
+Good morrow to the most renowned 
+Cromwell,
+ & his most excellent Mistresse; Sir, I this morning have receiv'd a Letter directed unto you, I thinke it comes from Commissary 
+Ireton.
+
+
+
+
+
+
+Cromwell.
+
+
+Some newes of more than ordinary conse∣quence if it beare date from him:
+
+
+He opens and reads the Letter.
+
+
+
+
+Lieutenant Generall,
+
+
+THe deed is done, (which either ever makes, or marres us all) the King (according to the doome of our High Court of Justice) this morning lost His Head, thousands of people being Spectators of His Tragedy; His Body we have given to the Duke of 
+Richmond,
+ to be dispos'd of as he thinks fit: the Vulgar (generally) are much inraged at it,
+
+and say (having proceeded so farre in our Treasons against him, that we despaired of pardon to preserve our own lives, and to make our selves Master over them) we have mur∣thered the most virtuous Prince in 
+Europe
+ at his owne dore, but we shall muzell the mouthes of that many-headed Hydra ere it be long; and in the meane time must resolve to keep what we have got by fraud and force, by oppression and vio∣lence: we have Outlawed the Eldest and Second Sonne of the dead King, and proclaimed, That if ever they be taken on English ground, they shall die without mercy: we are now modelizing the Common-wealth, in the prosecution of which, both Souldiers and Senators, desire your aide; this I was commanded to certifie you: and had I not been com∣manded, it had been done of his owne accord by
+
+
+Your assured Friend to serve you, 
+IRETON.
+
+
+
+
+
+
+
+
+Crom.
+
+
+Then now I am above the reach of fate, prepare (my 
+Hugh
+) though not to be a Bishop, yet to dispose of a whole Diocesse: you Lady (the sole Mistresse of my hopes) are yet untainted in your Husbands thoughts, let him againe repose his horned head betwixt your deli∣cate paps, I must with speed to 
+London,
+ whence I will send thee thy lap-full of Gold (my 
+Danae
+) and Jewels rich and sparkling, for to adorne thy onely eminent beauty; nor shalt be long ere I in person visit thee.
+
+
+
+
+
+
+M
+rs
+ 
+Lambert.
+
+
+Sir, you have robb'd me both of ho∣nour, and my heart at once; so strange a Fate doth sway me, that whatsoe're you judge to be convenient, I must not contradict.
+
+
+
+
+
+
+Crom.
+
+
+Thou art as wise as beautious, rest confident of my fidelity, Farewell Star of the North.
+
+
+Kisses her, she goes off.
+
+
+
+
+Come 
+(Hugh)
+ lets poste unto the famous Cittie
+
+
+To sit in Councell with the State Committee.
+
+
+
+
+Exeunt.
+
+
+[Enter 
+Chorus.
+]
+
+
+
+
+
+
+Now all is lost to humane sense,
+
+
+The King is murther'd on pretence
+
+
+He was a Tyrant, and in Him
+
+
+Our Lawes and Rights to laethe swim,
+
+
+Buried forever in His death,
+
+
+Since they subsisted by His Breath,
+
+
+
+
+
+
+1. See here, what would make Indians weep,
+
+
+These
+ 14 
+Ver∣see are spoken wholly in re∣lation to the
+ Kings 
+Mur∣ther.
+
+
+2. And force the Monsters of the deep;
+
+
+3. Shed teares into the brinie maine,
+
+
+4. And after drinke them up againe;
+
+
+5. That which forc'd 
+Sol
+ to hide his head
+
+
+6. Pierc'd into Graves, and wak'd the dead;
+
+
+He discovers be∣hind the travers the dead body of the
+ King; 
+also the Bodies of the Lord
+ Capel, Hamilton 
+&
+ Holland.
+
+
+7. And that which made the Angels hide
+
+
+8. Their faces (deep in scarlet di'de)
+
+
+9. With their soft wings, and doth compell
+
+
+10. The Catholick to turne Infidel,
+
+
+11. And to believe 
+Presbyter Johns,
+
+
+12. And strictest Solifidians,
+
+
+13. Are damn'd (even from their Cradle) since
+
+
+14. They murther'd so divine a Prince.
+
+
+
+
+
+
+This body, when possest of life
+
+
+Pointing to
+ Hamilton.
+
+
+Was the sole Causer of the strife
+
+
+And breach (which so our Land hath rent)
+
+
+Betwixt the King and Parliament;
+
+
+'Twas he, that by his Hell-bred plots
+
+
+decoyd the King amongst the Scots;
+
+
+Yet afterward (his owne to hold)
+
+
+Sold Him to Traytors for their Gold;
+
+
+
+
+All this in hopes to win that Crowne,
+
+
+Desire of which, hath brought him downe
+
+
+Unto the earth, slaine (even by them)
+
+
+From whom he hop'd a Diadem;
+
+
+His Soule the Furies meane to ply
+
+
+With tortures to eternity.
+
+
+
+
+
+
+This Body when it us'd to walke,
+
+
+Pointing to
+ Holland.
+
+
+Knew better how to Drab and talke,
+
+
+To weare gay Cloathes, and Complement,
+
+
+Then to be wisely eminent;
+
+
+For loyalty unto his King
+
+
+His folly not, his faith did bring
+
+
+Him to the Block. But here lies one,
+
+
+Pointing to the L.
+ Capel.
+
+
+The glory of his Nation,
+
+
+A man for valour, virtue, wit,
+
+
+Who learning lov'd, and cherisht it
+
+
+Without compare; his Charity
+
+
+Extended unto each degree,
+
+
+Ages and Sex, (had they no more
+
+
+But this one Devilish Act in store
+
+
+Of murthering him) the Rebels (sure)
+
+
+Could not, yet eight yeare more procure,
+
+
+To Reigne by bloud, by rapines, horrors,
+
+
+Treason, inexplicable terrors;
+
+
+But what the Fates allot we must
+
+
+Submit to, and in them we trust
+
+
+To see these Monsters fall and rot,
+
+
+By God and virtuous men forgot.
+
+
+
+
+Exit.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

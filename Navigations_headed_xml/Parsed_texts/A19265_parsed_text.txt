@@ -1,0 +1,936 @@
+A godlie sermon, preached on Newe yeeres day last before Sir William Fitzwilliam knight, late lord deputie of Irelande, Sir Iames Harrington knight, their ladyes and children, vvith many others, at Burghley in Rutlande. By the minister of God Anthony Anderson. Hereto is added a very profitable forme of prayer, good for all such as passe the seas: by the same author framed, and vsed in his aduentured iourney.
+Anderson, Anthony, d. 1593.
+Approx. 92 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A19265
+
+
+
+
+STC 568
+
+
+
+ESTC S108500
+
+
+
+
+
+99844158
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A godlie sermon, preached on Newe yeeres day last before Sir William Fitzwilliam knight, late lord deputie of Irelande, Sir Iames Harrington knight, their ladyes and children, vvith many others, at Burghley in Rutlande. By the minister of God Anthony Anderson. Hereto is added a very profitable forme of prayer, good for all such as passe the seas: by the same author framed, and vsed in his aduentured iourney.
+Anderson, Anthony, d. 1593.
+[72] p.   
+
+
+Imprinted at London :
+
+
+By Thomas Purfoote for Lucas Harison, dwelling in Paules Church yarde,
+
+
+Anno Dom. 1576.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Sermons, English --  16th century.
+2013-03
+TCP
+Assigned for keying and markup
+2013-04
+SPi Global
+Keyed and coded from ProQuest page images
+2013-07
+Colm MacCrossan
+Sampled and proofread
+2013-07
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+568
+
+
+S108500
+
+
+99844158
+
+
+8947
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¶ A GODLIE Sermon, 
+Preached on Newe yeeres
+ day last, before 
+Sir William Fitzwilliam Knight,
+ late Lord deputie of Ire∣lande, 
+Sir Iames Harrington Knight,
+ their Ladyes and Children, vvith many others, at Burghley in Rutlande. By the minister of God Anthony Anderson. 
+Hereto is added a very profitable forme of prayer, good for all such as passe the seas: by the same au∣thor framed, and vsed in his aduentured iourney.
+
+
+Psal. 37.
+ 
+Marke the vpright man, and behold the iust, for the ende of that man is peace.
+
+
+¶ 
+Imprinted at London by
+ Thomas Purfoote for 
+Lucas Harison, dwelling in Paules Church yarde.
+ Anno Dom. 1576.
+
+
+
+
+
+
+
+
+
+
+¶ 
+TO THE RIGHT
+ worshipfull Sir William 
+Fitzwilliam Knight, late Lorde
+ deputie of Ireland, Sir Iames Har∣rington Knight Master Ihon Harrington his sonne and godly heire, their ver∣tuous Ladies, Wiues and faithfull children: 
+Anthony Anderson
+ Preacher of Christs Gospell, wisheth all health in Christ our Lorde.
+
+
+T
+Hough I vse not (more thē briefe notes) to write my sermons (yet right worship∣full) for that of some of your godly religious chil∣dren, I was more then earnestly entrea∣ted to set downe this Sermon, my simple newyeares gift (bestowed in comon a∣mongst you) I after lōger sute then there was great cause, graunted, and haue pen∣ned downe the same, so neare as I can
+
+ call to my memory the manner of my speche. The order and disposition I haue exactly obserued, and not omitted any note or authoritie of scripture by me then alledged. And as it is vnpossible for him that penneth not his Sermons, to set them downe, euen so, and with the selfe same words in all places as he spake them: So to all my possibilitie haue I performed as neare as may be my order and speech. And some thing haue I ad∣ded in some place, which want of tyme trained me from at that present. And if any lesse ye nowe lyke then when you herde the same, consider then the diffe∣rence betwixt reading & preaching the selfe same truth, and matter. Gods grace did thē assist the preachers spirit, voice, gesture and disposition, & likewise your hartes by his spirite were made to hun∣ger this holy bread. And now you haue the liuing wordes, (but seuered from the lyuely voyce) which neuer can bring like profit to the godly hartes, vnles greate thirste of the matter, cause the resem∣blaunce of the maner howe, to stande as freshe before your eyes. The Lord graūt it to profit as much as my good will is, &
+
+ then shall my small labour be fully re∣compensed. I haue ioyned here to the forme of prayer which I gaue to your worship (good Sir William) at Holme Patricke in Irelande, very good for all such as passe the seas, as our selues haue tasted by good proofe, the comforts re∣ceiued in our late ariual the lord be prai¦sed therefore. Take the small gyft with the geuer, all yours (as he may) in the Lorde: to whome (vvith dayly thanks for your great curtesie to me in Irelande), I in my prayers commende you & the rest vnfained∣ly.
+
+
+Ian. 3. 1575.
+
+
+Your worships in the Lord 
+Anthony Anderson.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Lord is my sheperd therfore shall I want nothing.
+
+
+He maketh me to rest in greene pa∣sture, &c.
+
+
+
+
+R
+Ight worshipfull and dearely beloued brethren, it hath from auncient dayes bene receaued, that in the first of the newe yeare, eache friende doth salute his other with some token of friendship, and ther∣with wisheth to such his friende all helth & good prosperitie in God. Which cyuill custome in 
+Newyeares gyfts,
+ I do allowe in ciuill sort, and hauing so many freinds here assembled, haue purposed, to benefite you all at once, and with suche a speciall gift as of euery of you (the same being worthely receaued) I shall be deemed to haue satisfied my office belōging my boū∣den amitie to you all. The gift I exhibit is a portion of Gods heauenly 
+treasure,
+ fully sufficient from this first day of the yeare to enriche you aboue measure in Christ, so that you vse the same wyth the spirituall instrument of faithfull and obe∣dient practise, continually in your hartes. And this 
+treasure
+ forth of the 
+Psalmists
+
+ treasury
+ I haue receaued, and by the same spirit deliuer it to you in the Lord, whose grace the Lorde vouchsafe to be oures in this holy actiō for his Christes sake. The 
+treasure
+ it selfe is the 
+.23. 
+Psalme
+ of the Prophet Dauid, the which Psalme was made by that holy king, after the receipt of his kingdome and Crowne, wherto he confesseth God to be his onely helpe, and promiseth to him selfe by the former re∣ceyued benefites, an absolute warrant of Gods heauenly prouidence in his succe∣ding Regiment. The words are thus.
+
+
+The Lord is my sheperd, therfore shall I want nothing.
+
+
+He maketh me to rest in greene pasture, and leadeth me by the still waters.
+ And so forth to the ende of the Psalme.
+
+
+I purpose (hauing thus by prayer cal∣led vpō god) to giue you the Psal. by ver∣ses, and of euery of them such comfortable lessons, as the Lorde in mercy shall gyue me to vtter vnto your Christian hartes, and with as much breuitie as may be, be∣cause of the extreme cold, that so we may more speedely approche the Lordes holy Table to receiue his heauenly mysteries.
+
+
+The Lord is my sheperd. &c.
+ The prophet
+
+ calleth his God a 
+shepherd,
+ because of his prouident care ouer him one of his cho∣sen lambes, which word 
+(sheperd)
+ impor∣teth an office of continual feeding, of day∣ly care, of feruēt loue to the flocke vnder his charge, of watching, guiding and de∣fending, to the best safety of his sheepe. All which the noble Dauid, by the spirite of Gods instructiū knoweth to be in the Lord, his & our god, & therfore he giueth his maiestie, this most apt tytle: 
+The Lord is my sheperd.
+ Dauid the prophet vseth the phrase which God by his holy spirite gi∣ueth to him & his other Prophets in cal∣ling the Lord a sheperd,
+ as thus. 
+Thou diddest lead thy people lyke sheepe by the hand of Moses and Aaron.
+ Againe, 
+O thou she∣perd of Israell herken which leadest Ioseph lyke a sheepe.
+ And when God will by his Prophet foretell in what sorte he will visite his people,
+ he promiseth his visi∣ting Christ by this name, saying: 
+He shall feede his flocke lyke a sheperde, he shall gather the lambes with his arme, and cary them in his bosome, and shall guide them with young.
+ Lykewise in the Prophet Iere. 23.4. & Ezec. 34.10.12.
+ This sheperd Christ is Dauids sheperd and Lord. 
+The Lord said vnto my Lord, sit thou on my right hand, vntil
+
+ I make thine enemies thy footestole.
+ In which place Dauid calleth Christ his lord, which is to hsm & to all y
+e
+ chosen children of god the appointed sheperd of their soules, as Christ him selfe doth witnes, saying:
+ 
+J am the good sheperd,
+ the good sheperde giueth his lyfe for his sheepe. And Peter in his first epistle thus:
+ 
+Ye were as sheepe going a∣stray but ye are returned now vnto the sheperd and byshop of your soules.
+ In a good sheperd are to be required these things, all which are most aptly found in Christe our good sheperde. He must be of sounde skill, to know his sheepe from other mens cattel, & this is said of Christ, I know my shepe by name, & am knowne of mine. He must haue skill in pasturing his sheepe, least he bring them to rotten soyle, and wasting grasse. In Christe is the onely pasture of mans soule, in whom all safetie of foode is, for his glorious gospel is our heauen∣ly foode, his spirite & life is our celestiall diet, & by the mouth of our faith, this our bread of lyfe is of euery of vs that beleue, firmely eaten, and the same is so sounde and sweete pasture, that no rot and death can come vnto the worthy fieldes,
+ or any lesse able is yt then his
+
+ diuine power to bring vs to life eternall. Thirdly a good sheperde must haue will to feede according to his skill, that so his sheepe may not be pyned for want of his louing paynes: So Christ is most louing of all others to feede his lambes, who hath not spared to lay downe his lyfe for the foode of his sheepe. willing to feede, for he calleth all men to hym for pasture. most carefull of their diet,
+ and therfore he hath left their 
+Pabulum
+ his holy worde to the ende of the world, whereby his belo∣ued sheepe shoulde become fatte and well lyking in him, and hath to this ende com∣maunded Peter to feede,
+ & also hath from thence tyll nowe, and will to the ende of this worlde select his pastors from a∣mong men, to feede men with the breade of life, Christ in his word & Sacraments. Further a good Sheperd taketh greate eare ouer his sheepe, and vigilantly doth search if so any of them skabbe, or be in∣fected, and finding them faultie, hee ad∣dresseth him selfe to their amendment: so Christe our Lorde doth dearely care ouer his flocke,
+ they be to him as the apple of his eye for them he hath payd the price of their synne, and deadly disease, namely
+
+ his owne heart blood, he seeketh the lost and caryeth thē on his owne shoulders,
+ he annoynteth their sores with the soue∣raigne salue of his mercy and iustice:
+ with y
+e
+ one he pacifieth, and that because he fully satisfieth his iust Father: with the other he couereth our sins & healeth our infirmities. He most louingly loketh into our weakenes, and beareth vp our infancy, he breaketh not the brused rede,
+ nor quencheth the smoking flaxe. He suf∣fereth not our lyues to be lasciuious, but scourgeth and purgeth vs, that we may bring forth more frute.
+ Lastly a good she∣perd hath himselfe, his staffe & sheperdes dog, to help & aide his wandering flocke. Euen so hath Christe giuen him selfe for our defence,
+ his preaching prophets haue of him especiall charge to feede his flocke, and them protect continually:
+ and great plagues hath he appointed to suche ydle sheperds as no way fede his lowly lābes: and though all men faile,
+ yet Dauid byd∣deth vs all be glad, for the Lorde is our sheperd therfore shall we not want. And now dearely beloued, tyme and place re∣quireth to speake something of y
+e
+ sheepes propertie, which belong to that sheperde
+
+ Christe, the which thing knowne, euery man and woman with their young ones, may with examination of them selues, best say to God, I am thy shepe, for thou O Lorde art my sheperd. For of no other is Christ the Sheperd, but of those which know their wandring wickednes, & feele their staie to stand in him their God, and spedely submit thē selues vnder his tui∣tiō. And to this is Dauid our guide, who notwithstanding he was rich and a migh∣ty king, yet he freely confesseth his health to be in this, that he is the Lords sheepe, & hath Christe to his euerlasting sheperd. In a sheepe are sundry thinges agreeing, with the corruption of our nature, and therefore standeth in great neede of an ex∣pert sheperde. She is foolishe and vn∣wares of harmes, she runneth into dayly daungers in her selfe remediles: So we by nature are vnwise, and blynde to all heauenly thinges.
+ Or can the naturall man sauor the thinges which be of God, or yet keepe hym from the wandring pathes of death.
+ The wandring wayes of all the beste may set downe this: to the other sorte, for all to true, that man can not but sinne and dayly runne from God
+
+ the Lorde. Our Dauid he, may stande as able among the rest, to this for profe, nei∣ther can any in the fleshe by the qualities fleshy please God.
+ A sheepe for weakenes and want of courage is vnable to stande agaynste so many her deuouring foes, the Foxe, the Wolfe, and the rauenous Lyon: nor is the stoutest mā in y
+e
+ earth by nature, of power to gyue checke vnto synne, who like a subtill Foxe lyeth lur∣king and fawning for his pray of Chri∣stian soule: or from the gaping gulfe, of woluishe chappes that hipocritically seeke his spoyle:
+ or yet from the raging Satan, who goeth roring abroade see∣king euery where whō he may deuour. The good sheperde Christe therefore is moste requisite, in whom against all these we may goe in and out safely,
+ and finde pasture.
+
+
+But els the naturall sheepe hath qua∣lities right good, which are frequented in the children of God, they know their Pastors whystle, and thereat they yelde vnto his will. So the sheepe of Chrste refusing all straunge voyce, they herken vnto y
+e
+ word of our sauiour Christ, & ther∣in
+
+ they take such comfort as hauing ther∣in full contentatiō they eschew all others charme, be they neuer so subtill, & sly. The sheepe is euer feding with his flece those, which no way haue pleasured him, for he hath his lyfe of his sheperdes pasture. So the children of God, lyuing in their Christ, are beneficiall to all for his names sake.
+ The sheepe is laid by the sherer to the losse of him selfe, vpon the thrall, and yet he openeth not his mouth: So also the true christian abideth for his Christ all ig∣nominy,
+ & reprochful death not resisting at al, but willingly abydeth the crosse ex∣pecting the euent in the Lord, which is to them that suffer for his names sake euer prosperous. Now my brethren of the pa∣stors condition clasped in Christe and of the sheepes nature fixed by his spirite, learne your selues to know to whom ye belong, and yf you feele your selues the 
+Foldimates
+ of Dauid, then may you be bold to say, 
+The Lord is my sheperd therfore can I not want.
+ The wants whereof the prophet here speaketh are of two sortes. The one is called insaciable lust, the other necessarie nede. With the first as the god∣ly are not combred (for that belongeth on∣ly
+
+ the reprobate) so the other in them is e∣uer remedied by the feeding sheperde Christ, first in supplying their neede with present necessaries: then in forming their harts to be content with their estate, esta∣blished by his diuine prouidence, to his glorie and their beste good.
+ 
+I haue bene young and now am I olde
+ (sayth Dauid) 
+yet neuer sawe I the righteous forsaken, or his seede begging their breade.
+ Helias fol∣lowing his vocation,
+ was forsaken of all men, but dayly fed of God by the ra∣uenous Crowes, & the poore wydowes meale, when the riche gluttons of Israell were pined for want of necessarie foode.
+ Daniell seeking chiefly the glory of our God is cast into the hungry Lyons den in deede, but preserued to lyue, and to him is sent the prophet Abacucke with his dinner many a myle by the guide of an Angell. The Iewes which folowe Christ into the wildernes are of him mi∣raculously fed.
+ And to all is this promise gyuen. 
+Seeke first the kindome of God and the righteousnes therof, and all other thinges shall be mynistred vnto you.
+ Now as concerning that the Lord frameth his peoples harts to be contented with their estate. Paule
+
+ for the body of the whole churche, sayeth thus:
+ 
+I haue learned in what state soeuer I am therwith to be content, & I can be abased & I can aboūde, euery where in all things I am in∣structed, both to be full & to be hungry, & to a bound,
+ 
+and to haue want.
+ The wicked many tymes do florishe as the greene bay tree, and haue the worlde at will, great store of welth for them selues and childrē, so that their sonne sonnes doo feede of the elder gotten bread, but withall they haue their portion in this lyfe, and after that can see no further cōforts. And though the godly contrary do feele many wants, and seeme in mans conceipt vtterly to decay, yet far other is their state then externall shewe doth tell, For the Lord is their sheperde, & whē they seeme to dye, they lyue: they are chastened, but not killed: they seeme in so∣row to be swallowed vp, but they alway reioyce:
+ they seeme poore, but yet they make many rich: & depriued so of worldly comforts seeming to haue nothing, they notwithstāding possesse all things. Like∣wise their ende is farre otherwise then the worldly riche. For the Lorde dealeth with them as the noble man with his fat∣ted Oxe, when he is well fedde, is by the
+
+ slaughter man committed to the axe of death, his noble sonne abydeth many sharp yirkes and correcting blowes, and after that enioyeth his fathers possessi∣ons: Euen so the wicked in wealth are wrapped with Diues in hell, and the be∣loued (though payned Lazarus) is caried by seruice of Angels into our heauenly Fathers kingdome,
+ our Christes inhe∣ritaunce belonging to the iust. This is the marke that Dauid shooteth at when he sayth, 
+I shall not want.
+ It followeth,
+
+
+He shall make me to rest in greene pasture,
+ he leadeth me by the styll vvaters.
+
+
+All things necessarie shall the Lorde geue me sayth Dauid, and that in no base sort, or shall any trouble molest my feeding? for I shal quietly be guyded, and my pro∣speritie shall be continuing, alwayes flo∣rishing greene, and at no tyme dry or wi∣thered, neyther shall his blessinges be ta∣ken from me with the rage of wicked men: but as the shepe, of her selfe weake, needeth resting place, and quiet riuers: so shall all thinges come to the best, and to my hartes desire in him. But beloued in Christ, our shepheard is spiritual, ther∣fore our pasture must be answerable, and
+
+ it is set downe to vs by our master & Pa∣stor, thus:
+ 
+He that heareth my vvorde, and beleeueth on him that sent me, hath eternall lyfe, and he shall not come into iudgement, but hath passed from death vnto lyfe.
+ Heere is the pasture of life the gospell of God: The rest for mans soule, fayth in God through Christe:
+ The still waters, the holye spirite whiche dothe pacifie the troubled conscience, and quietly establi∣sheth vs in Christe, who freeth vs from the Fathers iuslice, the sentence of eter∣nall death, and giueth vs hys glorious Crowne, and heauenly kingdome our inheritaunce in him. Come to this pa∣sture,
+ feede on this bread, rest in this po∣wer, drinke of this water, So shall you no more thirst after the filthy puddles of Popishe poysoned Cuppes. For in your selues (by this spirite of Christe) shall abundant riuers of spirituall goodnes flowe out of you, that all men seeing your good workes,
+ may bee prouoked to prayse the Lorde. This God graunt you for his sonne our sauiour Christ his sake. Amen.
+
+
+He shall conuert my soule, & leade me in the pathes of righteousnes, for his names sake.
+
+
+
+
+Three especiall thinges in this verse the Prophet teacheth moste notably. Firste, that we are by nature stubborne, and e∣straunged from the nature belonging the sheepe of God. Secondly, that after rege∣neration by the spirite, there remayneth yet in vs such matter of massy sinne,
+ that vnable we be to walke the pathes belon∣ging to the children of god, and therefore it behoueth vs to haue a leader into righ∣teousnes. Thirdly, as many be the falles by sinne which Satan and the fleshe pro∣cureth to vs: So sundrie be the fruites of the godly. In whiche vertues, as in sinne, Satan seeketh our ouerthrowe, if so he can make vs to reste in them, as eyther satisfactorie to God, or me∣ritorious for their valor. But the Lord by his Prophet here preacheth, that our conuersion to god, & our walking dayly in godlynes, is from & by the Lorde, and that also not for any preuenting, forekno∣wne, or succeeding graces in vs: but on∣ly soly for hys names sake. He shall conuerte my soule, sayth Dauid. The roote of the Tree beeing sounde and good, feedeth hir braunches to hir fruit∣full life: So the soule of mans principall
+
+ substaunce beeing made whole & sounde, can not but geue life to the whole body. In this braunche also we are to note, that vnles the inwarde man be turned vnto God, thexternall partes can be but hi∣pocriticall, and seruing time. So the No∣bles in 
+Ioash
+ Court, during the dayes of the good Byshop 
+Jehoiada,
+ seemed moste religious,
+ but death had no sooner depri∣ued the godly of this Priestes life, then they diswaded the Prince, & to their earst ydolatrie perswaded they him. Many be the mouthes that nowe confesse them selues changed frō Popish life, but God continue our noble Elizabethes raigne, and the Gospell safe progresse, els doubt I that stormy dayes would sterue y
+e
+ smal store of liuing grace, in many Englishe hartes of sundry callings. But who so is turned in hart and minde vnfaignedly, he ioyeth the dayes of dangerous death, and soroweth to see the worldly solace, the cause no doubt of all infinite woes.
+ He hateth that he loued first, he lotheth at his former lyfe, he is ashamed of sinne, he ca∣steth off from him the works of darknes, and confessing Christe with his lippes, because he beleeueth on him in harte,
+
+ he dayly walketh in the pathes of righ∣teousnes after his leader Christ our lord. And here with me note, good Auditorie, who it is that doth conuert mans soule, him selfe, or some other: the Lorde our Shepheard, Dauid sayth it is, 
+He shal con∣uert my soule.
+ In that we are conuerted, it is not our action, or in our power is it to become the sheepe of Christe, but it is the worke of God in him. The order also in our conuersion to the Lorde is excel∣lent. The Father geueth to his Christe those whiche shall be called.
+ The holy Ghost he giueth into their hartes, whom he hath predestinate to lyfe, which spirite graffeth them into Christe, who by his blood doth wash their soules from sinne, and by the same his spirite doth forme them in his fayth, whose Gospell he wri∣teth in their hartes, and sheedeth his loue into their consciences, so that they walke in newnes of lyfe, because they are taken vp, and the olde man in them cast downe, and as newe creatures they follow their leader Christe, into the steppes besitting their condition. These are they whiche are 
+theodidaktoi,
+ all taught of God. This elegant order is described at large by the
+
+ Prophet Ezechiell, in this sort: 
+A newe hart vvill I geue you, and a new spirite vvill I put vvithin you, & I vvill take away the stony hart out of your body, and vvill geue you an hart of flesh, and I vvill put my spirite vvithin you, and cause you to vvalke in my statutes, and you shall keepe my iudgements, and do thē.
+ And a little after, 
+I vvill be your God, and you shall be my people:
+ And agayne thus, 
+Then shall ye remember your owne vvicked vvayes, and your deedes vvhiche vvere not good, and shall iudge your selues vvorthy to haue bene destroyed for your iniquities and ab∣hominations. Be it knowne to you that J doo not this for your sakes,
+ sayth the Lord God, 
+therefore be ashamed and confounded for your owne vvayes.
+ And Paule to the Romanes hath it thus, 
+Those which he knew before, he also predestinate to be made like to the image of his sonne, that he might be the first borne a∣mong many brethren.
+ Moreouer, 
+Whom he predestinate, them also he called, and whom he called, them also he iustified, and vvhom he iustified, them also he glorified.
+ This is the golden gifte of god, thus is oure newe creation lincked in this precious chayne.
+ The celestiall god hath inward∣ly beyonde tyme predestinate and crea∣ted
+
+ his people to the likenesse of hys sonne, and hath by his holy spirite sealed them to him selfe, and by thexternal Or∣gan his holy worde, through the ministe∣rie of preaching, in their seuerall times hath he called his sheepe to the know∣ledge of their shepheard Christ,
+ and state in him, and by his bloody death hath iu∣stified them before, and with his superna∣turall power hath made them glorious with the Angels. So our conuersion,
+ as it is by the Lord, so is it by his spirite and gospell wrought in vs. Howe necessarie then the office of preaching is, you see, it is the instrumentall cause of our conuer∣sion. How miserable that place is which wanteth preaching, may you perceyue by the glory that commeth through dayly teaching Christ by the truth in his word. For this cause Christe so often,
+ Iohn Baptist so diligentlye, the Prophetes seuerely, the Apostles moste playne∣lye, the Pastours and spirituall shepe∣heards in Gods Churche nowe moste comfortablye, doe offer and exhibite vnto you the trueth of God to tourne your heartes. By the preaching of the worde, the worlde from tyme to tyme
+
+ hath bene wonne to Christe the sonne of God: and by the same the Gentiles are conuerted into him: hereby this nation is chaunged into truth, and Popery ouer∣throwen: by this shall the hartes of the children he turned to the fayth of their fa∣thers in God,
+ and the Reprobate shall heerewith be condemned. And this pro∣pertie Dauid giueth to the worde: The Lawe of the Lorde,
+ sayth he, conuerteth the soule, the testimonie of the Lorde is faythfull, and giueth light vnto the eyes. The necessitie of teaching Paul preacheth to be great:
+ woe vnto me if I preache not (sayth he).
+ where preaching fayleth, the people perish, sayth Salomon. Fayth commeth by hearing of the word of God, sayth Paule to the Romaines:
+ without fayth can not a man please God: by faith we shall be more then conquerours:
+ he that beleeueth shall be saued,
+ but he that beleeueth not shall be damned, sayth our doctor Christe. Fayth is brought by hea∣ring, hearing wayteth of the Preacher, the Preacher is dombe vnlesse he be sent: pray therefore the Lorde of truth, to send more store of true & paynfull Preachers into this Churche of Englande, and this
+
+ shire, and conuert in mercy, or confound by Iustice,
+ these dombe Dogges whiche can not barke: these watchemen whiche can not see: these ydol shepheards which eyther can not, or will nor feede the hun∣gry Lambes of Gods holy Church, and shepefold of this nation. O Lord graunt this for thy Christ our chiefe shepheards sake. Now deare freends examine your selues here present: Is this holy chaunge wrought in you? maye I say vnto you with Paule, 
+Ye were sometime Gentiles,
+ 
+ye vvere dead in sinne, ye vvere without God in this lyfe?
+ But you hath he quickened: you hath he called: you that were no people, hath he nowe made the people of God: you are no more straungers and forre∣ners, but Citizens with the Saincts, and of the housholde of God, buylt (not vpon the Romishe rocke, but) vpon the doc∣trine of the Apostles and Prophetes,
+ Ie∣sus Christe him selfe beeing the head cor∣ner stone: in whom (my brethren) if you be by his spirite grafted and buylt, you shall growe to an holy temple in the lord. I trust to you I may say thus: Ye were Gentiles, but you are Christians, of the cheefest I knowe it, of the rest I haue
+
+ great cause to thinke it, and therfore with great comfort in God, I proceede to the second point. 
+He leadeth vs in the pathes of righteousnes for his names sake.
+
+
+In God is our conuersion, in him also is the continuance of our vpright wal∣king before him. First, of vs is here to be noted a double righteousnes, whervnto we are brought by Christ. The first is the righteousnes of Christ for vs to the Fa∣ther. The seconde is the righteousnes of man by Christe, and is the worthy wal∣king in holines of lyfe without ceassing. The righteousnesse of Christ for vs,
+ con∣sisteth in the person of him selfe, who for vs hath so answered the fathers full iu∣stice, in his iuste sacrifice, and hath so in∣corporate vs into him selfe, by fayth throughe his spirite, that the same his righteousnesse is accompted for ours, so that though we by nature are wicked, yet in respecte of his grace we are san∣ctified, and iust in the sight of God, whose it is to saue and to condemne. Of this iustification or righteousnes Paule spea∣keth thus.
+ 
+God sending his owne son downe in the similitude of sinfull fleshe, for sinne condemned sinne in the fleshe that the righ∣teousnesse
+
+ of the lawe, might be fulfilled in vs, which walke not after the fleshe, but after the spirite.
+ The seconde righteousnesse is the dayly walking in newnes of lyfe, which is of euery man required that thus by the Lord is iustified. The grace of God (sayth Paule) that bringeth saluation vnto all men appeared,
+ and teacheth vs that we shoulde deny vn∣godlynesse and worldly lustes, and that we should lyue soberly and righteous∣ly, and godly in this worlde, loking for the blessed hope and appearing of the glory of the mightie God, and of our Sauiour Iesus Christe, who gaue him selfe for vs, that he might redeeme vs from all iniquitie, and purge vs to be a peculiar people vnto him selfe, zea∣lous of good workes. Into both of these Christe leadeth vs, for of our sel∣ues we are vnapt, inable and moste vnworthy, had we power to enter into the firste, to winne the latter. Dayly we be looking backe from the plough, where vnto we are brought by Christ,
+ therefore vnapte of oure selues to his kingdome. wee haue not so
+
+ much power as to think a good thought, but that sufficiencie which seemeth to be in any of vs,
+ the same is of God, who doth both beginne the worke of God,
+ and performe the same in vs. The better lear∣ned we be in God, the more fully we see our vnworthines, to be accompted mem∣bers of his righteousnes. As the Prophet Ezechiell sayth,
+ I will deliuer you from all your filthines, &c. Then shall yee re∣member your own wickednes, and your deedes that were not good, & shall iudge your selues worthy to haue bene destroy∣ed. Zacheus was the best disposed man in that people, and the more graces he had with the Centurion, the more vn∣worthy he thought him selfe of Christes presence at his house: but beeing comfor∣ted by Christ, he tooke most ioy therein. Finally, let vs note the valor of this worde, 
+He leadeth vs.
+ That we are righ∣teous before God, it is that Christe our shepheard leadeth vs by his spirite, and fayth, vnto the throne of grace, where he presenteth vs as deare children to God his father, and teacheth vs to crye vnto him,
+ 
+Abba
+ deare father. Into which state by his spirite brought, we firmely see our
+
+ saluation to rest in him, and that we are sealed to the Lordes saluation.
+ Yea and the witnes euen Gods holy spirite from that Throne, is set strongly in our harts, and within vs doth beare witnes against Satan, sinne, and the worlde, that follo∣wing our God by the fayth of Christ, we are become his children, so righteous that no man can condēne vs, because our god hath in his Christe set vs free.
+ To the seconde he leadeth vs in him selfe first: as Peter sayth, 
+Christ suffered for vs,
+ 
+leauing vs an example that we should followe his steps, vvho did no sinne, neyther vvas there any guyle founde in his mouth, vvho vvhen he vvas reuiled, reuiled not agayne, vvhen he suffred, he threatned not, but committed it to him that iudgeth righteously.
+ Secondly, by his holy spirite he conducteth vs into all goodnes.
+ For eyther are we lead by Sa∣tan and fleshe vnto euill, or by his spirite and grace into all godlynes.
+ In our sel∣ues there is no power of passing to good, or will to stay from euill.
+ Of whom soe∣uer a man is ouercome, his seruaunt he is sayth the Apostle, whether of sinne vn∣to death, or of grace vnto lyfe. And those which be the sonnes of God, are lead by
+
+ the spirite of God, and strengthned in the inner man,
+ Christ dwelleth in their harts by faith, they are rooted and grounded in the loue of God, they are by Christ cou∣pled one to another in him, through him they receiue the increase of the spirituall body, & edify one another: and therefore they walke not as other Gentiles, or them selues earst did, in the vanitie of their mynde, with darkened cogitations in blynde hipocrisie, but they caste of the old man and passed conuersation, and be∣ing thus renued, they put on the newe, which is created in righteousnes & true holines after the will of God.
+ Thus they folow by the spirite the commaundement of Paule in Christ, saying: 
+Be ye followers of God as deare childrē.
+ And him self going before hath giuen vs a rule to measure the saintes imitatiō, saying: 
+Folow you me, as J folowe Christ.
+ The Lord graunt vs his grace and spirituall strength by prospe∣ritie and aduersitie, sycknes and health, lyfe & death, thus to folow our leader, and pastor Christe Iesus, in true holinesse and righteousnes before him all the daies of this our present lyfe.
+ I dwell in speche to teach the sheepe of God onely,
+
+ and therefore I leaue to set you forth the pathes of the wicked goates, whiche knowe not God, nor can be accepted of him.
+ They runne through the pleasures of this lyfe, and lyue at luste, till death do sūmon their soules to the tribunal throne whence they are caste to euerlastinge torments and woe. But or we passe this verse, we ought depely to consider the conclusion of Dauids words which are: 
+This hee doth for his names sake.
+ From the beginning the godly haue felt his de∣fending and guiding hande, & by his spi∣rite they haue bene fedde and ledde the wayes to lyue in him, but neuer was there any one, or could the worthines of all, being layd vp into one lumpe, deme∣rite the lest his benefits, or euer challenge cause beyonde his owne names sake to moue his so greate mercy to his chosen churche and children. For his names sake he hath conuerted and ledde vs, that is for his owne glories sake, and not our worthynesse hath hee thus bles∣sed vs. Then thus the Prophet sayth: 
+That the Lorde is our shepheard,
+ that he hathe chosen vs from the wicked woorlde to be of the nomber of his
+
+ elect children and sheepe of his pasture, that he temporally feedeth vs: that he by his spirite, and the ministerie of his gos∣pell conuerteth vs: that he maketh vs righteous before his Father in him, and leadeth vs by the hande into all godly ac∣tions and christian lyfe: that he conduc∣teth vs into safetie from the furie of our crooked foes, and euery way blesseth vs: it is not for the excellencie of our beautie, for that is but grasse:
+ not for our righte∣ousnes, for that is to his eyes as a filthy mēstrous cloth. But it is for y
+e
+ same cause wherwith he hath euer bin prouoked, and that is, 
+for his owne glories sake.
+ So haue the Fathers from time to time confessed, condemning them selues for sinne, and accepting his benefites for his mercye sake, and his holy names sake. This is that the Prophet would haue vs to reste in, when he sayth, that the name of god is a strong Towre of defence. For his names sake he will leade vs, and nourish vs: for his great names sake he will not forsake his people:
+ and for his names sake he will farre hence remoue his anger from vs. The same shall cause him to preserue his truth among the gentiles.
+
+ And that he continueth his gospell, our gracious Queene and this quiet gouer∣ment ouer vs, it is not for our worthy∣nesse, who be all for our dayly sinnes most vnworthy of his mercyes, as the Lorde for euer speaketh to all fleshe thus:
+ 
+Be it knowne vnto you that I do not this for your sakes:
+ No Lorde, but for thine own names sake, to the which, only be all glory for euer. It foloweth.
+
+
+ And though I should walke through the val∣ley of the shadowe of death, J will feare no euill, for thou art euer with me. Thy rodde and thy staffe they comfort me.
+
+
+The lessons againe be three in especiall whiche Dauid hath taught me in this verse to deliuer you. The first is, though y
+t
+ the godly safely are set vnder y
+e
+ Lordes protection, as the sheepe vnder the most faithfull shepheard, yet are they assaulted with sundry attempts,
+ and eminent daungers. 
+Many be the troubles of the iust
+ saith the Psalmist, 
+but the Lorde deliuereth him quite out of all.
+ And his mercy hath so determined the matter, that the godly perceauing his holy hande, might more firmely reste in his fatherly prouidence. Secondly the godly are not freede vnder
+
+ the shepheard Christ frō all kind of feare, but are set amid the mightie helhounds of the earth,
+ that they should warely walke and shunne thoccasion of daunger, but if they be so exalted by the Lord, to haue the crosse, then are they freed frō shaking ter∣ror,
+ & desperat feare, & strengthned by his spirit: they follow Christ whither soeuer he goeth.
+ So the Israelites folowed Mo∣ses in the Red sea, so the children y
+e
+ Angel in y
+e
+ burning Ouen,
+ So Thapostles their master Christ to death & cruell torments. So Dauid without feare is redy to con∣tinue his calling though he passe through the valley of the shadow of death, that is, though he enter into most extreme perill. The third is y
+e
+ boldning force which Da∣uid attēpteth by his shepherds croke, 
+Thy rod & thy staffe they cōfort me.
+ Two things sayth Dauid driue al feare from me. Thy presence, for thou art with me: & thy care∣ful gouernment, which is always exerci∣sed to my good. Note good people, y
+e
+ god is alwais present, & beholdeth al our acti∣ons, & perceth into our thoughts: he sawe Sara in Abimelecks chāber,
+ & Bethsaba in Dauids bed.
+ He preuented Herodes purpose, & brought confusion to Saules
+
+ persecution.
+ He beholdeth the oppression of the poore afflicted, & is present to heare their cry when they call vpon him. All things are naked & open to his eyes,
+ and therfore reuerently walk before him, & be thou vpright.
+ He fetched Ionas from his fleeing ship, & cast him into y
+e
+ whales bel∣ly.
+ He brought his preaching Peter forth of the prison fast locked in with yron ga∣tes. He is present euer to helpe innocent Susanna out of distresse, & ready to cast the corrupted Iudges vnto their deser∣ued death. This was Dauids comforte, 
+Thou Lorde art vvith me, therefore will I not feare.
+ Let the same teache vs nowe to say, our God and Christ is present by his spi∣rituall ayde and comforts in all troubles to assist vs: of whom then shall we be a∣frayd, for thogh fast closed in yron gates, through the strength of our god we shall leape ouer the wall. And though persecu∣ted for his cause, yet is he redy to comfort vs in all tribulation.
+ So that we are a∣ble to comfort others which be in afflic∣tion, by the same cōfortes which we haue receyued our selues of God. Secōdly, thy carefull gouernment sayth Dauid dothe administer no small solace vnto me, 
+for
+
+ thy rodde and thy staffe they comfort me.
+ Da∣uid elegantly, dwelling in the receyued Metaphor, setteth foorth Gods good go∣uernment by the Shepheards rodde and staffe, which rodd or Shepheards crooke is vsed of a cunning heard, to constrayne the declining sheepe, to his former foldy-mates, to vrge the wanderer to his won∣ted felowes, and to force the slouthfull Plodders better to pase it: Euen so the Lord by his holy rod and staffe of health, doth scourge our wandring steppes, and with his correcting hande, in loue, dothe ioyne vs to his Church, and if slouthfully we lye aloofe, he vseth sharper blowes to cōpell our speede to ioyne with others in the seruice of our god: all which is to the best comfort of his chosen childe. But here is named a Rod, and a Staffe, the one to correct vs, thother to defende vs. And both of these are doubled in the holy scriptures. God is sayde to haue a two∣folde Rod, the Rod of his loue, and the Rod of his anger.
+ Also a twofold staffe: as in Zacharie the staffe of beautie, and the staffe of Bands. Of these two rods, and these two staues, the scripture spea∣keth thus, First Thapostle sayth, that in
+
+ loue he scourgeth his people, & correcteth their sinnes, least they should be damned with the wicked world.
+ 
+When we are thus iudged
+ (sayth Paul, speaking of gods cor∣rection for thabuse of the Eucharist) 
+wee are chastened of the Lord, that we should not be condemned vvith the vvorld.
+ Behold his louing Rod. Our dayly transgressions demerite death, but his dayly mercy who willeth not the death of a sinner,
+ chāgeth his sharpned sworde into a smarting rod,
+ thereby to worke in vs true repentance,
+ and humble pacience. For as his hand is striking,
+ his bowels are boyling in pitie towards vs, and with his spirite dothe chaunge our hartes, and supporteth our falling state, by hys defending staffe. 
+Wherefore despise not
+ (sayth Paule) 
+the chastening of the Lorde,
+ 
+neyther faynt when thou arte rebuked of him. For vvhome the Lorde loueth, he chasteneth, and he scour∣geth euery sonne that he receyueth. Yf yee endure chastning God offereth him selfe vn∣to you as vnto sonnes, for vvhat sonne is he vvhome the father chastneth not? Yf ther∣fore yee be vvithout correction, vvhereof all be partakers, then are yee Bastardes and not Sonnes.
+ See dearely beloued, the na∣ture
+
+ of our louing Father in this his rod of loue. And now it should seme this doc∣trine to be moste liuely, when as we see his heauy hande whipping our brethren with the smarting scourge of pestilence, Irelande is therewith euery where infec∣ted. Englande is infected, and this our Countrey, and Townes very neare vs. Stamford and Vppingham, greeuously visited. Hereby we ought to be moued to repentaunce, knowing that for sinne our God our shephearde chasteneth vs with rebukes (that I may vse our Prophetes words in the Psalmes) and with his rod maketh our gallant beautie to fade away,
+ as it were a mothe fretting a garment. Euery man therefore is but vanitie: But there be some of you (me thinketh) that whispereth in my eares, thus: Syr you knowe that many of vs together with your selfe, God hath most louingly deli∣uered from this pestilent rod, in Ireland, yea and so, that wonderful was our safe∣tie. The whole land is visited, no towne knowne free, in the house where we lay some dead, in the shippe wherein we pas∣sed the seas, one or moe gone to God: and sith our departure, the Knight, with
+
+ whom we were twentie dayes (wayting Gods blessing for westerly winds) hath in his owne person therwith bene scour∣ged. The which deliueraunce seemeth to cleare vs, in deseruing so heuie a scourge, though called a louing rodde. So of the rest (I deeme) some say, and wee also are not touched with the plague, but they whiche haue deserued it, haue it: this doctrine therefore might best serue those whiche are nowe exercised with his lo∣uing Rodde. But to one and other of you I say (deare brethren) as Christ our louing Shephearde sayde to the repor∣ters of Pylates cruell facte, who min∣gled the blood of the Galileans with the sacrifice of the Iewes, thus:
+ 
+Suppose yee
+ (saythe Christe) 
+that these Galileans were greater sinners then all the other Galileans, because they haue suffered suche thinges? I tell you nay. But except yee amende your lyues, ye shall all likewise perishe. Or thinke you that those eyghtien vpon whom the Towre in Syloam fell and slewe them, that they were sinners aboue all men that dwelt in Ierusa∣lem? I tell you nay. But excepte ye amende your lyues, yee shall all likewise perishe.
+
+
+ So let Christ say to you heere present: That you are by my sparing hande brou∣ght from the plague in Irelande, that you are yet seuered from the sicke here in Rutlande: it is not for that any of you, (from the Preacher to the basest Hearer) haue lesse offended, but that I woulde vse them for your Preachers to amendement, and them selues to a bettered lyfe, as hereafter (yf by their example ye amende not) I will make you the lyke example to others, when they shall see my hande shaking ouer you. Praye for our brethren therefore, helpe too succour theyr present neede, and repent in time, least that his scourge of loue beeing remoued, we feele the heauy fall of his angry Rodde. Wherof our Prophete speaketh in the seconde Psalme,
+ prophecying the vtter ruine of all those that insult agaynst Christ and his chosen children. For as he is moste louely vnto his louely sheepe, So to the stubborne harted he is the God of strength, who can and will correcte, or compell them to stoupe to his good plea∣sure. And he is sayde to haue an yron Rodde in respect of his diuine power,
+
+ and princely dominion ouer the mightie Kinges of the earth, who with his worde doth arme the weake things of the world, agaynst the moste gigaunt vnder heauen. Lise and Frogges shall bee to strong for stout Pharao the mightie gi∣gante king of Egypt,
+ and weake Dauid shall ouerthrowe the huge armies of the Philisteans, the Syrians, y
+e
+ Ammonites,
+ & the Moabites. The Idumeans,
+ and the Syriās shal oftē by weaknes be brought frō their great strēgth.
+ Sennacherib with his Rabsekah shal leaue his siege agaynst Ierusalem, & shal be broken into peeces: his owne sonnes shall strike him to the hart with their swords (the Lordes yron rod) to his vtter confusion. And to this their vtter shame, the Lorde from heauen shal vse but his only word, and with the breath of his mouth shall he make al crea∣tures redy to be his rod, to the confusion of the wicked. His owne prophet Elisah shal cause blindnes to come into the eyes of the mightie host, which frō the king of Syria are sent to take him, and shal bring thē into Samaria y
+e
+ citie of their enemies. Bennadad the king of Aram shal be com∣pelled
+ to remoue his siege from Samaria
+
+ in one night,
+ because the Lord hath made the concept of hearing of charrets & hors∣men, to be his yron rod to driue them be∣fore their enemies, which by them before were brought to most extreme pennurie, so that an asses heade, was solde for foure schore siluerlinges, and a load of doues doung (to rost the same) for fyue syluer∣linges. The former churches of the caste which did degenerate frō their first faith,
+ hath he with this his angry rod, cast vn∣der the power of the Turke, that they may beleeue lies to their destruction, which would not receiue the truth, when it was offered them. Christe in his owne person is this rodde of anger, to all that stubbornly resist him.
+ He that stumbleth at this Christe shall be brused, but vppon whōsoeuer this stone Christ shall fall he shall grind thē all to poudre,
+ take hede of this angry (so dayly prouoked) yron rod. For as to the faithfull he is lyfe and con∣solatiō, so to y
+e
+ vnbeleuing & obstinate, he is the yron rod here spoken of. His ghos∣pel, Apostles, preachers & ministers, hath he made to be the same, according to the nature of their auditory, as The Apostle Paule witnesseth, saying: 
+The weapons of
+
+ our warefare are not carnall,
+ 
+but mighty through God, to caste downe holdes, casting downe the imaginations and euery high thing that is exalted againste the knowledge of God, & bringing into captiuitie euery thought to the obedience of Christ. And hauing ready the vengeaunce against all disobedience, when your obedience is fulfilled.
+ O my brethren consider your calling: ye are the sheepe of Christe, what belongeth your calling: Truely to heare with reuerent obedience his voyce. What is his workmanshippe then of you regenerate? To purge you with his rodde of loue that ye should be more fruitefull, and to the greater com∣fort of you his chosen: he plaigeth to de∣struction with his angrye yron rodde, the wicked whiche can not but muche moleste you, were they vnbrydled. Take heede in tyme, repent and be∣leeue his ghospell,
+ leaste the former being ended, his second rodde beginne to skoure you oute of place, for a better people.
+ Thus muche for the Lordes roddes, and nowe to the shep∣heardes crooke, that doubled staffe, of whiche Dauid thus sayth: 
+Thy rodde and thy staffe they comfort me.
+
+
+
+
+As it is farre more safety for vs, to be vnder our shepheards rod, then commit∣ted or left to the woluishe iawes of Sa∣tanicall broade: So is it our best comfort and assured prosperitie to dwell vnder the reach of his most louing gouerment, which here is set forth vnto vs by the shepheard staffe. Very significātly doth y
+e
+ Prophet Zachary set downe the loue and anger of God, by the two stanes which Christe our shepheard first toke into his hand, and after brust in sundre. And these be his words: 
+I toke vnto me two staues
+ (the prophet speaketh in the person of Christ) 
+the one J called beautie,
+ 
+and the other I called bāds, & J fed the shepe.
+ And a little after he sayth: 
+Their soule abhorred me, and J sayde, J vvill not feede you, that vvhich dyeth let it dye, and that vvhich perisheth let it perishe: and let the remnant eate one another: euery one the fleshe of his neighbour. And J toke my staffe beauty and brake it, that J might disa∣null my couenaunt vvhich J had made vvith all people:
+ And somewhat after, thus, 
+Then brake J myne other staffe, euen bandes, that J might dissolue the brotherhoode betvvene Ju∣dah and Jsraell.
+ By the firste staffe beauty, the Prophet vnderstandeth that most ele∣gant
+
+ frame of the Iewishe common welth & gouernment, which for the great excellencie thereof, is here called beautie. Of this staffe Moses triumphing spea∣keth thus: 
+Keepe these lavves and do them,
+ 
+for that is your vvisedome, and your vnder∣standing in the sight of the people, vvhich shall heare all these ordinaunces, and shall say, only this people is vvise and of vnderstanding, and a great nation. For what nation is so greate vnto whom the Gods come so neere vnto them, as the Lord our God is neere vnto vs, in all that we call vnto him for. And what nation is so greate, that hath ordinaunces and lawes so righteous, as all this law which I set before you this day:
+ But if from the constituted lawe most holy, righteous, briefe and comodi∣ous, thou cast thine eyes to the common welth of Israell, euen from the king Sa∣lomon to his people, thou shalt see it most beautifull. The constitution of the church in Iury as it far passed all popishe pompe (and that was maruelous) so was it not without a preaching office to the posteritie of Christes glorified churche. The doctrine plainely did set forth the way to life in Christ: and because all this faire forme tended to this ende to keepe
+
+ the poople of Israell in the limittes of their calling,
+ it is aptly cōpared to a shep∣heardes staffe, and for the excelling order is moste worthely called beauty. By the second staffe he vnderstandeth the lynked loue and fraternitie in blood, which farre excelled all other kingdomes, whiche know not their originall, or are kept im∣mixed with forrē blood. The Iewes pro∣ceede all from one father Iacob, and are as touching blood al in one brotherhood. The Lord to keepe them in them selues, as well in externall rites as continuall Genelogies of their Tribes, did tye them together in one, that they shoulde not he ignorant of their pedigrie, nor shoulde mixt them selues with forreiners. Nei∣ther was it els then the Lordes singular blessing, that notwithstanding so many battailes and often troubles, such diuisi∣on of the kingdome and long exile, in so many forepassed yeeres, they (till the day wherin the Lord brake these his staues of beauty and bands) knowe one anothers race & ofspring for the which things sake you may see howe elegantly this staffe is called bands, as by the which the Iewish amitie was preserued. But both these
+
+ staues Christ brake when Symony firste purchased y
+e
+ priesthood in Ierusalē, & last∣ly whē y
+e
+ Iewes were oppressed of all mē & made the out castes of the world, which sometime were Lordes in y
+e
+ earthe aboue the rest. And this couenaūt did God vn∣fold when after Christs assention, he sent the Romaines to pollute: and finally to subuert both their ecclesiasticall and pol∣litique gouernment. Yet some comforte was left them tyll the reigne of 
+Aelius A∣drianus,
+ by whom their rebelliō to Christ and his word, was vtterly reuēged. For he slewe many of them, he put the rest to exile, and forbdd them the entraunce into their former Cyties & townes, he did cō∣pell them to cast their lokes from y
+e
+ land of promise. He rammed vp the gates in Ierusalem with swynes doung to the ig∣nomious reproch of the obstinate Iewes with whome God in iustice had caused his Christe to breake the staues of their former defence beautie & bandes. And frō this tyme is it that the temple and com∣mon welth in Iury is so ouerthrowne, that none of them can now truely tell of what linnaige or kindred he is of.
+
+
+
+
+O Lord who can loke into this people and not quake in feare, so greatly blessed, so dearely loued, as to them and for them God spared not to gyue his sonne in first and chiefe. Besides for this he kept the whole earth to stand in awe of them. But now no people so odious eyther to God or man, as they, quite geuen ouer of god, and persecuted of all good men. By this we are taught (that sith all our christian fraternitie dependeth vpon Christ whom this people dispised, of whom we are na∣med, and by whom also we haue God to our father) spedely to kisse the sonne least he be angry,
+ and so we perishe from the right way, for vnlesse we be at one with him, there is no accompt of vs, but as to the wicked Iewes, to whom there is no peace. The beautiful gouernment of this our lande so long continued vnder one monarchy, may assure vs of Christe our shephearde to holde our stay, his beau∣tifull staffe, in hande. But I feare me our demerites be suche, as were it not for his owne names sake, this staffe by him yet holden, would spedely be sore shiuered. God preserue our noble Queene, in whō alone by his great mercy, the stay of our
+
+ happy gouernment is continued, for be∣yonde her we can see nothing but confu∣sion. Our beauty is then lyke to be tur∣ned into more than beggery. Farre be it from men in earth, to take this Gods of∣fice from heauen in hand. If any gouern∣ment he not perfect, it is the Lords to a∣mende it, yf any to be reformed, the same is with such foresight to be regarded, that in seeking to remoue the forreing matter, from the shepheards staffe (which by lon∣ger tyme (as a snayle) slowly hathe crept vppon it: and by latter dayes is conglu∣tinate so thereto, that hardly may it be se∣uered withoute some detriment) that the staffe may still be preserued, without which we perishe. To the shepheardes which haue this staffe in hold, belongeth the pollishing of the same,
+ and not to priuate persons which are rather to be di∣rected therby. Our partes is to pray the head shepheard Christ, by whom kinges do reigne, so to frame the hartes of chri∣stian kings which are al in his hand, that they may feede the flocke committed to their charge, faithfully and in the inte∣gritie of their soule,
+ with the staffe of Christes gouernment: Namely by the
+
+ Cannon of his worde, which by his di∣uine prouidence is appointed the staffe of our assured defence. The preachers of∣fice is into the hartes of Kinges to beat the knowledge of this truth, that they by doctrine, may know, the substanciall due∣tie of best gouernmēt. The higher called to the first, must hoalpe thereto, that God our highe shephearde by him selfe, in the person of his princes in earth, may dayly rule ouer vs his children. So farre I lyke of the learned at this day seeking for redresse: but in no wise dare I alowe, that others shoulde be shut vp in hate, which cannot ioyne in all respects to that them selues do not perceiue. And I con∣clude that petition, patience, and parlia∣ment, is the ascending staire, to this high blessing. Beyonde this there seemeth not els to be but a chrusshing of the shepe∣heardes croke, which is the worke of god alone:
+ and to vs then no other, but the dore of desolation, and confusion, to our former christian vnitie, which God pre∣serue for his names sake, and purge his church, of snayly knurres glewed to this staffe, and keepe the same whole & sound ouer vs to our farthest posteritie, yf it
+
+ stande with his good will and pleasure. So shal our kingdome be beautifull, and our christian brotherhoode garded with the band of Gods spirite, to our eternall peace in him. For the which peace onely we ought to stryue, for all other peace is meare warres with God. Thus much of the shepheardes roddes and staues, and nowe we proceede to the 
+.5.
+ verse, which sayth.
+
+
+Thou doest prepare a table before me in the sight of myne aduersaries. Thou dost anoynt my heade with oyle and my cup runneth ouer.
+
+
+Doubtles kindnes and mercy shall follovv me, all the dayes of my lyfe, and J shall remaine a long season in the house of the Lord.
+
+
+Though mine enemyes (sayth Dauid) seeke to destroy me, yet thou Lorde doest not onely deliuer me, but also in despite of their fury dealest most liberally with me, as menne doo with their chiefest friendes in this our lande of Iury. Bydden to their sumptuous feastes, they anoynt their heades with pleasant Oyle, and gyue them Cuppes of large importe, and them moste amplie fyl∣led. So haste thou, and muche
+
+ more aboundantly delt with me, and wilt after, for thy mercy is suche, as kindnes shall follow me during lyfe. And for this thy mercy in my prolonged dayes, I shall alway in them seeke to serue thee: in thy holy house. Because I haue long trou∣bled you, I wil omit to speake here of the prouidence of God in them which be his, and persecuted of the multitude,
+ but such it is, that their deuises the Lorde doth laugh to skorne, and erecteth his beloued vp to honor, maugre their berdes. Or more to say of the difference betwixte the papist and the faithful protestant: the one with the Iew is euer gaping after good: but after the godly, Gods blessing run∣neth, them to comfort, euen as the Ryuer from Moses Rocke flowed after Israell to be their drinke & spirituall sacrament.
+ Or once to touch that longing lust which ought to be in Dauids lyue (in all chri∣stian heroicall, honorable, worshipfull, godly, riche, and meaner persons) that is a dayly desire to serue God, yea euen in y
+e
+ house of prayer with the floke of Christs folde.
+ I was glad (saith Dauid) of those which sayde vnto me, 
+Come we will go into the house of the Lorde together.
+ Your olde
+
+ chaples, your priuate houses (O ye states of the earth) are for the most part an occa∣sion of great losse to your selues. Ye so seperate your selues from the common exercise of Christes sheepe. Ye lacke the doctrine which other there receiue to their greate comfort. Ye keepe your families frō grace, & be euill examples to the vul∣gar sorte. Ye expresse the small loue to those that be like Dauid, whiche if you mende not, can not but bring you from his god & our sheheard Christ, whose de∣sire is to haue his sheepe come together.
+ 
+Where two or three be gathered together in my name
+ (saith Christe) 
+there am I in the middest of them.
+ Gather the people sayth God, sanctifie the congregation, gather the Elders, assemble the children & those that sucke the brest, let the bridegrome go out of his chamber, and the Bride out of her closet, Let the Priests the ministers of the Lord, weepe betweene the porch, and the Alter, and let them say, 
+Spare thy people O Lord. &c.
+ This was the order in the Apostles churche, as Paule affirmeth in his first epistle to the Corrin. saying. 
+I prayse you not,
+ 
+that you come together not with profite, but with hurt. For firste of all vvhen
+
+ you come together in the churche J heare that there is dissention among you: Againe, if therefore vvhen the vvhole church is come together in one.
+ 
+&c.
+ In this churche were of greate byrth, lyke welth and stately condition, yet they came together in one they assembled them selues in the church, they kept not, some their priuie chaples, other their dining chambers, but most of all their sléeping heades. Looke to this (you states) be not so stately that you set your selues stiffe necked to the Lorde, frequent his house, adsociate his people, conioyne with his churche, to heare the Lorde by his ministers speake vnto you, that your common cry with the reste may ioyntly pearce the eares of Gods most louing maiestie, in the throne of his mercy seat. In hope of your con∣tent hereto, I say nothing hereof, but as you see runne from the same in haste to ende. But because of the holy commu∣nion, to the which we purpose in the Lorde, one worde thereof and so an ende.
+ Paule the Apostle taketh occasion by the temporall blessing of God vpon the Israelites in Manna and the stony rocke, to deliuer to the Corrinthians
+
+ sound doctrine in sacraments. And yf the same (with the rest of holy scripture) be writtē for our learning,
+ why should I forget so good and apt a lesson, as both his example, our present ministration, and this our profitable texte doth offer vnto me. &c. Dauid speaketh of his Crowne and Diademe, with the Appen∣dices: Neither doth he forget the spiri∣tuall comfortes that from the Lorde he dayly receiueth by the seales of the lords righteousnes his sacred sacraments.
+ The sacramēts of Gods church are only two, 
+The lauer of baptisme,
+ and the 
+Table of the Lorde:
+ In the Supper at this table prepared (without our prouision and desert) of God in his Christ, the faithfull do receiue two things, & that of two seue∣rall persons: sacred bread & wyne,
+ at & of y
+e
+ externall preaching ministry (y
+e
+ only fyt ministre for y
+e
+ same) & by y
+e
+ inward secret, & omnipotent inuisible worke of the holy ghost, (in soule by fayth truely fixed in christ) they verely eat & receiue y
+e
+ very true & substantiall body of Iesus Christ, still sitting at y
+e
+ right hād of his heuēly father in maiesty on hie. By faith he is receiued, by gods spirit he is deliuered in soule he
+
+ is eaten, for the diet is spirituall, and can not be pressed with mans carnall téeth. That of y
+e
+ minister we receiue only bread and wine, the holy Apostle Paule fyue times telleth vs in the deliuerie therof to the Corinthians. 1 Epist. chap. 11. And the auncient Fathers say the same: a∣mongst whom S. Ciprian doth stand ap∣proued, and he sayth thus of the Eucha∣rist:
+ 
+Dedit ita{que} dominus noster, in mensa, &c.
+ Therefore our Lorde Christe in his laste supper which he made with his Apostles, gaue to them at that table, Bread & wine with his owne handes: but vppon the Crosse by the hands of the cruell tormen∣ters, he gaue his body wounded for vs. 
+Sunt quae erant
+ (sayth Ambrose,
+ speaking of the Elementall bread and wine) The same they were they are, and are chaun∣ged into another vse. If the sacramental bread be the very body of Christ after cō∣secration, then the wicked aswell eate Christes body, as the godly. But this the auncient fathers doe denie. Origen saith, 
+Est verus Cibus.
+ Christ is the true meate, which no euill and wicked man can eate. For if the wicked man could (in the Sa∣crament) eate the body of the Lord, then
+
+ should it not be written, 
+Qui edit hunc pa∣nem,
+ He that eateth this bread shall lyue for euer. Augustine sayth:
+ 
+Qui non ma∣net in Christo, &c.
+ He that dwelleth not in Christe, and in whome Christe dwel∣leth not, vndoubtedly he eateth not spi∣ritually the fleshe and blood of Christe, Albeit he carnally and visibly teare with his teeth the Sacrament of the body and blood of Christe. And if any man say vn∣to me, why then doth Christ say, 
+This is my body?
+ I answere, it is a figuratiue speach of our Sauiour, and is of him spo∣ken to a people that well were acquayn∣ted with the Scriptures phrase in Sacra∣mentes. So is Circumcision called the Couenaunt of the Lorde, when it is but the signe of the Lordes Couenaunt. The Couenaunt it selfe was, 
+I will be thy God,
+ 
+and thou shalt be my people.
+ And therefore Circumcision is called in the same chap∣ter that which in it selfe it remayneth to be, namely the Signe, and not the Coue∣naunt. 
+And it shall be
+ (sayth God) 
+a signe of the Couenaunt betwixt thee and me.
+ Like∣wise the Pascall Lambe is called 
+Transi∣tus domini,
+ the passing by of the Lord, vn∣till the comming of Christe, yet the Lorde
+
+ by his angel passed but once in al through the land of Egipt,
+ and therfore verily & in¦dede, that sacrament could not be the pas∣ssing of the Lord. This is the vse of scri∣pture, sayth Augu.
+ that the signes which signifie, are called by the names whiche they do represent, as thus: y
+e
+ seuē eares of corne 
+septem anni sunt,
+ are seuen yeres. The Rocke was Christe. &c. And in another place he sayth, 
+The Lord doubted not to say, This is my body, whē he gaue 
+signū corporis
+ the signe of his body.
+ So good christian Au∣dience, the words of Christ, as of him they were spoken, are sacramentally to be vn∣derstoode. So that whē Christ saith, 
+This is my body,
+ we are to take it thus: this is the representing, & to the faithfull the ex∣hibiting signe of my body. That these words of Christ are figuratiuely spoken, Augu.
+ also witnesseth in his booke 
+De do∣ctrina christiana.
+ But that the faythful do eate by the worke of the spirite & Christes diuine power his very body and blood in the true vse of the Lords supper, y
+e
+ faith∣fulnes in god approueth, who euer was y
+e
+ same to his people, that his faithful pled∣ges the Sacraments promised. Circūci∣sion promised his continuall ayde, & that
+
+ he would be their god, and they should be his people. Search the Scriptures, & see,
+ if euer any people were so guerdoned, or had the presence of God so neare them, or were any people so prospered so long as they continued with circumcised harts in his holy couenant? Did not the Lord by his angel performe that in dede, which he promised by his 
+paesah,
+ his sacramentall passeouer?
+ Did he not passe by the Israe∣lites house tied to this Couenant, & pla∣gued all the first borne in Egypt. So no doubt he truely feedeth the faithfull with not only y
+e
+ power, but y
+e
+ precious body in himself, not stouping one inch yet frō his fathers Throne, or giuing his body to be rent into peces with our mortal teeth, but in such a diuine sort as our tongs can not vtter, bicause our or thy capacities cā not cōceiue the maner how, further thē by the sight of his noble creature y
+e
+ shining sun. The sunne in his globe and person doth kepe & continue his spheare & circle in the Zodiake, & yet doth he by the decree and prouident power of God, light vs, warm vs, comforte vs, and renewe our blood and bodies, and as we may saye by bo∣rowed speache, geueth vs lyfe, by his
+
+ heauenly beames, the ordinarie conducts from him felfe, with his very liuing sub∣staunce. Sith thus we haue so elegant a shadow, of our Sauiour Christes body verily feding vs y
+t
+ are his in earth: let vs not distrust, or further descant howe the Lord can (sith we know not how y
+e
+ sonne doth his office, but feele it so to be) but let vs beleeue that the Lord by his holy spi∣rite doth feede vs, and in deede with his very body & blood, from heauen, as veri∣ly as his minister at y
+e
+ table in earth doth geue vs the sacred symboles of his holy body, whiche in their former nature re∣maine not other then bread & wine. And with that mind that our father Abraham did receiue the sacrament of circumcision, let vs folow & approch the Lordes table. That is, so taccept with faythful harte in hand,
+ the holy Mysteries, as the seales of righteousnes, that God will giue vs the same that he affyrmeth them to be, and in such sort as the same is to be distributed vnto vs effectually in spirite & truth. Let vs examine & trie our selues whether we be in the fayth,
+ let vs wel consider of our steppes whether we be stāding or falling before our God, let vs cast from vs our
+
+ former ills, & put vpon vs Iesus Christ, & his obedience. Let vs confesse our daily sinnes, & approch with louing feare & re∣uerence vnto this table of attonement. Finally repent & beleeue the Gospel. Let the Papist depart from all his ignoraunt superstition, & receyue the doctrine of the holy written scriptures vnfaignedly. Let the carnal gospeller, the Atheist, be asha∣med at his filthy life & skoffing girds, cast at the truth. Let the Auncient harlot hate his whordome, and bath his beastly body in the blood of Christ by repentant fayth. Let the couetous stretche out his hande vnto the poore, & shut vp his eyes from worldly thirst. Let the courtly Dames (& you here present) cut short the phantasies of vaine desires, and rather couet to come behind the lashing pride of these ill days,
+ then seeke to folow the vntamed fashion of this wicked world.
+ And pray with Da¦uid, that your eyes may be fast shut from beholding our to to much, & abhominable vanities. Let the contentious ceasse their brawling striffe, and with vs in one by the Lordes spirite of truth, ascende to the Lordes sacrament of vnitie & loue. That this grace may come to euery of vs, and
+
+ to the whole Church of god this Church of England & Ireland, and therein to the Quenes maiestie Elizabeth, her honora∣ble Councelours and Potentates, Gods spiritual Preachers and Ministers, to all Magistrates & gouernours, as well here present as absent, and to this congrega∣tion a member of the sayd Church, let vs the louing sheepe of our cheefe Shepherd Christe, by the comfort & direction of his holy spirite, humbly at the hands of our most merciful Father, for the loue he bea∣reth to Christe his only begotten sonne, and in his name craue it, saying, 
+O our fa∣ther whiche arte in heauen, &c. Graunt, O Lorde, that into the vvords vvhich this day, and at other times, through thy great mercy vve haue graciously heard, vve may be effec∣tually transformed, through Christe our head Shepheard and Lorde.
+ To whom together with thee, O Father, and the holy Ghost, three distinct persons, and one eternall God, be all honour and glory, power and dominion, now and for euer. Amen.
+
+
+Laus Deo per Christum.
+
+
+1. Ian. 1575
+
+
+
+
+
+
+
+
+
+
+
+
+To the right vvorshipfull Syr William Fitzwilliam Knight, late Lorde deputie of Irelande: 
+A. Anderson the minister of Christes ho∣ly
+ Gospell, vvisheth Christ our Lorde, vvith his vvhole merites.
+
+
+C
+All vppon me (sayth God) in the day of thy trouble, and I will de∣liuer thee. Greater troubles with lesse comfortes than in the raging Seas, can not be founde, as those with Dauid must confesse which occupie their busines in greate waters. This daungerous Iourney, as among many others ye are in the Lordes name to aduenture, so vouch∣safe this preparatiue to your godly hart, and by and with the same in assured hope of Gods assi∣staunce for his Christ, approche his mercy seate. The hast we haue, and gaping hope for Wester∣ly winds, will not permit long leysure, to proyue this sodayne frame. Take it (Right Worship∣full) as it is, and accept the good will of the Ge∣uer, vse it at your neede to the Lordes prayse, and your present comfort, which is my harty de∣sire. And I shall dayly pray the Lorde for you, and vs, that we may speedely imbarke, and safely arriue in Englande through Chri∣stes ayde, the master of our ship. 
+
+
+At 
+Holme Patricke
+ in Irelande. 
+17.
+ October. 
+1575.
+
+
+Your Worships in 
+Dom. A. Anderson.
+
+
+
+
+
+
+
+
+A forme of prayer for sea¦men and passengers to vse in the sayling Shippe.
+
+
+
+
+¶ A confession of our sinnes to God.
+
+
+O
+ Almighty God and most righteous, we thy deare children, here encom∣passed with these thy mighty creatures, y
+e
+ windes, the huge seas and sayling ship, do acknowledge and confesse our selues, and euery of vs, to be miserable sinners, and from our first cradles depely to haue offended thy diuine maiestie. Our seue∣rall thoughtes be corrupted, our sundry hartes and acts are polluted, our synnes cannot be hid from thee. We hartely con∣fesse them O Lord, els should our consci∣ences condemne vs, because our trans∣gressions beare witnes against vs. But thou art the God of our saluation and to vs thy children the beste father, full of mercyes, riche in compassion, slowe to wrath, and most ready to forgiue the pe∣nitent sinner calling vpon thee. And sithe it is the worke of thy most holy spirite to mollifie the stony harted, and to chaunge the fleshly hart into a spirituall soule:
+ We most humbly besech thee for thy Christes
+
+ sake, to graunt vs thy holy spirite, takē from vs our stony and gyue vs hartes of fleshe, and into them power thy graces, & turne vs vnto thee. Thy holy law im∣print in our soules, and giue vs to walke in thy statutes, during these our naturall lyues. Bow downe thine eare and heare vs, and with thy fauourable countenance loke vpon vs, behold our place, and cause of cry. Our ship is subiect to subuersion, if thy holy hande direct vs not in merci∣full prouidence. Gyue, O lord the sweete and plesant gale, in thy name of vs to be desired in vehement stormes (by thee cal∣led to punish and proue vs) assist vs with thy strength and spirite of comfort. Loke vpon our mediatour Christ, and through him pitie vs, and in the bowels of thy mercy, conduct vs to the hauen of vs de∣sired if it be thy will. Then shall we sing and prayse thy name, and shew thy won∣ders in the deepe, and our soules shall confesse that though the seas be mightie,
+ yet thou, O God, art of most might ouer them. Let vs not be tempted further gra∣cious God, then that our strength in thee shall counteruaile, and graunt the euent prosperous, Glad our hartes with safety
+
+ on shore, and make vs mindfull of thy mercies. Gyue vs we beseche thee, true fayth, firme hope, and feruēt loue in thee, keepe vs alwayes thine, and graunt thy Christ for euer ours, in whose name for our selues and all other in our condition, with the rest of thy churche we call vnto thee, thus: O our father which arte in heauen, halowed be thy name, &c.
+
+
+
+
+
+
+A psalme.
+
+
+The waues of the sea are mighy and rage horribly, but yet the Lord that dwel∣leth on high is mightier.
+
+
+They that go down to the sea in ships, & occupie their busines in great waters.
+
+
+These men see the workes of the Lord, and his wonders in the deepe.
+
+
+For at his worde the stormy wind a∣riseth which lifteth vp the waues therof.
+
+
+They are caried vp to heauen & downe againe to the deepe, their soule melteth in them because of their trouble.
+
+
+They reele to & fro, and stagger like a dronken man, & are at their wittes ende.
+
+
+So when they cry vnto the Lorde in their trouble, hee deliuereth them out of their distresse.
+
+
+
+
+For he maketh the stormy windes to ceasse, so that the waues therof are still.
+
+
+Then are they glad because they are at rest, and so he bringeth them to the hauen where they would be.
+
+
+O that men would therefore praise the Lord for his goodnes, & declare the won∣ders which he doth for the childrē of men.
+
+
+Glory be to the Father. &c.
+
+
+ANd when Iesus was entred with his disciples into y
+e
+ ship, there arose a gret tempest in the sea, so that the ship was co∣uered with waues, but he was a sleepe. Then his Disciples awoke him, saying, Master saue vs, we perishe. And he sayde vnto them, why are ye fearefull O ye of little faith? Then he arose and rebuked the windes and the sea, and so there was a greate calme. And the men marueled, saying, what mā is this that both winds and sea obey him.
+
+
+Out of the deepe O Lord we call vpon thee, heare vs, O God, and haue mercy.
+
+
+We haue sore prouoked thine anger (O Lord) thy wrath is waxed hot, & thy heuy displeasure is sore kindled against vs.
+
+
+But rebuke vs not in thine indigna∣tion, neither chastē vs in thy displeasure.
+
+
+
+
+In deede we acknowledge that all our punishmēts are lesse thē our deseruings.
+
+
+But yet of thy mercy (O Lord) correct vs to amendement, and plague vs not to our destruction.
+
+
+Turne thee vnto vs and haue mercy, for we are desolate and in great misery.
+
+
+So we that be thy people and the shepe of thy pasture, shall giue thee thankes for euer, and will be alwaies shewing forth thy prayse, to all generations. Glory be to the father. &c.
+
+
+
+
+
+
+The prayer.
+
+
+O
+ Lorde God the Father of comforts and God of all solace, which art euer myndfull of thy mercy, and carefull to keepe promise, who also cōmaundest vs to call vpon thee in our troubles, with hope of full release at the brinke of our deepe daungers, we thy poore children craue thy hande now to helpe vs, which are destitute of further ayde in earth, then this our litle ship. We are inuironed with these huge roring seas, horribly raging, and breaking in vpon vs. The winds are vehement, & grow to increase in stormes, our sinnes be heuy, and Satan seeketh to sinke vs. In our selues we distrust, but
+
+ in thy mercy we repose our earnest con∣fidence, and in the humbled state of these our soules, we beseeche thee to heare vs. Graunt vs thy Christ his presence in our ship. Awake, O blessed sauiour, & help vs lest we perish. Thou seest our case & cause of crye, thou knowest our weaknes, O Lord encrease our fayth. Commaund the winds to cease their violence, cōptroll the seas, and set them quite vnder vs. Keepe whole our mastes, prouide safety to our sayle, holde steddy our helme, and be thy self the master of our ship. Giue vs grace to haue like care to serue thee in seming & supposed securitie, as we haue desire to receiue thy helpe in this our present ad∣uersitie. Keepe vs euer to be thine, and vouchsafe to stand for vs to thy Fathers iustice. Conduct vs to land, and safely set vs to our seuerall dwellinges for thy names sake. Blesse our soules with thy spirite, & be mercifull to our Church and Queene, her honorable Deputies, Coun∣cellours, Presidēts, & Magistrates. Geue them and vs faythful harts to heare thy worde, & encrease thy good giftes in the teachers of the same. Finally, our selues, our soules & bodies, we commit into thy
+
+ mercifull handes, deliuer vs at thy good pleasure for thy holy names sake, we be∣seech thee, to whom with the Father and the holy ghost, be all honour and glory now and for euer. 
+Amen.
+
+
+
+
+
+
+But if the Seas be quiet, and passage pleasaunt, then say thus, and pray.
+
+
+O
+ Lorde our good God, howe excellent is thy name, wonderfull are thy wor∣kes, but thy mercy farre aboue measure. If we descende into our consciences to ponder the poyse of our sinne, what may we looke for but vengeaunce, beholding thee for iust? These sensles Creatures, the winde and seas, doo dayly serue thee in silent obedience: and all other in∣ferior created things doo euer yeelde thee obsequie. But we for whom all these are made, and dayly are benefited by them, do neuer stande vpright before thee. And at this present Lord we fele the truth of thy louing promise giue to all them that trust in thee. For thou hast called away the el∣der stormes (the correction of sinne and triall of fayth) and sente vnto vs this pleasant gale, hauing the winde seruisea∣ble
+
+ to our humble desires, & these migh∣tie waters to worke our willing effects. Vouchsafe vs pardon by Christe, for our iniquities, and the continuaunce of this pleasaunt passing, vntill we be ariued the port (in thee) of vs desired. Keepe vs we pray thee O heauenly father, from all pe∣rils in the sea, and saue vs by thy mighty hande in earth. Guyde vs with thy spirit in the ship of thy holy church, through the raging seas of this wicked world, & bring vs through true fayth safely to the cele∣stiall hauen of our inheritaunce, that there with the companie of al heauenly passen∣gers, we may prayse thee euerlastingly. Graunt vs, and thy whole churche, these our requestes, for Christe our Lorde thy sonnes sake. In whose name we make to thy mercy our petition thus: 
+O our father which art in heauen. &c.
+
+
+Laus Deo.
+
+
+
+
+
+
+Hauing safely arriued let the godly company together say or sing the 103 Psalme, and then this thanksgeuing, thus.
+
+
+AL honor & prayse we yeelde to thee O God our louing father, who in thy great mercy, notwithstāding our former
+
+ liues, & present sins, some distrusting thy louing helpe, some not caring to cal vpon thee (and some most desperately blasphe∣ming thy holy name) hast thus most mer∣cifully deliuered vs, and to this safety on land in thy gret mercy brought vs. Now Lord again we beseech thee to defend vs, that hauing safely passed y
+e
+ surging seas, we be not, through our weaknes, & Sa∣tans temtation, drowned in the volup∣tuous Riuers of fleshly lustes, or choked with the foggie mists of popish or carnal practises, but that we may attende vpon the sonne of righteousnes, Christe our Lorde, and may be conducted to the hauē of our celestiall Ierusalem, by the moste pleasant purifying winde, the spirite of truth. Which spirit as he bloweth where he lusteth, so vouchsafe him euer to take vs with him during our naturall liues, in the faythful and true seruing of thee, and neuer leaue vs destitute of his holy aide, vntil thou hast (for thy christes sake) crowned vs in glory. To whom with thee and the same holy ghost, three per∣sons, and our one & only God, be all ho∣nor and glory for euer and euer. Amen.
+
+
+Laus Deo per Christum.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,504 @@
+A true relation of all such battailes as haue beene fought in the Palatinate, since the Kings arriuall there, vntill this present the 24. of May As also an abstract of a letter sent from the King of Bohemia to the Prince of Orange, concerning both the defeat of the yonger Duke of Wirtenbourghs forces, by Gonzales, generall of the Spaniards, with the recouery of the said dukes forces by the Marquesse of Baden, who at the same time set vpon Gonzales forces, put them to flight, and made a great slaughter. Likewise the notable victory woone by Christian Duke of Brunswicke against the Bauarians, and some of Graue Henrick Varberghes forces, in his way going towards the Palatinate, and his burning of the great towne of Giesken. With the famous victorie obtained by the King of Bohemia against Leopoldus, before Hagenaw, wherein he was besieged: how he raised the siege, and drawe the Bauarians out of the field. Lastly, the victory of the graue Henrick Van Nassaw in Brabant, whence he brought great store of treasure and many prisoners.
+Approx. 26KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2016-02 (EEBO-TCP Phase 2).
+A08155
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A true relation of all such battailes as haue beene fought in the Palatinate, since the Kings arriuall there, vntill this present the 24. of May As also an abstract of a letter sent from the King of Bohemia to the Prince of Orange, concerning both the defeat of the yonger Duke of Wirtenbourghs forces, by Gonzales, generall of the Spaniards, with the recouery of the said dukes forces by the Marquesse of Baden, who at the same time set vpon Gonzales forces, put them to flight, and made a great slaughter. Likewise the notable victory woone by Christian Duke of Brunswicke against the Bauarians, and some of Graue Henrick Varberghes forces, in his way going towards the Palatinate, and his burning of the great towne of Giesken. With the famous victorie obtained by the King of Bohemia against Leopoldus, before Hagenaw, wherein he was besieged: how he raised the siege, and drawe the Bauarians out of the field. Lastly, the victory of the graue Henrick Van Nassaw in Brabant, whence he brought great store of treasure and many prisoners.
+[2], 20 p.   
+
+
+London :
+
+
+Printed by E. A[llde] for Nicholas Bourne and Thomas Archer, and are to be sold at their shops at the Exchange, and in Popes-head Pallace,
+
+
+1622.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Thirty Years' War, 1618-1648 --  Early works to 1800.
+2014-01 
+SPi Global
+Keyed and coded from ProQuest page images 
+2014-07 
+Colm MacCrossan 
+Sampled and proofread 
+2014-07 
+Colm MacCrossan
+Text and markup reviewed and edited 
+2015-03 
+pfs
+Batch review (QC) and XML conversion 
+
+
+
+
+
+
+18507.47
+
+
+S122213
+
+
+99857365
+
+
+23090
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A true Relation of all Such Battailes as haue beene fought in the 
+Palatinate,
+ since the Kings arriuall there, vntill this present the 24. of May. As also an Abstract of a Letter sent from the King of BOHEMIA to the Prince of ORANGE, con∣cerning both the defeat of the yonger Duke of WIRTEN∣BOVRGHs Forces, by 
+G
+nzales,
+ Generall of the Spaniards, with the Recouery of the said Dukes forces by the Marquesse of 
+Baden,
+ who at the same time set vpon 
+Gonzales
+ forces, put them to flight; and made a great slaughter. Likewise the notable Victory woone by CHRISTIAN Duke of 
+Brunswicke
+ against the Bauarians, and some of 
+Graue Henrick Vanberghes
+ forces, in his way going towards the 
+Palatinate,
+ and his burning of the 
+great Towne of
+ Giesken. 
+With the famous Victorie obtained by the
+ King of 
+Bohemia
+ against LEOPOLDVS, before 
+Hagenaw, wherein he was besieged: how he raised the siege, and draue the Bauarians out of the field.
+ Lastly, the Victory of the Graue 
+Henrick Van Nassaw
+ in 
+Brabant,
+ whence he brought great store of Treasure and many Prisoners.
+
+
+LONDON: Printed by 
+E. A.
+ for 
+Nicholas Bourne
+ and 
+Thomas Archer,
+ and are to be sold at their Shops at the 
+Exchange,
+ and in 
+Popes-head Pallace.
+ 1622.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+Ount Mansfield, Generall of the King of Bohemia's Army in the Field, hauing receiued intelli∣gence, that the Baron de Tilly (Generall of the Bauarian Ar∣my) sought all the meanes hee could deuise, to bring the remai∣nder of the Lower Palatinate (which yet conti∣nueth in the Kings hand) vnder the Bauarian sub∣jection; intending, before all else, to take in Hey∣delburgh, the chiefest Towne thereof, and (for that end) surprized some other smaller Townes, as Hilspach and Neckergemont, distant a little mile from Heydelburgh, and lying vpon the Necker: with more then Turkish or barbarian cruelty hee did there put them all to the Sword, making no spare either of Man or Woman, old or young, per∣forming this in such outragious manner; that hee and the Spaniards had set downe their rest and full account, to haue the whole Lower Palatinate (in a very short space) subjected vnder their obedi∣ence.
+
+
+Hereupon Count Mansfield, accōpanied with Sir Horatio Vere, worthily determined, with all their
+
+powers to withstand their intrusion; and therefore made ordination of their Armies (being in readi∣nes) to march neere, and to resist the said De Tilly.
+
+
+But then considering, that Purlach, the Mar∣quesse of Baden, being their neighbour, not ha∣uing as yet shewne himselfe, which side he fauou∣red and inclined vnto, they iudged it very fit and conuenient, before they presumed on the enter∣prise; to mooue the said Marquesse (as their friend and Neighbour) to lend his helping hand, so Chri∣stianlike and necessary a businesse duely conside∣red, against the precedent barbarian cruelty.
+
+
+When the noble Marquesse, with a valiant and heroyick spirit, shewed himselfe willing so to doe: vpon a Military Councell first holden, it was con∣cluded, that the said Marques should quarter him∣selfe on the frontiers of the Palatinate, along by the Bayliwicke of Bretten, and so farre as to Winx∣cen, a small-Emperiall Towne vpon the Necker, to the intent, that if the Enemy came to make his re∣treat there: both his owne Countrey and that of Wertenbergh, might by him bee freeed and de∣fended, against the foresaid Bauarian Army, which mustred it selfe together from Kreyckaw, towards the aforesaid Towne of Wisloch, a place of good and great aduantage, for him that could winne first possession thereof, by reason of the narrow
+
+passages, and a small Riuer running by it.
+
+
+While they were seriously imployed about this busines, Count Mansfield the Generall was prepa∣red to march forward, intending to passe ouer the Rhine, and set vpon the said Bauarians: On a sud∣den, the King of Bohemia himselfe in person (in ve∣ry apt time, & before noone) came that day to Ger∣mersheim, hauing formerly past through France, Loraine, and the Garrisons of Leopoldus and the Spaniards, in vnknowne and disguised apparell. There he found an Ambassador, that had bin sent from the Infanta, whose onely message was, to in∣treat and perswade the said Count Mansfield, to leaue & forsake the King of Bohemia; whereto he returned a rough answer, and so sent him away, re∣soluing to proceed on in the former intended en∣terprise.
+
+
+Count Mansfield hauing taken good order, for defence of the places belonging to the Palatinate, along by the riuer of Rhine: his forces & military preparations, which were on this side of the Rhine, he caused to March directly towards the Enemy, who lay encamped in the way to Kieyckaw, vpon a Mount, and in the Vineyards hard by the Towne of Wisloch, where hee had planted sixe Pieces of Ordinance, and wherewith (at the first) he shot at the King of Bohemia's forces, which was on Thurs∣day
+
+in the Euening, but did them no hurt. In the meane while, the Kings Dragons skirmished with the Enemy, and tooke some of them Prisoners: but they could not get to the Enemies quarter, in re∣gard of the narrow passages, wherefore because it was night; they were constrained to retire into Mengelsheim, a Village distant halfe a mile from thence, where now they lodge.
+
+
+The next day being the 17. day of Aprill (the day of Battaile) the Army being raunged in good order for Fight, the Vanguard marched (led by the Duke of Weymar, Limstar, Obeitrant, and the Earle of Ortenberg,) before Noone towards the Enemy, as hoping to set vpon him. But the Ene∣my hauing aduantage of the Countryes scituation (which was no meane helpe to him) set furiously on them with all his Regiments, and in such sort, as, although they carryed themselues valiantly: yet after they had long withstood the Enemies great power, & done them much harme; they were for∣ced to retire with losse of about 45 men. Captaine Berlenger being one among them. And because the way was so straight and narrow, and the Horse paced close together in the retreat, the Switzers Regiment was somewhat hard prest on with losse of about 25 men These are all the men that were lost on the Kings side, in the first Fight and retreat.
+
+
+
+
+The enemy being puft vp with pride, vp∣on this small aduantage and successe, fol∣lowed them, and changed the place of his Campe, ouer taking (in the retrait) a wagon with two sicke 
+Switzers
+ in it, that could not soone enough shift for themselues. And to make apparence of his rage and crueltie, himselfe set fire to the wagon, that they might endure the more mercilesse death. Now he perswaded himself vpon this poore retrait, that he had already obtained the vi∣ctory; which made him crie out in a braue∣rie: 
+Go on, go on, march on ward, for they are ours, they are all ours.
+ And although the weather was exceeding foule, yet notwithstanding he vsed such diligence, that he got the means to place his Ordenance on a hillock beyond 
+Meugelsheim,
+ and in such a conuenient place, as he shot from thence into the Kings army, but yet did them no hurt, because (from thence) they could not well see it.
+
+
+After noone, Count 
+Mansfield
+ the Gene∣rall, appointed the army to march from 
+Meugelsheim
+ aforesaid, and to take a conue∣ent place behind the said village, in order of
+
+battell, where likewise the Ordenance was planted on a place of good advantage, to hurt the enemie. He perceiuing that the Kings forces vvere gone from the said vil∣lage, became verily perswaded that they vvere fled and gone, as possessed vvith no meane error and feare. And this perswasi∣on vvas the more confidently embraced, because Count 
+Mansfield
+ had set the sayd village on fire; which vvas done by him to no other end, but, by meanes of the smoke, to muffle the enemyes sight, for the better clouding of his army, that the forme and condition thereof might not be discerned, vntill he had settled it in a cōuenient place for the battell.
+
+
+No sooner vvas the Generall gone from the village, but the enemy came & tooke it, although he was to make his way through a narrow passage, and likewise ouer a small bridge, vpon vvhich, not aboue fiue or sixe horsemen could ride in ranke; yet he made such haste, that he brought foure peeces of ordenance beneath the said village, & plan∣ted them on a small hillocke. There also he
+
+caused his Regiments to passe ouer the said bridge, to pursue the King of 
+Bohemiaes
+ ar∣mie; which hee thought vvas partly put to flight, because from thence he could not dis∣cerne it. So that all the chiefe Commanders placed themselues in the forefront of the battell, to expresse their forwardnesse and to win bootie.
+
+
+When the King of 
+Bohemiaes
+ Armie was ordered in due forme for battell, the King himselfe and the Generall 
+Mansfield
+ rode round about it, exhorting them to valiant & manly behauiour, and to win againe with a sprightfull recouerie, the honor lost at 
+VVit∣tenberg
+ by 
+Prague.
+ Count 
+Mansfield
+ like a braue Generall, marching in the front of the Armie, once more moued his souldiers to carie themselues boldly and couragiously, for now they had time best fitting for it, when in the Kings owne sight and presence they might make rare expression of their va∣lour as often before (in diuers good oppor∣tunities) they had worthily done. And now the King himselfe was royally resolued to fight in person with them; not doubting
+
+but (by Gods help) he should haue the victo∣ry. So he caused the Vanguard to march on, being led directly vpon the enemie; & one of his ordenance hauing twise discharged conueniently on the enemie, the said Van∣guard made a valiant assault; yet seeming as if they retired againe, the enemie pursued; but vvere so suddenly and fiercely assailed by the rest of Count 
+Mansfields
+ forces, as they vvere enforced to a disordered rety∣ring, hoping thereby to saue themselues: but by reason of the little bridge, and so strict narrownesse of the passage, vvithin a quarter of an houres space, or thereabout, the enemy found himselfe so confounded and ouerthrowne, that he lost aboue 2000 men in the field, as the prisoners (among vvhich vvere diuers principall Officers, as the Sergeant Maior, the Prouost Generall, 
+Harsels
+ Colonell of 
+Wersbergh,
+ Lieutenant of the troupes of horse, and many other officers) themselues confesse.
+
+
+The enemy lost eight Cornets, and a∣mong them two great Standards or Ban∣ners, one of vvhite Damaske, vvherein
+
+vvere these vvords: 
+In Domino sperantes, in to non confundantur.
+ The other Standard was of red Damaske, hauing on the one side a blacke Eagle, and on the other side the Armes of 
+Bauaria,
+ with the 
+Golden Fleece
+ round about it, and vnder it was written, 
+Adiutorium Domini sit inimîcis terror.
+ In a third great Cornet, much spoyled, there stood 
+Fortune;
+ but it was so torne and tot∣terd, that the Motto could not be read. There were also six Ensignes of footmen found, but so much spoyled with raine and mire, that they could not be knowne. Be∣sides, they found a great number of horses, good store of gold, siluer, and other stuffe. Afterwards, there arose vp some few foul∣diers from among the dead bodies, and one among the rest was 
+De Tillies
+ Chamberlain, sore wounded, who being demanded, where his Maister was, answered, If he be not a∣mong y
+e
+ dead bodies, he is sore wounded; for he had bin by him in the Vanguard hauing there receiued some wounds. In the body of the battel, there were many Commanders slain, & 4 peeces of ordnance takē frō them.
+
+It is vvritten out of the army, that 
+Henrick Maximilian,
+ Baron of 
+Papenheim,
+ an Apostat, vvas also slaine.
+
+
+The victory being thus vvon, the Kings army stood in order of battell till nine of the clocke at night, in which time the King himselfe visited the Regiments vvith a chearfull countenance, thanking them for their valiant cariage in that notable ac∣cident. After that, he retired and marched with the Vanguard to 
+Langebrucken,
+ a burnt village, from vvhence (after he had re∣freshed himselfe about two houres, and vvritten certaine letters, vvhich he sent by Post to his friends, to let them vnderstand his victory) he vvent to 
+Brussell.
+ And Ge∣nerall 
+Mansfield
+ with the Rereguard, two houres and an halfe after, followed him, and ariued there about breake of day.
+
+
+The prisoners freely acknowledge, that according to mans iudgement, and the si∣tuation of their camp, it was reputed im∣possible for them to lose the battell: but they ascribe it to the permission of God, that would haue it to be so.
+
+
+
+
+During this battell, there vvere many notable things considered, First, that al∣though Count 
+Mansfield
+ thought it conue∣nient that the King should retire himselfe into a place of safetie; yet that he vvould needs be there personally, and marched at the head of the Rereguard, to leade the same, and to supply their places that had entred into the battell.
+
+
+Besides, that the Princes, Earles & other Lords of qualitie (vvhich after shall be na∣med) did so valiantly behaue themselues in that battell, that they returned from it vvith their svvords all besmeared vvith their enemies bloud, and vvere sorie for no∣thing more, but that the battell lasted no longer.
+
+
+Tvvo brothers chanced to knovv each other in the fight; namely, Lieutenant 
+Ber∣hen,
+ that tooke his brother prisoner, vvho serued the Duke of 
+Bauaria:
+ and another souldier of Count 
+Mansfields
+ army also tooke his brother prisoner, vvho serued the Bishop of 
+VVirtsburgh.
+
+
+
+
+Bauariaes
+ Ordenance, though they vvere often discharged, did no hurt with any shot they made.
+
+
+In this battell there vvere no more then fifteene souldiers on the Kings side slaine.
+
+
+Lastly, during this fight, it rained ex∣tremely, and the ground thereby with the horses trampling was so deepe and slippe∣ry, that the horses could hardly recouer themselues out of it: and a great Raine∣bow was seene ouer the body of the army.
+
+
+The newes of this ouerthrow being brought to the Garisons left in 
+VVisloch, Sintzen, Hilspach, Steynach,
+ and others vvhich the 
+Bauarians
+ held, in all haste made them to leaue them, and to runne away. But part of them fell into the hands of the Mar∣quis of 
+Badens
+ souldiers, and were so closely followed, that 150 of them vvere slaine, and 300. taken prisoners. The rest of the 
+Bauarian
+ army is yet by Count 
+Mansfield
+ speedily pursued; so that it is certaine that the towne of 
+Heydelberg
+ is not wholy re∣lieued from being inclosed.
+
+
+
+
+The God of battles to whom the honor here∣of onely belongeth, continue his fauour to them that are his, & poure out his vengeance on them that be his enemies, Amen.
+
+
+After that Count 
+Mansfield
+ had giuen this o∣uerthrow to the Armie of 
+de Tilley,
+ vnder com∣mand of the Duke of 
+Bauaria,
+ the yonger Duke of 
+Wirtenbergh
+ came downe, as hoping that hee might now passe freely, and without any dan∣ger to Count 
+Mansfield
+ with his souldiers being 1000. horse, and 2000. foote. But 
+Don Cordua
+ with his Spanish Army met him, and put him to flight. In which conflict, 1500. men were slaine, and taken prisoners the Duke of 
+Witenberghs
+ Bro∣ther, dangerously wounded, and taken prisoner, and the Marquesse of 
+Badens
+ Sonne slaine, be∣side the losse of two peeces of Artillerie.
+
+
+But 
+Turlach
+ the Marquesse of 
+Baden
+ comming likewise downe, attended with 15000. men, for the assistance of the king of 
+Bohemia,
+ collected together the scattered troopes of the Duke of 
+Witenberghs,
+ with whom, and his owne souldiers he encountred 
+Don Cordua,
+ slue more then 3000. of his men, and not onely recouered the Artille∣ry lost before; but likewise all the 
+Spanish
+ Artille∣ry to it, making himselfe (by this good meanes)
+
+maister of the Borgstrart, which causeth no meane ioy and comfort here among vs. Of this gratious successe, the King of 
+Bohemia
+ himselfe hath written to his excellency, the Prince of 
+Orenge.
+
+
+Christian
+ Duke of 
+Brunswicke
+ vpon the eight∣teenth day of Maie with aboue eight thou∣sand well appoynted horse, and well neere ten thousand foote, being on the way for marching into the Palatinate comming about 
+Huckelster,
+ to passe ouer the 
+Neser,
+ there the 
+Bauarians,
+ vnder the Barron 
+Van Anhalts
+ com∣mand, and some of Graue 
+Henricke van den Berghs
+ Souldiers came thither to preuent this passage.
+
+
+But the Duke of 
+Brunswicke
+ perceiuing his purpose, withdrew his forces to a place of good conueniencie, and getting behinde them, placed his horse in a wood with eight pee∣ces of Ordnance, hereupon the Spaniards beganne to charge the footemen Souldiers ve∣ry hotely, which they pollitickely perceiuing drew themselues still backeward, till at the last they came to their owne Ordenance, but when they had the enemy within reach of their shot, they then brauely gaue fire,
+
+and the Dukes horse being diuided into two wingges, they entred side-wayes among them, and breaking their Battle, forced them to flight: which flight, the 
+Bauarian
+ horse, con∣sisting of about fiftie Cornets of horse: and sixeteene of them were slaine in the fierce pur∣suite: then tenne of their Cornets were taken, and the foote men being sixe thousand strong the greater part of them were slaine, with sixe of their Ensignes taken, which in vi∣ctorious manner were brought into 
+Lip∣stadt.
+
+
+The Duke of 
+Brunswicke
+ pursuing his vi∣ctorie, marched the next day to 
+Guesken,
+ which he ingirt about, and shot balls of wild-fire into into it; at which time all they which fled out of it were slain, and the rest burnt. But the souldiers which escaped out before, chose rather to bee slaine, then there to be burnt.
+
+
+After this vpon the 15. of Maie, the king of 
+Bohe∣mia
+ with his army in order of battle marched frō 
+Gemershcime
+ to 
+Hagenaw
+ to raise the siege before it, which the Arch Duke 
+Lepoldus
+ vnderstanding presently sent 1000 horse men, & some footmen to 
+Wiisenbergh
+ a rich towne lying in the way be∣tweene 
+Hagenaw
+ & 
+Germersheime
+ to take the same,
+
+and thereby to giue the king somewhat to do, & to stay him, but those horsemen vpon the 17. of Maie were suddenly surprized by the Earle of 
+Mansfield,
+ and so dealt withall, that very few of them escaped away to carry newes thereof to the Arch Duke, who at that time did the best hee could before 
+Hagenaw
+ to take it, whereof hee doubted not, the day before hauing taken in some of their trenches, and determined the next day to assault the towne, but hee was in such a feare at the hearing of that vnexspected newes, that without further delay he presently raised vp his siege before 
+Hagenaw,
+ in manner of flying a∣way, thinking to carry his Artillery to 
+Boschwiler
+ ouer the 
+Rhine,
+ and so to saue it; but the Earle of 
+Mansfield
+ following him at the heeles, he was for∣ced to leaue the Cannon shot behinde him with his amunition and carriage, but the king got not aboue two or three of his peeces, the rest were sunke in the Riuer 
+Rhine
+ and in the Marshes, with much labour thought to get out againe, but most of the amunition being a great quanti∣tie was taken, and 
+Leopoldus
+ who is brother to the Emperour himselfe hardly escaped from the Earle of 
+Mansfield,
+ being pursued by him vntill 
+Leopoldus
+ was constrayned with all speed to flie
+
+to the riuer of 
+Rhine,
+ and so by great fortune sa∣ued himselfe by reason a smal boate lying by the riuer side, wherein he was transported ouer, but if this good fortune had not hapned vnto him hee had without doubt bene taken prisoner. Now a∣bout 
+Dieshashem
+ many of the 
+Leopoldian
+ souldiers retired into their skonces thinking thereby to saue themselues, but the kings forces so speedily inclosed them round about, and taking the boats wherein they thought to haue escaped away, set so fiercely vpon them, that the most part of them were slaine in the place, the rest of the 
+Leopoldians
+ most part of them fled to 
+Elsas, Saberen, Multsheim
+ and 
+Datchsline.
+ The 22. of Maie sixe Coronets of horsemen of 
+Leopoldus
+ that had saued themselues in a wood, and in three dayes had eaten no bread came to the citty 
+Stratsburg
+ and their offered their seruice to the Magistrate of the towne, but they thanked them and told them they had no need of any horsemen. At which time Collonel 
+Ouertrout
+ with some other Gentlemen being there in the town, and hearing thereof, he went to them and speaking with them, they willingly yeelded vnto the king, some of them haue not receiued any pay in 18 moneths, and some in 12. moneths the Maiestrates gaue them Wine, Hay and Bread,
+
+in regard they had offered them seruice, & while they had refreshed themselues, the Duke of 
+Saxon
+ that serued vnder the Emperor went out of the towne vnto them, hoping to win them still to serue the Emperour, and to take them; which 
+O∣uertreut
+ vnderstanding, sent his cousen with o∣ther horsemen out vnto him, and taking their aduantage, set vpon the Duke of 
+Saxon,
+ took his Pistoll and Rapier from him, and tooke him and two other Gentlemen prisoners, and sent them to 
+Hagenaw:
+ the sayd horsemen sayd that there are fiue Coronets of horsemen, and a Regiment of footmen more that stand vpon the same termes. What the King will farther doe time will de∣clare. Some thinke he will goe on with his vi∣ctorie towards 
+Eisas, Saberen
+ where the Arch Duke keepes his Court: others that hee will come backe againe towards 
+Germersheim,
+ where also there is a Bridge made ouer the 
+Rhine,
+ the 
+Spaniards
+ inskonce themselues at 
+Openheime,
+ the 
+Bauarians
+ at 
+Hirshoorme
+ vpon the Necker two miles from 
+Hidelburgh,
+ and the Marquesse of 
+Ba∣den
+ is againe in the field as strong as he was be∣fore.
+
+
+Graue 
+Henricke
+ is gone to assist the Duke of 
+Brunswicke
+ with two thousand of horse, and three
+
+thousand Musketeers, the Graue 
+Van den Bergh
+ be∣ing gone thither likewise with all the enemies horse. In the mean time our souldiers are march∣ed forward, vnder the Collonell 
+Ryhauen
+ being in strength three thousand horse, and fiue thou∣sand foote, and are falne into Brabant, where a∣bout Machlen, Brussels and Leeuen, they haue burnt no lesse then 30. villages, monasteries, ha∣uing agreed with some that gaue them contribu∣tion, and promised to continue in paying it still. The enemy taketh vp many men out of the Le∣gar before Sluice and other Garrison places, so that he bringeth together 8000. foote, and three companies of horse to resist vs, what can be ef∣fected with so few horse, time will discouer.
+
+
+The 23. of Maie Graue 
+Henricke van Nassaw
+ en∣tred victoriously into the 
+Hague,
+ after he had in Brabant (with horse and foote) ouercome those that refused to pay contribution: bringing with him great store of Riches, as money, pri∣soners, Waggons, Carts, and all kinde of proui∣sion, appointing the prisoners to pay great ran∣somes. And if the Lady of 
+Scher Monheauell
+ were not too yong, she should be married to Sir 
+Rom∣bout
+ at 
+Mechlen.
+
+
+
+
+The 20. of Maie Graue 
+Henricke van den bergh
+ with all his power both horse and foote (where∣with he had laine before 
+Ham,
+ and was forced to leaue it) being certified, that Graue 
+Henricke van Nassar
+ was entred into 
+Brabant,
+ and there made great spoyle, meeting with no resistance, for which cause marching thither, to fight with the States forces, he heard that they were gone from thence againe, and had carried much wealthy Treasure with them. Whereupon he concluded to go towards 
+Rinbarke
+ ouer the Bridge, and at returning backe againe, to set vpon 
+Ham:
+ but be∣fore he got ouer the bridge, his whole troupe following him, and marching in the euening, a Cart laden with money, which was conueyed by foure horse men, staying somewhat behinde, not doubting but that it was out of all danger, a∣mong other, was pursued by 15. of the States horsemen, that bearing away the money with them, tooke the foure horse men prisoners, and left the emptie Cart standing there still.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

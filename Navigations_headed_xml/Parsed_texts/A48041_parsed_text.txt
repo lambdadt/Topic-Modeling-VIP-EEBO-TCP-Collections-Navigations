@@ -1,0 +1,182 @@
+A Letter from an eminent merchant in Constantinople to a friend  in London giving an exact relation of the great and glorious  cavalcade of Sultan Mahomet the fourth, present emperour of the Turks, as he   marched out of Constantinople, for the invasion of Christendome, and the siege  of Vienna.
+Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A48041
+
+
+
+
+Wing L1443
+
+
+
+ESTC R43390
+
+
+
+
+
+ocm 27377099
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Letter from an eminent merchant in Constantinople to a friend  in London giving an exact relation of the great and glorious  cavalcade of Sultan Mahomet the fourth, present emperour of the Turks, as he   marched out of Constantinople, for the invasion of Christendome, and the siege  of Vienna.
+1 sheet ([2] p.).   
+
+
+London :
+
+
+Printed for A. Jones,
+
+
+in the year, 1683.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Austro-Turkish War, 1683-1699.
+Vienna (Austria) --  History --  Siege, 1683.
+Turkey --  History --  Mehmed IV, 1648-1687.
+2013-09
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Kate Allen
+Sampled and proofread
+2013-11
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+L1443
+
+
+R43390
+
+
+27377099
+
+
+110094
+
+
+
+
+
+
+
+
+
+
+
+
+A LETTER From an Eminent Merchant in CONSTANTINOPLE, To a FRIEND in LONDON: Giving an exact Relation of the Great and Glorious Caval∣cade of 
+Sultan Mahomet
+ the fourth, present Emperour of the 
+Turks,
+ as he Marched out of 
+Constantinople,
+ for the Invasion of Christendome, and the Siege of 
+VIENNA.
+
+
+Entred according to ORDER.
+
+
+SIR,
+
+
+ELeven Days past, the Grand Signiour made his publick Alloy (or 
+Exit
+) out of this City, accompanied by the Grand Vizier, and the Officers of the Empire, as also Prince 
+Mahomet
+ his eldest Son, a Youth of about Eighteen years old, and the first that any Emperour ever suffered to shew himself to the people. In this Sight was expos'd to view the greatest Riches of the Empire, consisting in Jew∣els of inestimable value, Horses, Clothes and Furniture, the Magnificence whereof is not to be expressed in Writing, unless it was possible to shew you Horses Furniture cover'd over with Diamonds, Rubies and Emeralds; and the Horses themselves more remarkable than their Furniture. They proceeded in order: First; A Body of Horsemen Armed Cap-a-pe with their Bows, Quivers, Swords and Launces; Next the Bashaws, each with his retinue of led Horses, handsome Pages with Coats of Mail richly drest; And next, all the Caddees, or Justices, with Turbants at least a Yard Diameter, with their Attendants; After them proceeded the Chiauses of the Viziers who bring people to Justice before him, with prodigious long Turbants, but not so big as the Caddees, and with them their followers; To them succeeded the Emirs, or Kindred of 
+Mahomet,
+ all with Green Heads to distinguish them: Next came the Viziers Chia (Nor Secretary) with a vast and rich retinue of led Horses, Pages and Aga's; Next came the Great Treasurer, or Desterdar, with a greater Attendants of like nature; Then appeared a great number of Horses richly Trapped, and led by very fine Pages, and followed by many persons of Quality, Attendants on the Two, which immediately succeeded on
+
+most stately Horses, with rich Furniture, being the Mosaip, or Favourite, (who Married the Grand Signiours Daughter,) and 
+Kara Kiah
+ the greatest Officer in the Empire next the Vizier, called 
+Chimacham,
+ who were at∣tended by a vast number of Pages, on Foot and Horseback: Then past the two 
+Cadalesches
+ or Lord Chief Justices, then the Viziers Guard covered over with the Skins of Lyons, Bears, Tygers and Leopards, every one differently habited; Next came the Six Horse-Tails, carried before the Vizier by Eighteen Men, on Poles of Ten yards long; Then Fifty of the Viziers Pa∣ges a Foot on each side the way, between whom Rode himself, and the Muf∣ty; After him all his Aga's and great Officers of his Houshold, with a num∣ber of Pages; Next several of the Grand Signiours, 
+Eunuchs;
+ and after them the 
+Kizler Aga
+ or black 
+Eunuch,
+ with attendants equal to the Viziers; He was succeeded by bauling Holy men; Lean, ill-favoured, praying all the way for the Grand Signiours Life, and the Propagation of their Law; These were followed by Two of the greatest 
+Camels
+ to be found in the Empire; the first of which carried the Cloaths of 
+Mahomet,
+ which he wore in his Life time; the latter carried the 
+Alcoran
+ as it was delivered by 
+Mahomet
+ to his Successors; which Beasts when they dye, the 
+Turks
+ perswade themselves go to Heaven. Af∣ter the 
+Camels,
+ and before the Grand Seigniour, Rode 
+Soliman Chia
+ (Friend to our Nation) Master of the Horse to the Grand Signiour, and his Favourite, but mortal Enemy to the Vizier: After him Rode the Grand Signiour on a Milk-white Horse, covered over with unvalluable Jewels, attended by Pages drest a-like with Caps of Massy Gold; their Habit Cloth of Gold; reaching down below their Knees, girded with a Girdle of three Inches broad, cove∣red as thick with Diamonds and other Jewels as they could be set together. After these Rode the Prince in a plain habit,
+
+ and on an ordinary Horse, follow∣ed by about Four hundred, all the Grand Signiors Pages, Armed with Caps and Coats of Mail, Gauntlets, Swords and Targets, each with a Quiver of Guilt Arrows on his Right side, and a Bow on his Left; the Case of which, and the Quiver of some, was set with Diamonds and other Jewels: They wore a loose flying Garment of Sattin, some Green, some Scarlet, some Blew, some Yellow, and all colours, which mix'd, made a delicate show; Between every Ten or Twelve, Rode two white 
+Eunuchs,
+ the 
+Turks
+ being as jealous of their young Men as of their Women. After these the Officers of the Grand Sig∣niors Houshold, in the midst of whom, his Coaches and Waggons, with load∣ed Mules, Camels; 
+&c.
+ The Rear was brought up by about five Thousand 
+Spahees
+ or Horsemen, each carrying in his hand a Pike Advanced, with a Bandera of several Colours flying, which made the sight delightful; with which it concluded, having lasted Five or Six hours.
+
+
+Constantinople
+ 
+Octob. 
+the
+ 10th. 1682.
+
+
+
+
+
+
+
+
+
+
+LONDON:
+ Printed for 
+A. Jones,
+ in the Year, 1683.
+
+
+
+
+
+
+
+
+

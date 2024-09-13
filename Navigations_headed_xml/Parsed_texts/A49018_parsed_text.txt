@@ -1,0 +1,823 @@
+An Act of Common Council for the Better Regulation of Weighing of Goods and Merchandizes at the King's Beam
+City of London (England).
+Approx. 28KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2016-02 (EEBO-TCP Phase 2).
+A49018
+
+
+
+
+Wing L2861J
+
+
+
+ESTC R39362
+
+
+
+
+
+ocm 18370236
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An Act of Common Council for the Better Regulation of Weighing of Goods and Merchandizes at the King's Beam
+City of London (England).
+[2], 16, [1] p.   
+
+
+[London] :
+
+
+Printed by Samuel Roycroft ...,
+
+
+1698.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Weights and measures --  Law and legislation --  England --  London.
+London (England) --  History --  17th century.
+2014-05 
+SPi Global
+Keyed and coded from ProQuest page images 
+2014-07 
+John Pas 
+Sampled and proofread 
+2014-07 
+John Pas
+Text and markup reviewed and edited 
+2015-03 
+pfs
+Batch review (QC) and XML conversion 
+
+
+
+
+
+
+L2861J
+
+
+R39362
+
+
+18370236
+
+
+107435
+
+
+
+
+
+
+
+
+
+
+
+
+AN ACT OF COMMON COUNCIL For the better Regulation of WEIGHING OF GOODS and MERCHANDIZES AT THE KING'S BEAMS.
+
+
+
+
+arms of London
+
+
+
+
+Printed by 
+Samuel 
+cr
+ft,
+ Printer to the Honourable City of 
+LONDON,
+ 1698.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+arms of London
+
+
+
+
+Commune Concilium tent' in Camera 
+Guihald'
+ Civitat' 
+LONDON',
+ 
+die 
+Veneris
+ Decimo octavo die 
+Novembr',
+ Anno Domini 1698. Annoque Regni Domini nostri, WILLIELMI Tertij, nunc Regis 
+Angliae, &c
+ Decimo:
+ Coram 
+Francisco Child
+ Mil', Majore dictae Civitatis, 
+Roberto Clayton
+ Mil', 
+Edwardo Clarke
+ Mil', 
+Johanne Par∣sons
+ Mil', 
+Richardo Levett
+ Mil', 
+Jacobo Houblon
+ Mil', 
+Thoma Abney
+ Mil', 
+Willielmo Hedges
+ Mil', 
+Owen Bucking∣ham
+ Mil', 
+Thoma Rawlinson
+ Mil', 
+Willielmo Withers
+ Arm', & ejusdem Civit' Aldermannis, ac 
+Willielmo Gore
+ Mil', un' Vicecomirum & Aldermanno dictae Civitatis: Necnon major' parte Communiar' in eodem Com∣mune Concil' tunc & ibidem assemblat'.
+
+
+An
+ ACT 
+of
+ Common Council, 
+For the better Regu∣lation of the
+ Weighing 
+of Goods and Merchandizes at the
+ KING's Beams.
+
+
+W
+HEREAS it appertaineth to Iu∣stice, That to all Men be uprightly given true 
+Weight
+ and 
+Measure;
+
+
+And whereas, for the more indif∣ferent and just 
+Weighing
+ of Goods and Merchandizes, which used to be Bought and Sold by 
+Weight,
+ within the City of 
+LONDON
+ and Liberties thereof, there are,
+
+ and from the time, whereof the Memory of Man is not to the contrary, there have been certain 
+Com∣mon Beams,
+ within the said City and Liberties thereof commonly called the 
+KING's BEAMS,
+ at which there are and have been (during all the time aforesaid) certain sworn Offices who by the Duty of their Places have used, and ought con∣stantly to attend for the Weighing of such Goods and Merchandizes.
+
+
+And whereas the Office of 
+TRONAGE,
+ or 
+Weighing
+ of all Goods and Merchandizes within the said City and Liberties thereof as well by Custom time out of mind, as by several ancient Charters and Acts of Parliament, is confirmed unto and vested in the 
+Mayor
+ and 
+Commonal
+,
+ and 
+Citizens
+ of the said City.
+
+
+And whereas all Goods and Merchandizes, of all Foreigners not being Free of the said City, which have been Sold or Bartered within the said City or Liberties, to any Person or Persons what∣soever, as well Freemen as others, ought and during all the time aforesaid have been accustom∣ed to be Weighed at one of the said 
+ams,
+ at or before the Sale or Delivery thereof.
+
+
+And whereas divers Foreigners of late time not minding or regarding the good and wholsom Customs of the said City; but out of a Covetous desire, by sinister ways and unlawful means, to promote their own private Interests, have of∣tentimes Sold and Delivered such their Goods and Merchandizes within the said City, as well to Freemen of the said City as others, by other 
+Weights
+ and 
+Beams,
+ without weighing the same at any of the said 
+Common Beams,
+ whereby many Frauds, Injuries and Deceits have hapned and
+
+ been committed: And the better to palliate their Offence and avoid suspicion, do sometimes by Confederacy and Practice with some Freemen of the said City, cause Fraudulent and Clandestine Sales to be made of such their Goods and Mer∣chandizes to Freemen of the said City, before the same Goods or Merchandizes do come to the said City or Liberties thereof, contrary to the Oaths of such Freemen, and sometimes do mix their Goods with the Goods of other Persons that are Free of the said City, that so the distinct proper∣ty of the Goods of Foreigners, may not be known from those of Freemen: And other times do procure Freemen to be Partners with them in such Goods and Merchandizes, who many times have but a small and inconsiderable Share there∣in; and upon such and other like fraudulent means and pretences, hold themselves discharged from the Duty of Weighing such Goods at any of the said 
+Beams,
+ whereas in truth they are not, nor ought by any such Colour or Pre∣tence to be in any sort excused or discharged, of or from the said Duty.
+
+
+For remedy whereof, It is hereby Enacted, Ordained and Declared by the 
+Lord Mayor, Al∣dermen
+ and 
+Commons
+ of the City of 
+London
+ in 
+Common Council
+ assembled, and by the Authority of the same; That all Goods, Wares and Mer∣chandizes of any Person or Persons being a Fo∣reigner or Foreigners, and not Free of this City, of what kind soever usually Bought and Sold by Weight, at any time after the first day of 
+January
+ next ensuing, which shall be within or brought to the said City or Liberties thereof, and shall be Sold or Bartered to any Freeman or Freemen of the said City, or to any other Person or Persons whatsoever, within the said
+
+ City or Liberties thereof, shall at, or before the Delivery thereof to the Buyer, or any other Person or Persons, for his use, be Weighed at the said 
+Common Beams,
+ or one af them, upon pain of forfeiture of 
+Thirteen shillings
+ and 
+Four pence
+ for every 
+Five hundred
+ weight of such Wares and Merchandizes, to be paid by the Seller or Barterer thereof, and so after the same Rate for every greater or lesser quantity.
+
+
+And for the further prevention of all Fraudu∣lent and Clandestine Dealings, which may hereafter be practised by any 
+Freeman
+ or 
+Freemen
+ of the said City, 
+Foreigner
+ or 
+Foreigners
+ in Buying of, or Bartering for Goods or Merchandizes of 
+Foreigners
+ and 
+Strangers
+ without the Freedom of the said City, to the intent to avoid the Duty of weighing such Goods and Merchandizes at the said 
+Common Beams,
+ and the reasonable Duty to be paid for the same: Be it further Enacted by the Authority aforesaid, That if any Sale shall be made by any such 
+Foreigner
+ or 
+Foreigners,
+ to any 
+Freeman
+ or 
+Freemen
+ of the said City, of any such Goods or Merchandizes, before the same Goods or Merchandizes come to this City, or the Liberties thereof, whereby they avoid the just Weighing such Goods or Merchandizes at one of the said 
+Beams,
+ and the Duty for Weighing thereof; and such Goods and Merchandizes shall afterwards come to this City or the Liberties there∣of, and shall after the said first day of 
+January
+ be Sold or Bartered, and delivered by such 
+Fo∣reigner
+ or 
+Foreigners, Freeman
+ or 
+Freemen,
+ to any other Person or Persons whatsoever, within the said City or Liberties thereof; Then such Goods or Merchandizes shall, at or before the Deli∣very thereof to such Person or Persons so Buy∣ing the same, be Weighed at the said 
+Common
+
+ Beams
+ called the 
+King's Beams,
+ or at one of them, up∣on pain to forfeit 
+Thirteen shillings
+ and 
+Four pence,
+ for every 
+Five hundred
+ weight, of such Wares or Merchandizes, to be paid by the Seller or Bar∣terer thereof, and so after that Rate for a greater or lesser quantity, notwithstanding any such Sale as aforesaid,
+
+
+And be it further Enacted by the Authority aforesaid, That if any 
+Freeman
+ or 
+Freemen
+ of this City, to whom such fraudulent Sale of such Goods or Merchandizes shall be made, as aforesaid; shall wittingly or willingly after the said first day of 
+January,
+ put in Vre, Iustifie or Endeavour to Maintain such Fraudulent Sale, to the intent to avoid the said just Weighing such Goods and Merchandizes, and the Duty to be paid for the same; Then every such 
+Freeman
+ shall forfeit for every such Offence the Sum of 
+Five pounds.
+
+
+And it is hereby further Enacted and Decla∣red, That if any such Goods or Merchandizes, of any 
+Freeman
+ or 
+Freemen
+ of this City, shall be mixed with the Goods and Merchandizes of any 
+Foreigner
+ or 
+Foreigners
+ not Free of this City; so that the distinct Property and Proportion of each of them cannot be known and distinguished from other, and such Goods or Merchandizes so mixed and not divided, being within the said City or Liberties, shall at any time after the said first day of 
+January,
+ be Sold or Bartered within the same by such 
+Freeman
+ or 
+Freemen, Foreigner
+ or 
+Foreigners,
+ or by any, or either of them, to any other Person or Persons, before any Par∣tition, Division or Seperation be thereof made; Then all such Goods and Merchandizes, as well of such 
+Freeman
+ or 
+Freemen,
+ as of such 
+Fo∣reigner
+
+
+ or 
+Foreigners
+ shall, at or before the Deli∣very thereof to any other Person or Persons so Buying the same, be Weighed at the said 
+Com∣mon Beams,
+ called the 
+King's Beams,
+ or at one of them; or in default thereof, as well the Buyer as the Seller thereof, shall each of them forfeit and pay the Sum of 
+Thirteen shillings
+ and 
+Four pence
+ for every 
+Five hundred
+ weight of such Wares and Merchandizes, and so after that Race for a greater or lesser quantity, as aforesaid.
+
+
+And it is further Enacted by the Authority aforesaid, That all such Goods and Merchan∣dizes usually Sold by weight, whereof any 
+Freeman
+ or 
+Freemen
+ shall be possessed, by Consign∣ment to be Sold, or Disposed for the benefit of any 
+Foreigner
+ not Free of the said City, or in Copartnership, or in Common with any 
+Fo∣reigner
+ by equal Moieties, or by any other Share or Shares, which at any time after the said first day of 
+January,
+ shall be Sold or Bartered, to any Person or Persons whatsoever within the said City or Liberties thereof, shall at, or be∣fore the Delivery thereof, be Weighed at the said 
+Common Beams,
+ or one of them, and in de∣fault thereof, the Seller or Sellers thereof shall forfeit and pay the Sum of 
+Thirteen shillings
+ and 
+Four pence,
+ for every 
+Five hundred
+ weight of such Wares and Merchandizes, and so after the same Rate for a greater or lesser quantity, as afore∣said.
+
+
+And whereas, for defraying the necessary Charges of repairing, and maintaining the said 
+Beams,
+ and the 
+Scales, Weights
+ and other neces∣saries thereunto belonging, and likewise to en∣able the said 
+Mayor, Commonalty
+ and 
+Citizens,
+ to give reasonable recompence and satisfaction for
+
+ the care and attendance of such Persons, as are and shall be necessarily employed therein; There have been time out of mind paid to the said 
+Mayor
+ and 
+Commonalty
+ and 
+Citi∣zens,
+ their Deputies or Officers in that be∣half, certain reasonable Rates and Duties for Weighing such Wares and Merchan∣dizes; and the same have in all times been subject to the Alteration and Regulation of the 
+Common Council
+ of the said City.
+
+
+Now, to the intent that the said Rates and Duties may be the better ascertained and made publick to all Persons concerned in Weighing, as aforesaid; And to pre∣vent the Officers and Collectors thereof from Demanding, Exacting or Receiving more than they ought to do: Be it further Ena∣cted by the Authority aforesaid, That all and every Person or Persons not being Free of this City, who shall Sell and De∣liver, or Cause to be Sold and Deliver∣ed within the said City or Liberties thereof, any Goods or Merchandizes usually Bought and Sold by Weight, as aforesaid, shall from and after the said first day of 
+January,
+ in the Year of our Lord 1698, pay or cause to be paid unto the 
+Master Weigher
+ or 
+Super∣visor
+ of such the said 
+Common Beams,
+ at which the said Goods or Merchandizes shall be weighed at, to the use of the said 
+Mayor, Commonalty
+ and 
+Citizens
+ or their Assigns, the Rates and Duties, following; (That is to say) for all Goods or Merchandizes whatsoever Sold by Weight, from 
+Twenty eight pounds
+ weight exclusive, to 
+Two hundred
+ weight inclusive, for each Draught 
+Two pence:
+ And from 
+Two
+
+ hundred
+ weight exclusive, to 
+Four hundred
+ weight inclusive, for each Draught 
+Three pence:
+ And from 
+Four hundred
+ weight exclu∣sive, to 
+Six hundred
+ weight inclusive, for each Draught 
+Six pence:
+ And from 
+Six hundred
+ weight exclusive, to 
+Eight hundred
+ weight inclusive, for each Draught 
+Ten pence:
+ And from 
+Eight hundred
+ weight exclusive, to 
+Ten hundred
+ weight inclusive, for each Draught 
+One shilling
+ and 
+Four pence:
+ And from 
+Ten hundred
+ weight exclusive, to 
+Twelve hundred
+ weight inclusive, for each Draught 
+One shilling
+ and 
+Eight pence:
+ And from 
+Twelve hundred
+ weight exclusive, to 
+Eighteen hundred
+ weight in∣clusive, for each Draught 
+Two shillings:
+ And from 
+Eighteen hundred
+ weight exclusive, to 
+Twenty two hundred
+ weight inclusive, for each Draught 
+Two shillings
+ and 
+Four pence:
+ And from 
+Twenty two hundred
+ weight exclu∣sive, to 
+Twenty five hundred
+ weight and up∣wards, for each Draught 
+Three shillings;
+ for every Bag of 
+Hops, Six pence;
+ for every Ton of 
+Iron, One shilling
+ and 
+Two pence;
+ for every Fodder of 
+Lead, Ten pence.
+
+
+And be it further Enacted by the Authori∣ty aforesaid, That the said several Rates so appointed to be paid for the uses afore∣said, for the Weighing of all Goods or Mer∣chandizes, as aforesaid, be from henceforth the only Rates that shall be taken or received for the Weighing thereof, as aforesaid; any thing herein, or in any other Act, Custom or Vsage, to the contrary in any wise not∣withstanding.
+
+
+
+
+And be it further Enacted by the Autho∣rity aforesaid, That no Person or Persons whatsoever, shall at any time or times here∣after be constituted or admitted 
+Master Weigher, Supervisor
+ or 
+Supervisors,
+ or other Officer or Officers whatsoever, for Weigh∣ing of Goods or Merchandizes at the said 
+Common Beams,
+ commonly called the 
+King's Beams,
+ or either of them, or shall keep, use or exercise any 
+Common Beam
+ or 
+Beams,
+ for the Weighing of any Goods or Merchandi∣zes within the said City or Liberties there∣of, other than such Person or Persons, as shall be first thereunto Authorized or Licen∣sed by this Court or a 
+Committee
+ thereof: And that if any Person or Persons shall keep, use and exercise any 
+Beam
+ or 
+Beams,
+ for Weighing of Goods or Merchandizes, as aforesaid, within the said City or Liberties thereof, without being thereunto Licensed or Appointed, as aforesaid, such Person or Per∣sons, for every such Offence, shall forfeit and pay the Sum of 
+Four pounds
+ and 
+Nineteen shillings.
+
+
+Provided always, and be it further Enacted by the Authority aforesaid, That this Act or any thing herein contained, shall not be con∣strued or expounded to debar or hinder any 
+Freeman
+ or 
+Freemen
+ of the said City, from using of his or their own 
+Beam
+ or 
+Beams,
+ in the Weighing of his or their own proper Goods or Merchandizes, (not in Copartner∣ship with a 
+Foreigner
+ or 
+Foreigners
+) by him or them Sold in, or Delivered out of their 
+Shops
+ or 
+Warehouses,
+ as hath heretofore been used
+
+ and accustomed; any thing herein contain∣ed to the contrary hereof in any wise not∣withstanding.
+
+
+And be it further Enacted by the Autho∣rity aforesaid, That every 
+Master Weigher, Supervisor
+ or 
+Supervisors,
+ or other Officer appointed, or to be appointed to be 
+Master Weigher
+ of the said 
+Common Beams,
+ or any of them, shall from time to time once in every Three Months at the least, carefully Examine all the 
+Weights
+ and 
+Beams
+ to be used for the Weighing of Goods and Mer∣chandizes, as aforesaid, with the Standard kept for that purpose, and shall constantly keep them true and agreeing with the same: And that, if at any time hereafter any such Person or Persons, Officer or Weigher im∣ployed, or to be Employed, as aforesaid, shall be Convicted upon the Oath or Oaths of one or more Witnesses, before the 
+Lord Mayor
+ and 
+Court
+ of 
+Aldermen
+ of the said City, of keeping and using, at any of the said 
+Beams,
+ any 
+Weights
+ not agreeing with the said Standard, or for any Dishonest or Vnjust Dealings or Practizes, in or about the Weighing of any Goods so to be Weighed, as aforesaid; That then such Person or Persons, Officer or Weigher so Offending, shall 
+(ipso facto)
+ be Discharged, of and from such his said Office or Depu∣tation.
+
+
+
+
+And to the end, that all and every the Person and Persons that shall hereafter be so, as aforesaid, Authorized and Appointed to attend the said 
+Beams,
+ or any of them, for the Weighing of Goods and Merchan∣dizes, as aforesaid, may the more impartial∣ly, diligently and carefully perform his and their Duty: Be it further Enacted by the Authority aforesaid, That no 
+Weigher, Super∣visor
+ or 
+Supervisors,
+ or other Officer or Offi∣cers whatsoever hereafter to be Authorized or Appointed to attend the said 
+Beams,
+ or any of them for the purposes aforesaid, shall at any time after such Authority or Appoint∣ment, Vse or Exercise the Trade, Art or Mystery of a 
+Factor
+ or 
+Agent,
+ for the Buy∣ing or Selling any Goods or Merchandi∣zes, or shall Employ himself as a 
+Broker,
+ to make any Bargain, Contract or Agreement between Merchant and Merchant, or other Buyer and Seller of any Goods or Mer∣chandizes whatsoever: And that all and every 
+Master Weigher, Supervisor
+ or 
+Supervisors
+ or other Officers, in either of the said Cases Offending, shall from thence forth be 
+(ipso facto)
+ Discharged, of and from such his and their said Office and Employment,
+
+
+And for prevention of all Differences that shall or may arise between Buyers and Sel∣lers, concerning the Weight of the Goods or Merchandizes weighed at the said 
+Beams,
+ or any of them: Be it further Enacted by the Authority aforesaid, That One or more exact 
+Register
+ or 
+Registers
+ shall be kept by the
+
+ 
+Master Weigher
+ or 
+Supervisor
+ of the said 
+Com∣mon Beams,
+ of all Goods and Merchandi∣zes Weighed from time to time at his re∣spective 
+Beam,
+ and of the true Weight there∣of, to the intent that due Proof may be made of the same by such 
+Master Weigher
+ or 
+Supervisor,
+ his 
+Deputy, Agent
+ or 
+Agents,
+ if occasion shall require.
+
+
+And be it further Enacted by the Autho∣rity aforesaid, That if any 
+Master Weigher,
+ or 
+Supervisor,
+ at any of the said 
+Common Beams,
+ shall neglect to keep such 
+Register,
+ and be thereof Convicted upon Oath, as aforesaid, before the 
+Lord Mayor
+ and 
+Court
+ of 
+Aldermen,
+ such 
+Master Weigher
+ or 
+Supervisor,
+ shall for every such Offence be 
+(ipso facto)
+ Discharged, of and from his said Office or Deputation.
+
+
+And be it further Enacted by the Au∣thority aforesaid, That all and every Per∣son or Persons, that shall hereafter be ap∣pointed to be 
+Master Weigher, Supervisor
+ or 
+Supervisors,
+ or other Officer, at any of the 
+Common Beams
+ aforesaid, shall set on Work and Employ such 
+Porters
+ as are and shall be admitted of the 
+Fellowship
+ of 
+Ticket Porters
+ within this City; They the said 
+Porters
+ sub∣mitting to accept such Rates, as from time to time this 
+Court
+ or a 
+Committee
+ thereof shall think fit and reasonable.
+
+
+
+
+And be it further Enacted by the Au∣thority aforesaid, That such Person or Per∣sons that have, or who shall have the Authority over or Government of the said 
+Porters,
+ as well to prevent Exactions by the said 
+Porters,
+ as also that the said Ser∣vice may be duly and constantly sup∣plied, shall provide that such competent number of the said 
+Porters
+ may by Turns attend at the 
+Weigh-House
+ every Morn∣ing except 
+Sundays,
+ upon the said 
+Master Weigher, Supervisor
+ or 
+Supervisors
+ of the said 
+Common Beams,
+ as by him or them shall be required for performing the said Ser∣vice, according to the intent and mean∣ing of this Act; And their Wages or Allowances for all Labour and Work by them done and performed, shall be paid unto such 
+Porters
+ by such 
+Master Weigher, Supervisor
+ or 
+Supervisors,
+ out of the Moneys to be by him or them received, for Weighing any Goods or Merchandizes at the 
+Beams
+ afore∣said.
+
+
+And be it further Enacted by the Au∣thority aforesaid, That every 
+Master Weigher. Supervisor
+ or 
+Supervisors,
+ or other Officers, from time to time appointed for Weighing of any Goods or Merchan∣dizes at the 
+Beams
+ aforesaid, or some of them, shall upon request and within con∣venient time after reasonable notice to him or them given, for the Weighing of any one or more Draught or Draughts
+
+ of Goods or Merchandize, (the Person or Persons so requiring, undertaking to pay or satisfie the Charge of Carrying and Recarrying some one of the said 
+Beams,
+ together with the 
+Triangles, Weights
+ and 
+Scales
+ thereunto belonging) apply him or themselves to the Weighing thereof, upon pain of forfeiture of his or their Office or Deputation, being thereof Convicted, as aforesaid, for every such neglect or re∣fusal.
+
+
+And it is hereby further Enacted by the Authority aforesaid, That the 
+Weigh-house,
+ Scituate, Standing and being in or near 
+Little East-Cheap
+ in the 
+Ward
+ of 
+Billings-Gate
+ within the said City of 
+London,
+ shall be deemed, as and for the Common Office for 
+Tronage
+ and 
+Weighing
+ of all Goods and Merchandizes, that shall be Sold within the said City or Liberties thereof, as aforesaid, and also shall be the only 
+Market
+ for the Buying and Selling of 
+Hops.
+
+
+And be it further Enacted by the Au∣thority aforesaid, That all and every the Penalties and Forfeitures in this Act mentioned, shall be Sued for and Reco∣vered by Action of Debt, Bill, Plaint or Information to be Commenced and Pro∣secuted in the Name of the 
+Chamberlain
+ of the said City, for the time being, in any of the 
+Courts
+ of 
+Record
+ within the said City.
+
+
+
+
+And that one Moiety of all and every the 
+Forfeitures
+ and 
+Penalties
+ before mentioned, when recovered, (Charges of Suit being first deducted) shall be paid to the 
+Treasurer
+ of the Corporation for the 
+POOR
+ within this City, for the use of the said 
+Cor∣poration:
+ And the other Moiety of such 
+Forfeitures
+ and 
+Penalties,
+ to such Person or Per∣sons, who shall Sue for the same, as aforesaid.
+
+
+And that the 
+Prosecutor
+ or 
+Prosecutors
+ in all Suits to be Prosecuted by virtue of this Act, against any such Offender or Of∣fenders, shall recover his reasonable Costs of Suit expended in and about the Prosecu∣tion thereof.
+
+
+And that the 
+Chamberlain
+ of the said City, for the time being, (where any Action is brought in his Name, by virtue of this Act) shall not Release, Suspend or Delay the Prosecution thereof.
+
+
+Provided, that nothing contained in this Act, shall extend to charge any Person or Persons whatsoever, for or by reason of any such Forfeitures, as aforesaid, unless such Suit or Action shall be Commenced within the space of Six Months, next after such Offence is committed.
+
+
+
+
+And be it hereby further Enacted and De∣clared by the Authority aforesaid, That one 
+Declaration
+ touching the Weighing of Goods and Merchandizes at the 
+King's Beams,
+ with an Act of 
+Common Council,
+ Intituled, 
+An Act for the better Regulation of the Weighing of Goods and Merchandizes at the King's Beams,
+ which were made the 
+Thirteenth day of May,
+ in the Year of our Lord 
+1681,
+ in the time of the 
+Mayoralty
+ of 
+Sir Patient Ward Knight,
+ and all and every the Clauses and Branches in the said De∣claration and Act, or either of them contain∣ed, are hereby Repealed, Annulled and made Void, to all intents and purposes whatsoever.
+
+
+Goodfellow.
+
+
+
+
+
+
+
+
+
+
+Printed by 
+SAMƲEL ROYCROFT,
+ Printer to the Honourable City of 
+LONDON,
+ 1698.
+
+
+
+
+
+
+
+
+The Oath of every Free-man of the City of 
+London,
+ upon his Admission into the Freedom thereof.
+
+
+YE shall swear, that ye shall be good and true to our Sovereign Lord King WILLIAM, Obeysant and Obedient ye shall be to the Mayor and Ministers of this City. The Franchises and Cu∣stoms thereof ye shall maintain, and this City keep harmless in that that in you is. Ye shall be con∣tributary to all manner of Charges within this City, as Summons, Watches, Contributions, Taxes, Tallages, Lot and Scot, and to all other Charges, bearing your part as a Freeman ought to do. Ye shall Colour no Foreign Goods under or in your name, whereby the King or this City might or may lose their Customs or Advantages. Ye shall know no Foreigner to buy or sell any Merchandizes with any other Foreigner within this City or Fran∣chise thereof, but ye shall warn the Chamberlain thereof, or some Minister of the Chamber. Ye shall implead or sue, no Freeman out of this City, whilst ye may have Right and Law within the same City. Ye shall take no Apprentice, but if he be Freeborn, that is to say, no Bond-mans Son, nor the Child of any Alien, and for no less term than for seven years, without fraud or deceit: And within the first year ye shall cause him to be Enrolled, or else pay such Fine as shall be reasonably imposed upon you for omitting the same. And after his Terms end, within convenient time (being required) ye shall make him Free of this City, if he have well and truly served you. Ye shall also keep the Kings Peace in your own person. Ye shall know no Gatherings, Conventicles nor Conspiracies made against the Kings Peace, but ye shall warn the Mayor thereof, or lett it to your power. All these Points and Arti∣cles ye shall well and truly keep, according to the Laws and Customs of this City to your power. So God you help. 
+God Save the King.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

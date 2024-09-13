@@ -1,0 +1,394 @@
+Prologue to a new play called Venice preserv'd, or, The plot discovered at the Duke's Theatre, spoken by Mr. Smith.
+Otway, Thomas, 1652-1685.
+Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2016-02 (EEBO-TCP Phase 2).
+A53529
+
+
+
+
+Wing O560
+
+
+
+ESTC R28753
+
+
+
+
+
+ocm 10750290
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Prologue to a new play called Venice preserv'd, or, The plot discovered at the Duke's Theatre, spoken by Mr. Smith.
+Otway, Thomas, 1652-1685.
+2 p.   
+
+
+Edinburgh :
+
+
+Re-printed by the heir of Andrew Anderson,
+
+
+1682.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+2014-05 
+SPi Global
+Keyed and coded from ProQuest page images 
+2015-04 
+Anne Simpson 
+Sampled and proofread 
+2015-04 
+Anne Simpson
+Text and markup reviewed and edited 
+2015-03 
+pfs
+Batch review (QC) and XML conversion 
+
+
+
+
+
+
+O560
+
+
+R28753
+
+
+10750290
+
+
+45663
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROLOGUE To a New PLAY, called Venice Preserv'd; OR 
+THE PLOT DISCOVERED. At the Duke's Theatre, Spoken by Mr.
+ SMITH.
+
+
+
+
+IN these unsettl'd Times, when each man dreads
+
+
+The Bloody Stratagems of buisy Heads,
+
+
+When we have fear'd three years I know not what,
+
+
+Till Witnesses begin to die oth' Root,
+
+
+What made our Poet meddle with a 
+Plot?
+
+
+Was't that he fanci'd, for the very sake
+
+
+And name of Plot, his trifling Play might take?
+
+
+For there's not in't one Inch-board-evidence;
+
+
+But is to each man's reason plain and sense:
+
+
+And that he thinks a plausible defence.
+
+
+Were Truth by Sense and Reason to be try'd;
+
+
+Sure all our Swearers might be laid aside.
+
+
+No, of such Tools our Author has no need,
+
+
+To make his Plot, or make his Play succeed.
+
+
+He of Black-Bills has no prodigious Tales,
+
+
+Of 
+Spanish-pilgrims
+ thrown ashoar in 
+Wales.
+
+
+Here's not one murdr'd Magistrate, at least
+
+
+Kept rank, like Ven'son, for a City-feast:
+
+
+Grown four dayes stiff, the better to prepare
+
+
+And fit his plyant Limbs to ride in Chair,
+
+
+Here are no Truths of such a Monstrous stature,
+
+
+And some believe there are none such in Nature.
+
+
+But here's an Army rais'd, though under ground,
+
+
+Yet no Men seen, nor one Commission found.
+
+
+Here is a Traitor too, that's very old,
+
+
+Turbulent, subtile, mischeivous and bold,
+
+
+Bloody, Revengeful; and to Crown his Part,
+
+
+Loves fumbling with a Wench with all his heart,
+
+
+And after having many Changes past,
+
+
+In spight of Age, thanks Heav'n he's Hang'd at last.
+
+
+Next, here's a Senator that keeps a Whore:
+
+
+In 
+Venice
+ none a higher Office bore:
+
+
+To Lewdness every night the Leacher ran:
+
+
+Shew me in 
+London
+ such another man:
+
+
+Match him at Mother 
+Creswels
+ if you can:
+
+
+Ah 
+Poland, Poland,
+ had it been thy Lot
+
+
+T' have heard in time of this 
+Venetian-Plot,
+
+
+Thou surely chosen hadst one Plot from thence,
+
+
+And honour'd Them, as thou hast 
+England
+ since.
+
+
+
+
+
+
+
+
+
+
+EPILOGUE 
+to the same.
+ Spoken by Mr. 
+BETTERTON.
+
+
+
+
+THe Text is done, and now for Application:
+
+
+And when that's ended, give your Approbation.
+
+
+Tho' the Conspiracy's prevented Here,
+
+
+Methinks I see another Hatching There.
+
+
+And there's a certain Faction fain would sway,
+
+
+If they had strength enough, and damn this Play;
+
+
+But this the Author boldly bad me say.
+
+
+If any take his plainness in ill part,
+
+
+He's glad on't from the bottom of his Heart.
+
+
+Poets in honour of the Truth should Write,
+
+
+With the same Courage Brave Men for it Fight.
+
+
+And tho' against him causeless hatred rise,
+
+
+And dayly where he goes of late he spies
+
+
+The Frowns of sullen and revengeful Eyes.
+
+
+'Tis what he knows, with much contempt, to bear,
+
+
+And serves a Cause to good to let him fear.
+
+
+He fears no Poyson from an incens'd Drab,
+
+
+No Ruffians five foot Sword, nor Rascals Stab:
+
+
+Nor any other Snares of Mischief, laid,
+
+
+Not a 
+Rose-Ally,
+ Cudgel, Ambuscade.
+
+
+From any privat Cause where Malice Reigns,
+
+
+Or general Pique, that Blockheads have to Brains.
+
+
+Nothing shall daunt his Pen when Truth doth call,
+
+
+No, not the Picture-Mangler at 
+Guild-hall.
+
+
+The Rebel Tribe (of which that Vermin's one)
+
+
+Have now set forward, and the Course begun.
+
+
+And while that Prince's Figure they deface,
+
+
+Durst their base Fears but look him in the Face,
+
+
+As they before had Massacred His Name,
+
+
+They'd use His Person as they've us'd his Fame.
+
+
+A Face, in which such Lineaments they Read,
+
+
+Of that Great Martyr, whose Rich Blood they Shed,
+
+
+That their Rebellious Hate they still maintain,
+
+
+And, in his Son, would Murder Him again.
+
+
+With Indignation then let each brave Heart,
+
+
+Rowze and Unite to take His Injur'd Part,
+
+
+Till Royal Love and Goodness call Him Home,
+
+
+And Songs of Triumph meet Him as He come.
+
+
+Till Heaven His Honour and His Peace Restore,
+
+
+And Villains never wrong His Vertue more.
+
+
+
+
+
+
+
+
+
+
+
+
+Edinburgh,
+ Re-printed by the Heir of 
+Andrew Anderson,
+ Printer to His most Sacred 
+Majesty,
+ 1682.
+
+
+
+
+
+
+
+
+
+
+

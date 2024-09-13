@@ -1,0 +1,607 @@
+The wandring Jew; or, The shoomaker of Ierùsam who lived when our sauiour Christ was crucified, and appoynted by him to live untill his comming againe. To the tune of, the ladies fall.
+Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A14712
+
+
+
+
+STC 25015
+
+
+
+ESTC S102707
+
+
+
+
+
+99838477
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The wandring Jew; or, The shoomaker of Ierùsam who lived when our sauiour Christ was crucified, and appoynted by him to live untill his comming againe. To the tune of, the ladies fall.
+1 sheet ([1] p.) : ill.  
+
+
+[London] :
+
+
+Printed for E. Wright in Gilt-spur-street,
+
+
+[post 1640]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Ballads, English --  17th century.
+Wandering Jew --  Poetry --  Early works to 1800.
+2013-08
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Olivia Bottum
+Sampled and proofread
+2013-11
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+25015
+
+
+S102707
+
+
+99838477
+
+
+2858
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Wandring Jew; 
+OR,
+ The Shoomaker of 
+Ierusam,
+ who lived when our Sauiour Christ was crucified, and appoynted by him to live untill his comming againe.
+
+
+To the tune of, 
+The Ladies Fall.
+
+
+
+
+
+
+
+
+WHen as in faire 
+Jerusalem
+
+
+our Saviour Christ did live,
+
+
+And for the sins of all the world,
+
+
+his owne deare life did give;
+
+
+The wicked 
+Jewes
+ with scoffs and scornes
+
+
+did daily him molest,
+
+
+That never till he left his life,
+
+
+our Saviour could have rest.
+
+
+
+
+
+
+When they had crown'd his head with thorns,
+
+
+and scourg'd him in disgrace,
+
+
+In scornfull sort they led him forth
+
+
+unto his dying place,
+
+
+Where thousand thousands in the street
+
+
+be held him passe along,
+
+
+Yet not one gentle heart was there
+
+
+that pittied thus his wrong.
+
+
+
+
+
+
+Both old and young reviled him,
+
+
+as in the streets he went,
+
+
+And nothing found but churlish taunts,
+
+
+by every ones consent:
+
+
+His owne dear Crosse he bore himselfe,
+
+
+a burthen far too great,
+
+
+Which made him in the streets to faint,
+
+
+and blood and water sweat.
+
+
+
+
+
+
+Being weary, thus he sought to rest
+
+
+and ease his burthen'd Soule
+
+
+Vpon a stone, the which a wretch
+
+
+did churlishly controule;
+
+
+And said, away thou King of 
+Jewes,
+
+
+thou shalt not rest thee here,
+
+
+Passe on, thy execution place
+
+
+thou see'st now draweth néere.
+
+
+
+
+
+
+And hereupon he thrust him thence,
+
+
+at which our Saviour said
+
+
+I sure will rest, but thou shalt walke,
+
+
+and have no journey staid:
+
+
+With that this cursed Shoomaker,
+
+
+for offering Christ this wrong.
+
+
+Left Wife and Children house and all,
+
+
+and went from thence along.
+
+
+
+
+
+
+Where after he had seene the blood
+
+
+of Iesus Christ thus shed,
+
+
+And to the Crosse his body nayld,
+
+
+away with speed he fled,
+
+
+Without returning back againe
+
+
+unto his dwelling place,
+
+
+But wandering up and downe the world,
+
+
+a runnagate most base.
+
+
+
+
+
+
+
+
+
+
+The Second part; to the same tune.
+
+
+
+
+NO resting could he find at all,
+
+
+no ease of hearts content,
+
+
+No house, no home nor byding place,
+
+
+but wandring forth he went,
+
+
+From Town to Town in forraign Lands
+
+
+with grieved Conscience still,
+
+
+Repenting sore the hainous guilt
+
+
+of his fore-passed ill.
+
+
+
+
+
+
+Thus after some few Ages past,
+
+
+in wandring up and downe,
+
+
+He much againe desir'd to sée
+
+
+Jerusalems
+ renowne:
+
+
+But finding it all quite destroy'd,
+
+
+he wandred thence with woe,
+
+
+Our Saviours words which he had spoke
+
+
+to verifie and show.
+
+
+
+
+
+
+Ile rest (saith he) but thou shalt walke,
+
+
+so doth this wandring 
+Jew
+
+
+From place to place, but cannot stay,
+
+
+for seeking Countries new:
+
+
+Declaring still the power of him,
+
+
+whereas he comes and goes,
+
+
+And of all things done in the East
+
+
+since Christ his death, he showes.
+
+
+
+
+
+
+The world he hath halfe compast round,
+
+
+and séene those Nations strange,
+
+
+That hearing of the Name of Christ,
+
+
+their Idoll gods doe change:
+
+
+To whom he hath told wondrous things,
+
+
+of times fore-past and gone,
+
+
+And to the Princes of the world
+
+
+declares his cause of mone;
+
+
+
+
+
+
+Desiring still to be dissolv'd,
+
+
+and yeeld his mortall breath:
+
+
+But yet the Lord hath thus decréed,
+
+
+he shall not yet sée death;
+
+
+For neither lookes be old or young,
+
+
+but as he did those times
+
+
+When Christ did suffer on the Crosse
+
+
+for mortall sinners Crimes.
+
+
+
+
+
+
+He passed many a forraigne place,
+
+
+Arabia, Aegypt, Africa,
+
+
+Grecia, Syria,
+ and great 
+Thrace,
+
+
+and through all 
+Hungaria:
+
+
+Where 
+Paul
+ and 
+Peter
+ preached Christ,
+
+
+those blest Apostles deare;
+
+
+Where he hath told our Saviours words
+
+
+in Countries farre and neere.
+
+
+
+
+
+
+And lately in 
+Bohemia.
+
+
+with many a 
+German
+ Towne,
+
+
+And now in 
+Flanders,
+ as is thought,
+
+
+he wandreth up and downe:
+
+
+Where learned men with him confers,
+
+
+of these his lingring dayes
+
+
+And wondring much, to heare him tell
+
+
+his journeys and his wayes.
+
+
+
+
+
+
+If people giveth this 
+Jew
+ an Almes,
+
+
+the most that he will take
+
+
+Is not above a Great a time,
+
+
+which be for Iesus sake
+
+
+Will kindly give unto the poore,
+
+
+and thereof make no spare,
+
+
+Affirming still, that Iesus Christ
+
+
+of him hath dayly care.
+
+
+
+
+
+
+He nere was séene to laugh nor smile,
+
+
+but wéepe and make great mone,
+
+
+Lamenting still his miseries,
+
+
+and dayes fore-past and gone.
+
+
+If he heard any one blaspheme,
+
+
+and take Gods Name in vaine,
+
+
+He tells them that they crucifie
+
+
+their Master Christ againe.
+
+
+
+
+
+
+If you had séene him dye, sayes he,
+
+
+as these mine eyes have done,
+
+
+Ten thousand times a day would ye
+
+
+his torments thinke upon,
+
+
+And suffer for his sake all paine,
+
+
+all torments, and all woes;
+
+
+These are his words, and this his life,
+
+
+whereas he comes and goes.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+Printed for E. Wright in Gilt-spur-street.
+
+
+
+
+
+
+
+
+

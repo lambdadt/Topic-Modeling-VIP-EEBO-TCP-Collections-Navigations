@@ -1,0 +1,158 @@
+By the King. A proclamation, prohibiting the bringing in of any commodities traded from the Leuant, into this kingdome; aswell by subiects as strangers, not free of that Company also conteyning a publication of certaine statutes, for the restraint of all His Maiesties subiects, from shipping any commodities in strangers bottomes, either into this kingdome, or out of the same.
+Proclamations. 1615-04-17
+England and Wales. Sovereign (1603-1625 : James I)
+Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A22111
+
+
+
+
+STC 8516
+
+
+
+ESTC S100809
+
+
+
+
+
+99836636
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the King. A proclamation, prohibiting the bringing in of any commodities traded from the Leuant, into this kingdome; aswell by subiects as strangers, not free of that Company also conteyning a publication of certaine statutes, for the restraint of all His Maiesties subiects, from shipping any commodities in strangers bottomes, either into this kingdome, or out of the same.
+Proclamations. 1615-04-17
+England and Wales. Sovereign (1603-1625 : James I)
+James I, King of England, 1566-1625.
+[2] sheets   
+
+
+[Imprinted at London :
+
+
+By Robert Barker, printer to the Kings most excellent Maiestie,
+
+
+Anno Dom. 1615]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Company of Merchants of England Trading to the Levant --  Legal status, laws, etc.
+Restraint of trade --  Great Britain --  Early works to 1800.
+Shipment of goods --  Great Britain --  Law and legislation.
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Olivia Bottum
+Sampled and proofread
+2013-10
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+8516
+
+
+S100809
+
+
+99836636
+
+
+920
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HONI SOIT QVI MAL Y PENSE
+
+
+DIEV ET MON DROIT
+
+
+❧ By the King. ¶ A Proclamation, prohibiting the bringing in of any Commodities traded from the LEVANT, into this Kingdome; aswell by Subiects as Strangers, not free of that Company: Also conteyning a publication of certaine Statutes, for the restraint of all His Maiesties Subiects, from Shipping any Commodities in Strangers Bottomes, either into this Kingdome, or out of the same.
+
+
+I
+T is a great part of Our Princely care, to
+ main∣taine and increase the trade of Our Merchants, and the strength of Our Nauie, the one being as the Veines whereby wealth is imported into Our Estate, and the other as principall Synewes for the strength and seruice of Our Crowne and Kingdome: Whereas therefore the Socie∣tie and Company of Our Merchants trading the 
+LEVANT
+ Seas, haue by the space of thirtie yeeres past, at the least, had a settled and constant possession of Trade in those parts, and haue had the sole bringing in of all the Commodities of those Countreys, as namely Currans, Cotton Woolls, Wines of 
+Candie,
+ Galles, &c. Whereby Our King∣dome hath bene much enriched, Our great Ships and Mariners set on worke, and the Honour and fame of Our Nation and Kingdome, spread and inlarged in those remote parts: And whereas, for their further incouragement, the said Company haue had, and enioyed by Letters Patents vnder the great Seale of England, aswell in the time of the late Queene, as in Our owne time, priuiledge for the sole bringing in of the saide Commodities, with generall prohibitions and re∣straints,
+
+ aswell of naturall Subiects, being not free of that Societie, as of all Strangers and Aliens whatsoeuer, to bring in any of the saide Commodities, contrary to the Priuiledge of the saide Company:
+
+
+Wee minding the vpholding and continuance of the said Trade, and not to suffer that the said Society shall sustaine any violation or diminution of their liberties and priuiledges, haue thought good to ratifie and publish vnto all persons, as wel subiects as strangers, the said priuiledge and re∣straints, to the end that none of them presume to attempt any thing against the same: And do here∣by straitly charge and command all Our Customers, Comptrollers, and all other Our Officers at the Ports, and also the Farmers of Our Customes and their Deputies and Waiters, that they suf∣fer not any Currans, Cotton wooll, Wines of Candy, Galles, nor any other Commodities what∣soeuer, brought from any the forraine parts or Regions, whereinto the said Company haue vsed to Trade, to bee landed, except onely such as shall bee brought in by such as are free of the saide Company.
+
+
+Furthermore, whereas there hath bene in Ancient time, diuers good and politique Lawes made against the Shipping of Merchandizes in Strangers Bottomes, either inward or out∣ward, as namely the Statutes of 5. 
+Rich.
+ 2. 4. 
+Hen.
+ 7. 32. 
+Hen.
+ 8. 
+&c.
+ Which Lawes haue of later yeeres bene much neglected, to the great preiudice of the Nauigation of Our Kingdome: We doe straight∣ly charge and command, that the saide Lawes bee from hencefoorth duely put in execution, vpon the great and grieuous paines therein conteined, and vpon paine of Our high indignation and dis∣pleasure towards all Our Officers and Ministers, which shall be found flacke and remisse in procu∣ring and assisting the due execution of the said Lawes.
+
+
+Giuen at Whitehall,
+ 
+the seuenteenth day of April, in the thirteenth yeere of Our Raigne of England, France, and Ireland, and of Scotland the eight and fortieth.
+
+
+God saue the King.
+
+
+
+
+
+
+
+
+
+
+❧ Imprinted at London by Robert Barker, Printer to the Kings most excellent Maiestie. ANNO DOM. 1615.
+
+
+
+
+
+
+
+
+

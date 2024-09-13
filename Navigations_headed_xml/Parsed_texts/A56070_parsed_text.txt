@@ -1,0 +1,1140 @@
+A Prospect of the Navy Royal, or, A panegyrique upon the fleet humbly addrest to the most illustrious Prince Rupert, upon the occasion of his going as admiral to the sea, the 23 day of April, 1673, with a description of the fleet.
+Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A56070
+
+
+
+
+Wing P3809
+
+
+
+ESTC R14321
+
+
+
+
+
+ocm 12594592
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Prospect of the Navy Royal, or, A panegyrique upon the fleet humbly addrest to the most illustrious Prince Rupert, upon the occasion of his going as admiral to the sea, the 23 day of April, 1673, with a description of the fleet.
+8 p.   
+
+
+London :
+
+
+[s.n.],
+
+
+1673.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Rupert, --  Prince, Count Palatine, 1619-1682 --  Poetry.
+England and Wales. --  Royal Navy --  Poetry.
+2013-10
+TCP
+Assigned for keying and markup
+2013-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-12
+Kate Allen
+Sampled and proofread
+2013-12
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P3809
+
+
+R14321
+
+
+12594592
+
+
+64033
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A PROSPECT OF THE NAVY ROYAL: OR, A Panegyrique upon the Fleet. Humbly Addrest to the Most Illustrious PRINCE RUPERT, Upon the Occasion of his going as ADMIRAL TO THE SEA, the 23 day of 
+April,
+ 1673.
+
+
+With a Description of the FLEET.
+
+
+
+
+blazon or coat of arms
+
+
+
+
+London,
+ Printed in the Year 1673.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A PROSPECT OF THE NAVY ROYAL.
+
+
+
+
+WHile I, in pleasing Melancholly sat,
+
+
+Reflecting on this Islands happy state;
+
+
+When, from the top of an aspiring Tower,
+
+
+I view'd at once, it's 
+Beauty
+ and it's 
+Power;
+
+
+Pleas'd to behold how safe we are from harm,
+
+
+Embrac'd by 
+Thetis
+ kind, and Clasping arm:
+
+
+Blest Isle said I, and full of Natures Pride,
+
+
+So 
+Beautiful
+ and so well 
+Fortifi'd;
+
+
+At last my Unrestrained Senses strove
+
+
+Farther, than Nature gave them strength, to rove:
+
+
+My eyes a lavish freedom I allow'd,
+
+
+Which nothing cou'd confine, but 
+Sea,
+ or 
+Cloud,
+
+
+Until, at length, where 
+Skies,
+ and 
+VVaters
+ met,
+
+
+Where these did seem to 
+Rise,
+ and those to 
+Set;
+
+
+At first a 
+Leafeless VVood
+ began to appear,
+
+
+But strait it 
+Ʋndeceiv'd
+ me, and 
+drew near;
+
+
+So that my wonder 
+Ceas't,
+ as it 
+Begun,
+
+
+And my 
+Slow Thoughts
+ were, by my 
+Sight, Out-run;
+
+
+Which soon presented to me such a Fleet,
+
+
+Few
+ Nations ever 
+Saw,
+ and 
+None
+ dare 
+Meet.
+
+
+
+
+A hundred 
+Moving Castles
+ floating came,
+
+
+That seem'd the Winds to 
+Calm,
+ and Seas to 
+Tame;
+
+
+Each 
+Swelling
+ Sail the baffled storm 
+Out-braves,
+
+
+And makes the 
+Ships
+ look 
+Prouder
+ than the 
+VVaves:
+
+
+Now the 
+Enlarged Oak,
+ whose 
+Fettered Foot,
+
+
+Had many years, been 
+Prisoner
+ to it's 
+Root,
+
+
+Gratefully brings new 
+Tributes,
+ to that 
+Earth,
+
+
+Which gave it both it's 
+Liberty,
+ and 
+Birth;
+
+
+Ioyful in storms, remembring that it knew
+
+
+More Danger,
+ in 
+Less Tempests,
+ while it 
+Grew:
+
+
+And thanks the 
+Axe,
+ that did commit that 
+Rape,
+
+
+To 
+Cut
+ it 
+Down,
+ and 
+Give't
+ a 
+Nobler
+ shape.
+
+
+These are the 
+Arks,
+ that save us from the 
+Flood,
+
+
+Which else might 
+Overwhelm
+ our Land with 
+Blood:
+
+
+These 
+Guard
+ our 
+Prince
+ from Villanies 
+Fatal Stroke,
+
+
+And every 
+Man of VVar's
+ a ROYAL OAKE.
+
+
+
+
+
+
+The 
+Grecian Horse,
+ although it's womb contain'd
+
+
+Heroick souls, whose courage was unstain'd,
+
+
+Might long before the 
+Trojan Walls
+ have stay'd,
+
+
+Had not the 
+Enemy Themselves
+ betray'd:
+
+
+They first their own destruction did 
+begin,
+
+
+And 
+Made a way,
+ to 
+Let
+ their 
+Ruine in:
+
+
+But these 
+Sea-Horses,
+ by the 
+English
+ backt,
+
+
+Do 
+Truths,
+ beyond those Grecian 
+Fables
+ act:
+
+
+Our 
+Moving Forts,
+ with ease, themselves 
+Transplant:
+
+
+Proving the 
+Castle,
+ and the 
+Elephant.
+
+
+We make a way to be Victorious, where
+
+
+Base 
+Fraud
+ did never in our glory share:
+
+
+
+
+And fairly 
+Conquer
+ all we do oppose,
+
+
+So we not only 
+Beat,
+ but 
+VVin
+ our Foes.
+
+
+
+
+
+
+Mark now these 
+Monarchs
+ of the spacious 
+Main,
+
+
+Each seems 
+Attended
+ with a glorious 
+Train:
+
+
+The streaming Pendants dally with the Galis,
+
+
+They in like manner court the prouder Sails:
+
+
+Below,
+ the steady 
+Keels
+ the Waves divide:
+
+
+Aloft,
+ the 
+Masts
+ display their wanton 
+Pride:
+
+
+Aboard,
+ the Jocund 
+Seamen
+ pleasant are:
+
+
+Yet, in the 
+Midst
+ of Mirth, 
+Prepar'd
+ for War.
+
+
+They are not 
+Tyr'd
+ with a long tedious 
+March,
+
+
+Nor does the scorching 
+Sun,
+ their bodies 
+Parch:
+
+
+No 
+Luggage,
+ there, is to new quarters sent,
+
+
+Their 
+Tent
+ do's 
+Carry them,
+ not they their 
+Tent:
+
+
+They weary not their 
+Limbs
+ by carrying Arms,
+
+
+Nor in their 
+Sleeps,
+ disturb'd by 
+Strange Alarms:
+
+
+They're always 
+Fit,
+ always 
+Prepar'd
+ to fight,
+
+
+And never 
+See
+ the 
+Foe,
+ but with delight.
+
+
+Now Veiw the 
+Royal Charles,
+ before the rest,
+
+
+Proud
+ that they are with such a 
+Leader
+ blest,
+
+
+Her 
+Virgin-self
+ she freely has resign'd,
+
+
+To him that's grown the 
+Terrour
+ of 
+Man-Kind;
+
+
+The 
+Matchless Prince,
+ who, midst the powerful Foe,
+
+
+Dares 
+Doe,
+ whatever she dares 
+Ʋndergo:
+
+
+Before his 
+Own, Her Safety
+ he'l 
+Prefer,
+
+
+And rather chuse to lose 
+Himself
+ than 
+Her.
+
+
+
+
+
+
+Have you observ'd at some great 
+Monarchs
+ Court,
+
+
+Where People of 
+All Qualities
+ resort,
+
+
+
+
+How they pay 
+Homage,
+ in their 
+Several Sphears?
+
+
+Knights
+ do give place to 
+Lords,
+ and 
+Lords
+ to 
+Peers:
+
+
+But when they come before the Regal Throne,
+
+
+No man is Honour'd but the King alone:
+
+
+So here, we see all the well order'd Fleet,
+
+
+With humble Flag, their Admiral do greet:
+
+
+And seem with joyful shouts, and smiles to say,
+
+
+"This is the
+ Charles 
+and
+ Princes 
+wedding day.
+
+
+
+
+
+
+Old Poets feign, when 
+Jason
+ went from 
+Greece,
+
+
+Hoping to 
+steal,
+ not 
+win,
+ the 
+Golden Fleece,
+
+
+That the 
+small ship,
+ wherein he safely 
+went,
+
+
+As a 
+gay Present,
+ to the 
+gods
+ was sent:
+
+
+But had the 
+Actions
+ of our 
+Prince
+ been told,
+
+
+What 
+Prizes
+ he has 
+w
+n
+ more rich than 
+Gold:
+
+
+How many 
+VVaking Dragons
+ he has 
+slain,
+
+
+He might be thought to 
+merit
+ what they 
+Feign:
+
+
+And having 
+Finish'd
+ the successful 
+VVar,
+
+
+His 
+Charles
+ might well deserve to be a 
+Star:
+
+
+So a new constelation should we gain,
+
+
+If 
+Rupert's Ship
+ were joyn'd to 
+Charles his VVain.
+
+
+
+
+
+
+But see, amidst that Vast and 
+Royal Town,
+
+
+Others, that bears 
+Alliance
+ to the 
+Crown:
+
+
+The 
+Soveraign
+ and the 
+Prince,
+ two 
+Sisters
+ are,
+
+
+Who've 
+Lost
+ their 
+Maidenheads
+ alreay there;
+
+
+Ravish'd
+ by 
+Boors,
+ whom they 
+resisted
+ so,
+
+
+As in the strife, t' affectt their 
+Overthrow:
+
+
+And the 
+Redoubled
+ Honour, they brought thence,
+
+
+Became at once their 
+Praise
+ and 
+Recompence.
+
+
+
+
+
+
+
+
+To reckon all your 
+Hero's,
+ that do fight
+
+
+For the true 
+Neptunes (Mighty Charles's)
+ right:
+
+
+To sing of all the 
+Battails
+ they have won,
+
+
+Of what they have 
+Endur'd
+ and what they've 
+Done,
+
+
+Alas! what 
+Pen,
+ what 
+Volumes
+ would 
+Suffice,
+
+
+To 
+write,
+ what 
+written,
+ needs must pass for 
+Lyes?
+
+
+My 
+Quill
+ would undergo 
+Cassandra's
+ grief,
+
+
+To utter 
+Truths,
+ and yet not gain belief:
+
+
+I should all Poets 
+Fictions
+ farr out-doe,
+
+
+Which, with my 
+truths
+ compar'd, would all seem 
+true.
+
+
+
+
+
+
+But stay—Methinks the Caverns of the Oak,
+
+
+Send forth (like 
+Aetna
+) Sulpher, Fire, and Smoak:
+
+
+Which, follow'd by a harmony of noys,
+
+
+Seem to express the Seamen's doubled joys:
+
+
+'Tis even so, the 
+Mighty Prince
+ appears,
+
+
+And 
+chases thence
+ (already 
+banish'd
+) fears:
+
+
+So, when the Ever youthful 
+Prince
+ of 
+Light,
+
+
+'Has well disclos'd, the 
+Eyelids
+ of the 
+Night,
+
+
+The 
+Drooping
+ Flowers erect their 
+pensive-heads,
+
+
+Shaking their 
+Dew,
+ upon their 
+Earthly-beds:
+
+
+And while he courts them 
+all
+ in 
+Amorous Rays,
+
+
+Each, greedy of a 
+Kiss,
+ her leaves 
+displays:
+
+
+Until they see th' espoused 
+Heliotrope,
+
+
+To whom they all 
+resign
+ their Widdow'd 
+Hope:
+
+
+Thus fares it with our 
+Prince,
+ each Frigate runs
+
+
+To meet, and welcome him with 
+Peals
+ of 
+Guns:
+
+
+Cowards whose 
+pond'rous Soul
+ so 
+low
+ was 
+sunk,
+
+
+That they durst scarce exchange a 
+cuff,
+ though 
+drunk;
+
+
+Do neither fear the 
+Dutch,
+ the 
+Rocks,
+ nor 
+Shelves,
+
+
+For they are petty 
+Princes,
+ now themselves.
+
+
+Toutcht with 
+Magnetick
+ vertue, every soul
+
+
+Turns to the 
+Prince,
+ as to their 
+Northern Pole:
+
+
+
+
+Who 
+Shines
+ on all the Ships with 
+equal
+ light,
+
+
+And none can 
+Guess
+ which is his 
+Favourite:
+
+
+Till caught at last by 
+Charles's
+ Nuptial 
+Charms,
+
+
+Briskly he runs into her 
+Loyal Arms:
+
+
+So that no 
+hostile Stratagems,
+ or 
+Force,
+
+
+Shall 
+him
+ from 
+her,
+ or 
+her
+ from 
+him
+ Divorce.
+
+
+
+
+
+
+Thus did I please my 
+Fancy,
+ and my 
+Sight,
+
+
+The 
+One
+ with 
+Wonder,
+ th' 
+Other
+ with 
+Delight;
+
+
+Passing, in solitude, the short liv'd 
+Hours,
+
+
+While ev'ry 
+Lust
+ the 
+Latter
+ still 
+Devours:
+
+
+When 
+Ten
+ were 
+Past,
+ I scarcely thought'em 
+One,
+
+
+As if 
+Old Time
+ had for a 
+Wager Run.
+
+
+Till by, and by, the Sun Declin'd apace,
+
+
+Seeming in 
+Hast
+ to 
+Wash
+ his 
+Ruddy Face.
+
+
+But, as he passes by our Navy, see
+
+
+He 
+bows
+ his 
+Head,
+ and 
+Once more Courts a Tree.
+
+
+
+
+
+
+Go glorious Fleet, go on, and though 
+black Night
+
+
+Ha's 
+Ravish'd
+ thee from my unhappy 
+Sight:
+
+
+Yet, shall my eyes send forth a 
+Briny Flood,
+
+
+Whence I will 
+Launch
+ out 
+Prayers
+ for thy good:
+
+
+A 
+Gust
+ of powerful sighs shall 
+drive
+ them on,
+
+
+Their 
+Haven
+ shall be the 
+Eternal Throne.
+
+
+Where, if they e'r arrive, they'l humbly crave,
+
+
+That in 
+Just Wars
+ thou 
+Good Success
+ may'st have.
+
+
+
+
+
+
+May our Prince 
+Finish
+ what he do's 
+begin,
+
+
+May he 
+Survive,
+ the 
+Battails
+ he do's 
+win:
+
+
+Our 
+Nations
+ farther 
+Safeguard
+ may he be,
+
+
+And may we Conquer both by 
+Land
+ and 
+Sea:
+
+
+May CHARLES our King his enemies defeat:
+
+
+And ever be as 
+Happy
+ as he's 
+Great.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

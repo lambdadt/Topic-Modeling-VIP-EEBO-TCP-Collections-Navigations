@@ -1,0 +1,588 @@
+A continuation of all the principall occurrences which hath happened to the Leaguers lying before Breda shewing into what great extreamity and necessity the armie of the Marquesse Spinola is likely to fall into for want of prouision and pay: for which causes he hath already lost aboue 12000 men. With a relation of the forces that are now a leauying vnder, and for the command of Count Mansfield, and the Duke of Brunswicke, by Collonell Smith, and Captaine Daniel de la Riue, with expectation to receiue the forces now dismist by the Kings of Denmarke and Sweden, intending to aduenture their fortunes once more together. ...
+Approx. 24 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A08151
+
+
+
+
+STC 18507.354
+
+
+
+ESTC S116918
+
+
+
+
+
+99852133
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A continuation of all the principall occurrences which hath happened to the Leaguers lying before Breda shewing into what great extreamity and necessity the armie of the Marquesse Spinola is likely to fall into for want of prouision and pay: for which causes he hath already lost aboue 12000 men. With a relation of the forces that are now a leauying vnder, and for the command of Count Mansfield, and the Duke of Brunswicke, by Collonell Smith, and Captaine Daniel de la Riue, with expectation to receiue the forces now dismist by the Kings of Denmarke and Sweden, intending to aduenture their fortunes once more together. ...
+[2], 17, [1] p.   
+
+
+Printed at London :
+
+
+By B. A[lsop] for Thomas Archer, and are to be solde at his shop in Popes head Alley, ouer against the signe of the Horse-shooe,
+
+
+1625.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Thirty Years' War, 1618-1648 --  Early works to 1800.
+Breda (Netherlands) --  History --  Siege, 1624-1625 --  Early works to 1800.
+2012-06
+TCP
+Assigned for keying and markup
+2012-06
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2012-07
+Colm MacCrossan
+Sampled and proofread
+2012-07
+Colm MacCrossan
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18507.354
+
+
+S116918
+
+
+99852133
+
+
+17440
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A CONTINVATION OF ALL THE PRINCIPALL OC∣currences which hath happened to the Leaguers lying before 
+Breda,
+ shewing into what great extrea∣mity and necessity the Armie of the Marquesse 
+Spinola
+ is likely to fall into for want of prouision and pay: for which causes he hath already lost aboue 12000 Men. With a relation of the Forces that are now a leauy∣ing vnder, and for the command of 
+Count Mansfield,
+ and the Duke of 
+Brunswicke,
+ by Collonell 
+Smith,
+ and Captaine 
+Daniel de la Riue,
+ with expectation to receiue the Forces now dismist by the Kings of 
+Denmarke
+ and 
+Sweden,
+ in∣tending to aduenture their fortunes once more together. The resolutions both of the King of 
+Spaine,
+ and the States of the vnited Prouinces, for the sudden leuying of two great Armies more, to bring into the Field against each other, with the great straite the King of 
+Spaine
+ is lately 
+put to for want of Shipping and Mari∣ners, and what hinderance it is to his present affaires.
+ Likewise herein is related the last proceedings of all Christendome.
+
+
+Printed at 
+London
+ by 
+B. A.
+ for THOMAS ARCHER, and are to be solde at his shop in Popes head Alley, ouer against the signe of the Horse-shooe, 1625.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Vienna the 2. of October.
+
+
+THe inuasion which the Turkes made lately in Hungarie is confirmed againe with the last letters that came out of the same Kingdome, from whence they write likewise those particulars, namely: how that they haue fired seuerall villages, and defeated many Imperiall souldiers, and almost the whole regi∣ment of the Lord 
+Palsy:
+ that there were many Hun∣garians reuolted, and would sticke to 
+Bethlem Gabor,
+ who is preparing a great Armie to set vpon some of the Emperours dominions: That 
+Bethlem Gabor
+ had inuited to his wedding, with the daughter of the Lord 
+George Setsdhi,
+ many of the Lords and States of Hun∣garie, and made great preparation to come downe with many Noblemen and Courtiers.
+
+
+
+
+
+
+From 
+Vienna
+ the 2. of October.
+
+
+To day arriued here the Chancelor of 
+Bethlem Ga∣bor,
+ and brought some horse and other presents with him to bestow vpon the Emperour as it is rumored. But for all this, wee cannot conceiue any hope that 
+Bethlem Gabor
+ will make a peaceable end with the Em∣perour, seeing that he leauieth dayly more and more souldiers.
+
+
+And for as much as concerneth the treatie of peace with the Turkes, wee cannot beleeue that it will take
+
+ any good successe, seeing that they make many in∣rodes vpon the Emperours dominions, and compassed lately with their horse, Nouigrad, Setshin and Palam∣ha. And wee haue here tidings how that the Turkes are resolued to pitch a campe betwixt Offen and Newhensel, and that 
+Bethlem Gabor
+ is marching vp with many thousands of men.
+
+
+A Commission or Patent being lately sent into the land of Ens to depose all the Protestant Preachers which are there, the States of the land offered to pay to the Duke the twelue▪ hundred thousand Florins (which hee is pretending from the Emperour for his warlike expenses, and keepeth the land of Ens as a morgage or pawne) if they might conti
+e there with the free exercise of the Religion as they did be∣fore.
+
+
+
+
+
+
+From 
+Prague
+ the 12. of October.
+
+
+The Horse of the Duke of Holstayn which were lately dismist, are now againe taken in the seruice of the Emperour, and getnew Cornets seeing they rent the other from their Lances as soone a
+ they were dismist: and it is rumored that they shall be sent into Hungarie angainst the Turkes.
+
+
+There is both in this kingdome and other places such plentie of grapes, that we doubt whether we shall be able to get vessels enough to bring the wine in the sellers▪
+
+
+
+
+
+
+
+
+From 
+Frankford
+ the 8. of October.
+
+
+We haue here tydings receiued how that the Duke of 
+Baueria
+ hath denied for weightie reasons to send such ayde to the Infanta at Brussels as shee desired to haue of him.
+
+
+
+
+
+
+From 
+Cullen
+ the 14. of October.
+
+
+In many parts of Germany are now souldiers leaui∣ed for Spaine. The three Regiments of the Baron of Anholt are not as yet dismist for want of pay.
+
+
+They write from Mentz that there are dayly many souldiers leauied for Spaine by the sound of the Drum.
+
+
+
+
+
+
+From 
+Venice
+ the 1. of October.
+
+
+There are three Gallies gone from Genu
+ to fetch money in Spaine for the Spanish Ambassadour and 
+o leauie men for the State of Millaine. And we haue tydings out of France how that the king is there still increasing his warlike troupes.
+
+
+They write out of Switzerland, that the thirteene Cantons were met at Solothorn to make a firme reso∣lution vpon the proposition made by the French Am∣bassadour for the recouerie of the Grisons and Valto∣lina.
+
+
+
+
+
+
+
+
+From 
+Vienna
+ the first of October.
+
+
+The 14. of this moneth, departed two of the Impe∣riall Commissioners hence, going towards Offen, and the Count of Altheyn who is chiefe Commissioner, followed them on the 17. of the same Moneth. The Barke which caried the Count was very stately ador∣ned and painted with red, white, black, and yellow colours: the two other Commissioners that went before him are two Barons: namely, the Baron Marn-Weckh, and the Baron Galler. On the Barke of the Count were diuers colours displayed, with the Armes and Motto of the order of Knighthood, which is cal∣led, 
+Militia christiana.
+ The souldiers which attend v∣pon the Count are all in a liuely, (which he hath giuen vnto them,) and couered with red cloth, with a greene lace vpon it. The Commissioners which are appoin∣ted for Hungary to conclude the peace, are the Count Ester Has
+ Gouernor of Newhense
+l, the Count Frangipan (who is one of the Imperiall Councell of warre, and the Lord S
+sky, besides some othe
+. God graunt that this trea
+ie of Peace may 
+end to the propagation of his holy name, and to the gene∣rall good of all Christendome. But they write out of Hungarie, that the Turkes are still verie proud and obstinate, and haue yet lately slaine some Imperiall horse, which were vnder the commaund of the Lord Forgatsch, and lay in a market towne which the Turkes pillaged, and fired, after they had taken thence a good bootie, and many poore christian soules which they caried afterwards with them. Some are here of opi∣nion, that they haue done it by reason that they know
+
+ that our souldiers which lye in Hungarie, may not meddle or skirmish with them, being bound to the contrary: or otherwise that they thinke to make vs a∣fraid, thereby hoping by such meanes to obtaine with more speed that which they desire.
+
+
+And it is againe confirmed from Offen, that the Turkes will not dismisse our Embassadour, the Lord Curth who is there, vnlesse wee restore first the mo∣ney, which some Imperiall souldiers tooke from them, when they were carying it to make payment to the Turkish garrisons.
+
+
+Bethlem Gabor
+ is (as they write out of Hungarie) resolued to goe in person to Offen, and maketh great hast that he may bee there at the beginning of the Treatie.
+
+
+The Lord Stanislaus Turzo, who is Palatine of Hungarie, is very sick and likelie to die.
+
+
+The taxation which is here made in regard of warres, commodities and labours, is yet verie strict∣ly kept, and there was lately one of the wine pressers streiked at the Crosse because he said, that hee would rather forsake the countrey, then labour for so litle mo∣ney, as is allowed vnto them of his profession by the afore mentioned taxation.
+
+
+The Protestant states of Austria, perceiuing that the Magistrats of this citie proceedeth very rigorously with the Protestants, (who were gone as they were v∣sed
+
+ to their diuine seruice, not regarding the Procla∣mation by the Burrough maister, and Aldermen of the citie made,) and had already some punished of them, which they had arrested and put in prison, they sent some Commissioners to the Emperour to beseech his Imperiall Maiestie, that hee would be pleased to giue order that the Proclamation afore mentioned might be called back againe: They haue not as yet receiued their answer, but it is generally thought that the Em∣perour will not hinder the Proclamation or the pro∣ceedings of the Magistrate.
+
+
+To day there were some twenty six houses, which stand ouer the pull-bridge, transported to the Iewes for a summe of one and thitrie thousand florins in rea∣die money, and they are to goe to them on the next Thursday, vnlesse some alteration happen in the meane time. The Burgers which dwelled there before may there remaine still, but the companie of souldiers is to be inquartered in this citie.
+
+
+The Emperour is yet at Ebersdorf, and as wee vn∣derstand he is not likely to remoue thence before Saint Martins day.
+
+
+
+
+
+
+From 
+Vienna
+ the 22. of October.
+
+
+Some fiue daies agoe departed hence the Count of Altheyn going towards Offen about the treatie of Peace with the Grand Seignior.
+
+
+Here are lately some Commissioners appointed to
+
+ gather almes to redeeme the poore Christians, which are made slaues by the Turks, and Tartars.
+
+
+There are here lately many persons, both called in question and arrested, for going to the exercise of the Protestant preachers, against the proclamation of the Magistrate of this city; the most part of them are wo∣men, and must pay great summes of money: there are yet two hundred to come in, besides them which are already questioned.
+
+
+The fourteenth of this Moneth caused the Com∣missioners of the countrie, both for themselues, and in the name of the Protestant States, an insinuation to be made to the Magistrate of this citie, to giue them ther∣by to vnderstand, how they dislike both their Procla∣mation and proceedings, and sent moreouer on the fifteenth of this moneth two Lords to his Imperiall Maiestie: namely, the Lord 
+Ferdinand
+ of Herberstein, and 
+Christopher Leisir,
+ to complaine about the procee∣dings of the Magistrate, and to request his Maiestie that he would stay such sutes, and maintaine them of the Protestant treligion according to his word and promise, and sent thereby a short petition to receiue thereupon his Maiesties gratious answer.
+
+
+
+
+
+
+From 
+Amsterdam
+ the 19. of October.
+
+
+They write out of Spaine that the King hath char∣ged all Officers of his Kingdomes of Spaine, seeing that he can hardly get Mariners 
+now to send to the Bay of Todos los Santos, that they should keepe all
+
+ the souldiers together which shall come with the fleet of Noua Hispania. And that hee hath written to the Infanta at Brussels, that seeing the Hollanders do trou∣ble him in seuerall parts by water, that she must for a time maintaine the warres in the Low-Countries, with the aid of the Subiects which liue vnder her command.
+
+
+The kingdome of Portugall is likely to decay, seeing that the Marchants lose dayly many of their ships, and that they want the traffike which they had in Brussels.
+
+
+There goe likewise dayly many Mariners of Biscay to Marisibia and Rochell, for feare that they might be prest to goe to the Bay of Todos de la Santos.
+
+
+We vnderstand that the King of France, besides di∣uers other Princes and Potentates is to contribute a great summe of money to the raising of a great Ar∣mie.
+
+
+The king of Denmarke is with some ships gone to Gotland to treat about matters of great importance, either with the king of Sweden, or with some of his Commissioners: but many are of opinion that they are to meet there both in person.
+
+
+The Marquesse 
+Spinola
+ receiues yet dayly more men in his Campe, seeing that many are run away, and (as it is rumored) the fourth part of them which came in his Campe, forsaken it: and his horse begins now like∣wise to forsake it, seeing that there is great dearth and little money stirring: Hee is likewise raising some bat∣teries at ter Heyden, with an intention to hinder the
+
+ approching of the Prince of Orange.
+
+
+They of Breda keepe themselues very quiet, according to the order giuen by the Prince of Orange, and keepe in the meane time strong watches: and the Gouernor and the other chiefe Commanders sit many times in Councell vpon the affaires of the Townes. Both the townesmen and souldiers are still of a good carriage, and long mightily to get leaue that they may set vpon the enemies.
+
+
+Our horse lately surprised a Post of the Marquesse 
+Spinola,
+ who was sent to the Infanta at Brussels by him, to giue her Highnesse to vnderstand that he must haue money with all speed, or that he was not able to keepe the souldiers in his Campe.
+
+
+By reason of the boysterous winde that blew vpon the twelfth day of October, the waters grew very high in the Low-Countries, and they haue done great hurt about Geertreydenbergh, for there were drowned ma∣ny Beasts, and the violence of the water carried some bridges away, which stood without the Towne, and drowned also some of our workes about the Campe of the Marquesse 
+Spinola.
+ But the Prince of Orange is now daily approaching the quarter of the Enemies a∣bout Tetteringen, and consults many times with his Brother the Duke of 
+Brunswick,
+ and other chiefe Com∣manders and skilful Ingeners, how they may annoy the Enemy.
+
+
+And we haue receiued tidings that the Count 
+Hen∣rie
+ of Nassaw is sent with 8000 Foote, and two thou∣sand horse towards Rosendael to fortifie that place, and to wait vpon the conuoyes of the enemies.
+
+
+
+
+The Count Ernst of Nassaw was lately very sick but God be thanked is now at the mending hand.
+
+
+There are dayly many Materials, Fago
+s, and great store of Ordinance, Victuals, and Munition, brought to our camp, and it is thought that there shall short∣ly some great enterprise bee made by the Prince of O∣range.
+
+
+His Excellency afore mentioned is raising two Forts neere the high way, called the long street, to pre∣uent that no victuals out of the Dominions of the vni∣ted Prouinces be any more brought to the enemie, by some couetous persons as hath bin done before.
+
+
+The enemies comming lately at Oosterhout, pilla∣ged the village, and tooke all what they could get of the poore countrie people.
+
+
+We expect here dayly, many souldiers which are dismist by the Kings of Sweden and Denmarke, and lie now about Hamburrough, and tarrie there onely for their chiefe commanders, which are to canduct them into these vnited Prouinces. And it is rumord that Count Mansfield, and the Duke christian of Brunswyck, are likewise to get some of them vnder their command to imploy them else where.
+
+
+On Thursday last was the gouernour of the Baye, of of 
+Todos los Sanctos
+ with his sonne, some Iesuits and o∣ther prisoners brought to the house of the West In∣dia companie at Amsterdam.
+
+
+
+
+They write out of Spaine, that the Friggers haue vndertaken, to send into the Low-Countries by letters of exchange, the summe of six hundred thousand Crownes, for the vse of the Marquesse 
+Spinola.
+
+
+
+
+
+
+Out of the Campe of the Prince of 
+Orange,
+ at 
+Made
+ on the 18. of October.
+
+
+There came yet dayly many Italians Albanese, and other Nations in our camp, hauing forsaken the Mar∣quesse 
+Spinola,
+ (as they say) by reason of the great dearth, and the small pay which is in his Camp.
+
+
+They report, how that the Marquesse 
+Spinola
+ got yet lately foure Regiments in his camp nam
+ly, two of Wallons, one of Italians, and one of Germains, besides some troups of Horse. And they are of opinion that the Marques 
+Spin
+la
+ wil not be able to lie long be∣fore 
+Breda,
+ seeing that the waies grow so deep, that the Victuals can not bee caried to the camp, without great difficultie, and that there is almost no mony stirring in the camp: And they say, that euery souldier gets no more then fifteene stiuers a weeke, which they can easily bestow vpon three pound of bread, and one pound of cheese.
+
+
+The horse which came with the last conuoy to their camp, were not able to ride vpon their horses, seeing they went so deep in the mire, but were compelled to goe a foote, and lead them by the bridle. And they re∣port moreouer that the Marquesse 
+Spinola,
+ hearing that the Prince of Orange hath giuen order to some Com∣manders
+
+ to meet with his conuoy: had giuen directi∣ons that no conuoy should any more goe or come without eight thousand foote, two thousand horse, and some pieces of Ordinance. But the way is growne so deep (as they say) that the horse go in some places vn∣to their be
+lies in the water, that they will hardly bee a∣ble to march.
+
+
+The Marquesse 
+Spinola
+ is dayly viewing his campe: and strengthned lately his Quarter of Tettering, with som souldiers which he took out of the other quarters, and planted there nine peeces of Ordnance vpon a batterie, to hinder the approaches of the prince of Orange with his forces, seeing that he drew dayly nee∣rer and neerer to that Quarter.
+
+
+A mus
+ering being lately made in the Camp of the Marquesse 
+Spinola,
+ it was found out that there wanted twelue thousand of the souldiers, which were come to his Camp, many of them being runne away, and the rest slayne or deceased.
+
+
+Yesterday there came yet some persons out of the towne of 
+Breda,
+ and brought letters with them of se∣uerall Commanders and Captaines, which relate that there is no difficulty within the Towne: and that all manner of Victuals are there very good cheap, for as they write the Quarter of Corne cost there but fiue Gilders, the Kan of the best beere two styuers, the Kan of their beere of three Gilders the Barrell▪ one sty∣uer, a pound of Butter, fix styuers, a pound of Bakon, fiue styuers, a pound of Cheese, three styuers, a pound
+
+ of fresh flesh, foure styuers, and all other things are sold accordingly.
+
+
+They which came out of the Towne, told likewise that there were yet a thousand six hundred Oxen and Kyne kept within it in seuerall stables, and it was thought to bee prouided yet for a yeare and a halfe. Concerning the plague there are none almost sick of it in the Towne: And there were at the same time yet seuen thousand resolute souldiers within the towne and the outworkes.
+
+
+Wee haue receiued from seuerall places tydings, how that our enterprise vpon the Castle of Antwerps tooke no effect: by reason of a horse of our men, which made such a great noyse, that a Sentinell of the Castle looked thereupon ouer the walles of it, and discouered our men which came about it. The Drost of Borchem who was the chiefe conductor of this enterprise mar∣ched on the twelf day of this moneth of October, a∣bout foure of the clock very early in the morning out of the Towne of 
+Bergen vp Zoome,
+ with a thousand foote and foure troupes of horse, and came about ele∣nen of the clock in the night time before the Castle, and had before twelue of the clocke laid some of their floates or bridges on the water, which runneth about the Castle, fastened some Petards, and erected se∣uerall ladders against the walles, and were likely to speed well, if they had not beene discouered by the meanes of the afore mentioned horse.
+
+
+
+
+There comes yet dayly many Troupes of Horse and foote in our Camp, and on the thirteenth of this Moneth arriued there the Regiments of Frize-land, besides diuers other Companies which came from Gerchum, B
+mmel, Tiel, and out of some Townes of Gelderland; and were presently inquartered close vnder the trenches of the enemies at Tetteringen.
+
+
+The Commander 
+Smeltsing,
+ is sent with fifteene Troupes of Horse and some foote, to make an enter∣prise vpon the enemies.
+
+
+They which came out of the Spanish Camp, re∣late how that the Marquesse 
+Spinola
+ hath told, that although hee was compelled to raise his siege before 
+Berghen vp Zoome,
+ notwithstanding he had vsed great violence against the Towne: he thought to get 
+Breda
+ without vsing of any violence.
+
+
+And they say likewise, that hee is yet leauying for the seruice of the King of Spaine many Regiments, both in Germany and in the Low-Countries, with an intention to accomplish the last resolution which was taken at Brussels by the Spanish Councell of Warre; namely, to raise yet another Armie, and to threaten the vnited Prouinces, both by the sword and fire.
+
+
+
+
+On the other side wee heare that the generall States of the vnited Prouinces haue concluded to bring yet another Armie in the field, which is to bee as strong as that which they haue now in the field, to raise the Spanish Campe before 
+Breda
+ which are now, as they say, come out of it, euen ten thousand horse and thir∣tie thousand foote. And it is certaine that there are already many chiefe Commanders and Captaines ap∣pointed to leauy both horse and foote, and that there are some thousands of souldiers which haue serued the Kings of Sweden and Denmarke dayly lookt for to come by water in these vnited Prouinces.
+
+
+By the last letters which came from Paris they cer∣tifie vs againe that the King of France is still resolued with the ayde of his confederates, to raise such Armies as hath beene concluded vpon.
+
+
+And they report, that it is certaine, that the afore mentioned King hath furnished Count 
+Mansfield
+ al∣ready, with great summes of money, to leauie an Army wheresoeuer hee will.
+
+
+And they say, that the Colonell 
+Smith
+ is now lea∣uying at Sedan two thousand fouldiers for the same
+
+ Count, and the Captaine 
+Daniel de la Riue:
+ likewise a thousand fiue hundred horse: So that there is no doubt more to bee made of the raising of the Armie of 
+Count Mansfield:
+ But the time will learne where it shall be imployed.
+
+
+
+
+
+
+The foure ships which arriued here lately, com∣ming from the Bay of 
+Todos los Sanctos,
+ brought with them these following prisoners and prises: namely,
+
+
+
+
+The Vice-Roy.
+
+
+His Sonne.
+
+
+The Prouinciall of the Iesuites.
+
+
+14. Other Clergie men.
+
+
+A Sergeant Maior.
+
+
+2516. Chests with Sugar.
+
+
+35. Barrels with Sugar.
+
+
+20. Chests with leafe Tobacco.
+
+
+1. Chest with Tobacco, in rowles.
+
+
+
+
+24. Small Barrels with confited Ginger.
+
+
+128. Barrels with Sirupe.
+
+
+125. Pipes with Spanish wine.
+
+
+5. Vessels with Tobacco.
+
+
+59. Teeth of Oliphants.
+
+
+1182. Pieces of Brasil-Wood.
+
+
+4525. Oxen Hides.
+
+
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

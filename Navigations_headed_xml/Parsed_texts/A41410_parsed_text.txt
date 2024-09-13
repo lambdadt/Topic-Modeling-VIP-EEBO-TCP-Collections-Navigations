@@ -1,0 +1,498 @@
+Good news from London-Derry in Ireland. Being a full and true relation of a great and signal victory which the Protestants there have most happily obtain'd over the French and Irish-Papists, June 5th. 1689. Licensed and entered according to order.
+Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A41410
+
+
+
+
+Wing G1061A
+
+
+
+ESTC R218488
+
+
+
+
+
+99830074
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Good news from London-Derry in Ireland. Being a full and true relation of a great and signal victory which the Protestants there have most happily obtain'd over the French and Irish-Papists, June 5th. 1689. Licensed and entered according to order.
+1 sheet ([2] p.)   
+
+
+London :
+
+
+printed for J. Williams, in Fleet-street,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Ireland --  History --  War of 1689-1691 --  Campaigns --  Early works to 1800.
+Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.
+2012-09
+TCP
+Assigned for keying and markup
+2012-09
+SPi Global
+Keyed and coded from ProQuest page images
+2012-10
+Pip Willcox
+Sampled and proofread
+2012-10
+Pip Willcox
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+G1061A
+
+
+R218488
+
+
+99830074
+
+
+34523
+
+
+
+
+
+
+
+
+
+
+
+
+Good NEWS from 
+London-Derry in Ireland.
+ BEING
+ A full and True Relation of a Great and Signal Victory which the 
+Protestants
+ there have most happily obtain'd over the 
+French
+ and 
+Irish-Papists,
+ June 
+5th. 1689.
+
+
+Licensed and Entered according to Order.
+
+
+SIR,
+
+
+IN my former, I gave you an Account of the late King's coming before 
+London Derry,
+ and what afterwards happen'd, till the 23d. of 
+April,
+ when 
+Kilmore
+ was surrendred, at which time Colonel 
+Lundce
+ their then Governour, that very Morn∣ing made his Escape. It now remains, that I give a Re∣lation of what has fallen out since, and of the Condition of the Place.
+
+
+The Besieged having rejected all Offers made them by the late King, and provok'd the Besiegers in divers Sal∣lies; as also being uncertain when Relief would arrive from 
+England,
+ resolv'd to put themselves into the best Posture they could; and to that purpose unanimously declar'd their Resolutions to Live and Die with their new Governour, Mr. 
+George Walker,
+ and Mr. 
+Henry Baker,
+ and to submit with an entire Obedience to their Conduct and Commands for defence of the City.
+
+
+In the first place they examin'd the Publick Treasury, where they expected to have found the Five hundred Pounds sent them from 
+London
+ by Captain 
+Beverly,
+ in the first Ship that brought them Arms and Ammunition, and a far greater Sum, but the Birds were flown. Then they took a View of the Ammunition and Stores, and found near 500 Barrels of Powder untouch'd, Ball and March sufficient, as also Bullets for their great Guns, of which they have 24 mounted upon the Bastions of the Walls, upon the Tower of the Church two, and eight within the City; that is to say, one at each Gate, and one at each Corner of the Market-House in the middle of the City, and fronting each Gate.
+
+
+In the third place, They made Inspection into the Stores of Provisions, and found a vast quantity of wheat, Meal, Oat-meal, Beef, Bacon, Salt, Salmon, and Butter, Cheese, Malt, Beer, Brandy, 
+&c.
+ which was all Inven∣tory'd, and put into publick Store-Houses, with Guards set over them. Also all Merchants, and Tradesmen, to prevent imbezling their Wares, and Merchandizes, took Inventories of their several Goods, and carry'd them into publick Store-Houses, which are guarded day and night.
+
+
+Moreover, upon a Muster of all that bore Arms, they were found to be about 12000, which are all form'd into Regiments and Companies, every Regiment under a Col. Lieutenant Col. Major, and Captain, 
+&c.
+ amounting to 17 in all. The Colonels are,
+
+
+
+Col. 
+George Walker,
+ Governours.
+
+
+Col. 
+Henry Baker,
+ Governours.
+
+
+Col. 
+Adam Murray,
+ General of the Field, who upon Enterprizes Commands in Chief, and Orders all the Sallies.
+
+
+Col. 
+Hugh Hammel.
+
+
+Col. 
+Henry Muroco.
+
+
+Col. 
+Michael Bourn.
+ of 
+Tyrone,
+ &c.
+
+
+Col. 
+Tho. Whitney.
+
+
+Col. 
+Henry Crofton.
+
+
+Col 
+Alexander Sanderson
+
+
+
+
+Eight more whose Names I do not at present re∣member.
+
+
+Tho. Johnson
+ is also made Mayor of the Town.
+
+
+All the Women and Children that brought no Sub∣sistance along with them into the City, nor could give any account of themselves; as also many that are unfit to bear Arms, were put our of the Town just before the Siege began, which was one reason that they have so ma∣ny now in Arms, in regard that many who brought no Subsistance into the Town, rather than be turn'd out of the Gates, gladly took up Arms to earn their Suste∣nance. But of two thousand Horse, which after the Pro∣testants were broken at 
+Clawde-Ford,
+ march'd into 
+Lon∣don Derry;
+ there are not now a hundred left for want of 
+Forrage,
+ which constrain'd them to turn the Horses out of the Gates, the greatest part of which fell into the Enemies hands, only some few are still left that graze under the protection of the City Canon, which the 
+Irish
+ however now and then pick up, as often as they dare ad∣venture, and for which as often they pay very dearly, being either shot dead, wounded, or taken Prisoners.
+
+
+The great Gates of the City are barricado'd within∣side with huge pieces of Timber; the Keys are kept at the Main-Guard, and eight Captains, two to a Gate are upon the Watch every Night. When there is occa∣sion, the Keys are not to be deliver'd, as was usual to a Serjeant, but into the hands of the Captains that guard the particular Post.
+
+
+Two Regiments are upon Duty every Night, and up∣on the least Alarum they are all to repair to the Walls, without expecting any other Orders.
+
+
+There are in the Town five Ministers who have the Commands of so many Companies, and have every one of them given signal Proofs of their Valour; particu∣larly one Mr. 
+Christopher Jenney.
+
+
+The private Souldiers are all in good Heart; the Al∣lowance to each Man for a Week, being a Salmon and a half, two pound of Beef, and four quarts of Oat-meal. Good strong Beer is also order'd to be sold at a Penny a Quart, though not to the Souldiers after Eight at night, to avoid Disorders.
+
+
+Blinds are also set up by the Command of the Gover∣nours to secure the Men upon the Walls from the Ene∣mies Battery.
+
+
+There is in 
+Derry
+ one 
+C. Darus
+ of 
+Plattin,
+ in the Cour∣ty of 
+Meath,
+ who is kept a Prisoner, as having been ta∣ken at 
+Chappel
+ in 
+Scotland,
+ and was one that Com∣manded in the Recruits sent by 
+Tyrconnel
+ to the late King into 
+England.
+ General 
+Hamilton
+ has wrote se∣veral Letters to the Governours to have this Captain set at Liberty, but they do not think fit to part with him; nevertheless they use him civilly.
+
+
+The 
+Irish
+ also very much lament the loss of Major 
+Ro∣bert Nangle,
+ (the Son of Tory 
+Nangle,
+ that was shot at 
+Longford-Bridge
+) who together with two Troopers was drown'd, while they endeavour'd to get over the Pass at 
+Clawdeeford.
+ 'Tis also believ'd that Col. 
+Domi∣nic Sheldon
+ is dead of the Wounds he receiv'd in one of the Sallies made by the Besieged, from the hands of one Mr. 
+Arthur Ivory,
+ a brisk young Gentleman, who fought the Colonel hand to hand, till at length two of the 
+Irish
+
+
+coming into the Colonel's Rescue, shot the Gentleman, dead.
+
+
+The late King has made Col. 
+Charles Moore
+ Governour of 
+Colraign,
+ where he keepr with a Garrison consisting of 1000 Men. The Marquess of 
+Antrim
+ is made Gover∣nour of 
+Charrick Fergus,
+ which has the same number of Souldiers to defend it. And 
+Gourdon Oncale
+ is also made Governour of 
+Charlemont,
+ though not having with him above 200 Souldiers.
+
+
+Chester,
+ The last Week arrived here a Vessel from 
+Ire∣land
+ with Passengers, who credibly report, that the late King have received Advice from the Camp before 
+Der∣ry,
+ that they were not a number strong enough to storm the City, nor to withstand the Enemy, should they have Succours from 
+England:
+ and besides that they wanted Ammunition and great Guns, gave Orders for a consi∣derable Recruit to march Northward, but that when they came within two days March of 
+Derry,
+ the Regi∣ment Commanded by young Sir 
+Maurice Austace
+ in the County of 
+Kildare,
+ and some other Regiments fell into a great Mutiny, swearing by their 
+Shouls
+ they would not go to the King's Slaughter-House to be kill'd, as the 
+French
+ Generals, Sir 
+Patrick Dowdel,
+ Major 
+Taaf,
+ and the rest had been, and that they wolud rather turn to the Protestants, and serve King 
+William,
+ than be Slaves to the 
+French.
+ Upon which hundreds of them ran away, and betook themselves to the Bogs and Mountains.
+
+
+On Saturday 
+May
+ the 18th arriv'd from 
+Dublin
+ at 
+Dawpool,
+ betwixt 
+Chester
+ and 
+Liverpool,
+ one 
+Can,
+ Ma∣ster of a Vessel belonging to those parts, on Board of whom were wany Passengers, who had all of them Pas∣ses, for which they paid at the Secretaries Office in 
+Dub∣lin,
+ 3 
+l.
+ 10 
+s.
+ for every individual Person, though most we
+e Women and Children. They left 
+Dublin
+ the 15th, and bring Advice, That on the 14th an Order came from the late King, to grant no more Passes. They also say further, That the Duke of 
+Tyrconnel
+ was at 
+Chappel I∣zard,
+ but dangerously ill of the black Jaundies, and of a shot in his Shoulder, and wound in his Hand, that the Physitians had given him over as past recovery. That Mr. 
+Fitz: James
+ is dead, and many of the Souldiers dye daily (they fear of the Plague) in the Camp, for that having no Salt, they are forced to hang what Flesh they kill on the Trees to dry, which had bred many Distem∣pers amongst them▪ On Monday the 13th, another Re∣enforcement March'd from 
+Dublin
+ towards the Camp before 
+Derry,
+ with two Cannon, a very large Morter-piece, and some large Bombs; the Morter-piece was drawn by 16 good Horses; but as they were drawing it up 
+Cork-Hill,
+ the Chains broke, and the Piece rowl'd back again to the bottom, which made one of the Offi∣cers, Major 
+Barker
+ sware a bloody Oath, he believed they were bewitched, and to curse a Protestant Gentle¦man that stood near, with the Appellation of Heretick Witch, 
+&c.
+
+
+Some of these Passengers say, That the late King has lately lost many Men before 
+Derry,
+ and that they saw at 
+Dublin
+ four Velvet Coffins, wherein were the Bodies of four great Persons that were Slain before that Town, and which were privately Interred at Midnight.
+
+
+Several 
+Highlanders
+ have attended the late King for Commissions, which they have obtained, and have pro∣mis'd him great things, as he has done to them, if For∣tune favours them with Success.
+
+
+On Thursday the 16th. Major General 
+Kirk
+ with three brave Regiments Embarqued at 
+Liverpool
+ for 
+London-Derry,
+ having on Board him many Engineers and Gun∣ners, with great store of Ammunition, Arms, Morters, Bombs, and a great quantity of Wheat, Barrels of Beef, 
+&c.
+
+
+On Friday they set Sail, but the Wind did not prove so fair as was hoped; but they are still at Sea, or else at 
+Derry
+ e're this, for that they resolved to Sail down the River in spight of all that could be done by the Fort of 
+Kilmore,
+ which they doubted not to beat about the Ears of the 
+Irish,
+ if they durst stay within it to make any resistance.
+
+
+After these Persons had left 
+Dublin,
+ Advice was brought to the late King that 6000 Foot of the Garrison of 
+London-Derry,
+ and about 100 Horse in two Troops, had made a Salley at Mid-night upon his Camp, Killed, wounded, and taken some thousands, and thereby had raised the Siege, and made themselves Masters again of 
+Kilmore,
+ of which we expect the Co
+firmation every hour. The last Letters from 
+Scotland
+ of the 17th instant, do say, that there Advices from 
+Ireland
+ give account that 
+Lon∣don Derry
+ and 
+Inniskilling
+ hold out bravely; that the latter within these few days had made a great and vigo∣rous Sally, in which they killed a great number of the Enemies, and made a safe Retreat into the City.
+
+
+By a Vessel come into 
+Bristol
+ on Monday the 20th. instant, in four days from the 
+Isle of Man,
+ the Master whereof says, he there left divers of the Protestants newly arrived from 
+Ireland,
+ who do affirm, that the 
+Irish
+ Army, having received a Reinforcement, made a General Assault upon 
+London Derry
+ last Sabbath∣day was fortnight, with great fury; that the Besieged made a most gallant Defence, and with that Success, that they beat them above a Mile beyond their Camp, and kill'd some thousands, of which are many Per∣sons of Quality, particularly Major General 
+Ramsey,
+ and Cap. 
+Cussack,
+ (the Duke of 
+Berwick
+ not yet heard of) they had in their Camp 13 Coaches, which they fill'd, and drew off with the dead Bodies of Persons of Quality and Officers. And so obstinate and bloody was the Fight, and their Loss so great, that they were forced to raise the Siege, and are retreated above 40 miles to a place called 
+Lambeg Lissnegarney.
+ They have since in the County of 
+Down,
+ and other places, most barbarously murthered many 
+English,
+ and give out, they daily expect Recruits, and will be Masters of 
+Lon∣don-Derry,
+ or hazard the whole Army. The Ship Master afore-mentioned likewise says, those he saw at the 
+Isle of Man
+ of the Protestants from 
+Ireland,
+ es∣caped with their Lives only, having used them barba∣rously.
+
+
+Another Person who came Wednesday last from 
+Dub∣lin,
+ confirms the Fight to have been very bloody, as there related; and that the Protestants have regained 
+Kilmore.
+ So that it's believed the three Regiments of Maj. Gen. 
+Kirk,
+ Sir 
+W. Hanmore,
+ and Col. 
+Stewart,
+ with the rest of their Squadron, are all got safe into 
+London Derry
+ without any Opposition, and have had a joyful meeting with those brave Souls who have stood in the Gap to save a Nation.
+
+
+A Vessel is also come into the West from the Town of 
+Lymerick,
+ the Masters says, That the 
+Irish
+ are ex∣treamly unwilling to meet the Protestants in Battel, es∣pecially the 
+English
+ Army, of whom they are so afraid, that in 
+Lymerick
+ it self there are but 4 or 5 Companies of raw, undisciplin'd Men, not half Armed, who take all Opportunities to run away they can. And it's thought one Man of War with 2 or 300 Men, might soon be Masters of the place. And that the like might be done at 
+Galloway,
+ and bring off that gallant Gentle∣man, Sir 
+Thomas Southwell,
+ and about 140 more of his followers, now under Condemnation there, for no other Crime, than their own Defence, and being Protestants, which is now Crime enough to ballance all the Servi∣ces and Loyalty Flesh and Blood can be capable of; an eminent instance of which is not many days Old.
+
+
+Col. 
+Russell
+ of 
+Ireland,
+ who was Governour of 
+Gal∣loway,
+ and commanded the best Regiment of Horse in that Kingdom, since the late King's arrival in that King∣dom, was turned out of his Government first, and soon after from his Command as Colonel; and in the height of his dissatisfaction, humbly waited on the late King, and laid before him his constant Services to his Father, his Brother, and himself; and what an Affliction it was to him to have now his Loyalty questioned, 
+&c.
+ The late 
+King
+ told him, 
+He must needs confess and own all he had said was true — But it was also as true, that he was now under Circumstances that would not permit him to trust any Man of his Profession, viz.
+ A Protestant of the Church of 
+England.
+
+
+
+
+
+
+
+
+
+
+London,
+ Printed for 
+J. Williams,
+ in 
+Fleet-street.
+ 1689.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5251 @@
+A breviate of the proceedings of France, from the Pyrenaean Treaty to this time as also I. The speech of Monsieur Zierowsky, the Emperor's Embassador to the King of Poland, II. A memorial presented by the said Embassador to the King of Poland, III. A letter from Monsieur Du Vernay to Count Tekeley, IV. A letter from Count Tekeley to Monsieur Du Vernay, V. A letter from Monsieur Peter Jaigel, Governour of Cassovia, to Monsieur De Vernay.
+Approx. 159 KB of XML-encoded text transcribed from 97 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A29339
+
+
+
+
+Wing B4414
+
+
+
+ESTC R22585
+
+
+
+
+
+ocm 12124873
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A breviate of the proceedings of France, from the Pyrenaean Treaty to this time as also I. The speech of Monsieur Zierowsky, the Emperor's Embassador to the King of Poland, II. A memorial presented by the said Embassador to the King of Poland, III. A letter from Monsieur Du Vernay to Count Tekeley, IV. A letter from Count Tekeley to Monsieur Du Vernay, V. A letter from Monsieur Peter Jaigel, Governour of Cassovia, to Monsieur De Vernay.
+[6], 185 p.   
+
+
+[London] :
+
+
+Printed at Cologne, and reprinted at London, to be sold by Walter Davies ...,
+
+
+1684.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+France --  Foreign relations --  1643-1715.
+2012-06
+TCP
+Assigned for keying and markup
+2012-06
+SPi Global
+Keyed and coded from ProQuest page images
+2012-07
+Greg Schutz
+Sampled and proofread
+2012-07
+Greg Schutz
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+B4414
+
+
+R22585
+
+
+12124873
+
+
+54547
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A BREVIATE OF THE 
+Proceedings
+ OF FRANCE, From the 
+PYRENAEAN TREATY
+ to this 
+TIME.
+
+
+AS ALSO,
+
+
+
+I. The Speech of Monsieur 
+Zierowsky,
+ the 
+Em∣peror
+'s Embassador to the 
+King
+ of POLAND.
+
+
+II. A Memorial presented by the said Embassa∣dor to the King of POLAND.
+
+
+III. A 
+Letter
+ from Monsieur 
+Du Vernay
+ to Count 
+Tekeley.
+
+
+IV. A 
+Letter
+ from Count 
+Tekeley
+ to Monsieur 
+Du Vernay.
+
+
+V. A 
+Letter
+ from Monsieur 
+Peter Jaigel,
+ Go∣vernour of 
+Cassovia,
+ to Monsieur 
+Du Vernay.
+
+
+
+
+Printed at 
+Cologne,
+ and Reprinted at 
+London,
+ to be sold by 
+Walter Davies
+ in 
+Amen-Corner,
+ 1684.
+
+
+
+
+
+
+
+
+
+
+TO THE READER.
+
+
+THE 
+Author
+ of this 
+Little Discourse
+ was most certainly a 
+French Protestant,
+ and One who has been a 
+Sufferer
+ among the 
+Rest
+ in the late 
+Persecution
+ of the 
+Reformed Religion
+ in 
+France.
+ 'Tis but a 
+small Treatise,
+ but it gives the 
+World
+ a 
+large Prospect
+ of the 
+Violencies
+ and 
+Cruelties
+ of the 
+French Government,
+
+
+ both at 
+home
+ and 
+abroad;
+ and the 
+Miseries
+ of those that lye under it's 
+Oppression.
+ How far it may have an 
+Influence
+ upon Other 
+Nations,
+ or An∣swer the 
+Author's Expecta∣tion,
+ who has made it his Bu∣siness to exhort them to the 
+Recovery
+ of their 
+Liberty,
+ wrested from them by 
+Bribe∣ry, Breach
+ of 
+Leagues
+ and 
+Correspondence
+ with the 
+Turks
+ Themselves, to the 
+De∣struction
+ of so many 
+Families
+ as have perished in the 
+Deso∣lation
+ of their 
+Country
+ and the Ruin of 
+Christianity
+ it
+
+ self, I know not; but cer∣tainly to our 
+own,
+ it may be of 
+Great Advantage,
+ to make the 
+People
+ consider the 
+Feli∣cities
+ they enjoy under a 
+King truly Most Christian,
+ a 
+just
+ and 
+peaceable Soveraign,
+ and how much more happy they are than their 
+Neighbours▪
+ and how industriously they go a∣bout to bring Themselves into the same 
+Condition
+ by their own 
+needless Discontents
+ and 
+Fiery Dissentions:
+ Which certainly they would never do, did they but seriously weigh in the same 
+Ballance
+ the 
+Arbi∣trary
+
+ Dominion
+ of the 
+French
+ hereafter displayed, and the 
+Immunities
+ and 
+Advantages
+ we Enjoy by the 
+Excellent Composure
+ of our 
+Govern∣ment
+ both 
+in Church
+ and 
+State.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE AMBITION OF FRANCE UPON EUROPE.
+
+
+IT is no difficult thing to discern the Original of those Miseries under which we labour at this day: They who will give them∣selves the Trouble to reflect upon the Transactions, which have been the most remarkable for these 
+Twen∣ty
+ years last past in 
+Europe,
+ will agree with me, that if we had been so 
+for∣tunate
+
+
+ to have 
+grown wife by our Suf∣ferings,
+ we should not have seen our selves reduc'd to those 
+Calamities
+ un∣der which we now groan. For in short this is not the first time, that 
+France
+ has been known to have bro∣ken Leagues, tho never so sacred and inviolable. Her Ambition has not been able to keep her self reserv'd without appearing in her 
+Colours.
+ But we have been either so weak or so blind, as never to make a vigo∣rous opposition till it was too late. Therefore we can only impute our 
+Misfortunes
+ to our selves, and must ingeniously confess, that if we suf∣fer at this day the punishment of our 
+Imprudence,
+ 'tis no more than what we justly deserve.
+
+
+In a word, to whom ought we to impute the 
+Imbecillity
+ of the 
+Spa∣niards
+
+
+ but to our selves, who have so often contributed to reduce them to their present condition? Was it not easy for us to see, that they sup∣ported themselves only by the 
+means
+ of those 
+Cabals,
+ that were maintain'd in 
+France
+ against Cardinal 
+Mazarin,
+ and that if the Prince of 
+Conde
+ had forsaken their 
+Interest,
+ their good 
+Fortune
+ and 
+Reputation
+ had been at an end? nevertheless when we obser∣ved, that we had lost the Assistance of that Prince, who was return'd to his Duty by the 
+Pyrenaean
+ Peace, and that 
+France
+ to the prejudice of a League so sacredly ratify'd, forbore not however, not only to foment the 
+Troubles
+ of 
+Portugal,
+ but also to send considerable Supplys to their assistance at several times; I say, when we saw, that the 
+Peace
+ was
+
+ no more than a Cloak for 
+France
+'s Ambition, have we not suffer'd the Oppression of our Neighbours, without so much as opening our Lips, as if 
+True Policy
+ had not taught us, that it was time to oppose the 
+Designs
+ of a 
+Nation,
+ which would never be contented, 'till she had satisfy'd her 
+Ambition
+ by the 
+Conquest
+ of the World?
+
+
+Nevertheless, with what confi∣dence, if I may not call it Impu∣dence, did she maintain, that she acted nothing but what was confor∣mable to the Peace? Did not she likewise insinuate, that whatever was done in the behalf of 
+Portugal,
+ was done without her Order? To which purpose while she covertly sent Supplys of Men and Money into that Kingdom, she publish'd
+
+ her strictest Prohibitions to prevent the 
+Transportation
+ of 
+Arms
+ thither, yet underhand encourag'd her Sub∣jects to carry supplys to that 
+Crown,
+ as the only means to purchase E∣steem and Reputation; yet all this while carry'd fair with the 
+Embassa∣dor,
+ who made loud complaints of these Breaches, especially when he saw that the Marquiss of 
+Beauveau
+ had permission to levy a Regiment of 
+Cavalry
+ for the Service of that 
+Crown
+ in the 
+Metropolis
+ of 
+France,
+ just under his Nose; after he had Arti∣cl'd to outward appearance with the 
+Portugal
+ Embassador, but in re∣ality with the 
+Court
+ of 
+France.
+ After all which proceedings she would needs have it, that whatever the 
+Spanish
+ Embassador said, was but the effect of his Fancy and Imagi∣nation;
+
+ as now at this very time she would make us believe that she has no Design to make a War, tho she has eaten up a 
+Country
+ within these few Months, to which she has no Right at all, and to which she has not the least of Lawful Pre∣tences, if 
+Reason
+ and 
+Justice
+ were the Rule of her Actions.
+
+
+All this while, though we have observ'd all along these Practises of 
+France,
+ without the least opposition, yet neither do we make any ad∣vantage of them at this day, that we see our selves just ready to be made the 
+Unfortunate Victims
+ of Her 
+Ambition.
+ 'Tis true I know there are several who will reply that 
+Suc∣cours
+ have been sent to the 
+Spaniards,
+ which if it were done, we are be∣holding to the Prince of 
+Orange,
+ who
+
+ having a deeper 
+Fore-sight
+ than o∣thers, could not suffer us to be over∣whelm'd, without doing at least what was his 
+Duty
+ to do; which is the reason we find him so firmly bent against the 
+Persecutions
+ and 
+In∣juries
+ of 
+France,
+ which esteems not Vertue, but when it agrees with Her Interest.
+
+
+But to return to the business, I say that 
+France
+ endeavour'd to blear the Eyes of the 
+Spanish Embassador,
+ who had in mind however to hunt the wrong Deer, when an unex∣pected 
+Accident
+ made her act with more 
+boldness,
+ and forbear any lon∣ger to disguise her Thoughts. She had treated with 
+Montgeorges,
+ who was slain in the late Wars, and who was then a Captain in 
+Candale,
+ a stout Soldier, and one who lov'd War a¦bove
+
+ all things, to carry a Supply of Officers and Soldiers into 
+Portugal:
+ Now 
+Montgeorges,
+ being embark'd with his 
+Company,
+ and upon his Voy∣age into 
+Portugal,
+ happen'd to be taken by the 
+Spaniards,
+ which were advertis'd of his 
+Departure;
+ upon which there was a necessity for 
+France
+ to take off her Mask; for that the 
+Spaniards
+ began already to talk of cutting off 
+Montgeorges
+'s Head.
+
+
+This apparent 
+Act
+ of 
+Infidelity
+ vvas attended by several others, and yet no 
+Neighbouring Puissance
+ in∣terpos'd it's 
+Authority,
+ to the end these things might be regulated ac∣cording to 
+Justice:
+ Not but that there vvas 
+Warranty
+ for the 
+Pyrenaean Peace;
+ as vvell as there are novv for the Peace of 
+Nimeghen,
+ but that
+
+ they are such, vvho after the 
+Con∣clusion
+ of the 
+Treaty,
+ never mind aftervvards the 
+Breaches
+ vvhich are made of it, so that there is not one at this time takes any care to send a∣ny succour to the 
+Spaniards,
+ vvhose 
+Ruine
+ is attempted by so many in∣direct means. On the other side, the 
+Spaniards,
+ vvhether they are be∣come insensible, or vvhich is most probable, that they understand their ovvn 
+weakness,
+ are contended to see themselves so rudely handl'd vvith∣out testifying the least 
+Resentment,
+ but only by 
+Complaints,
+ altogether misbecoming 
+Soveraign Princes,
+ es∣pecially if not prosecuted vvith ef∣fectual Deeds; so that others seeing them so patiently svvallovv all 
+Affronts,
+ did not think themselves oblig'd to take their 
+Part.
+
+
+
+
+Which 
+Weakness
+ of theirs vvas certainly most apparent upon the Occasion of an 
+Accident
+ that hap∣ned in 
+London
+ betvveen Monsieur 
+d'Estrades
+ and Monsieur 
+de Vataville Embassadors
+ of both 
+Crowns:
+ For after the Baron of 
+Vataville
+ had got the 
+Precedence
+ before Monsieur 
+d'E∣strades,
+ upon the Entry of another 
+Embassador; Spain
+ did not only dis∣claim and disavovv the 
+Act,
+ but al∣so has for ever stain'd her 
+Reputati∣on,
+ by an 
+Ignominious Declaration,
+ vvhich I dare not repeat, and vvhich I cannot remember with∣out blushing out of my 
+Respect
+ and 
+Love
+ to the Nation. However if the thing be call'd to mind, we ought to lay the Fault upon those other 
+Potentates,
+ that shewed them∣selves so passionately earnest for the
+
+ Peace, that they never laid to heart the 
+Affront
+ which was offer'd to 
+Spain,
+ who seeing her self aban∣don'd by all the World, was forc'd to abate of her wonted Haughti∣ness.
+
+
+Nevertheless the more notable 
+Head-pieces,
+ perceiving how proud∣ly 
+France
+ behav'd her self upon that occasion were of opinion, that it was necessary to withstand Her 
+Ambition
+ before the further Encrease of her Strength and Power: But the Councel of these prudent 
+Poli∣ticians
+ was listen'd to by way of 
+Discourse
+ only, and the Seizure of 
+Blindness
+ began to be so general, that they look'd upon those who dis∣cours'd at that rate, as Persons that rather sought to disturb than pre∣serve the Peace so necessary for all 
+Europe.
+
+
+
+
+Nor did they begin to unhood∣wink their Eyes; till 
+France,
+ no lon∣ger able to continue quiet, resolv'd to carry the War into 
+Flanders
+ under 
+Pretences
+ altogether as 
+Chymerical
+ as those at present; But with an 
+Ad∣vocate
+ of 
+Paris,
+ such a one as they vvere careful to chuse out of the sharpest witted of the 
+Chiurme,
+ un∣dertook to beautifie with a specious varnish, an 
+Undertaking,
+ which a 
+Person
+ of 
+Honesty
+ and 
+Integrity
+ would have been very much troubl'd to perform; only he who had serv'd his 
+Apprentiship
+ at the 
+Pettie Bar,
+ where for 
+Two Crowns,
+ they will defend the wickedest 
+Injustice
+ in the World, was of Opinion, that be∣ing much better 
+feed
+ than so, it did not become him to neglect so fare an Opportunity for his 
+Preferment:
+
+
+ So that 
+Interest
+ prevailing above 
+Truth,
+ in a short time there came forth a 
+Manifesto,
+ wherein they en∣deavour'd to maintain, that though the King by the 
+Pyrenaean
+ Treaty had renounc'd all manner of 
+Pretences
+ which he might hereafter have to the 
+Low Countries
+ or 
+Netherlands,
+ in right of his Wife, that 
+Renunciati∣on
+ was invalid, because the 
+Parlia∣ment
+ had never confirm'd the 
+Ar∣ticles.
+
+
+The same 
+Manifesto
+ endeavour'd further to prove, that the 
+Queen
+ had a 
+Right
+ to several 
+Provinces;
+ and therefore to give the 
+Manifesto
+ a Ti∣tle proper to what they went a∣bout to make out, it was Entitul'd 
+The Rights of the Queen.
+ For you must understand, that it was the King himself, who had hindr'd the
+
+ 
+Pyrenaean
+ Treaty from being Regi∣stred in 
+Parliament,
+ to the end that for the future it might serve for a 
+Pretence
+ against what had been 
+sign'd
+ by Himself, and the chiefest 
+Nobi∣lity
+ of 
+France.
+
+
+Which piece of Litigious Craft when it gave occasion to all the World to reflect upon the 
+Small Faith
+ and 
+Sincerity
+ of the 
+French
+ King, Men vvere surpriz'd with wonder, That so great a Prince, who affe∣cted the Title of most 
+Christian King
+ should commit such Violences as would make 
+Infidels
+ to blush; and took pleasure to recount his 
+Actions,
+ that by comparing the one with the other, the disadvantage might the better appear on the Kings side. The general question was, whether a man were not oblig'd to keep his
+
+ Word which he had so solemnly sworn upon the Gospels, confirm'd by so Great and Near an 
+Alliance,
+ and where there was nothing omit∣ted to render inviolable by all the most considerable 
+Acts
+ that could be performed? And then the que∣stion was whether there were any thing that could disoblige a Man from an Oath so solemn? to which the 
+General
+ Answer was, that it was an 
+Action
+ dreaded by Men, and which call'd for the just 
+Vengeance
+ of God.
+
+
+And indeed there needs no grea∣ter Skill in 
+Theology
+ to understand, that 
+Christianity
+ and the 
+Church,
+ which is the same Thing, sufficiently tea∣ches us, that we are to keep our Words, not only to a 
+Father-in-Law,
+ as this occasion requir'd, but also to
+
+ a 
+Turk.
+ There is a notable 
+Exam∣ple
+ of this in the Person of a 
+French
+ Gentleman of the Family of 
+An∣glure,
+ from whence there are seve∣ral who derive their Descent that live in great splendor to this day. The particular History of this Fa∣mily relates, that one of their An∣cestors being taken in Fight by 
+So∣ladin, Sultan
+ of 
+Egypt,
+ was set at Li∣berty after a long Imprisonment, upon condition that he should re∣turn himself in Person with the 
+Ransom
+ which the 
+Soladin
+ had laid upon his Head; the 
+Gentleman
+ com∣ing home, and having sold part of his 
+Estate
+ to make good his 
+Word,
+ return'd back to 
+Soladin,
+ and told him he had brought his 
+Ransom in Person
+ according to his own 
+Agree∣ment
+ and 
+Conditions,
+ and that if he
+
+ pleas'd to name any 
+Person
+ to re∣ceive it he vvould presently tell it out. 
+Soladin,
+ vvho never thought a∣ny more of him, but believ'd, that since he had let him go, he should never see him again, vvas so surpriz'd at his 
+Generosity,
+ that after he had embrac'd and caress'd him vvith all imaginable 
+Endearment,
+ he told him, that from thence for∣ward he should have a greater re∣spect for the 
+Christians
+ than ever he had; and thereupon he did not on∣ly 
+release
+ him of his 
+Ransom,
+ but or∣dered his 
+Treasurer
+ to give him 
+Ten Thousand Franks,
+ which vvas a great Sum in those days. He fur∣ther desir'd his 
+Friendship,
+ and that alvvays the 
+Eldest
+ of his 
+Family
+ might be called 
+Saladin,
+ to the end that if Posterity should be curious
+
+ to know why they bore a 
+Name
+ so extraordinary among the 
+Christians,
+ they might be inform'd at the same time of the Occasion: Which 
+Re∣quest
+ of 
+Soladin
+ has been observ'd e∣ver since; insomuch that the Count 
+Destoges,
+ the Eldest of the 
+Family,
+ is this day nam'd 
+Soladin.
+
+
+If I might be permitted to make 
+Reflexions
+ upon this 
+Story,
+ I could without difficulty prove, that the 
+present
+ is far different from the 
+Ages past.
+ Formerly they kept their 
+word
+ with 
+Turks,
+ now adays, a most 
+Chri∣stian King
+ will not keep his 
+Faith
+ with his 
+Father-in-Law.
+ At this day the 
+Descendants
+ from a 
+Christian
+ Race are 
+Christened Saladine;
+ because their 
+Ancestor
+ so promis'd to the 
+Turk.
+ At this present a 
+most Christian King
+ nei∣ther minds the word, which his 
+An∣cestors
+
+
+ have past to their 
+Subjects
+ of the 
+Reformed Religion,
+ nor the 
+Pro∣mises
+ which he has made himself: At this day the Family of 
+Anglure,
+ which is only a private 
+Gentleman's,
+ derives all it's Honour from the 
+No∣ble Act
+ of one of its 
+Ancestors,
+ who made good his profligated 
+Faith
+ to the 
+Turk;
+ but the House of 
+France,
+ the most renowned in the World, for the 
+Breach
+ of an 
+Infinite Num∣ber
+ of the 
+Edicts,
+ granted in favour of the 
+Christians.
+
+
+But to return to our Subject, the King of 
+France,
+ grounding his 
+Claims
+ upon 
+Imaginary Pretences,
+ and upon a 
+Nicety,
+ that the 
+Parliament
+ had not ratify'd the 
+Pyrenaean
+ Treaty, resol∣ved to break the 
+Peace,
+ and carry his Arms into 
+Flanders.
+ But here before I go any further give me
+
+ leave to tell the World, what the Authority of this 
+Parliament
+ is, to prevent the Mistake of those, who may think it equal in 
+Power
+ to the 
+Parliament
+ of 
+England.
+ You are then to understand that the slightest Or∣der of 
+Council
+ cancels all 
+Edicts
+ of 
+Parliament,
+ the 
+Power
+ of which is so limited at this day, that though it take 
+Cognizance
+ only of private and particular 
+Interests,
+ the 
+Council
+ sends for the 
+Cause
+ before themselves and laughs at all that the 
+Parliament
+ has done in the same Case. Former∣ly nevertheless it's Authority was very great, nor was it long ago, that it was grown to that height, that every one admired at it; I mean during the Minority of the King: But there is such an 
+Alteration
+ since that time, that there is little notice taken of the 
+Parliament.
+
+
+
+
+And indeed at that very time, when the forementioned 
+Manifesto
+ appear'd, the King took away all their Privileges, banished all those that were suspected to have any affection for the 
+publick Interest,
+ and in a word, contemned it so far that he never went thither, but in his 
+Ri∣ding Boots
+ and his 
+Cane
+ in his Hand. He also deprived it of its very Name, as he serv'd the rest of the 
+Tribunals:
+ For to make it appear, that there were no more Masters but himself, he set forth an 
+Edict,
+ That neither the 
+Parliament
+ nor the 
+Grand Councel,
+ nor the 
+Chamber of Accompts,
+ nor the 
+Court of Aydes
+ should be called by any other Ti∣tle than that of 
+Superiour,
+ whereas before they were call'd 
+Soveraign Courts.
+ He also put forth another
+
+ 
+Edict,
+ which savoured in my opi∣nion of much more wrong and In∣justice: For whereas, when any new Imposition was thought upon and laid upon the People, or any o∣ther Innovation was imposed upon the Government, the King was wont to go in Person to see those 
+Edicts
+ ratifyed; the 
+Parliament
+ is now obliged to make the 
+Ratificati∣on
+ upon a bare 
+Letter
+ under the Privy Signet, many times carryed by a Footman; So that this great 
+Tribu∣nal
+ formerly erected to be a 
+Media∣tor
+ between the King and the Peo∣ple, and to preserve the one from the 
+Tyranny
+ of the other, is now it self enforced to bow and crouch to the 
+Kings Will:
+ For now they dare not make those Remonstrances, which formerly they did, nor plead
+
+ as before in behalf of the 
+People.
+ Or if they are permitted to make any 
+Addresses
+ of that Nature, they must be full of 
+Flattery
+ and 
+Dissimulation;
+ and as some Parents humble their Children to kiss the Rod after Cor∣rection; so it behoves the People, who are the Kings Children, or should be so at least, to thank the King by the Mouths of their 
+Magi∣strates,
+ for all the Taxes and hea∣vy Impositions, which he lays up∣on them to satisfy his profusion.
+
+
+Upon this 
+Authority,
+ which the 
+Parliament
+ has in the Kingdom it was, That the King laid the Foun∣dation of an approaching War. In a Word, the King of 
+Spain
+ was not sooner dead, but presently there appeared a small 
+Pamphlet,
+ under the Title of 
+The Rights of the Queen,
+ by
+
+
+
+
+
+
+
+
+
+ which they endeavoured to prove, that the Renunciation of all Claims which the King had made by the 
+Pyrenaean
+ Treaty was utterly void, because it was never verifyed by the 
+Parliament.
+ And yet if the 
+Renun∣ciation
+ had been good, which they did not much matter to dispute, it could not have been long in force, by reason that the 
+Dauphin
+ had not ratifyed the Treaty, who might pretend a greater Interest as being his 
+Mothers
+ Heir. In truth, this 
+Pam∣phlet
+ was nothing but a Composure of Words well put together, con∣teining very little or no reason. For to begin with the first, true it is, That the 
+Parliament
+ were wont to ratify the most remarkable Acts of the 
+Kingdom,
+ but that such a 
+Ratifi∣cation
+ was absolutely Essential is
+
+ that which we deny, and which I shall endeavour to prove: For Ex∣ample, if the King happens to marry with any 
+Foreign
+ Princess, the 
+Parliament
+ has nothing to do with the 
+Contract:
+ Nor do we find, that the 
+Parliament
+ had any knowledg of that between 
+H.
+ 4. and 
+Marie Medi∣ci;
+ or which is still fresh in 
+Memory,
+ of the 
+Marriage
+ between the 
+Dau∣phin
+ and 
+Madam
+ the 
+Dauphiness.
+ And yet the 
+Affairs
+ transacted were as important, as perhaps the Kings 
+Renunciation
+ made by the 
+Pyrenaean
+ Treaty: But some perhaps will ob∣ject, That the Case is far different; For in a 
+Treaty
+ of Peace is stated and handled the Establishment of the Peoples Peace; whereas in a Trea∣ty of 
+Marriage
+ there is nothing transacted, but the Concern of two
+
+ 
+Persons.
+ I confess the reason seems plausible but easie to refute: For if it be in respect of the Peoples In∣terest that a Treaty of Peace ought to be ratifyed by the 
+Parliament,
+ why are not the 
+Treaties
+ of 
+War
+ ratifyed in the same manner? They will have a Treaty which exterminates War, and restores Peace to a King∣dom, instead of Trouble and Con∣fusion that Reigned there before, to be subject to a 
+Parliamentary
+ Ratifi∣cation; but they will not have a Treaty of 
+War,
+ that banishes Peace, and brings in Disorder and Confu∣sion to be ratifyed by 
+Parliament,
+ which nevertheless was instituted to no other end than the Preservation of the People. Let us rather say, that the Custom of verifying 
+Trea∣ties
+ of Peace in this manner was not
+
+ introduced, till after it was ordain∣ed, that all the Royal Benevolences should be ratifyed in 
+Parliament,
+ and that such as were not so verifyed, should be of no value, which was done to prevent Princes who are generally prone to profuse Libera∣lity, from giving away all their Pa∣trimony, and being afterwards ob∣lig'd, for want of Money to vex the People. Let us grant then say I, that the Parliament, setting that by some Treaties of Peace, consi∣derable Alienations were made from the Crown, chiefly under 
+John
+ the 
+First,
+ to free himself out of the hands of the 
+English;
+ and af∣terwards under 
+Francis
+ the 
+First,
+ to deliver himself out of the hands of the 
+Spaniards,
+ had Authority given them to verify Treaties of Peace,
+
+ to prevent the Distipation of the Crown Revenues. But their Au∣thority is yet greater, when it shall be a Law received in 
+France,
+ that the Parliament may vacate Treaties which are not verifyed, that is to say, if the Treaties were not made in due Form, or were found preju∣dicial to the People.
+
+
+But it cannot be said, that 
+France
+ receiv'd any prejudice by the 
+Pyre∣naean
+ Treaty, or that the Treaty was not concluded with all the u∣sual Formalities. In respect of 
+For∣malities
+ there were so many observ'd as took up much more time than was necessary for the Repose of the People, who after so tedious a War, thirsted after nothing so much as Peace; nor was it enough that 
+De Lionne
+ and 
+Pimentell
+ set their
+
+ hands to the Treaty, but to render it more solemn; Cardinal 
+Mazarine
+ and 
+Lewis de Haro,
+ the Principal Ministers of both Crowns, were oblig'd to sign it also, so that we may say that it was the most 
+Authentick Treaty
+ that had been con∣cluded in a long time before. Be∣sides, they had observ'd all the Cir∣cumstances imaginable, insomuch that the place appointed for the Conferences, was neither in 
+France
+ nor in 
+Spain,
+ which nevertheless is very remarkable: For that then they were willing, that 
+Spain
+ should go cheek by jowle with 
+France;
+ yet afterwards they would not allow that the 
+Treaty
+ had been ratify'd: But that which seemed to put the Treaty not only out of the King's but out of the reach of all 
+France
+
+
+ to do it Injury was that the chiefest of the 
+Clergy
+ and 
+Nobility
+ had sign'd the 
+Contract
+ of 
+Marriage
+ between the King and the 
+Infanta,
+ wherein the aforesaid 
+Renunciation
+ was con∣tain'd. So that it was an idle thing to say that the 
+Parliament,
+ which at most does but represent the Or∣ders or Estates of the Kingdom would not approve a Treaty, which was already approv'd by the 
+King,
+ the 
+Clergy
+ and the 
+Nobili∣ty.
+
+
+Now that this 
+Treaty
+ brought no prejudice to 
+France
+ is as easie to prove: For though 
+France
+ at that time had a great advantage over 
+Spain,
+ we must consider neverthe∣less, that this advantage might one day turn against it self, as being ob∣lig'd to share it's 
+Conquests
+ with 
+Eng∣land,
+
+
+ then in 
+Alliance
+ with her. Now not to mention in the least what are the dangerous 
+Consequences
+ that I could draw from such a 
+Partition,
+ it shall suffice to say, That the 
+Interest
+ of 
+France
+ was not to let the 
+English
+ get Footing in 
+Flanders,
+ who were an Enemy much more dangerous than the 
+Spaniard.
+ Besides, 
+France
+ by that Treaty had made sure of the greatest part of Her 
+Conquests,
+ and had changed into a certain 
+Right
+ the 
+Right
+ of 
+Nations,
+ which was a 
+Right
+ subject to several 
+Chances
+ of 
+Fortune;
+ and then to object that the 
+Dauphin
+ had not ratify'd the Queens 
+Renunciation
+ is an Objection so weak that it does not deserve an 
+Answer:
+ For I wouln fain know, whether a 
+Father
+ and a 
+Mother
+ do not bind their 
+Issue
+ when they sign a 
+Contract?
+ And
+
+ whether the 
+Dauphin
+ had more 
+right
+ to question that which the 
+King
+ and 
+Queen
+ had sign'd, than they who live under the same Laws and the same 
+Monarchy.
+
+
+All these 
+Considerations
+ give us plainly to see that whatever of 
+Right
+ belonging to the Queen was in the 
+Treaty,
+ was only to amuse the 
+Common People,
+ and particularly those of 
+Flanders,
+ who being per∣swaded that the 
+Queen
+ had a 
+Right
+ to the 
+Netherlands,
+ were in a capa∣city to foment a 
+Rebellion,
+ to which they might be provok'd by the ill 
+Usage
+ of the 
+Spanish Soldiery,
+ who for want of 
+Pay,
+ commit many 
+Vio∣lences
+ and 
+Disorders.
+ It being there∣fore a great piece of 
+Prudence
+ to prevent all Trouble that might a∣rise from thence, the Baron of 
+Iso∣la,
+
+
+ one of the Ministers of the House of 
+Austria,
+ put Pen to Pa∣per, to shew the Vanity of the Consequences, which the preten∣ded Author of the 
+Treatise
+ drew from the 
+Right
+ of the 
+Queen.
+ Of which a great number of 
+Copies
+ were sent into 
+Flanders, Germany
+ and the 
+Neighbouring Parts;
+ some were also conveyed into 
+France;
+ but the Court resolving that the People should make it's 
+Ambition
+ an 
+Article
+ of their 
+Faith,
+ made such an exact 
+Enquiry
+ after the 
+Publishers
+ that two or three were committed to the 
+Ba∣stile,
+ and were in great danger of their Lives. For as it was not law∣ful in that Kingdom to write 
+Truth,
+ either in 
+Religion
+ or 
+Politicks,
+ neither was it permitted to be spoken or taught to any one whatsoever. And
+
+ therefore as well they who bought the 
+Book,
+ as they who published these 
+Books
+ were oblig'd to keep out of the way, as if they had been 
+Malefactors.
+ But the more they thought to restrain the Peoples Wills, the more the People endea∣vour'd to set their minds at Liber∣ty, so that many honest Folks made it their business to content their 
+Cu∣riosity,
+ in spight of all the 
+publick Prohibitions.
+
+
+By vertue of these 
+Imaginary Pre∣tensions
+ the King fail'd not to send to the 
+Governour
+ of the 
+Netherlands
+ to surrender into his hands those 
+places,
+ which, as he pretended, belong'd to the 
+Queen.
+ And because he could not choose but know, that the 
+Go∣vernour
+ would no way answer his 
+Expectations,
+ he follow'd the 
+Mes∣senger
+
+
+ with a puissant 
+Army,
+ to make himself the Master of them by force; thereupon, having received the 
+Go∣vernors
+ Answer, that the 
+King
+ his Master would fairly part with no∣thing, he enter'd 
+Flanders,
+ took 
+Char∣leroy, Aeth, Courtray, Audenard
+ and 
+Lisle,
+ while the Marshal 
+D'Aumont
+ with another Army attack'd the 
+Cities
+ and 
+Towns
+ that lay nearer the Sea.
+
+
+These 
+Conquests
+ carried on with such a 
+rapid Success,
+ astonish'd the 
+Neighbouring States,
+ who thought it their 
+Interest
+ to stop these 
+violent Pro∣ceedings;
+ especially the 
+Low Countries,
+ who by no means liked the near 
+Ap∣proach
+ of so formidable and ambi∣tious a 
+Neighbour:
+ Therefore they engaged the King of 
+England
+ to en∣ter into a League, wherein the King
+
+ of 
+Swedeland
+ also joyn'd, by which they obliged themselves all three, to make the 
+French
+ and 
+Spaniard
+ lay down their Arms, with a Resolu∣tion to declare a War against the obstinate Refuser.
+
+
+This 
+League
+ was call'd the 
+Triple Alliance,
+ afterwards so fatal to 
+Hol∣land,
+ as I shall relate in due Place, that it may be thought they had reason enough to repent their Ne∣gotiation. They say it was a Per∣son of 
+Rochel,
+ who laid the first Foundations of it, after he had made those 
+Powerful Princes
+ deeply sensi∣ble, how little the 
+Ambition
+ of 
+France
+ was to be trusted; however it were, 
+France,
+ who seldom easily pardons those that have once offen∣ded her, well knowing that the same Person was in 
+Switzerland,
+ la∣bouring
+
+ to insinuate the same Opi∣nion among the 
+Cantons,
+ sent thi∣ther the two 
+Platells,
+ of which the Eldest was a Captain of Horse, the other Esquire to 
+Monsieur Turenne,
+ to apprehend him. It had been a knot∣ty 
+Enterprize
+ and of dangerous con∣sequence for the 
+Platells,
+ had their 
+Errand
+ been discovered in 
+Switzer∣land.
+ But being so cunning as to car∣ry their business private, and to sur∣prize the Person, as he passed from one City to another, they carry'd him into 
+France,
+ where he was bro∣ken alive upon the Wheel, after he had endeavour'd to escape the Tor∣ments of his Execution, by an A∣ction more resolute than 
+Christian-like:
+ For having found in the hole of the 
+Prison,
+ where he lay a piece of 
+Glass,
+ he cut off his 
+Privy Mem∣bers,
+
+
+ and hid them under the Bed, that the 
+Jaylor
+ might not know what he had done: but in regard he could not stanch the blood so well but that some drops would fall from the wound, besides that his Colour plainly shewed that something more than ordinary ailed him, the Jaylor would see whence the Blood came: So that after a short search having found, what was hidden under the Bed, all in a puddle of Blood; he went and gave the 
+Jud∣ges
+ notice of it, who being resolv'd to make him a publick 
+Example
+ ha∣sten'd to give Sentence. Thereupon they condemn'd him to be broken upon the Wheel, and fearing he might not have strength enough to be carry'd to the common place of Execution, or that he might dye,
+
+ if they delay'd till the Afternoon, Order was given for the immedi∣ate Erecting of a Scaffold before the 
+Prison-door,
+ and for his speedy 
+Execution.
+
+
+The 
+Triple Alliance,
+ which 
+France
+ did not foresee, astonish'd her so, that altho she had promis'd her self the 
+Conquest
+ of the greatest Part of all 
+Flanders,
+ she was oblig'd never∣theless to lay down her 
+Arms;
+ not but then she had an 
+Army
+ on foot of above a 
+Hundred Thousand Men,
+ but in regard that 
+England
+ and 
+Holland
+ made great 
+Preparations
+ by 
+Sea,
+ and that she had no 
+Fleet
+ was able to re∣sist two such 
+potent Enemies,
+ she was afraid, least the 
+English
+ and 
+Hol∣landers,
+ while her 
+Forces
+ were im∣ployed in 
+Flanders,
+ might land either in 
+Normandy
+ or 
+Britainy,
+ and strike
+
+ a panick Terror into the heart of his 
+Kingdom.
+
+
+France
+ having thus made a 
+Peace,
+ as it were by 
+Constraint,
+ she plotted nothing more, than to revenge her self upon those, who had contri∣buted most effectually toward it. Now it being apparent that the 
+U∣nited Provinces
+ had been most active upon that occasion, and that all 
+Eu∣rope
+ owed the 
+Peace
+ which it enjoy'd to 
+Them,
+ it was their 
+Lot
+ to feel the weight of his 
+Fury;
+ yet was she careful to watch her 
+Opportunity
+ be∣fore she brake forth into an open 
+Blaze
+ of 
+Revenge:
+ For 
+Holland
+ be∣ing as yet in League with 
+England
+ and 
+Swedland,
+ therefore there must be a way found out to divide her from two such 
+Potent Friends,
+ who being 
+United
+ were still sufficiently
+
+ powerful to disappoint all the 
+French
+ Designs: Which as 
+France
+ had still watch'd to bring to pass, it was not long before an Opportunity offer'd it self, by reason of an unhappy 
+difference
+ between the 
+English
+ and 
+Dutch
+ about 
+Trade.
+ Nor did 
+France
+ then take any care as she had for∣merly done, to offer her Mediati∣on, to close up the breach between the 
+Two Nations,
+ but on the contra∣ry used all means to incense the King of 
+England,
+ yet underhand set on foot a 
+Treaty
+ with the 
+Hollan∣ders,
+ least they should have any thoughts of making 
+Peace
+ with 
+Great Britain.
+ The 
+Hollanders,
+ who had often prov'd the good Effects of the 
+French
+ Succours, when they had any quarrel with 
+England,
+ be∣liev'd they would be still as effectu∣al;
+
+ depending upon the 
+King
+ of 
+France,
+ who ceased not to amuse 'em with daily hopes: But while they were thus as they thought, upon a conclusion with Him, to oppose the King of 
+England,
+ who was making powerful 
+Preparations
+ a∣gainst 'em by 
+Sea,
+ they were not a little surpriz'd to find that the two 
+Princes
+ were joyn'd both together, and that while the 
+English
+ attack'd 'em by 
+Sea,
+ the 
+French
+ were to fall upon them by Land, and that with a Force so numerous and dreadful, that the Memory of 
+History
+ had not Parallel'd the like out of 
+France
+ in a long time: And then it was that the 
+United Provinces
+ found them∣selves in a strange 
+Disorder;
+ for tho they wanted neither 
+Ships,
+ nor 
+Mo∣ney,
+ yet had they not an 
+Army
+ suf∣ficient
+
+ to oppose the King of 
+France
+ who had brought his Forces alrea∣dy into the 
+Country
+ about 
+Cologne,
+ from whence he intended to make the Attack.
+
+
+In the midst of these 
+Troubles
+ to levy Men in 
+Holland,
+ was look'd upon as a Remedy that would but little avail; when Peace enjoy'd for so many years had render'd the 
+People
+ more fit for 
+Trade
+ than 
+War;
+ raw 
+Souldiers
+ not being proper to make resistance against inur'd and hardy 
+veterans:
+ Therefore the 
+Hol∣landers
+ sent into 
+Germany
+ to raise 
+For∣ces,
+ and to treat with those 
+Princes
+ from whom they expected aid; but all 
+Europe
+ was so astonish'd at the prodigious 
+Army
+ and 
+Preparations
+ of 
+France,
+ that every one kept his own Force at home, out of a Jealousie,
+
+ least 
+France,
+ under a pretence of as∣sailing the 
+Low Countries,
+ should break into 
+Germany.
+
+
+The 
+Hollanders
+ at that time had no more than 
+Five and Twenty Thou∣sand Men;
+ for tho they had given out 
+Commissions
+ to all that proffered their Service, yet they could rec∣kon upon none but those that were drawn down to the general 
+Rende∣vouze.
+ But that which yet enfeebl'd their 
+Condition
+ the more was, that 
+De Wit,
+ the 
+Pensionary
+ of 
+Holland,
+ had always kept the Prince of 
+Orange
+ at a distance from the Management of 
+Affairs;
+ and therefore being a better 
+Politician
+ than 
+Souldier,
+ yet one who would have a hand in every thing, the main business was car∣ried with much 
+Disorder
+ and 
+Confu∣sion.
+ There was also one thing more
+
+ which very much contributed to the 
+Ruin
+ of the 
+State,
+ tho at that time not discovered, which was that the King of 
+France
+ had Intelli∣gence of every thing that was act∣ed in the Country by means of 
+Mombas,
+ then in the Service of the 
+Republic,
+ which had given him a considerable 
+Command
+ in the 
+Army:
+ He was a 
+Frenchman
+ born, so that he was easily gain'd to the King, by the 
+Industry
+ of 
+Des Roches
+ Captain of the Prince of 
+Conde
+'s Guards, and his near 
+Relation,
+ and who had prevail'd with him to take a Jour∣ney into 
+France
+ the Winter before, where he had been discoursed with by 
+Monsieur
+ the 
+Prince.
+
+
+This Conjuncture of 
+Accidents
+ had been sufficient to have utterly ruined the 
+State,
+ according to hu∣mane
+
+ probability, had not God determin'd the contrary. At what time, the King of 
+France
+ being rea∣dy to enter the Country, the 
+States
+ assembled together to consider of the best way for the 
+Defence
+ of their 
+Dominions:
+ Monsieur the 
+Prince
+ of 
+Orange,
+ who maugre all the shuf∣fling and juggling of 
+De Wit,
+ was chosen 
+Captain General
+ for the 
+States,
+ advis'd the quitting of all the Pla∣ces above the 
+Rhine,
+ to put in 
+Ten Thousand
+ Souldiers into 
+Maestrick,
+ and to encamp with the rest at 
+Bode∣grave,
+ as being a most advantage∣ous Post to secure 
+Holland.
+ Monsieur 
+D' Opdam
+ and 
+Celidrek,
+ who spake in the behalf of the Nobility, were of the same Opinion; but the rest being of a contrary 
+Judgmeni,
+ it was resol∣ved that they should hold all the se∣veral
+
+ Places beyond the 
+Rhine,
+ which nevertheless they very much weaken'd by draining those Garri∣sons to supply 
+Maestrick.
+
+
+In the mean while, the King ha∣ving lain for some time before 
+Charleroy,
+ march'd in view of 
+Maes∣trick,
+ and stay'd some 
+Twelve
+ or 
+Fifteen
+ Days before 
+Wise,
+ a small Town in the Territory of 
+Liege,
+ in∣to which he clapt a 
+Garrison;
+ there having received 
+Intelligence
+ from 
+Mombas,
+ that all the Towns above the 
+Rhine
+ were slenderly mann'd, and almost naked of Defence, he pass'd the 
+Meuse
+ at 
+Wise,
+ and after he had beaten off certain Troops that were advantageously posted, he sate down before 
+Orsoy
+ with a for∣mal 
+Siege.
+ The 
+Governor
+ wanted no Courage, but in regard the 
+Town
+
+
+ was neither strong of it self, nor sufficiently 
+Garrisoned,
+ he surren∣dred his 
+Charge
+ the day following. The 
+French
+ plunder'd the 
+Town,
+ and hang'd up all those of their own Nation that they found in Arms, and among the rest one Man that was 
+Threescore
+ and 
+six
+ years of 
+Age,
+ who was the chief Canonier in 
+Or∣soy.
+ From thence the Army mar∣ched to 
+Rhineberg,
+ which 
+Dossery
+ surrendr'd without striking a stroak. For which not long after the Prince of 
+Orange
+ caus'd his Head to be se∣ver'd from his Shoulders. Nor did the Governor of 
+Wesel
+ make a Re∣sistance much more to his Honour; though the Place was able to have sustained a long 
+Siege,
+ who surren∣dred it to the Prince of 
+Conde
+ after and Entrenchment of two or three
+
+ days. Whose 
+Punishment
+ therefore though not so severe as 
+Dossory
+'s, was something like it: For the Hangman skimm'd his Sword o∣ver his Head, but spar'd him his Ig∣nominious Life. 
+Buric
+ was at the same time taken by Marshel 
+Tu∣renne.
+ After which the Prince of 
+Conde
+ advanc'd into the Country, and took in 
+Deudetrom, Rees
+ and 
+E∣meric
+ with the same 
+Ease
+ that he ma∣ster'd other Places.
+
+
+These Victories though they cost but little Blood, gave the King of 
+France
+ the Reputation of a 
+Caesar
+ in his Army. For they saw that he might say like Him, 
+I came, I viewed and vanquished,
+ Therefore to uphold the Glory he had won, he resolved to pass the 
+Rhine,
+ as formerly that 
+Emperor
+ had done; but he would
+
+ pass it after a more Noble and He∣roick Manner: For 
+Caesar
+ had pass'd it by the means of a 
+Bridge,
+ but he was resolv'd to swim it over.
+
+
+Two Gentlemen of the 
+Country,
+ Neighbors to 
+Tholus,
+ whose Names I cannot well remember, came to the Prince of 
+Conde
+ at 
+Emeric,
+ and offer'd to shew him a 
+Place,
+ where he had but an hundred 
+Paces
+ to swim. He gladly accepted their Of∣fer, which made the 
+French
+ now look upon themselves at the End of their 
+Conquests,
+ in regard the 
+Issel
+ stopped their Entrance into the 
+Country,
+ not only because of its depth, but also by reason the Ene∣my lay strongly entrench'd on the other side of the 
+River.
+ Thereupon the Prince of 
+Conde,
+ having high∣ly caresses'd the two 
+Gentlemen,
+ and
+
+ promising them large 
+Reward's
+ commanded the Count 
+de Guiche
+ to go along with them, to try whe∣ther or no he might confide in what they had said; immediately they carried the Count right against 
+Tho∣lus,
+ and throwing themselves first into the Water, the Count follow∣ed with his Squire, while his 
+Par∣ty
+ stayed behind by the 
+River
+ side: Upon this 
+Tryal
+ finding that the Gentlemen had spoken nothing but what was 
+Truth,
+ the Count return∣ed and made his 
+Report
+ to the 
+Prince,
+ who sent the 
+King
+ an Account of what had happened, adding withal, if he pleased to take the 
+Honour
+ of the 
+Enterprize
+ upon himself, how ea∣sie it would be for him to surprize the 
+Enemy,
+ who little mistrusted a∣ny such 
+Discovery,
+ and minded no∣thing
+
+ but to guard the 
+Issel.
+ The 
+King
+ eager in the 
+Chase
+ of so much 
+Honour,
+ flew to the 
+Prince
+ of 
+Conde
+'s Camp, and after he had supped with him, marched all night along the 
+Bank
+ of the 
+Rhine,
+ and arrived at the Place about half an hour be∣fore day.
+
+
+In the mean time the 
+Prince
+ of 
+O∣range,
+ who found more fidelity a∣mong the 
+Meaner
+ Sort than among the 
+Nobility,
+ being advertized by the 
+Boors,
+ who saw the 
+French,
+ when they sounded the 
+Depth
+ of the 
+River,
+ that the 
+King
+ had some 
+Design
+ on the other side, sent thither 
+Mombas
+ with the 
+Cavalry
+ and 
+Infantry. Mom∣bas
+ had already forfeited his 
+Honour
+ by keeping Correspondence with the Enemy, but tho this Opportu∣nity was no less favourable for him
+
+ to continue his 
+Treacherous
+ Designs, was afraid, that for want of being known, he might run some hazard in the 
+Conflict,
+ bethought himself of writing to the 
+Deputies
+ of the 
+States,
+ who attended the Prince of 
+Orange;
+ and thereupon sent them a fair Sto∣ry that there was no Likelyhood, that the 
+French
+ had any Design to pass the River, and that therefore, if they thought good, he would put himself into 
+Nimeghen,
+ whither it was most probable that the 
+French
+ intended to march: He took his Time to send this Letter when the Prince was absent from the Camp with a 
+Detachment;
+ so that the 
+De∣puties
+ not having the least 
+Mistrust
+ of his 
+Fidelity,
+ and believing the Care of 
+Nimeghen
+ to be of greater Con∣sequence, sent him Orders to march
+
+ thither. The Prince of 
+Orange
+ re∣turning to the Camp, was strangly surprized, to hear what 
+Mombas
+ had done, and being now confirmed by this last 
+Action
+ of his, in some for∣mer 
+Suspitions
+ he had of his being a 
+Traitor,
+ caused him to be 
+Arrested.
+
+
+Which done, he commanded 
+Wortz
+ a 
+German,
+ whom the 
+Repu∣blick
+ had taken into their 
+Services
+ to march with all speed to 
+Tholus,
+ with some Companies that were drawn out of the 
+Army. Wortz
+ did all he could to hasten his 
+Entrenchments,
+ and order'd the 
+Cavalry
+ to advance to the side of the 
+River.
+ Whither the 
+King
+ being also arriv'd, caused several Pieces of Canon to be brought and levell'd against 
+Wortz
+'s Cavalry, who thereupon retired among the 
+Trees
+ that grew by the
+
+ banks side. In the mean time the 
+French
+ threw themselves into the 
+River,
+ where they lost abundance of Men, who were swallowed up in a Gulf, which others observing took the advantage of the left hand and forded over like 
+Cowes,
+ one at the 
+Tayl
+ of the other.
+
+
+Wortz
+ his 
+Cavalry
+ beheld the E∣nemy passing the 
+River,
+ without so much as giving the least Ground, till they saw some of the 
+French
+ Horse that were passed the River, begin to Form themselves into a Body. And then indeed they pre∣sently drew out from among the Trees, but they were so far from endeavouring to repel the Enemy, who were retired back into the Wa∣ter, that they stopped at the River side, from whence they discharged
+
+ a Volley of Shot, but at such a di∣stance, as did little or no Execution. Which 
+Cowardise
+ of theirs put Life into the 
+French,
+ who had they been vigorously pursued into the Water, would never have adventured to make head again, or to have made a stand till more assistance came to their Relief. So that as soon as they found themselves strong enough to march against the 
+Dutch
+ Horse, who still kept their Station without mo∣ving, they marched out of the Ri∣ver with their Swords in their hands and put the 
+Dutch
+ to flight. Thus 
+Wortz
+'s Cavalry having fordidly gi∣ven ground, the 
+French
+ rallyed and grew stronger and stronger by the 
+Addition
+ of more Force; the 
+French
+ continually passing the River, some wading, others in 
+Boats.
+
+
+
+
+Mounsieur
+ the Prince of 
+Conde,
+ also having put himself into a Boat with the Duke D' 
+Angion,
+ and several o∣ther great Personages of the Court, was got near the opposite Shore, when he perceived that 
+Monsieur de Longueville,
+ having thrown him∣self into the River, was very near drowning, so that he was forc'd to return back, to take him into the Boat; but then speedily recovering the other side, he was no sooner landed but he drew up his Forces into 
+Battalia,
+ to attack the Enemies Entrenchments. The 
+Dutch Infantry
+ seeing but little security in their slender Works, and on the other side having put all their confidence in their 
+Cavalry,
+ by which they saw themselves now totally abandoned, took more care to crave quarter,
+
+ than to make any resistance, which Monsieur the Prince of 
+Conde
+ offe∣red them, crying out aloud to them to lay down their 
+Arms:
+ All this while the 
+French
+ advanced forward without so much as discharging a Gun on either side, so that the 
+King
+ of 
+France,
+ who saw all that passed, thought himself sure of a 
+Victory
+ that would cost no 
+Blood:
+ But Mon∣sieur 
+de Longueville,
+ who had been drinking hard at 
+Emeric,
+ advancing up to the 
+Trenches,
+ let fly a 
+Pistol,
+ so that the 
+Hollanders,
+ not a little asha∣med that they had forborn so long, and believing now there was no 
+Quarter
+ to be expected, returned in answer to the Dukes 
+Pistol
+ such a smart Volley, that many of the most considerable of the Enemy were fetched off their 
+Horses.
+ Mon∣sieur
+
+ 
+Longueville
+ who began the skir∣mish was killed outright, the Prince of 
+Conde
+ wounded, with many o∣thers too long to 
+Catalogue.
+
+
+The 
+French
+ at first astonished at this unexpected 
+Accident,
+ having re∣covered themselves from their 
+Fears
+ rallyed again and fell upon the 
+In∣trenchments,
+ where they found some 
+Resistance;
+ especially at a 
+Barricado,
+ where stood a grey haired Officer, but one who notwithstanding his Years, shewed a Courage becom∣ing the 
+Prime
+ of vigorous 
+Youth;
+ but at length being overlaid with num∣ber, the rest betook themselves to flight, without demanding 
+Quar∣ter,
+ which they thought would but be in vain.
+
+
+The 
+French
+ having now no Ene∣my to fight, pillaged the 
+Castle
+ of
+
+ 
+Tholus,
+ and put the Island of 
+Bet∣taw
+ under 
+Contribution.
+
+
+Nor was this the only advantage which they gained by their Passage over the 
+Rhine;
+ for the 
+Hollanders
+ fearing least the Enemy should come upon their backs, forsoke the 
+Issel,
+ and retreated to 
+Utrech,
+ where the People would have 
+Sacrificed Mombas
+ to their Fury, upon whom they laid all the blame of what had happened: But Monsieur the 
+Prince
+ of 
+Orange,
+ though he knew he de∣served Death, but was willing to have him first examined, if not put to the Rack, to the end he might understand the depth of his Trea∣son, gave Order that he should be conveyed through a 
+Postern,
+ and hid in a 
+Hay-loft,
+ to preserve him from the Rage of the People. In the
+
+ mean while the King in Person took the City of 
+DOESBERGH,
+ and Monsieur 
+Turenne
+ took in 
+Ni∣meghen, Zuoll, Deventer, Graves, Arn∣heim,
+ the Fort of 
+Skink, Creveceur
+ and several other Places.
+
+
+Utrech
+ also fell into the hands of the 
+French,
+ without the 
+Constraint
+ of a Siege: For while the King lay be∣fore 
+Doesbergh,
+ the 
+Burgher-Masters
+ of the Town carryed him the Keys, as if they had been afraid they should not have a new Master soon enough. Thereupon the 
+Marquiss
+ of 
+Rochford,
+ in good reputation at 
+Court
+ was sent thither to command in chief: But not having as yet much Experience in War, he omit∣ted to make himself Master of 
+Mai∣dam
+ which the 
+Dutch
+ had quitted; by the possession of which they had
+
+ assured themselves of 
+Amsterdam:
+ For had they been 
+Masters
+ of 
+Mai∣dam,
+ it had been an easie thing to hinder any Vessels from going in or out from 
+Amsterdam;
+ for that they were to pass by 
+Maidam,
+ which they durst not have attempted, if the 
+French
+ had been Masters of it; which had been the way to have compell'd 
+Amsterdam
+ to have sur∣render'd of it self, as 
+Utrech
+ had done: Not but that if the King himself had appear'd before the Walls, they had certainly carryed him the 
+Keys;
+ in regard that such was the general Despair, that every one thought of nothing else but to save his own Family, not minding the publick Interest of their Coun∣try: So that without expecting a Summons from the King, they held
+
+ a 
+Councel
+ in the City, and debated whether they should not go to meet the King, and beseech him to take as well the City as the Inha∣bitants into his Protection, and it was an 
+even Lay,
+ but that they had taken that 
+Resolution,
+ had not two 
+Burghermasters,
+ whose Memories ought to be Sacred to Posterity, and whose Names were 
+Offte
+ and 
+Hassenar,
+ encouraged the rest to pluck up good hearts, and ra∣ther to call the Sea to their 
+Assistance
+ which was a more certain remedy, when they should be reduced to the last 
+Necessity
+ than to receive the 
+French.
+
+
+After the King had taken the Ci∣ty of 
+Doesbregh,
+ he encamped be∣fore 
+Zeist,
+ two Leagues from 
+U∣trech,
+ where he was attended by the
+
+ 
+States
+ Embassadors with 
+Propositions
+ of 
+Peace,
+ but he being swell'd with the 
+Suecess
+ of his 
+Arms,
+ propoun∣ded such rigorous 
+Conditions,
+ that the 
+Embassadors
+ were forced to re∣turn without being able to accom∣plish their 
+Desires.
+ Nevertheless, when they arriv'd at the 
+Hague,
+ the 
+States
+ resolved to send them back again, for that their 
+Affairs
+ were then in such a desperate 
+Condition,
+ that they thought themselves hap∣py, that they could be thought to accept of any manner of 
+Conditi∣ons.
+
+
+There was yet another 
+Difficulty
+ in the 
+Treaty;
+ for that the King would conclude nothing without the King of 
+England,
+ who finding the 
+Conjuncture
+ favourable, was no less severe in his 
+Demands.
+
+
+
+
+The 
+States
+ Embassadors being returned to 
+Zeist,
+ and finding there the 
+English
+ Embassadors likewise, proposed a 
+New Treaty,
+ but very difficult to conclude: For besides that the 
+French
+ would not remit any thing of their 
+former Pretensions,
+ the 
+English Proposals
+ ran so high, that it had been the 
+Ruine
+ of the 
+State
+ to have agreed them. 
+France
+ deman∣ded a 
+Medal
+ every year, by way of 
+Tribute,
+ with all the 
+Expences
+ of the 
+War,
+ which amounted, according to their 
+Accompts,
+ to a prodigious 
+Sum. England
+ demanded 
+Possession
+ of the 
+Indits,
+ and so many other things which appertained to the 
+Republick,
+ so that the 
+States
+ had as good have abandoned all, as to conclude a Treaty so disadvanta∣geous. The 
+States
+ being advized of these
+
+ things by their Embassadors, who were returned from 
+Zeist,
+ resolv'd to break down their 
+Dams,
+ which was their last 
+Remedy
+ upon the ut∣most pinch of 
+Necessity:
+ But that which made them take this 
+Resolu∣tion
+ so much the sooner, was this, that the People, laying all the blame of their Misfortunes upon those who managed the publick 
+Affairs,
+ had massacred the 
+Pensionary
+ of 
+Hol∣land
+ together with his Brother, ho∣ping that the Face of 
+Affairs
+ would change upon the 
+Change
+ of 
+New Ma∣sters.
+
+
+These Extremities causing the 
+States
+ to break up their Dams, gave them leisure to think and consider of their 
+Affairs:
+ Whereupon they sent to the Princes of 
+Germany
+ the 
+Propositions
+ of 
+Peace
+ which both
+
+ Kings had made them, thereby to prepossess their minds, with what they began already to harbour, as touching the 
+Ambition
+ of 
+France:
+ They laid before them the sad con∣dition to which they were reduced, and that if they delayed their 
+Suc∣cour
+ any longer, it would be too late, when they had a desire to do it. That their present 
+Safety
+ was in the Water, which could not al∣ways secure them. That when the Winter came the 
+French
+ would march over the 
+Ice
+ to storm their Walls: So that if they could not resist when the 
+Provinces
+ were en∣tire and flourishing, there was lit∣tle likelyhood they should now withstand so potent an 
+Enemy,
+ when they were fallen from their 
+ancient
+ Reputation.
+
+
+
+
+These 
+Remonstrances,
+ of which they could not doubt the 
+Truth,
+ con∣sidering the lamentable 
+Condition
+ of the 
+Republick,
+ mov'd the 
+Emperor
+ to pity, as also the Marquiss of 
+Bran∣denburgh,
+ and several other Princes of the 
+Empire:
+ The Marquiss of 
+Brandenburgh,
+ as being the most po∣tent, was the first that took the field for their 
+Relief:
+ So that the King knowing that he had now to deal with a Prince stout, resolute and a try'd Souldier, rais'd his Camp from before 
+Zeist,
+ and returned toward 
+France.
+ But before his departure he resolved to try to make himself Master of 
+Boysleduc,
+ which was block'd up upon one side by the Garrison of 
+Creveceur
+ on the other by that of 
+Endoue Bois le duc,
+ is a 
+Town
+ seated in the midst of a Marsh, but
+
+ notwithstanding the strength of its Scituation, the Fortifications are but weak. Nevertheless there is a Cittadel on that side next to 
+Hol∣land,
+ with two Forts on the other side next 
+Maestricht,
+ which however would signifie little, did not the Situation render it almost inaccessi∣ble. The King took up his Head Quarters at 
+Boustel,
+ but while he was preparing all things for a seige, God who had began to take 
+Hol∣land
+ into His 
+Protection,
+ sent such continual 
+Rains
+ for four or five days together, so that the Country being Level was immediately all under Water, as if the Sluces had been opened. The King however ho∣ping for hard 
+Weather,
+ stop't at 
+Bockstel
+ for eight or ten days, but finding the 
+Weather
+ continue bad,
+
+ he Discamped and returned Home.
+
+
+And now the Prince of 
+Orange,
+ who after the Death of the Pensio∣nary, had the sole Authority of command conferred upon Him, seeing the People in some sort of Repose upon the Retreat of the King of 
+France,
+ bethought himself of giving them yet further Con∣tent by the Punishment of 
+Mombas;
+ whose Head they eagerly demand∣ed. He had been conveyed from 
+Utrick
+ to 
+Wordes,
+ and from 
+Wordes
+ to 
+Nieurburk,
+ whether the 
+Dutch
+ Ar∣my was retired. Thereupon the Prince of 
+Orange
+ call'd a 
+Counsel of War,
+ and began to examin the bu∣siness, which appear'd every day more foul than other; at length his 
+Conscience
+ not permitting him a∣ny rest, and giving himself for lost,
+
+ he began to think of making his e∣scape, which nevertheless was a difficult thing to do, by reason he was very strictly guarded, having 
+Sentinels
+ at his 
+Chamber Door,
+ and un∣der the Windows of his 
+Lodging:
+ While he was musing what course to take, one of his 
+Friends
+ brought him a 
+Letter,
+ which gave him to understand that he had but three Days to live, if he did not find some way to escape: For that the 
+Council of War
+ was resolv'd to make him an 
+Example
+ to others, and therefore advis'd him to look to himself. 
+Mom∣bas
+ finding himself so severely threatned, discours'd the same day with one of his 
+Guards,
+ who pro∣mis'd him for a certain Sum of 
+Mo∣ney
+ to let him escape out at the Win∣dow, when he should be put to
+
+ stand 
+Sentinel
+ at that Post, which would fall out the next day. Having gone thus far, he also sounded a 
+Spanish
+ Officer, who was to be upon the 
+Guard
+ the same day, at a deep Water, to know if he would let him pass that way, and get him a 
+Guide
+ ready: The Officer no less covetous of Money than the 
+Senti∣nel,
+ agreed for an hundred 
+Pistols
+ to all that 
+Mombas
+ desired, The Bargain being thus driven, gave the 
+Hundred Pistols
+ to one 
+Villare,
+ who served him in the 
+Nature
+ of his 
+Squire,
+ and had been an Agent in the business, to carry them to the 
+Spaniard:
+ but 
+Villare,
+ instead of gi∣ving them to the 
+Officer,
+ ran quite away with them; whether it were that he were naturally enclin'd to such kind of 
+Varlet
+'s Tricks, or
+
+ whether his Master were in his 
+Debt,
+ and so he thought to pay him∣self while he had an opportunity; however it were 
+Mombas
+ reckning upon his 
+Payment,
+ made it his busi∣ness now to deceive the Watch that guarded him in sight; to which purpose,
+
+
+He first complained of a great 
+Pain
+ in his 
+Leg,
+ upon which he sent for a 
+Chyrurgeon,
+ and shewing him his 
+Leg,
+ which by reason of a wound he had received was grown bigger than the other: He also de∣sired the 
+Prince
+ to send him one of his 
+Chyrurgeons,
+ who concluded, that his 
+Grief
+ required a large Plai∣ster, which they sent him to apply to the place affected; upon this pretence, he kept his Bed without any Suspition, and upon the day
+
+ appointed he sent for some 
+Tobacco,
+ telling the 
+Guards
+ he would smoak a 
+Pipe
+ with them after 
+Supper;
+ but pretending of a suddain to be very sick, he went to Bed in the 
+Souldi∣ers
+ presence, desiring them withal to smoak their 
+Tobacco
+ in the next Chamber, because it offended him. The 
+Souldiers
+ seeing him in Bed, and not dreaming that he had a Design to escape, presently withdrew; who were no sooner out of the Chamber but 
+Mombas
+ slipt out of his Bed, took the 
+Plaister
+ from his Leg and clapt it upon his 
+Eye,
+ and leapt out at the Window where the 
+Sentinel
+ stood that had been brib'd, as alrea∣dy has been said.
+
+
+In this 
+Disguise
+ he got through the Camp without being discover'd; but when he came to the 
+Spaniard
+
+
+ he was strangely surpriz'd to find, that he would not let him pass any farther, unless he gave him the 
+Hun∣dred Pistols
+ before-hand, which he had promised him. By this dispute 
+Mombas
+ presently discovered the Roguery and Treachery of his Man 
+Villaire;
+ but there was no retreiving that which was gone; and there∣fore he must now satisfie the 
+Spani∣ard
+ as well as he could; for the 
+Spaniard
+ was resolved he would have his Bargain, and 
+Mombas
+ had it not to pay over again. In the end being forced to make a Vertue of Necessity, he turned his Poc∣kets the inside outermost, and of∣fered him all he had about Him: But seeing that nothing but the 
+Hundred
+ Pistols would content him, 
+Mombas
+ told the 
+Officer
+ that he might
+
+ do with him as he pleased, but if he were the occasion of his being retaken, he vowed to discover him in the first place, and therefore bid him quickly consider, for he had nothing farther to say. The Offi∣cer terrifyed with these 
+Threats,
+ took what 
+Mombas
+ was able to give him and let him pass with his 
+Guides.
+ After this 
+Mombas
+ waded up to the Wast in Water for three Leagues together, very often in danger of being drown'd. But it was but just that a Traitor who had occasi∣oned the Ruin of a Nation, should have his turn of Misery; who tho he endured a large Portion of Mis∣fortune and Hardship, yet suffered not the 
+half
+ of what he deserved.
+
+
+Mombas
+ being thus arrived at 
+Wordes,
+ after he had endured an O∣cean
+
+ of Disasters more easie to ima∣gine than to describe, took a Room in the Boat that goes from 
+Wordes
+ to 
+Uytrecht,
+ but he was no sooner sat down, but he perceived that a Wo∣man who sat next him, knew him and had told his Name to another Woman that sat next to her. There∣upon in a Peck of Troubles he quitted the Boat, being resolved to take some other way. But not da∣ring to adventure the High road for fear of being known, he threw himself into any other guide then his own despair, having neither 
+Sous
+ nor 
+Doit
+ to help himself.
+
+
+When he came within a quarter of a League of 
+Utrecht
+ he forsook the Water, but so bedaub'd with Mud and Dirt, that there was no possibility of presenting himself in
+
+ that condition. Thereupon he got leave at the next House to dry his Cloaths, and so getting into the Town, he went to the 
+Sign
+ of the 
+Palace Royal,
+ where he met one of his 
+Nephews
+ by chance, who was a 
+Captain
+ in the 
+French Army.
+ His Ne∣phew seeing him enter, was so far from believing him to be his 
+Uncle,
+ that he took him for an 
+Apparition:
+ For there had lodged the night be∣fore a 
+Person
+ who came from 
+Ni∣eurburgh,
+ who had reported it for 
+certain News,
+ which he had seen with his own Eyes, that 
+Mombas
+'s Head was cut off. And this 
+Report
+ was so spread about the City, that no body would believe that 
+Mom∣bas
+ was come to 
+Town.
+
+
+In the mean while the Duke of 
+Luxembergh,
+ who was then chief
+
+ 
+Governour
+ of 
+Utrech,
+ paus'd, whe∣ther he should admit 
+Mombas
+ into his presence or no? For on the one side he knew it might be of advan∣tage to discourse him, as who per∣fectly understood the 
+Country;
+ and on the other side he consider'd that it would be no good 
+Policy,
+ to give him a kind 
+Reception,
+ which would but convince the World of the 
+pri∣vate Correspondence
+ which he held with the King; which latter thoughts prevailing, he resolv'd not to see him at all, and therefore to those that told it him for great News, that 
+Mombas
+ was in Town, he made Answer that he did not be∣leive it, adding withal, that it could never be, that a Man who had born 
+Arms
+ against the King would put himself into his hands.
+
+ Every Body understood what the Duke meant, so that all Peoples mouths being clos'd after that, there was no more mention made of 
+Mombas,
+ than if he never had been.
+
+
+As for 
+Mombas
+ himself, when he understood, that the Duke of 
+Lux∣embergh
+ would not see him, he went to wait upon the Prince of 
+Conde,
+ at 
+Arnheim,
+ but that Prince be∣ing as 
+Politick
+ as the Duke of 
+Luxem∣bergh,
+ deny'd to speak with 
+him,
+ but in private, and that at such an 
+hour,
+ when all People else were asleep. Thereupon he sent the Captain of his Guards for him, about three of the Clock in the Morning, to bring him to his Quarters, where the Prince received him into his Closet, wrapt up in his great Leaguer Cloack. There he sold 
+Holland
+ a
+
+ second time, disclosing all the se∣crets of that Republick, or at least as much as he knew before he was Arrested, and after he had informed the Prince of as much as he desired to know, he retired to 
+Collogne,
+ in expectance there of a Promission to return into 
+France,
+ which was one of the wry Faces he was to make, in hopes to wipe off the suspicions which he already lay under. Some∣time after he had intimation given him, that he might go and attend the Duke of 
+Luxemburgh,
+ who made use of him in the taking of 
+Wordes,
+ which the 
+French
+ quitted, after they had been only once Masters of it. He it was also that brought the 
+Duke
+ before this place, when the Prince of 
+Orange
+ beseig'd it; so that he seemed now as desirous to make
+
+ his Treacherie publick, as he was before careful to conceal it.
+
+
+Now though all this that I have said may seem to be rather a Histo∣ry of the War then a keeping close to my Subject, which is to set forth the falshood of 
+France,
+ however I beleive it not so remote from the matter neither, since it serves so well to recal to Memory the 
+Idea
+'s of so many Treacheries and Breach∣es of Faith. In a word, though it cannot be denied but that the 
+French
+ are sufficiently couragious, yet we may say, that she rather chooses to joyn Subtlety and Slight to Strength, without which she could never prove so Successful in all her Enterprizes; though we must needs say at the same time that ano∣ther great Reason of Her Prospe∣rity
+
+ is this, that Money costs Her lit∣tle or nothing; for to come now from War to Peace, let us examine how she brought to pass a separa∣tion of the Allies, and whether that Metal did not stand her in more stead then all the Rhetorick of her Ministers.
+
+
+One of the great Obstacles of the Peace, was the great difficulty of Reconciling the Interests of the Crown of 
+Sweden,
+ from the Inte∣rests of those Princes who had any thing to do with it. As for the Crown of 
+Sweden,
+ its chiefest In∣terest was this, that as it was en∣gaged in a War only for the 
+Service
+ of 
+France;
+ that 
+France
+ should there∣fore cause 
+Restitution
+ to be made of all those Places, which either the King of 
+Denmark,
+ the Princes of
+
+ 
+Brandenburgh,
+ or of the House of 
+Brunswick
+ had taken from it. On the other side it was the Inte∣rest of those 
+Princes
+ not to hear talk of 
+Peace,
+ unless they might preserve all their 
+Conquests,
+ or at least a good part of them. The difficulty then was to reconcile these 
+opposite In∣terests;
+ now you shall see what it was that put this Affair into a fair way, and made it not so impossible as it seem'd to be. It hapned one day, at a 
+Collation,
+ that was given by one of the 
+Three French Ministers,
+ who understood the 
+Court Secret,
+ a 
+Dish
+ of 
+Olives
+ was set upon the 
+Table,
+ which the 
+Swedish
+ Embassa∣dor tasting, and liking very well, the 
+French
+ Embassador promis'd to send him a 
+Barril,
+ which his 
+Secre∣tary
+ soon after carry'd him. The
+
+ 
+Swedish
+ Minister was not a little sur∣pris'd to see the 
+Secretary
+ of the 
+Em∣bassie
+ become a 
+Porter
+ of 
+Olives,
+ but presently recollecting himself he took the 
+Barril
+ in his hand, and find∣ing it somewhat ponderous he ask∣ed the 
+Secretary
+ what was in the Barril? The 
+Secretary
+ made An∣swer, that his 
+Excellency
+ would see when he open'd it; and withal de∣sired him to open it himself, and not to let any body see him when he open'd it: Then the 
+Swedish
+ Em∣bassador knew what it meant, and so having dismissed the 
+Secretary,
+ he open'd the 
+Barril
+ which was cram∣med to the bottom with 
+Golden Lewisses,
+ among which he found a little Note wherein these words were contain'd, 
+If You intend that we should send you more
+ Olives, 
+you must let Us have a Peace.
+
+
+
+
+Now you will ask me how a thing that was carry'd so secretly on the Minister of 
+France
+'s part, as on the Minister of 
+Swedens,
+ should come to my knowledge, to which I answer, how do so many secrets transacted in the Cabinet Councel, come to be known? but I must tell ye more then this, that 
+France
+ hap∣pening afterwards to be at variance with 
+Sweden,
+ took no great care to conceal a secret, since it was of no Importance to her to keep it pri∣vate. Rather she was glad of an opportuny to Divulge it, on pur∣pose to raise Jealousies and Mi∣strusts, among the Chief 
+Grandees
+ of 
+Sweden,
+ where the story is in e∣very bodies Mouth, insomuch that the Rupture between the two Crowns is attributed to it. In a
+
+ 
+word,
+ though the Homage which the King of 
+France
+ demanded of the King of 
+Sweden,
+ for the Dukedom of 
+Deux Ponts,
+ were a thing which that Young Prince took very un∣kindly, yet the more nimble Poli∣ticians beleive, that it would not have been a sufficient cause of a Rupture, had not the King of 
+Sweden
+ been exasperated before, by the Disadvantageous Peace which 
+France
+ had caused him to conde∣scend to; of which it will not be from the purpose to speak a word or two, in regard that while I was at 
+Paris,
+ I met with few of the 
+French,
+ who did not maintain that 
+Sweden
+ vvas extremely obliged to 
+France,
+ since she vvould not en∣dure to hear of any Treaty, till all vvas restored that had been con∣quered
+
+ from 
+Sweden.
+ But they vvere Ignorant, that in lieu the 
+Swede
+ vvas constrained to deliver up to the Duke of 
+Brandenburgh,
+ several places in 
+Pomerania,
+ in the Dutchie of 
+Bremen
+ several places to the King of 
+Denmark,
+ and several other pla∣ces in the Bishoprick of 
+Venden
+ to the Princes of the House of 
+Brun∣swick.
+ But now I am speaking of 
+Sweden,
+ I will tell ye how the Dut∣chy of 
+Deux Ponts
+ came to be taken for Her, and under what pretence; the last Duke was a Healthy Per∣son and like to live long, when 
+France
+ who lik'd the Country very well, as lying fit for Her, proje∣cted how to get possession of it, having not yet bethought her self of the 
+Knack
+ of 
+Dependency,
+ under pretence of which she has since in∣vaded
+
+ so many Provinces. Now you must understand that the 
+Duke
+ having no Children, the Dukedom after his Death fell to the House of 
+Swedland,
+ though not immediately to the King of 
+Swedland,
+ in regard that 
+Duke Adolphus
+ pretended to ex∣clude him as being the next in pro∣pinquity of Blood to the present Possessor. On the other side the King 
+of Sweden
+ pretended that the 
+Dukedom
+ should descend to 
+Him,
+ as being the Son of the Eldest House, which seemed a very likely pre∣tence. For though in several parts of 
+Germany
+ the Custom is such, that the next of Kin to the Deceased succeeds to his Estate, yet in the Electoral Families, especially the 
+Palatine,
+ which was then in dispute, the Usuage is quite otherwise. How∣ever
+
+ it were the King of 
+France,
+ who was willing to make the Pro∣verb good, That while two are in dispute for the Possession, there comes a third and carries away the Prize, sent a considerable force to make himself Master of the Dut∣chy of 
+Deux Ponts,
+ under pretence nevertheless to preserve it for the King of 
+Sweden,
+ in whose favour he had decided the difference a∣gainst Duke 
+Adolph.
+ The Duke of 
+Deux Ponts,
+ who was still living, was nothing surprized that the 
+French
+ had entred his Country, as having often been subject to their violences, but he wondred not a little when he understood that they came to claim the Succession, espe∣cially finding himself so likely to live, and having no desire to die so
+
+ soon. Nevertheless the 
+French
+ having taken Possession of the place of his Residence, he saw not only his 
+Coun∣try
+ reduced to slavery, but himself a kind of Prisoner; for in regard the 
+French
+ could not choose but think that a Prince of such a Noble and Illustrious 
+Birth
+ would not easily condescend to live under 
+Tutelage,
+ & fearing least that he would call the 
+Emperor
+ to his 
+Assistance
+ they watch∣ed him so narrowly, that he might well be lookt upon rather as a Pri∣soner then a Freeman.
+
+
+However 
+France,
+ who was desi∣rous to make sure of the King of 
+Sweden,
+ of whom she then stood in need (for all this happened during the War) gave him to understand that what she had done was only in 
+kindness
+ to 
+Him;
+ so that the 
+Swede
+
+
+
+
+
+
+
+
+
+
+ not dreaming but that 
+France
+ meant as she said, began to talk of send∣ing a Governour into the 
+Dutchy,
+ but while he offered the Govern∣ment sometimes to the Count of 
+Carlson,
+ his natural Brother in lieu of something that he had taken from 
+Him,
+ and sometimes to a Prince of the House of 
+Baden,
+ the King of 
+France
+ sent thither the Prince Palatine of 
+Berkenfield,
+ and reconciled the Prince of 
+Baden,
+ and the Count of 
+Carlson,
+ who began to look with an evil aspect one up∣on another, as it is the Custom of two Persons, that aspire both to one Command.
+
+
+The Peace ensuing soon after, 
+France,
+ who had no mind to part with so toothsom a Morsel, be∣thought her self of the Right of
+
+ Dependency, and demanded Ho∣mage and Fealty from the King of 
+Sweden.
+ This pretention altoge∣ther new, extremely surprized the 
+Swedish
+ King, but in regard the 
+Dutchy
+ lies at a great distance from his Dominions, the chiefest part of his Ministers concluded to let it pass, and not to quarrel with 
+France,
+ at what time 
+France,
+ who had laid this Rub in the way, only because she would not restore what she had got into her Clutches, caused Duke 
+Adolph
+ to interpose himself to the end, that according as they had a∣greed among themselves, she might remain always in the Possession.
+
+
+And thus as she had despoiled the Old Duke in his life time, who ended his days for sorrow remote from his own Territories, so she
+
+ scruples not to keep from their Rights to other Princes still alive and live like. And it is very pro∣bable, that without considering whether the claim belong to the King of 
+Sweden,
+ or Duke 
+Adolph,
+ that she will rather choose to sur∣render it to the 
+Palatine
+ of 
+Birken∣field,
+ then to either of the other two, as being loath it should fall into the Hands of the King of 
+Sweden,
+ for fear of enlarging the Power of a Prince, whose Friendship she has so little reason to hope, and having the same reason to be jealous of 
+Duke Adolph,
+ whose Interest it is to keep firmly united to the Head of his own Family.
+
+
+Moreover, it cannot but be a great trouble to the Palatine 
+House,
+ to see such a number of Princes be∣come
+
+ subject to 
+France.
+ For be∣sides that, the Person upon whom 
+France
+ shall be pleased to confer the 
+Dutchie
+ of 
+Deux Ponts,
+ will be ob∣liged to do her Homage, how ma∣ny others are there, who at this day groan under the weight of her Fet∣ters: The Prince 
+de la petite Pierre
+ could say something, if the unfor∣tunate example of one of his Kins∣men did not oblige Him to silence. I could speak of the Prince of 
+Wel∣dens,
+ who for having the soul of a Prince, and being willing to pre∣serve himself in that high Dignity where Providence has placed him by Birth, might starve, if his own Subjects had not pity upon him; I say that he might starve; nor do I aggravate the matter; for 'tis well known to many others, be∣sides
+
+ my self, that because he would not do Homage to 
+France,
+ he has been dispossessed of his 
+Territory,
+ and lives now in a hired House upon the Alms of his Subjects. 'Tis as vvell knovvn to vvhat a mean con∣dition his Son is reduced. 'Tis vvell 
+known,
+ I say, that his Father not having vvherevvithal to sup∣port him, that rides up and dovvn upon a sorry Nag vvithout any Train or Attendance, like the poor∣est Gentleman in 
+France,
+ being at length constrain'd to put himself in∣to the 
+Service
+ of the 
+States,
+ vvho have given him a 
+Foot Company,
+ vvhich is all he has to subsist upon at this Day.
+
+
+Some perhaps may ask me, vvhy the 
+Prince
+ of 
+Weldens
+ carries himself so untractably considering his ovvn
+
+ vveakness, against a 
+Power
+ so ab∣solute? vvhy does he not give vvay to the 
+Times,
+ as others do; and in a Word, vvhat difference there is be∣tvveen being a 
+Vassal
+ to the 
+Emperor
+ and a 
+Homager
+ to the King of 
+France.
+ For I knovv these are the 
+Discourses
+ generally in the 
+Mouths
+ not only of those that follovv the 
+Interests
+ of 
+France,
+ but also of several others, who cannot but compassionate the 
+Misfortunes
+ of this 
+Prince,
+ and en∣deavour to help him: To this I an∣swer that the Prince of 
+Wildens,
+ fin∣ding himself reduced to utmost ne∣cessity, has sought an 
+Accommodati∣on
+ by all-manner of ways; but he could never resolve to be a 
+Slave.
+ In short, when he saw that a great many 
+Princes
+ of his 
+Family
+ had shew∣ed him the way, he sent his 
+Son
+ in∣to
+
+ 
+France,
+ who offer'd on his 
+Fathers
+ behalf to do 
+homage
+ to the 
+King,
+ pro∣vided he would use him like a 
+Prince
+ and suffer him to enjoy the same 
+Rights
+ and 
+Privileges,
+ as before the 
+Change
+ of his 
+Affairs:
+ But the King laugh'd at his 
+Proposals,
+ so that the young 
+Gentleman
+ was forc'd to re∣turn as wise as he went. Never∣theless if I may reflect upon the present 
+Condition
+ of the 
+German Prin∣ces,
+ and what it was formerly, we may easily see how they abuse themselves, that think there is no difference between a 
+Vassal
+ to the 
+Emperor,
+ and a 
+Vassal
+ to the King of 
+France:
+ But I do ill, to say a 
+Vassal
+ to the 
+Emperor;
+ for all the 
+Princes
+ of the 
+Empire,
+ I mean the 
+Soveraign Princes,
+ as the 
+Electors
+ and several other great 
+Houses,
+ are ra∣ther
+
+ 
+Members
+ of the 
+Empire,
+ not the 
+Emperor
+'s 
+Vassals.
+ They are indeed oblig'd to assist the 
+Empire,
+ under 
+Forfeiture
+ of their 
+Privileges
+ and 
+Ter∣ritories,
+ but they are not oblig'd to assist the 
+Emperor,
+ unless he be first attack'd. Let us then conclude that this Word 
+Vassal
+ is not properly ap∣plyed to the 
+Princes
+ of 
+Germany,
+ who have 
+Soveraign Authority
+ within their own 
+Dominions,
+ as much as the 
+Em∣peror
+ exercises in His own. They have the 
+Power
+ of 
+Life
+ and 
+Death,
+ they impose 
+Taxes
+ and 
+Subsidies
+ at their pleasure, & lastly are accoun∣table for their 
+Actions
+ to none but God. Let us conclude, I say, that such 
+Princes
+ as these, who enjoy all the 
+Marks
+ of 
+Soveraignty,
+ are far dif∣ferent from the 
+Princes
+ of 
+France,
+ who except that they stand with
+
+ their Hats on, when the King gives 
+Audience
+ to 
+Embassadors,
+ are in no∣thing else more than other Subjects. It may be said in some 
+Sort,
+ that they are inferiour to some of the Kings Subjects; for the 
+Dukes
+ and 
+Peers
+ take the 
+Precedency
+ of them, and that the 
+Princes
+ are oblig'd not to appear at any 
+Ceremony,
+ least they should be constrain'd to walk after them. Nevertheless if we look back to the beginning of the last 
+Century
+ we shall find that among those 
+Dukes,
+ there are some, whose 
+Fathers
+ were only 
+Notaries,
+ others no more than 
+Merchants
+ in 
+Paris.
+ And we know what the 
+Descendants
+ from one of these great 
+Families
+ did not long since, to conceal the knowledg of such a mean and ignominious 
+Ex∣traction:
+ We know that they caus'd
+
+ an 
+Epitaph
+ in the Church of St. 
+In∣nocents
+ to be eras'd, instead of which we find another in the 
+Celestins,
+ wherein there are as many 
+Falshoods
+ as there were 
+Truths
+ in the other.
+
+
+And yet it so falls out, that 
+Prin∣ces,
+ whose 
+Ancestors
+ were in the 
+Num∣ber
+ of 
+Soveraign Princes,
+ are at this day forc'd to submit to Men of that low and sordid 
+Extraction.
+ To which I may add, that the 
+Princes
+ of the 
+Blood
+ themselves are glad to 
+court
+ and 
+fawn
+ upon Persons of a much lower and baser 
+Extraction
+ than what I have already mention'd. We know the way to 
+rise
+ in 
+France
+ is not to stir from the 
+Anti-chamber
+ of a 
+Great Minister;
+ and a Colonel of 
+Horse,
+ whose Name I could tell, and one whom every Body knows as well as I, does not disdain to be
+
+ a 
+Buffoon
+ to one of the 
+Secretaries
+ of 
+State:
+ For which reason he quitted his 
+Regiment,
+ for fear, least in time of War, some other 
+Minion
+ might step into his 
+Honourable Employment.
+ 'Tis well known also that while Monsieur 
+Colbert
+ sate at Diner, the greatest Lords of 
+France
+ sate pum∣ping for a Jest to make him laugh, and he that had had the best 
+Success,
+ glory'd in his happy Fortune, as if it had been he who had defended 
+Vienna
+ against the 
+Turks.
+ Lastly 'tis well known, and yet a thing which a Man would hardly believe, that Monsieur the 
+Kings
+ only 
+Brother
+ is oblig'd to have recourse to them, when he has any particular 
+Favour
+ to beg of the 
+King,
+ and that not∣withstanding this 
+Submission,
+ he ma∣ny times is forc'd to go without the
+
+ 
+Grant
+ of his 
+Petition.
+ I could prove by a 
+Thousand Examples
+ what I here alledg; but it shall suffice to men∣tion only what happen'd about a year or two since, upon the score of a 
+Person
+ whom the 
+Monsieur
+ had a kind desire to put into one of the 
+King
+'s 
+Farms;
+ for not being able to obtain what he desir'd of Monsieur 
+Colbert
+ after many and many 
+Entrea∣ties,
+ he was forced himself at length to speak to the 
+King.
+
+
+To give a little farther proof of the 
+Tyrannies
+ of the 
+Ministers
+ of 
+France,
+ and how the lofty 
+Princes
+ are forced to cringe and bow before those 
+Idols,
+ there needs no more than to repeat what hapned some few days since to Monsieur the 
+Dauphin,
+ he had beg'd of Monsieur 
+Segnaly,
+ the Son of Mr. 
+Colbert,
+ the Employ∣ment
+
+ of 
+Purser
+ of a Ship, for a Son of one of his 
+Domesticks,
+ which Monsieur 
+Segnalay
+ having granted Him with great difficulty, this same 
+Minister
+ of the last 
+Edition
+ took a 
+Fancy
+ sometime after to displace the 
+Purser,
+ pretending him uncapable of the 
+Imployment.
+ The 
+Dauphin
+ un∣derstanding this, told Monsieur 
+Segnaly
+ that it was his desire the Per∣son might be restor'd, and that if he had done amiss, it was only for his want of years, and that he him∣self would undertake the 
+Young man
+ should do better for the future. Monsieur 
+Segnalay
+ having heard the Prince with that Gravity which he so awkardly affects, made answer, that the thing was out of his Pow∣er, and that therefore he must speak to the 
+King:
+ But Monsieur the 
+Dau∣phin
+
+
+ not enduring that a Person of his 
+Condition
+ should so unworthily requite the 
+Honour
+ which he did him, Schol'd him so severely that he soon humbled his vain-glorious 
+Pride.
+
+
+Let us then conclude from hence that it is a great 
+Misfortune
+ for a Prince to be born a 
+Subject
+ of the 
+Crown
+ of 
+France,
+ and a great 
+Impru∣dence
+ in him that is free to put him∣self under the 
+Yoak.
+ Ask the Prince 
+Palatine
+ who is only his 
+Neighbour,
+ how he likes his 
+Neighbourhood,
+ and I am sure he will tell you, there is no difference from being a 
+Subject
+ and a Neighbour. If he speaks like a Prince, they speak to him like Masters, and if he intends that 
+France
+ should let him be at quiet, He must submit to all her Demands. Let us ask him whether he hath any
+
+ Subjects that are 
+Faithful
+ to him a∣mong so many 
+Subjects
+ as are obedi∣ent to him? and whether 
+France
+ have not quite debauch'd their 
+Alle∣giance?
+ Lastly let us ask him whe∣ther he dares complain, though e∣very day he finds one Corner or o∣ther of his Territories lopt off from his Subjection, and whither they do not tell him on the other side, that he is happy to be under the Protection of so great a Potentate? Let us now visit the Courts of the other Princes of 
+Germany,
+ and see what passes there, before we make any Reflection upon the Princes of 
+France.
+ What shall we say of the Ec∣clesiastical Electors; of which the one sells his Country by the sugge∣stion of 
+her Emissaries;
+ the other suffers her self to be scar'd by her 
+Emissaries:
+
+
+ & the other is so obedient to her 
+Will
+ as if the same Interest actuated in all. Yet at the same time let us confess, that this is not done with∣out some sort of Violence, for who questions the various Tricks and gins that are made use of daily to separate 'em from their real Inte∣rests? To some they pretend, that the most part of their Territories are Dependencies upon the Crown, and that if they do not use all means to Captivate the Kings fa∣vours, he will no longer suffer 'em to enjoy that to which they have no Right at all; so that while he deprives them of the true Chara∣cter of Soveraign, which is to be independent in their Authority, he endeavours to insinuate the contra∣ry, that their dependance upon 
+France
+ is the only way to support
+
+ their Dominion. To others he cries, that they have nothing to do but to consider his 
+Power,
+ & from thence to assure themselves that they have no other hopes but in 
+Him;
+ and while he feeds them with these fair 
+Hopes,
+ he boys up the 
+People
+ in their 
+Disobedi∣enc,
+ to the end the Soveraigns may always standing in need of him, to suppress their mutinies. It may well be thought that I speak of 
+Liege,
+ where 
+France
+ holds her 
+Di∣van
+ contrary to the Faith of 
+Treaties,
+ and where the 
+Dissentions
+ between the People and their 
+Sovereign,
+ make her as absolutely Mistress of the City, as if it belonged solely to 
+Her;
+ for who is so blind as not to see through her Politicks upon this occasion? For being in conti∣nual fear, least Monsieur of 
+Cologne
+ should at length open his Eyes, she
+
+ resolves to have a Remedy ready against all manner of Accidents. And therefore as she maintained the People of 
+Messina
+ in their Rebelli∣on, so will she support the Inhabi∣tants of 
+Liege
+ in all their Rebelli∣ous Practices, should 
+Monsieur
+ of 
+Cologne
+ at any time bethink himself of re-assuming his Lawful Sove∣raignty. For indeed if this were not the Intention of 
+France,
+ what could hinder 
+Monsieur Cologne
+ at this day, from reducing to Obedience a City which is open on all sides, without Fortifications or any Gar∣rison. It were then to be wished that he would come again to him∣self, and consider that his Alliance with 
+France,
+ has only serv'd to draw upon him the hatred of his People, and the utter Ruin of his Country
+
+ for not to mention the Imperial-Armies, who have been Constrained to feed upon his Country, we see How he has been treated himself, by those in whom he has put all his hopes and confidence. Who can be Ignorant of the Horrible Contri∣butions which 
+France
+ has Levied upon his Subjects, the General De∣solation of his 
+Territory,
+ the Sacking and Plundering of his 
+Towns,
+ and the Destruction of his 
+Citadels
+ and other Stately 
+Buildings?
+ Who can be Ignorant of what Happened at the 
+Hay,
+ where the 
+French
+ not contented, to have 
+Tyranniz'd
+ o're the 
+Inhabitants,
+ threw the 
+Castle
+ to the 
+Ground,
+ and ru∣in'd one of the 
+Noblest Bridges
+ upon the 
+Meuse,
+ by which meanes that 
+City
+ finds her self 
+depriv'd
+ of all her chief∣est & most considerable 
+advantages
+
+
+ for having admitted them within her Walls. But let us go on to the other Princes of 
+Germany,
+ and see whether they have any more rea∣son to boast of the 
+French
+ kindnesses.
+
+
+I could Epitomize all at once what I have to say to this point, by only declaring what happened but lately to the King of 
+Danemark.
+ For as it may be easie for others to judge what they are to expect, by the carriage of the 
+French
+ toward their Allies, therefore in my opi∣nion, that might suffice to prove the 
+Violence
+ of her Proceedings, and how she goes about to make her self Mistress of the whole World. But in regard there are several that would be glad to see what pretty 
+Courses
+ she takes to bring about her 
+Designs,
+ I will give you a short ac∣count
+
+ of her 
+Maxims
+ and 
+De∣vices.
+
+
+There is no Body can be igno∣rant of the 
+Marriage
+ of the 
+Dauphin
+ with the 
+Dauphiness.
+ The great 
+Re∣phuation
+ which Monsieur of 
+Bavaria,
+ and the great 
+Sway
+ which he carries in the 
+Empire,
+ as well by reason of the 
+Extent
+ of his 
+Dominions,
+ as also by reason of their 
+Situation,
+ caus'd him to be courted of all hands du∣ring the last War, as He who brought a great Accession of 
+Strength
+ to the side for which he should declare. The King of 
+France
+ being careful of losing such an Ad∣vantage, dayly made him a 
+Thou∣sand
+ advantageous 
+Propositions
+ to en∣gage himself in his 
+Interests.
+ On the other side the 
+Emperor
+ was no less sedulous to gain him to his 
+Party.
+
+
+ So that the Duke of 
+Bavaria
+ judg∣ing of his Power by the Applica∣tions that were made to him, re∣solved to hear both, and to fix where he could make his best Markets.
+
+
+As for the 
+Emperor
+ he only offer∣ed him a League Offensive and De∣fensive against 
+France,
+ whose Am∣bitious designs he laid before him, beleiving that enough to bring him over to the 
+German
+ Interest: But 
+Bavaria
+ being in hopes of some∣thing more advantageous, listened more willingly to the propositions of 
+France,
+ which the 
+French
+ endea∣voured to make as acceptible as possibly they could. In short too many politick Arguments, which might have been more prevalent at some other time, but now of lit∣tle or no effect, they added most
+
+ magnificent Presents, which they were careful to renew from time to time; so that 
+Princes
+ being wrought upon many times by such kind of 
+Temptations
+ as well as other Persons, the Duke began to be more and more enclined to 
+France.
+ Madam of 
+Bavaria,
+ whom the King had formerly had some thoughts to have married, and who was not a little troubled that she had missed the preferment, hoping to advance her Daughter to the 
+Throne
+ which she had failed off, prest her 
+Hus∣band
+ with all her might to the 
+French
+ Alliance, provided he made sure of the Advancement of his 
+Daugh∣ter,
+ who could not expect a more advantageous match in all 
+Europe.
+
+
+Nor was it long before the Mi∣nisters of 
+France
+ discovered what
+
+ had passed in the Duke of 
+Bavarias
+ Cabinet, and therefore beleiving it would be more kindly taken to pre∣vent the Duke, by proposing the Match before the Duke offered it himself, they declared that they had orders from their Master to di∣scourse him about it; and this they also made known to Madam of 
+Ba∣varia,
+ who was ready to leap out of her skin for joy. After this pro∣position thus made, the Emperors Ministers were no longer minded, and nothing was discoursed of but the future Alliance, which was the Foundation of the ensuing Treaty between 
+France
+ and 
+Bavaria,
+ by which the Duke of 
+Bavaria
+ promi∣sed to remain 
+Neuter,
+ which was all that 
+France
+ desir'd. For in regard that 
+Bavaria
+ had a powerful 
+Army
+ on 
+foot,
+ & that he was 
+resolved
+ to stand 
+Neu∣ter,
+
+
+ so long at the 
+War
+ endured, 
+France
+ conjectured, and that not without reason, that the Emperor would be awed by his potent strength, which would be as beneficial to 
+France,
+ as if the Duke acted openly. And by the Event it appeared that those 
+Conjectures
+ were not ill groun∣ded. But not to make a repetition of things known to every body; it will suffice to say, that this Treaty continued till the Treaty of 
+Ni∣meghen,
+ and that the Mariage of 
+Madamoiselle
+ of 
+Bavaria
+ was soon af∣ter 
+consummated,
+ there being at that time no Princes in 
+Europe
+ unmarried, either of a nobler 
+Family,
+ or endow'd with more Princely Qualities.
+
+
+And now 
+France
+ thought her self secure of the House of 
+Bavaria,
+ but the Duke and Dutches dying, and the 
+Dukedom
+ falling into the 
+Hands
+
+
+ of a 
+Prince,
+ more clear sighted than his Father and Mother, 
+France
+ finding he did not stand so right for their Turn, made it their business to fasten him by some new Ally∣ance. To this purpose, because their is nothing sooner tempts a young Prince then Beauty, chiefly when it is accompanied by great Merit, the Ministers of 
+France
+ so ordered it, that they whom they had gained to their Party, should fill his Ears with their discourses of 
+Madam Blois,
+ the Kings natural Daughter, who appearing so love∣ly in her tender Age, promised to be in a short time, one of the most charming Persons in the World. 
+Monsieur
+ of 
+Bavaria
+ perceiving him∣self perhaps smitten with what was imprinted every hour in his mind,
+
+ or else out of 
+Curiosity
+ to know whe∣ther Fame did not too much exalt the 
+Beautys
+ of that Lady, seem'd to intimate as if he should not be un∣willing to see her 
+Picture.
+ Of which his most 
+faithful Friends,
+ and those that were more jealous of his 
+Honor
+ being inform'd, they made him so effectually sensible of the Snares that were spread for his 
+Youth,
+ that the Prince recollecting his 
+Thoughts,
+ began to be 
+asham'd
+ of what 
+perhaps
+ he had only done out of 
+Curiosity.
+
+
+In the mean time several 
+Portrai∣tures
+ of Madam 
+de Blois
+ were sent from 
+France,
+ but the 
+Ministers
+ of that 
+Crown,
+ perceiving that the 
+Ille∣gitimacy
+ of her 
+Birth,
+ defaced all the Impressions that her 
+Beauty
+ could make, gave over the 
+Design
+ of that 
+Match,
+ of which they had concei∣ved
+
+ such hopes a little before.
+
+
+After this they proposed another Match to the 
+Bavarian,
+ which was certainly much more suitable: And that was between the 
+Duke
+ and 
+Ma∣damoiselle
+ the Queen of 
+Spains
+ Sister, and Daughter to the 
+Duke
+ of 
+Or∣leans.
+ But the 
+Bavarian
+ Ministers, who had diverted his first Passions, easily beat him off from this, per∣swading him that it was only a 
+snare
+ to keep him from allying with the 
+Emperor,
+ whose Daughter he might be in hopes to marry, which would not be only a greater advantage to him, but more necessary and re∣quisite for his Interests. That it behov'd him to have his Eyes open and to look upon the 
+Designs
+ of 
+France,
+ which were only to ruine the 
+Emperor
+ and the 
+Empire.
+ That
+
+ it was true she fed him from time to time with fair 
+Fancies,
+ as that she would cause him to be 
+Elected King
+ of the 
+Romans;
+ but that the bottom of her 
+Design
+ was only to disunite the 
+Princes
+ one from another, that when the 
+Election
+ should happen, she might be the better able to carve for her self, what she offer'd to others. That it was not his 
+Inte∣rest
+ to desire a 
+Neighbourhood
+ so dreadful to all that had been so un∣fortunate to be her 
+Neighbours;
+ which was no 
+Reproach
+ or 
+Detracti∣on,
+ and that there needed no more than the 
+Consideration
+ of their 
+Condi∣tion
+ to make others sensible of the danger of 
+Falling
+ into the like.
+
+
+These sage 
+Councels,
+ made that 
+Impression
+ which might well be ex∣pected upon the mind of a Prince,
+
+ who lov'd 
+Honour
+ and scorn'd to stoop under 
+Subjection.
+ On the o∣ther side the 
+French Ministers
+ not re∣lishing these 
+Proceedings,
+ were so en∣rag'd at the Dukes 
+Refusal
+ of their propounded Match; that they had the 
+Insolence
+ to tell him, that if the Duke of 
+Bavaria
+ had married 
+Ma∣dammoiselle de Blois,
+ it had been no Disparagement to him. That there was no doubt but that Princes as puissant as himself would desire her in 
+Marriage,
+ who were like to go without her for all that; and that the King was sufficiently potent to 
+Revenge
+ one day the 
+scorn
+ and 
+con∣tempt
+ which he had put upon his 
+Alliance.
+ These 
+Rhodomontadoes
+ gave the Duke sufficiently to understand, how 
+France
+ at first wound her self in by softness and mildness, but that
+
+ she was still for force where that fail'd. But these Proceedings ser∣ving to no other end then to alie∣nate the Duke the farther off from the 
+French,
+ he presently treated with the 
+Emperor,
+ with whom he might be certain to find more Honour, and more Security.
+
+
+Nor has the Duke of 
+Saxonie
+ more reason to applaud the Con∣duct of 
+France,
+ who finding that Prince fast link'd to the true Inte∣rest of 
+Germany,
+ not suffering him∣self to be fed with her empty pro∣mises, has raised him up several E∣nemies both at home and abroad, and used all imaginable tricks to set him at variance with the 
+Princes
+ of his 
+Family,
+ but not being 
+able
+ to bring her designs to pass: She had been tampering with the 
+Princes
+ his 
+Neigh∣bours,
+
+
+ which occasioned those jea∣lousies so prudently already laid asleep by the Emperor.
+
+
+As for the Marquiss of 
+Branden∣burgh
+ and the King of 
+Danemark,
+ I know nothing that could beget a greater Aversion to 
+France,
+ then her behaviour towards them. For if we look upon the manner how she came to intrude her self into their 
+Confidence,
+ we shall find that she has left no 
+Tricks
+ unplaid to bring it to pass, but after she had got her Ends, there was no sort of 
+Severity
+ and 
+Cruelty
+ which she did not exercise to their 
+Dammage.
+ The 
+Propositions
+ are well known; which were made by the Count 
+de Roy,
+ upon his 
+Arrival
+ in the 
+North.
+ 'Tis well known, I say, that he demanded of the 
+King
+ of 
+Danemark,
+ in the name of the
+
+ 
+King
+ his Master, that he might have a share in the 
+Disbursement
+ of the Money which he received from Him, adding withal, that the Mo∣ney was wasted to little purpose: He demanded also little less of the Duke of 
+Brandenburgh;
+ yet fearing to provoke those 
+Princes,
+ jealous of their Honours, by such kind of harsh Complements, he kept his 
+Pensioners,
+ or else certain 
+Frenchmen
+ still at their Elbows to mollifie and sweeten those severe Pieces of 
+Court∣ship;
+ so that those 
+Princes
+ being de∣tain'd, as I may say, between hope and fear, knew not what to resolve upon. But let us admire the 
+Poli∣ticks
+ of that Crown, which draws it's 
+Advantages
+ from all things, even from those things that seem to be 
+contrary
+ and 
+prejudicial
+ to it's 
+Interest.
+
+
+
+
+Every one knows how Monsi∣eur 
+de Bricquant
+ was prosecuted; who after he had been a long time in the 
+Bastile,
+ for being stedfast to his Principles, was at length for∣ced to fly his 
+Country,
+ having no∣thing more to hope from his ser∣ving 
+France;
+ where he had never∣theless spent all his youthful years: but so soon as 
+France
+ understood, that he was gone to 
+Brandenburgh,
+ and that he was received by the E∣lector, her Malice was not only ap∣peased of a suddain, but she would needs Recommend him to that Prince, not immediately as from her self, for that would have been suspicious; but indirectly by the means of her Generals, so that this same Recommendation accompa∣nied with the merit of the Person,
+
+ got him in a short time a Regiment of Horse with the Government of 
+Wesel;
+ and of this Person it is that she makes use, but cunningly and slily to obtain her desires; For tho he does not appear to be entrusted with the secret, but that on the con∣trary, he still complains of his suf∣ferings and hard usage in 
+France,
+ he knows how to give the blow when Opportunity serves, a Blow so much the more dangerous, as com∣ing from a kind and unsuspected Hand.
+
+
+Boisdavid,
+ who was constrained to fly 
+France,
+ where he was a 
+Bri∣gadier
+ and Colonel of Foot, for ha∣ving duell'd Monsieur 
+d'Aubijoux,
+ understood the way to regain her 
+Favour
+ by managing her 
+Interests
+ in the Court of 
+Zell,
+ where he was
+
+ advantageously preferr'd, so that nothing there pass'd of which Mon∣sieur 
+de Louvois
+ was not advertis'd from time to time. And that which was most extraordinary was this, that though there be no Mercy for those who are accus'd of the same Crime that he was, he forbears not to make a Journey sometimes to 
+Paris,
+ whether it be upon his own occasions, or which is most likely to confer with Monsieur 
+de St. Po∣vange,
+ about such things as he dares not commit to Writing.
+
+
+All the Courts of the other 
+Prin∣ces
+ are in the same manner stuft ei∣ther with bannish'd or 
+Malecontented French.
+ But at the same time those Princes give 'em Entertainment, if it may not be said that they receive Serpents into their Bosoms, at least
+
+ we may say, that they are to be very wary how they easily trust 'em with their Secrets. For besides that the 
+Genius
+ of the 
+French
+ Nation carrys them to insinuate themselves into all manner of business, they rarely forget their Fidelity to their Prince, so that it is a great piece of 
+Imprudence
+ to confide in their 
+A∣ctions.
+
+
+Having thus discoursed of the Misfortunes daily attending those Princes who are 
+Neighbours
+ to 
+France
+ or that are in any sort of 
+Amity
+ with Her, let us now see in what a 
+Condi∣tion
+ they are, who are envellop'd by her in her 
+Claims
+ of Dependen∣cies. I will say nothing of the Prince of 
+Petite Pierre,
+ or of 
+Weldens,
+ of whom we have spoken suffici∣ently already, but I will mention
+
+ something of the Prince of 
+Baden,
+ who no sooner came to be in the number of Her Subjects, but he was constrained to give a large 
+Pen∣sion
+ to his Wife, who left him a long time since, with a resolution never to Cohabit with him any more. He might shew himself ready as he did, to take her home again, but there was no regard had to Reasons, and the first thing im∣posed upon him was to ascertain Her a revenue, where he could not come to Finger it. I pass over in silence the Tyranny which She Ex∣ercises over other Princes of less repute; for since the Princes of the Sovereign Families, are no other∣wise spared then as I have related, there is no likelihood that the rest should fare any better. It would
+
+ be tedious to recount what they daily suffer from those Petty 
+Tyrants,
+ who, of great Ministers 
+Lacquies,
+ becoming 
+Commissaries,
+ and Com∣missary 
+Intendants,
+ assume to them∣selves a Soveraign Authority. Nor are they contented to deprive these Princes of their 
+Honour,
+ but of their 
+Estates.
+ How many suits do they commence against them for the 
+De∣cision
+ of 
+Limits,
+ and several other slight occasions; insomuch that those Princes, who but lately had the Power of Life and Death over their Subjects, are now forced to go and answer their suits at the 
+Bar,
+ and frequently loose their Causes. For it is a Maxim of 
+France
+ to sup∣port the Vassals against their 
+Lords,
+ well knowing, that as long as they have the People of their side, the
+
+ Princes and Gentry are not to be feared at all, who can do little with∣out the People, so that Her Interest sweys Her beyond all manner of Justice, provided she can thereby Establish her Dominion, or rather her absolute Tyranny.
+
+
+If we pass from hence to her u∣sage of the meaner Gentry, how many may we find ruin'd by their Garrisons: For she does not stop at ordinary Forms to establish her 
+Do∣minion,
+ though it be the Law to seize the Lands only of those that refuse Homage and Fealty, how many has she nevertheless imprisoned, to the end that by detaining at the same time, both their Persons and their Estates, necessity may con∣strain them to an absolute Subje∣ction to her Pleasure? But the 
+Con∣summation
+
+
+ of her Tyranny and In∣justice was her severity to the 
+Baron de L'Evenop,
+ a Gentleman of qua∣lity, and of a Family that once ho∣noured 
+Sweden
+ with a Queen. For after 
+France
+ had received his Fealty and Homage, she dispossessed him of his demeans, no person being able to say for what reason, nor could she ever give any her self, but her own covetous thirst after other Peoples Estates.
+
+
+There is no Prince in 
+Europe
+ who has not had a taste of her violences: who though they are sufficiently powerful to repress her 
+Insolence,
+ yet such is their blindness, that instead of uniting together for the com∣mon good, one would think they had conspir'd by their Disunion to surrender into her hands the 
+Empire
+
+
+ of the World. They know that she is in League with the 
+Turk
+ to harrass 
+Germany,
+ one on one side, and the other on the other side, and yet they will not unite to destroy an Enemy that seeks to reduce them to utter Slavery.
+
+
+And now since I have mention'd this 
+Allyance
+ with the 
+Turk,
+ it may not be amiss to convince those who have hitherto seem'd to make some question of the Truth of it, and that by one 
+Circumstance
+ against which there is no 
+Reply.
+ Every one knows the vigorous 
+Resistance
+ which the Count of 
+Starenbergh
+ Governour of 
+Vienna
+ made against the 
+Turk.
+ So that the 
+Grand Visier
+ after the loss of an 
+Infinite Number
+ of his Men, would have raised the Siege, if he could have done it with 
+Honour.
+ To which
+
+ purpose he sent back Count 
+Albert Caprara,
+ who was Embassador at the 
+Emperors Court,
+ whom he would never permit to return before that, to make him some 
+Propositions
+ of 
+Peace,
+ much more reasonable than those which he had proposed be∣fore: But the Marquiss of 
+Seppeville
+ who attended the 
+Emperor
+ from the King of 
+France,
+ being advertis'd thereof, dispatch'd a 
+Currier
+ to his Master to give him advice of it; up∣on which 
+Information France
+ sent a∣nother to the 
+Grand Visier,
+ to lay be∣fore him the 
+Dishonour
+ it would be to his 
+Reputation,
+ to raise the 
+Siege
+ so ignominiously after had lost such a Number of Men: Therefore that he would enter 
+Flanders
+ to constrain the 
+Princes
+ of the 
+Rhine
+ to recal their 
+Succours,
+ which they had sent to the
+
+ 
+Emperor;
+ by which 
+Diversion
+ he might soon accomplish his 
+Design.
+ Monsieur 
+Seppeville
+'s Currier arriv'd at 
+Fountain Bleau
+ the 22d. of 
+August
+ between 
+eight
+ and 
+nine
+ of the Clock in the Morning. The Person who was dispatch'd to the 
+Grand Visier,
+ or to Monsieur 
+Seppeville,
+ which is the same thing, went away at 
+one
+ of the Clock in the 
+Afternoon;
+ and the same 
+Afternoon
+ they did not only noise abroad their 
+Intentions
+ of inva∣ding 
+Flanders,
+ but orders were also given out in order thereto; so that the 
+Grand Visier
+ not questioning but that the 
+French
+ would keep their words this time more punctually than they had done before, continu∣ed his seige, and it is very probable that he would never have raised it, had he not been constrained to it,
+
+ till he had been Master of the Town. Which having brought me to speak of 
+France
+'s breach of 
+Faith
+ to the 
+Grand Visier,
+ it will not be amiss to tell the cause of it. Cer∣tain it is that by a 
+Private Treaty
+ be∣tween 
+France
+ and the Ottoman 
+Port,
+ for which 
+Teckeley
+ became security, and one whose name was 
+Bohan
+ the Instrument that managed the busi∣ness, 
+France
+ was obliged to attach the Empire upon the side next the 
+Rhine,
+ at what time the 
+Ottoman
+ was to invade 
+Hungary.
+ To which purpose the King of 
+France
+ was al∣ready advanced upon the 
+Frontiers;
+ but finding that the 
+Turks
+ having made such a prosperous Progress at the beginning, that he made no question but that they would carry 
+Vienna,
+ where they had already
+
+ planted their seige, had put all 
+Ger∣many
+ into such a Consternation, that all the Princes of the Empire gave themselves for lost, he stopped his March neither out of Moderation nor Christianity; but fearing to loose the good opinions of the Princes, imagining that in the condition to which they were reduced, they would be constrained to fly to him for Succour. And therefore think∣ing himself cock sure of the 
+Empire,
+ he would not carry Terror and De∣solation into a place which he ex∣pected so soon to command; which was the reason that he rather set up∣on 
+Spain
+ than the 
+Empire.
+ For he was always in hopes, that if the 
+Turks
+ got possession of 
+Vienna,
+ there was not any but himself that could oppose so formidable a Power, as
+
+ if the Princes of the 
+Empire
+ would not rather have chosen to have be∣come Tributary to the 
+Turk,
+ then to have submitted to the Yoak of 
+French
+ slavery. In a word, not to speak any more of Her Tyranny, which is incomparably more intol∣lerable than 
+Pagan
+ Servitude, may we not probably believe that she will exercise the same severy over their Conscience, not permitting the publick worship of God, where∣as among the 
+Heathens
+ you shall ne∣ver hear of those terrible Edicts, that commanded the demolishing of Churches, nor of Souldiers that only serve for Hangmen and Exe∣cutioners, to those that assembled together upon their Ruins, to sing Praises to their Creator.
+
+
+
+
+But though it be an easie thing, at least as I imagine to inculcate a horrour and dread of this unsuffe∣rable Domination, it is not so easie to teach the means to avoid it; con∣sidering, as I have already said, that all the Princes of the 
+Empire
+ seem to conspire to lay poor subju∣gated 
+Germany
+ in Fetters, at Her Feet. For is it not a thing that would move both Pity and Indig∣nation at the same time, to see that at a time when every one should labour their utmost, to withstand such an encroaching Violence, they daily strive to enlarge and support her Power? For what may they be said to think, who went about to Elect the Bishop of 
+Cologne,
+ or ra∣ther of 
+Strasburgh
+ to the Bishoprick of 
+Munster?
+ do they not know that
+
+ they are both entirely devoted to the Interest of 
+France?
+ Or if 
+Mon∣sieur
+ of 
+Cologne
+ should chance to o∣pen his Eyes, 
+Monsieur
+ of 
+Strasburgh
+ has such an Ascendant over him; that he would still prevail over him to continue in his 
+Blindness?
+ Do they not know, that if 
+Monsieur
+ of 
+Cologne
+ be a lover of 
+Peace, Monsieur
+ of 
+Stras∣burg
+ affects nothing so much as 
+War?
+ Do they not know, that it was by the perswasions of the 
+Deceased Arch∣bishop
+ of 
+Cologne,
+ and the defunct Bishop of 
+Strasburgh,
+ that 
+France
+ so furiously invaded the United Pro∣vinces; and that to increase the Power of their Successors, no less passionately enclined to enslave 
+Eu∣rope,
+ they have the same Repute, the same Inclinations, the same De∣signs with the Deceased? as ha∣ving the same Blood in their Veins,
+
+ and the same Souls in their Bodies? And yet when they saw into what a Precipice the 
+Deceased
+ had plung'd all 
+Germany,
+ as if they had quite forgot what was past, they would needs put the same Power into the Hands of their 
+Nephews
+ to Execute those things, which the Uncles had only in their Wills to do. The one already has surrendred the Capital City of his Bishoprick into the Hands of the 
+French;
+ and they would have the other to deliver up the rest of 
+Germany,
+ which is already suf∣ficiently captivated by their Trea∣chery. They would in a word tie up the 
+Hollanders
+ Hands, by the Vi∣cinity of a new Enemy, and by that means enchain the rest of 
+Eu∣rope,
+ whose 
+hopes
+ depend upon 'em.
+
+
+But let us conclude a discourse which 'tis to be feared will do but
+
+ little good, in regard that all the World is of that disposition; as not to love to be too nakedly told the Truth. So that as much as 
+France
+ may be offended with me for disco∣vering her Maxims and Policies, as much will others bear me ill will for reprehending their Weakness and Blindness. Yet I cannot for∣bear from saying this, with the ha∣zard of what ever they may think, that they make themselves Accom∣plices in all the 
+Enterprizes
+ of 
+France,
+ if they do not put an end to those differences that have so long kept them in Dis-union. For what can we say more? For one strives to invade 
+Lubec,
+ another 
+Pomeraenia,
+ others make head against them, while on the other side a Potent E∣nemy minds nothing more then to bring them altogether under his
+
+ subjection. They will not permit one Neighbour to grow more pow∣erful then another, but the never consider that there is an Enemy approaching, who not contented to have encreased his Dominions by large Conquests, will never be satisfied with being no more then their Neighbour, agreeable to what is said by the 
+Author
+ of a 
+late Pasquil
+ upon the present condition of 
+Eu∣rope.
+ For when he speaks of the 
+United Provinces,
+ he brings them in saying, That they will not have the Prince of 
+Orange
+ Reign over them; to which answer is made, That they 
+Act
+ like 
+Fools
+ and 
+Blindmen;
+ they are afraid lest the 
+Dog
+ should bite 'em, but ne'r mind the 
+Wolf
+ who is ready to devour 'em. Thus the 
+Northern
+ Princes perceive that 
+Dane∣mark
+
+
+ would fain joyn 
+Hamborough
+ and 
+Su∣beck
+ to the 
+Crown;
+ but they do not see that 
+France
+ will not only joyn to her 
+Crown,
+ not only both those Ci∣ties, but their own 
+Territories
+ them∣selves, if they do not 
+Unite
+ to hin∣der Her. They find that the 
+Mar∣quiss
+ of 
+Brandenburgh
+ has a design upon 
+Pomerania,
+ from whence he believes himself Excluded 
+contrary
+ to 
+Reason,
+ but they do not observe, that while they oppose the Enlarge∣ment of 
+His Dominion,
+ another en∣creases his Power so fast, that they run the hazard of being totally swallowed up by his Oppression. What remedy then against so many Mischiefs, but to forget the 
+Old Quar∣rel,
+ and to begin a new one. But first it behoves 'em to banish from 
+their Councils
+ those 
+Treacherous Souls,
+
+
+ who having crept into the favour of their Princes, reward 'em with continual Treasons for their kind∣nesses. They must give ear to none but their old Servants, whose Fide∣lity they have so often experienc'd that it would be an injury to sus∣pect 'em. For in the age we live in, we ought to distrust all the World, considering the general Corruption that shews it self every day; For had not 
+Strasburgh
+ been free to this day, had she had no o∣other then Persons of Fidelity with∣in her Bosom? But let us here I be∣seech ye consider and admire the differences between the Services that 
+France
+ receives from her Sub∣jects, and that which other States receive from theirs, which are in the service of 
+France.
+ I have shew∣ed
+
+ ye before, how 
+Boisdavid
+ and 
+Brignant
+ banish'd and proscrib'd as they are, notwithstanding serve as spies, the one in the Court of 
+Bran∣denburgh,
+ the other in the Court of 
+Zell.
+ I find I have shewed ye be∣fore that their Fidelity ought to have been little Credited by those Princes; but now let us on the o∣ther side see why the Fidelity of Count 
+Hasfield,
+ born a Subject to the King of 
+Sweden,
+ should be sus∣pected by the Prince his Master.
+
+
+Every own knows his Birth, and it would be superfluous to speak of it here, were it not to tell ye, that his Father being a 
+French Man,
+ and his Mother a 
+French Woman,
+ 'tis no wonder he retains the nature of a 
+French Man
+ himself. Nevertheless there is this to be said against him,
+
+ that after he had been born in 
+Swe∣den,
+ and raised from nothing by the favour of the King, all other 
+Ob∣ligations
+ ought to have given place; for that, what was a Vertue in his Father was a Crime in Him. Now who could ever dream without having an enmity to his person, that while 
+France
+ treats the King his Master after so gentile a man∣ner, that he should conspire the slavery of 
+Germany?
+ and yet was it not he that made so many Jour∣neys to 
+Strasburgh,
+ where he had more advantage to treat then o∣thers, by reason of his familiarity with the Language, and for that he was least suspected? Is not this he that kept so many Cabals in 
+Swe∣den?
+ where he knew the Great Per∣sonages were discontented, by rea∣son
+
+ that the King has taken from them sundry great profits, which they enjoyed rather by the Profusi∣on then Liberality of his 
+Predeces∣sors?
+ I only call the great Persons to Witness these things, and whe∣ther it be not likewise true, that at a drinking bout, where there were about seven or eight in Company, one of the Gang said to the rest, that if 
+Hasfield
+ were to be belei∣ved they would soon make a 
+Tecke∣ley
+ among themselves. However it be, he cannot say but that 
+France
+ has recompenc'd him very well for his good Service. For besides that he receives very considerable Pen∣sions and large Presents, She has advanced all his Family: He has two Brothers, of which the one is suddainly to be a Bishop, the other
+
+ an Abbot, the King having promi∣sed them, who never fails of his Word, unless it be that which he and his Ministers call 
+Word of State.
+ He has also two other Brothers, of which the one is at 
+Hamborough,
+ em∣ploy'd by the King of 
+France,
+ the worthy Brother of Monsieur 
+Has∣field,
+ that is to say, one as ready as himself to sell 
+Germany,
+ if it were in his Power, and the other in 
+Swe∣den,
+ who gives Intelligence of all that passes there; besides all those other Noble Gentlemen there, the Son of Monsieur 
+Bidal
+ a Merchant, the famous Bankrupt whom 
+Bolleau
+ has not failed to paint forth in his Satyrs, though he was lately com∣manded by an express order of the 
+Court,
+ to leave that passage out in in his next 
+Edition.
+ For Monsieur
+
+ 
+Hasfield
+ performing so many re∣markable Exploits, to render his Name immortal, it is but just to deface the Monuments of his Infa∣my.
+
+
+The way then to prevent so ma∣ny Abuses, is to imitate the Exam∣ple of 
+France
+ at this day; for she does not only confiscate the Goods of such as betake themselves to the Service of other Princes, but she always prohibits them under strict Penalties and corporal punishment, to go abroad. Nevertheless if she shews her self indulgent to any, it is easily thence to be infer'd; they only serve as spies in the Courts of those Princes that employ them; which is too serious a Truth.
+
+
+Let us then conclude, that so long as there is no order taken to
+
+ prevent these abuses, it is impossi∣ble we should ever prosper; but that 
+France
+ on the other side will have all the Advantages she can desire. For how is it possible that any un∣dertaking of ours should be 
+Crown'd
+ with happy Success, of which the 
+Enemy
+ has 
+Intelligence
+ long before it be put in Execution. To this let us add, that if it will not suffice for a Prince to distrust his own Mini∣sters, or to change them, let him be himself his own 
+Minister,
+ as one that may be assur'd that if there be one Person in his 
+Council
+ who is 
+Tem∣tation-proof,
+ there are hundreds that cannot resist the 
+Golden Charms.
+ And let him consider that if he himself as frequently now adays it happens will suffer himself to be purchased by him that offers most, his Mini∣sters
+
+ may well do the same, who have more need of Money then he has.
+
+
+There might be something also said touching the Remedy to be ap∣plied for prevention of these Mis∣chiefs, with which we find our selves at this day overwhelm'd. But in regard I can say no more then what other People have said before me, I had rather be silent, then to make too many repetitions in vain, and for the most part ra∣ther Speculative then Real. For when I consider what I have read in so many Authors, and heard in so many places, that it behoves all the Protestants to unite together, since the Catholicks are so negli∣gent, to oppose themselves against the common Ruin, may not I con∣clude,
+
+ that it is much more easie to discourse in this manner, then probable to see the Effect of such advice. For how is it possible that the Protestants should singly un∣dertake a War against 
+France,
+ when the Catholicks keep such a strict Watch upon them. We find at this day an apparent example of the Catholick designs, by which it is easie for us to judge how little Reliance there is upon the 
+French
+ Protestants in 
+Silesia,
+ and other ad∣joyning Provinces, where they are reduced to that misery, that they have more need of our Assistance. But they had rather the whole Em∣pire should perish, then remit any thing of their Cruelty.
+
+
+
+
+The House of 
+Austria,
+ which is maliciously incensed to our Destru∣ction, does not perceive the heavy Hand of God upon her for so many Crimes, for which she is accomp∣table to his Justice in respect of us, provoking still the same Justice by new transgressions, in contempt of Heavenly Mercy. Nor does she perceive that the Authors of all these violent Councels, I mean the Jusuits do not advice these things but for their own Interest. She is resolved to sacrifice the rest of the Empire to them, as she has already sacrificed a good part. Neverthe∣less let no man believe that what I have said proceeds from any natu∣ral Aversion to them, so natural to those of my Religion. I protest before God, that I bear malice to
+
+ no Man; and that I would not im∣pute to them the least of our Mise∣ries, but that I find that none of the honest and moderate party of their Religion, have any greater affecti∣on for them than my self. 'Tis well known that it was their Hun∣ger after the Estates of these four 
+Hungarian
+ Lords, whose 
+Heads
+ the Emperor caused to be struck off, rather to satisfie their urgent 
+Impor∣tunities
+ then for any Crime (unless yo will say their zeal for their 
+Re∣ligion
+ was a Crime) that was the main occasion of 
+sheding
+ their 
+Blood.
+ But seeing all that I could say, would as little prevail as what o∣thers have said before me, it will be better to make an end, and to confess that all our Miseries are at this day reduc'd to such a 
+Condition,
+
+
+ as well as the 
+Calamities
+ of 
+Germany,
+ that our 
+Preservation
+ is only to be ex∣pected from 
+God
+ alone.
+
+
+
+
+
+
+
+
+
+
+The 
+Speech
+ of Monsieur ZIEROW∣SKI, the 
+Emperors
+ Embassador in 
+Poland.
+ Spoken in the Royal Palace before his Majesty of 
+Poland,
+ and in the Presence of the Princes, Noblemen and Embassadors at that Court, at 
+Tavoravia,
+ the 6th. of 
+October, 1682.
+
+
+Most Great King,
+
+
+AMongst other Books, I have hit upon that of the Life and Exploits of Cardinal 
+Commendon,
+ who was sent to this Court by the Pope, with the Qua∣lity of extraordinary 
+Legate
+ in the Empire of 
+Sigismond,
+ and Reign of 
+Henry de Valois:
+ I have observed in it, that it was that Cardinal's Maxim, Never to answer but with an affected Silence and Contempt,
+
+ to all that his Ememies could do or say against him. Without doubt, in his Time, the State of Affairs, the Customs and Spirits were very different from what they now are; at least a long experience has made me judge them very different; and I know I cannot, without great disadvantage, conceal or connive at a thing that very much troubles me. I have understood that the French King's Minister's, published some days ago certain Letters, which brought, as it were, assured Testimonies, that His Imperial Ma∣jesties Envoyes only Business, with the 
+Ottoman
+ Court, was to endea∣vour, by all possible means, to turn the 
+Turkish
+ Armies against 
+Poland.
+
+
+There is no Body but sees, and your Majesty must needs perceive,
+
+ how injurious this is to the 
+Empire;
+ and to what end it is done. They give this out to disunite two King∣doms; both which, at this present Conjuncture of Affairs, have their chief Interest in being firmly uni∣ted. But the Letters took not so great an effect as they expected. The Spirits of this Court, were not so credulous as to believe them. They are too well satisfied in 
+Po∣land,
+ of the Piety and Affection of those of the House of 
+Austria;
+ to think that the Emperor, my 
+Master,
+ gives his Embassadors such base and unworthy Commissions. There is no body here that can doubt that his Imperial Majesty, would be as sensi∣ble of the loss of 
+Poland
+ as of 
+Hunga∣ry,
+ since it is as much his Interest to preserve the one as the other.
+
+
+
+
+I come not hither, great King, to tell you what through my Aver∣sion, I could publish upon little Rumours that have been spread a∣mong us: I bring your 
+Majesty
+ those things, which I can beyond all di∣spute, produce before the whole World, as the true 
+Originals
+ of 
+Let∣ters
+ and 
+Answers,
+ which the most Christian 
+Kings
+ Embassador, Mon∣sieur 
+Du Vernay Boucauld,
+ who is here present, has writ to Count 
+Teckeley,
+ the Head of the 
+Malecontents,
+ or received from him. These will evidently discover to your Majesty, what Affairs Monsieur 
+Du Vernay
+ has Treated about, with so much Secresie and Circumspection with 
+Count Teckeley;
+ and the reason he had so cautiously to conceal from you, the Commission he had in this 
+King∣dom.
+
+
+
+
+I humbly entreat your Majesty to remember how earnestly I in∣treated you, to remove the Sieur 
+Du Vernay
+ from your 
+Court
+ and 
+Do∣minions,
+ as a man pernicious to the 
+Empire
+ and 
+Poland.
+ You would have, great King, invincible Proofs and Testimonies of what I related; Here they are such as you will wish for, and I am perswaded they will be sufficient to make you judge the speedy departure of Monsieur 
+Du Vernay,
+ out of your Kingdom, ve∣ry necessary. But I fear, troubling your Majesty with a long 
+Discourse;
+ I pass by a thousand things which I could add; this Memorial is enough: To you I present it with all imagi∣nable respect.
+
+
+
+
+
+
+
+
+A 
+Memorial
+ presented to the King of 
+Poland,
+ by Monsieur 
+Zierowsky, the
+ Emperor's Resident. Which was read in the Presence of his Ma∣jesty of 
+Poland,
+ and before the Princes and Ministers of his Court; at 
+Tavo∣ravia,
+ the 6th. of 
+October, 1682.
+
+
+SInce the lact 
+Memorial,
+ which I had the Honour to present to your Majesty, I have endeavoured, according to the Advice of the Il∣lustrious Lords of the Senate, to furnish my self with some piece that might evidently appear what Cor∣respondence the 
+French
+ King's A∣gents have in your Kingdom with Count 
+Tekeley,
+ Head of the 
+Male∣contents
+ in 
+Hungary.
+ These want∣ed also to inform you, what Bar∣gains
+
+ and Agreements passed be∣tween them, which, as I said, tend to the breaking off the Peace and Treaties, that are between your Majesty and the Emperor, my Ma∣ster. You could not easily be infor∣med of it, from any but my self. I know the 
+French
+ King's Ministers daily assured your Majesty, that they had a hand in no such thing; and that we accused them falsely. And the 
+French
+ would no longer be suspected to have any ill 
+Design
+ a∣gainst the 
+Empire,
+ after the 
+Decla∣ration
+ the 
+French
+ King had made, at the raising the 
+Bloccade
+ of 
+Luxem∣bergh.
+ His most 
+Christian
+ Majesty would inform all 
+Europe,
+ how he be∣haved himself in that occasion; and they were careful to carry his De∣claration to all the Courts of the
+
+ chief 
+Christian Princes.
+ The 
+French
+ King plausibly declares, that having been informed of the Designs which are carrying on in the 
+East
+ against the 
+Empire,
+ he would put nothing in execution which might hinder his 
+Imperial Majesty,
+ and the most au∣gust House of 
+Austria,
+ from oppo∣sing the 
+Turk
+ with all their Forces, and providing for the common good of 
+Christendom.
+
+
+This could by no means allow your 
+Majesty
+ to believe, that the 
+French
+ were in League with the 
+Male-Contents
+ and 
+Turks;
+ and that they contributed to the taking and plundering the Towns of 
+Hunga∣ry;
+ for that appeared to be quite contrary to such fair 
+Declarations;
+ but God the Defender and Reven∣ger of 
+Christians,
+ has ordered those
+
+ things to fall into my hands, which I lay at the foot of your Majesties Throne; and which I lay before the Eyes of the whole 
+World.
+ These are the Sieur 
+Du Vernay
+'s Letters, and Correspondence with Count 
+Tekeley;
+ which you will find dia∣metrically opposite to those Decla∣rations, so worthy the piety and ge∣nerosity of the most 
+Christian King.
+
+
+I have made use of no evil pra∣ctice for the obtaining these 
+Letters:
+ I have not, though I could have done it, so much as employed any Body to observe the 
+French.
+ And to tell you all, I got these Letters by the means of the Steward of the most Illustrious Lord 
+Stadnick
+'s E∣state. The Sieur 
+Du Vernay,
+ after having long importuned the 
+Monks
+ of a Monastry of St. 
+Basil,
+ went
+
+ also to importune the Steward, who is 
+Castellan
+ at 
+Premislaw.
+ So much he did, that he stirred up the Gen∣tlemans anger against himself, and so consequently he became my friend, and has ever since been ve∣ry favourable to my Intentions. This 
+Castellan,
+ some days ago, stopt certain 
+Hungarians
+ coming back from 
+Nimiravia,
+ whither they went to see the Sieur 
+Du Vernay;
+ im∣mediately he ordered them to be brought to me, with the Letters he found about them. I presently took care to convey them to the 
+Emperor
+ my Master's 
+Territories;
+ sending at the same time the Letters, to the end that all the World might judg, whe∣ther I had not just 
+Cause
+ to suspect, that the Sieur 
+Du Vernay
+ exceeded his 
+Masters
+ Orders.
+
+
+
+
+Certainly, this Agent, this Mini∣ster, this 
+Spy,
+ this 
+Embassador,
+ I know not what to call him, but I mean Monsieur 
+Du Vernay,
+ has committed a great Outrage against all 
+Christen∣dom.
+ Against the 
+Emperor,
+ in fomen∣ting and contriving what he has a∣gainst him. Against your Majesty, in entertaining a 
+Commerce
+ so unwor∣thy, so pernicious, and for so long a time, without your knowledg, and in your Kingdom, as if he had been at home. I must add, for the Interest of your Kingdom; that this 
+Conduct
+ has given the 
+World
+ occasion to be∣lieve, that the 
+Polanders
+ were blind enough, not to see the dangers their Neighbours made them fear, and that they would themselves drive the 
+Ponyard
+ to their own Breast, in permitting the Sieur 
+Du Vernay
+ to
+
+ live amongst them. His 
+Proceeding
+ will, without doubt, appear very in∣jurious to the 
+French King;
+ for that Posterity may judg and believe, that the great King, 
+Lewis
+ the XIV, authorized or commanded, what the Sieur 
+Du Vernay,
+ his 
+Agent
+ did in his Name.
+
+
+Your Majesty will not take it ill, that we have discovered to the As∣semblies at 
+Francfort
+ and 
+Ratisbone;
+ the Famous Exploits of the 
+French,
+ with the Turks and Rebels of 
+Hun∣gary,
+ in your Kingdom, which for so many Ages has been closely uni∣ted with the August House of 
+Au∣stria;
+ and has always acknowledged its own Interest, to preserve 
+Hun∣gary
+ to the Empire, thinking it im∣possible for 
+Poland
+ to subsist if 
+Hun∣gary
+ shall fall.
+
+
+
+
+It is now a year, that the Sieur 
+Du Vernay
+ travels up and down several parts of your Majesties Dominions, on the 
+Borders
+ of 
+Hungary.
+ He always pretends his Masters, as if we could see that 
+Dantzick
+ or 
+Rogiomont,
+ which are the Places the 
+French
+ come through, were not nearer and more proper to receive what Orders the 
+French
+ King would send, but he stays there to observe the nearer, the Af∣fairs of 
+Hungary:
+ It may be also, to be in a better condition to give Count 
+Tekeley Joy,
+ and to get the reputation with him, of the progress the 
+Turks
+ by his means, might make in that Country
+
+
+I desire your Majesty, That after you have seen the 
+Memorial,
+ I pre∣sent; and after you are convinced of all the Arts the 
+French
+ have used in
+
+ this 
+Kingdom,
+ you will be pleased to order the Seiur 
+Du Vernay
+ to depart your Dominions, since he abuses his Employments to the prejudice of all Christendom; and renders himself unworthy the protection the Law of Nations allows.
+
+
+You may do so much the more justly, great King, because the Ro∣man Catholick Church, your Mo∣ther, esteems them as Excommuni∣cated Persons, who side with Infi∣dels, whether it be carrying them Arms, or treating with them.
+
+
+The Seiur 
+Du Vernay
+ has drawn this upon his own head, and if he is punished according to his deserts the most Christian King will banish him his Kingdom, for exeeding his 
+Orders,
+ & engaging his Master's Ho∣nor and Reputation. In fine, he has
+
+ committed his Vilanies in the 
+French
+ King's Name, and broke his Ma∣sters word; acting in all things con∣trary to the 
+observance
+ of it, which if it should fail in the world, could be no where found but in the Mouth of a King or Prince.
+
+
+I doubt not, great King, but all my pressing, reiterated and just In∣stances, will at last take effect. The Alliances and Treaties that are be∣tween this Kingdom and the Em∣pire, require it from your Majesty. And I also, with a most profound respect, beg to be admitted to the honour of some part of your Affe∣cti
+
+
+
+
+
+
+
+
+
+
+A
+ Letter 
+from Monsieur
+ Du Vernay, 
+to Count
+ Emery Tekeley.
+
+
+My Lord,
+
+
+I Received with great joy the Let∣ters, you did me the honour to write to me, from the Camp before 
+Filleck,
+ enclosed in the Pacquets of our Embassadors at 
+Constantinople;
+ nevertheless, 
+I
+ was a little surprized that you should seal them before he had seen them. 
+I
+ wonder also you said nothing about the Siege of 
+Filleck.
+ However, 
+I
+ doubt not but that place, by this time is in your power. Monsieur 
+Jaygel, I
+ be∣lieve, knows by my last Letters, that 
+I
+ have several times endeavou∣red to send him what 
+I
+ promised and let him have what 
+I
+ have recei∣ved,
+
+ but 
+I
+ always wanted an oppor∣tunity. When you send any of your People to me, order them not to come to my House but at night, to the end we may do our business without any bodies knowledge. But what I most earnestly desire is, that above all things, they take care not to follow the Road that goes directly from 
+Tavoravia
+ to 
+Nimiro∣via.
+ For here are several Polish Gentlemen, who by the most Se∣rene King of 
+Poland
+'s Order, search, visit and detain all strangers that pass. The safest way in my opi∣nion is, that they leave 
+Premislaw
+ and 
+Toreslavia
+ on the right hand, and follow the Road that leads to 
+San∣domiria,
+ least they be seen to enter 
+Nimirovia,
+ where I am surrounded with Spies. I recommend the En∣closed
+
+ to you; and desire you to send them according to their Dire∣ctions, by the first opportunity. I will take the same care in all things you shall be pleased to command me. I am most cordially,
+
+
+Sir,
+
+
+Your most zealous Servant,
+ Du Vernay Boucald.
+
+
+Nimirovia,
+ 
+Sept.
+ the 22d. 1682.
+
+
+
+
+
+
+The
+ Superscription 
+was thus,
+
+
+To the most Illustrious Lord, Count 
+Emery Tekeley,
+ Lord of 
+Kesmark
+ and 
+Arve,
+ General of the 
+Hungarian
+ Army, that fights for it's Country. 
+
+
+THE 
+Audience
+ being ended, His 
+Majesty
+ of 
+Poland
+ said, he was convinced of the 
+French Correspon∣dence
+ with the 
+Male-Contents.
+ He shew'd himself very angry that the thing had been conceal'd from him. Next day some of the 
+Chief Officers
+ of his 
+Court,
+ had Orders to go and command the Sieur 
+Du Vernay,
+ im∣mediately to depart the 
+Kingdom.
+ He said, he would obey his 
+Majesties Or∣der;
+ but that he earnestly desired those 
+Gentlemen
+ to give him some
+
+ days, that he might take the 
+Coach
+ of 
+Transylvania.
+ On the other side, the 
+Emperor
+'s 
+Resident
+ used all dili∣gence, and with great Success; for Monsieur 
+Du Vernay
+'s Letter carrier called 
+Kelemeschi,
+ returned to 
+Nimi∣rovia,
+ before his departure. This 
+Courier
+ came with those whom 
+Te∣keley
+ sent to the Sieur 
+Du Vernay,
+ with his 
+Letters;
+ and those of his great 
+Agent
+ and 
+Confident Jaygel.
+ These 
+Couriers
+ were seized, and the 
+Letters
+ they had intercepted, were partly writ in 
+Cyphers,
+ which you will here find interpreted.
+
+
+
+
+
+
+A
+ Letter 
+from Count
+ TECKELEY to Monsieur 
+Du
+ VERNAY.
+
+
+SIR,
+
+
+I Doubt not, but you have made much of Monsieur 
+Valentine Ne∣messani
+ my Envoy. He has always been faithful to me, and very true to my Interest. The Recommen∣dations you gave him touching the Affairs he communicated with you, will without doubt be of great Im∣portance to him, with the most Christian King. I am beholding to you for all you have done for him, and shall acknowledg it as occasion serves: It is time I should inform you, of the present State of my 
+Affairs.
+ After I had taken 
+Cassovia,
+ and entred some 
+Forts
+ about it; I
+
+ went with the 
+Visier
+ of 
+Budas
+'s 
+Troops,
+ to attack the 
+Famous
+ Fort of 
+Filleck:
+ The 
+Inhabitants
+ refused, at first, to put themselves under my 
+Protection;
+ but after a Fortnights Siege, they came to beg 
+I
+ would admit them to capitulate; 
+I
+ gran∣ted them what they asked; which was, that the 
+Garrison,
+ and what o∣ther 
+People
+ there was, should go out, carrying with them as much as they could upon their Backs: Then 
+I
+ raised the 
+Fort,
+ in sight of the 
+Imperial Army,
+ which was hard by in the 
+Mountains.
+ As 
+I
+ am now in∣formed, it is marched away; and having sacked the Town of 
+Vieux∣sols
+ and other 
+Places
+ retires very ha∣stily. 
+I
+ design to follow the 
+Imperi∣alists,
+ and drive them far off, to re∣store my 
+Country
+ to its former Li∣berty.
+
+ At length the 
+Emperor
+ will be forced to yield by 
+Force,
+ what we beg as a 
+Favour.
+ Heaven has com∣miserated my 
+Fortune
+ indeed some∣what late; but 
+I
+ also hope, it will draw on a greater and more speedy Vengeance. Sir, 
+I
+ will take care to inform you of all my other 
+Affairs;
+ however 
+I
+ desire you always to stand my 
+Friend. I
+ am
+
+
+Sir,
+
+
+Always ready to serve you,
+ EMERY TEKELEY.
+
+
+At the Camp before
+ Filleck 
+Sept.
+ 18. 1682.
+
+
+
+
+The Superscription was:
+
+To the Most Illustrious Lord, Monsieur
+ Du Ver∣nay Boucauld, 
+Embassador Extraordinary from the
+ French King.
+
+
+
+
+
+
+A 
+Letter
+ from Monsieur 
+Peter Jaigel,
+ Governour of 
+Cossovia,
+ To Mon∣sieur 
+Du Vernay.
+
+
+SIR,
+
+
+LAst Wednesday we took and raised 
+Filleck;
+ where above a 
+Thousand Janizaries
+ were slain. After∣wards, the 
+Visier
+ made all the 
+Hun∣garians
+ that were present, and were under the Prince of 
+Transilvania
+'s Dominion, be brought before our 
+Illustrious Count;
+ then all the 
+Estates
+ of the Upper 
+Hungary
+ being Assem∣bled, Monsieur 
+Tekeley
+ was Proclai∣med King, and confirmed in that Quality by the 
+Great Turk,
+ who sent him from the 
+Port,
+ a Hat instead of a Crown, with a 
+Standard
+ and 
+Scep∣ter.
+ After the Ceremony, the 
+Count
+
+
+ very modestly refused the Title of 
+King:
+ He is satisfyed with that of Prince Regent of 
+Hungary:
+ His 
+Ti∣tles
+ are, 
+Emericus Thokolius Princeps, ac partium Regni Hungariae Dominus,
+ &c. After this Election, the 
+Visier
+ gave him the best Troops, to pursue at the 
+Head
+ of the Army, those of the 
+Imperialists. Caprara
+ having de∣serted the Mountains, pillaged the Towns, and abandoned the Forts 
+Vigles
+ and 
+Zolian,
+ and is at last retir'd and has taken his way towards 
+Threnezin.
+ Sir, we had done some∣thing more, but we have not recei∣ved what you promis'd us, and without that supply, we are forced to proceed gently in our business. Monsieur 
+Nemessani
+ is gone to treat of Affairs, at the 
+French King
+'s 
+Court.
+ He needs your 
+Instructions;
+ we have
+
+ order'd him in all things, to Act to your Honour. We will very sud∣denly send you an Express; I beg of you for God's sake, make him up as large a Sum as you can. I always remain, as I ought,
+
+
+SIR,
+
+
+Your most obliged Servant,
+ Peter Jaigel.
+
+
+Gassovia,
+ 
+Sept.
+ 22d. 1682.
+
+
+
+
+The Superscription was,
+
+To the most Illustrious Lord, Monsieur
+ Du Vernay Boucauld, 
+Embassa∣dor Extraordinary from the French King.
+
+
+
+
+After the 
+Emperors Resident
+ had the second time produced these 
+Letters,
+ and the 
+Days
+ appointed were expired, his 
+Majesty
+ of 
+Poland
+ sent word to the Marquiss 
+de Vitry,
+ the 
+French Embassador
+ in 
+Poland,
+ to cause the Sieur 
+Du Vernay,
+ immediately to retire, that he was weary of hea∣ring daily of his new 
+Designs.
+
+
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

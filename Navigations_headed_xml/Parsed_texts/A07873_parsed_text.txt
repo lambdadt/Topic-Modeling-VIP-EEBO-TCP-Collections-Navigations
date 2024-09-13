@@ -1,0 +1,3997 @@
+A treatyse of the newe India with other new founde landes and islandes, aswell eastwarde as westwarde, as they are knowen and found in these oure dayes, after the description of Sebastian Munster in his boke of universall cosmographie: wherin the diligent reader may see the good successe and rewarde of noble and honeste enterpryses, by the which not only worldly ryches are obtayned, but also God is glorified, [and] the Christian faythe enlarged. Translated out of Latin into Englishe. By Rycharde Eden.
+Cosmographia. English. Abridgments
+Münster, Sebastian, 1489-1552.
+Approx. 215 KB of XML-encoded text transcribed from 106 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-01 (EEBO-TCP Phase 1).
+A07873
+
+
+
+
+STC 18244
+
+
+
+ESTC S101322
+
+
+
+
+
+99837138
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A treatyse of the newe India with other new founde landes and islandes, aswell eastwarde as westwarde, as they are knowen and found in these oure dayes, after the description of Sebastian Munster in his boke of universall cosmographie: wherin the diligent reader may see the good successe and rewarde of noble and honeste enterpryses, by the which not only worldly ryches are obtayned, but also God is glorified, [and] the Christian faythe enlarged. Translated out of Latin into Englishe. By Rycharde Eden.
+Cosmographia. English. Abridgments
+Münster, Sebastian, 1489-1552.
+Eden, Richard, 1521?-1576.
+[204] p.   
+
+
+[Imprinted at London :
+
+
+In Lombard strete, by [S. Mierdman for] Edward Sutton,
+
+
+[1553]]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Voyages and travels --  Early works to 1800.
+America --  Discovery and exploration --  Early works to 1800.
+2000
+TCP
+Assigned for keying and markup
+2002-01
+SPi Global
+Keyed and coded from ProQuest page images
+2002-03
+TCP Staff (Michigan)
+Sampled and proofread
+2002-03
+Olivia Bottum
+Text and markup reviewed and edited
+2002-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18244
+
+
+99837138
+
+
+1448
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¶A treatyse of the newe 
+India,
+ with other new founde landes and Ilandes, aswell eastwarde as westwarde, as they are knowen and found in these oure dayes, after the descripcion of Se∣bastian Munster in his boke of vni∣uersall Cosmographie: wherin the diligent reader may see the good successe and rewarde of noble and honeste enterpryses, by the which not only world∣ly ryches are obtayned, but also God is glo∣rified, & the Chri∣stian fayth en∣larged.
+
+
+Translated out of Latin into Englishe. By Ryrcharde Eden.
+
+
+☞Praeter spem sub spae.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¶To the right hyghe and mighty Prince, the Duke of Northumberlande, hys grace.
+
+
+I Reade in auncient wri∣ters (most noble prince) how that mightie kyng and conquerour of the world, Alexander the great, at such tyme as he beheld y
+e
+ tombe of fearse Achilles, & therewith called to his remēbraunce howe excellently the Poet Homere had set forth his he∣roical factes, which notwithstāding he thoughte to be muche inferiour vnto his, he sighed & sayde: Oh the most fortunate, which haste founde such a trōpe to magnifi thi doinges, meaning hereby, that the fame of A∣chilles was no lesse notable to hys posteritie by homers writing, thē it was in hys lyfe tyme by hys owne
+
+
+
+
+marcial affayres. Wherby we maye perceue such magnanimitie to haue ben in our predicessours, men of no∣ble & stout courage, y
+t
+ they thought it not sufficiente in their life time to deserue prayse & honour, except the same might also redounde to theyr posteritie, y
+t
+ they mighte therby bee encouraged to do the like. Whyche thing truely hath ben y
+e
+ cause, y
+t
+ in al ages, noble enterprises haue ben cō∣mended, & such as haue attempted y
+e
+ same, haue bene honoured. Wher∣fore if honest cōmendacions be a iust reward dew to noble enterprises, so much do they robbe & spoyle from y
+e
+ dignitie therof, which in any poynt diminishe the same: no lesse confoun∣dinge the order of thinges, then he whiche cloteth an ape in purple, & a king in sackecloth. This I speake y
+•
+ rather, beecause there chaunsed of late to come to my handes, a shiete of printed paper, (more worthy so to
+
+
+
+
+bee called then a boke) entytuled of the newe founde landes. The whyche t
+tle when I readde, as one not vtterlye ignoraunt hereof, hauynge before in my tyme readde 
+Decades,
+ and also the nauigations 
+de nouo orbe,
+ there seemed too me no lesse inequalitye betwene the tytle and the booke, then if a man woulde professe to wryte of Englande, and entreated onelye of Trumpington a vyllage wythin a myle of Cam∣brydge. Wherefore partelye mo∣ued the good affeccion, whyche I haue euer borne to the science of Cosmographie, whyche entreately of the descripcion of the worlde, whereof the newe founde landes are no smal part, & much more by y
+•
+ good wyll, whych of duetie I beare to my natyue countrey & countrey∣mē, which haue of late to their great praise (whatsoeuer succede) attēp∣ted w
+t
+ newe viages to serche y
+e
+ seas
+
+
+
+
+and newe found lādes, I thought it worthy my trauayle, to their better comfort, (as one not otherwise able to further theyr enterprise) to trās∣late this boke oute of latin into En∣glishe. The which, albeit it do not so largely or particulerlye entreate of euery part, region or cōmoditie of y
+e
+ sayd new found landes, as the wor∣thines of the thing might requyre: yet sure I am that aswel they which set forth or take vpō thē this viage, as also they which shal hereafter at∣tempt y
+e
+ lyke, may in this smal boke as in a little glasse, see some cleare light, not only how to learne by the example dāmage, good successe, and aduētures of other, how to behaue them selues & direct theyr viage to their most cōmoditie, but also if dew successe herein shoulde not chaunce according vnto theyr hope & expec∣taciō (as oftētimes chāceth in great affaires,) yet not for one foyle or fal, so to be dismayd as with shame and
+
+
+
+
+dishonor to leaue wyth losse, but ra∣ther to the death to persist in a god∣ly, honeste, & lawful purpose, know∣ing that wheras one death is dewe to nature, the same is more honour∣ably spēt in such attemptes as may be to the glorye of God & cōmoditie of our countrey, then in soft beddes at home, amōg the teares & weping of women. Which manlye courage (like vnto that which hath ben seen and proued in your grace, aswell in forene realmes, as also in this oure countrey) yf it had not been wāting in other in these our dayes, at suche time as our souereigne Lord of no∣ble memorie Kinge Henry the .viij. about the same yere of his raygne, furnished & sent forth certen shippes vnder the gouernaunce of Sebasti∣an Cabot yet liuing, & one syr Tho∣mas Perte, whose faynt heart was the cause that that viage toke none effect, yf (I say) such manly courage
+
+
+
+
+wherof we haue spoken, had not at that tyme bene wanting, it myghte happelye haue comen to passe, that that riche treasurye called 
+Perularia,
+ (which is now in Spayne in the ci∣tie of Ciuile, and so named, for that in it is kepte the infinite ryches brought thither frō the newe found land of 
+Peru,
+) myght longe since haue bene in the towre of London, to the kinges great honoure and welth of this his realme. What riches the Emperoure hath gotten oute of all the newe founde landes, it may wel appeare, wheras onlye in the Ilan∣des of 
+Hispana
+ or 
+Hispaniola
+ and 
+Cuba
+ & other Ilandes there aboute, were gathered in two monethes twelue thousand poundes weyght of gold as youre grace maye reade in this boke, in the descripcion of the Ilan∣des. Yet speake I here nothynge of perles, precious stones, and spices. Neyther yet of the greate aboun∣daunce
+
+
+
+
+of golde, whiche is engen∣dred almost in al regions neare vn∣to the 
+AEquinoctial
+ line. And wheras I am aduertised y
+t
+ youre grace haue bene a greate fortherer of thys vi∣age, (as you haue bene euer studi∣ous for the cōmoditie of your coun∣trey,) I thought my trauayl herein coulde no wayes be more worthely bestowed, then to dedicate the same vnto your grace: Most humbly de∣siringe youre honoure so to accepte mine intente herein, as one whose good will hath not wanted to gra∣tifie your grace with a better thing if mine abilitie were greater. Thus Almighty God preserue your grace in health and honour long to continue.
+
+
+¶Your graces poore o∣ratour Rychard Eden.
+
+
+
+
+
+
+
+
+¶Rychard Eden to the reader.
+
+
+WHereas in this Booke (welbeloued Read
+r) y
+u
+ mayest 
+eade ma
+ye straunge thinges, a
+d in maner incredible, except the same were proued most cer∣tayn by dayly experiēce, & approued auctoritie, (as shall hereafter appeare) I thought it good for thy bett
+r instruction to make this Preface, wherby t
+u mightest more playnly & sensibly cōprehend 
+he reasons & causes, yf not of al, yet of some of the chiefest thinges, which are con∣teyned in the same
+ Therfore wheras thou shalt r
+ade of the great abundaūce of gold, precious stones & spices, which the Spaniardes & Por∣tugales haue brought frō the South partes of the worlde, as from the newe founde landes & Ilandes, the sodeyn straungenes or greatnes of the thing shal not so much amase thy wittes, and gender in thee incrudelitie, yf thou cōsider the saying of wyse Salomon, who affyrmeth y
+t
+ there is no new thing vnder the Sunne,
+ & that the thing that hath been, cometh to passe again: which saying doeth greatly cōfyrme the trueth, of such thinges as are spoken of in this Boke, wheras the same perhappes to some mē might otherwyse seme in maner incredible, yf the lyke had not been sene in 
+yme paste, & approued by auctoritie of moste holy scripture, which decla∣ring
+
+
+
+
+the great wysdō, ryches, & noble viages of King Salomō,
+ sayth that God gaue him wisdō and vnderstāding exceding muche, and a large heart, and that he prepared a nauie of shippes,
+ in the porte of 
+Azion Gaber,
+ by the brinke of the redde sea, which sayled to 
+Ophir,
+ & brought frō thence .xxi. score hundreth (whiche is .xl
+. M.) weyght of golde. Agay
+e,
+ that the weyghte of golde which was broughte to Salomon in one yere, was .vi. hūdreth, thre score & .vi. talētes of gold, wheras the Hebrue talente, called 
+Talente Haebraicū sanctuarii,
+ was of our st
+rling money 500. pounde, & 
+Talent Haebrai
+um uulgare,
+ was halfe so much. Lykewyse y
+t
+ si
+uer was nothing worth in the dayes of Salomō, and y
+t
+ he made siluer & gold in Hierusalē as plētiou
+ as stones Agay
+,
+ that he ouerlayd the house of the Lord with precious stones beauti
+ully,
+ and the gold wherwith he couered it, was golde of 
+Paruaim.
+ Also that the kinges nauie of shippes wēt once in thre yere to 
+Tharsis,
+ and brought Gold, Sil∣uer, Apes
+ Peacockes, and Elephantes teeth, Which wordes surely seme so to confirme such thinges as are spoken of in the nauigacions wherof this boke entreateth, that nothinge can make more for the truth of the same:
+ and briefe∣ly to speake of the places whether Salomons shippes sayled for Gold, as 
+Tharsis
+ and 
+Ophir.
+ This ought to be cōsydered for a general rule, that nearest vnto the south partes of the world
+
+
+
+
+betwene the two Tropikes vnder y
+e
+ 
+Equinoctial
+ or burning lyne, where the sunne is of greatest forse,
+ is the chiefest place where gold is engen∣dred, although it be sometymes founde in colde regiōs as in Scotland, in Crayford more, like∣wyse in H
+ngary,
+ yet nether pure of it self, nor in great quātitie: the reason whereof is largely declared in the 
+ookes of George Agric, & Al∣bertus Magnus. And wheras it is written in y
+e
+ 
+oke of Kinges in the Actes of Salomon that he prepared his shippes in 
+Azion Gaber,
+ beyng by the brinke of the readde s
+a, and sayled from thence to 
+Ophir
+ for Golde, it is apparaunt, that (howsoeuer the names of thinges haue altered and perisshed in tyme) he sayled from thence southwarde towarde the Equinoctial lyne,
+ for asmuche as there is none other passage oute of the narownesse of the readde sea, but onely into the mayne South sea, by the which the Portu∣gales euen at this daye make theyr viage to 
+Calicut,
+ 
+Samo
+ra, Madagascar,
+ and such other I∣landes in the South east partes of the worlde, where Golde, Spyces, Apes, and Elephantes are nowe founde in lyke maner.
+ But as for 
+Tharsis
+ bey
+ge a cytye of 
+Cilicia
+ in Asia the l
+sse & the na
+iue countreye of S. Paule the Apostle, and situa
+e muche more toward the North, thē is Iudea, and in maner directlye ouer againste Iudea on the othersyde of the sea called Mare
+
+
+
+
+Mediteraneū, & in the same clime, in the which standeth the Ilande of Sicilia,
+ and the cytie of Ciuile in Spayne,
+ it hardelye agreeth with the principles of Philosophie & cōmon experience, that golde should be there engendred in lyke a∣bundaunce as in Regions more towarde the south, much lesse Elephantes and Apes, which are no where engēdred farre frō the 
+AEquinoctial
+ lyne, or beyonde the two Tropikes, nor yet wil engendre yf they be broughte into those partes of the world. The lyke is to be vnderstande of Popingiayes and spyces,
+ and dyuers other beastes, fruites, and trees, which are engende∣red in ce
+tayne climes of the worlde, and wyll not prospere in other places: the reason wherof were here to longe declare.
+ For lyke as pepper wyll not growe in Spayne, no more wyll the Orange tree bringe foorth fruite in Englande.
+ Wherefore, it maye seme by good reason, that the Golde, Apes, and Elephantes teeth which were broughte from 
+Tharsis
+ (yf it were 
+Tharsis
+ of 
+Cilicia
+) were not engēdered there, but rather brought thether by marchaūtes from the south partes of the world, out of Mauritania, Mar∣marica, Ethiopia, Libia, & Arabia, or otherwise by lande, from the East India,
+ lyke as at this daye, the greate multitude of Spyces, Golde, Precious stones, Sylke, and Iuerye, whyche is at Calicut and Cambaia, growe not al in the regiōs there about, but are brought thether frō
+
+
+
+
+dyuers other countreys, as doeth more largely appeare in this Boke. And that Salomōs fac∣tours for exchau
+ge of other marchaundyse, bought the same in 
+Tharsis,
+ be
+g bro
+ght the∣ther frō other countreyes, as it is written in the thyrde Boke of the Kinges, that Salomon had great plentie of Gold of Marchauntes & Apo∣thecaries. So that to conclude, I would rather thinke (sauing reformacion of o
+her better lear∣ned) that this 
+Tharsis
+ (& not 
+Tharsis
+ of 
+Cilicia,
+) from whence Salomon had so great plentie of Gold and Iuerie, were rather some other coū∣trey in the south partes of the world, then this 
+Tharsis
+ of 
+Cilicia.
+ For
+ not onely olde and newe Histories, dayly experience, and the principles of natural Philosophie doe agree, y
+t
+ the places most apte to bring forth gold, spices, & precious stones,
+ are the South and Southeast partes of the world,
+ but also our Sauiour Christ appro∣ueth the same,
+ declaring that the Quene of the South (meaning the Qu
+ne of Saba) came frō the vtmoste partes of the worlde to heare the wysdom of Salomon. And lyke as by the auc∣toritie of these woordes it is playne fro
+ what partes of the world she came, the same to a phi∣losophical head is apparent by s
+che r
+ches & presentes as she broughte with her. For albeit that in the Chronacles of Salomon it is 
+ot written by expressed wordes that she came frō the Southe, yet is it wrytten that she came to
+
+
+
+
+Hierusalem with a very great trayne,
+ with ca∣mels laden with spyces, swete odours, & excea∣ding much gold & precious stones, which de∣scripcion doeth well agree,
+ both with the situa∣cion of the cytie of Saba in 
+Ethiopia
+ vnder E∣gipt: and also with the cou
+trey of Saba, being in the middel of Arabia,
+ inuironned about with great rockes wherin is a great wood of Preci∣ous trees, some of Cinomome & Cassia, & some bringing forth frank
+ncense and myrre, as wri∣teth 
+Plinius lib.
+ 12. and 
+Theophrastus li.
+ 9. 
+de Hist. Plant.
+ Wherefore the Quene of 
+aba myghte worthely be called 
+he quene of the South, for∣asmuch as bothe Saba (or rather Sabat) in 
+E∣thiopia,
+ whiche Iosephus thinketh to be the I∣land of 
+Meroe,
+ now called 
+Elsaba,
+ beinge in the ryuer of 
+Nilus,
+ & that the quene came frō thence, & also Saba in Arabia, are situate farre South∣warde from Hierusalem, euen in maner in the middest of the lyne, called 
+Tropicus Can
+ri,
+ and the 
+Equin
+ctinal lyne,
+ 
+here the Pole Artike is eleuate not passing .1
+. degrees or thereabout (as in Meroae) where as the same pole is eleuate at Hierusalem. 22. degrees: whereby it may ap∣peare y
+t
+ the quene of Saba (whō Christe calleth the quene of y
+e
+ south,) came frō the south partes about .xi. hundreth & .xl. miles from Hierusalē, for the same distaunce is frō Saba in 
+Meroe
+ to Hier
+salem, as betwene Rome & Englād.
+ 
+ut as touching this matter, it shall suffyse to haue
+
+
+
+
+sayde thus muche. Nowe therefore to returne home from these farre countreys,
+ and to speake somewhat of this viage which oure countrey∣menne, haue attempted to sayle into the Easte partes, by the coastes of Norway, Lappia, and Finmarchia,
+ and so by the narrowe tracte of the Sea by the coastes of Grouelande, into the frosen sea, called 
+Maroae,
+ Congelatū, & so forth to Cathay (yf any suche passage may be found) whiche onely doubte doeth at this daye disco∣rage many faynte hearted men, speciallye bee∣cause in the moste parte of Globes & Mappes they see the continente or fyrme land,
+ extended euen to the North Pole without any such pas∣sage. Which thing ought to moue no mā great∣ly, 
+orasmuch as the most parte of Globes a
+d mappes are made after Ptolomeus Tables:
+ Who, albeit he was an excellent man, yet were there many thinges hyd from his knowledge, as not sufficientelye tryed or searched at those daies, as manifestly appeareth in that he knew nothing of.
+ 
+America
+ with the hole fyrme lande adherent thereunto, which is nowe found to be the fourth parte of the earth. Neyther yet knew he any thinge of the passage by the Weste into the Easte, by the strayghtes of 
+Magellanus
+ as you shal reade in this Boke,
+ Neyther of the I∣landes in the Weste Ocean Sea,
+ nor of the I∣landes of 
+Molucca
+ situate in the mayne Easte Indian Sea. And as touchinge this passage,
+
+
+
+
+albeit, it were not knowē in Ptolomeus dayes yet other auctors of later time, who perhappes haue hadde further experience of the thing (as good reason is) doe wryte not onely that there is a passage by the Northe Sea into the mayne Easte Sea,
+ but doe also further declare, howe certayne shippes haue safelye sayled throughe the same,
+ as 
+Pius secundus
+ (otherwyse called 
+AE
+eas Siluius
+) an excellente aucto
+e descrybeth in his Boke of Cosmographie, where he hath these wordes folowing. Of the North Ocean Sea, whether it may be sayled aboute or not, the contencion is greater, yet is it apparaunte that the greateste parte thereof aboute Ger∣manie,
+ hath been searched by the commaunde∣mente of Augustus themperour, euen vnto the promontorie or landes ende of the people,
+ cal∣led 
+Cimbri.
+ The seas also and coastes of 
+Caspia
+ were so searched during the warres of the 
+Ma∣cedonians
+ vnder the dominion of 
+Seleucus
+ & 
+An∣thiocus,
+ that al most all the North on euery syde was sayled about. Plinie rehearseth the testi∣monie of Cornelius Nepos,
+ who wryteth that the king of Sueuia (or Swethelande) gaue to 
+Metellus celer,
+ proconsull or leauetenaunte of Fraunce, certayne Iudians or menne of Iude, whiche saylinge out of India for mar
+haun∣dyse, were by tempest drieuen into Germanie. We also reade in Otho, that vnder thempyre
+
+
+
+
+of the Germaynes, there was a shippe of In∣dians taken in the North sea of Germanie,
+ and drieuen thether by contrary wynd frō the East partes: which thing coulde by no meanes haue comen to passe, yf (as many menne thinke) the North sea were not nauigable by reason of ex∣treme cold & Ise. And these be the very wordes of 
+Pius Secundus,
+ whereunto I adde, that thys, notwithstandinge, yf it should so chaunce, that ether there can no such passage be found, or the same so daungerous, or otherwyse that the ve∣ry cutte thereof by which onely perhappes any shippes might passe, could not be founde, yea, or to caste the worste, yf they shoulde perishe in this viage, yet I woulde wishe all men to be of such corage and constancie in these affayres, as are valiaunt capitaynes in the warres: who, yf by misfortune they take a foyle, doe rather stu∣die how by some other wayes to recouer theyr honour and reputaciō diminished by the same, then with shame, losse, & dishonour, euer after∣warde to geue place to theyr enemyes, or for∣sweare the warres. Wherefore, to conclude, yf no good can be done this way, it were worthy the aduēture to attempt, yf the same viage may bee broughte to passe, another waye, as by the strayght called 
+Fretū trium fratrum,
+ westward & by North from England, whiche viage is suf∣ficiently knowen to suche as haue any skyll in
+
+
+
+
+Geographie. As for other landes and Ilandes in the west sea, where the Eagle (yet not in eue∣ry place) hath so spled his winges, that other poore byrdes may not without offēce seke theyr praye within the compasse of the same,
+ I wyll speake nothing hereof, bycause I wold be loth to lay an egge, wherof other men might hatche a serpent. Wherfore to let this passe, & to entre into another matter. Forasmuch as in these our daies hath chaūced so great a secret to be foūd, as the like hath neuer been knowē or heard be∣fore, (what soeuer God meant to kepe this mi∣stery hyd so long) I thoughte it good to speake somwhat hereof: trusting y
+t
+ the pleasaūt cōtem∣placiō of the thing it selfe, shal make the length of this preface lesse tedious, especially yf it find a reader whose soule delyteth to prayse God in his workes. The thing therfore is this, how the hole globe of the world (of the earth and wate
+ I meane) hath been sayled aboute, by the West into the East, as doth more largely appeare in this boke in the nauigaciōs of 
+Magellanus,
+ who from Spayne sayled Westward to the Ilādes of 
+Molucca
+ being in the East sea,
+ farre beyond y
+e
+ furthest partes of East India: & the portugales came to the same Ilandes frō Spayne sayling Eastward by the coastes of Aphrica, Arabia, & the vttermost India beyōd the ryuer of 
+Ganges
+ where, in y
+e
+ Indian sea the sayd Ilādes of 
+Mo∣lucca
+
+
+
+
+
+are situate. A thing surely most wōderful, and in maner incredible, but that the same is proued most certayne by experience,
+ the teacher and mestres of all sciences, for lacke of whose ayde (experience I meane) lyke as many greate wittes haue fallen into great errours, so by her ayde, many base and cōmon wittes haue attay∣ned to the knowledge & practise of such wōder∣full effectes,
+ as could hardely be comprehēded by the discourse of reasō. Which thing or other lyke, I suppose was the cause why the noble Philosopher Aristoteles sayde:
+ 
+Quod nihil est in intellectu {quod} non fuit prius insensu,
+ that is, that no∣thinge is in vnderstandinge, but the same was fyrst in sense, that is to saye subiect to y
+e
+ senses. Yet would I not that any rashe witte shoulde hereby take holde, as thoughte eyther Aristotle or I, meant that sence were more excellent th
+ reason, but rather that reasō vsing sense, taketh his principles and fyrst sedes of thinges sensy∣ble, & afterwarde by his owne discourse & sear∣ching of causes, encreaseth the same frō a seede to a tree, as from an acorne to an oke.
+ Nought els to say, but that experiēce to be most certayn which is ioyned with reason or speculaciō, and that reason to be most sure which is confirmed with experience, accordinge as the Phisicians determe
+ in theyr science, that neyther practyse i
+ safe without speculaciō, nor speculaciō with
+
+
+
+
+out practyse. Wherfore, whereas men of great knowledge and experiēce, are to great affaires, theyr attemptes haue for the moste parte good successe,
+ as doeth moste playnly appeare in all histories: notwithstanding that some ignoraūt men wyl alledge that certayn rashe aduētures haue prospered well: which sayinge proueth no more thē yf a mā should say, that twise or thrise a mā vnarmed slew a mā armed (as dyd some∣tyme the wyld Irishmē at bullē) Ergo,
+ it were better to fight vnarmed thē armed. And wher∣as I haue here spokē of knowledge ioyned w
+t
+ experiēce, I meane by knowledge y
+t
+ which we cōmonly call learning, whether it be gottē out of bokes (which are the writinges of wyse and expert men) or otherwyse by conference & edu∣caciō with such as are lerned: meaning nought els by learning, but y
+t
+ gathering of many mēs wittes into one mans head, & the experience of many yeres, and many mens lyues, to the lyfe of one, whō we call a learned wyse, and expert man. The which defynicion and effect of lear∣ning,
+ the noble & learned cortier Baltassar Ca∣staglione (the auctour of the boke called in the Italian tongue 
+il cortegiono,
+) diligently consi∣deringe,
+ doeth greatlye blame and reproue the frenshmen in that they thinke y
+t
+ the knowledge of letters doeth hinder the affayres of warre, y
+t
+ which perswasiō he proueth by many reasons
+
+
+
+
+and examples to be most false. But as concer∣ninge the matter whereof this boke entreateth the greate Philosopher Albertus Magnus,
+ onelye by learninge, wythoute experyence, af∣fyrmed that habitable or temperate Regions myghte be vnder the Equinoctial or burninge lyne,
+ as appeareth in hys Booke 
+de Natura lo∣corum,
+ contrarye to the opinion of other wry∣ters whyche were before hys tyme, and yet is nowe proued by experience to bee moste true, albeit not in all places vnder the sayde lyne, the cause whereof were here to longe to de∣clare. And lyke as Albertus Magnus by knowledge of Astronomye (wherein he excel∣led) came to the vnderstandinge hereof, euen so that greate Clerke (but better dyuyne then Phylosopher,) Sayncte Augustyne and also Lacta
+tius,
+ for lacke of lyke knowledge in that science, fell into a chyldishe erroure, de∣nyinge that there is anye people, called Anti∣podes,
+ of whom the greate Astronomer of one tyme,
+ Apianus wryteth in thys maner. Anti∣podes are they, whyche walke wyth theyr fete dyrectelye contrarye agaynste oures, and haue the heauen dyrectelye ouer theyr heades as we haue. Yet haue we nothinge common wyth them, but all thinges contrarye: for when the Sunne causeth Sommer wyth vs, then is it Myddewynter wyth them: and when it is day
+
+
+
+
+wyth vs, it is nyghte wyth them: And when the daye is longeste wyth vs, then is the lon∣geste nyghte wyth them, and the shorteste daye. Whiche, Lactantius,
+ a manne otherwyse well learned, in his thyrde Booke. Capittulo foure and twentye, childisshelye erringe, with hys lyghte and opinionate argumentes, de∣nyeth that there is anye suche, and mocketh the Astronomers, beecause they affyrme the earth to bee rounde,
+ whiche neuerthelesse they proue wyth moste certayne and apparente demon∣stracions of Geometrye, and vn`ayleable ex∣perymentes. Whome,
+ Sayncte Augustyne folowing, in his sixtenth Booke. 
+de Ciuitat, Dei. Capittu. ix.
+ wryteth after thys sorte. Suche as fable that there is Antipodes, that is to saye, menne of the contrarye parte, where the sunne ryseth when it falleth to vs, and to haue theyr feete agaynste oures, we oughte by no reason to beeleue. Those bee the woordes of Sayncte Augustyne. Notwithstandinge (sayeth Apia∣nus) putte thou no doubte Gentle Reader,
+ that the Apostles of Christe were Antipodes the one to the other,
+ and stode fe
+te to feete the one agaynste the other, when Iames thelder and brother to Iohn the Euangeliste, the sonne of Zebedens, was in Spayne in Galitia, and Thomas the Apostle in the hygher India, they were mooste certaynelye Antipodes,
+
+
+
+
+walking feete to feete one agaynste the other, almost as directly as a diametrical lyne. For the Spanyardes are Antipodes to the Indiās,
+ and the Indians in lyke maner to the Spany∣ardes. Which thinge also the excellente and aunciente Auctour Strabo confyrmeth to bee true, and lykewise Plinius 
+Nat. Hist. lib. 2. Cap. 67
+ Volateranus also, and all other Cosmo∣graphers & Astronomers. Hetherto Apianus: and to declare my opinion in fewe woordes, I thinke it no greate marueyle that Saincte Augustyne shoulde fall into an erroure in the science of Astronomie in whiche he trauayled but as a straunger, forasmuche as he erred in many thinges in diuinitie which was his chief profession:
+ and was longe of the heresye of 
+Ma∣nicheus
+ beefore he was conuerted by Saincte Ambrose:
+ and wrytte also at the lengthe a Booke of retractes, in whych he correcteth hys owne errours. And I beleue playnely that, that excellēt witte of hys, could not haue remayned longe in y
+t
+ errour yf he had been wel exercysed in Astronomy, or had knowen any suche 
+xpe∣ryence as is spoken of here beefore, howe the Spanyardes by the Weste and the Portuga∣les by the Easte compassed aboute the earth, whiche coulde neuer haue come to passe yf the earth were not rounde (
+Quantum ad maximas sui partes
+) as they call it. For, as for hylles and
+
+
+
+
+Mountaynes,
+ though they be neuer so greate, yet in respecte to the byggenes of the earth, they doe no more lette the roundnesse hereof, then doe the lyttle knobbes of the berrye, which we call a galle, lette the roundnesse of the same. Where
+ore I am certaynely perswaded, that yf Saynct Augustyne had continued hys stu∣dye in Astronomye (as it hadde been pytye he shoulde) or were alyue at thys daye, he woulde also haue retracted this erroure. But yf here anye supersticious head shall thinke it a hey∣nous matter in any poynte to contrary Sainct Augustyne, lette hym hearken howe Augustine hym selfe sayeth: that he wyll neyther hys wri∣tynges or other mennes, of howe greate name or fame soeuer they be,
+ otherwise to be beleued then the same shall, by reason bee approued to be true: 
+Ne{que} quorumlibet disputaciones
+ &c.
+ And lyke as the greate Philosopher Aristotel, when he wryte agaynste hys mayster Plato of the question 
+de 
+dais,
+ and agaynste Socrates who by the oracle of Apollo was proued to be most wyse, and certayne of hys frendes asked hym why he durste be so boulde, he aunswered that Plato was hys frende, and so was Socrates: but trueth hys frende more then they bothe, e∣uen so I thinke it no iniurye nor contumelye to Saynct Augustyne, yf the same were sayde of hym also geuynge hym otherwyse hys dewe
+
+
+
+
+commendacions,
+ as he was surelye an excel∣lent
+ man, of dyuyne wytte, and knowledge, and so trauayled in settynge foorth Christes true Relygion in those turmoylous dayes, in perpetual combatte, agaynste learned here∣tykes and Prynces of the worlde, that he is worthelye called a Doctour and Pyller of Christes Churche. And as for Lactantius,
+ the intente of whose wrytinges was chiefelye to 
+hys ende, to dyminisshe thestimacion of Phi∣losophye, (as at those dayes it was necessarie to doe amonge the Gentyles) and to aduaunce Goddes woorde, (whyche they contemned for the symplicitie of the same,) albeit, he attemp∣ted as farre as hys learninge woulde serue hym, to make all thynges in Philophie vn∣certayne, yet are hys argumentes so slender, that vnlesse GOD by the secrete working of hys spyryte, hadde called the Gentyles to the true Faythe, I feare me leaste fewe or none of them, (specyallye of the greate wyttes) woulde haue been conuerted by 
+actantius argumentes. Howe he da∣lyeth in denyinge the yearth to bee rounde, and that it is possyble that it myghte bee longe and rounde, (lyke an Egge,) or other∣wyse longe and holowe lyke a bote, (mea∣nynge I suppose that the Sea myghte bee
+
+
+
+
+conteyned in the holownesse of the same, wyth suche other opinyons grounded of no rea∣son, it were to longe to rehearse. Yet, for∣asmuche as he was a learned manne, and for the better satisfyinge of suche wyttes as ar
+ desyreous to know some appearaunce of truth by naturall reason and demonstracions,
+ lette vs admytte that the earth were rounde af∣ter anye of those fasshions whiche he descri∣beth: yet can it not bee denyed, but that it is conteyned wythin the holowenesse (yf I maye so call it) of the ayre,
+ hauynge the heauen in euerye place dyrectelye ouer euery parte of the same, as sayeth the Poete and Philosopher 
+Virgill, Caelum undi{que} sursum
+: Excepte perhappes Lactantius shoulde thinke that it honge by some thynge, or were other∣wyse borne vppe wyth pyllers as the Po∣etes Fable, that the Gyaunte 
+Atlas
+ beareth the worlde on hys shoulders,
+ whereby they meane that a manne of valiente mynde must stoutelye beare the chaunces of the worlde. Of whyche hangeinge or bearynge of the earth,
+ I reade a better and more true say∣inge in the holye Scripture, where it is writ∣ten, 
+Fert omnia uerbo or
+s sui,
+ that is, that God sustayneth and beareth all thinges wyth the woorde of hys mouth.
+
+
+
+
+
+Holye Iob also sayeth, that the LORD 
+tret∣cheth oute the Northe ouer the emptye, and hangeth the earth vpon nothynge: Meaninge by nothinge, the ayre, because to oure senses it appeareth in maner as nothynge: Or other∣wyse that it is not dependynge of anye other substaunce, but to bee sustayned onelye by the power of GOD who hath appoynted the Elementes theyr places and lymittes,
+ and cau∣seth the heuye to stande faste: as wyt
+esseth Moyses in hys songe, sayinge:
+ By the wynde of thy nostrels the waters gathered together, the flouddes stoode styll as an heape, and the deepe wa
+er congeled togeather in the heart of the Sea. Wherefore yf the heauen bee rounde (whiche no manne can reasonably denye that euer sawe the Sunne and sterres moue.) And yf the earth bee the center of the worlde de∣pendinge as we haue sayde beefore, then m
+ste it needes folowe, that they whiche inhabiting the Northweste partes of the earth, haue the Pole Artike eleuate thyrtye degree
+,
+ muste needes bee Antipodes to them whiche inha∣bitinge the Southeaste partes of the earth, haue the Pole Antartike eleuate in the same degree, and so the lyke to bee vnderstand of all other eleuacions and degrees. And yf here anye wyll obiect, that eyther the earth or firme
+
+
+
+
+land is not so large, or so farre extēded,
+ or other wyse not inhabited althoughe it were so large, or that the sea i
+ greater then the lande, to thys I aunswere, that no mā knoweth further here∣of then is tryed and founde by experience, as we haue sayde beefore. And albeit that the sea were larger then the firme land, yet foras∣muche as there are Ilande
+ founde in all pla∣ces of the mayne Sea,
+ and in maner all inha∣bited, there is no reason to the contrarye, but that the people of those Ilandes maye be Anti∣podes to such as dwel on the fyrme lande, on the contrary parte, whether the earth be round and longe, yea or square, (yf you wyll) not∣wythstandynge. But wyth what certayne de∣monstracion
+ the Astronomers and Geome∣tricians,
+ proue the earth to bee rounde, and the Sphericall or rounde forme to bee mooste perfecte, it were to longe to declare
+ I wyll therefore make an ende of thys matter wyth the sayinge of Sayncte Paule in hys Oracion,
+ to the menne of Athens. That GOD made of one bloudde, all nacions of menne, to dwell vpon the hole face of the earth.
+
+
+¶I hadde entended here (well beeloued Reader,) to haue spoken somewhat of suche straunge thynges and Monsters, whereof mencion is made in thys Booke, to thende
+
+
+
+
+that suche as by the narownes of theyr vnder∣standinge are no
+ of capacitie to conceaue the causes and natures of thynges, myghte parte∣ly haue been satisfyed wyth some sensyble rea∣sons
+ But beynge at thys tyme otherwyse hin∣dered, it shal suffise al good and hone
+t wittes
+ that whatsoeuer the Lorde ha
+h pleased,
+ that hath he done in heauen and in earth, and in the Sea, and in all depe places
+
+
+¶ Ecclesiasticus. Capit. i.
+
+
+¶ The eye is not satisfyed with syght, & the eare is not fylled with bearinge.
+
+
+
+
+
+
+
+
+¶ The Table.
+
+
+
+
+¶ Of the Ilande of Iaua.
+
+
+Of the Ilande of Madagascar.
+
+
+Of the Ilande of zanzibar.
+
+
+Of the two Ilandes in the which men and wome
+ dwell a sunder.
+
+
+
+Of the mightie Empyre of Cathay, subiect vnder the dominiō of the great Cham or Cane, Emperour of Tartaria.
+
+
+Of certayn Prouinces subiect vnder the dominiō of the great Cham.
+
+
+Of the Prouince of Mangi.
+
+
+Of the Region of Tangut.
+
+
+Of the newe Ilandes, howe, when, and by whom they were founde.
+
+
+Of the two Ilandes Iohanna and Hispana.
+
+
+Of the Canibales, which eate mans fleshe.
+
+
+Of the maners of the inhabitantes of Hispana.
+
+
+How Christophorus Colūbus, after that he had founde the newe Ilandes, returned to Spayne: and preparing a new nauie, sailed agayn to y
+e
+ Canibales.
+
+
+How Colūbus the Admiral, passed many Ilādes and what chaunced to hym & his in that viage.
+
+
+Of the newe India, as it is founde and knowe
+ in these oure dayes.
+
+
+Of the Adamant stone, otherwise called the Di
+∣mant.
+
+
+Of the Kingdōs & cities of Narsinga & Canonor
+
+
+Howe the Elephantes in India are prepared to the warres.
+
+
+Of the beaste called Rhinoceros.
+
+
+Of Calicut, the moste famous markette towne of India.
+
+
+Of the maners of the Indians in Calicut.
+
+
+
+
+
+Of Pepper and other spyces which growe in the Region of Calicut.
+
+
+Of the byrdes and beastes which are found in the Region of Calicut: and of the wyne of the tr
+e.
+
+
+From whence all kyndes of spyces are brought to 
+he cytie of Calicut.
+
+
+Of the Iland of zaylon, & of the cinomome tree.
+
+
+Of the cytie of Tarnasseri, and of the maners of the cytezyns.
+
+
+Of the excellent cytie and Kingdom of Pego.
+
+
+Of the Ilande of Sumatra, or Taprobana.
+
+
+Of the Ilande of Bornei.
+
+
+Of the Ilande of Giaua.
+
+
+Howe the Spanyardes abused the submission & 
+rendship of the inhabitauntes of the Ilandes.
+
+
+Howe the Portugales soughte newe Ilandes in the East partes, and howe they came to Calicut.
+
+
+Howe Magellanus by a strayght or narow arme of the Sea, sayled by the Weste into the Easte to dy∣
+ers Ilandes, where also he was slayne.
+
+
+Howe the Spanyardes came to the Ilandes of Molucca, & of the people with great hanging eares.
+
+
+The third nauigaciō of Christophorus Colūbus.
+
+
+How Pinzonus cōpanion to the Admiral, sought newe Ilandes.
+
+
+The foure nauigacions of Americus Uesputius to the newe Ilandes.
+
+
+The fyrste viage of Uesputius.
+
+
+The second viage of Uesputius.
+
+
+The thyrde viage of Uesputius.
+
+
+The fourth viage of Uesputius.
+
+
+Howe the Kyng of Portugale subdued certay
+ 
+laces in India, and of the ryche cytie of Malacha.
+
+
+Of the Ilande of Medera, and the fortunate I∣
+es, otherwyse called the Ilandes of Canaria.
+
+
+
+
+
+
+¶Finis.
+
+
+
+
+
+
+
+
+
+
+
+
+¶Of the newe India, as it is knowē & found in these our dayes. In the yeare of oure Lorde. M.D.LIII. After the descripciō of Sebastian Mun∣ster in his Booke of the vniuersall Cosmographie. 
+Libr. v. De terris Asiae Ma∣ioris.
+ And translated into En∣glishe by Richard Eden.
+
+
+THere are two viages or nauigacions made oute of Europa into India. The one southeast frō spayne,
+ by the coastes of A¦phrica and Ethiopia, euen vnto A∣rabia to the citie called Aden. And frō thence to the Ilande of Ormus, and frō Ormus to the citie of Cam∣baia,
+ and from thence euen vnto the citie of Calicut.
+ Cambaia is situate
+
+
+
+
+nere vnto the floudde 
+Indus.
+ This citie is of great powre, riche, and a∣bundau
+t in al kyndes of grayne & corne. The soyle hereof bringeth forth sondry kyndes of swete oynt∣mentes, and cotten which groweth on certain trees called 
+Gossampini,
+ this cotton, is otherwyse called 
+Bombage
+ or sylke of the trees. The Kynge of Portugall subdued this cytie, and bylded hard by thesame a strōg for∣tresse: with which thing the Turke b
+eing sore greued,
+ commaunded a greate nauie of shippes with greate sumptuousnes to bee furnisshed in the goulfe called 
+Sinus Arabicus
+: to the ende that he might dryue the Por∣tugalles out of India, and the bet∣ter to accomplishe this his purpose, he appointed one Soliman a noble man of warre (beyng also the Cap∣tayne of Alcayre,) to be the admiral general, or gouernour of his nauie, hauing in his retenue .xx. thousand
+
+
+
+
+souldiers beesyde mariners & gon∣ners, whiche were in numbre foure thousand. This nauie was appoin∣ted in the hauen Suezio, beeinge a port of the redde sea, in the yeare of Christ .1538. And arryued fyrste at the citie Aden:
+ where laying anker. the gouernour of the nauie sent let∣ters to the king of Aden, certifying him that he woulde take his viage into India, from thence to expell the King of Portugall. The Kinge of Aden whiche was thē tributarye to the King of Portugall, receyued the Turkes letters thankefully,
+ of∣fering him selfe & all that he might make, to so mightie an Emperoure, desyringe the gouernoure to come forth of the ship, and to beholde the cytie obedient and readye at his cō∣maundemente, in the which also ac∣cordinge vnto his dignitie & office, he should be worthely interteyned: but the gouernour agayne allured
+
+
+
+
+and entysed hym to come out of his citie, and so by crafte circumuented him, that he toke him priesoner, and cōmaūded him to be hanged on the sayle yarde of the shyp, & with hym foure other of the rulers of the citie of Aden, affyrming that he was cō∣maunded of the Turke so to handel them, because the cytiezins of Aden had not only made a leage with the Portugales,
+ but had also payde thē tribute: whiche nacion the Turke playnely entended to drieue out of India. And thus after the Kynges death, that most riche and beautiful cytie, was 
+uer a praye to theues, spoylers, and murtherers without resystaunce. Then the gouernoure departing frō thence, lefte there be∣hynde him a garrison of two thou∣sand men of warre, and saylyng for∣warde on hys viage, he came to the citie called 
+Dium,
+ whiche the Portu∣gales held: & his armie was great∣ly
+
+
+
+
+encreased by the waye, as wel by lād as by sea, by reason of the great confluence of the Turkes which on euery side resorted to him, so that in a short space they rowled before thē a bulwarke or coūtremure of earth, in man
+r as bigge as a mountayne, which by little and litle they moued neare vnto the trenche or ditche of the castell, so that they might safely stand behynde the bulwarke, (thus raysing a mount.) they besieged the castell on euery syde, & battered the walles & towres thereof very sore: yet that notwithstanding, were at the length enforsed to departe,
+ not withoute great losse and slaughter of theyr souldiers: for this 
+Dium,
+ is the s
+rongest citie that is vnder the dominion of Cambaia: but the cytie of Cambaia,
+ is situate in the goulfe called 
+Guzerat,
+ and is well inhabited, and in maner most excellēt of all the cities of 
+India,
+ and is therefore called
+
+
+
+
+
+Cayrus,
+ or 
+Alcay
+,
+ or 
+Babilon
+ of 
+India.
+ It is enuirōned with a walle, & hath in it very fayre byldinges, y
+e
+ Soldan or chefe ruler hereof, is of Mahumets secte as are y
+e
+ Turkes.
+ 
+Lacha
+ grow∣eth there more plētifully thē in any other coūtre. The inhabitaūtes, for the most parte goe naked, couering only theyr priuie partes: they bynd theyr heades about with a clothe of purple color. The Soldā or prince of this citie, hath in a redines for the warres .xx. thousand horsemen, he hath also a mightye and magni
+ical court. Whē he waketh in y
+e
+ morning there is heard a great noyse of cim∣bals, drūslades, timbrelles, shames, pipes, flutes, trūpettes, and diuerse other musical in
+rumentes, hereby signifying that the king lyueth & is in health and merye: in lyke maner doe they whyle he is at dyner. To the kyngdom of 
+Cambaia,
+ is the King∣dom of 
+Ioga
+ nexte adioyni
+g, which
+
+
+
+
+reacheth farre on euerye syde. In this kingdō, by reason of the greate heate of the sonne, the bodyes of mē begin to waxe blacke and to be scor∣ched: the people of thys countreye haue ringes hanging at their eares and colers aboute theyr neckes of sundry sortes, albeset and shyninge with precious stones. The soyle hereof is not very 
+ruitful, this regi∣on is rough with mountaynes, the byldinge are despicable, and 
+uyl to dwel in: there is beyonde this, an o∣ther Kingdō called 
+Dechan
+:
+ this cytie is very beautiful to behold, & fruit∣ful in maner of al thinges: the king hereof vseth great pride, and solem∣nitie: his pompes & triumphes are in maner incredible, they that wayt vpon the kinge, weare on the vpper partes of theyr shoes certayne shy∣ning precious stones, as 
+Piro
+i
+ (whi∣che are a kind of Rubies or Carbū∣cles) with Diamādes & such other.
+
+
+
+
+But what maner of Iewelles they vse in y
+e
+ stede of collers, eareringes, and ringes, you may well consyder, wheras they geue suche honour to theyr f
+te. In this kingdom is said to be a mountayne,
+ out of the which Diamandes are digged.
+
+
+
+
+¶ Of the Diamande stone, called in Latine 
+Adamas.
+
+
+THe Diamande is engendred in the mynes of 
+India, Ethiopia, Arabia, Macedonia,
+ and 
+Cyprus,
+ and in the golde mynes of the same countries. That of 
+India
+ excelleth all other in beautie and clearenes: that which is of the coloure of yron, is called 
+Siderites,
+ it is oftētymes found in colour like vn∣to cristal, & though it be sometimes lyke therto in whytnes, yet doth it differ from cristall in hardnes, in so much that if it be layd vpō an anuil,
+ and strongly strikē with a hammer, the anuyl and hammer shal soner be wounded and leape away, then the
+
+
+
+
+stone perished or diminished: it doth not onelye refuse the forse of Iron, but also resisteth the power of fyre, whose heate is so farre vnable to melte it, that it can not so muche as heate it, if we geue credit to Plinie, and is also rather made purer ther∣by, then anye wayes defyled or cor∣rupted: neuertheles,
+ the singuler & and excellent hardnes of this stone, is made so softe with y
+e
+ hoate bloud of a Goate or a Lyon, that it maye be broken: and if it be put with mol∣tē lead in hoate fornaces, it waxeth so hoate that it wylbe dissolued: yet are not a
+l Diamādes of such hard∣nesse, for that of 
+Cyprus,
+ and also that of the coloure of Iron called 
+iderites,
+ may be broken with hammers and perced with another Diamand: his vertue is to be bewray poisons, and to frustrate thopperacion therof, and beeing therefore greatly estemed of Kinges and Princes, it hath euer
+
+
+
+
+been of g
+eat price.
+ The mountaine of India out of the which the Dia∣mandes are digged, is compassed with a walle on euery syde, & kepte with a strong defence.
+
+
+
+
+
+
+¶Of the kingdoms & cities of Narsinga and Canonor.
+
+
+THe king of 
+Narsinga,
+ in riches and dominion excelleth all other Kinges in those partes. The chiefe cytie where the King is resident,
+ is in situa
+ion and fynenes, much lyke vnto the cytie of Milayne, but that it s
+andeth in a place somewhat de∣clyning and lesse equall. This king hath euer in a red
+nes manye thou∣sandes of men of armes, as one that is euer at warre with other coun∣treys, borderers nere aboute him. He is geuen to most vile Idolatrie, and honoureth the deuyll, euen as doth the king of 
+Calicut.
+ The maners and fashions of the inhabitātes, are after this sorte. The gentlemen or
+
+
+
+
+such as are of greatest reuenewes. vse to weare an inward cote or pe∣ticote, not very long: hauing theyr heades bounde aboute with listes & rowles of sundry coloures after the maner of the Turkes. The cōmon people, couer onli their priuie parts and are besyde all together naked.
+ The Kynge weareth on his head a stately cap made of the riche cloth of 
+Asia,
+ beyng two hādfulles in length. Whē he goeth to y
+e
+ warres, he wea∣reth a vesture of y
+e
+ silke called 
+Goss
+m∣pine,
+ which he couereth with a cloke adorned w
+t
+ plates of gold: y
+e
+ hemme or edge of his cloke is beset with all maner of ouches & Iewelles.
+ Hys horse is iudged to be of such valure if you respect y
+e
+ price, as is one of our cities. And this is by the meanes of y
+e
+ innumerable multitude & sundrie kindes of precious s
+ones, & perles where with y
+e
+ 
+rappers, barbes, & o∣ther furnitures of his horse are co∣uered, w
+t
+ an incredible pōpe & glori.
+
+
+
+
+The soyle of Narsinga, beareth ne∣ther wheate nor grapes, and 
+s in maner without al kinde of fruites, except 
+itrons and gourdes: the in∣habitantes eate no bread, but ryce, fishe and fleshe, and also walnuttes, which that countrey beareth, there begin spyces to be found,
+ as ginger, pepper, mirabolanes, Cardamome, Cassia, and dyuers other kyndes of spyces.
+
+
+Cananor
+ is a very excellente cytie, fayre and beautifull in all thinges, sauing that the Kinge thereof is an Idolater. This citie hath a hauen whether the horses of Persia are brought, but theyr tribute or cu∣stome, is excedinge great: the inha∣bitantes lyue with ryce, flesshe, and fyshe as do they of Narsinga: in the warres they vse the sweorde, the round target, speares and bowes, & haue nowe also the vse of gonnes, they are all naked sauing their prie∣uie
+
+
+
+
+partes, and go beare headed, ex∣cept when they goe to the warres, for then they couer theyr heades with a redde hatte which thei folde double, and bind it fast with a lyst or bande. In the warres they vse nei∣ther horse, mule, or asse, nether that kynde of camels which we cōmonly call dromedaries:
+ but vse onely E∣lephātes. There is also in the king∣dō of Narsinga another godly citie called 
+Bisinagar
+:
+ it is cōpassed aboute with a walle, & situate on the side of a hyll, beeyng .viij. myles in circui∣te hauinge also in it a famous mar∣ket place. The soyle is very fruit∣ful, there are all delicate thinges to be foūd that may encrease the plea∣sures of this lyfe. There maye no where be foūd more pleasaūt feldes and woddes for hauking & hūtinge,
+ a man woulde thinke it were a very Paradyse of pleasure.
+ The king of this citie is of great power, he kee∣peth
+
+
+
+
+dayly many thousandes of mē at armes, vsinge Elephantes in the stede of horses. And hath euer foure hundreth Elephantes prepared for the warres.
+
+
+
+
+
+
+¶How the Elephantes in In∣dia are prepared to warre.
+
+
+THe Elephāt is a beast very do∣cible and apte to be taught, and little inferiour from humaine sense, excellinge all other beastes in forti∣tude and strength. Therfore y
+e
+ In∣dians, when they prepare them to the warres, put great packsaddels vpon thē, which they bind fast with two chaines of Iron, cōming vnder theyr belyes. Upō the packsaddels,
+ they haue on euery side a litle house or towre, or cage, (if you list so to cal it) made of wood These towres ar made fast to the necke of the beaste with certayne sawed bordes of the thickenes of halfe a hande breadth. Euery towre receyueth thre men.
+
+
+
+
+And betwene both the towres
+ vpō the back of the beast sytteth an In∣dian, a man of that countrey which speaketh vnto the beaste.
+ For this beast hath marueylous vnderstan∣ding of the language of hys natyue countrey, & doth wonderfulli beare in memorie benefytes shewed vnto him. It is also moste certayne that none other beast draweth so nere to the excellence of humayne sense or reason as doeth this beast, as maye most playnly appeare, yf we cōsidre, how he is geuē to loue & glory, to a certeyn frendly gentlenes & honest maners, ioyned with a marueylous discrecion, to know good from euil, more redy to recōpēce benefites thē reuēge iniuries, which excellēt pro∣perties are not to be found in other brute beastes. Therfore whē the E∣lephantes go forward to y
+e
+ warres,
+ seuē armed mē are appoynted to be caried vpon one Elephant, bearing
+
+
+
+
+with thē, bowes, iauelins, sweordes and targettes: also the lōge snout of the Elephāt (which thei cal his hād) is armed with a sweorde of two cu∣bites in length, and in bredth & thic∣kenes a handfull, standinge righte forth, tyed faste to the snowte of the beast, & thus beeing furnished, they procede to the battaile: and where∣as occasiō requyreth to go forward or backwarde, the ruler of the beast geueth him warninge, whose voyce he vnderstandeth & o
+eyeth:
+ stryke hym, sayth the ruler, forbeare hym, be fearse agaynst these, abstayne frō these, the beaste obeyeth hym in all thinges, as though he had humayn reason, but yf it so chaunce that being made afrayd with fire (which thinge they feare aboue all other) they beginne to flye, th
+y can by no meanes bee allured to stoppe theyr course, or retourne agayne, for the people of that naciō, can with many
+
+
+
+
+subtyl deuises as oftē as thē listeth, raise vp fires to make those beastes afrayde.
+ There be some men which thincke that Elephantes haue no ioyntes in theyr legges, which opi∣nion other affirme to be vntrue, for they haue ioyntes as haue other beastes, but that they are very low & almost at their fete. The females are of greater fiercenesse then the males, and of much greater strēgth to beare burdēs: they are sometime taken with madnes, declaring the same by theyr furious running. An Elephāt excedeth in greatnes thre wilde oxen called 
+Bubali,
+ and is much lyke of heare, and eyed lyke a swine, hauing a long snout, hāging down∣ward, with the which he putteth in∣to his mouth whatsoeuer he eateth or drinketh, for his mouth is vnder his throte, not muche vnlyke the mouth of a swyne: his snowte hath holes in it, and is holowe within,
+
+
+
+
+with this they ouerthrow y
+e
+ stūpes of trees: & that of suche bignes, that the forse of .xxiiij. men is not able to do the same. The two great tuskes which they haue cōming farre 
+ute of theyr mouth,
+ or placed in the vp∣per iawe, hauinge on euerye syde lappes hanging downe of the big∣nes of two hand breath. Theyr fete are roūd like vnto a flat trene dishe, hauing fyue toes like hoeues vnde∣uided, of the bignes of great oyster∣shelles.
+ Theyr tayles are lyke vnto the tayles of wilde oxen, thre hand∣ful in lēgth, hauing but few heares. The males are hygher then the fe∣males. They are of sundry bignes: some are of .xiij
+ hādfulles hye, some of .xiiij. and some .xvi. Their pase in goyng,
+ is somewhat slowe and wa∣lowinge, by reason whereof, some whiche ryde on them and haue not been accustomed therto, are prouo∣ked to vomitte, euen as they were
+
+
+
+
+tossed on the sea. Yet it is great ple∣sure to ride on the yong Elephātes, for they goe as softely as ambeling moiles. When you attempt to geat vp, to ryde on thē, they bow downe toward you, as though they would 
+ase you with a sterope, that you may the easelier geat vp, which ne∣uertheles cannot wel be done with out helpe. They are all vnbrideled, hauinge neither withe nor coller a∣boute theyr neckes, but goe with theyr heades altogether lose. And because they are not couered with bristels or bigge heares, they haue not so muche as in theyr tayle anye helpe to dryue awaye flyes.
+ For euen this greate beaste also (sayeth Plinie) is troubled with this lyttle vermyne. Theyr skinne is verye rowghe, and full of chappes, and riftes, like the barke of a tree, being somwhat filthye and full of swette,
+
+
+
+
+whiche by heate resolued into va∣poure, by sauour draweth flyes vn∣to it:
+ therefore when any flyes or o∣ther creping vermē are entered in∣to the sayde riftes of theyr skinnes, sodeynly bending and drawing to∣gether their skinne, they hold them fast and kyl them, and this is to thē in the stede of a tayle, a mane, or rough and bristeled heare.
+
+
+
+
+
+
+¶ Of the beaste called Rhinoceros.
+
+
+Rhinoceros
+ is comonly found in the same countrey, where Elephantes are engendred,
+ and is borne an ene∣my to the Elephāt (as saith Plinie) no lesse seking his destruction then doth the dragon: wherfore the Ro∣maynes considering the natures of these beastes, were wont to put thē together vpon the theater or stage, for a spectable, therby to declare the natures of enemies.
+ This 
+Rhinoceros
+ hath two hornes, whereof the one
+
+
+
+
+is of notable bignes, growing oute of his nosethrilles, and is of flatte forme, and as harde as Iron. The other groweth aboue in his necke, and is but a little one, but wonder∣ful strong: when this beast attemp∣teth to inuade the Elephant, he fy∣leth & whetteth his horne on a stone and stryke that the belly of the Ele∣phant, which place he knoweth to be most open to his stripes, and easyest to receaue hurt, because of the softe∣nes thereof, which he cutteth with his horne as with a sweord.
+ Some auctours write that 
+Rhinoceros
+ is vn∣equall in bignes to the Elephante: but 
+ulius Solinus
+ saith, that he is as lōg as the Elephante, but hath 
+horter legges: whē 
+Rhinoceros
+ therfore & the Elephant ioyne together in fighte, they vse theyr naturall weapons: the 
+Rhinoceros
+ his horne, and the Ele∣phante his tuskes, wherewith he so violentlye beateth and teareth the
+
+
+
+
+
+kinne of 
+Rhinoceros
+ being as harde as horne or shell,
+ & scarcelye able to be pearsed with a dart, that he neuer∣theles enforseth him to fall downe. 
+Rhinoceros
+ agayne on the other partie so woundeth the belye of the Ele∣phante with the horne of hys nose∣thrilles, yf he doe not preuente hys strokes, y
+t
+ he fainteth with bleding. In the yere of Christ .1513. the first day of Maye, was broughte oute of India to Emanuel the king of Por∣tugale 
+RhinoceroS
+ alyue,
+ of the coloure of boxe, somwhat variable and as it wer chekered, couered with shelles lyke scales, or rather lyke shieldes. This beast was in bignes equall to an Elephāt, but had shorter legges, and was armed on euery parte. He had a stronge & sharpe horne in his nosethrilles, the whiche (as I haue sayde) he fyleth, when he prepareth him to fight. All this great hatered betwene these two beastes, is for y
+e
+
+
+
+
+
+best pastures which one striueth to take frō the other as some wryters saye. In the yeare of Christe .1515. King Emanuel, set forth a spectacle in the citie of 
+Lisbona,
+ in which was a combat betwene the Elephant and 
+Rhinoceros.
+ A sight doubtlesse worthy great admiraciō. But in this fight, the Elephant had the ouerthrowe.
+
+
+
+
+
+
+¶Of 
+Calicut,
+ the most famous market towne of India.
+
+
+THe cytie of 
+Calicut
+ is in the conti∣nente or mayne lande. And the houses therof adioyning to the sea, It is not walled about but contey∣neth in circuite .vi. thousād houses, not adherēt together as the maner of bylding is with vs, but one being distant frō another, a further space. It is extēded in length a thousand pases. The houses thereof,
+ are but simple and very lowe, not passinge the heygth of a manne of horse∣backe from the grounde.
+
+
+
+
+
+In the stede of a roofe, they are co∣uered with bowes of trees, harde & thicke couched together, the cause hereof is, that yf the earth there be in anye place digged fyue handfull depth, the water springeth forth, by reason wherof they can lay no depe foundacions for theyr houses, suffi∣ciente to beare anye heauye roofe. The Kinge of thys citie is geuen to Idolatrie,
+ & honoureth the deuyll himself. Yet he denieth not but that there is a God which made heauen and earth. And the same to be the chiefe auctone and fyrste cause of all thinges. But sayth that he hath cō∣mitted the rule and iudgemente of the world, to the deuil, to whom he hath ge
+en power to rewarde men with good or bad according to their desert
+s. This deuil they cal 
+Deumo,
+ but the mightie God and maker of the world, they cal 
+Iamerani,
+ The king hath in his Chappell the Image of
+
+
+
+
+this deuyl 
+Deumi,
+ sytting with a dia∣deme or crowne on his head, much lyke vnto the myter which the Ro∣mayne Bishoppes weare,
+ saue that this deuils myter hath foure nota∣ble hornes. He sytteth gapinge and hath a greate wyde mouthe, with foure teeth & a deformed nose, low∣ringe eyes, a grimme, terrible, and threatening coūtenaūce, with hoo∣ked handes lyke fleshehookes, and feete not much vnlyke the feete of a cocke. Al such as behold this horri∣ble monster, are sodeynly astonied. For it is surely a thing most vyle to beholde, and no lesse terrible. The chappel is on euery syde ful of pain∣ted deuyls: & in euery corner there∣of sytteth a deuyll made of copper, and that so workemanly handeled, that he semeth like flaming fire,
+ mi∣serably consuming the soules of mē. This deuyl with his righte hande, putteth a soule to his mouth, & with
+
+
+
+
+his lefte hand, he taketh another frō a place beneth. Euery mornīg their Priestes (called 
+Bramini
+) washe the I∣mage of the deuyll with rose water,
+ or such other swete liquoure, & per∣fume hym with dyuerse swete sa∣uours, kneling on theyr knees and praying vnto him.
+ Euerye seuenth day, thei take the bloud of a cocke & put it in a siluer vessel, ful of burning coales: addinge thereunto innume∣rable odoriferous gummes & pou∣ders to make a swete smoke or fu∣migacion. Then the Prieste taketh his senser with burning coles, put∣ting therto frankencense, and thus maketh his oblacion to Sathā, du∣ring which tyme of sacrifice, a lyttle syluer bell, is ronge continuallye. The king sytteth not downe to his meate,
+ vntyll foure of his chapleins haue offred parte of the same meate to the deuyl. And when the Kynge goeth to dyner, he sytteth on the
+
+
+
+
+grounde withoute eyther carpet or table cloth. And as he sytteth at di∣ner, foure of the priestes wayte vpō him standing:
+ not approchinge nere vnto hym by the distaunce of foure pases, geuing reuerent attendaūce vnto the kinges talke. Whē he hath dyned, the Priestes take the meate that is left,
+ & geue it to the crowes to eate: whiche byrdes they haue in such estimacion, y
+t
+ it is not lawful to hurt thē. Whē the king shal marie a wife, he goeth not to bed w
+t
+ her, vn∣til she be defloured of y
+e
+ high Priest,
+ whō the king for his paines rewar∣deth with .v.C. pieces of golde.
+
+
+
+
+
+
+¶Of the maners of the In∣dians in Calicut.
+
+
+NExt after the King, y
+e
+ priestes which serue y
+e
+ Idols,
+ are had in chiefe reuerence. Nexte vnto them, the Magistrates,
+ called 
+Ner
+,
+ are no lesse estemed then amonge vs Senatoures or Lordes of the
+
+
+
+
+counsayl. When these goe abroade, they cary with them swordes, tar∣gettes, bowes & iauelins. Such as are counted of the thyrde order, are in like place with them,
+ as are Arti∣ficers with vs. They of the fourth order, lyue by fishinge. And to them of the fyfthe order,
+ perteyneth the gathering of pepper, wyne, & wal∣nuttes. The basest and poorest sort, are they which sowe & gather ryce, beyng contēned both of the priestes and Senatours. The Kinge, the Quene, and the inhabitantes of the cytie, haue almost no apparel, coue∣ring onely theyr fylthy partes with cotton of the tree called 
+Gossampine,
+ and not with silke: and are beside al together naked. They goe barefo∣ted and bareheaded.
+ Whē the King is dead, yf there remayne alyue any heyres, males, either childrē or bre∣thren, or br
+thers childrē, they suc∣c
+de not in the kingdome: for by cu∣stome
+
+
+
+
+of the countreye, the systers sonnes are inheritours to y
+e
+ crown: but yf there bee no suche lyuinge, he succedeth in the kingdom which is nearest of bloud to y
+e
+ king, of whiche costume, the reason is (as they saye) beecause the Priestes defloure the Quenes.
+ Whē the King taketh any farre iourney, or rydeth a hunting, the Priestes wayte vpō the Quene at home, and kepe her company: for nothinge can be more thankefull to the kynge,
+ then to haue the Quene thus accustomed in adulterye with the Priestes by whiche cōmon pro∣stitucion of the quene, he maye well iudge that the chyldrē borne of her, are not to be estemed as his owne: and therfore assigneth the right of his inheritaunce to his systers chil∣dren, as to the nerest of his bloude, because his brothers children (as is sayd before) may not succede him in the kingdome by the custome of the
+
+
+
+
+countrey. The noble men and mar∣chauntes vse this fashion amōg thē selues. Such as haue wiues,
+ do of∣ten tymes chaunge theyr wyues, one frende with an other for then∣crease of further frēdship. At which exchaunging of wyues, one of them speaketh to another after this ma∣ner. Forasmuch as you are my veri frend, let vs chaūge wyues: on such cōdicion, that I maye haue yours & you myne. The other asketh him yf he speake in earneste. He sweareth yea: let vs goe thē (sayth his felow) to my house: when they are come thether, the good man calleth forth his wife, saying vnto her: Woman, come hether & folow this mā: for he shall frō henceforth be thy husband. She asketh him yf he speake in ear∣nest:
+ he answereth, in good earnest. Thē sayth the womā: I wil folowe him gladly. He taketh her away w
+t
+ him, and in lyke maner sendeth his
+
+
+
+
+wyfe to his frende. And this is the custome which thei vse in chaūging of wyues. But the childrē remaine with theyr fyrste father. Other of these Idolaters vse dyuerse other customes. For among some of them,
+ one woman is maried to seuen hus∣bādes, which lie with her by course one after another. And when she hath broughte forth a child, she sen∣deth it to whiche of her seuen hus∣bādes she list: who maye in no case refuse it. When they eate, they lye along on the grounde, & haue theyr meate in greate disshes, or treys of copper. In the stede of spones, they vse leaues of trees. Their meate, is ryce, fishe, spyces, and fruites of the cōmon sorte.
+ Yf any man committe murther, and bee apprehended, he is punisshed after this maner.
+
+
+They haue a kynde of gallowes made, with a poste of the lengthe of foure pases: On the whyche, not
+
+
+
+
+farre frō the toppe, are fastened two staues w
+t
+ sharpe endes, y
+e
+ one lying ouer the other after the maner of a crosse: thē the body of y
+e
+ offender is thrust through vpō one of y
+e
+ staues. And so the miserable wretche han∣geth vntyll he haue geuen vppe the ghost.
+ But yf any man wound ano∣ther, or beate hym with a staffe, he redemeth thoffence, payinge to the king a certayn of golde. When they pray,
+ they go fyrst before the rysing of the sunne, to some ryuer or stan∣dinge water, wherein they plunge thēselues, to thintent to washe thē cleane:
+ And so beeinge washed, they touche nothing vntyll they haue at home at theyr houses, poured forth theyr prayers before theyr Idols.
+ When they laye them selues down on the grounde, secretely to praye, they make certayne deuylishe ge∣stures lyke vnto madde mē, staring with theyr eyes, & turning them in∣ward
+
+
+
+
+after a straūge sorte, wyth no lesse deforminge their countenaūce, very monstrous to beholde. When the king prepareth him to y
+e
+ warres he hath in a readynesse a hundreth thousand fotemen. For of horsemen they haue no vse, but only of such as fyght on Elephantes. All that are of the Kinges bande, haue a silken fyl∣let of scarlet colour, tied about their heades. Whē thei go to the warres they vse round sweordes, targets, iauelins, and bowes.
+
+
+
+
+
+
+¶Of Pepper and other spi∣ces which growe in the regi∣on of Calicut.
+
+
+PEpper groweth in y
+e
+ suburbes of the citie of 
+Calicut.
+ There is some also gathered within the citie. The stalke of pepper is veri weake:
+ so that it can not stande vpryghte, without a stake or proppe to sustein it, as haue y
+e
+ vynes. It is not much vnlike vnto Iuie: and in like maner
+
+
+
+
+crepeth & stretcheth forth it self: em∣brasing & ouerspreading such t
+ees as grow nere vnto it. This tree (or rather shrubbe) is deuided into ma∣ny braunches, of the lengthe of two or thre hand bredth. His leaues are lyke the leaues of an Orenge tree: sauinge that these are somewhat grosser & fatter, wi
+h small vaynes running betwene on the contrarye side. On euery twigge ther hāgeth sixe thicke clusters of beries, a hand breadth in length, and of the colour of wild grapes. They are gathered in the monethes of October & No∣uember: Inclininge yet to a grene colour, and so laying thē on mattes or couerlettes, they set them in the sunne to be dried: where, within the space of thre dayes, it waxeth black, euen as it is brought hether. They vse neyther cutting nor digging, or other tillage,
+ but onely the simple & pure fruitfulnes and encrease of the
+
+
+
+
+earth. Plinie sayth that the trees of pepper are lyke vnto oure iuniper trees. And that in his time, some af∣fyrmed y
+t
+ they were brought foorth only in the front of y
+e
+ mount 
+Calicasus
+ on the southsyde toward the sonne. But the Portugals, whiche in this our daies sayle into the Eastpartes, haue found it otherwise. The regi∣on of 
+Calicut,
+ beareth also Ginger:
+ which doubtles is a roote, & is oftē tymes founde of the weighte of .xij. vnces: but al are not of lyke bignes. This roote entreth no deper into y
+e
+ groūd, thē .iii. or .iiii. hādbredth, like vnto the rede. When ginger is dig∣ged out of y
+e
+ ground,
+ they leaue the knotte or ioynte of the roote, in the pytte out of which they digged the ginger: couering y
+e
+ same with earth as a sede, agaynst the next yeare to encrease & bring forth more ginger. It is foūd in playn groūd of a redde erth, as ar 
+Mirabalanes.
+ Ther groweth
+
+
+
+
+also diuers other frutes & shrubbes vnknowen to vs,
+ as 
+laceri, graccara, am∣ba, Carocapel, Comolanga,
+ and such other of which some haue the taste and sa∣uours of quinces, some of peaches, some of damaske prunes, some of melones, and some of figges, &c. 
+Aloe
+ groweth also in that regiō:
+ and is a certayn gumme, gathered frō a litle tree, which is fastened in the earth, onely with one roote after y
+e
+ maner of a staffe, pytched in the grounde. The bodie of the tree, is tender and redde, of strong sauour & bitter tast. It somtyme putteth forth droppes of gumme withoute anye cuttinge. And this of India, is muche better then that which groweth in 
+Iudea.
+
+
+
+
+
+
+¶Of byrdes & beastes which are found in the region of 
+Cali∣cut
+: and of the wyne of the mer∣ueylous tree.
+
+
+THere is found in 
+Calicut,
+ diuers & sundry kyndes of foure footed
+
+
+
+
+beastes and foules. As lions, wilde boores, hartes, hyndes, wolues, kyne, wylde oxen, goates, and Ele∣phātes: whych neuertheles are not engendred there, but brought the∣ther. There bee also grene popin∣giays,
+ & some white fethers of va∣riable colours, lying like scoutchins Some also of purple coloure. Of these there is such plentie, that they are fayne to appoint mē to kepe thē from the rice which groweth there in the feldes. They are merueilous chatteringe & of small price. There are also birdes called 
+Sarau,
+ somwhat lesse then popingiayes, but make a much sweter noyse. There are also manye other kyndes of byrdes vn∣lyke vnto oures: Of which, euerye morning & euening is hearde suche a harmonie & so swete a noyse, that nothing can be more delectable: In so little mouthes cōsisteth in maner al musicke, and therfore the inhabi∣tauntes
+
+
+
+
+lyue in greate pleasure, as though they were in an earthly pa∣radise,
+ where floures are euer sprin¦ging, and trees cōtinue grene al the hole yeare. The heauen is benefici∣all vnto thē, and the ayre most tem∣perate cōtinually.
+ So that thei are nether bytten with colde in winter nor burnt with heate in somer, but lyue as it were in continual springe tyme.
+ The same regiō brīgeth forth also Marmasets & Munkeys,
+ whi∣che are great hinderaunce to y
+e
+ men of the countrey: and specially to the poore sorte, beecanse they clyme the walnut trees, and spylle the sweete liquoure of the fruyte thereof, of which the Indians make most plea∣saunt wyne. For these Indiās haue a tree most excellent aboue all other trees of the world, which bringeth foorth dates lyke vnto the Palme tree.
+ This tree serueth thē for fire∣wood:
+
+
+
+
+and beareth a kynde of wal∣nuttes most delicate to be eatē: Al∣so a kind of cordes, softe cloth, wine, oyle, and suger. But chiefly it brin∣geth foorth this excellent kynde of nuttes like vnto dates. From these they take awaye the fyrste rynde or barke & cast it in the fire. The other fruite is not muche vnlyke 
+Gossampin
+ cotton, or sylke.
+ Of the floures they make cloth lyke silke: the flaxe whi∣che is lefte, they spinne agayne, and make therof smal roopes or cordes.
+ The last barke or rinde, conteineth the nutte, whose thickenesse is no more thē the lyttle fynger of a mās hande. Furthermore the sweete li∣quoure or wyne,
+ is engendered with the nutte, so that as the nutte groweth, the liquoure also encrea∣seth: In so much that when the nut is full growen, the lyquoure fyl∣lethe the inne warde partes of
+
+
+
+
+of the same. And thys liquoure or wyne, is most cleare, not muche vn∣lyke vnto rosewater: Of which ne∣uertheles is made a very fatte oile.
+ They cut also the trunke or stocke of the tree in y
+e
+ morning & euening: by whiche meanes they gather a most excellent liquour, which they seeth on the fyre, and make thereof so merueylous a drinke, that if a mā drinke therof beyond measure, he is drieuen into furie & madnes. This liquour is vsed there in the stede of wyne. But let vs nowe returne to the beastes which are foūd in 
+Calicut.
+ Serpentes growe there vnto such houdge greatnesse,
+ that they are in maner as bigge as swyne. They haue heades much larger thē bores heades. Thei are foure foted, foure cubites in length, engendered & cō∣uersaunte in fennie and marrishe groundes.
+ The men of that coūtrei saye that these beastes are without
+
+
+
+
+poyson. There are also found other kyndes of serpentes: of the whiche one kynde hath so mortall venime, that yf they drawe neuer so lyttle blud, it causeth presēt death. There are other serpentes which in quāti∣te represent the serpent called 
+Aspis.
+ Again, othersome are much higher of whiche there are greate plentie. The men of the countrey thinke y
+t
+ they are spirites fallen frō heauen:
+ and therfore haue them in great re∣uerence. Thei haue conceaued this opinion of them, becau
+e that in ma∣ner with touching, they bringe pre∣sēt death. And this is the cause whi there is so great abundaunt of ser∣pentes, that by the kinges cōmaun∣dement it is not lawful to hurt thē: and therefore they wander safelye where them listeth, and are estemed of them as thinges that bring good fortune. For whereas the men of y
+e
+ countrey, goe abroade aboute anye
+
+
+
+
+busines, thei take it for good luck to mete any of them by the waye. The popingiayes of 
+India,
+ are for the most part, of grene colour besyde y
+e
+ head, which is ether redde or yelowe like golde. They haue a great and large toung, and are therfore of a louder voyce, & speake more plainly. They learne the fyrst & second yeare such thinges as are taughte them. And beare them lōger in memory. They drinke wyne, & vse theyr fete in the stede of handes when they feede.
+
+
+
+
+
+
+¶Of the sundrye kindes of Spices, which are founde in 
+Calicut,
+ and from whence they are brought thyther.
+
+
+GInger groweth in 
+Calicut,
+ yet is there much broughte thether from the cytie of 
+Canonor.
+
+
+Cinamome commeth from the Ilande of 
+Zaylon,
+ whyche is fyftye
+
+
+
+
+leages beeyonde 
+Calicut
+ Eastwarde.
+
+
+Pepper groweth in 
+Calicut
+: but muche more is broughte thether from 
+Corimucol,
+ whiche is .xij. leages beyonde 
+Calicut.
+
+
+Cloues are gathered in a place, called 
+Meluza,
+ certayn leages distant from 
+Calicut.
+
+
+Nutmegges and Mace, growe in 
+Molucha,
+ beyng distante from 
+Calicut
+ hundreth and thre score leages, and somewhat more.
+
+
+Muske & Castoreum, is brought from the region of 
+Pego,
+ which is frō 
+Calicut,
+ almoste hundreth and fyftye leages.
+
+
+Pearles of the biggest sorte, are gathered neare vnto the Iland and cytie of 
+Ormus,
+ situate in the goulfe called 
+Sinus Persicus
+: And are sente from thence to 
+Calicut,
+ as to the ge∣nerall market towne of all the East partes.
+
+
+
+
+
+Spikenarde, & Mirabalanes, as brought from 
+Cambaia
+ to 
+Calicut.
+
+
+Frankencense, and Myrre, come from 
+Arabia.
+
+
+Aloe,
+ and 
+Camphyre,
+ are brought frō 
+Kyui,
+ or 
+China
+ .l. l
+ages from 
+Calicut.
+
+
+Long pepper cometh frō 
+Samotor.
+ Cardamome y
+e
+ greater, is brought from 
+Canonor.
+
+
+Presilium,
+ or brasyll, cometh frō 
+Dar∣nasseri,
+ otherwyse called 
+Tarmasseri,
+ al∣most .CC. leages from 
+Calicut.
+
+
+
+
+
+
+¶Of the Iland of 
+Zaylon,
+ and of Cinomome found there.
+
+
+ZAylon
+ is a very large region
+ & bringeth foorth chefelye Ele∣phantes in greate plentie.
+ It hath also Mountaynes of merueylous lēgth: at the rootes wherof ar foūd Rubines, Hiacinthes, Saphyres, Topases,
+ and suche other precious stones. In this Iland groweth the Cinomome tree,
+ not much vnlyke y
+•
+ bayetree, specially in the leaues. It
+
+
+
+
+bringeth forth graynes much lyke vnto baye beries, but somwhat lesse and whytishe. That which we com∣monly call Cinomome, is nothinge els but the barke or rynde of a tree, which is gathered after this maner Euery thyrde yeare they cut of the braunches of the trees, and take of the barke or rynde therof, which is our Cinomome. They cut not the body of the tree, but only the bran∣ches. When it is first gathered, it is grene, & not perfectly swete vntyll it be kept a moneth. This Iland is situate vnder the Equinoctial line,
+ where is continuall springe all the yeare. The inhabitauntes weare clokes, with one arme oute vncoue∣red, & haue clothe made of 
+Gossampine
+ cotton, or of silke.
+ A rede is to them in the stede of sworde, rapyre, & ia∣uelyne. And are therefore seldome slayne in the warres.
+
+
+
+
+
+
+
+
+¶ Of the cytie of 
+Tarnasseri,
+ & the maner of the cytezins there.
+
+
+THe cytie of 
+Tarnasseri,
+ is distaunte from the Kingdome of 
+Narsinga
+ .xiiij. dayes sayling Estward, & hath a king of great puyssaūce and mar∣ueylous riche. The soyle of this ci∣tie, bringeth forth wheate, cotton of 
+Gossampine
+ trees, & plētie of silke. The fieldes bringe foorthe all kindes of fruites: quinces also and oranges. It is replenisshed with manye and sundrye kyndes of beastes aswell wyld as tame, as kyne, shepe, gotes swyne, hartes, hyndes, wolues and lyons. There are also seene those kyndes of cattes whiche beare the riche furres called 
+Zibellim,
+ which we call Sables. In all the fieldes and woodes of this region are founde many Peacockes, Faulcons, & most fayre Popingiayes of white colour intermingled with seuen variable coloures. There is also maruelous
+
+
+
+
+plentye of hares and partryches. There are manye other straunge kyndes of foules:
+ and specially such as lyue by praye, whiche are muche higher then Eagles: whose vpper beakes are of suche bignes & hard∣nes, that handles for sweordes are made thereof. Also the cockes and hennes of thys region are muche hygher and bigger then ours. Whē the people of the countreye goe to theyr meate, they lye downe on the grounde withoute carpet or cloth: Yet vse they woodden vesselles. workemanlye made. Theyr drinke is water myxte with suger: but the poorer sorte, drinke onelye water. Their beddes are made of Gossam∣pine cotton,
+ wyth couerlettes al∣so of cotton or sylke. They goe all in generall barefooted excepte the Priestes.
+ The Kynge of this cytye, doeth not commytte his wife
+
+
+
+
+to the Priestes to bee defloured, as doth the king of 
+Calicut,
+ but to whyte men, as are the christiās & Turkes. For this office is not committed to the Idoloters. But after that the new maried quene hath been thus defloured the fyrst night, yf euer af∣ter she doe dishonour the Kyng her husbād, by violating the faith made to him,
+ from thencefoorth neuer to knowe any other man carnally, her punishment is death incontinently. When the Kynges or the Priestes dye, their bodies are laid on a great fyre, and the asshes therof reserued in erthen pottes, putting thereto a porcion of salte petre, and buryinge the same in theyr owne houses.
+
+
+While the bodies are burning, they cast into the fyre al kyndes of swete sauouring gummes, and spices: as Aloe, Frankencense, Myrre, Sto∣rax, Coralle, sandalles, and suche o∣ther innumerable: In the meane
+
+
+
+
+tyme blowing trūpets & shawmes,
+ after the maner of thē which amōge the gentiles were canonized into y
+e
+ numbre of the goddes. And within xv. dayes after y
+e
+ husbandes death,
+ the wyfe calleth to her all her kins∣folkes, bidding them to a banket: & fo being decked with al her iewels, she procedeth with thē to the place where her husbande was buried, where a graue is redye digged for her, inclosed about with silkē cloth, hauinge in it a fyre made of sweete wood. When the woman hath thus feasted her kynsfolkes, she eateth much of the herbe called 
+Betola,
+ wher¦by she is driuen into a madnes. In thys meane whyle, innumerable trūpetters (wearing such vestures as they vse in the deuyls seruice) go as it were on procession aboute the graue, while the womā runneth vp and down, daunsing cōtinually like a frantike bodie. And thus whē the
+
+
+
+
+ceremonies are fynished, she casteth her selfe headlong into the fyre and graue:
+ and that with no lesse chere∣fulnes thē yf she should be receaued into heauen. And vnlesse the womā shoulde performe thys custome, she should incurre most vyle infamie, & be a mocking stocke to all her naciō,
+ as one that loued not her husband. But the cōmon people vse not thys custome: but only the rulers & prin∣ces. And therfore the king him selfe is often tymes presente at these so∣lemnities.
+
+
+
+
+
+
+¶Of the kingdoms and cities of Pego and Bangella.
+
+
+FRom the cytie of 
+Iarnasseri,
+ to the cytie of 
+Bangalla,
+ is .xi. dayes say∣linge. This cytie hath a kynge: and the countrey is very fruyteful with great plentie of wheat, fleshe, suger, ginger, and gossampine cotton: and hath therfore very rich marchātes. There yearely passeth from this ci∣tie
+
+
+
+
+fyftie shyppes frayghted wyth gossampine cottō, and silke clothes:
+ which are caried from thence to the Turkes, Syrians, Arabians, Per∣sians, Ethiopians, & Indians. Here are also founde certayne Christian merchaunt men, which come out of Thempire of the great 
+Cham
+ of 
+Cathay
+:
+ bringing with them Aloe, Castoreū and the swete gūme called 
+Laserpitium,
+ with other swete sauours. In this cytie, the men spinne and carde and make clothe, and not the womenne. From this cytie Eastwarde, is ano∣ther great citie called Pego,
+ beyng situate by a verye fayre ryuer. The Kinge of thys cytie, is an Idolater, and hathe innumerable menne of worre, both horsemenne and foote∣menne. The soyle beareth wheate plentifullye: and bringeth foorth in maner all kyndes of beastes, & hath therfore great abundaunce of fleshe
+
+
+
+
+Yet are there but fewe Elephants: But of other beastes and foules, greate plentie as is at 
+Calicut
+: & speci∣allye of popingiayes, whiche are of louder voice thē in any other place. There is little trafficque or mar∣chaundise in this region,
+ except ie∣wels & precious stones and special∣lye Rubies, called 
+Pyropi,
+ whiche are broughte thether from the cytie of 
+Capelan.
+ These precious stones shyne so brighte in the darke nyghte, as thoughe it were the sonne beames. The countrey adioyning, bringeth forth 
+Lacha, Sandalum,
+ called saunders: Also brasile, gossampine cotton and sylke.
+ Frō 
+Pego
+ to the cytie of 
+Malaccha
+ (whiche some call 
+Melaqua
+) is eyghe
+ dayes saylinge: where on the other syde is sene a great Iland called 
+Su∣matra,
+ otherwise 
+Samotra,
+ & was in time paste called 
+Taprobana.
+ This 
+Malaccha,
+ hath a goodly & cōmodious hauen: by reasō wherof, moe shippes arriue
+
+
+
+
+there then in any other place: brin∣ginge with them spyces and other marchaundise in great abundance. The region is not generally fruyt∣ful, yet hath it wheat and f
+eshe: but greate scarcenesse of wood. The soules wander in the feldes as they doe in the region of 
+Calicut.
+ But the popingiayes are here much fayrer. It bringeth foorth also spices, saun∣ders, tinne, elephātes, horses, shepe wilde oxē, pecockes, and such other kyndes of beastes. It is not lawfull there to bye and sell
+ except you bye spices and sylke. It is also there ve∣ry daungerous to walke in the citie in the nighte season, beecause of the theft & cruelnes of the inhabitātes, which kil one another like dogges. And therfore the marchaund straū∣gers lodge not out of their shippes. How the Portugales subdued 
+Ma∣laccha,
+ shalbe said hereafter in the de∣scripcion of the newe Ilandes.
+
+
+
+
+
+
+
+
+¶Of the greate and ryche I∣lande of 
+Sumatra,
+ or 
+Samotra,
+ some∣tyme called 
+Tabrobana.
+
+
+SOme thinke this Sumatra, to be that Iland which of the old wri∣ters is called 
+Tabrobana.
+ It is verye great and riche: and hath in it foure Kinges crowned with Diademes. They are Idolaters: in religion, maner of lyuinge, and apparell, not muche vnlyke the Kinge of 
+Tarnasseri.
+ They exceade all other men in big∣nesse of bodie. They haue greye or blewe eyes, and are of cruell coun∣tenaunce, and terrible voyce. They are long lyued,
+ and lyue euen vntyl an hundreth yeares of age. The sea in certaine chanels is of such heigth and depth, that no anker may come to the bottome therof. The inhabi∣tantes are great fyshers on the sea, and haue great pleasure to take the shelle fysshe, called the Tortoyse of the sea: of whiche, some are of suche
+
+
+
+
+houdge bignes, that the shelle of one of them may suffise to make a house well able to receaue a hole famelie.
+ For some of them beare shelles of xv. cubites in length: and are there∣fore apt for that purpose. The most part of this Ilande is burnte with heate, and hath in it many desolate places and wildernesses. There are founde many and greate Pearles.
+ For theyr money,
+ they vse coyned golde, syluer and tynne. The goldē coyne, hath on the one syde a deuils head grauen, and on the othersyde a chariot which Elephantes draw. This region bringeth foorth more plentie of Elephantes, of greater stature, & a better broede, then are found in any other place. In the sea about this Ilande, are often tymes sene the great monstrous fysshes,
+ & kynde of Whales, called Balene, which bring many incōmodities to the inhabitantes. They are of such
+
+
+
+
+monstrous bignes, that when they approche to the Sea bankes, they seeme lyke vnto hylles: they haue rough backes full of sharpe prickes. And except men walke very ware∣ly by the sea bankes, they are in daū¦ger to be sodeynly swalowed vp of these monsters. Some of thē haue so greate and wyde mouthes, that they sometymes swallowe whole shippes with the mē. This coūtrey bringeth foorthe 
+Lacha, Lacca,
+ or 
+Lacta,
+ which steyneth silke & cloth in high redde or crimison coloure. It is en∣gendred in a tree, not much vnlyke vnto our walnut trees. Ther is al∣so great plēty of pepper, higher thē is founde in other places. In 
+heir mother tōge pepper is called 
+Molaga.
+ It is solde there by measure,
+ as wheat is with vs, & not by weight. There is so great plētie hereof, that there are yearely certayne shippes ladē therwith to 
+Cathay
+ where y
+e
+ aire
+
+
+
+
+is colder. From Sumetra to the Iland of Banda,
+ which is but rude and barren, and of playne and lowe grounde, whose inhabitantes are barbarous, & little differinge from beastes, hauing lowe houses, and no apparell but shertes, barefoted and bareheaded, with long heare, of de∣spicable stature, dulle witted, of no strength, and Idolaters. The soyle of this countrey, bringeth forth no∣thīg but nutmegges, & a few other fruites. The s
+alke or bodi of y
+e
+ nut∣meg tree,
+ is not much vnlike y
+e
+ stalke of a peache tree, bringing forth lyke braunches and leaues, but some∣what narower. Before these nutts be rype, y
+e
+ mace crepeth on the tree, lyke a florishing rose.
+ And when the nutte waxeth rype, the mace em∣braseth it round about. And so they gather both together in commune, at a tyme appointed: for they vse no distribucion thereof, but he that ga∣thereth
+
+
+
+
+most, hath most. This tree bringeth forth his fruyte plentiful∣ly without any arte of husbandrye or tyllage. They are gathered at such time as we gather chestnuttes From this Iland within sixe dayes sayling, is the Iland of 
+Monoch,
+ in the which cloues are founde, as also in other Ilandes, therto adioyninge. The tree whiche beareth cloues, hath his stalke not much vnlike vn∣to the boxe tree, with leaues lyke the Cinomome tree, but somewhat rounder.
+ And when the cloues be∣ginne to waxe rype, they beate the trees with redes, spreding fyrst co∣uerlettes or mattes vnder y
+e
+ same. The grounde where these trees grow, is of y
+e
+ colour of cleye or sand. This regiō is situate so low, that y
+e
+ seuē starres called 
+Septen
+riones
+ (being not farre frō 
+Vrsa maior,
+ called charles wayne) cā not there be sene,
+ because y
+•
+ south pole (called pole Antartike)
+
+
+
+
+appeareth aboue the earth.
+
+
+
+
+
+
+¶Of the Ilande of Bornei.
+
+
+THe Ilād of Bornei (which some call Porne) is distant frō 
+Monoch
+ fiftie leages. The inhabitantes are Idolaters,
+ very quick witted, and of maner of liuing not greatly to be discommended. Thei vse not al one kynde of apparell. Some weare shertes of gossampine cotton, some beastes skinnes, & some high cappes lyke myters, of redde colour. This Iland bringeth forth yearely great plentie of 
+Camphora,
+ called camphyre,
+ whiche they affirme to be the gūme of a certayn tree. Of this Ilande I wil speake more hereafter in the na∣uigacions toward the East partes.
+
+
+
+
+
+
+¶ Of the Iland of Giaua.
+
+
+The Iland of 
+Gyaua,
+ is distant frō 
+Bornei,
+ v. dayes sayling towarde the south. This Ilād is so great, y
+t
+ it cō∣teineth in it many kingdōs: y
+•
+ inhabi∣tātes a
+ geuē to idolatri. It brigeth
+
+
+
+
+forth silke,
+ which of it selfe groweth there plentifullye in the wooddes. The precyous stone called Sma∣ragdus (which is y
+e
+ true Emerode) is found there more excellent,
+ then in any other place of the worlde. It hath abundaunce of golde & copper of the best kynd. The soyle beareth wheat & other corne, withal kindes of fruites in great plentie. Whē the men of this countrie goe to the sea, theyr weapons are bowes,
+ and ar∣rowes of redes. They vse also to infect theyr arrowes with venime,
+ and to blowe them oute of a trunke as we doe pellets of claye: with the which yf they drawe neuer so little bloud, presente death foloweth im∣medialye. They haue also this cu∣stome,
+ that when they see theyr pa∣rentes by reason of age to be vnpro∣fitable, they bring thē to the market towne, and there sell them to the people called 
+Anthropophagi,
+ which eat
+
+
+
+
+
+leshe, of whom they are incontinēt∣ly slay
+e, and eaten. The same doe the
+ with the yonger forte also, yf they fall into any desperate disease.
+
+
+
+
+
+
+¶Of the Iland of Iaua.
+
+
+THere are two Ilandes of thys name, as Iaua the more & Ia∣ua the lesse. The biggest reacheth forth toward the South, & is sayd to haue in it many kingdoms. The inhabitantes are Idolaters & haue a peculier language. In this Iland is greate plentie of pepper,
+ Nutte∣megges, Spikenarde, Galangale, & other spices. Mani marchauntes of other countreies are wont to re∣sorte thether, & geat great riches by y
+e
+ spices which they carie frō thense. In this Iland also are people called 
+Anthropophagi,
+ which are wont to eate mens fleshe.
+
+
+
+
+
+
+¶ Of the Iland of 
+Madagascar.
+
+
+THis Iland is counted to be one of the greatest and rycheste I∣landes
+
+
+
+
+of the worlde. The inhabi∣tantes are of Mahumets secte as are the Turkes.
+ It bringeth forth many Elephantes,
+ by reason wher∣of there is greate plentie of Iuerye which is the Elephantes to the. For it is thought that there is no grea∣ter plentie of Iuerie,
+ thē in this I∣land & in the Iland of 
+Cuzibet.
+ They eate the fleshe of none other beastes, but onely of Camels,
+ because the I∣lande is full thereof, & also that it is founde to be more holesome for the people of that countrey then any o∣ther fleshe. There are also in this Iland manye woddes that bringe foorth redde sanders,
+ for the which many marchauntes resort thether. In the sea about this Iland
+ great whales are taken,
+ out of the which amber is gathered. There are liōs, leopardes,
+ hartes, hyndes, goates, and many other beastes and foules, by reason whereof, they vse muche
+
+
+
+
+haukinge and huntinge.
+
+
+
+
+
+
+¶Of the Iland of Zanzibar.
+
+
+THe Ilande of Zanzibar, hath a peculier Kinge and language. The inhabitantes are idolaters, & are of grosse and shorte stature:
+ but yf theyr heygth dydde aunswere to theyr thickenesse and breadth, they mighte seme to be giauntes. They are all blacke, and goe naked, onely couering theyr pryuie partes. The heare of theyr heades, is meruey∣louslye corlde.
+ They haue greate mouthes, nosethrilles flyrtting vp∣warde and wyde, with great eares and cruell eyes. Theyr women are deformed by reason of theyr greate eyes, greate mouthes, and greate nosethrilles. They liue with milke, flesshe, ryce, and dates.
+ They lacke wyne: Yet they make a
+
+
+
+
+pleasaunt drinke of ryce, suger, and other spices.
+ Many marchauntes resorte thether for yuerie & Amber,
+ for there is greate plentye of Ele∣phantes and great whales.
+
+
+
+
+
+
+¶Of the two Ilandes, in one of the which dwell onely men, and in the other onely womē.
+
+
+IN the mayne sea, there are two Ilandes, distante the one frō the other aboute .viij. or .ix. leages to∣ward the south, situate betwene the cytie of 
+Aden
+ and 
+Calicut.
+ In one of the which dwel onely men without the company of womē, and is called the Ilande of men.
+ And in the other dwell onely women, without men, and is called the Ilande of women.
+ They are Christians,
+ and contract matrimonie. The women neuer come to the Ilande of men, but the men are accustomed to vysyte the women once in the yeare, and tarye with them thre monethes continu∣ally,
+
+
+
+
+euery man with his owne wife in his owne house: after which time they returne agayn to her owne I∣lande, where they remayne all the yere after. The women kepe the mē children with them vntyll they bee xv. yeares of age, & then send them to theyr fathers. The women haue nought els to do, but to take charge of their children, and to gather cer∣tayne fruites. But the men labour and haue care how they may fynde theyr wyfe and chyldren. They are exercysed in fyshing,
+ and sell fyshes both newe taken and olde dryed, to marchaunte straungers, whereby they receaue great commoditios.
+
+
+
+
+
+
+¶Of the greate Empyre of 
+Cathay,
+ being vnder the domi∣niō of the great Cham (whi∣che some call the great Can) Emperoure of 
+Tartaria,
+ in olde tyme called 
+Scythia.
+
+
+
+
+
+THe superiour or high 
+India,
+ whi∣che is nowe called 
+Cathay,
+ is a re∣gion excedinge large and of greate power, whose Emperour is y
+e
+ great Cham of 
+Tartaria,
+ hauinge vnder him many Prouinces, people and Prin∣ces, and innumerable Ilādes in the great East sea, called the greate O∣cean. He hath vnder his dominion great & famous cities,
+ as are these: 
+Cambalu, Quenquinafu, Mi
+n, Cacausu, Canglu, T
+¦dinfu, Tingui,
+ and dyuers other. Amōg the people of this countrey, one mā hath manye wyues,
+ whiche declare theyr loue to their husbandes after this sort. Whē the husband is dead, euery one of his wiues pleade their cause before a iudge,
+ to proue which of them was most louing to her hus∣band & beste beloued of him: so y
+t
+ she which by the sentence of the iudges is found to haue been most faythful and diligēte, decketh herselfe moste gorgiously in all her sumptuous a∣raye, & procedeth like a 
+Virago
+ stout∣ly
+
+
+
+
+& cherefully to the fire, where the corps of her husbande was burnte, castinge her selfe into the same fyre, embrasing and kissing the dead bodi of her husband, vntyll she also be cō∣sumed by the fyre, whiche she repu∣teth for an honourable sepulture: whereas his other wyues are este∣med to lyue in shame and infamie. They ioyne in mariage, neyther in respect of riches or nobilite, but on∣lye for loue & beautie: & rather for y
+e
+ encrease of posteritie, then for plea∣
+ure. There is also another straūge custome amōg these Indians:
+ & y
+t
+ is, that wheras the poorer sort are not able to geue any dowry with theyr doughters to mariage, they bringe thē forth, euē in y
+e
+ floure of their age to y
+e
+ market place, with trūpettes & such other instrumētes as they vse in the warres. Where, the multi∣tude beynge called together, the maydes fyrste of all, discouere theyr
+
+
+
+
+backe partes, euen vp to the shoul∣ders, & afterward theyr forepartes in lyke maners. And vpon this de∣claring their pouertie & nakednes, are maried to such as lyke thē best. This people of 
+Cathay,
+ are of the na∣cion of thē which in tyme past were called 
+Scythians,
+ a kind of men (as saith 
+Haitho
+) of subtill wyt: affyrming that onely they see with two eies, & that all other men besyde them are blind of the one eye. Theyr quickenes of witte is great, but their boasting is more. The hole naciō is perswaded that they greatly excel all other mē in subteltie of wit and knowledge. The inhabitantes are whyte men, with small eyes, withoute beardes, & vtterly voyde of all godly know∣ledge.
+ For some of them pray to the sunne, some to the mone, some to I∣mages, some to an oxe, and some to other monsters of theyr phantasti∣call supersticion. They haue no law
+
+
+
+
+written, and are of no faith. And al∣beit that in workemāship and artes they are marueylous wyttie, yet haue they no knowledge of dyuine or godly thinges. It is a timorous kynde of men, and greatly fearinge death. And are therefore in theyr warres, more politike then valient. In the warres, they vse arrowes, & certayne other kyndes of weapons vnknowē to men of other coūtreis. The monie which they vse,
+ is made of a certayne paper, beeinge foure square, with y
+e
+ Kinges ymage prin∣ted theron. Theyr housholde stuffe is of golde & syluer & other metals.
+ they haue greate scarcenes of oyle. The great Emperour of 
+Cathay,
+ kee∣peth his courte in the riche & migh∣tie cytie called 
+Cambalu,
+ being the che∣fest citie of all the Empyre, & of such greatnesse that it conteyneth in cir∣cuite sixe l
+ages. This citie is foure square, so that euery quadrature or
+
+
+
+
+syde of the wall, hath in it thre prin∣cipal portes or gates. Also in all the corners of the walles, are veri faire palaces, in which the artillery or ar∣mure of the cytie is reserued. The stretes are made very streyght and right forth: so that frō any one gate to the other beinge directly ouer a∣gainst the same, a man may se plain∣ly through the cytie, hauing y
+e
+ hou∣ses on euery syde lyke palaces, pla∣ced in goodly ordre, most beautifull to behold. Without the cytie, there are twelue great suburbes, adherēt to the .xii. gates of y
+e
+ cytie, whether the marchaūtes & straungers,
+ haue their cōtinual recourse as to y
+e
+ burse or strete. It can not be spoken what great abundaunce of marchaundise and riches is brought to his citie: a man wold thinke that it were suffi∣cient to serue all the worlde. Preci∣ous stones,
+ pearles, silke, and spices of dyuers kindes are brought the∣ther,
+
+
+
+
+from 
+India
+ and 
+Mangi,
+ & other re∣gions. There passeth not a daye in the yeare in which there are not a∣bout a thousand waynes ladē with silke which are brought to this citie by straunge marchauntes.
+ What greate pompe, glory, & forniture of all thinges, is obserued in the Em∣perours courte,
+ it can not be spokē. He hath in his courte twelue thou∣sand horsemen, whiche haue the cu∣stodie of his body: & distribute their waytinge dayes after this order, y
+t
+ whereas one of y
+e
+ captaynes of this garisō with his thre thousand soul∣diers hath wayted vpō the kinges personne, three dayes, another cap∣tayne in lyke order wyth as manye menne succedeth in hys rowme for other three dayes, and lykewyse an other after hym, executethe the same offyce. When the Em∣peroure maketh anye bankette,
+
+
+
+
+it cannot be said what great pompe is obserued. He hath sytting at his lefte hand his chefest quene whō he most estemeth:
+ and at his right hād hys sonnes, a
+d suche as are of the kinges bloud: but thei syt somwhat lower & further of. The other no∣ble men which wayte not, sytte in a place yet somewhat lower. All such as in the court syt at meat, vse none other drinking cuppes then of gold
+ The Princes whiche wayte on the Emperoure at hys meate,
+ haue all theyr mouthes couered with fyne silken clothes, least in any case they should blow or breath on the kinges meate or drinke. And whē the Em∣perour lifteth vp his cup to drinke, al the musicions and minstrels that stand about him, playe on theyr in∣strumētes, while in the meane time all suche as wayte on hym, stoupe downe & make lowe curtesie. How great honoure is exhibited to this
+
+
+
+
+Emperour', & howe many precious and riche presentes are offred vnto him by his Princes, Dukes, Leaue tenauntes and presydentes of pro∣uinces, and rulers of cities, no man is able to expresse, forasmuche as he hath vnder him in maner innume∣rable Kingdomes, Prouinces, Na∣cions and Dominiōs, which are on euery syde about 
+Cathay,
+ & acknowe∣ledge him to be theyr onelye Lorde and King, whom they honoure and reuerence as a great God & mighti Mahumet.
+ In what pompe & tri∣umphant magnificence he sheweth him self when he goeth to hauke or hunt, and how many tentes he pit∣cheth in the felde, which being sene a farre of, a man would thinke to be a greate cytie, he that desyreth to knowe, let him reade 
+Paulus Venetus,
+ in the second boke of hys nauigacions into 
+India,
+ where he shal find thinges to marueyl at. In 
+Cathay
+ they make a
+
+
+
+
+pleasaunt drinke of ryce & certayne spyces,
+ which in drinking excelleth the swetenes of wine. In many pla∣ces they haue great lacke of wood: In the stede wherof,
+ they digge out of the mountaynes a certayn kinde of blacke stone whiche burne in the fyre like coles, and continue so long, that yf they be kyndled ouer night, they kepe fyre vnto the morning.
+
+
+
+
+
+
+¶Of certaine Prouinces and regions subiect vnder the do∣minion of the greate Cham Emperour of 
+Cathay.
+
+
+THere passeth through the king∣dom of 
+Cathay,
+ a certayne greate ryuer called 
+Pulisachnites,
+ which emp∣tieth it selfe in the great Ocean sea, by the whiche ryuer, shyppes haue their passage into that lande. Ouer this ryuer is a very fayre bridge of marble,
+ beyng in length three hun∣dreth
+
+
+
+
+pases, and in breadth, eyghte pases, with .xxiiii. arches, and gra∣uen Liōs on euery syde, adourning the rayles or highest margentes of the same. From hence it is not farre to the fayre and greate kingdom of 
+ainfu,
+ in the which are many goodli vynes. For in the kingdom of 
+Cathay
+ there groweth no wyne, but is brought the ther from this region. In this kingdome is greate vse of marchaundyse, and hath plentie of conning artificers,
+ so that al the ar∣mure which the great Cham vseth in his warres, is made there. To∣ward the region of 
+Mangi,
+ is situate the ryuer 
+Caromoram,
+ whiche for the greate breadth and depth, hath no bridge. In this region is greate a∣bundaunce of Ginger,
+ silke, byrdes, and speciallye Phesantes. Some∣what beyonde this, is the great cy∣tie of 
+Quenquinafu,
+ beynge the chief cy¦tie of the same kingdome. In this
+
+
+
+
+region are founde many muskeca
+∣tes.
+ This beast in this countreye, is but lyttle and fayre, aboute the big∣nesse of a meane catte, with grosse heare lyke a harte, hauinge blunte clawes on his fete, with two longe teeth in the vpper iawe, and two in the nether iawe: and hath nere vn∣to the nauell a bladder full of a cer∣tayne matter like vnto bloud, being of wonderful 
+tagrant sauoure,
+ and is the true muske.
+
+
+
+
+
+
+¶Of the Prouince of 
+Mangi,
+ and merueylous cyties con∣teyned in the same.
+
+
+THe Prouince of 
+Mangi,
+ hath in it many notable and great cities, in the whiche is greate exercyse of marchaundyse:
+ and specially in the citie of 
+Conigangui,
+ is solde great plen∣tie of salt.
+ In the cytie of 
+Panchi,
+ there is great sale of silke.
+ In the cytie of 
+Sianfu,
+ is made great plētie of clothes of golde and silke. In the cytie 
+singui,
+
+
+
+
+
+is a famous market where great a∣bundāce of marchaūdise is brought by the ryuer. Nere vnto the citie of 
+Caigui,
+ groweth plentie of blade and ryce,
+ that it is caried from thence to the court of the greate Cham. In y
+e
+ citie of 
+singui,
+ are nūbred to be about sixe thousande bridges of stone,
+ ha∣uinge so highe arches, that greate shippes maye passe vnder the same without bowing down of the mast. There is another citie called 
+Quinsai,
+ which is so fayre & great, that there is thought to be no bigger in al the worlde. It conteyneth in circuite, a hūdreth Italien miles, which make xxv. leages. It hath twelue thou∣sande bridges of stone,
+ and those so highe that greate shippes with the maste standing vp right, maye passe vnder. This cytie is situate in a marrishe ground, muche lyke vnto venes. Therfore if they should lack bridges, they coulde not passe ouer
+
+
+
+
+frō the one syde of the streete to the other.
+ It hath innumerable artifi∣cers and many marchauntes.
+ The cytezins lyue pleasantly, and speci∣ally the womē, which are fayrer thē in other partes of 
+ndia.
+ Toward the South syde of the cytye, there is a great lake or poole within y
+e
+ walles of the cytie, whiche cōteyneth in cir∣cuitie about .viii. leages, hauinge a∣bout the bankes therof many noble mens houses, very fayre both with∣out and within.
+ In the middeste of this lake, there are two litle Ilādes and in euery of thē a goodly palace, in y
+•
+ which are reserued al suche or∣namentes & vessels as they vse for theyr mariages & solemne feastes
+ for whereas any of the cytezins en∣tende to make any great banket, or feast, they bring theyr gestes to one of these palaces, where they are ho∣norably enterteined. In the stretes of y
+e
+ citie, are certaine comō towres,
+
+
+
+
+into y
+•
+ which,
+ al such as dwell neare therto, carie theyr goodes & stuffe, yf it so chaunce, y
+e
+ fyre be in the citie. The inhabitantes are Idoloters: & eate the fleshe of horses & camels,
+ & of other vnclene beastes. The great Cham hath in this cyt
+e a myghtie garison to the intente to auoyde re∣bellion,
+ thefte & murther. For on e∣uery bridge there wayteth dayly & nightlye .x. watchmen for the same purpose: and because the Prouince of 
+Mangi
+ is exceding large, the great Cham hath deuyded it into nyne Kingdomes, assigninge vnto eue∣rye one a peculier Kynge: whiche are al of greate powre, and yet sub∣iecte to the greate Cham. One of them dwelleth in the citie of 
+Quin∣sai.
+ In thys Prouince of Mangi,
+ is an other Kyngdome, called Fugui, in whiche the people eate mannes flesshe, so that they dye
+
+
+
+
+not of any disease. They drinke the bloud and eate the fleshe of such as are slayne in y
+e
+ warres.
+ There are hennes found in this region, which in the stede of fethers, haue heare much lyke cattes heare of blacke co∣lour: And laye very good egges.
+
+
+
+
+
+
+¶Of the regiō of 
+Tangut,
+ and of the great desertes, & voy∣ces of deuylles hearde in the same, & of the Salamandra.
+
+
+FRom the Kingdome of Persia, there are two iourneyes to the region of 
+Cathay.
+ For either the south side must be obserued towarde 
+India,
+ or elles to passe by the prouinces of Carcham, Cotam & Peim, North∣eastwarde to the citie of 
+Lop,
+ beynge the greatest and most notable cytie in all that region, lying betwene the East and the North at the entraūce at the great desert. In this cytie, al suche marchauntes,
+ as entende to passe the desertes, make preparaciō
+
+
+
+
+for all thinges necessarye for their yourneye: And rest in the same, vn∣till they are well prouided of strong asses and camels to carye there vi∣tayles. And when in y
+e
+ desert their vitayles begin to fayle thē, they kyl theyr asses or leaue thē there in the wyldernes, because they can no lon∣ger prouide them of pasture, vntyll they haue passed ouer the deserte. But they preserue theyr camelles, beecause they are susteyned wyth lesse meate, and beare greater bur∣thens. In this deserte are often tymes founde bytter waters:
+ but more often fresshe and sweete wa∣ters: so that in maner euerye daye for the space of thyrtye dayes, a man maye fynde fresshe water, but that in so lyttle quantitie that it doeth not suffice al the marchaūtes whiche passe that waye together. That deserte is verye full of
+
+
+
+
+of mountaynes. And when you are come to the lowe and playn groūd, the residue of the iourney is all to∣gether by the sandes: it is through out baren and saluage, so that it is not able to nourishe any beastes for lacke of pasture. In this wildernes are often tymes heard and sene, as well by daye as by night,
+ sundrie il∣lusions of euyl spirites. And there∣fore suche as trauayle throughe the same, haue nede to take great hede least they disseuer or depart farre in sundre, or leaste any linger behynde his companie, aswel for that he may hereby lose the sight of them by rea∣son of mountaynes or hilles, lyinge beetwene, as also because there are heard voyces of deuyls,
+ calling thē that wander alone, by theyr proper names, conterfeyting the voyces of theyr companie that goeth beefore, by this meanes withdrawing them from the right waye, and bringinge
+
+
+
+
+them to destruccion. There is often tymes heard in the ayre, as it were a noyse of musicall instrumētes:
+ but more often like the sounde of drum∣slades or timbrels. This great de∣sert being passed ouer, they come to the cytie called 
+Sachion,
+ which is situ∣ate in the enteraunce of the greate Prouince of 
+Tangut,
+ where amonge certayne Mahumetistes, are found a fewe Christian men called 
+Nestoriani
+ of the secte of 
+Nestorius.
+ There are al∣so manye Idoloters, hauinge theyr monasteries consecrated to dyuers Idols,
+ to which they offre many sa∣crifices, and attribute greate honor to deuyls. And when a man hath a sonne borne, he forthwith commen∣deth him to some Idol,
+ in whose ho∣nour he nourisheth a ramme al that yeare, which after that his sonne be twelue monethes olde, at the nexte feaste of the same Idoll, he and his sonne offre with many ceremonies.
+
+
+
+
+When this oblacion is finished, thei bringe the sacrificed f
+eshe to a place appoynted, where al his kinsfolkes being gathered together, they eate that fleshe with great religion, and kepe the bones reuerently in a cer∣tayn vessell: but in the funeralles of the dead, they vse these ceremonies and supersticions.
+ Al the neighbors of the dead, prouyde that the dead corps be burned: which custome all the people of the East partes do ob∣serue. Yet some of thē kepe y
+e
+ dead bodye by them certayne dayes bee∣fore they burne it: As some, seuen daies, some for the space of a moneth and some sixe monethes, preparing for the same a close cheste, so inuolu∣inge wyth cereclothe, and ponde∣ringe with spyces the bodye there∣in inclosed, that no euyll sauoure maye passe foorth. Thys done, they paynte the cheste verye curiouslye, and couer it with a precious clothe,
+
+
+
+
+placinge theyr dyninge table harde by the same, where they dyne con∣tinuallye as long as the dead bodie is thus reserued at home.
+ And in the dyner tyme for the space of one hole houre, they sette wyne & meat vpon the cheste, supposing the soule of the dead bodye to be partaker of the same. The Region of 
+Tangut,
+ is verye large, and conteyneth in it manye priuate Prouinces, as the Prouince of 
+Camul,
+ of 
+Cinchital,
+ and 
+Su∣chur,
+ wyth dyuerse fayre Cyties, whiche are all Subiecte and obeye to the great Cham of 
+Cathay.
+ Some of the inhabitantes beleue in Ma∣humet:
+ some acknowledge Christe after the heresye of 
+Nestorius.
+ In the lande of 
+Chinchital,
+ is a Mountayne oute of the whyche is dygged the myne of stele and Audanici.
+ There is also founde the Ser∣pente called 
+Salamandra,
+ which lyueth in the fyre wythoute anye hurte.
+
+
+
+
+Of the heare of this serpēt, is made a certayne cloth, which being cast in the fyre when it is foule, is thereby made cleane and very white if it re∣maine there for y
+e
+ space of an houre. Suche other innumerable & mar∣ueilous thinges,
+ writeth 
+Paulus 
+enetus
+ that he hath sene and founde in his nauigacions into these partes: of whom also I haue gathered thus muche, lettinge passe manye other thinges whereof he speaketh more at large.
+
+
+¶Here endeth the descripciō of the Nauigacions from Spayne to the newe India Eastward, & foloweth of the newe Ilandes and India found in the West Ocean sea, from Spayne Westward and Southweste.
+
+
+
+
+
+
+
+
+
+
+¶ Of the newe India and Ilādes in the West Ocean sea, how, when, and by whō they were found.
+
+
+CHristophorus Columbus,
+ a Gentlemē of Italie, and borne in the citie of 
+Cenua,
+ when he had been longe conuer∣saunt in the Kyng of Spaynes courte, he applyed hys mynde to searche vn∣knowen partes of the worlde. And for his better furtheraunce herein, made humble peticion to the kinge, to ayde him in this his enterpryse, which doubtlesse should redownde to his great honour, and no litle cō∣moditie to all the hole countreye of Spayne, yf by his helpe & charges, he might fynde newe regions. But
+
+
+
+
+the Kinge and Quene laughed him to scorne, saying:
+ that his ymagina∣cion was but vayne and phantasti∣call. At the length, eyght yeares be∣ynge passed ouer, and 
+Columbus
+ styll persistinge in his purpose and sute, the Kyng began to geue eare to his talke, and after muche reasoninge & debating of the matter, determined to trie the witte of the manne.
+ And there vpō cōmaunded a foyst & two brigantines to be furnished with all kynde of ordinaunce and vitayles: which being prepared, the fyrst day of September, in the yere of Christ 1492, 
+Columbus
+ departed from the coastes of Spayne, and wente for∣warde in his viage longe desyred.
+ And when he had passed the Ilādes called 
+Gades,
+ he diuerted toward the fortunate Ilandes called 
+Insulae Portu∣na
+ae,
+ which are now called 
+Canariae,
+ be∣cause they are full of dogges. They were in time past called Fortunate,
+
+
+
+
+for the excellente temperatenes of the ayre, and greate fruytefulnes. 
+Columbus
+ departinge from hense, say∣led towarde the Weste, and at the length founde certayne Ilandes, of the whiche two were very greate, wherof the one he called 
+Hispana,
+ and the other 
+Iohanna.
+
+
+
+
+¶Of the two Ilandes 
+Iohanna
+ and 
+Hispana.
+
+
+AS 
+Columbus
+ came to the Ilande whiche he called Iohanna,
+ he hearde a merueylous sweete noyse of innumerable byrdes, and espe∣ciallye of Nightingales whiche wandred in the thicke wooddes in the Moneth of Nouembre. He founde also mooste fayre Ryuers, swete to drinke, & many goodly ha∣uēs. And as he sayled by the costes of the Ilande Southweste warde,
+
+
+
+
+and could fynd no ende, he thought it had been the mayne land, & ther∣fore determyned to drawe backe, being partly enforsed by roughnes of the sea: and thus returning some what Eastward, he came to an Ilād whiche he afterwarde called 
+Hispana,
+ where arriuing to the land, he & his companye was sene of the Inhabi∣tantes of the Iland, which sodeinly fled into the thicke woodes: whom the Spanyardes pursewinge, toke a womanne whom they brought to theyr shippe, entreatinge her verye gentillye, fyllinge her with delicate meates and wyne, and clothing her in fayre apparel, & so let her depart: for thei goe naked, and are not vsed to delicates. And as this womanne returned to her companie, some be∣ynge moued by the lyberalitie de∣cla
+ed vnto her, came by greate multitudes to the sea bankes, brin∣ginge golde with them, which they
+
+
+
+
+chaunged for earthen pottes, and drinkinge glasses.
+ Thus a fur∣ther frendship by this meanes con∣tracted, the Spanyardes begonne more diligētly to searche theyr ma∣ner of lyuinge and maners, & so vn∣derstode that they had a king.
+ And therefore entering further into the Iland, they were honorably recey∣ued of the king. Thei vewyde their houses, and merueyled to see them so bylded without the vse of Iron,
+ which they are vtterly without: in the stede wherof they vse a certeyn stone, wherwith they cut and sawe theyr timbre.
+
+
+
+
+
+
+¶Of the people called 
+Canibales
+ or 
+Anthropophagi,
+ which are accu∣stomed to eate mans fleshe.
+
+
+WHeras the people of the fore∣named Ilādes, fled at the sight of our menne, the cause thereof was, that they suspected them to
+
+
+
+
+haue been 
+Canibals,
+ that cruel & fearse people which eate mās fleshe, which nacion our men had ouerpassed, lea∣ninge them on the southsyde. But after they had knowledge of the cō∣trary, they made greuous cōplaynt to our men, of the beastly and fearse maners of these 
+Canibales,
+ which were no lesse cruel agaynst them, thē the Tyger or the Lyon agaynste tame beastes. Declaring furthermore, y
+t
+ when soeuer they take any of them vnder the age of .xiiij. yeares, they vse to gelde them, & francke thē vn∣tyll they be very fat, as we are wōt to doe with capons or hennes: and as for suche as drawe towarde .xx. yeare olde, to kyll them forthwith and pull out theyr guttes, and eate the same freshe and newe, wyth o∣ther extreme partes of the bodye,
+ poudering the residue with salte, or keping it in a certayne pickle as we do iegottes or sansages. Yet eate
+
+
+
+
+they not the womē, but reserue thē to encrease, as we doe hennes to lay egges. And if thei take any old wo∣mē, they kepe thē for drudges. And therfore whē the 
+Canibales
+ make incur¦sion, the people of these Ilādes flye with all spede. For albeit they vse arrowes, yet are they not able to resyste theyr fearsenes.
+
+
+
+
+
+
+¶Of the maners of the inha∣bitantes of the Iland of 
+Hispana
+ and of suche thynges as are found there.
+
+
+THe inhabitātes of this Ilande,
+ vse in y
+e
+ stede of bread, certayne rotes like vnto nauie rotes, hauing the tast of soft & grene chestnuttes. Gold w
+t
+ thē is in estimaciō,
+ for they hāge certayne peces therof at their eares: they go not out of y
+e
+ limities yf their own cōtrie, nor exercise any marchādise w
+t
+ strāgers:
+ thei gather gold in y
+e
+ sādes of a certē riuer which springeth out of veri high mōtaines
+
+
+
+
+They gather it with great laboure and melte it and caste it, fyrste into masses or wedges, and afterwarde into brode plates. They haue no foure foted beastes, except connies: they haue serpentes of monstrous greatnes,
+ but without hurte or ve∣nime. They haue also wylde turtle doues & duckes, muche greater thē ours, & gese whyter then swannes, sauing y
+t
+ they haue redde heades. Thei haue also many popingiayes:
+ some grene, some yelowe, and some not muche vnlyke them of India, w
+t
+ redde circles about their neckes This Iland bringeth forth also 
+Ma∣stix, Aloe,
+ and suche other gūmes: and especially certayne redde graynes, which are sharper then pepper.
+
+
+
+
+
+
+¶How 
+Columbus,
+ after he had found new Ilādes, returned agayne to Spayne, where preparinge a newe nauie, he toke his viage to y
+e
+ 
+Canibales.
+
+
+
+
+
+COlumbus,
+ not a little ioyeful of the landes newly found, the spring tyme drawing nere, he determined 
+o returne to his countrey: leauing with the king of the Iland .38. men which should diligently searche the situacion of the Ilande, the maners of the people, & the natures of trees and fruites. But he, soyseninge vp his sayles, directed hys viage to∣warde Spayne, bringing with him tenne menne of the sayd Ilande,
+ to thende that they mighte learne the Spanishe tonge, which they might easely doe, because al the wordes of theyr language may well be writtē with our letters. 
+Columbus,
+ after thys his returne, and fortunate successe in his fyrste viage, was honorablye receyued of the Kynge and Quene, and greatlye magnified with innu∣merable glorious tittles: willinge that he should no more thenceforth be called 
+Columbus,
+ but the Admiral of
+
+
+
+
+the great Ocean sea: and prepared for him towarde his second viage .xvij. foistes and .xij. brigātines,
+ wel furnished with al kynd of artillerye and plentie of vitayles, and in them twelue hundreth men wel appoyn∣ted: Corne also to sowe, & al kindes of seedes and plantes. For, excepte pine apple trees & date trees, there growe none in these Ilandes that are knowen to vs. The Admirall toke also with him al sortes of Iron tooles to thintent to byld townes & fortresses where his men might lye in safegarde. Therfore the first day of September departing from the Ilandes called 
+Gades,
+ with a prospe∣rous wind he arryued at the Iland of 
+Canaria
+ the fyrst daye of October:
+ from whense directing his viage to¦warde the lefte hande, he sayled to∣ward y
+e
+ South, & at y
+e
+ length came to the Ilādes of the 
+Canibals.
+ And be∣cause he came thether on the Sun∣days
+
+
+
+
+called the Dominical day,
+ he called the Ilād where he arryued, 
+Dominica
+: which when he perceyued to be but saluage and rude, he sayled on fur∣ther: and in twentie dayes sayling, came to another Iland replenished w
+t
+ al kindes of trees,
+ frō which came a marueylous fragrant sauour: By reason whereof, some being allured by the pleasantnes of the place, wēt a land, where they sawe no kynde of lyuinge beastes,
+ sauinge lysertes of wonderful houdge greatnes. This Ilande he called 
+Insula Crucis,
+ whiche was also an Ilande of the 
+Canibales,
+ as afterward they proued in dede. For as they sayled about the Ilād, they found certayne lowe cotages made of trees,
+ lyke vnto stagies. For they set trees vpright in order round a∣bout, fastening postes in them crosse ouer, where vnto the trees cleaue faste, so that by this meanes they cā not fall. They frame the roofes of
+
+
+
+
+the
+e cotages, with sharpe toppes after the maner of rownde tentes. And last of al, they inclose and couer these trees thus set in order, wyth the leaues of date trees, and certen other trees, to thintent to make thē a stronger defence agaynst wynd & wether. And within the cotage, they tye the postes together with ropes of bombage cotton, and a cer∣tayne longe roote. They haue cou∣ches made, one aboue another, the flowres whereof they strawe wyth heye and cotton. And as soone as they hadde spied our men, they fled incontinente. And when oure men came into theyr houses, they found in them certayne young men bound to postes,
+ and kept to be made fatte and lykewyse many o
+de womenne which these 
+Canibales
+ kepte to be their drudges.
+ They founde there also earthen vesselles of all sortes, in which they sodde mens fleshe with
+
+
+
+
+poping
+ayes, geese, & duckes fleshe, al to gether in one v
+ssell. They ro∣sted also mans fleshe vpon spyttes. reseruing the bones of the armes & legges, whiche they vse in the stede of Iron, to piece & typpe theyr ar∣rowes. For they are vtterlye with∣out Iron. The found also the head of a yong mā, yet bleding and faste∣ned to a poste. But certayne wo∣menne whiche had fledde from the 
+Canibales
+ to oure menne, the Admiral commaunded to be gorgiously dec∣ked after the maner of our women, and with many rewardes to be sent agayne to theyr owne companye. By meanes whereof,
+ the 
+Canibales
+ be∣ynge allured by the lyberalitie and gyftes of our men, hoping that they also shoulde be lykewyse rewarded, came running toward our men: but whē they drew somwhat nere vnto them, they fled immediatly into the nexte wooddes. And thus our men
+
+
+
+
+departing from thence, returned to the Ilande of 
+Hispana.
+
+
+
+
+
+
+¶How the Admirall passed manye Ilandes, and what thynges chaunced to hym & his companie in that viage.
+
+
+AS the Admirall departed frō the Iland of the 
+Canibales,
+ & wēt foreward on his viage, he passed by many Ilandes: among the whiche was one called 
+Matinina,
+ in whyche dwell only women, after the maner of thē, called 
+Amazones,
+ as he learned of the men of the Ilandes which he brought with him into Spayne at his fyrste viage, and saued them frō the fearsenes of the 
+Canibales.
+ He pas∣sed also innumerable other Ilādes, of which to some he gaue names,
+ as 
+Mons Farratus, Sancta Maria rotunda, Sancta Mar∣tinus, Sancta Maria antiqua,
+ and 
+Sancta Crux,
+ Into the which oure men entering to thintente to fetche freshe water, found foure 
+Canibales,
+ which had takē
+
+
+
+
+foure yonge women: who, as soone as thei had spied our men, wringed theyr handes, seming therby to de∣syre ayde of oure men: at whose co∣ming to delyuer them, the men fled into the woodes and left the womē. Shortly after, our men saw a bote coming on the sea with .viij. mē and as many women: with whom oure men bickeringe lost one of theyr cō∣panions, by reason that these bar∣bariens are accustomed to infecte theyr arrowes w
+t
+ venime:
+ yet oure men preuayled and slewe parte of them, and broughte the resydue by forse to the Admyrall. As they de∣parted from hence, they found ma∣ny other Ilandes, but such as they could not come to for the roughnes of the sea and multitude of rockes. But some of the smallest brigātines which drewe no great depth, went somewhat nearer, and noumbred a∣boue seuen and fortie Ilandes, and
+
+
+
+
+called the place 
+Archipelagus.
+ Sayling from hence, they found another I∣land called 
+Buchema,
+ into the whiche y
+e
+ 
+Canibales
+ make sundry incursions, by reason wherof the inhabitantes are at continual warre with thē. Thus at the length, the Admiral with his hole nauie returned to the Iland of 
+Hispana
+: but in an euyl tyme. For they whiche he hadde lefte there for a garrison, were all dead: as were al∣so they whiche he toke with him frō the same Ilande into Spayne to vse them for intrepretours. Of whiche seuen dyed by chaunge of the ayre.
+ One of them was per∣mitted of the Admirall to departe, when the nauie came neare to hys countrey. The residue stole awaye priu
+lye, and swamme to lande: but the Admirall doubting whether all his men were dead or no, whiche he left in the Iland, commaunded cer∣tayne ordinaunce to be shot of, that
+
+
+
+
+by the noyse thereof they myghte haue warning to come forth, yf any 
+aye lurkinge in corners: but none appeared, whose fa
+tall dayes had fynisshed theyr lyfe. At the length,
+ the kyng of the Ilande beyng ther∣to enforsed, declared the hole mat∣ter to the Admyrall as well as he coulde by interpretours: affyrming that there were in the Iland other Kinges besyde him: and of greater power then he, which were sore of∣fended that the Spaniardes hadde subdued the Ilandes: & in reuenge therof, came to the town where the Spaniardes lay, which they ouer∣came & burnt, & slew al the mē ther∣in: and that he also at the same con∣flicte, taking part with our mē, was sore woūded with an arrow on the arme, for the better tryall where∣of he bore hys arme in a towell, because it was not yet hole of that wounde. But shortelye after
+
+
+
+
+they had knowledge, that the King fayned this tale: so that he hardely escaped the handes of the Admiral, who was determyned wyth some kynd of punishment to haue exami∣ned him further. But he suspecting the matter, fled into y
+e
+ inner partes of the Iland, declaring therby, that he was the destruction of our men: whō, certayn of our companie, pur∣suinge, founde manye marueylous thinges:
+ and especiallye ryuers in which is founde muche golde, and a moun
+ayne, whose sande is sparke∣led with gold. In this place, the Ad¦miral bylded a citie, which he com∣passed about with a walle. And de∣parting from hence, he searched al∣most all the Iland: in y
+e
+ inner partes wherof he bylded a towre, & named it, S. Thomas towre, whiche he made to thintent that he might the more safely searche out the secretes of so plentifull a region, and especi∣ally
+
+
+
+
+the gold mines of the same: and thus leauinge a garrison there, he departed, takinge with him three foystes, wherwith he sayled to seke newe Ilandes,
+ and came first to the Ilande of 
+Cuba,
+ and from thence to 
+Iamiaca,
+ being greater then 
+Sicilia,
+ very fruytful and wel inhabited. Which, whē he had vewed, he departed frō thence, & sayled about the sea costes where he sawe innumerable other small Ilandes,
+ standinge so thicke, that the ship was in maner borne a lande: and was therfore enforsed to returne home, the same way which he came.
+
+
+
+
+
+
+¶How the Spaniardes a∣bused the submissiō & frende∣shippe of the inhabitantes of the Ilandes.
+
+
+IN this meane tyme, the Spani∣ardes which the admiral had left in the Iland of 
+Hispana,
+ had euyll en∣treated the inhabitauntes: so that
+
+
+
+
+for wante of vitayles & foode, they begonne to famyne: imputinge the fault hereof vnto the Christian mē,
+ which had digged vp al the rootes wherwith thei were accustomed to make theyr bread. And whereas they yet perceaued, that y
+e
+ Christien men entended to cōtinue there, thei sent an ambassadour to the admiral to desyre him to restrayne the out∣ragiousnes and crueltie of his men, at whose hādes they sustained such iniuries and violēce, as they scarce∣ly loked for at the handes of mortal enemies. Declaringe further, that vnder the pretēce of seking for gold they cōmitted innumerable wrōges and mischieuous actes,
+ spoyl
+ng in maner all the hole region: and that for the auoyding of such enormities and oppressions, they hadde rather paye tribute, then to be thus dayly vexed with incursiōs, & neuer to be at quiete. Upon this complaynte it
+
+
+
+
+was agreed, that they shoulde paye yearely tribute to the Christiā king & that they should applie thē selues to gather and encrease theyr rotes,
+ whiche were to them in the stede of flowre and wheat: and so consumed that with great labour they coulde scarcely fynde any in the wooddes. They payde therefore for their tri∣bute,
+ euery thre monethes, certayn pound weyghtes of gold: but suche as had no gold, payde spyces, & gos∣sampine cotton. In the meane time the Spaniardes, who should haue been occupied in digging for golde,
+ gaue thē selues to play, wantōnes & idlenes, cōtemning, & falling into ha¦tered w
+t
+ their gouernour, by which theyr licēciousnes, the people of the Ilād beyng prouoked, became more disobedient & wyld, degeneratinge frō al kind of honestie & faithfulnes: yea y
+•
+ spaniardes also became so neg¦ligēt in seking for gold, y
+t
+ sometyme
+
+
+
+
+the charges exceaded the gaynes. Neuerthelesse in the yere of Christ, 1501. they gathered within y
+e
+ space of two monethes twelue thousand poundes weyght of golde.
+ But the Admirall appoyntinge his brother 
+Bartholomeus Columbus,
+ to be gouernour of the Iland, he in the yeare .1495. determined to returne to Spayne, to certifye the kyng of al these mat∣ters. In which viage, he manfullye defended him self in battayl against the rebelles of certayne other I∣landes which had cōspyred agaynst the Spanyardes.
+
+
+
+
+
+
+¶How the Portugals sought new Ilādes in the East partes, and how they came to 
+Calicut.
+
+
+IN this meane tyme that y
+e
+ Spa∣nyardes soughte newe and vn∣knowen landes in the West partes, the Portugales attempted to doe the same in the Easte partes. And least one of them should be a lette or
+
+
+
+
+hinderaūce to the other, they deuy∣ded the world betwene them by the aucthoritie of the Bishop of Rome,
+ Alexāder the .vi. of that name. And that on this condicion,,
+ that frō the Ilandes called 
+Hesperides
+ (whiche are now called 
+Caput ueride
+) the one should sayle Westwarde, and the other to∣warde the South pole,
+ thus deuy∣ding the world betwene thē in two equal partes. So that whatsoeuer vnknowen landes shoulde be disco∣uered in the Easte partes, the same to be dewe to the Portugales: And all suche as shoulde be founde in the Weste partes, to appertayne to the Spanyardes. Whereby it came to passe, that the Spaniardes, euer by the South, sayled into the Weste, where they founde a large mayne lād, with Ilādes great & litle innu∣merable, hauing in them great plē∣tie of golde and pearles,
+ and other great riches. But the Portugales,
+
+
+
+
+by the Southe, and costes of the I∣landes called 
+Hesperides,
+ and 
+Equinoctial
+ lyne,
+ & 
+Tropicus Capricorni,
+ came y
+•
+ into East, by th
+ goul
+e called 
+Sinus Persicus,
+ euen vnto the costes of India, with in the riuer of 
+Ganges,
+ wheras is now the great market towne, & kingedō of 
+Calicut.
+ And frō thence to the Ilād of 
+Taprobana,
+ (now called 
+Sumetra, Zamara
+ or 
+Samotra
+) & so forth to 
+Aurea Chersonesus,
+ whereas is nowe the great cytie of 
+Malaccha,
+ beyng one of y
+e
+ most famous market townes of al y
+e
+ East partes. From 
+Malaccha,
+ they entered into a great goulfe, by which they came to the region of 
+inar
+m.
+ Not farre from 
+Malaccha,
+ are the Ilandes called 
+Molucca,
+ in which al kyndes of spyces growe and are brought to the cytie of 
+Malaccha.
+ But the Spany
+rdes hauing knowledge what greate cō∣moditie the Portugales had recey∣ued by the Ilandes of 
+Molucca,
+ attem∣ted
+
+
+
+
+to proue yf they also might find the same Ilandes in sayling so farre Westward,
+ that they mighte at the length by West and southwest come into the East, as by good reasō they presupposed the roundnesse of the earth would permitte,
+ if they were not otherwyse lette by the fyrme or mayne land lyinge in the waye and stoppinge theyr passage,
+ whereof as yet was no certeyntie knowē. And this dydde they to thintent that by this meanes they myghte more ea∣selye and wyth lesse charge bringe spyces from thence into Spayne.
+ Therefore, the maner of this viage was, that they shoulde sayle from the Weste, vnder the lowest hemis∣pherye or halfe cōpasse of the earth, & so to come into the East. A thinge surelye that myghte seeme verye harde to attempte, beecause it was
+
+
+
+
+vncertaine whether that, most pru∣dente and beneficiall nature, (who worketh al thinges with most high prouidence) had not so deuided and seperated the East from the West, partely by sea, and partely by land, that there might by this way haue been no passage into the East. For it was not yet knowen, whether that great region of 
+America,
+ (whiche they call the fyrme or mayne lande) dyd seperate the Weste sea frō the East:
+ But it was founde that that fyrme lande extēded from the West to the South: And that also towarde the North partes were foūd two other regiōs, whereof the one is called 
+Re∣gio Baccalearum,
+ & the other 
+Terra Florida
+:
+ which, if they were adherent to the sayde fyrme land, there could be no passage by the Weste seas into the East India, forasmuch as ther was not yet founde any strayghte of the sea, wherby any enteraunce mighte
+
+
+
+
+be opē into the East. In this meane while,
+ the kyng of Spayne beynge elected Emperoure, prepared a na
+uie of fyue shippes, ouer the whiche he appointed one 
+Magellanus
+ to be cap∣tayne,
+ commaundinge him that he should sayle towarde the coastes of the sayd fyrme land, dyrectinge his viage by the south partes thereof, vntyl he had eyther found the ende of the same, or elles some streyghte wherby he mighte passe to those o∣doriferous Ilandes of 
+Molucca,
+ so fa∣mously spoken of for the great abū∣daunce of swete sauours and spices founde therein. The shippes there∣fore, beyng well furnisshed with all thinges necessarie, 
+Magellanus
+ depar∣tinge from Ciuile in Spayne, the tenth day of August, in the yeare of Christ .1519. came fyrst to y
+e
+ Ilādes of 
+Canaria,
+ and from thence to the I∣landes called 
+Hesperides
+: from whiche dyrectinge hys course betwene the
+
+
+
+
+West and the East toward the sayd fyrme land, in few dayes with pros∣perous sayling, he discouered a cor∣ner or poynt of the sayd mayne lād, called 
+Promontorium S, Muriae,
+ where the people dwell, called 
+Canibales,
+ whiche are accustomed to eate mans fleshe. Frō hence he sayled on southwarde by the long tracte of this firme lād, which reacheth so farre into y
+e
+ south and extendeth so many degrees be∣yond y
+e
+ circle called 
+Tropicus Capricorni,
+ y
+t
+ the south pole (called pole Antar∣tike) is there eleuated fortie & syxe degrees.
+ And thus beyng brought into the East, they saw certayn In∣dians gatheringe shel fyshes by the sea bankes:
+ beyng men of very high stature, clothed w
+t
+ beastes skinnes. To whom, wheras certayne of the Spaniardes went a land, & shewed them belles & paynted papers, they begon to daunce & leape aboute the Spaniardes, with a rude and mur∣muring songe. At the length there
+
+
+
+
+came three other, as thoughe they were ambassadours, whiche by cer∣tayn signes desyred y
+e
+ Spaniardes to go with thē further into the lād, making a countenaunce as though thei wold intertayn thē wel, where vpō, y
+e
+ captayne 
+Magellanus
+ sent w
+t
+ thē vii. mē well instructed, to thintēt to 
+earche y
+e
+ regiō & maners of the peo¦ple. And thus they went w
+t
+ thē into y
+e
+ desertes,
+ wher they came to a low cotage couered with wylde beastes skinnes, hauing in it two māsiōs, in one of y
+t
+ which were womē & childrē & in the other only mē. They inter∣teined their gestes after a barbaros & beastly maner, which neuertheles semed to thē princelike:
+ for they kil∣led a beast, not much vnlike a wylde asse, whose flesshe (but halfe rosted) they set before our mē, without any other kind of meate or drinke. Here were our mē of necessitie cōstrained to lye al night vnder these skinnes,
+
+
+
+
+by reason of the great abundaunce of snowe and wynde.
+ And when it was day, our mē were very earnest with them, & would in maner haue enforsed them to goe with them to the shippe: which thing thei percea∣uing, couered them selu
+s from the head to the foote with certayn hor∣rible beastes skinnes, and paynted theyr faces with sundrye colours. Thus taking theyr bowes and ar∣rowes, & bringing with them other of theyr companie, of much greater stature and terrible aspect, thē they were, they shewed them selues to oure men in araye, as thoughe they were ready to fight. But the Spa∣nyardes, whiche thoughte that the matter would haue comen to hand strokes, commaunded a piece of or∣dinaunce to be shotte of. The which although it dyd no hurte, yet these hardy giauntes,
+ which a litle before semed to be as bold as though they
+
+
+
+
+durst haue made warre against Iu∣piter, were by the noyse there of put in suche feare, that they foorthwith beganne to entreate of peace. Our men entēded to haue brought some of these Gyauntes wyth them into Spayne for the straungenes of the thinge: but they all escaped oute of theyr handes. 
+Magell
+nus
+ therfore vn∣derstandinge that it were vnprofy∣table to tarie there any longer, and that also the sea was very rough, & the wether stormie and boysteous, and that furthermore the firme lād extēded further toward the south, it so muche, that the further they sayled that waye, they should fynde in so much y
+e
+ colder, he deferred hys proceding vnto the moneth of may,
+ at whiche time, y
+e
+ sharpenes of win∣ter, exceadeth with th
+m, when as with vs, sommer is begon. He foūd there greate plentie of wood. The sea also ministred vnto them great
+
+
+
+
+
+
+
+
+
+
+
+
+
+abundaūce of shelfishe, besyde other fyshes of sundrie kynd
+s. He found lykewyse many springes of freshe & holesome waters: and vsed hūtinge and taking of foules. Only bread & wyne, was lackinge in the shippe. The south pole was there eleuated fortie degrees.
+
+
+
+
+
+
+¶How 
+Magella
+us
+ by a strayght or narrow arme of the sea, say∣led by the west into the East to dyuers Ilandes: where also he was slayne.
+
+
+THe wynter now being past, the xxiiij. day of Auguste, 
+Magellanus
+ departed frō the place aforesayde, & styll folowed the tracte of the firme land toward the south, vntyl at the length, the .xxvi. day of Nouember, he found in that firme land,
+ certayn open places lyke vnto strayghtes or narrow seas. Into the which en∣tring with his nauie, he cōmaunded that certayn shippes should searche
+
+
+
+
+the goulfes on euerye syde, yf anye way or passage might be found into the East. At the length, they foūd a certayn depe straight, by the which they were perswaded y
+t
+ there was enteraunce into some other mayne sea, in so much that 
+Magellanus
+ attemp∣ted to sear
+he y
+e
+ same. This straight was foūd to be somtime of y
+e
+ bredth of thre Italian myles, sometyme of two, & sometime of tenne, & reached somwhat toward the West. The al∣titude or eleuacion of the south pole in this place,
+ was foūde to be .lii. de∣grees. They coulde see no people stering in the costes of this entraūce Therfore 
+Magellanus
+ seing thys lande to be rough & saluage, & vnpleasaūt to abide in, by reasō of extreme cold, he thought it not worthye the tra∣uayle, to spend any time in serching the same. Therfore sailing forward in his viage thus attēpted by y
+e
+ said strayghte, (which is now called the
+
+
+
+
+strayght of 
+Magellanus
+) he was therby brought into another mayn sea,
+ ve∣rye great and large. The length of this strayght or narrow sea, is este∣med to be a hūdreth spanishe miles. The land which he had on his right hande, he doubted not to be mayne lande:
+ and that on the left hand, he supposed to bee Ilandes. 
+Magellanus
+ sawe lykewyse the fyrme land to be extended directly toward y
+e
+ North: wherefore letting passe that greate lande, he sayled by that greate and large sea betwene the West and the North: & that for this intente, that at the length he might by the West come into the East, and agayne vn∣der the burning lyne called 
+Zona Tor∣rida,
+ beynge well assured that the I∣landes of 
+Molucca
+ (which he soughte) were in the Easte,
+ and not farre frō the 
+Equinoctial
+ lyne. When they hadde thus sayled for
+ie dayes, and came now agayne vnder the line or circle
+
+
+
+
+called 
+Tropicus Capricorni,
+ they founde two lyttle Ilandes inhabyted, but very barren, and therfore called thē infortunate Ilandes. Departinge frō thence, they sailed on for a great space, and found a certayne Ilande which y
+e
+ inhabitantes called 
+Inuagana,
+ where the eleuacion of the Northe pole, (called pole Artike) was .xij. degrees: And the length from the Ilandes called 
+Gades,
+ by the Weste, was iudged to bee c.lviii. degrees. Thus proceding, they saw dyuers other Ilandes, and that so manye, that they supposed they had been brought into a great sea lyke vnto that called 
+Archipelagus,
+ where with sygnes & poyntinges (as the dūme are wōt to speake with the dumme) they asked of these Indians, the names of the Ilandes, wherby they learned that thei were in 
+Acatan,
+ and not farre frō the Ilande called 
+Selani,
+ wel inhabited and replenished with
+
+
+
+
+abundaunce of al thinges necessarie for the cōmodities of this life. Say∣ling therfore toward the Ilande of 
+Selani,
+ thei were with a cōtrary wind drieuen on the Iland of 
+Massana,
+ from whense they came to the greate I∣land a
+ 
+Subuth,
+ where y
+e
+ Spanyardes were wel enterteyned of the Kinge of the Iland, who brought thē into a certayn cotage, and set before thē such delicates as he hadde. Theyr bread,
+ was of the trunke of a certen tree, cut in pieces, & fried with oyle. Theyr drinke was of the humoure 
+r ioyse which droppeth out of the braunches of the date trees,
+ when they are cutte. Theyr meate was suche as they toke by foulinge, with such fruites as the contrei brought forth. This Ilande was very riche of gold and ginger.
+ In these partes 
+Magellanus
+ made warre agaynste the inhabitauntes of certayne other I∣landes: In which conflicte, the spa∣niardes
+
+
+
+
+hauing the ouerthrow 
+Ma∣gellanus
+ was slayne with seuen of hys men.
+ When the Spaniardes hadde thus lost theyr captayne, they elec∣ted a new gouernoure of theyr na∣uie, appointing one 
+Iohannes Serranus
+ to that office.
+ 
+Magallanus
+ had also a bond man borne in the Ilandes of 
+Molucca,
+ whom he had bought in the citie of 
+Malaccha.
+ This bondman vnderstode the Spanishe tonge: and where as the captayn 
+Serranus
+ could do nothing without him, who now lay sicke by reason of the woūdes which he had receaued in the said conflicte, so that he was fayne to speake sharpely to him and threaten to beate him or he could geat him out of the shyppe, he here vpon conceaued so great hate∣red and indignacion agaynste the Spanyardes,
+ that he wente imme∣diatlye to the Kinge of 
+Subuth,
+ decla∣ring the couetousnes of the Spani∣ardes to be vnsaciable, & y
+t
+ thei wold
+
+
+
+
+shortely vse crueltie against him al∣so, and bring him into s
+biectiō and seruitude. The barbarous king be∣leued his wordes, & therwith pry∣uelye with the ayde of the other I∣landes, conspired against the Spa∣nyardes, and toke or slew as many of them as came to a banket where∣unto they were bidden vnder pre∣tence of frendship.
+ Amōg the which also, Serranus the Captaine was taken priesoner. But the resydue of the Spanyardes which remayned in the shippes, beyng taught & war∣ned by the euyll chaunce which be∣fell to theyr cōpanions, and fearing greater deceytes and conspiracies, lyft vp their ankers and gaue wind to their sayles. In the meane tyme was Serranus brought bound to the sea bankes, desiring his compa∣nions to delyuer or redeme him frō that horrible cap
+iuitie of hys ene∣mies. But the Spaniardes, albeit
+
+
+
+
+they toke it for a dishonour, to leaue or forsake theyr Captayne, yet fea∣ring fraude or further dissimulaciō, they sayled asyde from that Iland, and came to the Ilandes of 
+Gibeth
+ & 
+Porne.
+ In this mayne sea, were two great Ilandes, wherof the one was called 
+Siloli,
+ & the other 
+Porne
+ the lesse, where our mē were wel entreated. The inhabitantes of 
+Porne
+ honoure the sunne and the mone: they keepe also a certayn ciuile iustice & frēd
+y loue one to another. And aboue all thinges, desyre peace and ydlenes.
+ Therfore their chiefe studie is, in no case to moleste their neygboures or straungers, or to be iniurious to a∣nye man. They haue lyttle houses, made of earth and wood, and coue∣red partely with rubbishe, & partly with y
+e
+ bowes of date trees. They take as manye wyues as they are able to kepe. Theyr comon meat, is such as they take by foulinge or fis∣shinge.
+
+
+
+
+They make bread of ryce:
+ 
+ drinke, of the liquour whiche drop∣peth frō the braūches of date trees, cutte. Some vse marchaundyse in the Ilandes nere about them: some applie thē selues to huntinge & fys∣shing, and some to husbādry. Theyr apparell, is of Gossampine cotton. They haue greate abundaunce of camphyre,
+ ginger and cinomome.
+
+
+
+
+
+
+¶How the Spaniardes came to the Ilandes of 
+Molucca,
+ and of the people with great hanging eares.
+
+
+THe Spaniardes takinge theyr leaue of the king of 
+Porne,
+ depar∣ted: dyrecting theyr viage towarde the Ilandes of 
+Molucca,
+ whiche were shewed vnto thē by the same King. They came fyrst to the costes of the Ilande called 
+Solo,
+ where are found Pearles as bygge as turtle doues egges:
+ but they are gathered in the depth of the sea. The inhabitantes
+
+
+
+
+of this Ilande, at suche tyme as the Spanyardes came thether, toke a shelfysshe of suche houdge bignes,
+ y
+t
+ the fleshe therof wayed .xlvij. poūd weyght. Wherby it is apparaunt y
+e
+ great pearles should be found there forasmuch as pearles are the byrth of certayn shelfishes. Frō hence thei came to the Iland of 
+Gilona,
+ in which are certayn people hauing hanging eares of such length,
+ that they hang downe to theyr shoulders. Wherat as the Spaniardes marueyled, the men of the Iland tolde thē, that not farre frō thence was another Ilād in which were a kind of mē, not one∣ly with hāging eares, but also with eares of suche breadth and length, that with one of them they myghte couer theyr hole head. But the Spanyardes,
+ who soughte for golde and spyces, and not for mon∣sters, sayled dyrectly to the Ilādes of 
+Molucca,
+ where they arryued,
+
+
+
+
+the eyghte moneth after the death of their gouernour 
+Magellanus.
+ These Ilandes are fyue in noumbre, the names wherof are these. 
+Tharant, Mu∣thil, Thedori, Mare,
+ and 
+Mathien.
+ Some of them are sytuate on thys syde the 
+Equinoctiall
+ lyne, some vnder it, & some beyonde it. Some beare cloues, some Nutmegges, and some Cino∣mome. They are not farre distaunt the one from the other. They are but little and narowe. The inhabi∣tantes are very poore, because ther is no encrease of anye other thinge sauing onely of spyces. They lyue with bread and fyshe, and sometime popingiayes. They lurke in lowe cotages: And in fyne, all thinges w
+t
+ them are despicable and vile, beside peace, idlenes, and spices. In 
+Thedori
+ is great plentie of cloues, as also in 
+Tarante
+ and 
+Mathien.
+ The trees which bringe forth cloues,
+ growe not, but on rockes and broken cliffes, where
+
+
+
+
+sometime they grow so thicke, that they appeare lyke a lyttle wood or groue. This tree, bothe in leaues, biggenes, and heyght, is much lyke vnto the baye tree. It beareth the fruite in y
+e
+ toppes of euery braūche. The budde springeth out fyrst, and thē in it the floure, not much vnlike the floure of an orange tree. The cloue is fyrst redde: but after beyng scorched by the heate of the sonne, it is made blacke. The inhabitauntes deuide the groues of these trees be∣twene them, as we doe the vynes. The Iland of 
+Muthil,
+ bringeth forth cinomome. This tree,
+ is ful of small braunches & baren, beste lyking in a drye soyle, and is very like vnto the tree, that beareth the pomgranate. The barke of this tree, by reason of the great heate of the sonne, rysing from the braunches, or bodie of the same, is gathered and dried at the sonne, and is so made perfecte cino∣nomome.
+
+
+
+
+Neare vnto this, is ano∣ther Iland, called 
+Beda,
+ greater and larger, then anye of the Ilandes of 
+Molucca.
+ In this Iland groweth the Nutmegge,
+ whose tree is bigge & highe, and much lyke vnto the wal∣nutte tree, for as is the walnutte, so is this fruite defended with a dou∣ble couering, as fyrste with a grene huske, vnder the whiche is a thinne skinne or rimme like a nette, encom∣passing the shell of the nutte: which skinne we call the flowre of the nut∣megge, but of the Spanyardes, it is called mace,
+ an excellent and hole some spyce. The other couering, is the shell of the nutte, within the which is the fruite it selfe, which we call y
+e
+ nutmegge.
+ Ginger groweth here and there in all the Ilandes of this 
+Archipelagus,
+ or mayne sea. Of the whiche, some is sowen, and some groweth of it selfe. But that which is sowen, is the better. The herbe
+
+
+
+
+of this, is lyke vnto that which bea∣reth saffrane, and hath hys roote, (which is Ginger,) much lyke vnto the same. In this meane time came two other shyppes out of Spayne: whereof the one sayled directely to the poynte of 
+Aphrica,
+ called 
+Promontoriū bone sp
+i
+: And the other by the greate mayne South sea, to the coastes of that continent or fyrme land wher∣of we haue spoken here beefore. It shall suffyse that we haue hetherto declared of the nauigacions whiche the Spanyardes attempted by the Weste to sayle into the Easte, by the straygh
+e of 
+Magellanus,
+ where the passage by Sea is open into the Easte, by the continente or fyrme lande of the newe worlde, called 
+America.
+ Nowe therefore lette vs retourne to the other Nauigaci∣ons of 
+Columbus,
+ otherwyse called the Admyrall, who longe beefore
+
+
+
+
+was the fyrst fynder of the newe I∣landes, and of the sayde mayne or fyrme land, and yet founde not that strayght or narow sea, by the which 
+Magellanus
+ sayled from the West into the East.
+
+
+
+
+
+
+¶The thyrde nauigacion of Christophorus Columbus.
+
+
+IN the yeare of Christ .1498. 
+Co∣lumbus
+ the Admiral departed from Spayne with eyght foistes, and ar∣ryued fyrst at the Ilandes of 
+Medera,
+ where he deuyded hys nauie into two partes. For .v. of these shippes he directed to the Iland of 
+Hispana
+:
+ & with the residue, he sailed towarde the south, entendinge to passe ouer the 
+AEquinoctial
+ line, and from thense to turne towarde the West, to searche suche landes as were hetherto vn∣knowen to the Christian men. Co∣ming therfore to 
+Caput ueride,
+ he sailed to the burning line,
+ called 
+Torrida zona
+ where he found so great heate, that
+
+
+
+
+he was in daunger of death: but re∣turninge his shyppes towarde the West, he found a more holsome ayre and (as God woulde) came at the length to a lande well inhabyted, where there came agaynst him and his, a bote with .xxiiij. young men, armed with bowes, arrowes, and shieldes, couering only theyr priuie membres with a clothe of Gossam∣pine cotton, hauing also very longe heare. The admirall, (as well as he could by signes) allured them to cō∣municacion.
+ But they trusted not our men, fearing some deceate. The Admirall perceauing that he could nought preuayle, by signes and to∣kens, he determined with Musical instrumentes to appeale their wild∣nesse. As the minstrelles therefore blewe theyr shaulmes, the barba∣rous people drew neare, suspecting that noyse to bee a token of warre, whereupon they made ready theyr
+
+
+
+
+bowes and arrowes. But the Spa¦niardes drawinge nearer vnto thē, caste certayne apparell into theyr bote, willing by this token of frend∣shippe to concile them, although all were in vayne. For they fled all a∣waye. Wherefore the Admyrall de∣parting frō thence, came to a region called 
+Parias,
+ wel inhabited & ful of ci∣uile people, declaring muche huma∣nitie toward straūgers. They she∣wed our men Pearles and Gold,
+ & such other riches, desyring them to come a land, where they gētelly en∣treated them. When our mē asked them where they had suche plentie of golde: they (with home poynting was in the 
+tede of speach) declared by signes and tokens, that thei had it in certayne mountaines, and that thei could not without great daun∣ger resort thether, by reason of cer∣taine fearse beastes in those partes,
+ and also because of the cruell people
+
+
+
+
+called 
+Canibales,
+ whiche inhabite those mountaynes. But the Admiral, be∣cause his wheate fayled, was enfor∣sed to departe thence. Dyrectinge therfore his viage toward y
+e
+ North easte, he came to the Iland of 
+Hispana,
+ where he found all thinges confoū∣ded and out of ordre. For the Spa∣nyardes which were lefte in the I∣landes, refused to obeye the Admi∣rall and his brother,
+ mouinge gre∣uous cōplayntes agaynste them be∣fore the King of Spaine, and at the length sente them thether bound.
+
+
+
+
+
+
+¶Howe 
+Petrus Alonsus
+ soughte newe Ilandes.
+
+
+AFter that the Admyrall hadde incurred the indignacion of the Kynge, manye of hys compani∣ons, suche as hadde been broughte vppe with him, and were experte Sea menne, decreede to searche other partes of the worlde yet vn∣vnknowen.
+
+
+
+
+Among which number was 
+Petrus Alonsus,
+ who with a shippe wel furnished, sayled to 
+Parias,
+ & from thence to 
+Curtana,
+ where he begon to exercyse marchaundise with the in∣habitantes, receauinge Pearles for belles and nedles.
+ Entring also in∣to the land, he was honourably en∣tertayned. In their woodes, he saw innumerable Peacockes,
+ nothinge vnlyke vnto oures, sauing that the males differ litle from the females. In this region are great plentie of Phesantes.
+ 
+Alonsus
+ departinge from hense, sailed to the regiō of 
+Canchietes,
+ beyng sixe dayes sayling frō 
+Curtana,
+ toward the West. In this region is great abundaunce of golde, Popin∣giayes, Gossampine cotton, & moste temperate ayre. From hence he say∣led into another fruiteful regiō, but inhabited with wilde menne, which could by no gentilnes be allured to frendshippe. Departinge therefore
+
+
+
+
+from thence, he came to the region of 
+Ciniana,
+ whereas pearles are found in great plentie: but before he came there, he chaunced to come amonge the 
+Canibales
+: agaynst whom, dischar∣geing a piece of ordinaūce, he droue thē easely to flight. But 
+Alonsus
+ thus laden with pearles,
+ returned home into Spayne.
+
+
+
+
+
+
+¶Howe 
+Pinzonus,
+ companion to the Admirall, sought newe I∣landes.
+
+
+VIncētius,
+ otherwise called 
+Pinzonus
+ in the yeare of Christe .1499. prepared foure brigantines, & sailed fyrst to the Ilandes of 
+Canaria,
+ & from thence to 
+Caput ueride.
+ Frō whence di∣recting his viage toward the south farre beyonde the 
+Equinoctial
+ lyne, he found men in a certayne Iland, but such as he could by no meanes con∣cyle vnto him. Therefore leauinge them, he came to another lande, in whiche were innumerable naked
+
+
+
+
+
+people, dissimuling that thei desired to ioyne frendship with the Spani∣ardes. And whereas one of our mē caste a bell amonge them oute of the 
+hippe,
+ they againe cast to the Spa∣nyardes a masse or piece of golde: which, one of oure companye some∣what to bolde, attemptinge to take vp, they sodeynlye toke him and ca∣ried him awaye with merueylous swiftenes: but our mē leauing their shippes, made hast to help theyr fel∣lowe, in so muche that the matter came to handstrokes. This conflict was so sharpe,
+ that our men hadde muche a doe to escape with theyr lyues, by reason of the fearsenes of the barbarians. Departing there∣fore frō thence, they sayled toward the Northeaste, and came to the re∣gion of 
+Payra,
+ & to the Ilandes neare aboute the same in the whiche are woodes of sanders wherewith the marchaūtes lade theyr shippes,
+ and
+
+
+
+
+carie it into other conntreys. In this Region also growe the trees, whiche beare 
+Cassia fistula
+ of the beste kynd.
+ There is also founde a foure foted beast of mōstrous shape,
+ whose former parte is lyke vnto a wolfe, sauing that the feete are lyke vnto the fete of a man, with eares like an owle: Hauinge also beneath his co∣mon belye, an other belye lyke vnto a purse or bagge, in which he kepeth his yonge whelpes so longe, vntyll they be able safely to wāder abrode alone, and to geat theyr meate with oute the he
+pe of theyr parentes.
+
+
+The whelpes while they are verye yong, neuer come out of this bagge but when they sucke. This porten∣tous beast with her three whelpes, was broughte to Ciu
+le in Spaine, and from thence to 
+Granata.
+
+
+
+
+
+
+
+
+¶Of the foure nauigacions of 
+Americus uesputius
+ to the newe Ilandes.
+
+
+AMericus uesputius,
+ beyng sent with 
+Christophorus Columbus,
+ in the yeare of Christ .M.cccc.xcij. at the com∣maundement of Ferdinando King of Castile,
+ to seke vnknowē landes, and wel instructed in sayling on the sea, after a fewe yeares, set forward fowre viages of hys owne proper charges. That is to witte, two vn∣der the sayd King Ferdinando, and two other vnder Emanuel, king of Portugale, of the which he himselfe wryteth after this maner.
+
+
+
+
+
+
+¶The fyrste viage of Americus uesputius.
+
+
+IN the yere of christ, M.cccc.xcvij the .xx. daye of Maye, we came with foure shippes, to the fortunate Ilandes, called 
+Insulae fortunatae,
+ where the North pole hath his eleuacion. xxvij. degrees, & .xl. minutes. And
+
+
+
+
+frō thence within the space of .xxvij dayes, we came to a lād more West∣warde then the fortunate Ilandes, where the North pole was eleuate xvi. degrees: where also we founde a nacion of naked people,
+ of innume∣rable multitude, whiche as sone as they sawe vs, fled to the next moū∣tayne. Frō hence within two dayes sayling, we came to a safe port wher we founde manye men, which with much adoe, we could scarcely allure to communicaciō, although we pro∣fered them belles, lokinge glasses, cristallyne cuppes, and suche other iewelles. But at the length percea∣uing our good wyll and liberalitie towarde them,
+ they came to vs by heapes, and ioyned frendshyp with vs without all feare. They goe all as naked as they came forth of their mothers wombe. They suffre no heare on their bodie sauing only on theyr head, in so much that they pul
+
+
+
+
+of y
+e
+ heares of their browes. They are all so perfectelye ex
+rcysed in swimminge,
+ that they can continue therein, for the space of two leages without any thinge to beare thē vp and especiallye the women. Theyr weapons are bowes and arrowes. They arme theyr arrowes with y
+e
+ teeth of beastes and fyshes, bycause they lack Irō & other metals. They kepe warre against their borderers whiche are of straunge language. They fyght not for the enlargeing of theyr dominion, forasmuche as they haue no Magistrates: nor yet for thincrease of riches, because thei are contente with their owne com∣modities: but onely to reuenge the death of theyr predicessours. At theyr meate, they vse rude and bar∣berous fashions, lying on the groūd without any table clothe,
+ or couer∣let. They slepe in certayne greate nettes made of Gossampine cotton
+
+
+
+
+and hanged a lofte in the ayre bee∣twene trees. Theyr bodies are ve∣rye smothe and clene by reason of theyr often washinge. They are in other thinges fylthy and withoute shame.
+ Thei vse no lawful coniunc∣cion of mariage, but euery one hath as many women as him listeth, and leaueth them agayn at his pleasure The women are very fruiteful, and refuse no laboure al the whyle they are with childe.
+ They trauayle in maner withoute payne, so that the nexte day they are cherefull and a∣ble to walke. Neyther haue they theyr bellies wrimpeled, or loose, & hanginge pappes, by reason of bea∣ringe manye chyldren. Theyr houses and cabbens, are all in com∣mon.
+ Theyr houses are fas∣shyoned lyke vnto belles: and made of greate trees fastened to∣gether, couered wyth the leaues
+
+
+
+
+of date trees, and made very strōge against wind and tempestes.
+ They are also in some places so great, that in one of them sixe hūdreth persons may lodge. Thei vse euery seuenth or eyght yeare, to remoue & chaūge theyr dwelling places, because that by theyr longe continuaunce in one place, the ayre shoulde bee infected. They vse no kynd of marchaundise or bying and selling, beyng content onely with that which nature hath lefte them.
+ As for Golde, Pearles, precious stones, iewelles, and suche other thinges, which we in Europa esteme as pleasures and delicates, they sette noughte by. They haue no kynde of corne.
+ Theyr common fedinge, is a certayne roote whiche they drye and beate & make floure or meale therof. They eate no kynd of fleshe except mans fleshe:
+ for they eate all suche as they ky
+l in theyr warres, or oherwise take by chaūce
+
+
+
+
+When he had thus vewed the coun∣treye, and cōsydered the maners of the people, we determyned to sayle further, downe by the landes syde, and came after a few daies, to a cer∣tayne hauen, where we sawe about twentie greate houses, raysed vppe muche after the fasshion of belles
+ There came vnto vs a great multi∣tude of mē vnder pretense of frend∣shyp. Some swimminge, and some in botes. Who, as sone as thei drew neare vnto vs,
+ sodeynly bent theyr bowes against vs, where we defen∣ded oure selues manfully. In this bickeringe, we slewe of them about twentie, beesyde manye that were wounded: But of our mē, were on∣lye fyue hurte, whiche were all per∣fectelye healed. Thus departinge from this hauen, we sayled on
+ and came to another nacion, in cōuersa∣
+ion and tongue vtterlye differing from the fyrst. For comming oute of
+
+
+
+
+our shippe,
+ we were very frēdly en∣treated of thē, where we continued for the space of nyne dayes.
+ This region is very fayre, and fruitefull, hauinge manye pleasaunt woodes, which continue grene all the yeare longe. They haue fruites innume∣rable, vtterlye vnlyke vnto oures.
+ The Region is situate dyrectelye vnder the lyne, called 
+Tropicus Cancri.
+ The inhabitantes them selues, call it 
+Parias.
+ Saylinge farre beyond this Region, and ouerpassinge manye countreyes and nacions, fyndinge Gold euery where,
+ (but in no great quantitie) we came to another na∣cion full of gentlenesse and humani∣tie, where we rested .xxxvij. dayes. These people made greuous com∣playnte vnto vs, that there was,
+ not farre frō them, a certayne fearse and cruell nacion, whiche vexed thē sore, and made incursion into theyr
+
+
+
+
+
+ountreye at a certayne tyme of the yeare, kyllinge them and violentlye carying them awaye, to thintent to eate th
+m, in so muche that they were not able to defend them selues agaynste theyr fearsenesse. Whiche thinge when they hadde so lamen∣tablye declared vnto vs, and we hadde made them promyse that we woulde reuenge theyr so manye iniuries, they ioyned vnto oure company seuen of theyr men. Thus we wente forward: and after seuen dayes, came to an Ilande, called 
+ty
+ where these fearse people dwelte.
+ Who, as sone as they hadde espyed vs, came armed agaynste vs. We ioyned with them in battaile, which contynued for the space of twoo houres. At the length we droue them to flyghte, and slewe and wounded a greate numbre of them,
+
+
+
+
+and toke .xxv captiues. But of our men was onely one slayne, and .xxi. wounded, & shortely after restored to health. We gaue to those seuē mē which went with vs, thre menne of oure prisonners and foure women, whom with greate reioysinge they caried with them into theyr coun∣treye: and we returninge home to∣ward Spaine, with many captiues came fyrste to a porte of Spayne called 
+Calicium,
+ where we solde oure priesoners, and were ioyefullye re∣ceaued: In the yeare of Christ .M. cccc.xcix. the .xv. daye of Octobre.
+
+
+
+
+
+
+¶The seconde viage of 
+Vesputius.
+
+
+IN the moneth of May folowing 
+Vesputius
+ attempted another viage and came by the Ilādes of Canaria, euen vnto the burninge lyne, called 
+Torrida zona,
+ and founde a lande bee∣yonde the 
+Equinoctial
+ line,
+ toward the
+
+
+
+
+South, where the South pole is eleuate fyue degrees. And wheras he coulde fynde no apte enteraunce into the land, and sayled vp & down alonge by the same, he espyed a bote in which was aboute twentie men: who, as sone as they saw the Spa∣nyardes, lepte into the Sea and e∣scaped all, excepte two, which they toke. In theyr bote which they for∣soke, were founde foure young men which they had by force taken oute of another countrey, hauinge theyr priuie memb
+rs newelye cutte of. These, 
+Vesputius
+ toke into his shippes and learned by theyr signes and to∣kens, that they hadde been taken of the 
+Canibales,
+ and should shortly haue been eaten. But departinge from these costes, & saylinge on forward, they came to a commodious hauen, where they founde muche people, with whom they ioyned frendshyp, and fell to chaungeinge of ware, re∣ceauinge
+
+
+
+
+for one bell,
+ fyue hundreth Pearles. In this lande they drinke a certayne kynde of wyne, made of the iuyse of fruites and sedes, being lyke whyte and redde sydar.
+ De∣partinge from hence, and saylinge yet further, they founde a certayne Ilande in which was a beastly kind of people, and simple, yet very gen∣tle. In this Ilande is no freshe wa∣ter:
+ but they gather the dew which in the night season falleth vpon cer∣tayne leaues muche lyke vnto the eare of an Asse. They lyue for the moste parte, by sea fishe. They haue no cotages of houses: but haue cer∣tayne broade leaues,
+ wherewith they defende them selues from the heate of the Sunne, but not from showres: but it is verye lykely, that it rayneth but lyttle in that Iland. 
+Vesputi
+s
+ wyth his companye depar∣tinge from hence, sayled vnto ano∣ther Ilande: into the whiche when
+
+
+
+
+he hadde entered, he founde cer∣tayne cotages, and in them 
+wo old women, and three young wenches, whiche were of so greate stature, that they marueyled thereat.
+ And whereas oure menne stryued with them to bringe them to the shyppe, to thintente to haue caryed them into Spayne, they espyed cominge toward them syxe and thyrtie men, yet of muche greater stature then were the women, bearing with thē bowes, arrowes, and great stakes lyke vnto clubbes: at the syghte of whome, oure menne beinge afrayd, made haste to theyr shyppes. But these Gyauntes folowinge them euen to the Sea syde, bended theyr arrowes towardes the Spany∣ardes, vntyll they discharged two pieces of ordinaunces, wyth the horryble sounde whereof, they were immediatly drieuen to flight. Oure menne therefore departinge
+
+
+
+
+from thence, called that Ilande, the Ilande of Giauntes. And came to another nacion, which frendlye en∣treated them, and offered them ma∣ny Pearles:
+ in so muche that they boughte .xix. markes weyghte of pearles,
+ for a smal price. They gaue vs also certayne shelfysshes, of the whiche some conteyned in them a hundreth and thyrtie Pearles, and some fewer. Departinge frō thence they came to the Ilande of 
+An
+iglia,
+ which 
+Columbus
+ had discouered a few yeares before. Leauinge this, they sayled directely to 
+Calicium,
+ a porte of Spayne, where they were honour∣ablye r
+ceaued.
+
+
+
+
+
+
+¶ The thyrde viage of Vesputius.
+
+
+VEsputius
+ beyng called frō Castile to serue Emanuel the King of Portugale, in the yeare of Christe, M.ccccc.ij. the tenth daye of May, departed from the hauē of lisburne,
+
+
+
+
+and sayled downe by the coastes of the sea Atlantike,
+ vntil he came vn∣der the 
+Equi
+ctial
+ lyne. And the .xvij. daye of Auguste, they arryued at a cer
+ayne lande where they found a kind of beastly people. This land is situate toward the South, fyue de∣grees beyonde the 
+Equinoctial
+ lyne. A greate multitude of the inhabitātes wer gathered together, and as wel as they coulde by signes and poyn∣tinges, desired oure men to come a∣lande & to see theyr coūtrey. There were two in the shippe,
+ whiche toke vpon thē to vewe the land, & learne what spyces or other commodities might be had therein. They were appoynted to returne within the space of fiue daies at the vttermost. But when eyght dayes were now paste, they whiche remayned in the shippes, heard yet nothing of theyr returne: wheras in the meane time great multitudes of other people of
+
+
+
+
+the same lande resorted to the Sea syde, but could by no meanes be al∣lured to communicacion. Yet at the length they broughte certayne women, which shewed them selues familier towarde the Spaniardes: Wherupon they sent forth a young man, beyng very strong and quicke, at whom as the women wondered, and stode ga
+inge on him and feling his apparell:
+ there came sodeynly a woman downe from a mountayne, bringing with her secretely a great stake, with which she gaue him such a stroke behynde, that he fell dead on the earth. The other womenne foorthwith toke him by the legges, and drewe him to the mountayne, whyle in the meane tyme the men of the countreye came foorth with bowes and arrowes, & shot at oure men. But the Spaniardes dischar∣geing foure pieces of ordinaunce a∣gaynst them, droue them to flighte. The women also which had slayne
+
+
+
+
+the yong man, cut him in pieces euē in the sight of the Spaniardes, she∣winge them the pieces, and rosting them at a greate fyre. The mē also made certayn tokens, wherby they declared that not past .viij. daies be¦fore, they had in lyke maner serued other christiā mē. Wherfore y
+e
+ Spa∣niardes hauinge thus sustayned so greuous iniuries vnreuenged, de∣parted w
+t
+ euyl wil: sayling therfore further toward y
+e
+ south, they foūd a naciō of great multitude,
+ & of much gēteler cōdicions, with whō thei re∣mained .viij. daies, bartering & chā∣geing ware w
+t
+ thē. Sayling on yet farther, they wēt beyond y
+e
+ line cal∣led 
+Tropicus Capricorni,
+ where the south pole is eleuate .32. degrees: & wher∣as in those parts thei foūd no great riches, they sailed yet further south ward vntill y
+•
+ pole was eleuate .lij. degrees:
+ where thei came into such a tempeste, that they were enforsed to gather vppe theyr sayles, and
+
+
+
+
+to rowe only with the maste, direc∣ting theyr viage toward the costes of Ethiopia, from whence they re∣turned againe to Lisburne in Por∣tugale.
+
+
+
+
+
+
+¶ The fourth viage of Vesputius.
+
+
+THis nauigaciō was attempted in the yeare of Christ. M.ccccc. iij. but was not brought to the ende hoped for, by reason of a misfortune which chaunced in the goulfe of the sea Atlantike. 
+Vesputius
+ entended in this viage to sayle to the Ilande of 
+Melcha,
+ beyng in the East, in which is sayde to be great ryches, & the sta∣cion of restinge place of all shippes comming frō the goulfe 
+Gangeticus,
+ & from the Indian sea. This 
+Melcha,
+ is situate more toward the West, and 
+Calicut
+ more enclininge towarde the south.
+ 
+Vesputius
+ came fyrst to y
+•
+ grene Ilādes, called 
+Insulae uerides
+:
+ and sayled from them to 
+Serraliona,
+ beynge in the
+
+
+
+
+Southe partes of Ethiopia: from whence saylinge on yet further, he sawe in the middest of the sea an I∣land, high and merueylous: where also the M. Pilate of this nauie,
+ lost his shippe by running vpon a rocke: but all the mariners escaped. This shippe was of thre hundreth tunne, and had in it al the power of the na∣uie. When 
+Vesputius
+ had entered into the Iland, he found it rude and vn∣habited: yet was it full of byrdes: but had no beastes except Lisertes with forked tayles,
+ and S
+rpētes. Thus makinge prouision for neces∣saries, he was enforced to returne to portugale, failing of his purpose.
+
+
+
+
+
+
+¶How the king of Portugale subdued certayn places in In∣dia: and of the ryche Cytie of Malacha.
+
+
+FOrasmuche as therefore in the yeares folowinge, there we
+e more often nauigacions made from
+
+
+
+
+the West by the south into the East, and the Portugales had now foūde a safe passage by y
+e
+ sea,
+ they thought it expedient for theyr better safetie, to make certaine fortificacions and places of refuge in the Easte. The which theyr intent the better to ac∣complishe, King Emanuel appoyn∣ted one 
+Alphonsus
+ an exper
+e man on the sea,
+ to be captayne of this viage. Who, desyring to reuenge the losses and iniuries which the Portugales had before sustained, sayled directly to 
+Aurea Chersonesus,
+ now called 
+Malacha,
+ a merueylous great and riche citie,
+ whose king is an infydel of the secte of the Moores: for euen thus farre was the secte of Mahumet exten∣ded. 
+Alphonsus
+ therfore at his coming thether besieged the cytie, & made warre agaynst the Saracens whi∣che helde the same.
+ In this conflict a greate noumber of theyr enemies beynge slayne,
+ the Portugales 
+n∣tred
+
+
+
+
+into the citie by forse, and kept the 
+am
+, permitting free libertie to theyr souldiers to spoyle, kyll,
+ and burne. The king himselfe, fyghting vpon an Elephante, and beyng sore wounded, fledde with the resydue of his companye. A greate numbre of the Moores were slaine with the losse of a fewe Portugales: manye were taken, and great spoyle caried awaye, in the whiche were seuen Elephantes, and all kyndes of ordi∣naunces perteyning to the warres, made of copper, to the noumbre of two thousande pieces.
+ The cytye beynge thus taken and sacked, and the enemyes drieuen to flyghte, 
+Alphonsus
+ the Capitayne the better to prouyde for the sauegarde of the Christians, buylded a stronge forte at the mouth or entraunce of the ri∣uer which runneth through y
+e
+ citie. At this time, that is to witte, in the
+
+
+
+
+yeare of Christ. M.ccccc.xij. there were in 
+Malacha
+ many straūgers and marchauntes of dyuerse nacions,
+ whereby the cytie was replenished with great ryches and abundaunce of spyces.
+ They of theyr owne mo∣cion, desyred to make a leage with 
+Alphonsus,
+ and were of him gently re∣ceaued: So that for theyr better safetie, he permitted them to 
+well in the houses neare about the forte. And by this meanes, this markette towne was re
+dified and broughte to muche better state then euer it was before. These thīges thus hap¦pely atchiued, & al thinges in 
+Malacha
+ set in good order, 
+Alphonsus
+ leauing in the forte a garrison of .vi. hundreth valiante souldiours, returned into India,
+ where he besieged the chiefe castell of the cytie of 
+Goa,
+ which (he) a fewe yeares beefore, hadde with no smal daunger of our men, and great slaughter of their enemies, subdued
+
+
+
+
+the dominion of Emanuel kynge of Portugale, & was nowe possessed of the mores, he māfully recouered a∣gayne, and enforsed them to render vp the same.
+ Also the ambassadours of the Kinge of 
+Narsinga,
+ the Kinge of 
+Cambaia,
+ and the King of 
+Grosapha
+ with the legates of dyuers other kinges and Princes, offered them selues to be at a leage wyth 
+Alphonsus,
+ & there∣upon broughte theyr presentes vn∣to hym. No lesse powre and domi∣nion obtayned the king of Spayne in the Ilandes of the Weste partes:
+ In so muche that at his commaun∣dement, were buylded sixe townes in the Ilandes of 
+Cuba.
+ Lyke∣wyse in the Ilande of 
+Iucatana,
+ was buylded a greate cytie wyth fayre houses. The Ilande of 
+Cozumella,
+ the Spanyardes called 
+Sancta Crux,
+ bee∣cause they came fyrste thether
+
+
+
+
+in Maye, on the daye of the Inuen∣cion of the Crosse. In the Ilande of 
+Hispana
+ or 
+Hispaniola,
+ were erected .28. suger presses,
+ to presse y
+e
+ sugre whi∣che groweth plentifully in certaine canes or redes of the same coūtrey. Frō hence also is brought the wood of 
+Guaiacum,
+ otherwyse called, 
+Lignum sanctum,
+ wherewith dyuerse diseases are healed by the order of the newe dyete.
+
+
+
+
+
+
+¶Of the Iland of 
+Medera,
+ and the fortunate Ilādes, other∣wyse called the Ilandes of 
+Canaria.
+
+
+BEtwene Spaine & the Ilādes of 
+Canaria,
+ is the Ilande of 
+Medera,
+ which the Spaniardes in our time founde vnhabited and saluage. But perceauinge that the soyle thereof, was very fruitefull, they burnt the woodes, and made the ground apt to bringe foorth corne, and buylded many houses, and so tilled the same,
+
+
+
+
+that at this day is no where founde a more fruiteful lande. It hath in it many springes of fresshe water and goodly ryuers, vpon the which are bylded manye sawe mylles,
+ where∣with manye fayre trees, lyke vnto Ceder & Cypresse trees,
+ are sawed and cut in sunder, wherof are made most fayre tables, coberdes, cofers, and chayres, and such other curious workes made of wood. These trees are of redde colour, & swete sauour, the bodies and braunches whereof are broughte into Spayne in great plentie. The Kynge of Portugale thought it good to plante in this I∣land, that kynde of redes in which suger groweth:
+ wherin he was not deceaued in his opinion. For they growe there moste fruitefully, and beare suger which excelleth the su∣gre of Candye or 
+Sicilia.
+ There were also vynes broughte out of Candye and planted in this Ilande,
+ where
+
+
+
+
+they prosper so wel, that for y
+e
+ moste part they bring forth more grapes then leaues, and those very great. In this Iland is also great plentie of Partriches, wyld doues, & Pea∣cockes, wild bores, & diuers kindes of other beastes, which onely posses∣sed the Iland before men dyd inha∣bite the same. Also the Ilandes cal∣led 
+Insulae fortunatae,
+ (whiche are nowe called 
+Canaria,
+ for the multitude of dogges which are in them) are sayd to be no lesse fruytefull. These I∣landes are tenne in noumbre, of the which seuē are inhabited, & thre re∣maine desolate. They which are in∣habited, are called by these names: 
+Fracta laucea, Magna sors, Grancanaria, Teneriffa Ginera, Palma,
+ and 
+Ferrum.
+ At 
+Columbus
+ first comming thether, the inhabitantes went naked, without shame, religiō or knowledge of God. But in suc∣cesse of time, foure of the greatest I∣lādes embrased the Christian faith.
+
+
+
+
+
+They haue eche of them a priuate language. 
+Teneriffa
+ and 
+rancanaria,
+ are bigger then the other. 
+Teneriffa
+ maye be sene afarre of, to the distaunce of fiftie leages, in a fayre & clere daye. The reason whereof is, that in the middest of the Iland,
+ ryseth a mar∣ueylous great & strong rock, which is thought to be .xv. leages high, & casteth 
+oorth continuallye greate flames of fyre & pieces of brimstone, as doth the monnt 
+Etna
+ in the Iland of 
+Sicilia.
+ The people of these Ilādes, lyue with barlye bread, flesshe, and mylke. They haue also greate plentie of Goates, wylde Asses, and Fygges.
+ They lacke wyne and wheate.
+
+
+
+
+
+
+
+
+¶ Whether vnder the 
+AEqui∣noctial
+ circle or burninge lyne (called 
+Torrida zona
+) be habita∣ble Regions.
+
+
+PIus secundus
+ (otherwise called 
+Eneas Siluius,
+ of this question, wryteth in this maner. It hath been muche doubted whether habitable regiōs maye be founde vnder the 
+Equinoctial
+ lyne. 
+Eratosthenes
+ is of thoppinion,
+ that the ayre is there verye temperate. So thinketh 
+Polybius
+ also,
+ affirming that the earth is there verye highe, and watered with many showres.
+ 
+Possidonius
+ supposed that there is no Mountaynes vnder the 
+Equinoctial.
+ Some thoughte that the 
+Equinoctial
+ lyne was extēded beyond the earth ouer the mayne Ocean sea:
+ whiche thinge the Poet Homere semeth to insinuate,
+ where he faineth that the horses which drawe the chariote of sunne, drinke of the Ocean sea
+ and the sunne it selfe to take his norishe∣ment
+
+
+
+
+of the same. Whiche sentence 
+Macrobius
+ also foloweth.
+ Neither was 
+Albertus Magnus
+ farre from this opiniō,
+ who supposeth y
+t
+ the sunne draweth vp so much moysture vnder the 
+Equi∣noctial
+ circle, as engendreth the clou∣des vnder the poles, where by rea∣son of thexcedinge coldnesse, ayre is continualli turned into water. But Ptolomeus thinketh the earth to bee extended beyonde the 
+Equinoctial,
+ whereas he placeth a part of 
+he I∣land of 
+Taprobana,
+ vnder the 
+Equinoctial,
+ & also many nacions of the 
+Ethiopians.
+ Many haue thought that thearth∣ly Paradyse was sette vnder that lyne: which opinion is contrary to thauctoritie of holy scripture which witnesseth the two famous fluddes 
+Tigris
+ and 
+Euphrates
+ to springe oute of Paradise:
+ whiche neuerthelesse we know from the North partes to fal into the goulfe called 
+Sinus Persicus
+:
+ but as concerninge the heate vnder the
+
+
+
+
+
+Equinoctial
+ lyne, the nearenesse of the sunne,
+ or the directe beames of the same, are no sufficiente causes why vnder that line should be no habita∣ble regions, if we cōsider how those places are otherwyse shadowed,
+ & tempered with the moystenes and dewes of the nightes, which are all the yeare throughe of equal length with the dayes. Yet wyl no mā de∣nye,
+ but that vnder the 
+Equinoctial
+ throughoute all the burninge lyne there are manye wildernesses and desolate places, lacking water, and incommodious for the lyfe of man: Albeit euen in 
+Ethiopia,
+ people dwell neare to the ryuers and woodes. Plinie also sayth that one 
+Dalion,
+ and and 
+Aristocleon
+ and 
+ion,
+ and 
+Basilides,
+ went Southward beyonde 
+Meroae
+ whiche is almoste vnder the 
+Equinoctial.
+ And that 
+Simonides
+ who writte the descrip¦cion
+
+
+
+
+of Ethiopia, dwelte fyue yeres in 
+Meroae
+:
+ whiche Ilande (beeynge in the fyrme lande and compassed a∣boute wyth the Ryuer of 
+Nilus
+) he affyrmed to bee situate .972. thou∣sande pases beeyonde Syenes of Egypte,
+ as the searchers of Nero declared. But at Sienes the Astro¦nomers appoynte the sommer con∣uersion of the sunne:
+ and that there the burning lyne beginneth,
+ beinge distaunte from the 
+AEquinoctial
+ foure and twētie degrees, that is, twelue thousande furlonges. Wherby we maye perceaue that 
+Meroae
+ is situate some what beeyonde the myddest betwene the 
+Equinoctial
+ and Sienes. Ptolomeus also descrybeth the Region of 
+Agisimba
+ to bee inhabited beeyonde the 
+Equinoctial.
+
+
+Lykewyse the Mountaynes of the Mone, called Montes Luna,
+
+
+
+
+
+of the which, the fennes or marises of the riuer 
+Nilus
+ haue their spring & originall.
+ He addeth hereunto that there are certayne Ethiopians cal∣led 
+Anthropophagi,
+ that is, such as eate mans fleshe, which inhabite regiōs beyond the 
+Equinoctial
+ about the space of .xvi. degrees.
+ And thus the in∣habitacion of men is found to be ex∣tended .x. hundreth thousand pases beyonde the 
+Equinoctial
+ lyne. Whiche space conteyneth no lesse then two clymes of the earth.
+ And a clyme is a porcion of the worlde betwene South and North, wherein is variacion in length of of the daye, the space of halfe an houre.
+
+
+
+
+¶Finis.
+
+
+
+
+
+
+
+
+
+
+
+
+¶Thus endeth the fyfth boke of Sebastian Munster, of the lādes of Asia the greater, and of the newe founde landes, and Ilandes. 1553.
+
+
+¶Imprinted at London, in Lom∣barde strete, By Edward Sutton.
+
+
+
+
+
+
+
+
+¶To al aduenturers, and suche as take in hande greate enterpryses.
+
+
+Who hath hot of sowrenes felte the bitter tast,
+
+
+Is not worthy of swetenes to take his repast.
+
+
+To cracke the nutte, he must take the payne,
+
+
+The which would eate the carnell fayne.
+
+
+Who that of bees feareth the stinge,
+
+
+Shal neuer by hony haue great wonninge.
+
+
+As the swete Rose bringeth forth the thorne,
+
+
+So is man truely to ioye and payne borne.
+
+
+The byrde vpon hope byldeth her neste,
+
+
+Where oftentymes she hath but euyll reste.
+
+
+Yet is she not ther
+y drieuen 
+o such feare,
+
+
+But y
+t
+ she performeth thesame the nexte yeare.
+
+
+much castīg of periles doth noble corage swage
+
+
+Yet do not I commende rashenes or outrage.
+
+
+What foles do fable, take thou no hed
+ at all,
+
+
+For what they know not, they cal phātastical.
+
+
+Nought venter no
+ght haue, is a saying of old
+
+
+Better it is to blow the cole, then to syt a cold.
+
+
+For
+us fortuna adiuuat,
+ the Latin prouerbe saith,
+
+
+But fayleth to such as faynt and lacke fayth.
+
+
+God giueth al thinges, but not y
+e
+ bul by y
+e
+ horne
+
+
+The plowmā by trauaile encreaseth his corne.
+
+
+As fortune fauereth y
+u
+ mayst be riche or poore,
+
+
+As 
+Cresus
+ or 
+Irus
+ that beggeth at the dore.
+
+
+¶Omnis iacta sit alea.
+
+
+
+
+
+
+
+
+
+
+

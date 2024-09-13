@@ -1,0 +1,319 @@
+An account of the tryals of Captain J. Golden. Thomas Jones. John Gold. Lawrance Maliene. Patrick Whitley. John Slaughter. Const. D'Heaity. Richard Shewers. Darby Collins. John Ryon. Dennis Cockram. John Walsh. At the Court of Admiralty held in the Marshalsea in Southwark, before the Right Honourable the Judges: on monday the 25th. of Feb. 1693/4. Of which 9 were found guilty, and received sentence of death: 3 for high treason, and 6 for piracies and roberys on the seas, under the colour of the late King James's commission. Licens'd Feb. 27th. 1693/4
+Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A26179
+
+
+
+
+Wing A417C
+
+
+
+ESTC R213072
+
+
+
+
+
+99825585
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An account of the tryals of Captain J. Golden. Thomas Jones. John Gold. Lawrance Maliene. Patrick Whitley. John Slaughter. Const. D'Heaity. Richard Shewers. Darby Collins. John Ryon. Dennis Cockram. John Walsh. At the Court of Admiralty held in the Marshalsea in Southwark, before the Right Honourable the Judges: on monday the 25th. of Feb. 1693/4. Of which 9 were found guilty, and received sentence of death: 3 for high treason, and 6 for piracies and roberys on the seas, under the colour of the late King James's commission. Licens'd Feb. 27th. 1693/4
+1 sheet ([2] p.)   
+
+
+[London] :
+
+
+Printed for J. Clare at the Globe on London-Bridge,
+
+
+[1694]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Trials (Treason) --  England --  Early works to 1800.
+2012-05
+TCP
+Assigned for keying and markup
+2012-06
+SPi Global
+Keyed and coded from ProQuest page images
+2012-08
+Mona Logarbo
+Sampled and proofread
+2012-08
+Mona Logarbo
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+A417C
+
+
+R213072
+
+
+99825585
+
+
+29971
+
+
+
+
+
+
+
+
+
+
+
+
+An Account of the 
+TRYALS OF
+
+
+
+
+Captain
+ J. Golden.
+
+
+Thomas Jones.
+
+
+John Gold.
+
+
+Lawrance Maliene.
+
+
+Patrick Whitley.
+
+
+John Slaughter.
+
+
+Const. D'Heaity.
+
+
+Richard Shewers.
+
+
+Darby Collins.
+
+
+John Ryon.
+
+
+Dennis Cockram.
+
+
+John Walsh.
+
+
+
+
+At the Court of 
+Admiralty
+ held in the 
+Marshalsea
+ in 
+Southwark,
+ before the Right Honourable the Judges: on 
+monday
+ the 25th. of 
+Feb. 1693/4.
+ Of which 
+9
+ were found Guilty, and received Sentence of Death: 
+3
+ for High Treason, and 
+6
+ for Pi∣racies and Roberys on the Seas, under the colour of the late King 
+James
+'s Commission.
+
+
+
+
+Licens'd Feb. 27th. 1693/4.
+
+
+
+
+A Coutrt of 
+Admiralty,
+ by Vertue of a Commission from Their Ma∣jesties being held on 
+Monday
+ the 26th of this instant 
+February,
+ at the 
+Marshalses
+ in 
+Southwark,
+ before the Right Honourable the Judges; the Pro∣ceedings were as they related to the Pri∣soners, herein mentioned in this manner,
+
+
+Thomas Jones
+ was Indicted for High-Treason, for that he being a Natural born Subject of Their Majesties, contrary to his Duty and Allegiance, being on Board a Vessel, Commissioned by the late K. 
+James,
+ Assaulted by open Force and Violence, one of Their Majesty's Men of War; and the Evidence being plain against him, that he was taken with o∣thers in the Attempt, and he making but a slender defence in his behalf, excusing it only that he knew not the danger of such an Attempt, and did it through Ig∣norance, as supposing the Commission he acted under sufficient to warrant his Illegal Proceedings; the Jury being di∣rected by the Court as to matter of Fact, he was found Guilty of High-Treason.
+
+
+John Golden,
+ or 
+Ooldin, John Gold, Lawrence Maliene,
+ and another Person, were Indicted for High-Treason, as the former for Engaging, and hauling the 
+James Galley,
+ one the Their Majesty's Frigates, or men of War, carrying their Flag.
+
+
+In the 
+Sun-Praivateer
+ belonginging to 
+France,
+ Commissioned by the latk King 
+James;
+ the King's Witnesses swore po∣sitively to 
+John Golden,
+ who was stiled the Captain of the Sun-Privateer, be∣fore-mentioned; as likewise to 
+John Gold
+ the former of which endeavoured to ex∣cuse himself, as pretending to be a 
+French∣man,
+ or at least carried out of 
+Ireland
+ in∣to 
+Britany
+ in 
+France
+ so young, that he knew not his Parentage in any other Nation, but that not sufficiently appear∣ing, he delivered a long Paper which Read in Court, in which were cited some Transactions of former times, which 
+
+
+he apprehended related to his Circum-cumstances by way of Excuse; but he was in that over-ruled by the Court, who told him, it was not material to his pur∣pose, & those that advised him to it, were not his Friends, or to the like purporse; then he prayed he might have a special Verdict, but the Court thought not fit to allow it.
+
+
+John Gold
+ pleaded little for himself, but in alledging his Ignorance in not be∣ing apprehensive of the danger he under∣took when he went on Board the Priva∣teer, supposing the Commission they had to be Authentick. Against the other two Persons indicted with them, the E∣vidence not being possitive, they were acquitted, but the two former were brought in guilty of High-Treason, as laid in the Indictment.
+
+
+Patrick Whitly, John Sangster,
+ and 
+Constine' De Heartly
+ were indicted for Pi∣racy and Robbery on the Seas, and upon Evidence it appeared that they and others were found on Board an 
+English
+ Vessel, retaken by one of Their Majesties Men of War, on the 
+Western-Coasts.
+ The E∣vidence for the King was possitive against them, 
+That they were found on Board the Ship they had taken;
+ and their Exami∣nations being produced, wherein they had confessed the matter of Fact, tho excusing it in Court thrhugh ignorance: upon the 
+Juries going out,
+ they were found guilty of the Piracy, Robbery and Force used upon the 
+English
+ Vessel, 
+Super Ma∣re Altum;
+ it evidently appearing. More∣over the Persons were Their Majesties Natural Born Subjects, yet acting against them, and to the prejudlce of their Liege People, py Robberies and Depredations contrary to the Laws of Nature and Na∣tions.
+
+
+Richard Shevers, Darby Collins, John Ryon, Denis Cockram, and John Walsh
+ were as the foregoing, urged for Piracy and Robbery, and impaired thereto as they fancy'd, by vertue of a Commissi∣on granted by the Late King 
+James:
+ Upon Evidence it appear'd that the three first were taken on Board an 
+English
+ Ves∣sel they had seized, and were carrying into 
+France,
+ upon it's being Retaken by their Majesties Ship the Prince of 
+O∣range,
+ so that making but slender Ex∣cuses, and their Informations taken, ma∣king their former Excuses Evident, they were found Guilty; but the Evidence not being full against the two Latter, they were Acquitted.
+
+
+Job Higingbottom
+ was Tryed for the Murther of one 
+Moriss
+ alias 
+Marison,
+ upon the Evidence it ap∣peared, that he being Master of a Vessel, it was stranded near the Isle of 
+Orkney,
+ belonging to 
+Scot∣land;
+ and that the Deceased, and others that were Servants on Board his Vessel, carrying away the Boat, and getting on Shore, he called him to return with the Boat, but he refusing so to do, and the Ship still beating on the Shallows 
+n likelihood to be lost, as afterward it was, he fired after him with a Mus∣quet and at the second time hit him on the back part of the Head, of which Wound he died: He alledged in his own Defence, that he did it only to fright him into a Retur
+ with the Boat, des
+gning to fire over or wide of him; but the Violent Motion of the Ship, made him unfortunately Err in his Inten∣tions, and it appearing to be done in a Distinct King∣dom, as a
+so not upon the Main Ocean, the Jury found him not Guilty o
+ the Indictment.
+
+
+These being the M
+t
+rial P
+c
+dings of the Day, th
+ Prisoners that were found Guilty, being brought to the Barr, the Court pro
+ded to 
+i
+e S
+nt
+nce upon
+ Thoma
+ Jones, John Golden, 
+and
+ John G
+ld, 
+to 
+e drawn, hanged, and quart
+r
+d, a
+ in Cases of High Treason the Law directs.
+
+
+Patrick Whitley, John Sangster, John Ryon Darby Collins, 
+and
+ Richard Sheuer
+ 
+Received S
+∣tence to be hanged only as
+ Pirates, 
+&c.
+
+
+
+
+
+
+
+
+
+
+Printed for 
+J. Clare
+ at the 
+Globe 
+n London-Bridge.
+
+
+
+
+
+
+
+
+

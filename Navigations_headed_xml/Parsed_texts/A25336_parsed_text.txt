@@ -1,0 +1,245 @@
+An Account of the late action and defeat in Waterford-Bay in Ireland, by three of Their Majesties men of war as also, of their taking a French ship of 70 tuns in the river, and of their landing men near Dungannon, and of their releasing several Protestant prisoners : with a large and full account of the state of King James's affairs in Dublin, and his late proclamation about Protestant churches.
+Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A25336
+
+
+
+
+Wing A306A
+
+
+
+ESTC R1285
+
+
+
+
+
+ocm 12953904
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An Account of the late action and defeat in Waterford-Bay in Ireland, by three of Their Majesties men of war as also, of their taking a French ship of 70 tuns in the river, and of their landing men near Dungannon, and of their releasing several Protestant prisoners : with a large and full account of the state of King James's affairs in Dublin, and his late proclamation about Protestant churches.
+1 sheet ([2] p.)   
+
+
+London :
+
+
+Printed for R.H. ...,
+
+
+1690.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+James --  II, --  King of England, 1633-1701.
+Ireland --  History --  War of 1689-1691.
+Broadsides --  England --  17th century.
+2012-05
+TCP
+Assigned for keying and markup
+2012-06
+SPi Global
+Keyed and coded from ProQuest page images
+2012-08
+Mona Logarbo
+Sampled and proofread
+2012-08
+Mona Logarbo
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+A306A
+
+
+R1285
+
+
+12953904
+
+
+96021
+
+
+
+
+
+
+
+
+
+
+
+
+AN ACCOUNT OF THE Late Action and Defeat, IN 
+Waterford-Bay, in Ireland.
+ By Three of Their Majesties Men of War.
+
+
+AS ALSO, Of their Taking a 
+French
+ Ship of 70 Tuns, in the River; and of their Landing Men, near 
+Dungannon;
+ and of their releasing several Protestant Prisoners.
+
+
+WITH A large and full Account of the State of King 
+James's
+ Affairs in 
+Dublin,
+ And his late Proclamation about Protestant Churches.
+
+
+A Vessel arrived at 
+Milford,
+ on 
+Saturday
+ last, the Master whereof brings this following Account: That Three of Their Ma∣jesties Men of War, the 
+Dover,
+ St. 
+Alban
+'s, and the 
+Experiment,
+ with Tenders, steering their Course for the Bay of 
+Waterford,
+ having a fair Wind that came up with it; and after a small time, they put Sixty chosen resolute Men on Shoar, within a Mile of a small place called 
+Horkter,
+ which had Fifty Soldiers in it; which on the Lan∣ding of our Men, (it being a Place of no Strength,) they immediately fled to 
+Waterford:
+ After which, our Men return'd to their Ships, bringing off with them, besides a great Booty, several Protestants: Our Men verily believed, that had they had but Five Hundred Men, they could at that Juncture ea∣sily have surpriz'd and taken the strong Fort of 
+Dungannon.
+ We could not descry the appearance of any Parties, either of the Garrison of 
+Waterford,
+ or 
+Dungannon,
+ 'till some time after our Men were abroad again, they suppo∣sing, as we imagine, that we had some
+
+considerable Force to Land. At our putting to Sea again, we took a 
+French
+ Ship of Seventy Tuns, Laden with Brandy and Salt; she was just steer∣ing for 
+Waterford.
+
+
+On 
+Saturday
+ last passed through 
+Chester,
+ for 
+London,
+ two Gentlemen, who lately made their escape from 
+Dublin;
+ by whom, among other Re∣lations, we have it confirmed, that Three Regiments of 
+French
+ marched into 
+Dublin;
+ upon whose arrival, King 
+JAMES
+ ordered Coll. 
+Dar∣rington,
+ and Coll. 
+Fitz-James,
+ to march their Regiments towards 
+Droghedagh,
+ and to deliver their Posts to the 
+French;
+ which so alarm'd the Chief of the 
+Irish,
+ that after a short Consultation amongst the Principal of their Officers, it was agreed, That 
+Darrington,
+ accompa∣nied with some others, should wait upon the Late KING, to know, if by this His Majesty's Orders, it was intended the 
+French
+ should have the Guard of his Person: Which, after some small time of 
+Cabinet-Consultation,
+ The KING declared it to be His Pleasure: Which Words so surprized and incensed 
+Darrington
+ and his Party, that immediately himself, Col∣lonel 
+Baker,
+ and about Twelve other Chief Officers went to the KING, and delivered up their Commissions; telling him withal, that many more resol∣ved to do the like. The Procee∣dings starttled the Late KING and his Council; and put them on t
+ 
+Medicum,
+ to prevent the evil Con
+¦quences of disobliging either Faction That the Oldest Battalion of 
+Ir
+ Guards should keep their Place, as b
+¦fore, and that a Battalion of 
+Fren
+ should join with them. But this D
+¦cision pleased neither Party; and som
+ high words happened, even almost 
+ blows, though 
+Tyrconnel
+ did not Pu
+¦lickly appear in these Disturbance neither was he imprisoned as has bee said.
+
+
+King 
+James,
+ to sooth up the Prote¦stants in order to put a new face on h
+ Proceedings, hath lately issued forth 
+ Proclamation, commanding many 
+ their Churches in 
+Dublin
+ to be restore
+ again: According to which, Dr. 
+Li
+¦bourn
+ Dean of St. 
+Patricks
+ ascending his Pulpit to Preach, was pulled down by the Priests, and his Vestments tor
+ from his Back: On which, Complain
+ being made to King 
+JAMES,
+ th
+ principal Rioters received a slight Re∣primand: But the Doctor attempting to Preach the 
+Sunday
+ following, wa
+ treated with the like, or rather wors
+ Barbarity, and the Authors vindicate
+ their Actions to King 
+JAMES;
+ and declared, That if in the least he coun∣tenanced, or pretended to Counte∣nance Heresie in the Nation, he could never expect a Blessing on his Army neither could or would adhere to hi
+ 
+Interest.
+
+
+
+
+
+
+
+
+
+
+London,
+ Printed for 
+R.H.
+ in 
+Little Britain,
+ 1690.
+
+
+
+
+
+
+
+
+

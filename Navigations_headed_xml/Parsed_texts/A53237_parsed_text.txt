@@ -1,0 +1,196 @@
+Queries in order to the description of Britannia
+Ogilby, John, 1600-1676.
+Approx. 2 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2009-03 (EEBO-TCP Phase 1).
+A53237
+
+
+
+
+Wing O180
+
+
+
+ESTC R218656
+
+
+
+
+
+99830229
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Queries in order to the description of Britannia
+Ogilby, John, 1600-1676.
+1 sheet ([1] p.)   
+
+
+[London :
+
+
+s.n.,
+
+
+1673]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Great Britain --  Description and travel --  Early works to 1800.
+2008-04
+TCP
+Assigned for keying and markup
+2008-06
+SPi Global
+Keyed and coded from ProQuest page images
+2008-07
+Mona Logarbo
+Sampled and proofread
+2008-07
+Mona Logarbo
+Text and markup reviewed and edited
+2008-09
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+O180
+
+
+99830229
+
+
+34679
+
+
+
+
+
+
+
+
+
+
+
+
+QƲERIES in Order to the Description of BRITANNIA.
+
+
+
+
+1
+ OF the County in general.
+
+
+2
+ The several Hundreds, Parishes, Villages and Hamlets.
+
+
+3
+ Peculiars or Priviledg'd Places.
+
+
+4
+ Cities, Towns Corporate, Market-Towns and Fair-Towns
+
+
+5
+ Houses of Nobility and Gentry.
+
+
+6
+ Castles, Churches, Chappels, Monasteries, Hospitals, Schools, Colleges.
+
+
+7
+ Mills, Beacons, Bridges, Mountains.
+
+
+8
+ Chaces, Forrests, Woods, Groves, Parks, Warrens, Com∣mons, Heaths.
+
+
+9
+ Valleys, Rivers, Brooks, Meres, Ponds.
+
+
+10
+ Places where Battles have been, Lodges in Forrests, 
+&c.
+
+
+11
+ Works and Mines of Salt, Lead, Tin, Iron, Coal, Lime, Alabaster, Marble, Free-stone, Grindstone, Mill-stone, Silver, Gold, Copper.
+
+
+12
+ Waters, Springs and Baths, Cold or Hot, Medicinal, Bi∣tuminous Petrifying, 
+&c.
+
+
+13
+ Precincts of Diocesses.
+
+
+14
+ What Part of the Countrey is Arrable, Pasture, Meadow.
+
+
+15
+ 
+Roman
+ Ways and Stations, Coyns and Monuments, 
+&c.
+
+
+16
+ Accidents, Calamities or Casualties.
+
+
+17
+ Improvements in Husbandry, Houswifery.
+
+
+18
+ Peculiar Customs or Manners of the Countrey.
+
+
+19
+ Places of Birth, Education or Habitation of Eminent Persons, in all Ages.
+
+
+20.
+ 
+Obsolete and peculiar Words.
+
+
+21.
+ 
+Old Customs.
+
+
+
+
+Of these, or any of them, Information is desir'd in Writing, either upon certain Know∣ledge, or other good Authority, directing each Remark to the Number relating to it, and annexing thereto the County and Hundred wherein the Remark falls.
+
+
+
+
+
+
+
+
+

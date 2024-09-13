@@ -1,0 +1,312 @@
+A Particular relation of the great victory obtained by the Protestants in London-Derry, and the taking of the Duke of Berwick prisoner to which is added, an account of the English courage of Robert Caston, master of a small vessel, that engaged two French privateers, with the particular of that action.
+Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A56491
+
+
+
+
+Wing P598
+
+
+
+ESTC R4191
+
+
+
+
+
+ocm 12246746
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Particular relation of the great victory obtained by the Protestants in London-Derry, and the taking of the Duke of Berwick prisoner to which is added, an account of the English courage of Robert Caston, master of a small vessel, that engaged two French privateers, with the particular of that action.
+1 sheet (2 p.)   
+
+
+London :
+
+
+Printed for Robert Baldwin ...,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Berwick, James Fitzjames, --  Duke of, 1670-1734.
+Caston, Robert.
+Londonderry (Northern Ireland) --  History --  Siege, 1688-1689 --  Sources.
+Ireland --  History --  War of 1689-1691 --  Sources.
+Broadsides
+2013-10
+TCP
+Assigned for keying and markup
+2013-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-12
+Kate Allen
+Sampled and proofread
+2013-12
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P598
+
+
+R4191
+
+
+12246746
+
+
+56963
+
+
+
+
+
+
+
+
+
+
+
+
+A Particular RELATION OF THE Great Victory obtained by the Protestants in 
+LONDON-DERRY:
+ And the taking of the Duke of 
+Berwick
+ Prisoner.
+
+
+To which is added, An Account of the 
+English
+ Courage of 
+Robert Caston,
+ Master of a small Vessel, that Engaged two 
+French
+ Privateers. With the Particular of that ACTION.
+
+
+
+
+Licensed and Entred according to Order.
+
+
+
+
+MAjor-General 
+Kirk,
+ with the Suc∣cours for 
+Ireland
+ under his Com∣mand, set Sail from 
+Liverpool
+ for 
+London-Derry
+ the 21st. Instant, the Wind at E. N. E. but the Wind vering more Northerly, they were upon the 24th. forced back to a place, called 
+High Lake,
+ where they waited for a fair Wind.
+
+
+On Friday Night arrived at 
+Chester
+ an Emi∣nent Officer of the Garrison of 
+London-Derry,
+ with an Express to His Majesty from the Pro∣testants in that place. In his Passage he went on Board Major-General 
+Kirk,
+ to whom he gave a full Account of the Condition of the Garrison, and of the latest Actions on both sides, which according to the best and truest Relations, are as follow.
+
+
+That the 
+Irish
+ and 
+French
+ Officers being extreamly Zealous in the Service, and the Emulation for Honour between both Parties being no less, they have during the time of the Siege been hotly forward and valorous in exposing their Persons; by which unlucky Contest of theirs, they have lost a considera∣ble Number of experienced and good Officers. So that it is certain the Flower of their Army is in a manner quite destroyed.
+
+
+As to Particulars, it is credibly Reported, That having for some days play'd their Mor∣ters, charg'd with small Bombs, into the City, though with very little damage to the Besieged, the Besiegers were drawn into a Fatal Incon∣venience by the Policy of the Commanders of the Garrison. For the Governours being in∣formed by their Spies, that the Enemy were assured of the great Mischief they had done the Town, to confirm them in that belief, and to encourage them to make an Assault, in pursuance of the Advantage which they thought they had got, ordered all the Straw and com∣bustible stuff that could be spared in the Town, to be brought to the Walls, and so placed, as not to endanger the Houses when set on fire. They also farther ordered all the Stones, which were before the Pavements of the Streets, to be lodg'd upon the Walls, together with a sufficient quantity of great and small Shot, and other Warlike Preparations proper to re∣pel a General Assault, and that all Persons should be in a readiness upon the Approach of the Enemy.
+
+
+In the mean time the Besiegers believing their Bombs had taken good Effect, continued throwing them, in hopes of further Execution. On the other side, the Protestants set all their Combustible Matter on fire, which raised a great Flame, and not only heightned the Con∣ceit of the Besiegers, as done by their Bombs, but, as the Wind then sate, drave the Smoak into the Camp of the Besiegers. However, notwithstanding that disadvantage, so confident they were of the success of their Bombs, that they advanced to the Walls, and with as great Fury as they were numerous, began the As∣sault. But to their Astonishment and Confu∣sion, they were received with such an unex∣pected Bravery, that several hundreds of their best Men were kill'd in Scaling the Walls; which was such an Encouragement to the Be∣sieged, that at the same time Sallying out of the Garrison, they took, as is Reported, the Duke of 
+Berwick
+ Prisoner, 27 Inferiour Offi∣cers, 5 Field-Pieces, and one Morter, with several other Arms, and had the Plunder of the Field for several Miles, with a very inconside∣rable Loss to the Besieged; who the two next days, that is to say, Tuesday and Wednesday, the 14th. and 15th. Instant, made two brisk Sallies upon the rally'd 
+Irish,
+ whose Out-Guards lay at the distance of more than twice Cannon∣shot from the City, waiting for the last Rein∣forcement which was sent them from 
+Dublin.
+
+
+The Governours have sent the Besiegers a
+
+Message by one of their own Party, who was taken Prisoner, That if they use any Violence or Cruelty to such of the Protestants as may be under ther Power or shoot any more Bombs into the Town, they will not only hang up the Duke of 
+Berwick,
+ and such other Prisoners as they have in their Custody, but all that they shall afterwards take.
+
+
+From 
+Dublin
+ we are inform'd, that there are strange Divisions in their pretended Par∣liament there; for that the 
+Irish
+ Members, perceiving the late King's Designs to subject them to the 
+French,
+ with all the Eloquence and Speeches they can make, oppose the De∣signs of their pretended Soveraign. So that it is hoped that in a short time the Eyes of the ve∣ry Papists in 
+Ireland
+ will be opened, to see the mischievous Designs of their pretended King to enslave them to a Foreign and Tyrannick Power.
+
+
+
+
+
+
+An 
+ACCOUNT
+ of the 
+English
+ Courage of 
+Robert Caston.
+ Master of a Small Vessel, that Engaged Two 
+French
+ Privateers. With the Parti∣cular of that Action.
+
+
+ON Thursday, 
+May
+ the 16th. 1689. 
+Robert Caston
+ of 
+Ipswich,
+ Master of the 
+Richard
+'s 
+Advice
+ of 
+Ipswich,
+ Burthen 400 Tuns, sailed from 
+Newcastle
+ in Company of about 20 Sail more Loaden Colliers for 
+London;
+ and on Sa∣turday following, off of 
+Foulness,
+ were met by two 
+Dunkirk
+ Pickeroons, one of 18 Guns, and 130 Men, the other of 4 Guns, and 55 Men, who, as the Prisoners confess, having made the Fleet, resolved to attaque and carry this 
+Caston
+'s Ship, as being Admiral, promising themselves all the rest easily, and accordingly came up with her to Rights. 
+Caston
+ had but 6 Guns, his Son, 11 Men, one Gentleman, and three Gentlewomen Passengers, and thro' fear deserted by his Consort, (who promised to stand by him) all the rest having no Guns, stood away as fast as they could, and were by his Fight saved. The Pickeroons poured in their great Shot, and Boarded him three times with a great number of Men, and as often were beat off, and the Decks cleared by the 
+English
+ Small-shot and Courage; insomuch, that the 
+French
+ seeing their Men drop so fast, and very much disabled in their Hulls, threw in two Granadoes into the Round-house, where the Master and two Men more were, but re∣ceived little hurt, though they burnt and broke. The Engagement continued from One a Clock in the Afternoon until Four, when the 
+French
+ seeing no hopes of carrying her, sheered off, leaving behind them on board the Collier, Swords, Cuttle-axes, Muskets, Pistols, 
+&c.
+ as also two of their Men (now Prisoners) one a 
+Dane,
+ the other an 
+Ostender,
+ and divers of their Men dead, and hanging on the Stays and Sides of the Ship, and bore away for 
+Dunkirk,
+ whence Advice is since come, that the biggest was so disabled, that they had great difficulty to get her into Port, and presently to take out her Guns, to keep her above Water; and that they lost in the Fight the afore-mentioned two Prisoners, 20 kill'd out-right, and 12 wound∣ed, some Mortally.
+
+
+The Master received a slight Wound with a Splinter in his left Leg, and a small Bruise on his Thigh, his Son a Wound in his Face, and two of his Men hurt, but none of them dan∣gerous.
+
+
+The Passenger had the Misfortune from the very first Broad-side, to have his Leg sore broke and shatter'd, as not to be able to make any Defence; his Name was 
+Charles Rogers,
+ and taken on Board at 
+Newcastle.
+ So soon as the Fight was over, the Master in three hours got into 
+Yarmouth,
+ where he got the assistance of three the most able Chirurgeons could be had, to dress Mr. 
+Rogers
+ of his Wounds; but they were all of Opinion, the only means left in probability to save his Life, was to cut off his Leg, which they did, but he dyed soon after it, and was decently buried at 
+Yarmouth
+ at the Charge of the Master.
+
+
+And the said Mr. 
+Rogers
+ being a Stranger to the Master, and all in the Ship, it's thought fit to add to this Relation, as follows.
+
+
+There was found in his Pocket a Certificate from one 
+Thomas Creed,
+ Dated the 30 of 
+De∣cember,
+ 1687. Testifying, That 
+Charles Rogers
+ served him Eight Years very faithfully, 
+&c.
+ Also a Pass, in the words following.
+
+
+
+
+THese are to Certifie, That
+ Charles Rogers, 
+a Gentleman, Riding in my Troop, in the Honourable Col.
+ Edward Villers 
+Regiment, at his own Request is discharged the Service, in Or∣der to his better Preferment. Given under my Hand the
+ 11th. 
+of
+ May, 1689.
+
+
+FR. ROGERS.
+
+
+
+
+On Saturday last the Master brought his Ship up the River to 
+New Crane,
+ where she now lies, and the two Prisoners on Board him.
+
+
+The Honour this brave Master hath done to his Country and to his Profession, will, no doubt, not only meet with a suitable Reward and Encouragement from the Government, but a grateful Acknowledgment from those Own∣ers and Freighters, who by his, and his hand∣ful of Men's Courage, had their Properties rescued out of the hands of the Cowardly Enemies.
+
+
+
+
+
+
+
+
+
+
+London:
+ Printed for 
+Richard Baldwin,
+ near the 
+Black Bull
+ in the 
+Old-Baily.
+ MDCLXXXIX.
+
+
+
+
+
+
+
+
+
