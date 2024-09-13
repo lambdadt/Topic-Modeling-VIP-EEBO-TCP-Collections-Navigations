@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+import os
 
 # Define file paths
 input_file = '/Users/parag/Desktop/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/Navigations_headed_xml/A0-A5/A00005.headed.xml'
@@ -17,7 +18,7 @@ def parse_xml(input_file):
     # Recursive function to extract text and footnotes
     def extract_content(element):
         for child in element:
-            if child.tag == 'NOTE':  # Assuming footnotes are in <NOTE> tags
+            if child.tag.lower() in ['note', 'footnote', 'ref', 'fn']:  # Assuming footnotes are in these tags
                 footnotes.append(child.text)
             else:
                 if child.text:
@@ -32,8 +33,16 @@ def parse_xml(input_file):
     return text_content, footnotes
 
 def save_to_file(filename, content):
+    # Create the file if it doesn't exist and write content
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("\n".join(content))
+
+# Ensure the output files are created if they don't exist
+if not os.path.exists(output_text_file):
+    open(output_text_file, 'w').close()
+
+if not os.path.exists(output_footnotes_file):
+    open(output_footnotes_file, 'w').close()
 
 # Parse the XML file
 text_content, footnotes = parse_xml(input_file)
