@@ -20,7 +20,8 @@ def parse_xml(input_file):
         for child in element:
             if child.tag.lower() in ['note', 'footnote', 'ref', 'fn']:  # Assuming footnotes are in these tags
                 footnotes.append(child.text.strip() if child.text else '')
-                extract_content(child)
+                # not needed
+                # extract_content(child)
             else:
                 if child.text:
                     text_content.append(child.text)
