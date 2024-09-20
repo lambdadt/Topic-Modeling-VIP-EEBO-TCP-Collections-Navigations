@@ -1,0 +1,8309 @@
+Amusements serious and comical, calculated for the meridian of London by Mr. Brown.
+Brown, Thomas, 1663-1704.
+Approx. 176 KB of XML-encoded text transcribed from 83 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2004-05 (EEBO-TCP Phase 1).
+A29768
+
+
+
+
+Wing B5051
+
+
+
+ESTC R19929
+
+
+
+
+
+ocm 12676391
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Amusements serious and comical, calculated for the meridian of London by Mr. Brown.
+Brown, Thomas, 1663-1704.
+[2], 160 p.   
+
+
+London :
+
+
+Printed for John Nutt,
+
+
+1700.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+London (England) --  Description and travel --  Early works to 1800.
+London (England) --  Social life and customs.
+2004-01
+TCP
+Assigned for keying and markup
+2004-02
+Aptara
+Keyed and coded from ProQuest page images
+2004-03
+Olivia Bottum
+Sampled and proofread
+2004-03
+Olivia Bottum
+Text and markup reviewed and edited
+2004-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+B5051
+
+
+12676391
+
+
+65557
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amusements
+
+SERIOUS
+AND
+COMICAL,
+Calculated for the
+MERIDIAN
+OF
+LONDON.
+
+
+By Mr. 
+BROWN.
+
+
+LONDON,
+
+Printed for 
+Iohn Nutt,
+ near 
+Stationers-Hall,
+1700.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amusements
+SERIOUS
+AND
+COMICAL.
+
+
+
+
+The PREFACE.
+
+
+Amusement I.
+
+
+THE Title I have confer'd up∣on
+my Book, gives me Au∣thority
+to make as long a
+Preface as I please; for a
+Long Preface is a true 
+Amusement.
+
+
+
+However I have ventured to put
+one here, under the Apprehension that
+it will be very necessary toward the
+understanding of the Book; tho' the
+Generality of Readers are of Opini∣on,
+that a Preface, instead of setting
+off the Work, does but expose the
+Vanity of the Author.
+
+
+A good General of an Army, is less
+embarrass'd at the Head of his Troops,
+than an ill Writer in the Front of his
+Productions. He knows not in what
+Figure to dress his Countenance. If
+he puts on a Fierce and Haughty
+look, his Readers think themselves
+obliged to lower his Topsail, and
+bring him under their Sterns: If he
+affects an Humble Sneaking Posture,
+they slight and despise him: If he
+boasts the Excellency of his Subject,
+they believe not a Syllable of what
+he says: If he tells them there is lit∣tle
+or nothing in't, they take him at
+his Word; and to say nothing at all
+of his Work, is an unsufferable Impo∣sition
+upon an Author.
+
+
+I know not what Success these Pa∣pers
+will find in the World; but if any
+amuse themselves in Criticizing up∣on
+them, or in Reading them, my
+Design is answer'd.
+
+
+
+I have given the following
+Thoughts the Name of 
+Amusements;
+
+you will find them Serious, or Comi∣cal,
+according to the Humour I was
+in when I wrote them; and they will
+either Divert you, Instruct you, or
+Tire you, after the Humour you are
+in when you read them.
+
+
+T'other Day one of the Imaginary
+Serious Wits, who thought it a Weak∣ness
+in any Man to laugh: Seeing a
+Copy of this Book; at the opening
+of it, fell into a Passion, and Wrink∣ling
+up his Nostrils like a heated Stal∣lion
+that had a Mare in the Wind, said,
+The Book was unworthy of the Ti∣tle;
+for Grave Subjects, should be
+treated with Decorum, and 'twas to
+profane Serious Matters, to blend
+them with Comical Entertainments.
+What a Mixture is here says he!
+
+
+This Variety of Colours, said I
+to my Censurer, appears very Natu∣ral
+to me; for if one strictly examines
+all Mens Actions and Discourses, we
+shall find that Seriousness and Merri∣ment
+are near Neighbours, and al∣ways
+live together like Friends, if
+Sullen Moody Sots do not set them at
+Variance. Every Day shews us, that
+Serious Maxims, and Sober Counsels,
+
+
+often proceed out of the Mouths of
+the Pleasantest Companions, and such
+as affect to be always Grave and
+Musing, are then more Comical than
+they think themselves.
+
+
+My Spark push'd his Remonstrance
+further: Are not you ashamed, con∣tinued
+he, to Print 
+Amusements?
+
+Don't you know, that Man was made
+for Business, and not to sit amusing
+himself like an Owl in an Ivy-Bush?
+To which I answer'd after this man∣ner.
+
+
+The whole Life of Man is but one
+entire Amusement: Vertue only de∣serves
+the Name of Business, and
+none but they that practise it can be
+truly said to be employed, for all the
+World beside are Idle.
+
+
+One Amuses himself by Ambition,
+another by Interest, and another by
+that Foolish Passion Love. Little Folks
+Amuse themselves in Pleasures, Great
+Men in the Acquisition of Glory, and
+I am Amused to think that all this is
+nothing but Amusement.
+
+
+Once more, the whole Transa∣ctions
+of our Lives, are but meer
+Amusements, and Life it self is
+but an Amusement in a continued Ex∣pectation
+of Death.
+
+
+
+Thus much for Serious Matters:
+Let us now make haste to Pleasan∣try.
+
+
+I have a great mind to be in Print;
+but above all, I would fain be an Ori∣ginal,
+and that is a true Comical
+Thought: When all the Learned Men
+in the World are but Translators, is it
+not a Pleasant Jest, that you should
+strive to be an Original! You should
+have observed your Time, and have
+come into the World with the An∣cient
+
+Greeks
+ for that purpose; for
+the 
+Latines
+ themselves are but Co∣pies.
+
+
+This Discourse has mightily dis∣couraged
+me. Is it true then that
+there is such an Embargo laid upon
+Invention, that no Man can produce
+any thing that is perfectly New, and
+intirely his own? Many Authors, I
+confess, have told me so: I will
+enquire further about it, and if
+Sir 
+Roger,
+ Mr. 
+Dryden,
+ and Mr. 
+Dur∣fey
+
+Confirm it, then I will Believe
+it.
+
+
+What need all this Toyl and Clut∣ter
+about Original Authors and Tran∣slators?
+He who Imagines Briskly,
+Thinks Justly, and Writes Correctly,
+is an Original in the same things that
+
+
+another had thought before him. The
+Natural Air, and Curious Turn he
+gives his Translations, and the Ap∣plication
+wherewith he graces them,
+is enough to perswade any Sensible
+Man, that he was able to think and
+perform the same things, if they had
+not been thought and done before
+him, which is an advantage owing to
+their Birth, rather than to the Excel∣lency
+of their Parts beyond their Suc∣cessors.
+
+
+Some of our Modern Writers, that
+have built upon the Foundation of
+the Ancients, have far excell'd in dis∣guising
+their Notions, and improving
+the first Essays, that they have ac∣quir'd
+more Glory, and Reputation,
+than ever was given to the Original
+Authors: Nay, have utterly effaced
+their Memories.
+
+
+Those who Rob the Modern Wri∣ters,
+study to hide their Thefts; those
+who filch from the Ancients, account
+it their Glory. But why the last
+should be more Reproach'd than the
+former, I cannot imagine, since there
+is more Wit in disguising a Thought
+of Mr. 
+Lock
+'s, than in a lucky Tran∣slation
+of a Passage from 
+Horace.
+ Af∣ter
+all, it must be granted, that the
+
+
+Genius of some Men can never be
+brought to Write correctly in this
+Age, till they have form'd their Wits
+upon the Ancients, and their Gusts
+upon the Moderns; and I know no
+reason, why it should be their
+Disparagement, to capaciate them∣selves
+by these Helps to serve the
+Publick.
+
+
+Nothing will please some Men, but
+Books stuff'd with Antiquity, groan∣ing
+under the weight of Learned Quo∣tations
+drawn from the Fountains:
+And what is all this but Pilfering.
+But I will neither Rob the Ancient,
+nor Modern Books, but Pillage all I
+give you from the Book of the
+World.
+
+
+The Book of the World is very
+Ancient, and yet always New. In all
+Times, Men, and their Passions, have
+been the Subjects. These Passions
+were always the same, tho' they have
+been delivered to Posterity in different
+Manners, according to the different
+Constitution of Ages; and in all A∣ges
+they are Read by every one, ac∣cording
+to the Characters of their
+Wit, and the Extent of their Judg∣ment.
+
+
+
+Those who are qualified to Read
+and Understand the Book of the
+World, may be beneficial to the Pub∣lick,
+in communicating the Fruit of
+their Studies; but those that have no
+other knowledge of the World, but
+what they collect from Books, are
+not fit to give Instructions to o∣thers.
+
+
+If the World then is a Book that
+ought to be read in the Original:
+One may as well compare it to a
+
+Country
+ that one cannot know, nor
+make known to others, without Tra∣veling
+through it himself. I began
+this Journey very Young: I always
+loved to make Reflections upon every
+thing that presented it self to my
+View: I was amused in making these
+Reflections: I have amused my self
+in Writing them: And I wish my
+Reader may Amuse himself in Read∣ing
+them.
+
+
+Some will think it another Amuse∣ment
+to find a Book without a Dedica∣tion,
+begging the Protection of a Migh∣ty
+Patron, and by some fulsome kind of
+Flattery, expose the Great Man, the
+Author intended to praise; but that I
+have avoided, by sending the Brat na∣ked
+into the World to shift for it self.
+
+
+It was not design'd to give any Man
+Offence. Innocent Mirth, compoun∣ded
+with Wholsome Advice, is the
+whole Burthen it travails with; and
+therefore the Author flatters himself
+with the hopes of pleasing all Men:
+Which is a Pitch if his Book arrives
+to, will be the greatest Amusement in
+the World.
+
+
+
+
+
+
+
+
+Amusement II.
+
+
+
+
+The Voyage of the World.
+
+
+THERE is no Amusement so en∣tertaining
+and advantageous, as
+improving some of our Leisure Time
+in Traveling. If any Man for that rea∣son
+has an Inclination to divert him∣self,
+and Sail with me round the Globe,
+to supervise almost all the Conditions
+of Humane Life, without being infe∣cted
+with the Vanities, and Vices that
+attend such a Whimsical Perambulati∣on;
+let him follow me, who am go∣ing
+to Relate it in a Stile, and Lan∣guage,
+proper to the Variety of the
+Subject: For as the Caprichio came
+Naturally into my Pericranium, I am
+resolv'd to pursue it through Thick
+and Thin, to enlarge my Capacity
+for a Man of Business.
+
+
+
+Where then shall we begin? In the
+Name of Mischief what Country will
+first present it self to my Imagination?
+
+He Bien!
+ I have hit upon't already:
+Let's Steer for the 
+Court,
+ for that's
+the Region which will furnish us with
+the finest Lessons for our Knowledge
+of the World.
+
+
+
+
+
+
+The COVRT.
+
+
+THE Court is a Country abound∣ing
+with Amusements. The
+Air they breath there, is very fine
+and subtile; only for about three
+parts and a half of four in the Year,
+'tis liable to be Infected with Gross
+Vapours full of Flattery and Ly∣ing.
+All the Avenues leading to it
+are Gay, Smiling, Agreeable to the
+Sight, and all end in one and the
+same Point, Honour, and Self-Inte∣rest.
+
+
+Here Fortune keeps her Residence,
+and seems to expect that we make
+our Addresses to her, at the bottom
+
+
+of a long Walk, which lies open to all
+Comers and Goers. One would be
+apt to think at first sight, that he might
+reach the End on't, before he could
+count Twenty; but there are so ma∣ny
+By-Walks and Allies to cross, so
+many Turnings and Windings to find
+out, that he is soon convinced of his
+Mistake. 'Tis contrived into such an
+Intricate Maze and obscure manner,
+that the Straitest Way is not always
+the Nearest. It looks Gloriously in
+the Country, but when you approach
+it, its Beauty diminishes.
+
+
+After all the Enquiry I have made
+about it, I am not able to satisfie your
+Curiosity, whether the Ground it
+stands upon be firm and solid. I have
+seen some New Comers tread as con∣fidently
+upon it, as if they had been
+Born there; but quickly found they
+were in a New World, where the tot∣tering
+Earth made them Giddy and
+Stumble: For tho' they knew Good
+and Evil were equally useful to their
+Advancement, yet were so confound∣ed,
+to know which of the two they
+ought to employ to make their For∣tunes,
+that for want of understand∣ing
+only that pretty knack, they
+made a Journey to Court only to go
+
+
+back again, and report at Home they
+had the Honour of seeing it. On the
+other side, I have seen some Old Sta∣gers
+walk upon Court Ground, as
+gingerly as upon Ice, or a Quagmire:
+And with all the Precaution and Fear
+imaginable, lest they should fall from
+a great Fortune by the same Defects
+that rais'd them: And not without
+cause, for the Ground is Hard in some
+Places, and Sinks in others; but all
+People covet to get upon the highest
+Spot, to which there is no coming
+but by one Passage, and that is so nar∣row,
+that no Ambitious Pretender
+can keep the Way, without Justling
+other People down with his Elbows:
+And the further Mischief on't is, that
+those that keep their Feet, will not
+help up those that are fallen: For 'tis
+the Genius of a true 
+Courtier
+ not to
+lend a Hand, or part with a Farthing
+to one that wants every thing; but
+will give any thing to him that wants
+nothing: Or rather will lay up for a
+Rainy Day, because what he sees be∣fal
+another to Day, may be his own
+Turn to Morrow.
+
+
+
+
+He a stout Heart should have, and
+Steady Head,
+
+
+That in a dangerous Slipery Path does
+tread;
+
+
+And 'tis the Court that Slipery Place
+I call,
+
+
+Where all Men Slip, and very few
+but fall.
+
+
+The Difficulties we meet with in
+this Country, are very surprizing;
+for he takes the longest Way about,
+that keeps the old Track of Honesty
+and True Merit; for where the Ad∣dress
+of some, does not help to make
+the Fortune of others, immediately
+to Eclipse his Desert, Calumny rai∣ses
+the thickest Clouds, Envy the
+Blackest Vapours, and the Candidate
+is lost in the Fog of Competitors,
+and must hide himself behind a Fa∣vourites
+Recommendation, if ever he
+hopes to obtain what he seeks for: So
+that Vertue is no longer Vertue, nor
+Vice Vice, but every thing is con∣founded
+and eaten up by particular
+Interests.
+
+
+A new comer, with his Pockets
+well lined, is always welcome to any
+Court in 
+Christendom,
+ and every thing
+
+
+is provided for him without his own
+Trouble. He neither Acts nor Speaks,
+and yet they admire him as a very
+Wise Man: First, because he is so
+Foolish to hear them Talk Imperti∣nently,
+and next because there is no
+little Wisdom in his Modesty and Si∣lence;
+for had he Acted or Spoke ne∣ver
+so little, they wou'd soon have
+found out the Coxcomb.
+
+
+He that holds a Courtier by the
+Hand, has a Wet Eel by the Tail. He
+no sooner thinks he is sure of him,
+but he has lost him. Tho' you pre∣sented
+him in the Morning, he will
+forget you at Night, and utterly Re∣nounce
+you the Day following. A
+profest Courtier, tho he never aims at
+the Peace of God, is past any Man's
+Understanding. He is incomparably
+skill'd in Modish Postures, and Mo∣deling
+his Looks to every occasion:
+Profound and Impenetrable, can Dis∣semble
+when he does Ill Offices, Smile
+an Enemy to Death, Frown a Friend
+into Banishment, put a Constraint up∣on
+his Natural Temper, act against
+his own Inclination, Disguise his Pas∣sions,
+Rail against his own Principles,
+Contradict his own Opinion, and by
+a Brillant Humour, convert a Friendly
+
+
+Openness and Sincerity, into a Sly
+Chicanry and Falshood.
+
+
+Is it not a great Amusement, that a
+Man which can subsist upon his own,
+should throw himself into the two
+great Plagues of Mankind, Expecta∣tion
+and Dependance, and spend his
+Life in an Anti-chamber, a Court-Yard,
+or a Stair-Case, where he finds
+no Advantage or Content; but is also
+hindred from finding it elsewhere.
+
+
+Is it not strange, I say, to see a
+great Man that lives and is respected
+in his own Country like a Prince,
+Haunt the Court to make himself lit∣tle
+by Comparison, and bow to those
+little Animals at the Palace, whose
+Creeping, Cringing, and long Servi∣ces,
+are all the Merits they can pre∣tend
+to. Let the Courtiers value
+themselves upon their refined Plea∣sures,
+their Power and Interest: Their
+being able to do Good by Chance,
+and Evil by Inclination; yet he that
+is under no Necessity of living preca∣riously,
+or mending his present Cir∣cumstances,
+'tis an Amusement to see
+him Dance Attendance for a single Of∣fice
+at Court, that has so many at his
+own Disposal in the Country.
+
+
+
+And now let's take our Leave of all
+the Courts in 
+Europe,
+ and hoist Sail
+for 
+London;
+ the Chiefest City in all
+
+Christendom▪
+ where we shall find Mat∣ter
+enough to Amuse our selves, tho'
+we should live as long as 
+Mathuse∣la.
+
+
+
+
+
+
+
+
+
+
+Amusement III.
+
+
+LONDON.
+
+
+LONDON is a World by it self.
+We daily discover in it more
+New Countries, and surprizing Sin∣gularities,
+than in all the Universe
+besides. There are among the 
+Lon∣doners
+
+so many Nations differing in
+Manners, Customs, and Religions,
+that the Inhabitants themselves don't
+know a quarter of them. Imagine
+then what an 
+Indian
+ wou'd think of
+such a Motly Herd of People, and
+what a Diverting Amusement it would
+be to him, to examine with a Travel∣ler's
+Eye, all the Remarkable Things
+of this Mighty City. A Whimsy
+now takes me in the Head, to carry
+this Stranger all over the Town with
+me: No doubt but his Odd and Fan∣tastical
+Ideas, will furnish me with
+
+
+Variety, and perhaps with Diver∣sion.
+
+
+Thus I am resolv'd to take upon
+me the Genius of an 
+Indian,
+ who
+has had the Curiosity to Travel hi∣ther
+among us, and who had never
+seen any thing like what he sees in
+
+London.
+ We shall see how he will
+be amazed at certain things, which
+the Prejudice of Custome makes
+to seem Reasonable and Natural to
+us.
+
+
+To diversifie the Stile of my Nar∣ration,
+I will sometimes make my
+Traveller speak, and sometimes I will
+take up the Discourse my self. I will
+represent to my self the abstracted
+Ideas of an 
+Indian,
+ and I will likewise
+represent ours to him. In short, ta∣king
+it for granted, that we two un∣derstand
+one another by half a Word,
+I will set both his and my Imaginati∣on
+on the Ramble. Those that won't
+take the Pains to follow us, may stay
+where they are, and spare themselves
+the trouble of reading further in the
+Book; but they that are minded to
+Amuse themselves, ought to attend
+the Caprice of the Author for a few
+Moments.
+
+
+
+I will therefore suppose this 
+Indian
+
+of mine, dropt perpendicularly from
+the Clouds, and finds himself all on
+the sudden in the midst of this Prodi∣gious
+and Noisy City, where Repose
+and Silence dare scarce shew their
+Heads in the Darkest Night. At first
+Dash the confused. Clamours near
+
+Temple-Bar,
+ Stun him, Fright him,
+and make him Giddy.
+
+
+He sees an infinite Number of dif∣ferenr
+
+Machines,
+ all in violent Moti∣on.
+Some Riding on the Top, some
+Within, others Behind, and 
+Iehu
+ in
+the Coach-Box before, whirling some
+Dignify'd Villain towards the Devil,
+who has got an Estate by Cheating
+the Publick. He Lolls at full Stretch
+within, and half a Dozen Brawny
+Bulk-begotten Footmen behind. Some
+Carry, others are Carry'd: 
+Make
+Way there,
+ says a Gouty-Leg'd Chair∣man,
+that is carrying a Punk of Qua∣lity
+to a Mornings Exercise: Or
+a 
+Bartholomen.
+ Baby Beau, newly
+Launch'd out of a Chocolate-House,
+with his Pockets as empty as his
+Brains. 
+Make Room there,
+ says ano∣ther
+Fellow driving a Wheel-Barrow
+of Nuts, that spoil the Lungs of the
+City Prentices, and make them Wheeze
+
+
+over their Mistresses, as bad as the
+Phlegmatick Cuckolds their Masters
+do, when call'd to Family Duty. One
+Draws, another Drives. 
+Stand ap there,
+you Blind Dog,
+ Says a Carman, 
+Will you
+have the Cart squeeze your Guts out?
+
+One Tinker Knocks, another Bawls,
+
+Have you Brass Pot, Iron Pot, Kettle,
+Skillet, or a Frying-Pan to mend:
+ Whilst
+another Son of a Whore yells louder
+than 
+Homer
+'s Stentor, 
+Two a Groat,
+and Four for Six Pence Mackarel.
+ One
+draws his Mouth up to his Ears, and
+Howls out, 
+Buy my Flawnders,
+ and is
+followed by an Old Burly Drab, that
+Screams out the Sale of her 
+Maids
+ and
+her 
+Sole
+ at the same Instant.
+
+
+Here a Sooty 
+Chimney-Sweeper
+ takes
+the Wall of a Grave 
+Alderman;
+ and a
+
+Broom-Man
+ Justles the 
+Parson
+ of the
+Parish. There a Fat Greasie 
+Porter,
+
+runs a Trunk full Butt upon you,
+while another Salutes your Antlers
+with a Flasket of 
+Eggs
+ and 
+Butter.
+Turn out there you Country Put,
+ says a
+
+Bully
+ with a Sword two Yards long
+jarring at his Heels, and throws him
+into the Channel. By and by comes
+a 
+Christning,
+ with the 
+Reader
+ and the
+
+Midwife
+ strutting in the Front, and
+Young Original Sin as fine as Fip∣pence,
+
+
+followed with the Vocal Mu∣sick
+of 
+Kitchen-Stuff ha' you Maids;
+
+and a Damn'd 
+Trumpeter
+ calling in the
+Rabble to see a 
+Calf
+ with Six Legs
+and a Top-knot. There goes a 
+Fune∣ral,
+
+with the Men of Rosemary after
+it, licking their Lips after their three
+Hits of White, Sack, and Claret at
+the House of Mourning, and the 
+Sex∣ton
+
+walking before, as Big and Bluff
+as a 
+Beef-Eater
+ at a Coronation. Here's
+a 
+Poet
+ scampers for't as fast as his Legs
+will carry him, and at his Heels a
+Brace of 
+Bandog Bayliffs,
+ with open
+Mouths ready to Devour him, and
+all the Nine Muses. Well, say I to
+the 
+Indian;
+ And how do you like
+this Crowd, Noise, and Perpetual
+Hurry?
+
+
+I admire and tremble, says the poor
+Wretch to me. I admire that in so
+narrow a Place, so many Machines,
+and so many Animals, whose Motions
+are so directly Opposite or Different,
+can move so dexterously, and not fall
+foul upon one another. To avoid all
+this danger, shews the Ingenuity of
+you 
+Europeans;
+ but their Rashness
+makes me tremble, when I see Brute
+heavy Beasts hurry through so many
+Streets, and run upon slippery une∣ven
+
+
+Stones, where the least faise
+Step brings them within an Ace of
+Death.
+
+
+While I behold this Town of 
+Lon∣don,
+
+continues our Contemplative
+Traveller, I fancy I behold a Prodigi∣ous
+Animal. The Streets are as so ma∣ny
+
+Veins,
+ wherein the People Circu∣late.
+With what Hurry and Swift∣ness
+is the Circulation of 
+London
+ per∣form'd?
+You behold, say I to him,
+the Circulation that is made in the
+Heart of 
+London,
+ but it moves more
+briskly in the Blood of the 
+Citizens,
+
+they are always in Motion and Acti∣vity.
+Their Actions succeed one ano∣ther
+with so much Rapidity, that they
+begin a Thousand Things before they
+have finish'd one, and finish a thou∣sand
+others before they have begun
+them.
+
+
+They are equally uncapable both
+of Attention and Patience, and tho'
+nothing is more quick, than the Ef∣fects
+of Hearing and Seeing; yet they
+don't allow themselves time either to
+Hear or See; but like Moles, work
+in the Dark, and Undermine one ano∣ther.
+
+
+
+All their Study and Labour is either
+about Profit, or Pleasure; and they
+have Schools for the Education of
+their Stalking-Horses, which they call
+
+Apprentices
+ in the Mystery of 
+Trade.
+
+A Term unintelligible to Foreigners,
+and that none truly understand the
+Meaning of, but those that practice
+it.
+
+
+Some call it 
+Over-witting those they
+deal with,
+ but that's generally denied
+as a Heterodox Definition; for 
+Wit
+
+was never counted a 
+London
+ Commo∣dity,
+unless among their Wives, and
+other City Sinners; and if you search
+all the Warehouses and Shops, from
+
+White-Chappel
+ Bars, to St. 
+Clement
+'s,
+if it were to save a Man's Life, or a
+Womans Honesty, you cannot find
+one Farthing worth of 
+Wit
+ among
+them.
+
+
+Some derive this Heathenish Word
+
+Trade
+ from an 
+Hebrew
+ Original, and
+call it 
+Over-Reaching,
+ but the 
+Iews
+ de∣ny
+it, and say the Name and Thing is
+wholly 
+Christian;
+ and for this Inter∣pretation
+quote the Authority of a
+
+London Alderman,
+ who sold a 
+Iew
+ five
+
+
+Fats of Right-handed Gloves, without
+any Fellows to them, and afterwards
+made him purchase the Left-handed
+ones to Match them, at double the
+Value.
+
+
+Some call 
+Trade, Honest Gain,
+ and to
+make it more Palatable, have lacker'd
+it with the Name of 
+Godliness;
+ and
+hence it comes to pass, that the Ge∣nerality
+of 
+Londoners
+ are accounted
+such Eminent Professors; but of all
+Guessers, he comes nearest the Mark,
+that said Trade was playing a Game
+at 
+Losing Loadum,
+ or dropping 
+Fools
+
+Pence into 
+Knaves
+ Pockets, till the
+
+Sellers
+ were Rich, and the 
+Buyers
+ were
+Bankrupts.
+
+
+About the Middle of 
+London,
+ is to
+be seen a Magnificent Building, for
+the Accommodation of the 
+Lady Trade
+
+and her Heirs and Successors for ever,
+so full of Amusements about Twelve
+a Clock every Day, that one would
+think all the World was converted in∣to
+News-Mongers and Intellingencers,
+for that's the first Salutation among
+all Mankind that frequent that Place.
+What News from 
+Scandaroon
+ and
+
+
+
+Aleppo?
+ says the 
+Turkey
+ Merchant.
+What Price bears Currants at 
+Zant?
+
+Apes at 
+Tunis?
+ Religion at 
+Rome?
+
+Cutting a Throat at 
+Naples?
+ Whores
+at 
+Venice?
+ And the Cure of a Clap
+at 
+Padua?
+
+
+What News of such a Ship? says
+the 
+Insurer.
+ Is there any hope of her
+being Cast away, says the 
+Adventu∣rer,
+
+for I have Insured more by a
+Thousand Pounds, than I have in her?
+So have I through Mercy, says a se∣cond,
+and therefore let's leave a Let∣ter
+of Advice for the Master, at the
+New Light-House at 
+Plimouth,
+ that
+he does not fail to touch at the 
+Good-win-Sands,
+
+and give us Advice of it
+from 
+Deal,
+ or 
+Canterbury,
+ and he shall
+have another Ship for his Faithful
+Service as soon as he comes to 
+Lon∣don.
+
+
+I have a Bill upon you, Brother,
+says one 
+Alderman
+ to another. Go
+Home, Brother, says the other, and
+if Money and my Man be Absent, let
+my Wife pay you out of her Privy-Purse,
+as your 
+Good Wife
+ lately paid
+a Bill at Sight for me, I thank her
+Ladyship.
+
+
+
+Hark you, Mr. 
+Broker,
+ I have a
+Parcel of Excellent Log-Wood, Block-Tin,
+Spiders Brains, Philosophers
+Guts, 
+Don Qnixot
+'s Windmills, Hens-Teeth,
+Ell-Broad Pack-Thread, and
+the Quintescence of the Blue of
+Plumbs. Go you Puppy, you are
+fit to be a Broker, and don't know
+that the 
+Greshamites
+ buy up all these
+Rarities by Wholesale all the Year,
+and Retail them out to the Society e∣very
+first of 
+April.
+
+
+Hah, Old Acquaintance! 
+Touch
+Flesh:
+ I have have been seeking thee
+all the 
+Change
+ over. I have a pressing
+Occasion for some Seeds of Sedition,
+
+Iacobite Rue,
+ and 
+Whig Herb of Grace,
+
+Can'st furnish me? Indeed lau, No;
+saith the Merchant. I have just part∣ed
+with them to the several Coffee-Houses
+about the Town, where the
+respective Merchants meet that Trade
+in those Commodities; but if you
+want but a small Parcel, you may
+be supplied by Mrs. 
+Bald—n,
+ or 
+Da—y
+
+and his Son-in-Law 
+Bell and Clapper,
+
+and most Booksellers in 
+London
+ and
+
+Westminster.
+ Da, da, I'll about it im∣mediately.
+Stay a little Mr,—, I
+have a Word in private to you. If
+you know any of our 
+Whig
+ Friends
+
+
+that have occasion for any Stanch
+Votes for the Choice of Mayors or
+Sheriffs, that were Calculated for the
+Meridian of 
+London,
+ but will serve in∣differently
+for any City, or Corpora∣tion
+in 
+Europe,
+ our Friend Mr. 
+Pars—l
+
+has abundance that lie upon his Hands,
+and will be glad to dispose of them
+a good Pennyworth. Enough said,
+They are no Winters Traffick, for tho'
+Mayors and Woodcocks come in a∣bout
+
+Michaelmas,
+ they don't lay Sprin∣ges
+for Sheriffs till about Midsummer,
+and then we'll talk with him about
+those weighty Matters.
+
+
+There stalks a Sergeant and his
+Mace, smelling at the Merchants
+Backsides, like a Hungry Dog for a
+Dinner.
+
+
+There walks a Publick 
+Notary
+ tied
+to an lnkhorn, like an Ape to a Clog,
+to put off his Heathen-Greek Com∣modities,
+Bills of Store, and Charter
+Parties.
+
+
+That Wheezing Sickly Shew with
+his Breeches full of the Prices
+of Male and Female Commodities,
+Projects, Complaints, and all Misma∣nagements
+from 
+Dan
+ to 
+Beersheba,
+ is
+the 
+Devil's Broker,
+ and may be spo∣ken
+withal every 
+Sunday
+ from Eleven
+
+
+in the Morning, till Four in the After∣noon,
+at the next 
+Quakers Meeting,
+ to
+his Lodging, and not after; for the
+rest of his time on that Day he em∣ploys
+in adjusting his Accompts, and
+playing at 
+Back-Gammon
+ with his Prin∣cipal.
+
+
+There goes a Rat-catcher in state,
+Brandishing his Banner like a Blacka∣more
+in a Pageant on the Execution-Day
+of Rost Beef, Greasie Geese, and
+Custards.
+
+
+And there Sneaks a Hunger-starv'd
+
+Usurer
+ in quest of a Crasie Citizen
+for Use and Continuance-Money,
+which the other shuns as carefully as a
+Sergeant, or the Devil.
+
+
+Now say I to my 
+Indian,
+ Is not all
+this Hodge-Podge a Pleasant Confusi∣on,
+and a Perfect Amusement? The
+Astonish'd Traveller reply'd, Without
+doubt the Indigested 
+Chaos
+ was but an
+imperfect representation of this con∣gregated
+Huddle. But that which
+most Amuses my Understanding, is to
+hear 'em speak all Languages, and talk
+of nothing but Trucking, and Bar∣tering,
+Buying and Selling, Borrow∣ing
+and Lending, Paying and Recei∣ving,
+and yet I see nothing they have
+to dispose of unless those that have
+
+
+them, fell their Gold Chains, the
+Braziers their Leathern Aprons, the
+Young Merchants their Swords, or
+the Old Ones their Canes and Oaken-Plants,
+that support their Feeble Car∣cases.
+That doubt, quoth I to my in∣quisitive
+
+Indian,
+ is easily solved, for tho
+their Grosser Wares are at Home in
+their Store-Houses, they have many
+Things of Value to Truck for, that
+they always carry about them: As
+Justice for Fat Capons to be delivered
+before Dinner, A Reprieve from the
+Whipping-Post, for a Dozen Bottles
+of Claret to drink after it. Licences
+to sell Ale for a Hogshead of Stout to
+his Worship; and leave to keep a Cof∣fee-House,
+for a Cask of 
+Cold Tea
+ to
+his Lady. Name but what you want,
+and I'll direct you to the Walks
+where you shall find the Merchants
+that will Furnish you. Would you
+buy the Common Hunt, the Common
+Cryers, the Bridge-Master's, or the
+Keeper of 
+Newgate
+'s Places? Stay
+till they fall, and a Gold-Chain, and
+a Great Horse will direct you to the
+Proprietors. Would you buy any
+Naked Truth, or Light in a Dark-Lanthorn?
+Look in the 
+Wet-Quakers
+Walk.
+ Have you occasion for Comb-Brushes,
+
+
+Tweezers, Cringes, or Com∣plements,
+
+A la mode?
+ The 
+French Walk
+
+will supply you. Want you Old
+Cloaks, Plain Shooes, or Formal Gra∣vity?
+You may fit your self to
+a Cows-Thumb among the 
+Spani∣ards.
+
+
+Have you any Use in your Coun∣try
+for Upright Honesty, or Down∣right
+Dealing? You may buy plenty
+of them both among the 
+Stock-Iob∣bers,
+
+for they are dead Commodities,
+and that Society are willing to quit
+their Hands of them.
+
+
+Would you lay out your 
+Indian
+
+Gold for a 
+New Plantation?
+ Enquire
+for the 
+Scotch Walk,
+ and you buy a
+Good Pennyworth in 
+Darien:
+ Three
+of your own Kings, for as many New
+
+Hats,
+ and all their Nineteen Subjects
+into the Purchase, to be delivered at
+the 
+Scotch East-India Office,
+ by Parson
+
+Pattison,
+ or their Secretary 
+Wisdom
+Webster.
+ If you want any Tallow,
+Rapparee's Hides, or 
+Popish
+ Massa∣cres,
+enquire in the 
+Irish Walk,
+ and
+you cannot lose your Labour: But I
+am interrupted.
+
+
+Look! Yonder's a 
+Iew
+ treading upon
+an 
+Italian's
+ Foot, to carry on a Sodo∣mitical
+Intrigue, and Bartering their
+
+
+Souls here, for Fire and Brimstone in
+another World.
+
+
+See, there's a Beau that has Play'd
+away his Estate at a Chocolate-House,
+going to Sell himself to 
+Barbadoes,
+ to
+keep himself out of 
+Newgate,
+ and
+from Scandalizing his Relations at
+
+Tyburn.
+
+
+There's a Poet Reading his Verses.
+and squeezing his Brains into an A∣morous
+Cits Pockets, in hopes of a
+Tester to buy himself a Dinner.
+
+
+Behind that Pillar is a 
+Welch Herald
+
+deriving a Merchant's Pedigree from
+
+Adam
+'s Great Grandfather, to entitle
+him to a Coat of Arms, when he
+comes to be Alderman.
+
+
+But now the 
+Change
+ began to emp∣ty
+so fast, I thought 'twas time to
+troop off to an Eating-House; but
+my 
+Indian
+ pull'd me by the Sleeve to
+satisfie his Curisioty, why they stain'd
+such stately Pillars with so many Dir∣ty
+Papers. I told him, they were
+Advertisements. Why, says he, don't
+they put them into the 
+Post-Boy?
+ Can't
+the Folks in this Country read it?
+Pray let me know the Contents of
+some of these Serawls.
+
+
+
+Why first here is a 
+Ship
+ to be sold,
+with all her Tackle and Lading,
+There are Vertuous Maidens that are
+willing to be Transported with 
+William
+Penn
+ into 
+Merriland,
+ for the Propoga∣tion
+of 
+Quakerism.
+ In another is a
+
+Tutor
+ to be Hired, to instruct any Gen∣tleman's,
+or Merchant's Children in
+their own Families: And under that
+an Advertisement of a 
+Milc-Ass,
+ to
+be sold at the Night-Mans in 
+White-Chappel.
+
+
+In another Colume in a 
+Gilded-Frame
+
+was a Chamber-Maid that wanted
+a Service; and over her an Old Batche∣lor
+that wanted a House-keeper. On the
+sides of these were two lesser Papers,
+one containing an Advertisement of a
+Red-Headed Monkey lost from a Seed-Shop
+in the 
+Strand,
+ with two Guineas
+Reward to him or her that shall bring
+him Home again with his Tail and
+Collar on. On the other side was a
+large Folio fill'd with Wet and Dry
+Nurses; and Houses to be Lett; and
+Parrots, Canary-Birds, and Setting-Dogs
+to be sold.
+
+
+They Way to my Lodging lay
+through 
+Cheapside,
+ but dreading the
+Canibal Man-catchers at the 
+Counter-Gate,
+
+that suck the Blood, and pick
+
+
+the Bones of all the Paupers that fall
+into their Clutches; nay, are worse
+than Dogs, for they'll Devour one a∣nother;
+I Tack'd about, and made a
+Trip over 
+Moor-fields,
+ and Visited our
+Friends in 
+Bedlam.
+
+
+A Pleasant Piece it is, and abounds
+with Amusements; the first of which
+is the Building so stately a Fabrick for
+Persons wholly unsensible of the Beau∣ty
+and Use of it: The Outside is a
+perfect Mockery to the Inside, and
+admits of two Amusing Queries:
+Whether the Persons that ordered the
+Building it, or those that Inhabit it,
+were the Maddest? And whether the
+Name and Thing be not as disagreea∣ble
+as Harp and Harrow? But what
+need I wonder at that, since the whole
+is but one Intire Amusement: Some
+were Preaching, and others in full
+Cry a Hunting. Some were Praying,
+other Cursing and Swearing. Some
+were Dancing, others Groaning. Some
+Singing, others Crying, and all in
+perfect Confusion. A sad Represen∣tation
+of the greater Chimerical World,
+only in this there's no Whoring,
+Cheating, nor Sleeping, unless after
+the 
+Platonick
+ Mode in Thought, for
+want of Action. Here were 
+Persons
+
+
+
+Confined that having no Money nor
+Friends, and but a small Stock of
+Confidence, run Mad for want of
+Preferment. A 
+Poet
+ that for want of
+Wit and Sense, run Mad for want of
+Victuals, and a Hard-favour'd 
+Citi∣zens
+Wife,
+ that lost her Wits because
+her Husband kept a Handsome Mi∣stress.
+
+
+In this Apartment was a 
+Common
+Lawyer
+ Pleading; in another a 
+Civili∣an
+
+Sighing; a third enclosed a 
+Iacobite
+
+Ranting against the Revolution; and
+a fourth a Morose Melancholy 
+Whig,
+
+bemoaning his want of an Office, and
+complaining against Abuses at Court,
+and Mismanagements.
+
+
+Missing many others, whom I
+thought deserved a Lodging among
+their Brethren, I made Enquiry after
+them, and was told by the Keeper,
+they had many other Houses of the
+same Foundation in the City, where
+they were disposed of till they grew
+
+Tamer,
+ and were qualified to be ad∣mitted
+Members of this 
+Soberer
+ So∣ciety.
+The Projectors, who are ge∣nerally
+Broken Citizens, were coop'd
+up in the 
+Counters
+ and 
+Ludgate.
+ The
+Beaus, and Rakes, and Common
+Mad Gilts, that labour under a 
+Furor
+
+
+Uterini
+ in 
+Bridewell,
+ and Justice 
+Long
+'s
+Powdering-Tub; and the Vertuosi
+were confined to 
+Gresham-College.
+
+Those, continued he, in whose Con∣stitutions
+Folly has the Ascendant o∣ver
+Frenzy, are permitted to Reside,
+and be Smoaked in Coffee-Houses;
+and those that by the Governors of
+this Hospital, are thought Utterly In∣curable,
+are shut up with a pair of
+Foils, a Fiddle, and a Pipe, in the
+Inns of Court and Chancery; and
+when their Fire and Spirits are exhau∣sted,
+and they begin to Dote, they
+are removed by 
+Habeas Corpus
+ into a
+certain Hospital built for that purpose
+near 
+Amen-Corner.
+
+
+Walking from hence, I had leisure
+to ask my 
+Indian
+ his Opinion of these
+Amusements, who after the best man∣ner
+his Genius would suffer him, ha∣rangued
+upon Deficiency of Sence,
+as the only Beneficial Quality, since
+the bare pretence to 
+Wit
+ was attended
+by such Tragical Misfortunes, as Con∣finement
+to Straw, Small Drink, and
+Flogging.
+
+
+Hearing a Noise as we approached
+near 
+Cripplegate
+ Church, my Curiosi∣ty
+lead me into the Inside of it, where
+Mr. 
+Sm—ys
+ was Holding-forth a∣gainst
+
+
+all the Vices of the Age, but
+Whoring and Midwifery; for such a
+stretch of Extravagancy had lost both
+his own and his Wifes Fees at 
+Christen∣ings,
+
+and Stuffing their Wembs at
+
+Churchings:
+ And you know none but
+Poets and Players decry their own
+way of Living. He was very Hea∣venly
+upon Conjugal Duties and
+Chastity, for a reason you may ima∣gine:
+Press'd Filial Obedience and
+Honesty, with as much Vigour, as if
+his own Sons had been his Auditors:
+But above all, laid out himself as pow∣erfully
+in exciting his Hearers to be
+Charitable to the Poor, as if himself
+had been the 
+Iudas
+ and the Bag-bearer.
+Now
+
+
+I that am always more scared at
+the sight of a 
+Sergeant,
+ or 
+Bayliff,
+
+than at the Devil and all his Works,
+was mortally frighted in my Passage
+through 
+Barbican
+ and 
+Long-Lane,
+ by
+the Impudent 
+Ragsellers,
+ in those Scan∣dalous
+Climates, who laid hold of my
+Arm to ask me, 
+What I lack'd?
+ At
+first it made me Tremble worse than a
+Quaker in a Fit of 
+Enthusiasm,
+ imagin∣ing
+it had been an Arrest; but their
+Rudeness continuing at every Door,
+relieved me from those Pannick Fears;
+
+
+
+Uterini
+ in 
+Bridewell,
+ and Justice 
+Long
+'s
+Powdering-Tub; and the Vertuosi
+were confined to 
+Gresham-College.
+
+Those, continued he, in whose Con∣stitutions
+Folly has the Ascendant o∣ver
+Frenzy, are permitted to Reside,
+and be Smoaked in Coffee-Houses;
+and those that by the Governors of
+this Hospital, are thought Utterly In∣curable,
+are shut up with a pair of
+Foils, a Fiddle, and a Pipe, in the
+Inns of Court and Chancery; and
+when their Fire and Spirits are exhau∣sted,
+and they begin to Dote, they
+are removed by 
+Habeas Corpus
+ into a
+certain Hospital built for that purpose
+near 
+Amen-Corner.
+
+
+Walking from hence, I had leisure
+to ask my 
+Indian
+ his Opinion of these
+Amusements, who after the best man∣ner
+his Genius would suffer him, ha∣rangued
+upon Deficiency of Sence,
+as the only Beneficial Quality, since
+the bare pretence to 
+Wit
+ was attended
+by such Tragical Misfortunes, as Con∣finement
+to Straw, Small Drink, and
+Flogging.
+
+
+Hearing a Noise as we approached
+near 
+Cripplegate
+ Church, my Curiosi∣ty
+lead me into the Inside of it, where
+Mr. 
+Sm
+—
+ys
+ was Holding-forth a∣gainst
+
+
+all the Vices of the Age, but
+Whoring and Midwifery; for such a
+stretch of Extravagancy had lost both
+his own and his Wifes Fees at 
+Christen∣ings,
+
+and Stuffing their Wembs at
+
+Churchings:
+ And you know none but
+Poets and Players decry their own
+way of Living. He was very Hea∣venly
+upon Conjugal Duties and
+Chastity, for a reason you may ima∣gine:
+Press'd Filial Obedience and
+Honesty, with as much Vigour, as if
+his own Sons had been his Auditors:
+But above all, laid out himself as pow∣erfully
+in exciting his Hearers to be
+Charitable to the Poor, as if himself
+had been the 
+Iudas
+ and the Bag-bearer.
+Now
+
+
+I that am always more scared at
+the sight of a 
+Sergeant,
+ or 
+Bayliff,
+
+than at the Devil and all his Works,
+was mortally frighted in my Passage
+through 
+Barbican
+ and 
+Long-Lane,
+ by
+the Impudent 
+Ragsellers,
+ in those Scan∣dalous
+Climates, who laid hold of my
+Arm to ask me, 
+What I lack'd?
+ At
+first it made me Tremble worse than a
+Quaker in a Fit of 
+Enthusiasm,
+ imagin∣ing
+it had been an Arrest; but their
+Rudeness continuing at every Door,
+relieved me from those Pannick Fears;
+
+
+and the next that attack'd my Arm
+with 
+What ye buy, Sir, What ye lack?
+
+I threw him from my Sleeve into the
+Kennel, saying, Tho' I want nothing
+out of your Shops, methinks you all
+want good Manners and Civility, that
+are ready to tear a New Sute from my
+Back, under pretence of selling me an
+Old one: Avant Vermin, your Cloaths
+smell as rankly of 
+Newgate
+ and 
+Tyburn,
+
+as the Bedding to be sold at the 
+Ditch∣side
+
+near 
+Fleet-Bridge,
+ smells of a Baw∣dy-House
+and Brandy.
+
+
+Smithfield
+ would next have afforded
+us variety of Subjects to descant upon;
+but it being neither 
+Bartholomew-Fair
+
+Time, nor Market-Day, I shall ad∣journ
+that View to another opportu∣nity;
+and now proceed to,
+
+
+
+
+
+
+
+
+Amusement IV.
+
+
+Westminster-Hall.
+
+
+A Magnificent Building, which is
+Open to all the World, and
+yet in a Manner is shut up, by the
+Prodigious Concourse of People, who
+Crowd and Sweat to get in or out, and
+happy are they that don't leave their
+Lives, Estates, nor Consciences be∣hind
+them.
+
+
+Here we entered into a great 
+Hall,
+
+where my 
+Indian
+ was surprized to see,
+in the same Place, Men on the one side
+with Bawbles and Toys, and on the
+other taken up with the Fear of Judg∣ment,
+on which depends their inevi∣table
+Destiny.
+
+
+In this Shop are to be sold Ribbons
+and Gloves, Towers and Commodes,
+by Word of Mouth: In another Shop
+Lands and Tenements are disposed of
+by Decree.
+
+
+
+On your Left Hand you hear a nim∣ble
+Tongu'd Painted 
+Sempstress,
+ with
+her Charming Treble, Invite you to
+buy some of her Knick-Knacks: And
+on your Right, a Deep-mouth'd Cry∣ar
+commanding Impossibilities, 
+viz.
+
+Silence to be kept among Women and
+Lawyers. What a Fantastical Jargon
+does this Heap of Contrarieties a∣mount
+to?
+
+
+While our Traveller is making his
+Observations upon this Motly Scene,
+he's frighted at the Terrible Approa∣ches
+of a Multitude of Men in Black
+Gowns, and Round Caps, that make
+between them a most Hideous and
+Dreadful Monster, call'd 
+Pettyfogging,
+
+of which there is such store in 
+Eng∣land,
+
+that the People think themselves
+obliged to pray for the 
+Egyptian
+ Lo∣custs,
+and Catterpillars, in exchange
+for this kind of Vermin. And this
+Monster bellows out so pernicious a
+Language, that one Word alone is suf∣ficient
+to ruine whole Families.
+
+
+At certain Hours appointed, there
+appears Grave and Dauntless Men,
+whose very Sight is enough to give
+one a Quartan-Ague, and who says
+this Monster on his Back.
+
+
+
+Scarce a Day passes over their
+Heads, but they rescue out of his
+greedy Jaws some Thousand of Acres
+half devoured.
+
+
+This Cursed Petty-Fogging is much
+more to be feared than Injustice it self.
+The latter openly undoes us, and af∣fords
+us at least this Comfort, That
+we have a Right to bewail our selves;
+but the former by its Dilatory Forma∣lities,
+rob us of all we have, and tells
+us for our Eternal Despair, that we
+suffer by Law.
+
+
+Justice, if I may so express my self,
+is a Beautiful Young Virgin Disguis'd,
+brought on the Stage by the 
+Plea∣der,
+
+Pursued by the 
+Artorney,
+ Cajol'd
+by the 
+Counsellor,
+ and Defended by the
+
+Iudge.
+
+
+Some Pert Critick will tell me now
+that I have lost my way in Digressi∣ons.
+Under favour, this Critick is in
+the wrong Box, for Digressions pro∣perly
+belong to my Subject, since
+they are all nothing but Amusements;
+and this is a Truth so uncontested, that
+I am resolved to continue them.
+
+
+By way of Digression, I must here
+inform you, that in all those Places
+of my Voyage, where the 
+Indian
+ per∣plexes
+me with his Questions, I will
+
+
+drop him, as I have already done, to
+pursue my own Reflexions: Upon this
+Condition however, that I may be al∣lowed
+to take him up again, when I
+am weary of Travelling alone. I will
+likewise make bold to quit the Meta∣phor
+of my Voyage, whenever the
+Fancy takes me; for I am so far from
+confining my self like a Slave to one
+particular Figure, that I will keep the
+Power still in my Hands, to change if
+I think fit at every Period, my Fi∣gure,
+Subject, and Stile, that I may
+be less tiresom to the Modern Reader;
+for I know well enough, that Variety
+is the Predominant Taste of the pre∣sent
+Age.
+
+
+Altho' nothing is durable in this
+Transitory World, yet 'tis observ'd,
+that this Saying proves false in 
+West∣minster-Hall,
+
+where there are things
+of eternal continuance, as Thousands
+have found true by Woful Experience,
+I mean 
+Chancery
+ Suits. Certain Sons
+of Parchment, call'd Sollicitors and
+Barristers, make it their whole Busi∣ness
+to keep the Shuttle-Cock in mo∣tion,
+and when one Hand is weary of
+it, they Play it into another. 'Tis
+the chiefest part of their Religion to
+keep up and animate the Differences
+
+
+among their Clyents, as it was with
+the Vestal Virgins in the Days of
+
+Yore,
+ to maintain the Sacred Fire.
+
+
+'Tis a most surprizing thing that
+notwithstanding all the Clamour, Squa∣ling,
+and Bawling there is in the
+Courts, yet you shall have a Judge
+now and then take as Comfortable a
+Nap upon the Bench, as if he was at
+Church; and every Honest 
+Christian
+
+has reason to pray, that as often as a
+Cause comes to be heard, the Judges
+of Ancient Times were Awake, and
+the Modern Fast Asleep.
+
+
+However this must be said for them,
+that they are Righteous enough in
+their Hearts; but the Devil on't is,
+that they can't tell which way to take
+to instruct themselves in the Merits of
+the Cause. The Contending Parties
+are suspected by them, the Solicitor
+embroils them, the Counsellor Deaf∣ens
+them, the Attorney Importunes
+them, and (is it not a sad thing?) the
+Shee-Sollicitor Distracts them. Well!
+Let what will happen on't, give me
+for my Money the Female Sollici∣tor.
+
+
+A certain Judge in the Days of
+
+Yore,
+ made his Boasts one Day, that
+the most Charming Woman in the
+
+
+World, was not able to make him
+forget that he was a Judge. Very
+likely, Sir, said a Gentleman to him;
+but I'll lay Twenty to One on Nature's
+side. The Magistrate was a 
+Man
+ be∣fore
+he was a 
+Iudge.
+ The first Moti∣on
+he finds is for the Shee Solicitor,
+and the Second is for 
+Iustice.
+
+
+A very Beautiful 
+Countess
+ went to a
+Morose Surly Judge's Chamber, to
+prepossess him in Favour of a very
+Unrighteous Cause, and to Sollicite
+for a 
+Colonel,
+ against a Tradesman that
+Sued him.
+
+
+This Tradesman happened that ve∣ry
+Moment to be in his Lordship's
+Closet, who found his Cause to be
+so Just, and Clear, that he could not
+forbear to promise him to take care he
+should carry the Day.
+
+
+The Words were no sooner out of
+his Mouth, but our Charming 
+Coun∣tess
+
+appear'd in the Anti-Chamber.
+The 
+Iudge
+ immediately run as fast as
+his Gouty Legs would give him leave
+to meet her Ladyship. Her 
+Eyes,
+ her
+
+Air,
+ her 
+Graceful
+ Deportment, the
+Sound of her 
+Voice,
+ so many Charms
+in short, pleaded so powerfully in her
+Favour, that at the first Moment he
+found the 
+Man
+ too Powerful for the
+
+
+
+Iudge,
+ and he promised our 
+Countess,
+
+that the 
+Collonel
+ should gain his Cause.
+Thus you see the Poor Judge engaged
+on both sides. When he came back to
+his Closet, he found the 
+Tradesman
+ re∣duc'd
+to the last Despair. I saw her,
+cries the Fellow as it were out of his
+Wits. I saw the 
+Lady
+ that solicits a∣gainst
+me, and Lord what a Charm∣ing
+Creature she is? I am undone my
+Lord, my Cause is lost and ruin'd!
+Why, says the Judge, not yet recover∣ed
+from his Confusion, imagine your
+self in my Place, and tell me if 'tis pos∣sible
+for frail Man to refuse any thing
+that so Beautiful a Lady asks? As he
+spoke these Words, he pull'd a 
+Hun∣dred
+Pistols
+ out of his Pocket, which
+amounted to the Sum the Tradesman
+sued for, and gave them to him. By
+some means or other the 
+Countess
+ came
+to the knowledge of it; and as she
+was Vertuous even to a Scruple, she
+was afraid of being too much obliged
+by so Generous a Judge, and immedi∣ately
+sent him a Hundred Pistoles.
+The 
+Colonel
+ full as Gallant as the 
+Coun∣tess
+
+was Scrupulous, paid her the
+Sum aforesaid; and thus every one
+did as he ought to do. The Judge was
+afraid of being 
+Unjust,
+ the Countess
+
+
+feared to be too much obliged, the
+Collonel paid, and the Tradesman
+was satisfied: Or according to our old
+
+English
+ Adage, all was well, 
+Iack
+ had
+
+Ioan,
+ and the Man had his Mare a∣gain.
+
+
+Shall I give you my Opinion of
+this Judge's Behaviour. The first Mo∣tion
+he found in himself, was for the
+Charming 
+Sollicitrix,
+ which I can∣not
+Excuse him for; and the second
+was for 
+Iustice,
+ for which I Admire
+him.
+
+
+While I thus amus'd my self, my
+Traveller is lost in a Fog of Black-Gowns;
+let us go and find him. Oh
+yonder he is at the farther end of the
+
+Hall,
+ I call to him, he strives to come
+to me, but his Breath fails him, the
+Crowd over-presses him, he's carri∣ed
+down the Stream, he Swims upon
+his Elbows to get to Shoar.
+
+
+At last half Spent, and dripping
+from every Pore in his Body, he
+comes up to me, and all the Relation
+I could get from him of what he
+had seen, was; Oh this Counfound∣ed
+Country! Let us get out of it as
+soon as possibly we can, and never see
+it more.
+
+
+
+Come, come, says I to him, let's
+go and Refresh our selves after this
+Fatigue; and to put the Idea of the
+
+Hall
+ out of our Heads, let's go this
+Evening into the Delicious Country
+of 
+Opera.
+
+
+
+
+
+
+
+
+Amusement V.
+
+
+The Play-House.
+
+
+THE 
+Play-House
+ is an Inchanted
+Island, where nothing appears
+in Reality what it is, nor what it
+should be. 'Tis frequented by Per∣sons
+of all Degrees and Qualities
+whatsoever, that have a great deal of
+Idle Time lying upon their Hands,
+and can't tell how to employ it wor∣ser.
+Here 
+Lords
+ come to Laugh, and
+to be Laugh'd at for being there, and
+seeing their Qualities ridicul'd by eve∣ry
+Triobolary Poet. Knights come
+hither to learn the Amorous Smirk,
+the 
+Ala mode
+ Grin, the Antick Bow,
+the Newest-Fashion'd Cringe, and how
+to adjust his Phiz, to make himself as
+Ridiculous by Art, as he is by Na∣ture.
+
+
+
+Hither come the Country Gentle∣men
+to shew their Shapes, and trou∣ble
+the Pit with their Impertinence
+about Hawking, Hunting, and their
+Handsome Wives, and their House-wifery.
+
+
+There sits a 
+Beau
+ like a Fool in a
+Frame, that dares not stir his Head,
+nor move his Body, for fear of in∣commoding
+his Wig, ruffling his Cra∣vat,
+or putting his Eyes, or Mouth
+out of the Order his 
+Maitre de Dance
+
+had set it in, whilst a 
+Bully Beau
+ comes
+Drunk into the Pit, Screaming out,
+
+Dam me,
+ Jack, 
+'tis a Confounded Play,
+let's to a
+ Whore 
+and spend our time bet∣ter.
+
+
+Here the Ladies come to shew their
+Cloaths, which are often the only
+things to be admir'd in or about 'em.
+Some of them having Scab'd, or Pim∣pled
+Faces, wear a Thousand Patches
+to hide them, and those that have
+none, scandalize their Faces by a Fool∣ish
+imitation. Here they shew their
+Courage by being unconcerned at a
+
+Husband
+ being 
+Poison'd,
+ a 
+Hero
+ being
+
+Kill'd,
+ or a Passionate Lover being
+Jilted: And discover their Modesties
+by standing Buff at a Baudy Song, or
+
+
+a Naked Obscene Figure. By the
+Signs that both Sexes hang out, you
+may know their Qualities or Occu∣pations,
+and not mistake in making
+your Addresses.
+
+
+Men of 
+Figure
+ and Consideration,
+are known by seldom being there,
+and Men of 
+Wisdom
+ and Business, by
+being always absent. A 
+Beau
+ is
+known by the Decent Management of
+his Sword-Knot, and Snust-Box. A
+
+Poet
+ by his Empty Pockets: A Citi∣zen
+by his Horns and Gold Hatband:
+A Whore by a 
+Vizor-Mask:
+ And a
+Fool by Talking to her. A Play-House
+
+Wit
+ is distinguish'd by wanting
+Understanding; and a 
+Iudge
+ of Wit
+by Nodding and Sleeping, till the fal∣ling
+of the Curtain, and Crowding to
+get out awake him.
+
+
+I have told you already, that the
+Play-House was the Land of Enchant∣ment,
+the Country of Metamorpho∣sis,
+and performed it with the greatest
+speed imaginable. Here in the Twin∣kling
+of an Eye, you shall see Men
+transform'd into Demi-Gods: And
+Goddesses made as true Flesh and
+Blood, as our Common Women. Here
+
+Fools
+ by Slight of Hand, are conver∣ted
+
+
+into 
+Wits.
+ Honest Women into
+Errant Whores, and which is most mi∣raculous,
+Cowards into Valiant 
+Hero's,
+
+and Rank 
+Coquets
+ and 
+Iilts
+ into as
+Chaste and Vertuous 
+Mistresses,
+ as a
+Man would desire to put his Knife
+into.
+
+
+Let us now speak a Word or so, of
+the Natives of this Country, and the
+Stock of 
+Wit
+ and 
+Manners
+ by which
+they Maintain themselves, and Ridi∣cule
+the whole World besides. The
+People are all somewhat 
+Whimsical,
+
+and Giddy-Brain'd: When they Speak,
+they Sing, when they Walk, they
+Dance, and very often do both when
+they have no mind to it.
+
+
+The 
+Stage
+ has now so great a share of
+Atheism, Impudence, and Prophane∣ness,
+that it looks like an Assembly of
+
+Demons,
+ directing the Way 
+Hellward;
+
+and the more Blasphemous the Poets
+are, the more are they admired, even
+from Huffing 
+Dryden,
+ to Sing-Song
+
+Durfey,
+ who always Stutters at Sence,
+and speaks plain when he Swears 
+G
+—
+Dam
+me.
+ What are all their New Plays
+but Damn'd Insipid Dull 
+Farces,
+ con∣founded
+Toothless 
+Satyr,
+ or Plaguy
+
+Rhiming
+ Plays, with Scurvy Heroes,
+
+
+worse than the Knight of the Sun, or
+
+Amadis de Gaul.
+ They are the er∣rantest
+
+Plagiaries
+ in Nature, and like
+our Common News-Writers, Steal from
+one another.
+
+
+When any Humour Takes in 
+Lon∣don,
+
+they Ride it to Death before they
+leave it. The Primitive 
+Christians
+
+were not Persecuted with half that
+Variety, as the poor Unthinking
+
+Beaux
+ are tormented with upon the
+Theatre.
+
+
+Character
+ they supply with a 
+Smutty
+
+Song, Humour with a 
+Dance,
+ and Ar∣gument
+with 
+Lightning
+ and 
+Thunder,
+
+which has often reprieved many a
+Scurvy Play from Damning.
+
+
+A Huge great 
+Muff,
+ and a 
+Gaudy
+
+Ribbon hanging at a Bully's Back∣side,
+is an Excellent Jest; and New
+Invented Curses, as 
+Stap my Vitals,
+Damn my Diaphragma, Slit my Wind-Pipe;
+
+Rig up a New Beau, tho' in
+the Main 'tis but the same everlast∣ing
+Coxcomb; and there's as much
+difference between their Rhimes, and
+Solid Verse, as between the Royal
+Psalmist, and 
+Hopkins
+ and 
+Sternhold,
+
+with their Collars of 
+Ay
+'s and 
+Eeke
+'s
+about them.
+
+
+
+'Tis a hard Matter to find such
+things as Reason, Sense, or Modesty,
+among them; for the Mens Heads
+are so full of Musick, that you can
+have nothing from them but empty
+Sounds; and the Women are so 
+Light,
+
+they may easily be blown up or down
+like a Feather.
+
+
+
+
+
+
+
+
+Amusement VI.
+
+
+
+
+The WALKS.
+
+
+WE have divers sorts of Walks
+about 
+London,
+ in some you
+go to see and be seen, in others nei∣ther
+to see nor to be seen, but like a
+Noun Substantive to be Felt, Heard,
+and Understood.
+
+
+The Ladies that have an Inclination
+to be Private, take Delight in the
+Close Walks of 
+Spring-Gardens,
+ where
+both Sexes meet, and mutually serve
+one another as Guides to lose their
+Way, and the Windings and Turn∣ings
+in the little Wildernesses, are so
+intricate, that the most Experienc'd
+Mothers, have often lost themselves
+in looking for their Daughters.
+
+
+From Spring-Garden we set our Fa∣ces
+towards 
+Hide-Park,
+ where Horses
+have their Diversion as well as Men,
+and Neigh and Court their Mistresses
+
+
+almost in as intelligible a Dialect.
+Here People Coach it to take the Air,
+amidst a Cloud of 
+Dust,
+ able to Choak
+a Foot Soldier, and hinder'd us from
+seeing those that come thither on pur∣pose
+to shew themselves: However we
+made hard shift to get now and then
+a Glance at some of them.
+
+
+Here we saw much to do about no∣thing;
+a World of Brave Men, Gilt-Coaches,
+and Rich Liveries. Within
+some of them were Upstart Courtiers,
+blown up as big as Pride and Vanity
+could swell them to; sitting as Up∣right
+in their Chariots, as if a Stake
+had been driven through them. It
+would hurt their Eyes to exchange a
+Glance upon any thing that's Vulgar,
+and that's the Reason they are so spa∣ring
+of their Looks, that they will
+neither Bow nor move their Hats to
+any thing under a Duke or a Dutchess;
+and yet if you examine some of their
+Originals; a Covetous, Soul-less Mi∣ser,
+or a great Oppressor, laid the
+Foundation of their Families, and in
+their Retinue there are more Credi∣tors
+than Servants.
+
+
+See, says my 
+Indian,
+ what a Bevy
+of Gallant Ladies are in yonder Coa∣ches;
+some are Singing, others Laugh∣ing,
+
+
+others Tickling one another, and
+all of them Toying and devouring
+Cheefe-Cakes, March-Pane, and 
+Chi∣na
+
+Oranges. See that Lady says he,
+was ever any thing so black as her
+Eye, and so clear as her Forehead?
+One would Swear her Face had taken
+its Tincture from all the Beauties in
+Nature; and yet perhaps, answered
+I to my Fellow Traveller, all this is
+but Imposture; she might, for ought
+we know, go to Bed last Night as
+ugly as a 
+Hagg,
+ tho' she now appears
+like an Angel: and if you did but see
+this Puppet taken to pieces, her whole
+is but Paint and Plaster. From hence
+we went to take a Turn in the
+
+Mall.
+
+
+When we came into these Pleasant
+Walks, my Fellow Traveller was Ra∣vish'd
+at the most agreeable Sight in
+Nature. There were none but Wo∣men
+there that Day as it happened,
+and the Walks were covered with
+them.
+
+
+I never, said he to me Laughing,
+beheld in my Life so great a Flight of
+Birds. Bless me, how Fine and Pret∣ty
+they are.
+
+
+
+Friend, reply'd I to him in the same
+Metaphor, these are Birds to Amuse
+one, that change their Feathers two or
+three times a Day.
+
+
+They are Fickle and Light by Incli∣nation,
+Weak by Constitution, but
+never weary of Billing and Chirp∣ing.
+
+
+They never see the Day till the
+Sun is just going to Set, they Hop
+always upright with one Foot upon
+the Ground, and touch the Clouds
+with their proud Toppings. In a
+word, the generality of Women are
+Peacocks when they Walk; Water-Wagtails
+when they are within Doors,
+and Turtles when they meet Face to
+Face.
+
+
+This is a bold Description of them,
+says my 
+Indian.
+ Pray tell me, Sir,
+says he, is this Portrait of them after
+Nature? Yes, without Question, an∣swer'd
+I, but I know some Women that
+are Superior to the rest of their Sex,
+and perhaps to Men also. In relation
+to those, I need not say much to di∣stinguish
+them from the rest, for they'll
+soon distinguish themselves by their
+Vertuous Discourse and Deport∣ment.
+
+
+
+Nothing is so hard to be Defined
+as Women, and of all Women in the
+World none are so undefinable as those
+of 
+London.
+
+
+The 
+Spanish
+ Women are altogether
+
+Spanish,
+ the 
+Italians
+ altogether 
+Itali∣ans,
+
+the 
+Germans
+ altogether 
+Germans,
+
+the 
+French
+ Women always like them∣selves;
+but among the 
+London Women
+
+we find 
+Spaniards, Italians, Germans,
+
+and 
+French,
+ blended together into one
+individual Monopoly of all Humours
+and Fashions.
+
+
+Nay, how many different Nations
+are there of our 
+English
+ Ladies. In
+the first place there is the 
+Politick
+ Na∣tion
+of your Ladies of the Town.
+Next the 
+Savage
+ Nation of Country
+Dames. Then the 
+Free
+ Nation of the
+Coquets. The 
+Invisible
+ Nation of the
+Faithful Wives, (the worst Peopled of
+all.) The 
+Good-Natur'd
+ Nation of
+Wives that Cuckold their Husbands,
+(they are almost forced to Walk upon
+one anothers Heads, their Numbers
+are so prodigious.) The 
+Warlike
+ Na∣tion
+of Intriguing Ladies. The 
+Fear∣ful
+
+Nation of—, but there are
+scarce any of them left. The 
+Barba∣rous
+
+Nation of Mothers-in-Law. The
+
+Haughty
+ Nation of Citizens Wives,
+
+
+that are Dignified with a Title. The
+
+Strowling
+ Nation of your regular Vi∣sitants,
+and the Lord knows how ma∣ny
+more: Not to reckon the 
+Supersti∣tious
+
+Nation that run after Conjurers
+and Fortune-Tellers. 'Tis pitty this
+latter sort are not lock'd up in a Quar∣ter
+by themselves, and that the Nati∣on
+of 
+Cunning
+ Women are not rooted
+out that abuse them, and set them up∣on
+doing some things, which other∣wise
+they would not.
+
+
+I have suffer'd my self to be carried
+too far by my Subject. 'Tis a strange
+thing that we cannot talk of Women
+with a Just Moderation: We ei∣ther
+talk too much, or too little of
+them: We don't speak enough of
+
+Vertuous
+ Women, and we speak too
+much of those that are not so.
+
+
+Men would do Justice to 'em all, if
+they could talk of them without Pas∣sion;
+but they scarce speak at all of
+those that are Indifferent: They are
+prepossessed for them they Love, and
+against them by whom they cannot
+make themselves to be Beloved.
+
+
+They rank the latter in the Class
+of 
+Irregular
+ Women, because they are
+Wise, and indeed Wiser than they
+would have them be. The Railing of
+
+
+the Men ought to be the Justification
+of the Women; but it unluckily falls
+out, that one half of the World take
+delight to raise Scandalous Stories,
+and t'other half in believing them.
+
+
+Slander has been the Product of all
+Times, and all Countries; it is very
+near of as Ancient standing in the
+World, as Vertue. Defamation ought
+to be more severely punish'd than
+Theft. It does more Injury to Civil
+Societies, and 'tis a harder matter to
+secure one's Reputation from a Slan∣derer,
+than one's Money from a Rob∣ber.
+
+
+All the World are agreed, that both
+one and the other are Scoundrels, yet
+for all that we esteem 'em when they
+excel in this Art. A Nice and a Witty
+Railer is the most agreeable Person in
+Conversation; and he that Dexterous∣ly
+picks another Man's Pocket, as
+your Quacks and Attornies, draws
+the Veneration even of those who
+live by Cutting of Purses.
+
+
+When one observes in what Reputa∣tion
+both of them live, one would be
+apt to say, That'tis neither Defamati∣on,
+nor Robbery, that we blame in
+others; but only their 
+Awkardness
+ and
+want of Skill. They are punish'd for
+
+
+not being able to arrive at the Perfecti∣on
+of their Art.
+
+
+Come, come, says my 
+Indian,
+ you
+ramble from your Subject; you speak
+of Back-Biting in General, whereas at
+present we are only talking of that
+Branch of it which belongs to Women.
+I would bring you back to that Point,
+which puts me in mind of certain
+Laws, which was heretofore proposed
+by a Legislator of my Country. One
+of these Laws gave permission for one
+Woman to Slander another; in the
+first place, because it is 
+impossible to
+prevent it;
+ and besides, because in
+Matters of Gallantry, she that accu∣ses
+her Neighbour, might her self
+be accused of it in her turn, pursu∣ant
+to the Ancient and Righteous
+Law of returning a 
+Rowland
+ for an
+
+Oliver.
+
+
+But how would you have a Woman
+quit Scores with a Man, who has
+publish'd disadvantageous Stories of
+her? Must she serve him in the same
+kind? By all means: For if Men
+think it a piece of Merit to Conquer
+Women, and Women place theirs in
+well defending themselves, she that
+gets a Lover sings a Triumph; and
+
+
+she that Loves, confesses her felf to
+be Conquered.
+
+
+If it were true, that the Ladies
+were more Weak than we are, their
+Fall would be more excusable; but I
+think we are Weaker than our Wives,
+since we expect they should pardon us
+in every thing, and we will pardon
+nothing in them. One would think
+that when a Man had got a Woman in∣to
+a Matrimonial Noose, 'twas enough
+for her to be wholly his: And by the
+same Reason should not the Man be
+wholly hers? What a Tyranny is this
+in the Men, to monopolize Infidelity
+to themselves?
+
+
+But if Men will be slandering Wo∣men,
+let them vent their Fury against
+those only that are ugly, for that is
+neither Slandering nor Calumniating,
+tho'it be a Crime the Ladies will ne∣ver
+forgive; for the Generality of
+them are more Jealous of the Reputa∣tion
+of their Beaties, than of their
+Honours, and she that wants a whole
+Morning at least to bring her Face to
+perfection, would be more con∣cern'd
+to be surpriz'd at her 
+Toilet,
+
+than to be taken in the Arms of a
+Gallant.
+
+
+
+I am not at all surprized at this No∣tion,
+for the chief Vertue in the La∣dies
+Catechism is to please; and Beau∣ty
+pleases Men more effectually than
+Wisdom. One Man loves Sweetness
+and Modesty in a Woman; another
+loves a Jolly Damsel with Life and
+Vigour; but Agreeableness and Beau∣ty
+Relishes with all Humane Pal∣lats.
+
+
+A Young Woman who has no other
+Portion than her hopes of Pleasing, is
+at a loss what Measures to take that
+she may make her Fortune. Is she
+Simple, we despise her: Is she Vertu∣ous
+we don't like her Company. Is
+she a Coquet, we avoid her: There∣fore
+to succeed well in the World, 'tis
+necessary that she be Vertuous, Sim∣ple,
+and a Coquet all at once. Sim∣plicity
+Invites us, Coquetry Amuses,
+and Vertue Retains us.
+
+
+'Tis a hard matter for a Woman to
+escape the Censures of the Men. 'Tis
+much more so to guard themselves
+from the Womens Tongues. A La∣dy
+that sets up for Vertue, makes
+her self envied; she that pretends
+to Gallantry, makes her self despi∣sed;
+but she that pretends to no∣thing,
+escapes Contempt and Envy,
+
+
+and saves her self between two Re∣putations.
+
+
+This Management surpasses the Ca∣pacity
+of a Young Woman: Those
+that are Young and Handsome, are
+exposed to two Temptations: To pre∣serve
+themselves from them they want
+the Assistance of Reason; and 'tis
+their Misfortune that Reason comes
+not in to their Relief, till their Youth
+and Beauty, and the Danger is gone
+together. Tell us why should not
+Reason come as soon as Beauty, since
+one was made to defend the other?
+
+
+It does not depend upon a Woman
+to be Handsome; the only Beauty
+that all of them might have, and some
+of them, to speak Modestly, think
+fit to part with, is 
+Chastity;
+ but of all
+Beauties whatsoever, 'tis the easiest
+to lose.
+
+
+She that never was yet in Love, is
+so asham'd of her first Weakness, that
+she would by all means conceal it from
+her self: As for the second, she desires
+to conceal it from others; but she does
+not think it worth the while to conceal
+the third from any Body.
+
+
+When 
+Chastity
+ is once gone, 'tis no
+more to be retriev'd than Youth.
+
+
+
+Those that have lost their Chastities,
+assumes an affected one, which is
+much sooner provoked than that which
+is real: Of which we had an Experi∣ment
+in the Close Walk at the Head
+of 
+Rosamond
+'s 
+Pond,
+ where for one
+poor Equivocal World, a Brisk She
+was ready to tear a Gentleman's Cra∣vat
+off; who after a further Parley,
+discover'd her self to be sensible of
+some things which she ought to have
+been ignorant of, to have maintained
+her affected Modesty.
+
+
+A Lady of this Character was sit∣ting
+on the side of this 
+Pond
+ upon the
+
+Grass
+ with her Younger Sister newly
+come out of the Country, to whom a
+Spark sitting by, entertain'd her with
+a Relation of an Amorous Adventure
+between my Lord—, and my La∣dy
+
+Love it;
+ but expressing himself in
+such Obscene Ambiguous Terms, that
+a Woman that did not know 
+What
+ was
+
+What,
+ could as soon fly with a Hun∣dred
+Weight of Lead at her Heels, as
+tell what to make of it: The more
+obscurely the Gentleman told his Sto∣ry,
+the more attentively did our
+Young Creature listen to it, and dis∣cover'd
+her Curiosity by some simple
+harmless Questions. The Elder of
+
+
+the two Sisters desirous to let the
+Gentleman, and others that sate by
+them, understand that she had more
+Modesty than her Younger Sister,
+cryed out, Oh fie, Sister, fie; Can
+you hear such a wicked Story as this
+without Blushing?
+
+
+Alas, Sister, says the Young Inno∣cency,
+I don't yet know what it is to
+Blush, or what it is you mean by
+it!
+
+
+The Gentleman soon took the
+Hint, and whispering the Elder Sister
+in the Ear, she immediately sends
+Home the Young Ignorant Creature
+by her Footman, and Trig'd away
+Hand in Hand with the Gentleman.
+Her cunning Management, shew'd her
+an Experienc'd 
+Coquet,
+ who observ'd a
+sort of 
+Decorum,
+ to Usher in a greater
+Liberty.
+
+
+Every thing is managed in good
+Order, by a Woman that knows her
+Company, and understands her Busi∣ness.
+He that loses his Money out of
+Complaisance, yields place to him
+who lends the Lady his Coach to take
+the Air in. The Young 
+Heir
+ begins
+where the Ruin'd 
+Cully
+ ended. He
+that pays for the Collation, is suc∣ceeded
+by another that Eats it; and
+
+
+when my 
+Lord
+ comes in at the Gate,
+poor Sir 
+Iohn
+ must Scamper out at the
+Window.
+
+
+The Green Walk afforded us varie∣ty
+of Discourses from Persons of both
+Sexes. Here walk'd a Beau 
+Bare∣headed
+
+by a Company of the Com∣mon
+Profession in Dishabilie, and
+Night-Dresses; either for want of Day
+Cloths, or to shew they were ready
+for Business.
+
+
+Here walk'd a 
+French
+ Fop with both
+his Hands in his Pockets, carrying all
+his Pleated Coat before, to shew his
+Silk Breeches.
+
+
+There were a Cluster of Senators
+talking of State Affairs, and the Price
+of Corn, and Cattle, and were di∣sturb'd
+with the Noisy 
+Milk Folks,
+
+crying, 
+A Can of Milk, Ladies; a
+Can of Red Cows Milk, Sir.
+
+
+Here were a Beavy of Bucksom
+Lasses complaining of the Decay of
+Trade, and Monopilies; and there
+Vertuous Women, Railing against
+Whores, their Husbands, and Coquet∣try.
+
+
+And now being weary of Walking
+so long, we reposed our selves upon
+one of the Benches, and digesting se∣veral
+Dialogues between the Modest
+
+
+Ladies and Coquets, made this Ob∣servation.
+
+
+That tho' the 
+Coquets
+ were despised
+by the generality of 
+Ladies,
+ yet they
+immitate them to a Hairs Breadth in
+their whole Conduct. They learn of
+them the 
+Winning
+ Air, the 
+Bewitching
+
+Glance, the 
+Amorous
+ Smirk, and the
+
+Sullen
+ Pout. They 
+Talk,
+ and 
+Dress,
+
+and 
+Patch
+ like them: They must
+needs go down with the Stream. It
+is the Coquets that Invent the New
+Modes and Expressions; every thing
+is done for them, and by them; tho'
+with all these Advantages, there is a
+vast difference between the one and
+the other. The Reputation of Ver∣tuous
+Women is more solid; that of
+Coquets is more extended. But
+
+
+I am sensible I have made too long
+a stay in this part of my Voyage. A
+Man always Amuses himself longer
+with the 
+Women,
+ than he is willing.
+Well, since we are here, let's shew
+our 
+Indian
+ the Horse-Guards, the
+Country of Gallantry.
+
+
+In our Way thither, was nothing
+worth our Observation, unless 'twas
+the Bird-Cage, inhabited by Wild-Fowl;
+the Ducks begging Charity,
+the Black-Guard Boys robbing their
+
+
+own Bellies to relieve them, and an
+
+English Dog-Kennel
+ Translated into a
+
+French Eating-House.
+
+
+
+
+
+
+GALLANTRY.
+
+
+LET'S enter into this Brave Coun∣try,
+and see—: But what is
+there to be seen here? Gallantry and
+Bravery which was formerly so well
+Cultivated, so Flourishing and Fre∣quented
+by many Persons of Honour,
+is at present Desolate, Unmanur'd,
+and Abandoned! What a Desert 'tis
+become! Alass, I can see nothing in
+it but a Disbanned Soldier mounted
+upon a Pedestal, standing Centinel o∣ver
+the Ducks and Wild-Geese, and
+to prevent an Invasion by O—'s
+
+Spanish Pilgrims,
+ or 
+Webster
+'s 
+Darci∣nus.
+
+
+Why, says my 
+Indian,
+ is that a
+Soldier? He has ne'er a Sword, and
+is Naked.
+
+
+I suppose, reply'd I to the 
+Indian,
+
+since the Peace he has Pawn'd his
+Sword to buy him Food; and for his
+
+
+being Naked, who regards it? What
+signifies a 
+Soldier
+ in Time of 
+Peace?
+
+Pish, a Soldier Naked, is that such a
+Wonder? What are they good for
+else but Hanging, or Starving, when
+we have no occasion for them; as has
+been learnedly determined by the
+Author of that Original Amuse∣ment,
+
+Arguments against a Standing
+Army.
+
+
+Our God, and Soldier, we alike A∣dore,
+
+
+Iust at the Brink of Danger, not be∣fore;
+
+
+After Deliverance, they are alike re∣quited,
+
+
+Our God's Forgotten, and our Soldi∣er's
+Slighted.
+
+
+Come, this is a Melancholy Coun∣try,
+let's leave Amusing our selves
+about Gallantry and Bravery, and
+all at once, like Men that have no∣thing
+to Do, nor nothing to Have,
+take a Trip into the Land of Marri∣age,
+and see Who and Who are toge∣ther:
+But first, What are those Sol∣diers
+doing? They look like Brave
+Fellows.
+
+
+
+They are, (says I) drawn up to
+Prayers; and would be brave Men
+indeed, if they were half as good at
+Praying, and Fighting, as they are at
+Cursing and Swearing.
+
+
+
+
+
+
+
+
+
+
+Amusement VII.
+
+
+MARRIAGE.
+
+
+TIS a difficult Task to speak so
+of Marriage, as to please all
+People. Those who are not Noos'd
+in the Snare, will thank me for gi∣ving
+a Comical Description of it. The
+Grand Pox eat this Buffoon, says the
+Serious Wary Husband; if he was in
+my Place, he wou'd have no more
+Temptation to 
+Laugh,
+ than to Break
+his Neck. If I Moralize gravely up∣on
+the Inconveniences of Matrimony,
+those that have a Longing to enter in∣to
+that Honourable State, will com∣plain
+that I disswade them from so
+Charming a Condition. How then
+shall I order my Discourse? For I am
+in a great Perplexity about it.
+
+
+A certain Painter made a Picture of
+
+Hymen
+ for a young Lover. I wou'd
+have him drawn, says this Passionate
+
+
+Gentleman, with all the Graces your
+utmost Skill can bestow upon him:
+Above all, remember that 
+Hymen
+
+ought to be more Beautiful than 
+Ado∣nis:
+
+You must put into his Hands a
+Flambeau more Brillant than that of
+
+Love.
+ In short, give him all the
+Charms that your Imagination and
+Colours can bestow. I will pay you
+for your Picture, according as I find
+you use my Friend 
+Hymen.
+ The
+Painter who was well acquainted with
+his Generous Temper, was not want∣ing,
+you may be sure, to answer his
+Expectations, and brought him Home
+the Piece the Evening before he was
+Married. Our young Lover was not
+at all satisfied with it. This Figure,
+says he, wants a certain 
+Gay Air,
+ it
+has none of those 
+Charms
+ and 
+Agree∣ments.
+
+As you have Painted him, he
+makes but a very indifferent Appear∣ance,
+and therefore you shall but be
+indifferently paid.
+
+
+The Painter who had as much Pre∣sence
+of Mind, as Skill in his Profes∣sion,
+took a Resolution what to do
+that very Moment. You are in the
+right on't, Sir, said he, to find fault
+with my Picture, it is not yet dry:
+This Face is 
+Soak'd,
+ and to deal freely
+
+
+with you, the Colours I use in Paint∣ing,
+don't appear worth a Farthing at
+first. I will bring you this 
+Table
+
+some Months hence, and then you
+shall pay me, as you find it pleases
+you: I am confident it will appear
+quite another thing then. 
+Sir, your
+Humble Servant, I have no occasion for
+Money.
+
+
+The Painter carried his Piece Home;
+our young Lover was 
+Married
+ the
+next Day, and some Months went o∣ver
+his Head before the Painter ap∣pear'd.
+At last he brings the Picture
+with him, and our young Husband
+was surpriz'd when he saw it. You
+promis'd, says he, that time wou'd
+mend your Picture, and you are as
+good as your Word. Lord, what a
+difference there is? I swear I scarce
+know it now I see it again. I admire
+to see what a strange effect a few
+Months have had upon your Colours;
+but I admire your Ingenuity much
+more. However, Sir, I must take
+the freedom to tell you, That in my
+Opinion his Looks are somewhat of
+the 
+Gayest,
+ these 
+Eyes
+ are too Brisk
+and Lively: Then to deal plainly
+with you, the 
+Fires
+ of 
+Hymen
+ ought
+not to be altogether so bright as those
+
+
+of 
+Love;
+ for his is a Solid but Hea∣vy
+Fire. Besides, the Disposition of
+your Figure, is somewhat to 
+Free,
+ and
+
+Chearful,
+ and you have given him a
+certain Air of Wantonness, which let
+me tell you, Sir, does not at all sit
+well upon. .… In short, this is
+none of 
+Hymen.
+
+
+Very well, Sir, said the Painter;
+what I foresaw is now come to pass.
+
+Hymen
+ at present is not so beautiful in
+your Idea, as in my Picture. The
+Case is mightily alter'd from what it
+was three Months ago. 'Tis not my
+Picture, but your Imagination that is
+changed: You were a Lover then, but
+now a Husband.
+
+
+I understand you very well, says
+the Husband interrupting him, 
+Let us
+drop that Matter.
+ Your Picture now
+pleases, and here is more Money for
+it than you could reasonably have ex∣pected.
+By no means says the Pain∣ter,
+you must excuse me there; but I
+will give you another Picture, where∣in
+by certain 
+Optick Rules
+ and Perspe∣ctives,
+it shall be so contrived, as it
+shall please both the 
+Lovers
+ and the
+
+Husbands,
+ and perform'd it according∣ly,
+placing it at the end of a Long-Gallery,
+upon a kind of an Alcove;
+
+
+and to come to this Alcove, one must
+first pass over a very Slippery Step.
+On this side of it was the Critical
+Place where the Piece look'd so Love∣ly
+and Delicious; but as soon as you
+were gone beyond it, it made a most
+lamentable Figure.
+
+
+If you understand how difficult a
+thing it is to paint 
+Matrimony
+ to the
+Gust of all People, pray suspend your
+Censure here, I am going to Present
+my Picture, chuse what Light you
+please to view it in.
+
+
+To come back to my Travelling
+Stile, I must tell you at first Dash that
+
+Marriage
+ is a Country that Peoples all
+others: The 
+Commonalty
+ are more
+fruitful there than the 
+Nobility,
+ the
+reason of which perhaps is, That the
+Nobility take more delight to Ram∣ble
+Abroad, than stay at Home. Mar∣riage
+has this peculiar Property an∣next
+to it, that it can alter the Hu∣mours
+of those that are setled in it.
+It frequently transforms a Jolly Fel∣low
+into a Meer 
+Sot,
+ it often melts
+down a 
+Beau
+ into an errant 
+Sloven;
+
+and on the other Hand it so happens
+sometimes, that a 
+Witty
+ Vertuous
+Woman will improve a 
+Dull
+ Heavy
+
+
+Country 
+Booby,
+ into a Man of Sence
+and Gallantry.
+
+
+People Marry for different Mo∣tives:
+Some are lead by Portion, and
+others by Reason; the former with∣out
+knowing what they are going to
+do, and the latter knowing no more,
+but that the thing must be done.
+
+
+There are Men in the World so
+weary of Quiet and Indolence, that
+they Marry only to divert themselves.
+In the first place the 
+Choice
+ of a Wo∣man
+employs them for some time:
+Then Visits and Interviews, Feasts
+and Ceremonies; but after the last
+Ceremony is over, they are more Ti∣red
+and Weary than ever.
+
+
+How many Hundred Married Cou∣ples
+do we see, who from the second
+Year of their coming together, have
+nothing more in Common than their
+Names, their Quality, their Ill Hu∣mour
+and their Misery.
+
+
+I don't wonder there are so many
+Unhappy Matches, since Folks Masry
+rather wholly of their own Heads, or
+wholly by those of others. A Man
+that Marries of his own Head, not
+seeing that in his 
+Spouse,
+ which all the
+World sees in her, is in danger of see∣ing
+
+
+much more in her, than others e∣ver
+did.
+
+
+Another that has not Courage e∣nough
+to trust his own Judgment,
+fairly applies himself to the next
+
+Match-Maker
+ in the Neighbourhood,
+who knows to a Tittle the exact Rates
+of the Market, and the Current Price
+of Young Women that are fit to Mar∣ry.
+These Marriage 
+Hucksters,
+ or
+
+Wife-Brokers,
+ have an admirable Ta∣lent
+to sort Conditions, Families,
+Trades, and Estates: In short, every
+thing together, except Humours and
+Inclinations, about which they never
+trouble themselves.
+
+
+By the Procurement of these expe∣rienc'd
+Matrons, a Marriage is struck
+up like a 
+Smithfield
+ Bargain: There is
+much Higling and Wrangling for t' o∣ther
+Ten Pound. One side endeavours
+to raise, and the other to beat down
+the Market Price. At last, after a
+World of Words spent to fine purpose,
+they come to a Conclusion.
+
+
+Others that have not time to Truck
+and Bargain so, go immediately to a
+Scrivener's to find out a 
+Rich Widow,
+
+as they go to the Office of Intelli∣gence
+to hearken out a Service.
+
+
+
+It is not altogether the Match-ma∣kers
+Fault, if you are deceived in
+your Woman. She gives you an ac∣count
+of her 
+Portion
+ to a Farthing▪
+You examine nothing but the Arti∣cles
+relating to the 
+Family
+ and the 
+For∣tune;
+
+the Woman is left in the Mar∣gin
+of the Inventory, and you find
+her too much at long run.
+
+
+After all that I have said, I am not
+afraid to advance this Proposition; that
+
+'tis possible for those that Marry to be
+Happy.
+ But you must call it Truck∣ing
+or Bartering, and not Marrying, to
+take a Woman meerly for her Fortune,
+and reckon her Perfections by the
+Number of 
+Pounds
+ she is like to bring
+with her. Not is it to Marry but to
+Please one's self, to choose a Wife as
+we do a 
+Tulip,
+ meerly for her Beau∣ty.
+It is not to Marry, but to 
+Doat
+
+at a certain Age, to take a 
+Young
+Woman
+ only for the sake of her Com∣pany.
+
+
+What is it then to be Marry'd?
+Why, 'tis to choose with Circumspe∣ction,
+and Deliberation, by Inclinati∣on,
+and not by Interest, such a Wo∣man
+as will chuse you after the same
+manner.
+
+
+
+Besides other things in common
+with all the World, the Country of
+
+Marriage
+ has this Particular to it self;
+That Strangers have a desire to Settle
+there, and the Natural Inhabitants
+wou'd be Banish'd out of it with all
+their Hearts.
+
+
+A Man may be Banish'd out of this
+Country by certain things call'd 
+Sepa∣ration;
+
+but the true way of getting
+out of it is by Widdow-hood, and is
+much to be preferred before Separati∣on;
+for the Separated are 
+Savage
+ Ani∣mals,
+uncapable of the prettiest Ties
+of Society. The usual Causes of Se∣paration
+is assign'd as the Fault of the
+Wife, but often the Husband is the
+occasion that the Wife is in the
+Fault; and he himself is a Fool to pro∣claim
+to the World that his Wife has
+made a false Step.
+
+
+It will be expected now, that I speak
+a few Words of Widdowhood. 'Tis
+a Copious and Fertile Subject that's
+certain; but a Man may burn his Fin∣gers
+by medling with it. For if I de∣scribe
+them but as little concern'd for
+the Death of their Husbands, I shall
+offend the Rules of Decency and good
+Manners, and if I exaggerate their
+Afflictions, I shall offend the Truth.
+
+
+
+Whatever our Railers pretend to
+the contrary, I say there's no Wid∣dowhood
+without a sprinkling of Sor∣row
+in it. Is it not a very Sorrowful
+Condition to be obliged to Counter∣feit
+a perpetual Sorrow? A very
+Doleful Part this, that a Widdow
+must plhy, who would not give the
+World occasion to Talk of her.
+
+
+There are some Widdows in the
+World so mightily befriended by Pro∣vidence,
+that their Sighs and Tears
+cost them nothing I know one of a
+contrary Temper to this, who did ho∣nestly
+all that in her lay to afflict her
+self; but Nature it seems had denied
+her the Gift of Tears. She desir'd
+to raise the Compassion of her Hus∣band's
+Relations, for her All depend∣ed
+on them.
+
+
+One Day her Brother-in-Law, who
+lamented exceedingly, reproach'd her
+for not having shed one Tear. Alass,
+reply'd the Widow to him, my Poor
+Heart is so over-whelm'd with this
+unexpected Calamity, that I am, as
+it were become insensible by it. Great
+Sotrows are not felt at first; but I
+am sure mine will Kill me in the
+End.
+
+
+
+I know very well, said her Brother-in-Law
+to her, that Griefs too great
+don't make themselves at first to be
+perceived; and I know as well, that
+Violent Griefs don't continue long.
+Thus, Madam, you will be strangely
+surprized, that the Grief of your
+Widdowhood will be past before you
+are aware.
+
+
+Another Widow was reduced to the
+last pitch of Despair, nor was it without
+a very Sorrowful Occasion. She had
+lost upon the same Day the 
+Best Hus∣band,
+
+and the prettiest little 
+Lap-Dog
+
+in 
+London.
+ This double Widdowhood
+had brought her to so low a Conditi∣on,
+that her Friends were afraid of her
+Life. They durst not speak to her of
+Eating and Drinking; nay, they durst
+not so much as offer to Comfort her.
+'Tis a dangerous Matter, you know,
+to combat a Woman's Grief. The
+best way is to let Time and their Natu∣ral
+Inconstancy work it off. Howe∣ver
+to accustom our Widdow by little
+and little to support the Idea of her
+Two Losses, a Good Friend spoke to
+her first of her 
+Little Dog.
+ At the
+bare Name of 
+Dony,
+ there was such a
+Howling and Crying, such Tearing of
+Hair, and Beating of Breasts; in
+
+
+short, such a Noise, and such a Pother,
+that one would have thought Heaven
+and Earth had been coming together▪
+At last she fainted away. Well, says
+this Prudent Friend of hers, God be
+prais'd I was so happy as not to men∣tion
+her 
+Husband
+ to her, for then
+she had certainly Died upon the
+Spot.
+
+
+The next Day the Name of 
+Dony
+
+set her Tears a running in so great
+plenty, that it was hoped the Spring
+would stop of it self, and the above-mentioned
+Zealous Friend, thought
+she might now venture to administer
+some Consolation to her.
+
+
+Alass, says she, if the bare Name
+of 
+Dony
+ gives you so much Affliction,
+what might we not fear from you,
+should we talk to you of your 
+Dear
+Husband?
+ But God forbid I should do
+that. 
+Ah Poor Dony!
+ To be Mow'd
+down thus in the Flower of Youth
+and Beauty! Well, 
+Madam,
+ you'll
+never have such another pretty Crea∣ture
+again. But 'tis happy for the
+
+Dog
+ that he's Dead, for you cou'd ne∣ver
+have Lov'd him longer that's cer∣tain!
+Is it possible for a Woman to
+love any thing after she has lost her
+Husband?
+
+
+
+After this manner it was that this
+
+Discreet
+ Gentlewoman very dexterous∣ly
+mingled the Idea of the 
+Husband
+
+with that of 
+Dony,
+ well knowing that
+as two Shoulders of Mutton drive
+down one another, so two powerful
+Griefs destroy one another by making
+a Diversion. She observed that at the
+Name of 
+Dony,
+ her Tears redoubled,
+which stopt short at the Name of 
+Hus∣band:
+
+It was without question, a sort
+of a 
+Qualm.
+ Every Body knows that
+Tears are a Tribute we owe, and on∣ly
+pay to ordinary Griefs. However
+it was, our poor Afflicted Widow pas∣sed
+several Days and Nights in this
+sad Alternative of Weeping for her
+
+Dog,
+ and Lamenting her 
+Husband.
+
+
+At last her Good Friend enquired
+all over the Town for a 
+Pretty Dog;
+
+and it was her good Luck to light up∣on
+one much Finer and Prettier than
+
+Dony of Happy Memory,
+ and presented
+it to our Widdow, who burst into a
+fresh Stream of Tears as she accepted
+it. This Beautiful New-comer, so
+strangely insinuated himself into her
+Good Affections, that within Eight
+Days he had got the Ascendant of her
+Heart, and 
+Dony
+ was no more thought
+of, then if he had never had a Being
+
+
+there. Observe now what a Conse∣quence
+our Widows Friend drew from
+it.
+
+
+If a New 
+Dog
+ has put a stop to her
+
+Tears,
+ perhaps a New 
+Husband
+ will
+have the same Operation upon her
+
+Qualms.
+ But Alass, the one was not
+to be so easily effected as the other.
+The New 
+Dog
+ so play'd his Cards,
+that he effaced the Memory of his
+Predecessors in Eight Days; but it
+was above 
+Three
+ Long Tedious
+Months, before our Widow could be
+brought to take a New 
+Husband
+ into
+her Bed.
+
+
+Now tho' I left my self full power
+to drop my 
+Indian
+ Traveller as often
+as I saw convenient, yet I have no in∣tention
+to lose him out of my Sight;
+for I have occasion for him to autho∣rize
+certain Odd Fances that come into
+my Head, concerning 
+Philosophy
+ and
+
+Physick,
+ which are the next Countries
+I design to visit.
+
+
+
+
+
+
+
+
+Amusement VIII.
+
+
+The Philosophical, or Vir∣tuosi
+Country.
+
+
+IN this Country every thing is ob∣scure,
+their Habitations, their
+Looks, their Language, and their
+Learining. 'Tis a long time ago since
+they undertook to cultivate the Coun∣try
+of 
+Science;
+ but the only Thing
+they have made clear and undeniable,
+is, that One and One makes Two:
+And the Reason why this is so 
+clear,
+ is
+because it was known by all Men be∣fore
+they made a 
+Science
+ of it.
+
+
+Their 
+Geometricians
+ work upon so
+solid a Foundation, that as soon as e∣ver
+they have well laid the first Stone,
+they carry on their Buildings without
+the least fear, so high as the 
+Atmo∣sphere;
+
+but their 
+Philosophers
+ build
+those haughty Edifices they call Sy∣stems,
+upon a quite different Bottom.
+
+
+
+They lay their Foundation in the
+Air, and when they think they are
+come to solid Ground, the Building
+disappears, and the Architects tum∣ble
+down from the Clouds.
+
+
+This Country of 
+Experimental Phi∣losophy,
+
+is very Amusing, and their
+Collections of 
+Rarities
+ exceeds that
+of 
+Iohn Tradusken,
+ for here are the
+Galls of Doves, the Eye-Teeth of
+Flying Toads, the Eggs of Ants, and
+the Eyes of Oysters. Here they weigh
+the 
+Air,
+ measure 
+Heat, Cold, Dryness,
+
+and 
+Humidity,
+ great Discoveries for
+the publick advantage of Mankind.
+Without giving our selves the trouble
+to make use of our Senses, we need
+but only cast our Eyes upon a Wea∣ther-Glass,
+to know if 'tis Hot or
+Cold, if it Rains, or is Fair Wea∣ther.
+
+
+Tempted by these Noble Curiosi∣ties,
+I desired the favour of seeing
+some of the Gentlemen they called
+Improvers of Nature, and immediate∣ly
+they shewed me an Old Bard cut∣ting
+Asp Leaves into Tongues, which
+were to be fastened in the Mouths of
+Flowers, Fruits, Herbs, and Seeds,
+with design to make the whole Crea∣tion
+Vocal. Another was Dissecting
+
+
+Atomes, and Mites in Cheese, for the
+improvement of the Anatomical Sci∣ence,
+and a third was transfusing the
+Blood of an 
+Ass
+ into an 
+Astrological
+Quack;
+ of a 
+Sheep
+ into a 
+Bully;
+ and
+of a 
+Fish
+ into an 
+Exchange-Woman,
+
+which had all the desired Effects; the
+
+Quack
+ prov'd a 
+Sot,
+ the 
+Bully
+ a 
+Cow∣ard,
+
+and the 
+Tongue-Pad
+ was 
+Silent.
+
+All Prodigies in Nature, and none
+miscarried in the Operation.
+
+
+In another Apartment were a curi∣ous
+Collection of 
+Contemplative
+ Gen∣tlemen,
+that had their Employments
+severally assign'd them. One was
+Chewing the Cud upon Dr. 
+Burnet
+'s
+
+New System of the World,
+ and making
+Notes upon it in Consutation of 
+Moses
+
+and all the Antidiluvian 
+Historians.
+
+Another was Reconciling the Diffe∣rences
+among 
+Learned Men,
+ as between
+
+Aristotle
+ and 
+Des Cartes, Cardan
+ and
+
+Copernicus, William Penn
+ and 
+Christia∣nity,
+
+Mr. 
+Edwards
+ and 
+Arabick:
+ De∣termining
+the Controversy between
+the 
+Acidists
+ and 
+Alkalists,
+ and putting
+a Period to the Abstruse Debates be∣tween
+the 
+Engineers
+ and 
+Mouse-Trap
+Makers.
+
+
+
+If any one ask me, which of these
+Disputants has Reason of his side, I
+will say that some of them have the
+
+Reason of Antiquity,
+ the other 
+the Rea∣son
+of Novelty;
+ and in Matters of O∣pinion,
+these two Reasons have a
+greater influence upon the Learned,
+than Reason it self.
+
+
+Those that set up for finding the
+North-West Passage into the Land of
+
+Philosophy,
+ would with all their Hearts,
+if it were possible, follow these two
+Guides all at once, but they are afraid
+to travel in a Road where they talk of
+nothing but 
+Accidents
+ and 
+Privation,
+Hecceities
+ and 
+Entelechias.
+ Then they
+find themselves all on the sudden sei∣zed
+with Hot and Cold, Dry and
+Moist, penetrated by a subtile Mat∣ter,
+encompassed with 
+Vortexes,
+ and
+so daunted by the fear of a 
+Vacuum,
+
+that it drives them back, instead of
+encouraging them to go forward.
+
+
+A Man need not lay it much to
+Heart that he never Travel'd through
+this Country; for those that have
+not so much as beheld it at a distance,
+know as much of it almost, as these
+that have spent a great deal of Mo∣ney
+and Time there; but one of their
+Arts I admire above all the rest, and
+
+
+that is, when they have Consumed
+their Estates in trifling Experiments, to
+perswade themselves they are now
+as Rich, and Eat and Drink as Luxu∣riously
+as ever; they view a single
+Shilling in a Multiplying Glass, which
+makes it appear a Thousand, and
+view their Commons in a Magnifying
+Glass, which makes a Lark look as
+big as a Turkey-Cock, and a Three-penny
+Chop as large as a Chine of
+Mutton.
+
+
+Before I let my Traveller pass from
+this place to 
+Physick,
+ 'twill not be a∣miss
+to make him remark, That in the
+Country of 
+Science
+ and the 
+Court,
+ we
+lose our selves; that we don't search
+for our selves in 
+Marriage;
+ that in the
+
+Walks
+ and among 
+Women
+ we find our
+selves again; but seldom or never
+come back from the Kingdom of 
+Phy∣sick.
+
+
+
+
+
+
+
+
+Amusement IX.
+
+
+PHYSICK.
+
+
+THE first thing remarkable in the
+Country of 
+Physick,
+ is, that it
+is situate upon the 
+Narrow
+ Passage
+from this World to the other. 'Tis a
+Clymaterick Country, where they
+make us Breath a Refreshing Air, but
+such a one as is a great Enemy to the
+Natural Heat, and those that Travel
+far in this 
+Climate,
+ throw away a
+World of Money in Drugs, and at
+last Die of Hunger.
+
+
+The Language that is spoken here,
+is very Learned; but the People that
+speak it are very Ignorant.
+
+
+In other Countries we learn Lan∣guages
+to be able to express what we
+know in clear and intelligible Terms;
+but it looks as if 
+Physicians
+ learnt their
+Gibberish for no other purpose, than
+
+
+to embroil what they do not under∣stand.
+
+
+How I pitty a Patient of good
+Sence that falls into their Hands? He
+is obliged at once to Combat the Ar∣guments
+of the Doctor, the Disease it
+self, the Remedies, and Emptiness.
+One of my Friends, whom all this to∣gether
+had thrown into a 
+Dilyrium,
+ had
+a Vision in his Fever which sav'd him
+his Life. He fancied he saw a Feaver
+under the Shape of a Burning Mon∣ster,
+that press'd hard upon a Sick
+Man, and every Minute got Ground
+of him, till a Man who look'd like a
+
+Guide,
+ came and took him by the 
+Wrist
+
+to help him over a River of Blood.
+The poor Patient had not Strength e∣nough
+to cross the Stream and so was
+Drown'd. The 
+Guide
+ used means to
+get himself paid for his Pains, and
+immediately run after another Sick
+Man, who was carried down a Stream
+of 
+Carduus
+ Posset-Drink, Barly-Broth,
+and Water-Gruel. My Friend advi∣sed
+by this Vision, discarded his 
+Do∣ctor,
+
+and 'twas this that did his Busi∣ness;
+for when he was by himself,
+there was no Body to hinder him from
+recovering. The Absence of Physi∣cians,
+is a Soveraign Remedy to
+
+
+him that has not Recourse to a
+Quack.
+
+
+These Gentlemen of the 
+Faculty,
+
+are Pensioners to 
+Death,
+ and Travel
+Day and Night to enlarge that Mo∣narch's
+Empire; for you must know,
+notwithstanding Distemper'd Humours
+make a Man Sick, 'tis the 
+Physician
+
+that has the Honour of Killing him,
+and expects to be well paid for the
+Job, by his Relations that lay in wait
+for his Life to share his Fortune: So
+that when a Man is ask'd how such a
+one Died, he is not presently to an∣swer
+according to Corrupt Custome,
+that he Died of a Feaver or Pleurisy;
+but that he Died of the 
+Doctor.
+
+
+See a Consult of them marching in
+State to a Patient, attended by a Di∣minitive
+
+Apothecary,
+ that's just Arse
+high, and fit to give a Clyster. How
+Majesterially they look, and talk of
+the Patient's Recovery, when they
+themselves are but 
+Death
+ in a Disguise,
+and bring the Patient's 
+Hour
+ along
+with them. While the Patient breaths
+and Money comes, they are still Pre∣scribing;
+but when they have sent
+the Patient hence, like a 
+Rat
+ with a
+Straw in's Arse; they'll say his Body
+was as Rotten as a Pear, and 'twas im∣possible
+
+
+to Save him. 
+Cruel
+ People,
+that are not contented to take away a
+Man's Life, and like the 
+Hangman,
+
+be Paid when they have done; but
+must Persecute him in the Grave too;
+and Blast his Honour, to excuse their
+Ignorance.
+
+
+It were to be wish'd that every
+Physician might be obliged to Mar∣ry;
+for its highly reasonable, that
+those Men should beget Children to
+the State, who every Day rob the
+King of so many of his Subjects.
+
+
+In this Land of 
+Physick
+ they have
+erected themselves a 
+College,
+ for the
+Improvement of the Mystery of
+
+Man-Slaughter;
+ which may be call'd
+their 
+Armory;
+ for here are their Wea∣pons
+and Utensils forged, and a Com∣pany
+of Men attending to Kill Poor
+Folks out of meer Charity.
+
+
+In one part of their Convent, is a
+
+Chymical Elabaratory,
+ where some
+were Calcining Calves-Brains, to sup∣ply
+those of the 
+Society
+ that wanted.
+Some fixing Volatile Wits, and others
+Rarifying Dull ones. Some were
+playing Tricks with 
+Mercury,
+ promi∣sing
+themselves vast Advantages from
+the Process; but after they had Re∣solv'd
+the 
+Viscous
+ Matter, and brought
+
+
+the 
+Materia Prima
+ into the 
+Coppel,
+ all
+went away in a Fume, and the Ope∣rator
+had his Labour for his Tra∣vel.
+
+
+In another place were 
+Apothecaries
+
+preparing 
+Medicines.
+ The Outsides
+of their Pots were Gilded, with the
+Titles of Preservatives, Cordials, and
+Panpharmacons; but in the Inside
+were Poysons, or more Nauseous Pre∣parations.
+However of all our late
+pretended Aschimists, commend me
+to the Apothecaries, as the Noblest
+
+Operators
+ and 
+Chimists;
+ for out of
+Toads, Vipers, and a 
+Sir Reverence
+it self,
+ they will fetch ye Gold ready
+Minted, which is more than ever 
+Pa∣racelsus
+
+himself pretended to.
+
+
+Here were also Chirurgeons in great
+Numbers, talking hard Words to their
+Patients, as Solution of Continuity,
+Dislocations, Fractures, Amputation,
+Phlebotomy, and spoke 
+Greek
+ Words,
+without understanding the 
+English
+ of
+them. One of the Gravest among
+them, propounded this Question to
+the rest. Suppose a Man falls from
+the 
+Main-Yard,
+ and lies all Bruised up∣on
+the 
+Deck;
+ Pray what is the 
+First
+Intention
+ in that Case? A Brisk Fel∣low
+answers: You must give him
+
+
+
+Irish
+ Slate 
+quantum sufficit,
+ and Embro∣cate
+the Parts affected 
+Secundum Ar∣tem.
+
+At which I seeming to Smile,
+another Reprimands me, saying, 
+What
+do you Laugh at, Sir, the Man's i'th
+right on't.
+ To whom I reply'd, With
+Reverence to your Age and Under∣standing,
+Sir, I think he's in the 
+wrong;
+
+for if a Man falls from the Main-Yard,
+the first Intention is, 
+To take
+him up again.
+
+
+Among all these People every thing
+is made a Mystery, to detain their
+Patients in Ignorance, and keep up
+the Market of Physick; but were not
+the very Terms of Art, and Names
+of their Medicines sufficient to fright
+away any Distempers, 'tis to be fear∣ed
+their 
+Remedies
+ would prove worse
+than the 
+Disease.
+
+
+That nothing might be wanting in
+this Famous College, there were others
+that like Porters and Plaisterers stood
+ready to be Hired, as 
+Corn-Cutters,
+
+and 
+Tooth-Drawers.
+ The One of
+which will make you Halt before the
+best Friend you have; and if you do
+but 
+Yawn,
+ the other Knaves will be
+examining your 
+Grinders;
+ Depopu∣late
+your Mouths, and make you Old
+before your time, and take as much
+
+
+for Drawing out an Old Tooth, as
+would buy a Sett of New ones.
+
+
+An Ill Accident happened while we
+were viewing the Curiosities of this
+College. A 
+Boy
+ had swallowed a
+Knife, and the Members of the Col∣lege
+being sitting, he was brought a∣mong
+them, if it were possible to be
+Cured. The 
+Chirurgeons
+ claim'd the
+Patient as belonging to their Fraterni∣ty,
+and one of them would have been
+poking a Cranes Bill down his Throat
+to pluck it up again, but the Doctors
+would not suffer him.
+
+
+After a long Consultation, one of
+the two Remedies was agreed on,
+
+viz.
+ That the Patient should swallow
+as much 
+Aqua fortis,
+ as would dissolve
+the Knife into Minute Particles, and
+bring it away by Seige; but the other
+Remedy was more Philosophical, and
+therefore better approv'd, and that
+was to apply a 
+Loadstone
+ to his Arse,
+and so draw it out by a 
+Magnetick
+
+Attraction; but which of the two was
+put in practice I know not, for I did
+not stay to see the Noble Experiment,
+tho' my particular Friend Dr. 
+W—d
+
+was the first that proposed that Reme∣dy,
+and he is no Quack I assure
+you.
+
+
+
+Not but that there are some Quacks
+as Honest Fellows as you would de∣sire
+to Piss upon. This Foreigner
+here for instance, is a Man of Consci∣ence,
+that will take you but Half a
+Crown a Bottle for as good 
+Lambs-Conduit
+
+Water as ever was in the
+World. He pretends it has an Oc∣cult
+Quality that Cures all Distem∣pers.
+He Swears it, and Swears like
+
+T. O.
+ on the right side of the Hedge,
+since this very Individual Water has
+Cured him of Poverty, which com∣prehends
+all Diseases.
+
+
+'Tis with Physicians in 
+London,
+ as
+with Almanacks, the Newest are the
+most Consulted; but then their Reign
+like that of an Almanack, concludes
+with the Year.
+
+
+When a Sick Man leaves all for
+
+Nature
+ to do, he hazards much. When
+he leaves all for the Doctor to do,
+he hazards more: And since there
+is a Hazard both ways, I would
+much sooner chuse to rely upon 
+Na∣ture;
+
+for this, at least, we may be
+sure of, That she acts as Honest∣ly
+as she can, and that she does not
+find her Account in prolonging the
+Disease.
+
+
+
+I pardon those that are brought to
+the Extremity of their Lives, to Re∣sign
+themselves to the Doctors, as I
+pardon those that are at the Extremi∣ty
+of their Fortune to abandon them∣selves
+to 
+Poetry,
+ or 
+Gaming,
+
+
+
+
+
+
+
+
+Amusement X.
+
+
+
+
+Gaming-Houses.
+
+
+GAMING is an Estate to which
+all the World has a Pretence,
+tho' few espouse it that are willing to
+keep either their Estates, or Reputa∣tions.
+I knew two 
+Middlesex Sharp∣ers
+
+not long ago, which Inherited a
+West-Country Gentlemen's Estate;
+who, I believe, wou'd have never
+made them his Heirs in his last Will
+and Testament.
+
+
+Lantrillou
+ is a kind of a Republick
+very ill ordered, where all the World
+are Hail Fellow well met; no distin∣ction
+of Ranks, no Subordination ob∣served.
+The greatest Scoundrel of the
+Town with Money in his Pockets,
+shall take his Turn before the best
+Duke or Peer in the Land, if the
+Cards are on his side.
+
+
+
+From these Priviledg'd-Places, not
+only all Respect and Inferiority is Ba∣nish'd;
+but every thing that looks
+like Good Manners, Compassion, or
+Humanity: Their Hearts are so Hard
+and Obdurate, that what occasions
+the Grief of one Man, gives Joy
+and Satisfaction to his next Neigh∣bour.
+
+
+The 
+Gracians
+ met together in for∣mer
+Times, to see their Gladiators
+shew their Valour; that is, to Slash
+and Kill one another; and this they
+called Sport? What a Cursed Barbari∣ty
+was this? But are we a Jot Inferi∣our
+to them in this respect, who Chri∣sten
+all the Disorders of 
+Lansquenet
+ by
+the Name of Gaming, or to use the
+Gamesters own Expression, where a
+Parcel of 
+Sharks
+ meet, 
+To Bite one a∣nothers
+Heads off.
+
+
+It happened one Day, that my
+Traveller dropt into a Chocolate-House
+in 
+Covent-Garden,
+ where they
+were at this Noble Recreation. He
+was wonderfully surprized at the Od∣ness
+of the Sight. Set your self now
+in the room of a Superstitious 
+Indian,
+
+who knows nothing of our Customs
+at Play, and you will agree that his
+Notions, as Abstracted and Visionary
+
+
+as they may seem, have some Foundati∣ons
+in Truth. I present you here with
+his own Expressions as I found them
+set down in a Letter which he sent in∣to
+his own Country.
+
+
+
+
+
+
+The Fragments of an Indian
+Letter.
+
+
+THE 
+English
+ pretend that they
+they Worship but one God, but
+for my Part, I don't believe what
+they say: For besides several Living
+Divinities, to which we may see them
+daily offer their Vows, they have se∣veral
+other Inanimate ones to whom
+they pay Sacrifices, as I have obser∣ved
+at one of their Publick Meetings,
+where I happened once to be.
+
+
+In this Place there is a great Altar
+to be seen, built round and covered
+with a Green Whachum, lighted in
+the midst, and encompassed by seve∣ral
+Persons in a sitting Posture, as we
+do at our Domestick Sacrifices.
+
+
+
+At the very Moment I came into
+the Room, one of those, who I sup∣posed
+was the 
+Priest,
+ spread upon the
+Altar certain Leaves which he took out
+of a little Book that he held in his
+Hand. Upon these Leaves were re∣presented
+certain Figures very aw∣kardly
+Painted; however they must
+needs be the Images of some Divini∣ties;
+for in proportion as they were
+distributed round, each one of the
+Assistants made an Offering to it,
+greater or less, according to his De∣votion.
+I observed that these Offer∣ing
+were more considerable than
+those they make in their other Tem∣ples.
+
+
+After the aforesaid Ceremony is o∣ver,
+the Priest lays his Hand in a
+trembling manner, as it were, upon
+the rest of the Book, and continues
+some time in this posture seized with
+Fear, and without any Action at all:
+All the rest of the Company, atten∣tive
+to what he does, are in Suspence
+all the while, and unmovable, like
+himself. At last every Leaf which
+he returns to them, these unmovable
+Assistants are all of them in their
+Turn possest by different Agitations,
+according to the 
+Spirit
+ which happens
+
+
+to seize them: One joyns his Hands
+together, and 
+Blesses Heaven,
+ another
+very earnestly looking upon his I∣mage,
+
+Grinds his Teeth;
+ a third 
+Bites
+his Fingers and stamps upon the Ground
+with his Feet.
+ Every one of them, in
+short, make such extraordinary Po∣stures
+and Contortions, that they
+seem to be no longer Rational Crea∣tures.
+But scarce has the Priest re∣turned
+a certain Leaf, but he is like∣wise
+seised by the same Fury with the
+rest. 
+He tears the Book, and devours
+it in his Rage, throws down the Altar,
+and Curses the Sacrifice.
+ Nothing now
+is to be heard but 
+Complaints
+ and
+
+Groans, Cries
+ and 
+Imprecations.
+ See∣ing
+them so Transported, and so Fu∣rious,
+I judge that the God they Wor∣ship
+is a Jealous Deity, who to Punish
+them for what they Sacrifice to others,
+sends to each of them an Evil 
+Demon
+
+to Possess him.
+
+
+I have thus shewed you what Judg∣ment
+an 
+Indian
+ would be apt to pass
+upon the Transports he finds in our
+Gamesters. What wou'd he not
+have thought then, if he had seen a∣ny
+of our 
+Gaming Ladies
+ there.
+
+
+
+'Tis certain that Love it self as ex∣travagant
+as it is, never occasion'd so
+many Disorders among the Women,
+as the unaccountable Madness of 
+Ga∣ming.
+
+How come they to abandon
+themselves thus to a Passion that dis∣composes
+their Minds, their Healths,
+their Beauty, that Ruines—What
+was I going to say? But this Picture
+does not shew them to Advantage,
+let us draw a Curtain over it.
+
+
+In some Places they call Gaming-Houses
+
+Academies;
+ but I know not
+why they should inherit that Honou∣rable
+Name, since there's nothing to
+be learn'd there, unless it be 
+Slight of
+Hand,
+ which is sometimes at the Ex∣pence
+of all our Money, to get that
+of other Mens by Fraud and Cun∣ning.
+
+
+The Persons that meet are general∣ly
+Men of an 
+Infamous
+ Character, and
+are in various Shapes, Habits, and
+Employments. Sometimes they are
+Squires of the 
+Pad
+ and now and then
+borrow a little Money upon the 
+King's
+High-Way,
+ to recruit their Losses at
+the 
+Gaming-House,
+ and when a Hue
+and Cry is out, to apprehend them,
+they are as safe in one of these Hou∣ses,
+as a 
+Thief in a Mill,
+ and practise
+
+
+the old Trade of 
+Cross-biting Cullies,
+
+assisting the Frail 
+square Dye
+ with
+high and low 
+Fullums,
+ and other 
+Nap∣ping
+
+Tricks, in comparison of whom
+the common Bulkers, and Pick-Pock∣ets,
+are a very honest Society.
+
+
+How unaccountable is this way to
+
+Beggary,
+ that when a Man has but a
+little Money, and knows not where
+in the World to compass any more,
+unless by hazarding his 
+Neck
+ for't,
+will try an Experiment to leave him∣self
+none at all: Or, he that has
+Money of his own, should play the
+Fool, and try whether it shall not be
+another Man's. Was ever any thing
+so Nonsensically Pleasant?
+
+
+One idle day I ventur'd into one
+of these 
+Gaming
+-Houses, where I
+found an 
+Oglio of Rakes
+ of several
+Humours, and Conditions met toge∣ther.
+Some that had lost were Swear∣ing,
+and Damning themselves, and
+the 
+Devil's Bones,
+ that had left them
+never a Penny to bless their Heads
+with. One that had play'd away
+even his Shirt and Cravat, and all
+his Clothes but his Breeches, stood
+shivering in a Corner of the Room,
+and another comforting him, and
+saying, 
+Damme
+ Jack, who ever thought
+
+
+to see thee in a State of Innocency:
+Cheer up, Nakedness is the best Re∣ceipt
+in the World against a Fevor,
+and then fell a Ranting, as if Hell
+had broke loose that very Moment.
+
+
+What the Devil have we here to
+do, says my 
+Indian,
+ do's it Rain
+Oaths and Curses in this Country?
+I see Gamesters are Shipwrackt be∣fore
+they come to understand their
+Danger, and loose their 
+Clothes
+ be∣fore
+they have paid their 
+Taylors.
+
+They should go to School in my
+Country to learn Sobriety and Ver∣tue.
+I told him, instead of 
+Acade∣mies,
+
+these Places should be call'd
+
+Cheating-Houses:
+ Whereupon a Bully
+of the 
+Blade
+ came strutting up to my
+very Nose, in such a Fury, that I
+would willingly have given half the
+Teeth in my Head for a Composition,
+crying out, Split my Wind-pipe, Sir,
+you are a Fool, and don't understand
+
+Trap,
+ the whole World's a Cheat.
+
+
+The 
+Play-House
+ cheats you of your
+time, and the 
+Tradesmen
+ of your Mo∣ney,
+without giving you either Sense
+or Reason for't. The 
+Attorney
+ picks
+your Pocket, and gives you 
+Law
+ for't;
+the 
+Whore
+ picks your Purse, and gives
+you the 
+Pox
+ for't it; and the 
+Poet
+
+
+
+picks your Pocket, and gives you
+nothing for it. 
+Lovers
+ couzen you
+with their 
+Eyes, Orators
+ with their
+
+Tongues,
+ the 
+Valiant
+ with their 
+Arms,
+Fidlers
+ with their 
+Fingers, Surgeons
+
+with 
+Wooden Legs,
+ and 
+Courtiers
+ and
+
+Songsters,
+ empty your Pockets, and
+give you 
+Breath
+ and 
+Air
+ for it: And
+why should not we Recruit by the
+same Methods that have Ruin'd us.
+
+
+Our Friends, continued he, gives
+us good Advice, and would fain draw
+us off from the Course we are in,
+but all to no purpose: We ask them
+what they would have us do? Mo∣ney
+we have none, and without it
+there is no Living: Should we stay
+till it were brought, or come alone?
+How would you have a poor 
+Indivi∣duum
+Vagum
+ live? that has neither
+Estate, Office, Master, nor Friend to
+maintain him: And is quite out of
+his Element, unless he be either in a
+
+Tavern,
+ a 
+Bawdy-House,
+ or a 
+Gaming
+Ordinary.
+ No, we are the Men,
+says he, that Providence has appoin∣ted
+to live by our Wits, and will not
+want while there is Money above
+Ground. 
+Happy Man catch a Mackeril.
+
+Let the Worst come to'th Worst, a
+Wry Mouth on the Tripple Tree, puts
+
+
+an end to all Discourse about us.
+
+
+From the Gaming-House we took
+our Walk through the Streets, and
+the first Amusements we Encountred,
+were the Variety and contradictory
+Language of the 
+Signes,
+ enough to
+perswade a Man there were no Rules
+of Concord among the Citizens. Here
+we saw 
+Ioseph
+'s Dream, the 
+Bull
+ and
+
+Mouth,
+ the 
+Hen
+ and 
+Razor,
+ the 
+Ax
+
+and 
+Bottle,
+ the 
+Whale
+ and 
+Crow,
+ the
+
+Shovel
+ and 
+Boot,
+ the 
+Leg
+ and 
+Star,
+
+the 
+Bible
+ and 
+Swan,
+ the 
+Frying-Pan
+
+and 
+Drum,
+ the 
+Lute
+ and 
+Tun,
+ the
+
+Hog
+ in 
+Armour,
+ and a thousand others
+that the wise Men that put them there
+can give no Reason for.
+
+
+Here walk'd a Fellow with a long
+white Rod on his Shoulder, that's a∣sham'd
+to cry his Trade, though he
+gets his Living by it; another bawl∣ing
+out 
+TODD
+'s Four Volumes in
+Print, which a Man in Reading of,
+wou'd wonder that so much 
+Venom
+
+should not tear him to pieces, but
+that some of the ancient Moralists
+have observed, that the Rankest 
+Poy∣son
+
+may be kept in an 
+Asses
+ Hoof, or
+a 
+Fool's
+ Bosom. Some say, the first
+Word he spoke was 
+Rascal,
+ and that
+if he lives to have Chldren, they
+
+
+will all speak the same Dialect, and
+have a Natural Antipathy to 
+Eggs,
+
+because their Father was palted with
+hundreds of them, when he was dig∣nified
+on the Pillory.
+
+
+Other Amusements presented them∣selves
+as thick as Hops, as 
+Moses
+ Pi∣ctur'd
+with 
+Horns
+ on his Head, to
+keep 
+Cheapside
+ in Countenance. Bi∣shop
+
+Overal
+'s 
+Convocation Book
+ Carved
+over the Dean of St. 
+P—l
+'s Stall in
+that Cathedral. Here sate a Fellow
+selling 
+little Balls
+ to take the Stains
+out of the Citizens Wives Petticoats,
+that should have been as big as 
+Foot-Balls,
+
+if applied to that purpose. Un∣der
+that Bulk was a 
+Prejector
+ clicking
+off his 
+Swimming Girdles,
+ to keep up
+Merchants Credits from sinking. A
+pretty 
+Engine
+ to preserve Bankers and
+Ensurers from Breaking, and prevent
+publishing it in the 
+Gazette,
+ when
+they are Broke; that they will pay
+all their Debts as far as it may stand
+with their Convenience.
+
+
+In that Shop was an indebted Lord
+talking of his 
+Honour,
+ and a Trades∣man
+of his 
+Honesty,
+ things that every
+Man has, and every thing is, in some
+Disguise or other, but duly consider'd,
+there are scarce any such things in the
+
+
+World, unless among Pawn-Brokers,
+Stock-Jobbers, and Horse-Coursers;
+so that the 
+Lord
+ and 
+Tradesman
+ were
+discoursing about nothing; and sig∣nified
+no more, than the Parson's
+Preaching against 
+Covetousness
+ to the
+Maim'd, Blind, and superannuated
+Soldiers in 
+Chelsey-College,
+ nor Dr. 
+Sal∣mon
+'s
+prescribing 
+Cow Heels
+ to a Mar∣ried
+Couple, as a conglutinating A∣liment.
+But there the 
+Weaver
+ had
+the Afcendant of the 
+Doctor.
+
+
+As we pass'd along, I could not
+forbear looking into some of the
+Shops, to see how the Owners im∣ployed
+themselves in the Absence of
+Customers, and in a Barber's Shop I
+saw a 
+Beau
+ so overladen with Wig▪
+that there was no difference between
+his Head, and the Wooden one that
+stood in the Window. The Fop it
+seems, was newly come to his Estate,
+though not to the years of Discretion,
+and was singing the Song. 
+Happy is
+the Child whose Father is gone to the
+Devil, and the Barber all the while
+keeping time on his Cittern;
+ for you
+know a Cittern and a Barber is as
+natural as Milk to a Calf, or the Beares
+to be attended by a Bag-piper.
+
+
+
+In the Scrivener's Shop I saw a
+company of Sparks that were selling
+their Wives and their Portions, and
+Purchasing Annuities; and Old Ten-in-the-Hundred-Fathers,
+Damning
+themselves to raise their Posterities.
+In the Tobacconist's Shops Men were
+sneezing and spawling, as if they
+were all Clapt, and under a Saliva∣tion
+for the cure on't. They that
+smoak'd it, were persecuting others
+to follow their Example, and they
+that snuff'd it up in Powder, were
+drawing upon themselves the Incom∣modies
+of all Age, in the perpetual
+Annoyance of Rheum and Drivel.
+
+
+Pursuing my Voyage through the
+City, and casting a Leere into the
+Shops of the Rich 
+Drapers, Mercers,
+
+and 
+Lacemen,
+ I saw them haunted by
+many People in Want, especially
+young 
+Heirs
+ newly at Age, and
+
+Spendthrifts,
+ that came to borrow
+Money of them. Alas, said the
+Traders, Times are Dead, and
+little Money stirring. All we can
+do, is to furnish you with what
+the Shop affords; and if a Hundred
+Pound or two in 
+Commodities
+ will do
+you any good, they are at your Ser∣vice.
+These the 
+Gallants
+ take up at
+
+
+an excessive Rate, to sell immediate∣ly
+for what they can get▪ and the
+
+Trader
+ has his Friend to take them
+off Underhand at a third part of the
+Value, 
+by way of helping Men in Di∣stress.
+
+These are they that inveagle
+unthinking Animals, into all sorts of
+extravagant Expences, and ruin them
+Insensibly under colour of 
+Kindness
+
+and 
+Credit:
+ For they set every thing
+at double the Value; and if you
+keep not touch at your Day, your
+Persons are imprisoned, your Goods
+seized, and your Estates extended.
+And they that help'd to make you 
+Prin∣ces
+
+before, are now the forwardest to
+put you into the Condition of 
+Beg∣gars.
+
+
+Among other Amusements, let us
+speak a Word or two of 
+Lombard-street,
+
+where 
+Luxury
+ seems to carry us
+to 
+Peru,
+ where you behold their Ma∣gazines,
+Ingots of Gold and Silver
+as big as Pigs of Lead; and your
+
+Ladies
+ after they have travell'd thi∣ther
+with some liberal Interloper, car∣ry
+home with them more than their
+Husbands are worth, and drag at
+their long Tails the whole Substance
+of a Herd of Creditors. Here are
+Jewels and Pearls, Rubies and Dia∣monds,
+
+
+Broad Pieces, Guineas, 
+Lewis
+d'Or
+'s, Crown Pieces, and Dollars
+without Number: Nay, in some of
+their Shops is nothing to be seen, or
+Sold, but great heaps of Money; that
+would tempt a Man to think, the
+whole 
+Indies
+ were emptied into one
+single Shop 'tis so full of Gold and
+Silver; and yet it often happens,
+that he that is possest of all this vast
+Treasure, is not worth a brass Far∣thing.
+To Day his Counters bend un∣der
+the weight of 
+Cash,
+ and to Mor∣row
+the Shop is shut up, and you
+hear no more of our Goldsmith, till
+you find him in a 
+Gazette,
+ torn to
+pieces by a Statute of Bankrupt:
+And he and his Creditors made a 
+Prey
+
+by a parcel of devouring Vermin,
+call'd Commissioners.
+
+
+The Neighbouring Country is
+
+Stocks-Market,
+ where you see a large
+Garden, Paved with 
+Pibble Stones
+ in
+all the Beds and Allies; indifferently
+open to all Comers and Goers, and
+yet bears as good Herbs, Fruits, and
+Flowers, as any in the World. Here
+is 
+Winter
+ dress'd in the Livery of 
+Sum∣mer.
+
+Every day a Crop is gather'd,
+and every Night are stockt up in Ba∣skets,
+till the next days Sun does o∣pen
+them.
+
+
+
+About this Garden great Numbers
+of Nymphs reside, who each of them
+live in their respective Tubs: They
+have not only that in common with
+
+Diogenes,
+ but like that Philosopher
+also, they speak out freely to the first
+Comer whatever comes uppermost.
+A further Description I would give
+you of their 
+Parts,
+ and Persons, but
+that I cannot endure the smell of the
+
+Serjeants
+ at the 
+Counter-Gate,
+ who
+stink worse than old Ling, or 
+Assa
+faetida,
+ and would poyson the Coun∣try,
+if this pleasant Garden was not
+an Antidote against their Infection.
+And therefore I'll go back again into
+the Country of
+
+
+
+
+
+
+Coffee-Houses.
+
+
+WHere being arriv'd I am in a
+
+Wood,
+ there are so many of
+them I know not which to enter.
+Stay, let me see! Where the Sign is
+Painted with a 
+Woman's Hand in't,
+
+'tis a Bawdy-House. Where 
+a Man's,
+
+it has another Qualification; but
+where it has 
+a Star
+ in the Sign, 'tis
+
+
+Calculated for every Leud purpose.
+
+
+Every Coffee-House is 
+Illuminated
+
+both without and within Doors;
+without by a fine Glass-Lanthorn,
+and within by a Woman so 
+Light
+ and
+
+Splendid,
+ you may see through her
+without the help of a Perspective. At
+the 
+Bar
+ the good Man always places
+a charming 
+Phillis
+ or two, who in∣vite
+you by their Amorous Glances
+into their smoaky Territories, to the
+loss of your Sight.
+
+
+This is the Place where several
+
+Knights Errant
+ come to seat themselves
+at the same Table, without knowing
+one another, and yet talk as familiar∣ly
+together, as if they had been of
+many years Acquaintance. They
+have scarce look'd about them, when
+a certain Liquor as 
+Black as Soot,
+ is
+handed to them, which being 
+Foppish∣ly
+
+fumed into their Noses, Eyes, and
+Ears, has the Vertue to make them
+Talk and Prattle together of every
+thing but what they should do. Now
+they tell their several Adventures by
+Sea, and Land. How they Con∣quer'd
+the 
+Geand,
+ were overcome by
+the 
+Lady,
+ and bought a pair of wax'd
+Boots at 
+Northampton,
+ to go a Wooing
+in. One was commending his Wife,
+
+
+another his Horse, and the third said
+he had the best smoak'd Beef in 
+Chri∣stendom.
+
+Some were discoursing of
+all sorts of Government, Monarchi∣cal,
+Aristocratical, and Democratical.
+Some about the choice of Mayors,
+Sheriffs, and Aldermen, and others
+of the Transcendent Vertues of Vi∣negar,
+Pepper, and Mustard. In short,
+I thought the whole 
+Room
+ was a per∣fect
+Resemblance of 
+Dover
+-Court,
+where all Speak, but no body heard
+nor answer'd.
+
+
+To the Charms of 
+Coffee,
+ the wi∣ser
+sort joyn'd 
+Spirit
+ of 
+Clary, Us∣quebaugh,
+
+and 
+Brandy,
+ which com∣pleatly
+Enchants the Knights: By the
+force of these Soporiferous Enchant∣ments,
+you shall find one Snoar∣ing
+heartily on a 
+Bench,
+ another
+makes Love to beautiful 
+Phillis
+ at
+the Bar; and the third as valiant as
+
+Orlando Furioso,
+ goes to signalize his
+Valour in scouring the Streets.
+
+
+I should never have done, if I
+should attempt to run through all the
+several Countries within the Walls of
+
+London;
+ as the long Robe, the Sword,
+the Treasury. Every State, in brief,
+is like a separate Country by its self,
+and has its particular Manners and
+Gibberish.
+
+
+
+Here you may view the Fruitful
+Country of 
+Trade,
+ that has turn'd
+Leather Breeches into Gold Chains,
+blue Aprons into Fur Gowns, a Kit∣chinstuff
+Tub into a gilded Chariot,
+a Dray-man into a Knight, and Noble∣men's
+Palaces into Shops and Ware-Houses.
+
+
+Here is also the 
+Barren
+ Country
+of the 
+Philosopher's-Stone,
+ inhabited
+by none but Cheats in the Operation,
+Beggars in the Conclusion, and now
+is become almost Desolate, till ano∣ther
+Age of Fools and Knaves do
+People it. To this may be added
+the 
+Cold Country
+ of the 
+News-Mongors,
+
+that Report more than they hear,
+affirm more than they know, and
+swear more than they believe, that
+Rob one another, and lye in 
+Sheets
+
+for want of a 
+Coverlid.
+ The 
+Hot
+Country
+ of the Disputers, that quarrel
+and raise a Dust about nothing. The
+
+Level Country
+ of Bad 
+Poets,
+ and Pres∣byterian
+
+Parsens:
+ One of which is
+maintain'd by a good stock of Con∣fidence,
+and by the other Flattery and
+Canting. The 
+Desert uninhabited
+Country
+ of 
+Vertuous
+ Women. The
+
+Conquer'd
+ Country of 
+Coquets,
+ and an
+infinite Number of others; not to
+
+
+reckon the 
+Lost
+ Country inhabited by
+
+Strowlers,
+ who aim at nothing but to
+lead others out of their way. They
+are of easie access, but 'tis dangerous
+to Traffick with them. Some of them
+have the Art to please without Ma∣nagement,
+and to love without Lo∣ving.
+
+
+But how have I forgot my own
+
+Dear Country,
+ that is consecrated to
+
+Bacchus;
+ that abounds with 
+Nectar,
+
+the Wonder working Liquor of the
+World; that makes a 
+Poet
+ a 
+Prince
+
+in's own Conceit; a Coward Vali∣ant,
+and a 
+Beggar
+ as Rich as an 
+Al∣derman.
+
+Here I live at Ease, and in
+Plenty, Swagger and Carouze, Quar∣rel
+with the Master, Fight the Drawer,
+and never trouble my self about paying
+the 
+Reckoning,
+ for one Fool or other
+pays it for me. A 
+Poet
+ that has Wit
+in his Head, never carries Money in
+his Breeches, for fear of creating a
+New 
+Amusement.
+
+
+In 
+Leicester-Fields,
+ I saw a 
+Mounte-bank
+
+on the Stage, with a Congre∣gation
+of Fools about him, who like
+a Master in the Faculty of 
+Lying,
+
+gave them a History of his Cures, be∣yond
+all the Plays and Farces in the
+World. He told them of Fifteen
+
+
+Persons that were Run clear through
+the Body, and glad for a matter of
+three Days together, to carry their
+
+Puddings
+ in their Hands; but in Four
+and twenty Hours he made 'em as whole
+as Fishes, and not so much as a 
+Scar
+
+for a Remembrance of the Orifice.
+If a Man had been so bold as to ask
+him when, and where? his Answer
+would have been ready without Stu∣dying;
+that it was some Twelve hun∣dred
+Leagues off in 
+Terra Incognito,
+
+by the Token, that at the same time
+he was Physician in Ordinary to a
+great Prince, that dy'd about Five
+and twenty years ago, and yet the
+
+Quack
+ was not Forty.
+
+
+All these Subjects, though very
+Amusing, were not equally Edifying,
+and therefore in my Voyage towards
+the City, I call'd in at a 
+Quaker's
+Meeting,
+ where a Fellow was talking
+Nonsence as confidently, as if he had
+had a Patent for it, and confirm'd the
+
+Popish
+ Maxim, 
+That Ignorance is the
+Mother of Devotion.
+ The Women
+were the Oddest Creatures in the
+World, neither Flesh nor Fish; but
+like 
+Frogs,
+ only their lower Parts
+were Man's Meat.
+
+
+
+From thence I sailed into a 
+Presby∣terian
+Meeting
+ near 
+Covent-Garden,
+
+where the Vociferous Holder-forth
+was as bold and Saucy, as if the Dei∣ty
+and all Mankind had owed him
+Money. He was shewing the way
+
+to be Rich when Taxes rise, and Trading
+falls,
+ and Descanting upon all Hu∣mours
+and Manners. He (says the
+Tubster) that would be Rich accord∣ing
+to the Practice of this wicked
+Age, must play the 
+Thief
+ or the 
+Cheat;
+
+he that would Rise in the World,
+must turn 
+Parasite,
+ or 
+Projector.
+ He
+that Marries, ventures for the 
+Horn,
+
+either before, or afterwards. There
+is no Valour without Swearing, Quar∣relling,
+or Hectoring. If you are
+Poor, no body owns you. If Rich,
+you'll know no body. If you dye
+
+young,
+ what pity 'twas they'l say,
+that he should be cut off in his Prime.
+If 
+Old,
+ he was e'en past his best;
+there's no great Miss of him. If
+you are Religious, and frequent
+Meetings, the World will say you
+are a 
+Hypocrite:
+ And if you go to
+Church, and don't make a liberal
+Contribution to us, we say you are
+a Papist. To which I make bold to
+add, If you are 
+Gay
+ and Pleasant,
+
+
+you pass for a Buffoon; and if 
+Pen∣sive
+
+and Reserv'd, you are taken to
+be 
+Sour
+ and Censorious. 
+Courtesy
+ is
+call'd Colloguing and Currying of Fa∣vour:
+Downright Honesty and Plain-Dealing,
+is interpreted to be Pride and
+Ill Manners: And so I took my leave
+of Dr.—
+
+
+And Peep'd into a 
+Fine Church
+ in
+my Way to 
+Fleet-street,
+ where a huge
+double Belly'd Doctor, was so full of
+his 
+Doubtlesses,
+ that he left no room
+for one 
+Grain
+ of 
+Scepticism,
+ and made
+me so perfect a 
+Dogmatist,
+ that I made
+these Innocent Reflections. The Do∣ctor
+is very Fat, 
+Doubtless
+ he is Rich.
+He looks very 
+Grum
+ and 
+Surly, Doubt∣less
+
+he is not the best Humour'd Man
+in the World; but I soon gave over
+these Remarks; for being a Stranger
+to his 
+Worship, Doubtless
+ I might have
+been sometimes in the Right, and
+
+Doubtless
+ I should sometimes have been
+in the Wrong; and therefore I remo∣ved
+my Corps to 
+another Church
+ in
+my Road to 
+London.
+
+
+Here a very Genteel 
+Reader,
+ to
+shew himself 
+Frenchify'd,
+ instead of
+reading 
+Porage,
+ after our Old Ho∣nest
+
+English
+ Custom, gave it an 
+A la
+Mode
+ Turn, and pronounc'd it 
+Pot∣taugsh;
+
+
+
+whereas to have been more
+Modish in his 
+Tongue,
+ as well as his
+othr Parts, he might have called it a
+
+Dish of Soop.
+
+
+Before Sermon began, the Clark in
+a 
+Slit Stick
+ (contrived for that pur∣pose
+at a Serious Consult by the Fa∣mous
+
+Architects
+ and 
+Engineers,
+ Sir 
+C. W,
+
+and Col. 
+Pickpeper
+) handed up to the
+Pulpit a Number of 
+Prayer-Bills,
+ con∣taing
+the Humble Petitions of divers
+
+Devoto's,
+ for a supply of what they
+wanted, and the removal of their Af∣flictions.
+
+
+One was a Bill from a 
+Courtier,
+ that
+having a good 
+Post,
+ desired he might
+keep it for his Life, without being
+call'd to an Account for 
+Neglect,
+ or
+
+Mismanagement;
+ and that he might
+continue without controul, God's Ser∣vant
+in Ordinary, and the King's Spe∣cial
+Favourite.
+
+
+A Young 
+Virgin,
+ apprehensive of
+her Wants, and Weaknesses, being a∣bout
+to enter into the Holy State of
+
+Matrimony,
+ prayed for proportionable
+Gifts and Graces, 
+to enable her for
+such an Under-Taking.
+
+
+Some Pray'd for Good Matches for
+their 
+Daughters,
+ and good Offices for
+their 
+Sons;
+ others beg'd 
+Children
+ for
+
+
+themselves: And sure the 
+Husband
+
+that allows his Wife to ask Children
+Abroad, will be so Civil as to take
+them Home when they are given
+him.
+
+
+Now came abundance of 
+Bills
+ from
+such as were going Voyages to Sea,
+and others that were taking long
+Journeys by Land; both Praying for
+the Gift of Chastity for their 
+Wives,
+
+and 
+Fidelity
+ for their 
+Prentices,
+ till
+they should return again. Then the
+Bills of Complaint coming in thick and
+threefold, 
+Humbly shewing
+ that many
+Citizens Wives, had hard Hearts,
+Undutiful Husbands, and Disobedi∣ent
+Children, which they heartily
+Pray'd to be quit of; I discharg'd my
+Ears from their Attendance on so Me∣lancholy
+a Subject, and employed my
+Eyes on the variety of 
+Diverting Fa∣ces
+
+in the Gallery.
+
+
+Where you might see in one 
+Pew,
+ a
+Covey of Handsome, Bucksome, 
+Bona
+Roba
+'s, with High-Heads, and all the
+
+Mundus Muliebris
+ of Ornament and
+Dress about them, as Merry as 
+Hawks
+
+in a Mew, as 
+Airy
+ as their 
+Fans,
+ and
+as Light as a 
+Beaux
+ Head, or his 
+Fea∣ther.
+
+
+
+In another 
+Pew
+ was a Nest of such
+Hard-favour'd 
+She's,
+ that you would
+have blest your self. Some with their
+Faces so Pounced and Speckled, as if
+they had been 
+Scarified,
+ and newly
+pass'd the 
+Cupping-Glass;
+ with a World
+of little Plasters, 
+Large, Round, Square,
+
+and briefly cut out into such variety,
+that it would have posed a good 
+Ma∣thematician
+
+to have found out another
+Figure. They employ'd themselves
+while the 
+Bills
+ were reading, about
+—Hush, hush.
+
+
+The 
+Wou'd be Bishop
+ is beginning,
+and 'tis a sign of a 
+Clown,
+ as well as
+an 
+Atheist, Ludere cum Sanct is;
+ for tho'
+I expose the Foppery of Persons, I
+have a great Veneration for Holy Of∣fices.
+Our 
+Doctor,
+ I 
+Grant
+ it, has
+some of the Qualifications of an 
+All-Souls
+
+Candidate, 
+Bene Vestiti & Me∣diocriter
+Docti;
+ and in good earnest
+fills a Pulpit very well; but that he so
+often hauls in his 
+Common-Place Book
+
+by Neck and Shoulders, that he cloys
+his Auditors with that unpalatable 
+Ra∣goust,
+
+called in 
+Latin Cramben Biscoctum,
+
+and in plain 
+English, Twice-boil'd Cab∣bage;
+
+for having in every Harangue,
+let the Subject be what it will, Mar∣shal'd
+his Discourse by the help of the
+
+
+
+Warlike
+ Josephus, 
+and by the Assistance
+of the Learned
+ Grotius, 
+and Pious
+Dr.
+ Hammond 
+our own Countryman, puz∣zled
+
+Aquinas, 
+Confuted
+ Bellarmin, 
+and
+Baffled
+ Origen, 
+pass we on
+ (says he) 
+to
+the next thing as considerable.
+
+
+The 
+Clark
+ is such an Affected C. C.
+C—, that he Sings out of Tune,
+says out of Order, and does nothing
+as he should do: For instead of say∣ing,
+
+Amen,
+ he Screams out 
+A Main,
+
+which had like to put me into a Con∣founded
+Fit of Laughter; for a Spark
+who had been Over-night at 7 or 11,
+falling Asleep in the Church, and be∣ing
+waked by the Noise of 
+A Main,
+
+he starts up, and cries out aloud, 
+I'll
+Set you Half a Crown
+
+
+Crowding to get out to breath my
+Spleen at this Adventure, I put the
+
+Bilk
+ upon a 
+Pick-Pocket;
+ who measu∣ring
+my Estate by the Length and Bul∣kiness
+of my 
+New Wig, which (God
+knows) is not paid for,
+ he made a Dive
+into my Pocket, but encountring a
+Disappointment, Rub'd off, Cursing
+the 
+Vacuum;
+ and I as heartily laugh∣ing
+at his 
+Folly,
+ that could think a
+
+Poet
+ ever went to Church, when he
+had Money to go to a Tavern. Poets
+are better Principled than to hoard up
+
+
+
+Trash;
+ and could they as well secure
+themselves from the 
+Flesh
+ and the 
+De∣vil,
+
+as they do from the 
+World,
+ there
+would not be a Hairs breadth 'twixt
+them and Heaven.
+
+
+Now I cross'd the way to a 
+Book∣sellers,
+
+in hopes to get a Dinner and
+a Bottle; but the Stingy Curr pop't
+me off with a Dish of 
+Coffee,
+ and the
+old Talk that Trading was Dead, that
+they suffer'd for other Mens Works as
+well as their own; and in short, find∣ing
+not a 
+Penny
+ to be screw'd out of
+the 
+Prig,
+ I pursued my Voyage to the
+City; but it happening to Rain, to
+shelter my self from it, I run my Face
+into
+
+
+
+
+
+
+A Heralds Office.
+
+
+HERE was a Confounded Noise
+of Descents, Pedigrees, Ge∣nealogies,
+Coat Armour, Bearings,
+Additions, Abatements, and a deal
+of that insignificant Jargon. While I
+was listening to this 
+Gibberish,
+ in
+comes a Fellow with a Role of Parch∣ment
+
+
+in his Hand, to be made a 
+Gen∣tleman,
+
+and to have a Coat of Arms
+finely Painted to hang up in his 
+Din∣ing-Room
+
+till his Wife Died, and then
+to be transported on the Outside and
+Front of the House, to Invite a Rich
+Widdow to Marty him.
+
+
+My 
+Father,
+ says he, has bore Arms
+for His Majesty, in many Honourable
+Occasions of 
+Watching
+ and 
+Warding;
+
+and has made many a 
+Tall Fellow
+ speak
+to the Constable at all Hours of the
+Night. My 
+Uncle
+ was the first Man
+that ever was of the Honourable 
+Order
+
+of the 
+Black-Guard:
+ And we have had
+five Brave Commanders of our Fami∣ly,
+by my Father's side, that have
+served the 
+State
+ in the Quality of
+
+Marshal's Men,
+ and 
+Thief Takers,
+ and
+gave His Majesty a fair Account of all
+the 
+Prisoners
+ that were taken by them:
+And by my 
+Mothers side,
+ it will not
+be denied, but that I am Honourably
+Descended; for my 
+Grandmother
+ was
+never without a Dozen Chamber-Maids
+and Nurses in Family. Her
+Husband wore a Sword by his Place,
+for he was 
+Deputy-Marshal;
+ and to
+prove my self a Man of 
+Honour,
+ I
+have here a Testimonial in my Hand,
+in Black and White; and in my Poc∣ket
+
+
+brave 
+Yellow-Boys,
+ to pay for a
+Coat of Arms: Which being produ∣ced
+and Finger'd by the Herald, he
+immediately assign'd him a 
+Coat, viz.
+
+A 
+Gibbet
+ Erect, with a Wing Volant.
+A Ladder Ascendant. A Rope Pen∣dant,
+and a 
+Marshal's Man
+ Swinging
+at the end on't.
+
+
+I am Sandalized, says my 
+Indian,
+
+at your Custome in 
+London,
+ in ma∣king
+every Saucy 
+Iack,
+ a Gentle∣man.
+
+
+And why are you not as well of∣fended,
+reply'd I to my 
+Indian,
+ to
+hear almost every 
+Gentleman
+ call one
+another 
+Iack,
+ and 
+Tom,
+ and 
+Harry
+
+They first dropt the Distinction, Pro∣per
+to Men of 
+Quality,
+ and Scoun∣drels
+took it up and bestowed it upon
+themselves; and hence it is, that a
+
+Gentleman
+ is sunk into plain 
+Iack,
+ and
+
+Iack
+ is rais'd into 
+Gentleman.
+
+
+In Days of 
+Yore,
+ a Man of 
+Honour
+
+was more Distinguishable by his 
+Ge∣nerosity
+
+and Affability, than by his
+
+Lac'd Liveries;
+ but too many of them
+having degenerated into the Vices of
+the Vulgar Fry, Honour is grown
+Contemptible, the Respect that is
+due to their 
+Births,
+ is lost in a 
+Savage
+
+
+
+Management, and is now assumed by
+every Scoundrel.
+
+
+The Cobler is Affronted, if you
+don't call him Mr. 
+Translator.
+ The
+Groom Names himself 
+Gentleman of
+the Horse,
+ and the Fellow that carries
+
+Guts
+ to the 
+Bears,
+ writes himself 
+one of
+His Majesty's Officers.
+ The Page calls
+himself 
+a Child of Honour,
+ and the
+Foot-Boy stiles himself my 
+Ladies
+Page.
+ Every Little 
+Nasty Whore
+ takes
+upon her the Title of 
+Lady,
+ and eve∣ry
+
+Impudent Broken-Mouth'd Manteau-Maker,
+
+must be call'd 
+Madam Theodosia
+Br—.
+ Every Dunce of a 
+Quack,
+ is call'd
+a 
+Physician.
+ Every Gown-Man, a 
+Coun∣seller.
+
+Every Silly Huff, a 
+Captain.
+ Eve∣ry
+
+Gay
+ thing, a Chevalier. Every Parish
+Reader, a 
+Doctor:
+ And every 
+Writing
+Clerk
+ in the Office, Mr. 
+Secretary:
+
+Which is all but Hypocrisie and Kna∣very
+in Disguise; for nothing is now
+called by its right Name.
+
+
+The Heralds I see have but little to
+do, Honour and Arms which used to
+employ all Men of Birth and Parts,
+is now almost dwindled into an Airy
+Nothing: Let us then go and see how
+the World wags in the City Circle.
+
+
+
+
+
+
+
+
+
+
+Amusement XI.
+
+
+
+
+The City Visiting-Day.
+
+
+I Have given my Traveller Walk∣ing
+enough from Country to Coun∣try,
+let us save him the trouble now
+of Beating the Hoof, and shew him
+the rest of the World as he sits in his
+Chair.
+
+
+To be acquainted with all the Dif∣ferent
+Characters of it, it will be suf∣ficient
+for him to frequent certain
+Numerous Assemblies, a sort of 
+City
+Circle,
+ they are set up in imitation of
+the Circle at Court.
+
+
+The Circle in Foreign Courts is a
+Grave Assembly, but ill seated upon
+Low Stools set in a Round. Here all
+Women Talk, and none of them Li∣sten.
+Here they make a Pother about
+nothing. Here they Decide all things,
+and their most diversified Conversati∣ons
+
+
+ons are a sort of Roundeaus that end
+either in Artificial Slanders, or gross
+Flattery, but this being in no wise ap∣plicable
+to the 
+English
+ Court, I shall
+wave a further Description of it, and
+come to
+
+
+
+
+
+
+The City Circle.
+
+
+WHICH is a Familiar Assembly,
+or a General Council of the
+Fair and Charming-Sex, where all the
+Important Affairs of their Neighbors
+are largely discuss'd, but Judged in an
+Arbitrary Manner, without hearing
+the Parties speak for themselves. No∣thing
+comes amiss to these Tribunals.
+Matters of High, and no Consequence,
+as Religion, and Cuckoldom, Com∣modes
+and Sermons, Polliticks and
+Gallantry, Receipts of Cookery and
+Scandal, Coquettry and Preserving,
+Jilting and Laundry; in short every
+thing is subject to the Jurisdiction of
+this Court, and no Appeal lies from
+it.
+
+
+
+A Venerable Old Gentlewoman,
+call'd Madam 
+Whimsey,
+ whose Relati∣ons
+are dispersed into all Corners of
+the Earth, is President of this Board.
+She is Lineally Descended from the
+
+Maggots
+ of the 
+South,
+ an Illustrious
+and Ancient Family, that were a Branch
+of the 
+Wag-Tails
+ of the 
+East,
+ who
+boast themselves Descended in a Right
+Line from Madam 
+Eve.
+ Here are to
+be found as many Different Opinions
+as there are Heads in the Room. The
+same Judge is sometimes Severe, and
+sometimes Indulgent, sometimes Grave
+and sometimes Trifling, and they
+Talk exactly there, as I do in my 
+A∣musements.
+
+
+They pass in a Moment from the
+most Serious, to the most Comical
+Strain; from the greatest things to the
+smallest; from a Duke, to a Chim∣ney-Sweeper;
+from a Council of War
+to a Christning, and sometimes a sud∣den
+Reflexion upon a Womans 
+Head-Dress,
+
+hinders the Decision of a Case
+of Conscience under Examination.
+
+
+In this Country Twenty several
+Sentences are pronounced all at once.
+The Men Vote when they can, the
+Women as often as they please. They
+have two Votes for one. The great
+
+
+Liberty that is allowed in the City
+Circle, invites all sorts of Persons to
+come thither to see and to be seen.
+Every one talks according to his De∣signs,
+his Inclination, and his Genius.
+The Young Folks talk of what they
+are now a doing; the Old Fellows
+Talk of what they have done in the
+Days of Queen 
+Dick;
+ and your Sots
+and Coxcombs of what they have a
+design to do, tho' they never go a∣bout
+it.
+
+
+The Ambitious Rail at the Slug∣gards
+as a Company of Idle Fellows
+that take up a room in the World, and
+do nothing? The Sluggards return
+back the Compliment to the Ambiti∣ous,
+that they trouble all the World
+with their Plots to advance themselves
+and ruine others. The Tradesman
+Curses War from the bottom of his
+Heart, as that which spoils Commerce,
+Depopulates Countries, and destroys
+Mankind; and the Soldier wishes
+those that had a Hand in making the
+Peace, were at the Devil.
+
+
+The Vertuoso despises the Rich for
+making such a bustle about so Foolish
+and Pale-faced a Mettal as Gold. The
+Rich laugh at Learning, and Learned
+Men, and cry, A fig for 
+Aristotle
+
+
+
+and 
+Des Cartes.
+ Your Men of Gravi∣ty
+and Wisdom forsooth, rail at Love
+as the most Foolish and Impertinent Tri∣fling
+thing in the World; and the Lover
+fattens himself with his own Fancies,
+and laughs at Wisdom as a Sower and
+Severe thing that is not worth the Pur∣suit.
+Those that are Unmarried fall
+foul upon the Jealous-Pated Hus∣bands,
+as Men that create their own
+Troubles. And those that are Marri∣ed
+justify their own Prudent Conduct
+in endeavouring to prevent their own
+Dishonour.
+
+
+A Young forward Puppy full of
+Vigour and Health, seem'd to inti∣mate
+by his Discourse, that he thought
+himself Immortal. Well, says he, I
+have drank my Gallon of Claret eve∣ry
+Night this Seven Years, and yet
+the Devil of a Feaver or any other Di∣sease
+dares Attack me, tho' I always
+keep two or three Sins going at once.
+Before 
+George
+ I think our Family's
+made of Iron. There's that Old Prig
+my Father (a Plague on him) turn'd of
+Seventy, and yet he's as sound as a
+Roach still. He'll ride you Forty Mile
+out-right at a Fox-Chase. Small-Beer
+be my Portion here and hereafter, if I
+believe he'll ever have the Good Man∣ners
+to troop off.
+
+
+
+A Grave Old Gentleman offended
+at this Rude and Frothy Discourse
+gave his Whiskers a Twirl, and thus
+repremanded our Saucy Whipper-Snapper.
+Know Boy, cries he to him
+in an Angry Tone: Know, Sirrah,
+that every Age stands upon the same
+Level as to the Duration of Life. A
+Man of Fourscore is Young enough
+to Live, and an Infant but of Four
+Days Birth, is Old enough to Die.
+
+
+I apprehend your Meaning, Old
+Gentleman, says our Young Prig to
+him, well enough. You are Young
+enough to Live to Day, and Old e∣nough
+to Die to Morrow.
+
+
+Those whom you have hitherto
+heard, talk'd only to let the Compa∣ny
+see what they were: The rest both
+in their Conversation and Manners,
+appear'd directly contrary to what
+they were.
+
+
+You admire the Gay Noisy Im∣pertinence
+of that Country Wit yon∣der,
+that tells of many Pleasant Sto∣ries,
+and sets all the Company a
+Laughing. Don't be mistaken in him,
+he's the Dullest Rogue alive, if you
+strip him of what he has Plunder'd
+from others.
+
+
+
+All his Jests and Repartees he Pur∣loin'd
+from his 
+Fathers Chaplain;
+ they
+are the effect of his Memory, and not
+of his Invention.
+
+
+That other Spark there sets up for
+a 
+Wit,
+ and has some Sence to't. Pray
+mind that Worshipful 
+Lump
+ of Clay,
+that Inanimate Figure that lolls in the
+Elbow-Chair; he takes no manner of
+Notice of what is said in the Compa∣ny.
+By his Plodding Starch'd Solemn
+Looks, you would conclude that Busi∣ness
+of Importance, and Affairs of
+State, took up all his Thoughts, and
+that his Head was brim full of Dis∣patches,
+Negotiations, Decrees, Or∣ders
+of Council, and the Lord knows
+what. I'll tell you what; he's the
+Emptiest, Dullest, Shallowest Mon∣ster,
+within the Bills of Mortality.
+He's equally incapable of Business and
+Pleasure: He'll take you a Nap over
+a Game at 
+Cards,
+ and Yawn and
+Stretch at the most diverting 
+Comedy:
+
+Nay, under the 
+Pulpit
+ when the Par∣son
+has Preach'd all the Dogs out o'th'
+Church. He Dreams as he Walks,
+and the Sot when he's a Sleep, differs
+from the Sot when Waking, as a
+
+Nine-Pin
+ when it is up, differs from a
+
+Nine-Pin
+ when its down. He has a
+
+
+Considerable Post in the Government,
+and a Pretty Wife, and minds them
+both alike? 'Tis pity he has not a
+
+Deputy
+ to officiate for him.
+
+
+That 
+Young Creature
+ there by the
+Window, at the bare mention of the
+Word 
+Love,
+ Starts, and Trembles, as
+if a 
+Demi-Culvirin
+ were shot off at her
+Ear. Her Vertuous Mother has told
+her such terrible Stories about it, that
+the 
+Poor Fool
+ believes she hates it.
+And do you think, Sir, she'll hate it
+to the end of the Chapter? That's not
+so certain, I dare not engage for it. A
+Woman that hates Love before she
+knows 
+what it is,
+ is not in danger to
+hate it very long.
+
+
+Perhaps I explain things after a
+
+Freer
+ manner than I ought, and 
+Un∣mask
+
+too many Faces in my Circle;
+but if I were never so much inclined
+to spare them, and they themselves
+had Address enough to conceal their
+own Defects: I see a 
+Lady
+ of great
+Penetration coming into the Room,
+who will decipher them more 
+Unmerci∣fully
+
+than I can.
+
+
+Now she has Seated her self. Ob∣serve
+what a 
+Modest
+ Air she has? How
+Critically she draws off her Gloves?
+How 
+Artfully
+ she manages her Fan?
+
+
+And if she lift up her Eyes, 'tis only
+to see whether other Women are as
+Handsome and as Modest as her self.
+She has so much Vertue the World
+says, that she can't endure any that
+have a less share on't than her self.
+What is harder still, those that have
+more Vertue than she, do equally dis∣please
+her. 'Tis for this reason she
+spares no Body.
+
+
+I ask'd a Lady of the same Chara∣cter
+t'other Day, how it came to pass
+that her Exhortations were half 
+God∣liness,
+
+and half 
+Slander?
+ Bless me,
+crys she, 
+Slander!
+ What mean you
+by the Word? 'Tis enough to give
+one the Spleen, or an 
+Augue Fit.
+ The
+Truth on't is, I am sometimes obli∣ged
+to accommodate my self to the
+
+Taste
+ of the World, to 
+Season
+ my Re∣monstrances
+with a little 
+Satyr,
+ for
+the World expects we should make
+every thing agreeable, even Conne∣ction
+it self. We must sometimes give
+a little 
+Slip
+ from Morality, to bring
+in a few 
+Strokes
+ of Satyr. Speak
+more Honestly, 
+Madam,
+ says I to her,
+and confess that you bring in one
+stroke of Morality, to countenance
+the making of a Thousand Scandalous
+Reflexions.
+
+
+
+Very well, replies the 
+Indian
+ to me,
+I find the 
+Londoners
+ are as Comical in
+their Garbs, as affected in their Discour∣ses.
+They would think themselves 
+disho∣nour'd
+
+to appear in a Suit they wore last
+Year. According to the Rule of 
+Fashions,
+
+this Furious Beau the next Year must
+make but a 
+Scurvy Figure;
+ but I par∣don
+them for following the Custom of
+their Country. I put so ill a Constru∣ction
+upon their Curiosity, I will not
+hereafter Judge of the Hearts of Wo∣men
+by the Steps I see them make.
+
+
+As for that 
+Beau
+ yonder, I have a
+great Curiosity to know whither his
+Inside answers his Outside. Not a
+Word has drop'd from him as yet;
+but surely the 
+Oracle
+ will open Anon.
+The Ladies that encompass him, said
+I to my Curious Traveller, are as im∣patient
+to hear him Talk, as you can
+be. Therefore let us listen.
+
+
+They all Compliment, and address
+their Discourses to him. What An∣swers
+does he make them? Sometimes
+
+Yes,
+ and sometimes 
+No,
+ and some∣times
+
+Nothing
+ at all. He speaks to
+one with his 
+Eyes,
+ to another with
+his 
+Head,
+ and 
+Laughs
+ at a third with
+so 
+Mysterious
+ an Air, that 'tis believed
+there is something extraordinary meant
+
+
+by it. All the Company are of Opi∣nion
+that he has 
+Wit
+ in abundance.
+His Physiognomy 
+Talks,
+ his Air 
+Per∣swades,
+
+but all his Eloquence lies in
+the Fine 
+Outside
+ he makes; and as soon
+as the Spark has shew'd himself, 
+he
+has concluded his speech.
+ 'Tis a thou∣sand
+pitties that Nature had not time
+enough to finish her Workmanship▪
+Had she bestowed never so little 
+Wit
+
+upon an 
+Outside
+ so Prepossessing us in
+his Favour, the Idlest Tales from his
+Mouth wou'd have pass'd for the most
+Ingenious Story in the World.
+
+
+But our Ladies now begin to be
+weary of holding a longer Discourse
+with their Idol, All of 'em resolv'd, if
+they must speak, to speak with some
+Body that would answer them again,
+and not with a 
+Statue.
+ Our Beau re∣tires
+into the next Chamber, intent
+upon nothing but how to display his
+Charms to the best advantage. He is
+at first view enamour'd with a Pretty
+Lady whom he saw in the Room. He
+Besieges her with his 
+Eyes,
+ he 
+Ogles
+
+at her, he 
+Prims
+ and 
+Plumes
+ himself,
+and at last he Boards her.
+
+
+This 
+Lady
+ is very Reserved, and
+tho' our Gentleman appear very
+Charming to her, yet she is not sur∣prized
+
+
+at the first sight of him. 'Tis
+nothing but her Curiosity which makes
+her hazard meeting him in the Field.
+With this Intention she listens to what
+our Adventurer has to say to her. In
+short, this was the success of his Af∣fair
+with her.
+
+
+He found himself mightily at a loss
+how to 
+Cope
+ with this Lady. She had
+an inexhaustible Source of 
+Wit,
+ and
+would not be paid with 
+Gracious Nods
+and Smiles,
+ but as we see there are a
+Hundred Witty Women in the World,
+that are not displeas'd with a fair Out∣side;
+our Confident Spark flatter'd
+himself, that if he cou'd but once per∣swade
+the Lady that he was in Love
+with her, the Garrison wou'd imme∣diately
+surrender. To effect this he
+employ'd the 
+Finest Turns
+ of Elo∣quence,
+and the most touching Ex∣pressions
+of the 
+Mute Language;
+ but
+this Fair Lady made as if she did not
+understand him. What should he now
+do to explain himself more clearly to
+her. He had a 
+Diamond-Ring
+ of a
+considerable Value upon his Finger,
+and found himself put to't to contrive
+a Piece of Gallantry 
+A la Mode,
+ to
+present it to her. Thus 
+Playing
+ with
+his Hand, and holding it so that he
+
+
+might shew his 
+Diamond
+ more advan∣tageously
+to the Eyes of the Fair In∣different,
+he plays with it: She turns
+her Head, first on one side, then on
+the other side. This Unconcernedness
+mortified him extreamly; yet still he
+kept on his 
+Shew,
+ which is always the
+last Refuge of a Coxcomb. He is A∣stonish'd
+to find a Woman insensible to
+such a 
+Beau
+ as himself, and to such a
+
+Diamond
+ as his was; but this made no
+Impression on the 
+Lady,
+ who still con∣tinued
+Inexorable and Cruel.
+
+
+At the very Moment he despair'd
+of his Enterprize, this Cruel, this
+Insensible seiz'd him hastily by the
+Hand, to look nearer at the 
+Diamond,
+
+from which she first turn'd her Eyes:
+What a 
+Blessed turn
+ of the Scene was
+this to a Dejected Lover! He reas∣sumes
+his Courage, and to make a De∣claration
+of his Passion for once and
+all, he takes the 
+Ring
+ from his Finger,
+and after a Thousand 
+Cringes
+ and 
+Gri∣maces,
+
+Presents her with it. The 
+Lady
+
+takes it in her Hand, and holds it close
+to her Eyes, to view it more careful∣ly:
+He redoubles his Hope and Assu∣rance,
+and thought he had a Right to
+Kiss that Hand, that had received his
+
+Diamond.
+ The Lady was so taken up
+
+
+in looking at it, that she was not at
+leisure to think of being angry at this
+Freedom; but on the contrary smiled,
+and without any more Ceremony put
+the 
+Ring
+ upon her Finger.
+
+
+Now it is that our Lover thinks
+himself secure of 
+Victory,
+ and tran∣sported
+with Joy, proposes the 
+Hour
+
+and 
+Place
+ of Meeting. Sir, says this
+Lady coldly to him, I am Charm'd
+with this 
+Diamond;
+ and the reason
+why I have accepted it without Scru∣ple,
+is because it belongs to me. 
+Yes,
+Sir,
+ this Diamond is mine; my Hus∣band
+took it from off my 
+Toilet
+ some
+Three Months ago, and made me af∣terwards
+believe he had lost it. That
+cannot be, replys our 
+Fop,
+ it was a
+
+Marchioness
+ that exchang'd it with me
+for something that shall be Name∣less.
+
+
+Right, right,
+ continues the Woman,
+
+my Husband was acquainted with this
+
+Marchioness, 
+he
+ Truck'd 
+with her for my
+
+Diamond, 
+the Marchioness
+ Truck'd 
+with
+you for it, and I take it for nothing; tho
+if I were of a
+ Revengeful 
+Nature, my
+Husband very well
+ deserves, 
+that I
+should give the same Price for it, as he
+received from the Marchioness.
+ At this
+unexpected Blow, our Fine Thing
+
+
+stood Confounded and Astonish'd; but
+I can now forgive his 
+being Mute
+ up∣on
+so Odd an Occasion. A Man of
+Wit and Sence could hardly avoid
+it.
+
+
+That Great 
+Lord
+ yonder, was Bred
+and Born a 
+Lord:
+ His 
+Soul
+ is full as
+Noble as his 
+Blood,
+ his Thoughts as
+high as his Extraction. I Esteem, but
+don't Admire his 
+Lordship;
+ but the
+Man, who by his 
+Merits
+ and 
+Vertues
+
+raises himself above his Birth and E∣ducation,
+I both 
+Esteem
+ and 
+Admire.
+
+
+Why then should you, whose Vir∣tues
+equal your Fortune, conceal the
+
+Meanness
+ of your Original, which
+raises the Lustre of your Merit? And
+as for you that have no other Merit
+to boast of, but that of advancing
+your Fortune; never be ashamed to
+own the Meanness of your former
+Life: We shall better esteem the Merit
+of your Elevation.
+
+
+Look, yonder goes a Man, says
+one, that takes upon him so much of
+the 
+Lord,
+ that one would think he
+had never been any thing else. It of∣ten
+happens, that by our Over-acting
+of Matters, the World discovers we
+were not always the Men we ap∣pear.
+
+
+
+While I made my Reflections, my
+
+Indian
+ was likewise busie in making
+his. He did not so much wonder at
+the Man in the Embroidered Coat,
+who did not know himself, as at the
+Assembly, who likewise seem'd not
+to know him. He was treated with
+the Respect due to a Prince; these
+are not Civilities, but downright A∣dorations.
+What cannot you be con∣tent,
+says our 
+Indian,
+ cannot you be
+content to Idolize 
+Riches
+ that are use∣ful
+to you? Must you likewise Ido∣lize
+the 
+Rich,
+ who will never do you
+a Farthings-worth of Kindness?
+
+
+I confess, continued he, that I can∣not
+recover out of this Astonishment.
+I see another Man of a very good
+Look come into the 
+Circle,
+ and no
+body takes the least Notice of him.
+He has seated himself and Talks,
+and very much to the purpose too,
+and yet no one will vouchsafe him a
+Hearing. I observe, the Company
+Files off from him by degrees, to a∣nother
+part of the Room, and now
+he is lest alone by himself. Where∣fore
+say I to my self, Do they shun
+him thus? Is his 
+Breath
+ Contagious,
+or has he a 
+Plague-Sore
+ running upon
+him?
+
+
+
+At the same time I took Notice,
+That these Deserters had flock'd a∣bout
+the 
+Gay Coxcomb
+ in the laced
+Suite, whom they worshipp'd like a
+little God. By this I came to un∣derstand,
+that the Contagious Di∣stemper
+the other Man was troubled
+with was his Poverty.
+
+
+Oh Heavens!
+ says the 
+Indian,
+ fal∣ling
+all on the sudden into an Enthu∣siastick
+Fit, like that wherein you
+saw him in his Letter; 
+Oh Heavens!
+
+Remove me quickly out of a Coun∣try,
+where they shut their Ears to
+the wholsom Advice, and sage In∣structions
+of a 
+Poor
+ Man, to lissen
+to the Nonsensical 
+Chat
+ of a Sot in
+
+Gawdy
+ Cloathes. They seem to re∣fuse
+this 
+Philosopher
+ a Place among
+Men, because his Apparel is but in∣different,
+while they Rank that Weal∣thy
+Coxcomb in the Number of the
+Gods. When I behold this Abomi∣nable
+Sight, I cou'd almost pardon
+those that grow Haughty and Inso∣lent
+upon Prosperity. This latter
+Spark a little while ago was less than
+a 
+Man
+ among you, at present you
+make a sort of a 
+Deity
+ of him. If
+the Head of their new Idol should
+grow Giddy, he may e'en thank those
+
+
+who Incense him at this abominable
+Rate.
+
+
+There are among us in my Coun∣try,
+continues he, a sort of People
+who Adore a certain Bird, for the
+Beauty and Richness of its 
+Feathers.
+
+To justifie the Folly wherein their
+Eyes have engaged them, they are
+perswaded that this proud Animal has
+a Divine Spirit that Animates him.
+Their Error is infinitely more excu∣sable
+than yours; for in short, this
+Creature is 
+Mute,
+ but if he could
+Talk, like your Brute there in the
+Rich Embroidery, they would soon
+find him out to be a Beast, and per∣haps
+would forbear to Adore him.
+
+
+This sudden Transport, carry'd
+our well-meaning Traveller a little
+too far. To oblige him to drop his
+Discourse, I desir'd him to cast his
+Eyes upon a certain Gentleman in
+the 
+Circle,
+ who deserved to have his
+
+Veil
+ taken off with which he covered
+himself, to procure the Confidence of
+Fools. Examine well this serious Ex∣travagant.
+The 
+Fool's Bawble
+ he makes
+such a pother with, is his 
+Probity,
+
+an amiable thing indeed, if his Heart
+were affected by it; but 'tis only the
+Notion of it that has Fly-blown his
+
+
+Head. Because, forsooth, it has not
+yet appear'd in his Story, that he is
+a Notorious Cheat and Falsifier, up∣on
+the Merit of this Reputation, the
+
+Insect
+ thinks himself the most Virtu∣ous
+Man in the World. He demands
+an Implicite Faith to all he says. You
+must not question any thing he is
+pleas'd to affirm, but must pay the
+same Deference to his Words, as to
+the Sacred Oracles of Truth it self.
+If he thinks fit to assert that 
+Romulus
+
+and 
+Remus
+ were Grand Children to
+
+Iohn of Gaunt,
+ 'tis a Breach of Good
+Manners to enquire into their Pedi∣grees.
+
+
+If any Difference happens, he pre∣tends
+his Word is a Decree, from
+which you cannot Appeal without
+Injustice. He takes it for a high Af∣front,
+if you do but ask him to give
+you the common Security. All the
+Universe must understand that his
+Verbal Promise is worth a thousand
+Pounds. He would fain have per∣swaded
+his 
+Wifes Relations
+ to have
+given him her in Marriage upon his
+bare Word, without making a Settle∣ment.
+He affects to be exactly Nice
+to a Tittle in all his Expressions, and
+if you think it impossible to find a
+
+
+
+Model
+ of this impracticable Exactness,
+he tells you that you may find it in
+him, all his Words you ought to be∣lieve
+to a Hairs breadth: Nothing
+less, and nothing beyond it. If ever
+he gives you liberty to 
+Stretch
+ a little,
+it must be in his Commendation.
+Let the Conversation turn upon what
+Subject it pleases, be it of 
+War,
+ or
+of 
+Religion, Morality,
+ or 
+Politicks,
+ he
+will perpetually thrust his 
+Nose
+ into
+it, though he is sure to be laughed
+at for his Pains, and all to make a
+fine 
+Parade
+ of his own good Quali∣ties
+and Vertues.
+
+
+A certain 
+Lady
+ for Instance, after
+she had effectually proved that all
+Gallantry, and Sincerity, was extinct
+among the young Fellows of this
+Age, corrected her self pleasantly in
+this manner. I am in the 
+wrong
+ Gentle∣men,
+says she, I am in the 
+wrong,
+ I
+own it. There is such a thing as
+Sincerity still among the Men: 
+They
+speak all that they think of us
+Women.
+
+
+Upon the bare Mention of the
+Word 
+Sincerity,
+ our Gentleman
+thought he had a fair opportunity to
+enlarge upon his own. Every Man,
+
+
+says he, has his particular Faults
+My Fault is to be too Sincere.
+
+
+Soon after this, the Discourse fell
+upon other Matters, as want of Com∣passion
+and Charity in the Rich.
+What an excess of Barbarity crys
+our Man of Honour, is this? For
+my part, I always fall into the op∣posite
+Extream. I 
+melt
+ at every
+thing, I am 
+too Good
+ in my Temper,
+but 'tis a Fault I shall never Correct
+in my self. To make short, another
+who towards the Conclusion of his
+Story, happen'd accidentally to let
+the Word Avarice drop from him,
+found himself interrupted by our
+
+Modest
+ Gentleman, who made no dif∣ficulty
+to own that 
+Liberality
+ was his
+Vice. 
+Ah Sir,
+ replied the Man cold∣ly,
+who was interrupted, you have
+three great Vices, Sincerity, Good∣ness,
+and Liberality. This excess of
+Modesty in you, which makes you
+own these Vices, give me to under∣stand
+Sir, that you are Masters of all
+the 
+contrary Vertues.
+
+
+In my Opinion now, this was
+plucking off the Vizor of our Sir
+
+Formal.
+ This was discharging a 
+Pi∣stol
+
+at his Breast: One would have
+
+
+thought it wou'd have went to the
+very Heart of him. In the mean
+time he did not so much as feel the
+Blow; the 
+Callus
+ of his Vanity had
+made him invulnerable, he takes
+every thing you say to him in good
+part. Call him in an Ironical man∣ner,
+the 
+Great Heroe of Probity,
+ he
+takes you in the Litteral Sense. Tell
+him in the plain Language of 
+T. O.
+
+that he's 
+a confounded Rascal,
+ Oh Sir,
+says he, your humble Servant, you
+are disposed to be merry I find: thus
+he takes it for Raillery.
+
+
+These 
+Raillers
+ have a fine time
+on't you see, to 
+Iest
+ upon a Man of
+so 
+Oily
+ a Temper. What a Vexation
+is it to your Gentlemen that speak
+sharp and witty Things, to level
+them at so 
+supple
+ a Slave. All the
+Pleasure wou'd be to touch him to
+the Quick, to confound his Vanity.
+Wit does but hazard it self by At∣tacking
+him in the Face, there's no∣thing
+to be got by it: 
+Vanity is a
+Wall of Brass.
+
+
+But I find nothing will be lost.
+There sits a Gentleman in the corner
+of a quite different Temper, who
+takes every thing upon himself, that
+
+
+was meant to another. He 
+Blushes,
+
+he grows 
+Pale,
+ he's out of Counte∣nance;
+at last quits the Room, and
+as he goes out, threatens all the Com∣pany
+with his Eyes. What does the
+World think of this holding up the
+
+Buckler,
+ they put but a bad Constru∣ction
+upon it, and say that his Con∣science
+is 
+Ulcerated,
+ that you cannot
+touch any String, but it will answer
+to some painful place. 
+Touch a Gall'd
+Horse and He'll Wince.
+ In a word,
+he's wounded all over, because he's
+all over Sensible of Pain.
+
+
+These are two Characters that
+seem to be directly opposite; how∣ever,
+it were easie to prove that these
+two are the same at Bottom. What's
+this Bottom? Divine it if you can:
+One Word wou'd not be sufficient to
+explain it clearly to you, and I am
+not at leisure to give you any more.
+I perceive a Man coming into the
+Room whom I am acquainted with,
+he will interrupt me without Re∣morse.
+I had better be beforehand
+with him, and hold my Tongue.
+
+
+Silence
+ Gentlemen, 
+Silence,
+ and
+see you shew due Respect. You
+will immediately see one of those
+
+
+
+Noble Lords
+ who believe that all is
+due to them, and that they owe no∣thing
+to any Body. When my 
+Lord
+
+enter'd, every one put on a demure
+Look, and he himself came in with
+a 
+Smiling
+ look, like a true Polititian.
+Immediately he makes a thousand
+Protestations of Friendship to every
+one; but at the same time that he
+promises you his Service, he looks
+as Pale as a 
+Scotchman,
+ when he of∣fers
+you his Purse.
+
+
+He is scarce sate down in his Chair,
+but he embroiles the Conversati∣on.
+He talks to four several Persons
+about four several Affairs at once:
+He puts a 
+Question
+ to one Man, with∣out
+waiting for an 
+Answer
+ of ano∣ther:
+He proposes a 
+Doubt,
+ Treats
+it, and resolves it all by himself. He's
+not weary of 
+Talking,
+ though all the
+Company be of 
+hearing
+ him. They
+steal off by degrees, and so the Circle
+ended.
+
+
+The 
+Publick
+ is a great Spectacle
+always New, which presents it self
+to the Eyes of private Men, and 
+A∣muses
+
+them. These private Men are
+so many diversified Spectacles, that
+offer themselves to the Publick View,
+
+
+and 
+Divert
+ it. I have already as it
+were in 
+Minature,
+ shew'd some few
+of these small inconsiderable private
+Spectacles. My Fellow Traveller not
+content with this, still demands of
+me, that I should speak a few Words
+more of the 
+Publick.
+
+
+
+
+
+
+
+
+
+
+Amusement XII.
+
+
+The PVBLICK.
+
+
+THE 
+Publick
+ is a 
+Prince
+ of which
+all those Hold, that aim at Ho∣nour,
+Reputation and Profit. Those
+Sordid Mean-Spirited 
+Souls,
+ that don't
+take any Pains to merit its Approba∣tion,
+are at least afraid of its Hatred,
+and Contempt. The Right we as∣sume
+to our selves to Judge of every
+thing, has produc'd abundance of
+Vertues, and stifled abundance of
+Crimes.
+
+
+The 
+Publick
+ has a Just, a Solid, and
+Penetrating Discernment: In the mean
+time, as 'tis wholly composed of
+Men; so there's a great deal of the
+
+Man
+ very often in its Judgments. It
+suffers it self to be Prepossessed as well
+as a Private Person, and afterwards
+prepossesseth us by the Ascendant it
+hath had over us for many Ages.
+
+
+
+The 
+Publick
+ is a true 
+Misanthrope,
+ it
+is neither guilty of 
+Complaisance,
+ nor
+
+Flattery;
+ nor does it seek to be Flat∣ter'd.
+It runs in Crowds to Assem∣bles,
+where it hears Truths of it self,
+and each of the Particulars that com∣pose
+the whole Body, love rather to
+see themselves 
+Ieer
+'d, than to deprive
+themselves of the Pleasure of seeing
+others 
+Ieer'd.
+
+
+The 
+Publick
+ is the Nicest and most
+Severe 
+Critick
+ in the World; yet a
+Dull Execrable 
+Ballad,
+ is enough to
+
+Amuse
+ it for a whole Year. It is both
+Constant and Inconstant. One may
+truly affirm, that since the Creation,
+the Publick 
+Genius
+ has never changed.
+This shews its 
+Constancy;
+ but it is fond
+of Novelties, it daily changes all its
+Fashions of acting, its Language and
+its Modes. A 
+Weather-Cock
+ is not
+more 
+Inconstant.
+ It is so 
+Grave
+ it strikes
+a Terror upon those that Talk to it,
+and yet so 
+Trifling
+ that a 
+Band,
+ or a
+
+Cravat
+ put the wrong way, sets the
+whole Auditory a Laughing.
+
+
+The 
+Publick
+ is served by the greatest
+
+Noblemen:
+ What Grandeur is there?
+And yet it depends upon those that
+serve it: How 
+Little
+ it is?
+
+
+
+The 
+Publick
+ is, if I may allow my
+self the Expression, always at Man's
+Estate, for the Solidity of its Judg∣ment,
+and yet an 
+Infant,
+ whom the
+errantest Scoundrel of a 
+Iack-Pudding,
+
+or a 
+Merry-Andrew,
+ shall lead from
+one end of the Town to the other.
+'Tis an 
+Old Man,
+ who shews his Dot∣age
+by Murmuring without knowing
+what he would have, and whose
+Mouth we cannot stop, when he has
+once began to Talk.
+
+
+I should never have done, were I
+minded to set down all the Contrarie∣ties
+that are to be found in the 
+Pub∣lick,
+
+since it possesses all the 
+Vertues,
+
+and all the 
+Vices,
+ all the 
+Forces,
+ and
+all the 
+Infirmities
+ of Mankind.
+
+
+Let us reassume our Gravity to con∣sider
+the Real 
+Grandeur
+ of the 
+Publick.
+
+'Tis out of it we see every thing pro∣ceeds,
+which is of any Consideration
+in the World: 
+Governors
+ to Rule Pro∣vinces,
+
+Iudges
+ to Regulate them,
+
+Warriers
+ to Fight, and 
+Heroes
+ to Con∣quer.
+After these Governors, these
+Judges, these Warriers, and these He∣roes,
+have Gloriously signaliz'd them∣selves
+in all Parts, they all come to
+meet again at Court; where Interpi∣dity
+it self 
+Trembles,
+ Fierceness is
+
+
+
+Softned;
+ Gravity 
+Rectified,
+ and Power
+
+Disappears.
+
+
+There those that are distinguish'd in
+other Places, like so many Sovereigns;
+among the Crowd of Courtiers, be∣come
+Courtiers themselves; and after
+they have drawn the Eyes of so ma∣ny
+Thousands after them, think it
+their Glory to be look'd upon by 
+One
+
+from whom those Illustrious 
+Stars
+ de∣rive
+their Splendour, and are never so
+near their 
+Meridian,
+ as when the
+
+Monarch,
+ that Spring of Glory, shines
+upon them, and Communicates
+some Beams of his Magnificence to
+them.
+
+
+As his very 
+Looks
+ raise the Merit of
+the greatest Actions, every one is Jea∣lous
+of him who endeavours to at∣tract
+them to himself; but for all that,
+they are so Complaisant, that they
+don't neglect to 
+Caress
+ the Man of
+whom they are Jealous.
+
+
+However, there are some 
+Elevated
+Souls
+ that have infinitely rais'd them∣selves
+about those 
+Court Infirmities.
+
+Real 
+Heroes
+ and 
+Brave
+ Men indeed!
+Who are no more grieved at the 
+Glory
+
+of others, than to share the Light of
+the 
+Sun
+ in Common with them.
+
+
+
+I own indeed, says my 
+Indian,
+ in
+taking his leave of me, that 
+England
+
+produces some of these perfect 
+En∣glishmen,
+
+whose Reputations have
+reached our Parts of the World; but
+it was to see something Greater than
+this, that I undertook this Voyage;
+and consider how I reason'd with my
+self as I pass'd the Ocean. 
+England
+
+abounds with 
+Illustrious Men,
+ and tho'
+there may be Animosities among
+them; yet they all unanimously now
+agree to Reverence and Respect 
+the
+King alone:
+ And must not he be an
+Extraordinary Man?
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+

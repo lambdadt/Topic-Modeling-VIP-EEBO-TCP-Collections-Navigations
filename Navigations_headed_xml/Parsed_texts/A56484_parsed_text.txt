@@ -1,0 +1,264 @@
+A particular account of the suddain and unexpected siege of Vienna, the capital city of Austria, and residence of the Emperour of Germany, at present besieged by the Turkish Army, consisting of a hundred and fifty thousand men (the 8th of July, 1683) under the command of the Grand Visier, and what passed during the seige [sic] as well within the city, as without it
+Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A56484
+
+
+
+
+Wing P587
+
+
+
+ESTC R20817
+
+
+
+
+
+ocm 12610763
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A particular account of the suddain and unexpected siege of Vienna, the capital city of Austria, and residence of the Emperour of Germany, at present besieged by the Turkish Army, consisting of a hundred and fifty thousand men (the 8th of July, 1683) under the command of the Grand Visier, and what passed during the seige [sic] as well within the city, as without it
+1 sheet ([2] p.)   
+
+
+[London :
+
+
+Printed for John Smith,
+
+
+1683]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Kara Mustafa Paşa, --  Merzifonlu, 1634-1683.
+Turkey. --  Ordu.
+Vienna (Austria) --  History --  Siege, 1683.
+Broadsides --  England --  London --  17th century
+2013-10
+TCP
+Assigned for keying and markup
+2013-11
+SPi Global
+Keyed and coded from ProQuest page images
+2014-02
+Colm MacCrossan
+Sampled and proofread
+2014-02
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P587
+
+
+R20817
+
+
+12610763
+
+
+64359
+
+
+
+
+
+
+
+
+
+
+
+
+A Particular ACCOUNT Of the Suddain and Unexpected 
+Siege of Vienna,
+ The Capital City of AUSTRIA, And Residence of the Emperour of GERMANY, At present Besieged by the 
+Turkish
+ Army, Con∣sisting of a Hundred and Fifty Thousand Men, (the 8th. of 
+July,
+ 1683.) under the Command of the 
+Grand Visier,
+ and what passed during the Seige, as well within the City, as without it.
+
+
+THis famous City took its Name from the River 
+Wien,
+ which flows into the 
+Danube,
+ and is the Residence of the Emperour, and Metropolis of 
+Au∣stria,
+ a Royal Fortification, Surrounded with thick Walls, Bastions, deep Ditches, and lofty Towers, in such sort as She may well be Stiled the 
+Bulwark
+ against the 
+Turks,
+ the Key of 
+Germany,
+ and of the 
+Christian
+ World, as She made it appear in the Year 1529. When 
+Solyman
+ the 
+Magnificent,
+ Emperour of the 
+Turks,
+ Sate down before it, with Three Hundred Thousand Men, and after Six Months Furious and unusual Attacques, was forced to withdraw, whereupon that 
+Christian
+ City was delivered.
+
+
+The 
+Turkish
+ Emperour, in this present Year, 1683, Like a Tyrant thirsting after 
+Christian
+ Bloud (by the Encouragement of the Rebel 
+Count Teckley
+) sent a∣gain into 
+Hungary,
+ Two Hundred Thousand Men, under the Conduct of the 
+Grand Visier
+ to Commence a War with the 
+Christians,
+ which is now carried on with great Fury: The 
+Turks
+ have lately made an Incursion near 
+Raab,
+ in which the Regiment of Dragoons Commanded by the Duke of 
+Savoy,
+ were Routed, the Duke himself, and the Prince of 
+Arembergh
+ Wounded, so that they Died; Whereupon the 
+Imperi∣al
+ Infantry retreated to the Isle of 
+Schut,
+ and the 
+Cavelry
+ to 
+Vienna,
+ near the 
+Da∣nube.
+ After which the 
+Grand Visier
+ passed the Cities of 
+orra
+ and 
+Raab,
+ and (the 8th. of 
+July
+) Beseiged the City of 
+Vienna,
+ with a Hundered and Fifty Thou∣sand Men; and ordered the Rest of the Forces, to lay waste the Country in their March, so as utterly to extirpate 
+Christianity.
+ The 
+Besiegers
+ immediately raised Three several Batteries before 
+Vienna,
+ and Fired thence into the Town, Day and Night, with great Fury, but the brave Governour, Count 
+Starembergh
+ made a Vi∣gorous
+
+Defence, levelled the Batteries, and in many Assaults happily repulsed the E∣nemy, so as there were Slain of the 
+Turks
+ in these Attacques above Twenty Thou∣sand, and of the 
+Beseiged
+ about Twenty Persons killed, and some Wounded: The 
+Turks
+ sent several times their Proposals for a short Respite to Bury their Dead, which was refused them, so as in the End, the Annoyance from dead Bodies, and those they found in the Mines, that Died of the Pestilence, Obliged them to draw some distance off from the City. In the mean time, the Beseiged were refreshed, and Vow∣ed to Defend it to the last drop of Bloud. All Things in the City Remained in a good Posture, and at length they seize'd two Incendiaries, who had privately conveyed Matches of Gunpowder with Artificial Fires into many Houses with design to Burn them, and to Fire the 
+Scotch Monastery
+ and 
+Church;
+ but their Designes were timely Dicovered, and the Contrivers were first Torterd, then cast alive into the Fire.
+
+
+The Beseiged did then believe the Enemy had forsook the City, but they returned and raised new Batteries, on which they mounted Six large peices of Ordinance and many new Mortar—peices, which they Discharged with greater Vigour than before. They gave out, that the 
+Grand Signior
+ wou'd come in person before his Army, and bring extraordinary Supplies with him. Notwithstanding, the Besieged supported themselves with great Resolution, for there came over not long before an Engineer who brought with him a Draught of the 
+Turkish
+ Camp to the Duke of 
+Lorrain,
+ and assured him, that the 
+Turk
+ wanted Provisions; and there∣fore that if the Three Mines they had sprung were ineffectual, they must speedilly raise the Siege: The Enemy blew up two of them, which were between the 
+Castle
+ and 
+Karndter Gate;
+ One of which was countermined, and in it many of the 
+Turks
+ slain: but the Second, weakened the 
+Counters Carp,
+ and the 
+Turks
+ lodged them∣selves in the 
+Ditch,
+ but by a brisk Sally, they were beaten off again,
+
+
+The 29th. of the last 
+Month,
+ were slan in a general Assault more than Ten Thousand 
+Turks.
+ In short, the City of 
+Vienna
+ wou'd endure, with the help of God, four or five Months longer, being so well stored with Provisions that Governour 
+Starembergh
+ sent as much Bread for two Pence to the 
+Turkish
+ Camp as wou'd cost with them six Crownes: Wee hope by the Divine Assistance, that the Cheif 
+Christian
+ City will be preserved from the Cruelty of the 
+Turkish
+ Emperour, and that he may languish in his Desires and return to 
+Mahomets
+ Stables, and that the great God will dwell in the Garrison of 
+Vienna,
+ consisting of twenty Thousand Men Effective, besides the Scholars and Young Men, the Auxiliary Forces of 
+Poland
+ and those of the Empire.
+
+
+Made 
+English
+ from the 
+High—Dutch.
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed for 
+John Smith,
+ 1683.
+
+
+
+
+
+
+
+
+

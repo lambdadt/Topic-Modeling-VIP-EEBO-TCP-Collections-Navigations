@@ -1,0 +1,132 @@
+By the King a proclamation touching passengers.
+England and Wales. Sovereign (1603-1625 : James I)
+Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-04 (EEBO-TCP Phase 2).
+A22026
+
+
+
+
+STC 8395
+
+
+
+ESTC S123058
+
+
+
+
+
+ocm 33150487
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the King a proclamation touching passengers.
+England and Wales. Sovereign (1603-1625 : James I)
+James I, King of England, 1566-1625.
+1 sheet ([1] p.).   
+
+
+Imprinted at London :
+
+
+By Robert Barker, Printer to the Kings most Excellent Maiestie,
+
+
+1606.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Passports --  Great Britain --  Early works to 1800.
+Travel restrictions --  England.
+Women --  Travel --  Law and legislation --  England --  Early works to 1800.
+Minors --  England --  Travel --  Early works to 1800.
+Great Britain --  History --  James I, 1603-1625.
+Broadsides --  London (England) --  17th century.
+2008-08
+TCP
+Assigned for keying and markup
+2008-11
+SPi Global
+Keyed and coded from ProQuest page images
+2009-04
+Mona Logarbo
+Sampled and proofread
+2009-04
+Mona Logarbo
+Text and markup reviewed and edited
+2009-09
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+8395
+
+
+33150487
+
+
+28631
+
+
+
+
+
+
+
+
+
+
+
+
+❧ By the King.
+
+
+❧ A Proclamation touching Passengers.
+
+
+W
+Hereas in the first Session of our Parliament holden at West∣minster
+ the nineteenth day of March in the yeere of our raigne of England, France and Ireland the first, and of Scotland the seuen and thirtieth; It was amongst other things Enacted, That no wo∣man nor any childe vnder the age of one and twenty yeeres (Except Saylers or Shipboyes or Apprentice, or Factor of some Merchant in trade of Merchandize) should bee permitted to passe ouer the Seas, except the same should be by licence of vs, our Heires or Suc∣cessors, or some fixe or more of our priuy Councell, thereunto first had vnder their handes, vpon paine that the Officers of the Port that should willingly or negligently suffer any such to passe, or should not enter the names of such Passengers licenced, should forfeit his Office, and all his goods and Chattels, And vpon paine tha the owner of any Ship or Vessell, that should wit∣tingly or willingly cary and such ouer the Seas, without licence as is aforesaid, should forfeit his Ship or Vessell, and all the Tackle, And euery Master or Mariner, of or in any such Ship or Vessell, offending as is aforesaid, should forfeit all their goods, and suffer imprisonment by the space of twelue moneths without Baile, or Maineprise, As by the saide Acte of Parliament a∣mongst other things may more at large appeare:
+
+
+And whereas many such our Subiects, That is to say, women and persons vnder the age of twenty and one yeeres, haue from time to time iust and necessary causes and occasions to goe and passe ouer the Seas, In which cases for euery such women and persons vnder the age of twenty and one yeeres to obteine such licence, either from our selues, or from sixe of our said Pri∣uy Counsel according to the said Law, is very inconuenient, and almost impossible; Wee haue therefore thought conuenient, for the case aswell of our selfe and our said Counsell, as of such of our Subiects as are of the condition mentioned in the saide Acte of Parliament, to graunt our Commission to persons of trust in certaine Ports of our Realme, lying most apt and conuenient for passage, That is to say, London, the Cinque Ports, Harwich, Yarmouth, Hull, and Way∣mouth, to licence such women and persons vnder the age of twenty and one yeeres, as shall haue iust cause to passe out of our Realme, vpon due examination had of them, to passe without perill to themselues, or the Officers of our said Ports, Notwithstanding the said Statute or any thing therein conteined. And we haue thought it fit to giue publique knowledge hereof to alour Sub∣iects, and to all our Officers whom it may concerne, to the ende they may know what shall bee lawfull for them to doe in those cases.
+
+
+Giuen at the Castle of Farneham 
+the xxiij. day of August, in the fourth yeere of of our Reigne of Great Britaine, France and Ireland.
+
+God saue the King.
+
+
+
+
+
+
+
+
+
+
+❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. 1606.
+
+
+
+
+
+
+
+
+

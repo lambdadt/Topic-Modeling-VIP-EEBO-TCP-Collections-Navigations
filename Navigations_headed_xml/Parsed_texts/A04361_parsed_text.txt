@@ -1,0 +1,1227 @@
+The theater of Iaponia's constancy in which an hundred and eighteene glorious martyrs suffered death for Christ, in the yeare of our Lord 1622. Also, a briefe relation of the many, and wonderfull miracles, it hath pleased God lately to worke, by the merits and intercession of S. Ignatius, founder of the Society of Iesus, at Munebrega a towne in Spayne, in the moneths of Aprill and May, of the yeare 1623. Both faithfully translated out of Spanish originalls, lately printed at Madrid.
+Teatro de la constancia japonesa.
+Approx. 75 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A04361
+
+
+
+
+STC 14475
+
+
+
+ESTC S106585
+
+
+
+
+
+99842299
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The theater of Iaponia's constancy in which an hundred and eighteene glorious martyrs suffered death for Christ, in the yeare of our Lord 1622. Also, a briefe relation of the many, and wonderfull miracles, it hath pleased God lately to worke, by the merits and intercession of S. Ignatius, founder of the Society of Iesus, at Munebrega a towne in Spayne, in the moneths of Aprill and May, of the yeare 1623. Both faithfully translated out of Spanish originalls, lately printed at Madrid.
+Teatro de la constancia japonesa.
+Badduley, William, b. 1597.
+47, [1] p.   
+
+
+[Saint-Omer :
+
+
+English College Press] Permissu Superiorum,
+
+
+M. DC. XXIIII. [1624]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Ignatius, --  of Loyola, Saint, 1491-1556 --  Early works to 1800.
+Martyrs --  Early works to 1800.
+Miracles --  Early works to 1800.
+2012-10
+TCP
+Assigned for keying and markup
+2012-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-02
+Colm MacCrossan
+Sampled and proofread
+2013-02
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+14475
+
+
+S106585
+
+
+99842299
+
+
+6944
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE THEATER Of Iaponia's Constancy: IN WHICH 
+An
+ Hundred 
+&
+ Eighteene 
+Glorious Martyrs suffered Death for Christ, in the yeare of our Lord
+ 1622. ALSO A briefe Relation of the many, and wonderfull Miracles, it hath pleased God lately to worke, by the Merits and Inter∣cession of S. IGNATIVS, Founder of the Society of IE∣SVS, at 
+Munebrega
+ a Towne in 
+Spayne,
+ in the Moneths of Aprill and May, of the yeare 1623. 
+Both faithfully Translated out of the Spanish Originalls, lately printed at Madrid.
+
+
+
+
+printer's device of the English College at Saint-Omer, featuring the seal of the Jesuites or Society of Jesus, a sunburst containing a cross over the letters IHS over three nails
+
+
+IHS
+
+
+
+
+Mirabilis Deus in Sanctis suis. 
+Psal. 
+67.
+
+
+
+
+Permissu Superiorum, M.DC.XXIIII.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE THEATER OF IAPONIA'S CONSTANCY.
+
+
+T
+HE cause of the ensuing so strange and cruell Martyrdomes, such as were neuer heard of in the Kingdom of 
+Iaponia,
+ since the Persecution a∣gainst the Christians there began, was this as followeth.
+
+
+Whereas the Emperour of 
+Iaponia
+ some yeares past, had forbidden, by Proclamation throughout all the Prouinces of that Kingdome, vpō paine of death, that no Sayler or Mariner should bring any Christian Religious man into 
+Iaponia;
+ which was a thing very easy to be done, in regard that 
+Manila
+ the chiefe Cit∣ty of the 
+Philippine
+ Ilands is so neare, and where there is so great trafficke betweene the 
+Spanyards
+ and 
+Iapo∣nians:
+ Notwithstanding some there were both Chri∣stians, and Catholike Marriners, who styrred vp with zeale of Gods Honour, not regarding the threats and penaltyes of the lawes, did bring at sundry tymes from 
+Manila
+ into 
+Iaponia,
+ many Religious men, in
+
+ secular apparell, to cultiuate and manure that new-planted Vineyard of this new-found Christendome.
+
+
+Amongst the sayd Marriners there was one more famous thē the rest, Captayne of a ship, called 
+Ioachim,
+ who as he sayled from 
+Manila
+ towards 
+Iaponia,
+ car∣ried with him two very Reuerend Religious men, the one wherof was called Father 
+Pedro de Zuniga
+ of the Order of 
+S. Austen,
+ and the other, Father 
+Lewis de Flores
+ of the Order of 
+S. Dominicke,
+ whome he could not transport so secretly, but they were betrayed by certayne 
+Hollande s,
+ who euen vpō the very shoare of 
+Iaponia,
+ inuaded and robbed 
+Ioachims
+ ship, and also ac∣cused him before the Emperours Officers, for brin∣ging the sayd Religious men with him into 
+Iaponia,
+ contrary to the Emperours Proclamation: And for this cause was 
+Ioachim
+ presently cast into prison at 
+Fi∣randum,
+ togeather with the sayd two Fathers, and all the other Marriners that were Christians.
+
+
+There was at that tyme in the same Citty resi∣ding another Religious mā of the order of 
+S. Dominick
+ who went about to deliuer the foresayd Father 
+Lewis
+ out of prison; which indeed he had almost effected, to∣geather with the deliuery of many more Christians that were in the same Prison; but because he could not breake open the prison doores without great noyse, nor bring to passe what he had determined, with that secrecy he desired, his plot was soone discouered, and all the Prisoners brought backe againe into prison.
+
+
+When the Emperour heard of this, he tooke the matter so heynously, and was so inraged against the Christians, aswell in regard of the new comming of
+
+ those Religious men into his Kingdome, to preach the Christian fayth, as also, because they had broken his Maiesties prison; that without delay, he commā∣ded the Gouernour of 
+Nangasachi
+ presētly to repayre to 
+Firandum,
+ and there put to death first of all 
+Ioachim
+ the Captayne, and afterwards the two Religious men that he brought with him, as also all the other Marriners, that were Christians. Moreouer he com∣manded, that all other Religious men, whether they were of 
+Europe,
+ or of 
+Iaponia
+ who were imprisoned in diuers Cittyes should be put to death. And the like pu∣nishment he charged to be inflicted vpon all Widows, and Orphanes, whose Husbands, or Parents had in the former Persecution of late yeares, suffered death for the fayth of Christ.
+
+
+The Gouernour with all speed, at the Empe∣rours commaundment, came to 
+Firandum,
+ where cal∣ling for the prisoners, he began to examine and aske them many questions; as, whether they were Chri∣stians? From whence they came? Of what Nation they were? And when, and where they were bapti∣zed? Nor he did forget, now and then to exhort them to renounce their Fayth, promising them their liues, if they would so do; & affirming that he had full power and Commissiō from the Emperour, for what he promised.
+
+
+But to this last, one and the selfe same most con∣stant Reply was made by all; That nothing in the world should cause them deny their fayth, nor breake the promise they had made to IESVS CHRIST in Bap∣tisme. Vpon which answere and firme resolution, the
+
+ Gouernour presently pronounced sentence, and con∣demned the Captayne 
+Ioachim,
+ and the two Religious Fathers 
+Pedro de Zuniga
+ the 
+Augustine
+ Friar, and Father 
+Lewis de Flores
+ the Dominican, to be burned aliue, & the rest of the Marriners, who were twelue in number, to be beheaded.
+
+
+Now these holy Confessours of IESVS CHRIST hauing receaued this doom, the more to increase their ioy and assurance of dying for Christs sake, demanded of the Gouernour, for what cause he adiudged them to death? And they receiued this answere in very plaine tearmes: to wit, that the Religious men must dye, because they had against the Emperours decree, entred into 
+Iaponia
+ to preach the law of Christ; and the rest for that they had brought the said Preachers into the Countrey to that end. Which plaine declara∣tion was an exceeding ioy and Iubily of heart vnto them all, when they saw themselues condemned to death for the fayth, and loue of IESVS CHRIST.
+
+
+The place appointed for the execution, was out of the Citty of 
+Firandum,
+ where there was a faire and large plot of ground, like vnto an Amphitheater, all inclosed round with woodden rayles. Hither were the holy Cōfessours brought forth of the Citty, with infinite multitudes of people, and the three foremost placed ech one at a pillar, or stake, whereunto they were bound, with great aboundance of fagots, and wood layd round about them. But before the fire was kindled, the other twelue Marriners heads were strokē off within the foresaid place, before the eyes of the Holy Confessours, that stood now ready at the stake
+
+ to be burned.
+
+
+Heere now the good Captayne 
+Ioachim
+ made knowne the force of Christian Eloquence, being not only permitted, but also commanded by the sayd two Religious Fathers his Companions (who by reason of the short tyme of their abode in 
+Iaponia,
+ had not yet learned the language of that countrey) to professe the fayth of Christ in the name of all the rest. Of whome, such as did both see and heare him, do affirme, that he seemed rather to speake like an Apostle, then an ordi∣nary Preacher, much lesse a poore Marriner; such was the feruour, such the courage wherewith he preached IESVS CHRIST, in the very middest of the fyre and smoke. And by how much more the barbarous Gen∣tils endeauoured aswell by often interrupting him, as by threats, to make him hold his peace; so much the more did he cry out, and say, that it was meet he should rather obey God then Man. Neyther, can I be terri∣fied (sayd he) by your threatninges: for what more cruell, or more grieuous torment can you deuise, then that which I now indure in burning heere aliue? And this he said out of the middest of the burning fire, as if it had bene out of a flaming pulpit, with an admira∣ble feruour of spirit, being indeed inflamed with the loue of IESVS CHRIST. Nor did he leaue darting out such fiery words, vntill himselfe, togeather with his two most blessed Companions, with wonderfull constancy ended their liues, and that in so quiet a manner, as if they had been altogeather immoueable, and wrapt in heauenly contemplation.
+
+
+This first Pageant was represented vpon the
+
+ one and twentith day of August, in the yeare of our Lord 1622. in presence of an infinite number of Chri∣stians, who by continuall acclamations and crying out, and calling vpon God to assist them, endeauou∣red by all meanes possible to encourage the holy Mar∣tyrs to suffer death patiently, for the loue of IESVS CHRIST.
+
+
+The Executioners, as soone as they perceyued that the Martyrs were dead, went, and exposed the heads of those which they had first stroken of, vpon a very high Table, to the greater feare, and terrour of all that should behold them. But the bodyes, aswell of those that were beheaded, as of those that were bur∣ned, they layd them all vpon a heape togeather, with∣in the place of execution, well guarded round about with railes of wood, as also with souldiers, vntill fur∣ther order were giuē what should be done with them.
+
+
+The concourse of the people that came thither both night and day to worship those Holy Reliques, was wonderfull; notwithstanding the many and grie∣uous blowes, yea and wounds which they receyued of the souldiers who were commanded there to watch, that no Christian should take away any of the same. But yet all they could do, was not inough to preuaile against the good desires of the Christians, but that some of the more principall sort, what by their owne Industry, and what by bribing of the souldiers, with pious deceyt stole away some of the bodyes. Amongst which they had a particular care to take away the whole body of Father 
+Pedro de Zuniga,
+ with intention to conuay it first to the Citty of 
+Manila,
+ & frō thence
+
+ to send it into 
+Spaine,
+ where the Honour of so worthy a death, and the ornaments of so glorious a Triumph, due not only to the excellency of his Vertue and Pie∣ty, but also to the Nobility of his bloud and birth (his Father being Marquesse of 
+Manrique,
+ & sometymes Viceroy of 
+Hispaniola,
+ or new 
+Spaine
+) are expected to be celebrated with all due Reuerence and Solemnity.
+
+
+The Gouernour of 
+Nangasachi,
+ after he had be∣stowed the crowne of Martyrdome vpon these victo∣rious Champions, sent his Officers to 
+Omura
+ to fetch those other Christians, of whome we made mention before, who lay there in prison, desiring and longing for nothing so much as to see that happy houre, wher∣in they might come to shed their bloud for the loue of IESVS Christ.
+
+
+Behold now heere, I beseech you (Gentle Spe∣ctators) behold heere a conflict, nay rather an admira∣ble Combate, and such a Combate as the like was ne∣uer seene before in all 
+Iaponia.
+ Fiue and fifty valiant Champions of IESVS Christ, vpon one and the selfe same day, obteined the victorious Palme of martyr∣dome, in manner as followeth.
+
+
+Of these most happy Warryours of Christ, fiue & twenty were taken out of prison at 
+Omura,
+ wherin, though some longer then others, yet all in generall, as young souldiers they had bene trayned vp in this pri∣uate Fencing-Schoole, with so hard, and miserable a vsage, as barbarous Heathens are accustomed to en∣tertaine such guests withall. For, there was made vnder the ground, a most horrible and filthy Caue, scarce large inough for twelue ordinary matt-beds of
+
+ bulrushes, to lye one by another. Heere sometimes thirty prisoners, sometimes more, three and three to a matte of eight palmes long, and three in breadth, were constrained to lodge both night and day, with∣out hauing so much as one foote of roome more to stir vp and downe in: & which is more (and of it self alone had bene inough to dispatch them all in short tyme) in the very same roome, they were to giue place vnto the necessity of nature. And as for their dyet, the daily pittance allowed them, was a little dish of blacke Ryce, with a few broyled Pilchards, or as it chanced now and then a suppe of broth, wherein Radish lea∣ues had bene boyled.
+
+
+In the meane time, whilest the Officers were taking these couragious Chāpions out of the foresaid miserable dungeon, to be conueyed to the place of ex∣ecution, the Gouernour called for thirty men & wo∣men also out of the prison of 
+Nangasachi,
+ whome he determined to put to death togeather, with those that were to come from 
+Omura.
+ And when he had giuen sentence of death against them, commanding that the same should be put in execution the next day, he sent them backe againe vnto prison: who albeit they went chayned all togeather, like malefactours, worthy to dye for most notorious crymes; yet they departed frō the Iudgment seat with great Ioy and Iubily of heart, euery one holding vp a Crucifix, or other Crosse in his hand, as high as he could, in signe of Tryumph.
+
+
+The troupe of couragious Women marched first; amongst whome one more eminent, as Captayne, went before the rest, with a banner of Christ IESVS
+
+ crucifyed displayed in her hands. After her followed all the rest in māner of procession, sounding forth the prayses of Almighty God, with all honour, and mag∣nificence, and contempt of the Idols with all scorne and reproach: wherof many of the woman lifted vp in their armes towards Heauen, their little sucking Christian Babes, as Sacrifices ready to be offred vn∣to God together with themselues.
+
+
+After the women followed the vndaunted band of mē, putting likewise thēselues in such order of proces∣siō, that affoarded a most worthy & pleasāt shew vn∣to the eyes of God, & to all the Christians that beheld the same; who not contented with the only beholding therof, but inflamed with an holy emulation of their hapines, went also in great nūbers accōpanying thē, & following their steps with great reuerēce & deuotion.
+
+
+Not long after this, entred into the Citty the foresaid Prisoners that were sent for from 
+Omura,
+ in number fiue and twenty, amongst whome one and twenty were Religious men of diuers Orders: Whom when the Christians of 
+Nangasachi
+ beheld, what flock∣ing made they (thinke you) to come to see, and to sa∣lute them? Who is able to recount with what teares and sighes euery one now entertained his ghostly Fa∣ther, by whome he had bene baptized, and regenera∣ted in Christ IESVS? Who can expresse with what weeping and lamentation they deplored their owne most lamentable case, that these their spirituall Fa∣thers, Tutours, and Maisters, should now be depri∣ued of life, by whose meanes the life of grace had not only bene so long nourished and conserued, but euen
+
+ first of all infused into their soules? In the meane tyme, the ioyfull Fathers ceased not to comfort their affli∣cted children, bidding them be of good comfort; & encouraging them to put their trust in the Fatherly protection of Almighty God; assuring them that his Infinite Goodnes would neuer let them want other Fathers and Maisters to nourish, and increase their good desires. And so finally exhorting, & animating them to perseuere constantly in the sincere and true fayth of IESVS Christ, euen vntill death, they tooke their last farewells.
+
+
+Being now come vnto the place of execution, the Officers assigned euery one a pillar or stake, wher∣at he was to be burned; which euery one of the holy Priests, before they were bound vnto them, falling downe vpon his knees, with great reuerence imbra∣ced, and saluted with a thousand kisses: The like also did the lay Religious Brothers, being moued therunto by the pious example of the Priests. The sight wherof was a cause of great admiration to the Beholders, and stirred vp in the harts of many so great feeling of de∣uotion, that they could not refraine from teares.
+
+
+In this meane tyme, whilest those thirty priso∣ners, which (as before we recounted) had bene sent backe with their sentence of death to the prison, in the same Citty, were coming towards the same place of execution; the officers were busied in binding to their seuerall pillars the fiue and twenty before na∣med, all whome they bound but very loosely in or∣der following.
+
+
+Vnto the foure first pillars were bound foure Men,
+
+ condemned for no other crime, but only because they had sometimes entertained and lodged in their houses with great charity some of the sayd Religious Fathers. Next vnto these stood the one and twenty Religious men, some of 
+Europe,
+ and the rest of 
+Iaponia.
+ The first place amongst these, was allotted to the Reuerend Father 
+Charles Spinola,
+ an Italian Priest of the Society of IESVS, borne in 
+Genua,
+ and descended of the re∣nowed Bloud and Family of the 
+Spinola's,
+ greatly re∣uerenced and accounted of amongst all men, by rea∣son of his Birth, but much more in regard of his ex∣cellent Vertue, his rare parts, and singular endowmēts both of mind and body; as also for his excessiue and continuall labours & paines, employed in cultiuating the vineyard of Christ IESVS in 
+Iaponia,
+ so far from his Natiue Country, which he, and all the rest of those who were of Europe, had forsakē for the loue of God, to gaine soules in 
+India.
+
+
+After Father 
+Spinola,
+ followed the Reuerēd Fa. 
+An∣gelus Ferrerius
+ of the order of 
+S. Dominicke;
+ Fa. 
+Ioseph de S. Iacintho
+ of the same Order; Fa. 
+Iacinthus,
+ also of the same. Then followed Father 
+Sebastian Quimura
+ of the Society of IESVS, a Cittizen of 
+Firandum
+ borne in 
+Ia∣ponia,
+ who had liued there thirty yeares in the Society of IESVS, of which he had bene Priest for the space of twenty; being himself the first 
+Iaponian
+ that euer tooke vpō him the holy Order of Priesthood, wherin he she∣wed himselfe a most worthy labourer in the vineyard of his Country, a mā endowed with singular Vertues, and an excellent Preacher in the Iaponian language.
+
+
+Then followed the Reuerend Father 
+Peter de A∣uila
+
+
+ of the order of 
+S. Francis;
+ Father 
+Richard de S. An∣na
+ of the same Order; Father 
+Alfonsus de Mena
+ of the order of 
+S. Dominicke;
+ Father 
+Francis de Morales
+ of the same.
+
+
+They that were not Priests, were placed in this order: 
+Vincentius,
+ a Religious Brother of the order of 
+Saint Francis
+ borne in 
+Europe: Anthony Fugia
+ a Iapo∣nian, of the Society of IESVS: 
+Gonsaluus Fusay
+ of the same Society and Countrey: 
+Petrus Zampo
+ of the same both religion and Countrey: 
+Michael Iaponensis
+ of the same Order. After these againe followed foure o∣ther of the order of 
+S. Dominicke:
+ And last of all were brought three of the Society of IESVS borne in 
+Iapo∣nia,
+ to wit 
+Thomas Acasgin, Ludouicus Cauarato,
+ who were likewise bound to their pillars, and 
+Iohn Chacoco,
+ who alone amongst those fiue and twenty that were condemned to the fire, for want of a pillar whereat to be burned, was beheaded presently; and first of all obtayned the crowne of Martyrdome by the sword.
+
+
+So as to reckon them ouer againe there were of secular men Foure, that were cōdemned for receiuing of the Religious Fathers into their houses, Nine reli∣gious men of the order of 
+S. Dominicke,
+ Three of Saint Francis, and Nine of the Society of IESVS, all which being put together, do make the full number of fiue and twenty Crowned-Martyrs. The Executioners had scarce made an end of placing and binding these vnto their pillars, when behold that other new troupe of thirty glorious Confessours which were condem∣ned to be beheaded, were brought to the same place, who as soone as they saw the religious men, they fell
+
+ sodainly to imbracing, and saluting them with many teares and sighes.
+
+
+Amongst the rest, a certaine Matrone called 
+Isa∣bella Fernandez,
+ came running to the pillar wherunto Father 
+Charles Spinola
+ was bound, to giue him the last farewell. She was the wydow of a most noble Martyr who for hauing entertained the said Father in his house had vnder gone a glorious death. She had a little child called 
+Ignatius,
+ scarce fiue yeares old, whom she most deerely and tenderly loued. When she was euen now ready to lay hold vpon the pillar, and Father 
+Charles
+ ready to salute her, he cryed out vnto her, 
+ô Isabella, Isa∣bella, vbi est tuus Ignatiolus? vbi est? vbi est, inquam, fi∣liolus tuus?
+ Where is your little 
+Ignatius?
+ where is, I say, your little Sonne? 
+Isabella
+ hearing this, as she had her hart all inflamed and set on fire, and to the end she might make answere no lesse by deedes, thē by words, made no more a doe, but straight fetching forth her little One from amongst the throng of people, tooke him in her armes, and lifting him vp towards Heauen, presented him before the Father, saying: Behold heere (my dearest Father) behold my little Sonne; behold heere I bring you my little 
+Ignatius;
+ I offer you my little sonne, that he may be sacrificed vnto God, and become a martyr, togeather with his mother, in this your Company.
+
+
+When Father 
+Charles
+ saw, and heard the Mother vtter such resolute speaches, cōcerning her little sōne, it is incredible what comfort, and spirituall ioy he conceiued in his soule.
+
+
+Now approached the happy houre so much lon∣ged
+
+ for of all this couragious Troupe: now was the fuell all set ready round about the pillars; but before the fire was put vnto it, the Executioners, with most barbarous cruelty, cut off the heads of those thir∣ty men and women, as also of twelue young children, the eldest whereof was not yet full ten yeares old. And when it was demanded of them, Why they be∣headed these before they had burned the others, that came first to the stake? They answered, they did it, to terrify and disanimate them, that they might haue little courage to vndergoe the tormēt of the fire. And to the end they might better accomplish what they did pretend, they tooke vp the heads of those whome they had slaine, yet warme, and all-imbrued with their owne innocent bloud, and bowled, & tumbled them vp and downe before their eyes.
+
+
+But when they saw that the holy Confessours could not be daunted, or discomfited with this, they kindled the fire. The fuell now, which on euery side enuironed the fiue and twenty Holy Martyrs, began indeed to flame, and burne vehemently: But (as many with particuler diligence obserued) there was a great space left betwixt the fire, and the Reli∣gious men; and as some, that were more curious then others, and tooke the measure of it, say it was no lesse then three yards distant frō them on euery side. And this was also done of set purpose, that they might be tormented & consumed by little and little, with a slow & lingring fire; and therfore the Officers were still ready at hand to quench the flame when it bur∣ned too fast, for feare of dispatching them too soone.
+
+
+
+
+But for what end did they this? For no other surely, but that such as would forsake their faith, and woorship their false Gods, might the more easily es∣cape. And for this purpose also they left their bands so slacke, that they might themselues easily vntye thē, and he that would yeild to the Presidents offer be∣fore mentioned, might therby saue his life. And for the same cause likewise they set the gate of the place of Executiō wide open, that whosoeuer would, might cast downe his crowne of Martyrdome, and escape both fire and sword.
+
+
+But there was not found one amongst all these Glorious Confessours, who did not in the very mid∣dest of the scorching flames reioyce and triumph in our Lord: Who did not fixe his eyes vpon Heauen, with all hope and confidence in God: and who did not finally indure the burning fire with a quiet and cheerfull heart, and with his whole body so immo∣ueable,
+
+
+
+Ac si dura silex, vel stet Marpesia cautes.
+
+
+
+
+
+
+As if he had byn as hard as flint,
+
+
+Which Iron cannot feele;
+
+
+Or harder then Marpesian rockes,
+
+
+That blunt the sharpest steele.
+
+
+
+
+Neither was it for any short tyme, that this ad∣mirable Constancy of the valiant Champions, remai∣ned still inuincible, and vndaunted in the middest of the raging flames: For there wanted not some (whose diligence is greatly to be commended) who hauing of purpose brought hower-glasses with them, to note the
+
+ tyme, affirme, that most of these holy Martyrs endu∣red with incredible courage and magnanimity, this horrible tormēt, for the space of an hower and a halfe, and some others for the space of two whole howers. Nay (which is more) concerning the blessed Martyr 
+F. Sebastian Quimura
+ of the Society of IESVS, they do constantly report, that they saw him broyling aliue in the fire for the space of three whole howers, diligēt∣ly noted by the hower-glasses, to the wonderfull asto∣nishment of the Barbarous Gentils, who for many dayes after did talke of nothing else, but of this holy Martyrs so long sufferance, & that not without great wonder, and admiration.
+
+
+One thing there was, that amongst the rest, was a chiefe and speciall cause of the great courage and constancy of these noble Champions, I meane the so extraordinary and great concourse of Christians that were present, which could not choose but be so much the greater, by how much they had notice of the time & place long before, by meanes aswell of the Procla∣mation, as also in regard of the desire they had to see so many famous Religious men, both of 
+Europe
+ and 
+Ia∣ponia,
+ and such venerable Priests, who had so long laboured and taken paines in the Vineyard of 
+Iaponia,
+ some for twenty, some for twenty fiue, yea and some for whole thirty yeares togeather.
+
+
+But that we may make some ghesse at the number of the spectatours, it will not be amisse to call to mind what Father 
+Iohn Baptista de Baeza
+ of the Society of IESVS, Rectour of 
+Nangasachi,
+ who hath dwelt in 
+Ia∣ponia
+ now full foure and thirty yeares, doth testify in
+
+ his Letters sent from thence to 
+Manila,
+ that there were to be found in that one only Citty of 
+Nangasachi,
+ and in the Territory of the same, aboue fifty thousand Christians: so as there were present an infinite num∣ber of the said Christians, to see, and with great ioy and comfort to behold, how cheerfully these holy Martyrs all ended their liues in the midst of burning flames; and how some of them as they were most pit∣tifully broyling, humbly falling vpon their knees, dyed most sweetly, imbracing and kissing their stakes which now togeather with the Martyrs, were halfe consumed by the fire.
+
+
+The fire was no sooner out, but the Christians instantly with great violence brake into the place of Execution, to reuerence and gather vp the sacred Reliques. The Barbarous Guard begā at first to oppose themselues against them, laying about them as hard as they could with their weapons: but when they saw they could not preuaile by this meanes, they inuen∣ted another, that therby both themselues might seeme to depart with victory from the holy Bodyes; and al∣so that there should not remaine the least iote, or signe of the sacred Reliques, in memory of the Martyrs.
+
+
+The President therfore commanded a huge deepe pit to be made in the ground, and in the same a very great fire of wood, and all the bodies of the blessed Martyrs, togeather with the pillars and stakes wher∣vnto they had byn tyed, to be cast into the same, and there burnt to ashes, and lastly all the ashes very care∣fully put in sackes to be carryed in ships farre out of the sight of 
+Nangasachi,
+ and there to be scattered,
+
+ and cast into the mayne sea.
+
+
+The day next ensuing after this most illustrious Martyrdome, which was the eleauenth of September, was beheaded 
+M. Gaspar Cotengan-doxico,
+ who was wont to accompany Father 
+Camillus Constantius
+ of the Society of IESVS, the Apostle of 
+Iaponia;
+ and who by trauailing vp and downe diuers parts of the Coun∣try did greatly assist him in the conuersion of the Infi∣dels. There were also beheaded with him two chil∣dren, that were the sonnes of Martyrs, one wherof was but seauen, the other a little aboue nine yeares old.
+
+
+Another Christian also as he was gathering vp some small Reliques or ashes of the sacred bodyes of the burned Martyrs, which were kept with watch & ward, within the forsaid place of Execution, was in the night apprehended, and brought before the Go∣uernour; Who when he vnderstood that he was a Cit∣tizen of 
+Omura,
+ sent him thither presently as prisoner, where the Gouernour of that Citty, as soone as he arriued, put both him, and all his family to death; and so for the fayth of Christ they all obtayned a crowne of Martyrdome.
+
+
+The twelfth day of September there was at 
+Omu∣ra
+ a famous Martyrdome of the R. Father 
+Thomas de Summarega,
+ one of the most auncient amongst those of 
+S. Dominick
+ Order, that had laboured in the vine∣yard of 
+Iaponia;
+ and of the R. Father 
+Apollinaris Fran∣co,
+ none of the last, or least of the 
+Iaponian
+ Apostles, of the Order of 
+S. Francis;
+ and also of diuers other Iaponians, who were all consumed by fire, for the
+
+ fayth and loue of IESVS Christ. Amongst these was a certaine Woman whose admirable piety and deuotion deserueth euerlasting memory: for that after she had beene found by the Officers amongst the sacred Reli∣ques of the fornamed holy Martyrs, and had already giuen sufficiēt testimony, both by praying & cōmen∣ding her selfe to their merits, what she was; being de∣manded what she was doyng, & whether she were a Christiā, or no, answered very couragiously, that they might easily see, if they had eyes, by what she did, that she was a Christian. And what, (said she) will you haue any thing else with me? For this her resolute an∣swere they made no more a doe, but instantly in the same place cut off her head, and cast her body vpon the heape of the rest of the Martyrs, which together with hers, do in all make the number of fifteene more.
+
+
+Ten other holy Martyrs also, togeather with 
+Au∣gustine Onda
+ of the Society of IESVS, who were all companions to Father 
+Camillus Constantius
+ of the same Society, were put to death at 
+Yquinotima,
+ a Towne of 
+Iaponia
+ nere vnto 
+Firandum,
+ for the fayth of Christ, being all burned aliue, and consumed to ashes.
+
+
+But the happy death of Father 
+Camillus
+ fell vpon the fifteenth day of September at 
+Firandum,
+ who there obteined a Crowne of Glory, ending the course of his Martyrdome by fire: where the concourse of people was exceeding great, by reason that there were then lying in the Hauen at anker by 
+Firandum,
+ thirteene English and Holland ships well fraught with merchā∣dize, and consequently no small store of passengers, Marriners, souldiers, factours, and the like, that came
+
+ to see this said spectacle. Father 
+Camillus
+ was an 
+Ita∣lian,
+ borne in 
+Romagnia,
+ who could speake the Flemish tongue well, and diuers other languages besides. He was a man of an Apostolicall spirit, of which he gaue sufficiēt testimony by preaching in diuers Countries, wherby he greatly moued the peoples hearts, aswell by reason of his rare Eloquence, as of the vehement feruour of his deuotion. In this Amphitheater where he was to be consumed by fire, from out the pile of wood, as from some chaire or pulpit, he made a speach vnto all the spectatours. But the Epilogue, or Con∣clusion therof he conuerted vnto the 
+Iaponians
+ them∣selues alone, of whose customes and ceremonies he had got no small knowledge: in which he most effica∣ciously proued, and concluded, that the fayth of IE∣SVS Christ was both true, necessary, and secure. And whilst be spake thus, he did so rauish the 
+Iaponians
+ hearts with the sweet harmony of his Eloquence, that they would not suffer the fire to be kindled so soone, as otherwise it should haue byn, that they might not be so soone depriued of that sweet fruite of his diuine speach. Neyther was the heat of the fire able to ouer∣come that heat of Charity which burned within his brest. For euen after that the wood was all set on fire round about him, he still cast out fiery words on euery side vnto all the beholders, and could neuer make an end of speaking, vntill he made an end of liuing.
+
+
+The second day of October, Nine other noble Martyrs illustrated the Citty of 
+Nangasachi
+ with their glorious deathes, wherof three little children died mā∣fully for the fayth of Christ. But that which happe∣ned
+
+ to one of the nine is admirable to recount: For being in most cruell manner tortured for the space of seauen dayes vpon the Racke, because he refused to betray, and discouer certaine Religious men: not∣withstanding all their racking, they were not able to wrest from him any other words then 
+Iesus Maria, O Iesus Maria! O what an ardent and burning desire haue I to enter into the Glory of my Iesus!
+ with such other like exclamations. So as the Executioners now perceiuing on the one side, that they laboured in vaine, and on the other side, being ashamed to acknowledge them∣selues to be ouercome by a Christian, they opened (O most barbarous or rather inhumane cruelty!) they o∣pened, I say, a hole in the flesh of his shoulder, and therin poured boyling lead: Notwithstanding all this, the valiant Champion of IESVS Christ remained still so inuincible, that the Executioners quite despayring of the victory, with all rage and fury cast him, toge∣ther withall his family, into the fire, and when there was nothing else of them left but ashes, they gathered them vp, and threw it into the sea.
+
+
+The 23. of September fiue other Christians did consecrate their liues to God, for hauing entertained and hidden in their houses, the holy Martyr, Father 
+Hyacinthus
+ a Religious man of the Order of 
+S. Domi∣nicke,
+ wherof three, to wit, the husband, his wife, and their Child, were burned, and the other two behea∣ded.
+
+
+The 27. day of May, fower miles from 
+Firan∣dum
+ two other Christians were put to death for the loue of IESVS Christ; the one for hauing lodged Fa∣ther
+
+ 
+Camillus
+ in his house, the other for hauing carryed him in his Barke to diuers places, to and fro, to preach the holy Ghospell of Christ.
+
+
+Not long after this, happened a most rare Mar∣tyrdome of a very Venerable man of fourescore and fiue yeares old. This man was cast headlong into the sea, hauing tyed vnto his feet two so huge great stones, that one of them would haue bene inough to load foure lusty strong fellowes; who instantly, and as it were in the twinckling of an eye sunke downe to the very bottome: but behold a very strang thing, as if both he, and the two great stones also had beene made of the lightest Corke, he came gliding vp againe to the very top, where swimming aboue the water, like the swan he began to sing before his death, and with a most sweet & pleasant voice, he repeated thrice this mellifluous ditty 
+Iesus Maria, Iesus Maria, Iesus Maria,
+ and then by the weight of the stoones being drawne downe againe into the sea, neuer appeared more.
+
+
+This Miraculous sight and Martyrdome fell v∣pon the 2. of Iune, to the great admiration of all the beholders, and particular ioy and comfort of innume∣rable Christians, that were present, and did see the same.
+
+
+Vpon the next day after, which was the 3. of Iune another Christian man, and companion of Father 
+Ca∣millus Constantius
+ of the Society of IESVS, was likewise put to death, for hauing assisted him in Ecclesiastical functions and ministeries. And vpon the 8. day of the same Moneth, another also suffered death, for the same cause.
+
+
+
+
+Vpon the 28, of Iuly were three other Christians, put to death, for a very strange cause: for that (for∣sooth) they would not lend their horses to carry the holy Martyrs to execution; for indeed the Christians did piously belieue, and persuade themselues, that it was a sinne for any of them, so lend his horse to help forward the execution of so barbarous a Cruelty.
+
+
+Two others also, that were Twinnes by birth, were put to a cruell Martyrdome, only for animating and encouraging of other Martyrs, that were strug∣ling hand to hād with death in a grieuous agony. And another likewise, in another place, was crowned with Martyrdome for refusing to lend his horse to carry the Martyrs to their death.
+
+
+Neyther is he to be passed ouer with silence, who though his Name, and the manner of his Martyrdome in particuler be not knowne, yet was he put to death for the fayth of Christ in the Suburbes of a little town neere vnto 
+Firandum,
+ where certaine Husbandmen haue a few cottages for their habitation.
+
+
+This most illustrious and glorious Combat of purpled Martyrs, died in their owne bloud, shall be closed vp and concluded with the death of that renow∣ned Apostle of IESVS Christ, the R. Father 
+Paulus Na∣uarrus
+ of the Society of IESVS, whose memory in 
+Iapo∣nia
+ will liue for euer, where himself gaue his life for his flocke which he had for the space of 3
+ yeares, like a good Sheepheard most carefully fed, & amongst so many rauenous wolues most stoutly defended. He was cōdemned to be burned aliue for hauing come out of 
+Europe
+ into 
+Iaponta,
+ against the Emperours lawes, to
+
+ preach the Christian fayth, therby to ouerthrow the worship of their Idols, and false Gods. When he had receiued this sentence, all replenished with ioy and cō∣fort, he was brought vnto the stake, or pillar; wher∣to after he was bound, and the fire kinded about him, he began to preach IESVS Christ with his Aposto∣licall spirit, and so continued euen vnto the last gaspe, when he rendred his blessed and pure Soule into the hands of his Creatour, and receiued the Crowne of his glorious Martyrdome, vpon the first day of No∣uember, and feast of All-Saints.
+
+
+Neyther did he enioy this happy Crowne alone, but had for his Companions, and fellow-souldiers in Christ IESVS, two Brothers of the same Society of IESVS, to wit, 
+Dennis,
+ and 
+Peter Sandaye:
+ from whose company we must in no case exclude another Chri∣stian, that was both companion and guide to Father 
+Paulus Nauarrus,
+ to direct him the way vp and downe the country, and therfore deserued in like manner to be made worthy of his blessed death, in requitall of his kindnesse, and togeather with him, to obtaine a glo∣rious Crowne of Martyrdome.
+
+
+
+
+THE CONCLVSION.
+
+
+Farewell! Adieu most noble Champions! Let them who dye th
+ 
+iue for euer! Let them triumph, let thē, I say, liue: let them triumph for all Eternity! Let vs re∣ioyce! This Glorious Tragedy is ended? What applause can be sufficient for such Noble Actes? for such ad∣mirable Scenes, as you haue heard? An hundred
+
+ and eighteene most sweet Holocausts sacrificed for the loue of Christ, whereof fourty and six were offered vp by fire, all the rest by sword! O happy Soules! I honour you all. I reuerence your sacred Names & Memory: but especially you, (you I meane) who being deuout Religious men, and of so many Sa∣cred Families, to wit, of 
+S. Augustines
+ one, of 
+S. Frā∣cis
+ fiue, of 
+S. Dominicks
+ ten, and of the Society of IE∣SVS fourteene, haue thus manured, & tilled the Iapo∣nian barren soyle by your great labours; and careful∣ly watered the same, with the sweat of your dearest Bloud!
+
+
+Many other notable things haue happened in the Martyrdome of these glorious Saintes, which we hope will very shortly come to light. In the meane tyme, read here the summe of what we haue receiued from vndoubted Authority. Almighty God in the booke of life, hath no doubt, made another reckoning. He hath set downe the number, not only of their heads, but euen of the least hayres therof, though now con∣sumed to ashes. He (I say) hath set them downe, be∣cause he meaneth to crowne them. We prayse thee, O God, who art so glorious in thy Saints. We beseech thee, Sweet IESVS, vouchsafe to make vs partakers of so glorious a Triumph. Amen.
+
+
+
+
+
+
+
+
+GENTLE READER.
+
+
+This former Relation, or briefe History, was wrytten from 
+Nangasachi
+ and 
+Firandum
+ (two principall Citties of 
+Iaponia,
+ where most of the foresaid Christians suffered death) vnto 
+Manila,
+ the Chiefe Citty of the 
+Philippine
+ Ilands, by such as were present at the Martyrdoms themselues; and from thence very authentically sent into 
+Spaine,
+ to diuers persons there of Credit and Authority: VVhere the same was first published in print at 
+Madrid,
+ & afterward at 
+Seuill,
+ & other places; and since translated into Latin, and printed at 
+Bruxells
+ in 
+Brabant;
+ and also into French, and printed in diuers Citties, both of 
+France,
+ and the 
+Low Countreyes,
+ with licence and approba∣tion, requisite for the Truth of so notable and re∣markable an Accident.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+S. IGNATIVS HIS TRIVMPH. OR
+ A briefe Relation of some of the many Miracles, which God hath pleased to worke at 
+Mune∣brega
+ a Towne belonging to the Territory of the Citty of 
+Calatayude,
+ in the Kingdome of 
+Arragon
+ in 
+Spayne,
+ by the merits & inter∣cession of 
+S. IGNATIVS de Loyola,
+ Founder of the Society of 
+IESVS,
+ in the Moneths of April and May, of the yeare 
+M.DC.XXIII.
+
+
+V
+PON the 17. day Aprill, in the yeare of our Lord 1623. which fell out to be Munday in Easter Weeke, Father 
+Valerius Piquer
+ of the Society of IEEVS, after he had preached the whole Lent in 
+Munebrega,
+ a towne belonging to the Commandry and Libertyes of 
+Cala∣tayude,
+
+
+
+
+
+
+
+
+
+
+ a Citty of 
+Arragon
+ in 
+Spaine,
+ and scituate two Leagues distant thence; proposed to the people, and desired, that a certaine Picture of 
+S. Ignatius,
+ which then hāged priuately in the Sacristy, or Vestry of that Church, might be more publikely exposed vpon some Altar, where Masses might be said, and the peo∣ple pray, and doe their deuotions before it.
+
+
+So iust a petition being condescended vnto, the Vicar, and the Cleargy of that Parish Church, with the assistance of the greater part of the Inhabitants, Euensong being ended, after the solemnest manner they could, remoued, and placed the said picture of 
+S. Ignatius de Loyola
+ vpō an altar dedicated to 
+S. Blase;
+ & hauing song the Ant-Hymne, and Prayer of 
+S. Igna∣tius,
+ Father 
+Piquer
+ aforesaid, made a Sermon for the space of an hower, in honour and praise of the Saint, and therin recounted some of the Miracles, which by his intercession God had vouchsafed to shew in diuers places of 
+Europe.
+
+
+Vpon this, a Vertuous and Venerable Matrone called 
+Mary Guascon,
+ of the age of 50. yeares, wife to 
+Hierome Ladron de Gueuara,
+ dwellers of the same town of 
+Munebrega,
+ who was so lame of one leg that she could not go a step, without the help of some other person to assist her, hearing of the miracles which the forsaid Father had recounted in his Sermon, commen∣ded her selfe to 
+S. Ignatius
+ in the best māner she could, imploring ayd of Almighty God, through the merits and intercession of the Saint; and suddainly feeling a heauines to come vpon her, fell into a quiet slumber, & by & by awaking, found her selfe well & sound, &
+
+ the lamenesse of her Leg wholy departed from her. At which she greatly reioyced, and forthwith went without any help, or stay of any, towards the Church, to giue God, and 
+S. Ignatius
+ thankes for her deliuery from that infirmity, to the great admiration and asto∣nishment of all that dwelled in the towne, who knew full well her long and troublesome lamenesse.
+
+
+The same day, 
+Mary Pariente
+ wife to 
+Alonso Buesso,
+ who hauing no vse at all of her left arme, after she had sought and applied many remedies without any good successe, but rather greater harme, seing that in∣steed of curing her, the Chirurgeons had broken the bone of her arme, & that the Phisitians had now aban∣doned her as one desperate & incurable: And calling to mind what had passed with 
+Mary Guascon
+ afore∣said, prayed thus deuoutly into the Saint: O blessed 
+Ignatius,
+ if God through thy merits, would be pleased to cure me, I would shew forth his praises and thine, to my vttermost power. And euen at that instant, she felt in her left arme, a great conuulsion of the bones and synewes, and presently after found her selfe well, and her arme perfectly recouered. Wherfore with a loud voyce she vttered these words, 
+I am whole, and cured by the fauour and merits of S. Ignatius:
+ and she stirred vp and downe her arme, as if it had neuer bene any way annoyed before.
+
+
+Within a while after 
+Mary Santijus
+ wife to 
+Pas∣qual Bueno de la Muda,
+ who being almost blind, and could only discerne but the bulkes of bodies, with∣out knowing any person; comming to the Chap∣pell where the foresaid picture was newly set vp,
+
+ made her prayer, saying: O holy 
+Ignatius
+ obtayne for me, I humbly beseech thee, my perfect sight, if it shall please Almighty God; and I heere faithfully pro∣mise, to procure a Masse to be said at thy Altar, in signe of gratitude and thankefulnes. At that very in∣stant it seemed to her, that her eyes gaue a turne in her head, & she remained with a cleare sight, knowing di∣stinctly and perfectly all that were present, and so con∣tinueth still, enioying this benefit and fauour, which God, for 
+S. Ignatius
+ sake, hath granted vnto her.
+
+
+Bernardina Benedid
+ of the age of 31. yeares, wife to 
+Philip Gomez,
+ dwelling in 
+Munebrega,
+ had for the space of eight yeares bene tormēted with diuers disea∣ses, as hauing one vlcer in the liuer, and another in the spleene, togeather which a defluction from the Head to the Lungs; and sometimes also there grew a kind of impostume in her stomacke, which breaking made her vomite much putrified matter, and bloud; by which meanes she came to haue so great weakenes and debi∣lity of stomacke, that for six yeares togeather she could not retaine any kind of meate, but was fayne presently to cast all vp againe; & whensoeuer she vsed any force to hold it in, it would breake through her nostrills: & in case there remained any thing behind, cleauing to some parts of the stomacke, it bred such store of bloud, that necessarily she was driuē to be let bloud twice or thrice euery other moneth, for feare of being choaked; by which meanes also she fell many tymes into fits of swoundings, and at last was brought so low and fee∣ble that she seemed nothing els but skin and bones, being vnable either to stirre her selfe, or suffer that o∣thers
+
+ should so much as touch her, for feare of increa∣sing her great paines. Now by reason of these so many and grieuous indispositions of her body, the Phisi∣tians and Chirurgeons, after diuers Consultations had about her, gaue her ouer for incurable. At which 
+Phi∣lip Gomez
+ her sonne, much grieuing and lamenting his mothers pittifull case, told her, that he would carry her to the Church where 
+S. Ignatius
+ had wrought so great miracles: and her husband being by, byd her offer 9. Masses to be said there in his honour. She an∣swered that, that was euen to carry her thence to her graue, by reason of her weakenes. Presently after came in Father 
+Valerius Piquer,
+ & sayd vnto her: Haue confidence in God, and in his Saint: and withall gaue vnto her a Relique of 
+S. Ignatius,
+ which she reueren∣ced with much deuotion, beseeching him to obtayne health for her at the hands of God Almighty. Vpon this she fell into a swound, and extraordinary sweate: but when she came to her selfe againe, she cryed out; I find my selfe throughly well, let me go to the Saints Picture in the Church. And within halfe an houre af∣ter (for before she could not get away from the peo∣ple which came so fast into the house to see her) she rose vp from her bed well and strong, and went alone downe the stayres: but the people not permitting her to go any further a foote, would needes carry her to the Church doore in a chaire, from whence she went her selfe on foote to the Chappell, and gaue thankes to God, and to 
+S. Ignatius.
+
+
+And after she had ended her prayer, she returned home to her own house a foote, & supped with the rest
+
+ of her family, like vnto one that was in as perfect health as any of the rest, without changing any thing afterward of the common dyet of the house, or suffe∣ring any indisposition euen vnto this present day. The next day after she went againe to the Church, where she made her Confession and receiued the blessed Sa∣crament with great deuotion and thanksgiuing, still remaning in good health & perfect strength of body.
+
+
+Paschalis Gabrerizo
+ an honest poore inhabitant of 
+Munebrega
+ had bene for the space of 12 yeares disea∣sed, and so benummed in his feet, that he was not able to go without one crutch at least; besides, he had no vse of one of his armes, and did almost continually suffer extreame paine of the Goute, togeather with a great palpitation of the hart. He now seing the mira∣cles which 
+S. Ignatius
+ had wrought, with desire to re∣couer his former health, conceiued great deuotion to the Saint, and hauing made vp a Ryall in money, which he had gotten by almes of good people, (for he was very poore) procured therwith a Masse to be said at the Altar of 
+S. Ignatius,
+ whereat he was present, & deuoutly recommended himselfe to God and the Saint with great confidence of his recouery. The Masse be∣ing ended, he rose vp with his Crutch to go backe to∣wards his house, and at the Church doore he found himselfe wel, and free from the lamenesse of his leggs: so as casting away his Crutch, he very nimbly and speedily went vp and downe, praising God and 
+S. Ig∣natius
+ for the cure; nor was he only cured of his feet, but also of his arme, and of the troublesome passion of his Hart. This miracle was so publicke & notorious to
+
+ all the towne of 
+Munebrega,
+ that most of the people lea∣uing their shops and houses repayred and flocked to the Church to admire the successe; and the poore man was there found amongst them giuing thanks to God and the Saint: in whose Chappell he hanged vp his Crutch for a perpetuall memory.
+
+
+A little child called 
+Mary Pardo
+ daughter to 
+Do∣minike Pardo,
+ and 
+Magdalene Ximeno,
+ dwellers of 
+Mune∣brega,
+ had some two yeares before fallen into the fire, and burnt her left arme, especially about the Elbow, wherby the synewes were dryed & shrunke vp in such sort, that she had no vse at all of that arme. 
+Peter de Vil∣lar,
+ a Religious man of 
+S. Augustines
+ Order, & Ba∣chelour of Diuinity, came to the house, and annoyn∣ted the childs arme with some of the oile of the Lampe that burned before the picture of 
+Saint Ignatius
+ in his Chappell; which being done and the Girle feeling her arme a little more pliable then before, he willed her mother to annoynt it daily wherwith; which as she was doyng the next day, she sayd: Daughter lift vp thy arme; and at the instant she heard as it were a cer∣taine rushing of the bones togeather, & perceiued that the arme grew somewhat greater, & amended; wher∣vpon continuing to annoint it, after the same manner, some two or three dayes more, her daughter was per∣fectly cured.
+
+
+Mary Corriz,
+ wife to 
+Pedro Bueno
+ dwelling in the towne of 
+Munebrega,
+ hauing a foule Canker in one of her legs wherby she was in dāger to haue it cut off, cau∣sed a Masse to be said at the Altar of 
+S. Ignatius,
+ and there annoynting the diseased part, with the oyle of
+
+ his Lampe, the Canker was healed, and leauing there behind her the Crutch which before she vsed, she ioy∣fully returned home.
+
+
+Mary Mun̄oz
+ wife of 
+Michael Marina,
+ inhabitants of 
+Vijuesca,
+ had one of her Legs so dried vp and con∣sumed away, that she could not stirre or mooue the same. The Phisitians despairing of all humane reme∣dy, her friends would needs conuay her to 
+Belmonte,
+ to a famous Chirurgeon of that place. He looking vpon, and considering well the diseased part, said, that there was no meanes possible to cure it; & that it were good she recommēded her selfe to 
+S. Ignatius,
+ who wrought so many miracles at 
+Munebrega;
+ for other humane help she might assure her selfe there was none. The good woman followed the Chirurgeons counsayle, & went to 
+Munebrega
+ to visit the Chappell of 
+S. Ignatius,
+ where hearing Masse, & recommending her selfe with great deuotion to the glorious Saint, presently found her selfe free from her disease, and was able to go her iourney backe on foot, to her owne house at 
+Vijuesca.
+
+
+There was another woman in 
+Munebrega,
+ a wid∣dow and very poore, who had a grieuous soare in her right foote, and both her legs greatly swollen, which made her perforce go with crutches. Being thus priuy to her owne misery and affliction, & seing the wonders which God did worke by meanes of 
+S. Ignatius,
+ she went to his Picture, & recōmended her selfe very ear∣nestly vnto him; & before she departed the Church, she recouered her perfect health, and left there her Crutches, being very well able to walke home a foot. But first of all she forgot not to render her best thankes
+
+ vnto God, and the Saint for so singular a benefit.
+
+
+Agnes Cauallero
+ wife to 
+Martin de Huerta
+ Inha∣bitants of 
+Nueualo,
+ being blind, in such manner as that she could not go a step without a guide, hauing also a foule Canker growing ouer one of her lips; and hea∣ring of the miracles which 
+S. Ignatius
+ wrought, deter∣mined to go to 
+Munebrega,
+ to visit his Chappell, and pray vnto him for remedy of these her infirmities. She was led thither, & for the space of 3. dayes made conti∣nuall prayer with great deuotion and confidence in his Chappell, & annoynting her lip and eyes with the oile of the Lampe that burned before his Altar, obtay∣ned perfect recouery both of her lippe & eyes; & euer since her eye-sight hath bene so good, as she is able to threed a very small needle.
+
+
+Antony Franco
+ inhabitant of 
+Castejon
+ vpon 
+Alarua
+ in 
+Castile,
+ hauing bene abroad, came home to his house with a burning feuer on his backe, and an impostu∣me also, risen through heate, in his stomacke, which caused him extreme payne. The Phisitian came vnto him, and seing that his sicknes was mortall, bad him dispose of his soule, and temporall estate, for he could not assure him aboue twelue houres of life. Now the fame of the miracles which our Lord had wrought by the intercession of 
+S. Ignatius
+ in 
+Munebrega
+ being spred abroad far & neere, & come vnto this place; the friends of the sicke Patient, fomented his stomacke with some of the oyle which they had gotten of the Lampe that burned in the Chappel of the Saint at 
+Mu∣nebrega
+ aforesaid: and the sicke man himselfe, with all the rest inuocating 
+S. Ignatius
+ for ayde with great de∣uotion,
+
+ in a moment he felt himselfe fully well, and forthwith, in all gratitude and affection, arose and went to 
+Munebrega
+ on pilgrimage, to giue God thāks, at the Chappell of the Saint.
+
+
+Francisa Locano,
+ wife of 
+Dominicke Marco
+ Inhabi∣tant of 
+Valtorres,
+ who hauing one of her brests greatly swolne with two great hard bunches, which made her often fall into a swounding; vpon the fame of these miracles, resolued to visite the Chappell of 
+S. Ignatius
+ and to recommend herselfe vnto him with great de∣uotion, although she had receiued the Sacrament of Extreme Vnctiō but three dayes before. Being brought therefore to 
+Munebrega,
+ and recommending her selfe in most deuout manner vnto the glorious Saint in his Chappell, presently her brest began to sweat, with much ease of her payne, and so continuing to visit the Chappell for 9. dayes together, she found, at last, her selfe prefectly cured of the foresaid swellings, and the colour of the sweat of her brests turned into the co∣lour of bloud. She had endured the payne and trouble of this disease for nine yeares continually; and now at last through the merits of 
+S. Ignatius,
+ receiued perfect cure and remedy, by her prayers and deuotions of nine dayes, which she daily powred out before his Al∣tar; and so came ioyfully home to her owne house at 
+Valtorres.
+
+
+Matthew Pola,
+ of the age of 20. yeares inhabitant of 
+Ateca,
+ hauing a continuall palsy in one of his armes and legs, being not able to mooue, or serue himselfe with eyther of them in any occasion; caused himselfe to be conueyed to 
+Munebrega
+ with great confidence to
+
+ obtaine remedy by the mediation and merits of 
+S. Ig∣natius.
+ When he arriued thither, for nine dayes space togeather, with much deuotion, he determined, and began to annoynt euery day his legge and arme with some of the oile of the lampe that burned before 
+S. Ig∣natius
+ Altar; but vpon the eight day he found him∣selfe sound, and so perfectly recouered, as if he had bene neuer troubled at al in those parts of his body with any infirmity whatsoeuer.
+
+
+Peter Garzia
+ Inhabitant of 
+Tortuera,
+ an old man of the age of 74. yeares, had so great an impediment in his tongue, that he could not scarce pronounce one word perfectly to be vnderstood. Hearing others make mention of the miracles which 
+S. Ignatius
+ did worke at 
+Munebrega;
+ he went thither in all last to visite his Chappell, and recommending himselfe very earnestly and deuoutly vnto his merits, and annoynting his tongue with the oile of the lampe aforesaid, spake very cleerly and distinctly, and so continueth to this day, through the Goodnes of God, and intercession of the Blessed Saint.
+
+
+A certaine woman of the Citty of 
+Calatayude,
+ hauing such a benumming in her hands, that they serued her to no vse; and her leggs also being benum∣med in the same manner, would neyther beare her vp, nor suffer her so much as to kneele, did most earnest∣ly and deuoutly recommended her selfe to 
+S. Ignatius
+ at 
+Munebrega,
+ and without any other remedy she re∣couered her entire and perfect health.
+
+
+Another woman, a wyddow of the same Cit∣ty, hauing a daughter of some 6. or 7. yeares old, who
+
+ by reason of a great weakenesse and other infirmityes in her leggs, was not able to go vp or downe any stayres; hearing of these miracles, and iudging that 
+S. Ignatius
+ liked well, that widdowes (according to the manner of 
+Spaine
+) should liue retired at home in their owne houses, made this prayer vnto him, in a most effectuall manner: O glorious Saint, it doth not suite well with my state of Widdowhood, to make iour∣neyes abroad, in the sight of many people, no not although it be to go on pilgrimage to visit your Chap∣pell of 
+Muncbrega;
+ the power of Curing which you can do there, I doubt not, but that you are able also to worke heere; and the graces and fauours which you shew in that place abroad to others, you can as well shew in this, to my little daughter heere at home; Let it please you then (O blessed Saint) to cure her. A little after this her prayer, she saw her daughter go∣ing vp and downe the stayres of the house so readily, as if she had neuer had my impediment, or defect in her leggs before.
+
+
+A little sonne of 
+Don Iohn Perez
+ of 
+Nueros,
+ stan∣ding by his Fathers Coach, which was ready at the doore for him to go abroad, & playing with the wheels, the Mules vpon a suddaine began to run away with the Coach as being feared with somthing that passed in the street; & ouerthrowing the boy vpon the ground, one of the wheels passed ouer the very middle of his face. A Gentlewoman which saw it, cryed out, and sayd: 
+S. Ignatius,
+ S. 
+Ignatius
+ saue the Child; and euen at that very instant the Mules stopt, and stood still, & drawing away the child, they found that he had
+
+ no other harme at all, but onely that the markes of the nayles were seene, which the wheeles had lightly left imprinted vpon his face.
+
+
+A Venerable Father of the Order of 
+S. Francis,
+ of the Monastery in 
+Calatayude,
+ who had byn lame, and gone halting a long tyme together, determined for re∣medy therof to go on foote, by little and little, to 
+Mu∣nebrega,
+ to visit the Chappell of 
+S. Ignatius.
+ He was scarce gone a quarter of a league with great paine and trouble, when he begā to distrust of being able to passe any further, and so sate himselfe downe; and taking out his Breuiary, began to say his Mattins in honour of 
+S. Ignatius,
+ which when he had done, he found him∣selfe animated and encouraged to prosecute the rest of of his iourney. Going therfore forward, the more he went, the better he felt himselfe, and when he came to 
+Munebrega
+ he found himselfe wholy cured; so as giuing thankes in the Chappell of the Saint, he retur∣ned backe ioyfully, & in very perfect health to his Mo∣nastery.
+
+
+At 
+Pardos,
+ a village of some 40. Houses, a yong girle of twelue yeares of age, became so stopt vpon a suddaine with the increase of aboundance of bloud in the spring season, that within a little tyme she fell sicke and dyed, and remayned foure houres dead and cold. Her mother much afflicted therewith, recommended her to 
+S. Ignatius,
+ with so great fayth and perseuerance, that all those foure houres she ceased not to beseech the Saint, that by his merits, he would intreat of God, that her daughter might returne to life againe. 
+S. Ignatius
+ hard her prayer, and the Child returning to herselfe,
+
+ sayd vnto her mother; O mother, now I am well, 
+S. Ignatius
+ hath raised me vp from death, and comman∣ded me to present my selfe in his Chappell at 
+Munc∣brega;
+ and so presently she was carryed thither, and the next day after sent into the feild to keepe sheepe, which she was wont to do, by reason of her pouerty.
+
+
+The Phisitian which dwelleth at this day in 
+Mu∣nebrega,
+ had an Infant some 2. or 3. monthes old, that being fed with certaine sops, was choaked on a sud∣daine, and as his Father iudged, and since protested starke dead, in so much that he gaue order for his bu∣riall; but the mother with more fayth and deuotion, annoynted her little babe with some of the oyle of the lampe of 
+S. Ignatius,
+ making deuout supplication to the Saint for the recouery of life againe in her sonne, and therwith all she offred him to 
+S. Ignatius.
+ At that very instant the child came againe to himselfe, and be∣gan to cry, and by the fauour and merits of the Saint, continueth still in perfect health.
+
+
+¶ This foresaid Picture of 
+S. Ignatius,
+ which God Almighty hath made the meanes of so many, and so wonderfull miracles, some sixteene yeares since was, by 
+Don Rocque de Villar
+ Chanon of 
+Calatayude,
+ first set vp in the Sacristy, or Vestry of the Parish Church of 
+Munebrega,
+ togeather with other Founders of Reli∣gious Orders amōgst the pictures of diuers Cardinals, Archbishops, Bishops, Maisters of the Order of Knight∣hood of 
+Malta,
+ Vicechancellours, Iustices, Coun∣cellors of Estate, Iudges of his Catholike Maiesty, and of other worthy and famous Persons, which had bene sometimes promoted from this place to these dignities;
+
+ and being compared with many other pictures of the same Saint, seemeth to differ from them all, as shewing, somewhat superiour, and extraordinary, for the ma∣iesty it carrieth in the Face.
+
+
+Vpon the first Friday, after it was placed vpon the Altar, being the 21. day of Aprill, hauing bene kept alwayes before in a dry place, it began to sweat on the right side vnder the arme, and so continued for the space of 4. howers; which sweat was an extraordina∣ry kind of liquor, much differing from water, although it seemed so in colour, as also from oyle, or any other running liquor; but it came out swelling, like certaine full & thicke drops; and as fast as it was dryed vp, pre∣sently the same liquor began to flow out againe; all which was gathered, and drunke vp with two great linnen Towlls, and is yet there kept.
+
+
+Vpon Friday also a fortnight after, being the 5. of 
+May,
+ the same sweat began againe to flow forth, for the space of two houres. Witnesses of these sweatings were many Ecclesiasticall, and Religious persons, who saw them, & the R. Father 
+Friar Peter Villar
+ of the Or∣der of 
+S. Augustine,
+ and Bachelour of Diuinity, did wet two handkerchers therwith, which are kept vn∣till this day.
+
+
+Some few dayes after, a certaine woman of the towne of 
+Alarua,
+ hauing heard of the miracles of 
+S. Ig∣natius,
+ out of a desire to find remedy against a dange∣rous great swelling which she had in her brests, to her extreme griefe and payne; came to 
+Munebrega
+ and re∣cōmending her selfe deuoutly to the Saint, in his Chap∣pell, presently she felt certaine drops of water to run
+
+ downe her breast, as if it had bene some sweat of that swelling, which much eased her paine, and which be∣gan to grow lesse. Vpon this, one of the Towells wher∣with the sweat aforesaid of the Picture had byn dryed vp, was applyed vnto her brest, and the swelling pre∣sently resolued it selfe into great aboundance of water, & by and by after the woman remained wholy cured.
+
+
+Many other famous miracles haue bene wrought there, by the Merits and Intercession of 
+S. Ignatius,
+ which do exceed the number of an hundred; all which haue byn wrought within the space of one month, and are most notorious to all the Inhabitants therabout. A∣mongst which, besides those aboue mentioned, there haue byne foure blind restored to their sight, many Cripples, many deafe, and many sicke of diuers infir∣mityes perfectly cured. So that it would be ouer long to recount them all heere in this briefe Relation, since there scarce passeth any day, wherin some one miracle or other is not wrought, and some dayes three or foure. Therfore it is no meruaile if vpon the certaine fame of so many, and continuall miracles, there be so great concourse of people, from all parts of 
+Arragon,
+ and o∣ther places of 
+Spaine,
+ vnto this Chappell of 
+S. Ignatius.
+
+
+Also many Cittyes, Townes, and Villages do daily repaire thither in solemne Procession; in so much that continually the Church of 
+Munebrega
+ is full of Pil∣grims, some blind, some lame, some with vlcers, others with other diseases, who daily through the merits and intercession of this glorious Saint do receiue health, and most singular fauours at the hands of God. And if the Church of 
+Munebrega
+ were six times larger thē it is
+
+ (and it is of a reasonable good bignes:) yet would it be too little for all commers, who striue to be there early in the morning, yea, and many tymes remayne there all night, to occupy, and preuent the getting of a good and commodious place.
+
+
+Moreouer, it is iudged for a thing certaine, that there is no one holy Place or Pilgrimage throughout all 
+Spaine,
+ more frequented at this day, then is the forsaid Chappell of Saint Ignatius in 
+Munebrega.
+ Wherfore the sayd towne of 
+Munebrega
+ hath chosen this Saint Ignatius, for their speciall Patron, and vowed to cele∣brate his feast yearely with all solemnity possible. Also in 
+Maluenda, Villaroy,
+ and other places within the Pre∣cincts, and Territoryes of 
+Calatayude,
+ they haue lately dedicated diuers Chappells and Altars vnto 
+S. Ignatius
+ of Loyola, Founder of the Society of IESVS.
+
+
+That which most of all ought to be pondered, cō∣cerning this famous place of Pilgrimage, is the great fruite, and the notable conuersions of many lost and damnable soules, which vpon this occasion hath byn wrought by generall Confessions; besides the wonder∣full changes in many from most wicked and desperate, vnto vertuous and godly liues. And without all doubt, this is that, which principally 
+S. Ignatius
+ pretendeth by the working of so great Miracles. For although in his life tyme, he alwayes exercised himselfe in Corporall workes of Mercy; yet principally did he practise the Spirituall, with all possible endeauour, as most grate∣full, and pleasing to the diuine Goodnes.
+
+
+
+
+
+
+THE CONCLVSION.
+
+
+This Relation hath bene gathered, and taken from many Examinations, and Depositions receiued authentically by an Apostolicall Notary, & fiue others of the Kings Notaryes, in presence of the Magi∣strates of the Towne of 
+Munebrega;
+ and from the letters which the R. Father 
+Peter Villar
+ of the Order of 
+S. Augustine,
+ and Bachelour of Diuinity; Father 
+Hie∣rome Alagre
+ Rector of the College of the Society of IE∣SVS in 
+Calatayude;
+ Father 
+Valerius Piquer,
+ and Father 
+Francis Perez de Culla
+ of the same Society, and diuers others, haue testified, and authentically wrytten to ma∣ny principall Persons in 
+Madrid:
+ where this present Relation was first published, and printed by 
+Lewis San∣chez,
+ Printer to his Catholike Maiesty, with speciall Priuiledge.
+
+
+Let vs then be so happy, as not to want the po∣werfull intercession of this Glorious Saint, to the end we may not only obtaine at Gods hands, health and Commodities of the Body; but much more the Health, Saluation, and Eternall good of our Soules: & let vs all deuoutly say with Holy Church, as followeth:
+
+
+
+
+
+
+
+
+
+
+The Prayer of the Church, to S. Ignatius.
+
+
+
+
+DEus qui glorificantes te glorificas, & in San∣ctorum tuorum honoribus honoraris; concede propitius: vt qui Sancti 
+IGNATII
+ Confessoris tui gloriosa merita colimus, eius pia patrocinia sentia∣mus. Per Dominum nostrum Iesum Christum filium tuum, qui tecum viuit & regnat, in vnitate Spi∣ritus sancti Deus. Per omnia saecula saeculorum.
+
+
+
+
+
+
+IN ENGLISH.
+
+
+O God, who glorifiest those that glorify thee, & art honoured in the Honours of thy Saints; Grant graciously, that we who reuerence the glorious merits of thy Confes∣sour S. IGNATIVS, may be made partakers of his pious Patronage. Through our Lord Ie∣sus Christ thy Sonne, who liueth & raigneth with thee, in vnity of the Holy Ghost, one God, for euer and euer. Amen.
+
+
+
+
+FINIS.
+
+
+
+
+Laus Deo, B. Virgini Mariae, & Sancto Ignatio.
+
+
+
+
+
+
+
+
+
+
+

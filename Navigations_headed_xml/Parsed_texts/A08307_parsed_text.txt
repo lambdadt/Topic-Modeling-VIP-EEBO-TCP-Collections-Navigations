@@ -1,0 +1,3480 @@
+1598 Speculi Britan[n]iæ pars the description of Hartfordshire by Iohn Norden.
+Speculum Britanniae. Part 2
+Norden, John, 1548-1625?
+Approx. 82 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2005-10 (EEBO-TCP Phase 1).
+A08307
+
+
+
+
+STC 18637
+
+
+
+ESTC S113233
+
+
+
+
+
+99848470
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+1598 Speculi Britan[n]iæ pars the description of Hartfordshire by Iohn Norden.
+Speculum Britanniae. Part 2
+Norden, John, 1548-1625?
+Kip, William, engraver.
+[8], 31, [1] p., folded plate : map  
+
+
+[London :
+
+
+Printed by Thomas Dawson,
+
+
+1598]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Hertfordshire (England) --  Description and travel --  Early works to 1800.
+2004-12
+TCP
+Assigned for keying and markup
+2004-12
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2005-02
+Mona Logarbo
+Sampled and proofread
+2005-02
+Mona Logarbo
+Text and markup reviewed and edited
+2005-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18637
+
+
+99848470
+
+
+13565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1598 SPECVLI BRITANIAE Pars
+
+
+The desc
+r
+ipsion of Hartford-shire By John Norden
+
+
+
+
+
+
+
+
+
+
+
+
+Amplissimo honoratissimo{que},
+ D. Edwardo Seamor militi, Baroni Beauchamp, Comiti Hertfordiae literarum fautori maximo.
+
+
+S
+I hoc tibi (ornatissi∣me) itinerarium, ali∣cuius nouitatis pre∣textu, vel rei non an∣teactae vel praefatae obferreviderer: Non∣nè tempus & veritas ipsa hac in me 
+sapientis
+ irruant sententia: 
+Nihil esse sub sole nouum?
+ Imò vero mille homines in me testes insurgant, asserentes hoc opus meum tardé post non nullorum proficisci. Fac sit. Ego post omnes, hoc me∣um incultissimum in lucem duco. Et cúm summi honoris tui tituli typum, in publi∣cum secum fert▪ Officio me vinctum puta∣bam tuae amplitudini primùm libēter ex∣hibere, tuumque & in opus & operarium, vt praesidium digneris instanter obsecrare. Summis honoribus viuas, Summisque consolationibus a deo opt. max.
+
+
+Tuae celcetudini paratus. I. Norden.
+
+
+
+
+
+
+
+
+To Gentlemen well affected to
+ this trauaile.
+
+
+F
+Orasmuch as many men are borne to many misteries, and they bende their endeuours to sundry ends. My lot ligh∣ting vpon this labour, for which many o∣ther are more fitte, am not perchaunce so well furnished with such necessary varie∣ties as wil please all men. And therefore I wil thankfully accept, any gentle reforma∣tion of my wantes and imperfections, And who so will lende his assistance to further my simple endeuours, according to the course and method herin intended, I shal most willingly repay him his owne with aduantage, and yeelde euerie coad∣iutor his condigne commemoration in the worke.
+
+
+
+
+Non vni omnia. Multis plurima.
+
+
+
+
+
+
+
+
+
+
+Thinges to be considered in the vse
+ of this booke and Mappe.
+
+
+T
+He figures and letters, which fol∣lowe the names of the places in the alphabeticall tables, are a rea∣dy meane whereby to find, any place de∣sired in the Mapp, by referring them to meet, in the squares, very familiarly: with∣out which helpe a place vnknown would be long to find in the Mappe.
+
+
+Betweene the lines is 2. miles, by which a distance may bee found without com∣passes
+
+
+
+
+
+
+Corrections.
+
+
+
+
+In pag. 2. line 36. for 
+oppiden
+ read 
+oppidum.
+
+
+In pag. 3. Among the market townes, 
+Hatfeyld
+ is omitted.
+
+
+In pag. 6. line 18. for 
+Wendod
+ read 
+Wendon.
+
+
+In pag, 6, line 26. for 
+Laue
+ read 
+Luye.
+
+
+In pag. 6. line 42. for 
+nosome
+ read 
+noysome.
+
+
+In pag. 12. line 30. for 
+tromules
+ read 
+tremulis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER
+
+
+HONI SOIT QVI MAL Y PENSE
+
+
+SEMPER EADEM
+
+
+royal blazon or coat of arms
+
+
+
+
+
+
+
+
+
+
+The Discription of 
+Hartfordshire.
+
+
+HARTFORDSHIRE taketh
+ name of the Towne called HARTFORDE and the Towne of the passage ouer the Riuer.
+
+
+The passage as (M. 
+Camden
+ sup∣poseth) is HERVDFORDE, 
+Vadum rubrum.
+
+
+It may be also, both consonant to the sounde and to the nature and scituation of the place, 
+vadum ceruinum.
+ THE PASSAGE OF DEERE of that kinde whereof the chiefe males were eal∣led 
+Hartes,
+ in former ages: at this day Stagges. The disposition of this part of the countrie, to forrest and weldish groundes, fitte for the fostering of such kinde of wilde beastes, doth much more argue it to be HARTESFORDE, then HERVD, for THE RVDFORD. As I coniecture.
+
+
+Moreouer, not farre from the towne, is a place called HAR∣TINGFORD, which signifieth 
+vadumad ceruinum pratum,
+ or 
+ad ceruinum pascuum.
+
+
+This Shire was part of that countrey where 
+Ptolomey
+ placed the
+ 
+Cattieuctani:
+ who possessed the greatest part of this 
+Buckingham
+ and 
+Bedfordshires.
+
+
+It hath on the East 
+Essex,
+ on the north 
+Cambridshire
+ and 
+Bedford∣shire,
+ West and South 
+Buckinghamshire
+ and 
+Middlesexe.
+
+
+As touching vicecountile iurisdiction, before and long after the
+ time of Edw. 3. it was annexed to 
+Essex.
+ And one Sheriffe supplied both Countics, as did also one Eschetor.
+
+
+Concerning the Soyle:
+ It is for the most part, chalkie, though the vpper cruste in the South and West parts, be for the most part of redde earth mixed with grauell, which yet by reason of the white marle vnder it, yeeldeth good wheat and oates: But of it owne nature most enclined to 
+ood, and coupisses, affording also faire wayes. In the North part of the Shire, as in the hundreds of 
+Hitche,
+ and 
+Oddesey,
+ the soyle is very apt to yeeld corne, and dertie wayes, especially that part which is accompted parcell of a vayle
+
+
+called of the countrie men the 
+vayle
+ of 
+Ring-tayle
+ or 
+Wring-tayle
+ or
+ rather 
+Ringdale,
+ which extendeth it selfe also into 
+Cambridg-shire.
+ And affordeth no small store of wheat and malte towards the pro∣uision of 
+London.
+
+
+This Shire at this day is, and more hath beene heretofore, much repleat with parkes woodes and riuers. But for deepe feedinges or
+ large sheepe pastures, I could take notice of fewe, and they especi∣ally about KNEBWORTH the best sheepe gates within the Shire,
+
+
+Meadowes here and there, are dispersed vpon the riuers sides: But many of them colde and mossye, especially about RICK∣MANSWORTH. The LEA challengeth the commenda∣tion for the best meadowes, the North parte of the Shire is much vnfurnished.
+
+
+To speake of the Soyle as in deede it is most generally, for my part I take it but a barraine countrie, in respecte of some other
+ Shires, without the industrious toyle & charge of the thirstie hus∣bandman.
+
+
+It is much benefited by thorrow fares to and from 
+London
+ North∣wardes, and that maketh the markets to bee the better furnished with such necessaries, as are requisite for Innes, for th'intertaine∣ment of trauaylers. And I take it (though it be one of the least) no one Shire in England for the quantitie commes neere it for tho∣row-fare places of competent receit.
+
+
+The ayre for the most partis very salutarie, and in regard there∣of,
+ many sweete and pleasant dwellinges, healthfull by nature and profitable by arte and industrie are planted there: And aboue o∣ther Shires there are many auncient Sites, houses in former ages famous, commonly called BERYES, which are in other Shires
+ called 
+Halls, Courte-houses,
+ and 
+Mannorplaces.
+ The most part of these BERRYES are Mannors or Lordshippes of themselues, the worde BERRYE 
+sodem significat:
+ a dwelling place or place of
+ aboad, 
+inde Connie beryes,
+ a refuge for Connyes.
+
+
+But the worde 
+Berye
+ is often confounded with 
+Burrough, Burye
+ and 
+Berge:
+ euery of which haue their distinct significations: BVRROW
+ 
+oppidem:
+ BVRYE, 
+sepulchrum:
+ BERG, 
+montem significat:
+ And BERYE sometime is taken 
+pro castro▪ et exercitus castrametatione.
+ And therefore in regard of the antiquitie of these 
+Beryes,
+ I thought it not superfluous, to obserue the most of name, and to insert them in the Mappe, though now they carrie not equall glorie in outward shewe, with som of inferiour condition: for the most part of them hauing lost their auncient Lords, or the Lords let them for so loftie rentes, as that they are sackt of their antique royalties, and bereft of their former beautie.
+
+
+This Shire is deuided into 7. hundreds and ½ namely:
+
+
+ODDESEY hundred, which taketh name of an auncient
+
+
+house called ODDESEY GRAVNGE which standeth
+ neere old WATLINE-STREET, and abutteth parte on 
+Bed∣fordshire,
+ and part on 
+Cambridgshire,
+ and aboundeth especially with corne.
+
+
+EDWINESTRE hundred bordereth vpon Essex.
+
+
+BRAWGHING hundred taketh name of a parishe of that
+ name, and boundeth vpon 
+Edwinestree.
+
+
+HARTFORD hundred is named of 
+Hartford
+ the prouincial towne of the Shire.
+
+
+BROADWATER hundred, so tearmed of a little hamlet
+ of 2. or 3. houses neere Steuen edge.
+
+
+COISHOO hundred, or CAEGSHOO, is named of
+ an anncient Berye, called 
+Caishoo-berye, de
+ CASSIIS of a people mentioned by 
+Caesar
+ resident in this hundred as 
+M. Camden
+ affir∣meth. 
+See more of this vnder that name in the table of parishes.
+
+
+DACORVM hundred, (as I am out of doubt) 
+de Dacis
+ of the
+ 
+Danes,
+ who in this hundred, after many spoiles committed by them were ouerthrowne by 
+Adelnulph,
+ and Adelbalde his sonne about the yeere of Christ 8 29. And in memoriall of their ouerthrow, and stoppe of their further passage that way at that time, the place where the fight was is to this day called DANE ENDE 
+Daco∣rum clades.
+ And neere it in the highway towardes 
+Steuen edge,
+ are
+ many burials, great heapes of earth, vnder which are enterred, such as were slaine, at that conflict as may be supposed.
+
+
+HITCH halfe hundred, so called of a wood called HITCH∣WOOD, and not of 
+Hitchin
+ towne, which indeed is HITCH∣ENDE, 
+terminus de Hitch,
+ and not 
+Hitch-ing,
+ as it is corruptly tear∣med, and the hundred is HITCH-HAVLFE 
+hundred
+ not 
+Hitchnie
+ nor 
+Hitching haulfe hundred.
+
+
+This Shire is well furnished with market townes, the most of them plentifull of all thinges necessarie for the peoples reliefe: namelie.
+
+
+
+
+SAINT ALBONS, which hath market on the
+ 
+Saterday.
+
+
+BARNET on the 
+Munday.
+
+
+BARKHAMSTED on the 
+Munday.
+
+
+BALDOCK a little market on the 
+Thursday.
+
+
+BVNTINGFORD on the Munday.
+
+
+BARKWAY on the 
+Fryday.
+
+
+HEMSTED on the 
+Thursday.
+
+
+HARTFORD on the 
+Saterday.
+
+
+HODDESDON on the 
+Thursday.
+
+
+HITCH-END on the
+
+
+
+
+RYCKMANSWORTH on the 
+Saterday.
+
+
+ROYSTON on the 
+Wednesday.
+
+
+STORTFORD, a very good market on the 
+Thursday
+
+
+SABRIDGWORTH on the 
+Wednesday,
+
+
+TRINGE a little market on the 
+Fryday.
+
+
+WAYRE on the 
+Tuesday.
+
+
+WATFORDE on the In number 18.
+
+
+
+
+
+
+The Fayres for the most
+ part in this Shire. 
+viz.
+
+
+2 At RICKMANSWORTH on 
+Ladie day
+ in haruest: and on
+ the second of 
+Iuly.
+
+
+2 At WATFORD on Trinitie Munday, 
+et per duas dies proximè sequentes,
+ and on the decolation of 
+Iohn Baptist.
+
+
+2 At BARKHAMSTED on sainte 
+Peters
+ day, and sainte
+ 
+Iames
+ day.
+
+
+1 At TRING S. 
+Peters
+ day.
+
+
+1 At HEMSTED at the day of 
+Holie-crosse.
+
+
+3 At saint ALBAN on 
+Michaelmas
+ day, on 
+Th'annunciation
+ of
+ 
+Mary,
+ and vpon saint 
+Albans
+ day, which is 3. dayes after 
+Mid∣sommer,
+
+
+1 At the PREE, called 
+Sancta Maria de pratis,
+ on It
+ is held sometime in the towne of S. 
+Albans,
+ or in 
+Keyfeild
+ neere 
+Sop well.
+
+
+3 At HITCH-END on the 
+Wednesday
+ in Easter weeke, on
+ 
+Michaels
+ day, and on S. 
+Edw.
+ day.
+
+
+1 At BENNINGTON on S. 
+Peters
+ day.
+
+
+1 At HATFEYLD on S. 
+Georges
+ day.
+
+
+4 At HARTFORD on S. 
+Iohn Baptist
+ day, on 
+Simon
+ and 
+Iudes
+ day, on the fryday before 
+Passion sunday,
+ and our 
+Lady
+ day 4. Sep∣tember.
+
+
+3 At BALDOCKE on S. 
+Matthyas
+ day, sainte 
+Androwes
+ day,
+ and on saint 
+Matthewes
+ day.
+
+
+2 At SABRIDGWORTH on S. 
+Georges
+ day, and on saint
+ 
+Dionise
+ day.
+
+
+3 At STORTFORD on 
+Michaels
+ day, on 
+Ascention
+ day, and on 
+corpus Christi
+ day,
+
+
+1 At WAYRE on the natiuitie of 
+Marie.
+
+
+1 At HODDESDON S. 
+Peters
+ day.
+
+
+3 At ROYSTON on 
+Ashwednesday,
+ on the Wednesday in 
+Whitsun weeke,
+ and at 
+Thomas Beckets
+ day.
+
+
+At Chipping Bernet on
+
+
+At S. 
+Giles
+ on
+
+
+
+
+
+
+
+
+The deuision of the Shire.
+
+
+THe Iustices of the Shire for the more ease of themselues and
+ the cōmon people, haue by consent deuided the whole Shire into 3. partes or deuisions, for the determination of matters of meanest moment.
+
+
+
+
+1 The first deuision is of CAISHOO and DACORVM hundreds, and for this the Iustices of that limitte meete sometime at 
+Welwine
+ and sometime at 
+Steuen-edge.
+
+
+2 BROADWATER and HITCH haulfe hundred meete at S. 
+Albans.
+
+
+3 HARTFORD, BRAWGHING, ODDESY and EDWINESTREE meete at 
+Hartford
+ or 
+Hoddesdon.
+
+
+
+
+But for matters of greatest importance the Iustices meete all at 
+Hartford,
+ where is also the common gaole for the Shire, and in the
+ Castle the gaole deliuerie, except onely for the libertie of S. AL∣BANS which both for ecclesiasticall & eiuill gouernement, hath peculiar power within it selfe, whose Iurisdiction reacheth into these parishes, namely:
+
+
+
+
+S. ALBANS. wherein are
+
+
+
+parishes.
+
+
+S. 
+Michaels
+
+
+S. 
+Steuons.
+
+
+S. 
+Peters.
+
+
+
+
+WATFORD.
+
+
+RICMANSWORTH.
+
+
+NORTON neere 
+Baldocke.
+
+
+NEWNHAM.
+
+
+RIDGE.
+
+
+HEXTON.
+
+
+WALDEN 
+abbottes.
+
+
+SARRET.
+
+
+LANGLEY 
+abbottes.
+
+
+ELSTRE or 
+Eglestre.
+
+
+BVSHIE.
+
+
+CVDYCOT. or 
+Casticot,
+ of some 
+Caudecot.
+
+
+SHEPEHALE.
+
+
+SANDRIDGE.
+
+
+REDBVRNE.
+
+
+BARNET.
+
+
+S. ANDROWES 
+in
+ S. 
+Albans.
+
+
+
+
+These haue gaole and gaole deliuerie at S 
+Albans,
+ 4. times in the yeere, namely the thursday after the quarter Sessions, at 
+Hartforde,
+ which is alwayes on the Munday.
+
+
+For Ecclesiasticall gouernement, these former belong to the Diocesse of LONDON, and is called the DEANERIE OF S. ALBANS, together also with the 
+Deanerye of Brawghing.
+
+
+The rest of the Shire belongeth to the sea of LINCOLNE and conteineth the Deanries of
+
+
+
+
+BARKHAMSTED.
+
+
+HITCH-END.
+
+
+HARTFORD.
+
+
+BALDOCK.
+
+
+
+
+To speake something of the Riuers that water this Countrie, the STORT may be first mentioned, because it lyeth farthest in the East, and is the Bound betweene this Shire and 
+Essex:
+ But that this Shire steppeth ouer the riuer, both at 
+Stortford,
+ and neere 
+Sabridg∣worth,
+ and fetcheth within her limits about 
+Stortford,
+ the 
+Castle of Waymore Hockerell,
+ the parsonage of 
+Stortford,
+ with other thinges in 
+Essex
+ side, and at 
+Sabsworth
+ or 
+Sabridgeforde
+ it depriueth 
+Essex
+ of a house called HYDE-HALL.
+
+
+Some, as I take it in tearming this 
+Stort
+ the STOVR are not
+ meerely mistaken, for though the 
+Stowrē
+ parteth 
+Suffolke
+ and 
+Essex,
+ and riseth at STOVR-MER, the 
+Stort
+ riseth in 
+Essex
+ also neere WENDON LOWGHES and signifieth 
+Wendod water,
+ and beginnes to deuide the two Shires betweene 
+Stortford
+ and 
+Fernham
+ about a mile aboue 
+Stortford:
+ And may in deede not amisse be cal∣led 
+Stowret,
+ THE LESSER OR LITTLE STOWR.
+ And the passage ouer the riuer neere 
+Waymore Castle
+ is called STOWRETFORD, briefely STORTFORD, whereof the Towne taketh name, and is called STORTFORD for 
+Stow∣retsord.
+ And vnder the name of the 
+Stowret
+ or 
+Stort,
+ it maintaineth
+ that deuision, till it come beneath an auncient house called the REE, where it meeteth with the LEA or LAVE, who as the
+ more worthie bereaues the little 
+Stort
+ of her title and glorie, and vnder the name of the 
+Lea,
+ they both in one hasten to WALT∣HAM ABBEY, and there bidde HARTFORDSHIRE 
+vale,
+ continuing her most milde course as stickler betweene 
+Essex
+ and 
+Middlesex,
+ vntill she present her selfe to famous 
+Thames.
+
+
+The LEA is the most famous Riuer within this Shire: And
+ bringeth as it were a testimoniall of her worh from the 
+Saxons,
+ who entitled her LIGEAN or LIGEAM Lea water. And it may
+ be supposed & probably gathered, that she yeelded in those pristine ages, some prayse-worthy fruites vnto that antique nation, as her free entertainement of boates and shippes, from the 
+Thames
+ euen to 
+Hartford,
+ for the more easie entercarriage of thinges betweene 
+London
+ & it, though now, & many yeers past, (as discontent) she
+ hath refused that publique seruice affording onely, of late, accesse for small boates or barges to WAYRE, a benefite necessary and no way no some.
+
+
+This Riuer hath many braunches, but her head first seemeth to looke into the light, not farre from an auncient house, called of the spring there, LEA-MER, corruptly LAMER, which signi∣fieth
+
+
+
+the head, spring or well of LEA. As the 
+Stowre
+ which passeth betweene 
+Suffolke
+ and 
+Essex,
+ beginneth at STOVR-MER, the
+ head or spring of 
+Stoure.
+
+
+The 
+Lea
+ coasteth as it were through the Center of the Shire, deuiding it neere into two equall partes, and in her passage, among
+ other, she receyueth the WHITWELL riuer, whose auncient name is MARRAN. Entring the 
+Lea
+ west off Hartford, and be∣tweene that and 
+Wayre,
+ the BENE or auncient BENEFICI¦AN, a riuer that riseth not farre from BEINENTON or BE∣NINGTON increaseth the 
+Lea,
+ not farre from a place alluding also to that name called BENGEHOO or rather BENEHOO
+ the riuer of 
+Bene
+ by interpretation.
+
+
+A third braunch, which first riseth about 
+Barkeway, Austie,
+ and 
+Buntingford,
+ maketh way by 
+Brawghing,
+ and neere 
+Bengehoo
+ entereth the 
+Lea.
+
+
+A fourth braunch, riseth about the 
+Pelhames,
+ making way by the 
+Hadhames,
+ and East off 
+Wayre
+ greeteth the 
+Lea.
+
+
+The RFDBVRNE riuer riseth not farre from 
+Flamsted
+ an
+ auncient Baronie, and thence passeth by 
+Redburne,
+ and in her way towardes the decayes of old 
+Verlam,
+ it greeteth the Lady of 
+Pree
+ S. MARIA DE PRATIS a Nunnerie and a kind neighbor
+ to 
+Albans
+ Abbey. This fall of water, was called VERLAME, as Antiquaries obserue, and thereof VEROLANIVM, and VERLAMECESTER: whereby it may be gathered that the former 
+Flamsted
+ where this 
+Verlame
+ water first appeareth, should be rather VERLAMSTED then 
+Flamsted: Flamsted
+ being more
+ easie to be pronounced, and so drowning verlam with flam, as in ma∣ny wordes f. is taken for the u. consonant, and that u. fot f. especi∣ally among the common people, that pronounce vather sometime for father. This 
+Verlam
+ riuer or the 
+Redbourne
+ was the foode that relieued that famous great poole which was betweene 
+Verlamcester
+ and 
+Holmehurst
+ hill where 
+Albans
+ towne standeth: Of which poole so many coniectures hauebeene, that it should be part of the flow∣ing 
+Thames,
+ whereof is spoken hereafter in S. 
+Albans.
+
+
+This 
+Verlame
+ or 
+Redburne
+ Riuer not much belowe 
+Albans
+ towne, offereth her selfe to the COLNE, a riuer that there imbraceth
+ her, and drowning both the names of 
+Verlame
+ and 
+Redbourne,
+ vsur∣peth the whole ritle and glorie to her selfe, and immediatly beget∣teth COLNEY and COLNEY-STREET, and passing on she
+ visiteth WATFORD or WATLINGFORD, the aunci∣ent ruynes of 
+Morhouse, Rickmansworth, Vxbridge
+ and another of her begotten called COLN-EBROOKE, and so without stay shee
+ submitteth herselfe to the 
+Thams,
+ the mained euouring gulfe of all these petite streames.
+
+
+This riuer ere it commes to 
+Riokemansworth
+ deuoureth 
+Caishoo
+ ri∣uer
+ and another that falles out of 
+Buckinghamshire.
+
+
+
+
+
+
+
+
+Beacons or Beaukens within 
+the Shire.
+
+
+THe Steeple of S. 
+Peters
+ in S. 
+Albans.
+
+
+
+
+Graueley
+ Beacon.
+
+
+Tharfield
+ Beacon.
+
+
+Amwell
+ Beacon.
+
+
+
+
+Hartford
+ Towne hath long. 20. degrees and latitude 52. degrees. ⅙′
+
+
+Within this Shire are 120. parishes and 15. Chappels of ease, yet in vse, some of them carrying the name of parishes. In the whole 135.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HARTFORDSHIRE
+
+
+map of Hertfordshire
+
+
+
+
+· HONI · SOIT · QVI · MAL · Y · PENCE ·
+
+
+royal blazon or coat of arms
+
+
+
+
+Joannes Norden perambulaunt & descripsit 1598
+
+
+Wilhelmus kip Sculpsit.
+
+
+
+
+
+
+
+
+
+
+
+
+An alphabetical Table of the townes Parishes and Hamlets for the most part within the Shire.
+
+
+
+
+A
+YOT. h. 18. called 
+Ayot Lawrence,
+ neere which place 
+Adelnulph
+ and 
+Adelbaide
+ his sonne gaue the
+ 
+Danes
+ an ouerthrow: the place to this day where they were slayne, is called DANE-END
+ 
+Dacorum clades.
+
+
+AYOT
+ h. 20. called 
+Ayet Mountfitchet
+ or little 
+Ayot.
+
+
+ALDBERIE d. 30. 
+Villa vel aula antiqua.
+
+
+ALDBERYE i. 18. 
+eiusdem significationis.
+
+
+AFFLEY e. 14.
+
+
+ALDNHAM m. 18. 
+Idem quod
+ ALD-BERYE.
+
+
+S. ALBANS.
+ k. 18. 
+Villa Albani.
+ ALBANS TOWNE first founded by 
+Offa
+ K. of the 
+Mercees,
+ in perpetuall memorie of
+ 
+Alban
+ in the 33 yeere of his raigne. The Towne is said to be buil∣ded in the place where 
+Alban
+ was martyred, namely vpon a hill in a wood called HOLMEHVRST of 
+Beda
+ DOVRS∣WALDT: which is the wood neere the water, meaning the great Stagne, which was betweene 
+Verlame
+ and the place of 
+Alban
+ exe∣cution. 
+Alban
+ was a Cittizen of 
+Verolame,
+ and by bloud a Romane, and gaue entertainement to 
+Amphibal
+ at his comming to that citie. by whom he was from Paganisme conuerted to the Christian faith,
+ for which he suffered as 
+Capgraue
+ affirmeth, whose further friuo∣lous reportes of the miracles wrought by this holy Conuert, liuing and dead, I leaue as idle or needelesse▪ onely it seemeth probable that such a man there was executed at that place, and for his eter∣nall commemoration, this 
+Albans
+ Monasterie was founded, and consequently the towne, both consecrate to his owne name. And endowed with many large priuiledges and dayly augmented and successiuely confirmed, by the charters of many Kings of this Land
+ whereof I haue seene and read not a sewe; signed onely 
+signo crucis
+ without further ceremonie of sealing.
+
+
+This Monasterie hath bene enlarged by sundrie Abbots of this place, as especially by 
+Eldred
+ and 
+Edmer
+ about 
+Eadgars
+ time, and in 
+Edward
+ 3. time, who gaue the then Abbot 
+Licentiam ad confirmardam et kernellandam Abathiam de calce et petra:
+ in the 31. yeere of his raigne ouer England, and of his raigne ouer Fraunce the 18.
+
+
+Such were the priuiledges of this place, that the King coulde make no secular officer ouer them, but by their owne consent.
+
+
+They were acquitted of all 
+Toll
+ through England.
+
+
+They made Iustices 
+ad audiendum et terminandum,
+ within them∣selues,
+
+
+and no other Iustice could call them for any matter out of their libertie.
+
+
+They made also Bayliffes and Corroners.
+
+
+No Bishoppe had any Iurisdiction to correct any person among them for any matter spirituall or temporall.
+
+
+They had the execution and returne of all writs, and the goodes of all Outlawes: and that is yet continued to the Towne by the
+ graunt of 
+Edward
+ 6. And no man may bee impanelled out of the Towne.
+
+
+They had gayle and gayle deliuerie within the towne: and the towne at this day hath the like, namely one gayle for the libertie,
+ and another for the towne. For the gayle deliuerie, the Steward of the towne is alwayes in commission, but not by their Charter.
+
+
+The towne is gouerned by a Maior and 10. Burgesses, a stewarde and a Chamberlaine.
+
+
+There are in the towne 4. Wards and in euery Ward a Constable and 2. Churchwardens.
+
+
+In the Abbey church of this place is a Font of brasse brought out of 
+Scotland
+ by 
+Sir Richard Lée:
+ as may appeare by a circum∣scription about the same font, as if the font did proclaime the same in it owne person in these wordes.
+
+
+Cum letha oppidum apud 
+Scotos
+ non incelebre et 
+Edenburgus
+ pri∣maria
+ apud eos ciuitas, incendio conflagrarent, 
+Richardus Leus
+ eques aur atus me flammis ereptum ad 
+Anglos
+ perduxit. Huius ego benefi∣cij memor non nisi Regum liberos lauare solitus, nunc meam operam etiam infimis 
+Anglorum
+ libenter condixi. 
+Leus
+ victor sic voluit. Anno Domini. 
+M. D. XLIIII.
+ & 
+Henrici octaui. XXXVI.
+
+
+In this Abbey church lyeth buried famous 
+Sir Iohn Mandeuile
+ liuely formed in a marble stone: whose trauayles in forraine regions and rare reportes, are at this time admired through the world.
+
+
+There lie also many Nobles, who lost their liues in the conflictes
+ in and neere this towne, betweene the houses of 
+Lancaster
+ and 
+Yorke.
+
+
+In the North-west ende of the towne was sometime a stately castle, and called 
+KINGSBERRIE,
+ which is as much, as the
+ Kinges house or castle, for BERRYE 
+castrum et castrametationem significat:
+ the ruines thereof doe yet somewhat appeare, the place now supplied with a farme house. The Abbot of that place in the time of K. 
+Stephen
+ made suite vnto the K. to ouerthrowe and sup∣plant the same castle, for that (as he suggested) 
+Antiquis tempori∣bus latebant quidam regales nequam homines, Abbatis minus infesti et damnosi.
+ At whose instance the castle was forthwith ouerthrowne.
+
+
+There was sometime a great Meere or stagne, betweene this towne and olde 
+Verolamium▪
+ and many haue constantly, but idlely affirmed, that the 
+Thames
+ hath had issue that way, and nauigable so farre, a thing meerely fabulous, though it be true, that an ancker
+
+
+was sometime founde there. It was indeede 
+Stagnum maximum
+ an ample and large fishpoole of the Kinges, and belonged to his ca∣stle of Kingsberie before spoken of: And the Kinge for his recre∣ation, and delight lying there, did often passe by boate, to and fro within the same, according to the order of the noble men and gen∣tlemen of 
+Rome,
+ who did vsually, make fayre fishpondes aboute their houses, to recreate themselues therein: and these with ex∣ceeding cost, as 
+Marcus Varro
+ wryteth especially of the wonder∣full large and costly fishpondes of 
+Hortentius, Hircius
+ and 
+Lucullus.
+ And of these, and such other princely Romans, did these 
+Verlame
+ Citizens, take president for this great ponde, which comming af∣terwardes to the king of the land, he often tooke his repasle there∣in, accompanyed commonly with no smalle troupe of his nobles, and therefore the boates, were prouided of large hull, furnished with cable and ancer, that at the kings pleasure, the boate might be moared in any parte of the poole, whereby, how easie it is to loose an ancre in the meere reason may iudge, and this was the occasion of the losse, of the ancre doubtlesse that was found there, and not ordinarie recourse of shippes as some vainely suppose. And yet as 
+Ouid
+ sayth: 
+& vetus inuenta est in montibus anchora summis.
+ This fish∣poole
+ continued in this pryde, till the time of 
+Alfric
+ the seuenth Abbott of this Monastery, who bought the same of the king, and by industry and charge caused it to be drayned drie: And the more to argue it to be but a fishpoole there remayneth yet one witnesse, a streete in the towne lying towardes it called FISHPOOLE∣STREETE.
+
+
+If any boates in former times, came thither, they came from 
+Staenes
+ and vp the 
+Colne
+ riuer to 
+Rickmansworth,
+ to 
+Watforde
+ and so to S. 
+Albans,
+ but in no sence to the place where the ancre was founde, for that the fall of the water there was such as it coulde yeelde no accesse for shipping against the same. There is indeede a feilde be∣lowe S. 
+Albans
+ called 
+key feyld,
+ and belowe 
+Rickmansworth,
+ a place vpon the riuer called 
+Westhythe,
+ which may in sort argue some such passage for boates, but for the first it may bee aswell 
+pascuum, vacci∣num
+ a pastour for kye, or kyne, as a strande for fastening of boates or ships & more like. And 
+Westhithe
+ may be as wel taken for a house as for a harbour of ships. And yet these simple probabilities might worke that conceite in 
+Gildas,
+ who was the authour of this error.
+
+
+In and about this towne, haue beene sundry battelles conflictes
+ and spoyles, as in the time of Henrie 3. one 
+Falcatius de Brent
+ a no∣torious robber, with a companie of wicked persons came too this towne by night, spoyled the same and murthered many: and would haue set the Abbey on fire, But the Abbot feed him with 100 pound to depart.
+
+
+This was a dangerous time when theeues and murtheres must be hyred for rewarde and not constrayned by iustice, to desist from
+
+
+violence and bloud.
+
+
+In the same yeare it was ransackt againe by the souldiees, that went vnder the conduct of Earle 
+Patric, Sayre
+ and others to remoue
+ the seidge of 
+Mount Sorrell.
+
+
+Moreouer, about the yeare 1455. Henrie 6. of the famelie of 
+Lancaster
+ with many of his nobles, at this towne mett with 
+Richard
+ Duke of 
+Yorke,
+ and his adnerentes, where the king was taken, and
+ a great slaughter made vpon his men, euen of best accoumpt. But afterwardes within 4. yeares neere the same, at a place called by the inhabitants BERNET FEYLD but I take it rather 
+Brentes feild,
+ of the former 
+Falcatius de Brent,
+ such as stood affected to the fa∣mely of 
+Lancaster,
+ vnder the conduct of 
+Margaret
+ the Queene, migh∣tily preuayled against the complices of the house of 
+Yorke,
+ to the infranchesing of the Captaiue king, and ouerthrowe of many of
+ the aduerse parte.
+
+
+In the middle of this towne is a crosse, verie stately erected a∣bout the yeare of Christ 1290. by Edward 1. as in many other pla∣ces, in memoriall of the death and dolefull carriage of his Queene, from. 
+Herdbie
+ nere 
+Lincolne
+ where shee dyed, towardes 
+Westminster
+ where she was buryed.
+
+
+At this place was executed that Libellor aud stirrer of the com∣mons named 
+Iohn Ball
+ in the time of Richard the 2.
+
+
+The terme is sometime kept in the Abbey chutch where all pla∣ces are orderly prouided for the same.
+
+
+AMWELL. h. 28. which signifieth 
+fontem amnensem
+ a well by the riuers side.
+
+
+ANSTIE. b. 30. At this place are the ruynes and deepe tren∣ches of a stronge castle, scituate aloft on a steepe hi
+l, and was cal∣led HANST-HYE castle 
+depraecipitio.
+ I take it of the stepe∣nesle of it.
+
+
+ASPENDEN. d. 24. so called eyther 
+detremules
+ of the Aspe trees, or for that it hath beene 
+cauerna viperina
+ a place of venemous wormes.
+
+
+ASTON. f. 22.
+
+
+ASHWELL. b. 20. 
+fons inter fraxinos.
+ M. 
+Camdtn
+ taketh it to be, that which 
+Antoninus
+ termth in his ltenerari 
+MAGIOVINIVM
+ And he prooueth it by the signification of the worde 
+Magionirdum,
+ chaunging only n. for u. which then signifieth a nurserie for Ashes, and so much doth the nature of the place fitly import▪
+
+
+ASHRIDGE. i. 10. 
+Iugum fraxinium,
+ at this place was an her∣mitage built by 
+Edward Beanforde
+ Earle of 
+Cornewall,
+ wherein (so it
+ was esteemed) 
+Edward
+ 1. kept a royall Christmas. Wherein also our moste worthie and euer famous Queene 
+Elizabeth
+ lodged as in her owne, (being then a more stately house) at the iime of 
+Wy∣atts
+ attempt in Queene 
+Maryes
+ dayes. And from this place she was in all post sent for to the courte, by such seuere Commissionars, that
+
+
+though she were then sicke, she was forced to take her iourney with them. The worthy history whereof to our perpetuall ioy, for that the high 
+Iehouah
+ seeing her innocencie preserued her to the regall throane, is at large set downe in our Chronicles.
+
+
+This place is lately beautified by the Lord 
+Cheyney.
+
+
+
+
+
+
+B.
+
+
+BARHAMSTED.
+ k. 8. or rather BERGHAMSTEDT 
+villa sita inter montes
+ BERG in the Saxon tonge is a hil, HAM a towne, and STEDT or STADT a place or seat, and the
+ scituation of this place agreeth to the former interpretation.
+
+
+Nere vnto this towne was a stronge castle, the ruynous walles and some buildinges thereof yet remaine. It was builded (as M. 
+Camden
+ affirmeth) by the 
+Normans.
+
+
+The Conqueror, in deede stayd there, as histories report, as he passed through the country, And thither resorted vnto him many Lordes and nobles of the Realme, At which time, it is like, he gaue
+ order for the erecting of the castle, if it were not a castle when he made stay there, the beauty and strength of the castle, is now ad∣uaunced on a loftie hill, stataly and pleasant not farre from the olde site, not holding the former forme of a castle, but is become with addition and charge a beautifull house, by Sir 
+Edward Carry
+ knight M. of her maiesties lewell house.
+
+
+Lewes
+ of 
+Frauncè
+ beseiged this castle against Henrie 3. the first yeare of his raigne, in the time of which seige certayne knightes and souldiers salied out of the castle, adn depriued the aduersary of
+ sundry pillage, and safely returned. But afterward at the kinges commaundement it was yelded vp to 
+Lewes.
+
+
+Richard
+ king of 
+Almane
+ dyed in this castle who was also Earle of 
+Cornewall,
+ and brother to Henry 3. And Cicelie mother to Edward the fourth. And wife too the Duke of 
+Yorke,
+ too whome the
+ castle belonged, ended her dayes in this place in the time of Henry 7. after she had seene the deserued fall of vsurping 
+Richard▪
+ who was also borne in this castle, some say at 
+Fotheringay.
+
+
+There is in the towne of 
+Barkhamsted
+ a fayre free Schoole built of bricke, by doctor 
+Incent
+ sometime deane of 
+Paules,
+ the stipend
+ of the Master is 20. pound 
+per annum,
+ of the vsher 10. pound confir¦med by acte of parliament.
+
+
+It is a market towne, and standeth most vpon making of malt, it hath two fayres in the yeare.
+
+
+BARKHAMSTED. i. 26. or 
+Berghamsted vt supra.
+
+
+BARKEWAY.
+ b. 28. I haue seene it in an auncient recorde BERGWANT which is as much as 
+viain montem
+ the way to the
+ hill, it is a market towne. In Nouember last much defaced wtih sire.
+
+
+BARLEY, a. 28▪ or BERGLEG 
+ager montosus.
+
+
+BARFEYLD b. 24. I haue read it in the Saxon Berȝfeldt, and signifieth the same that 
+Bergleg
+ doth.
+
+
+BALDOCK
+ d. 20. a market towne standing betweene the hils, little furnished with any matter of moment, onely it yeeldeth malt∣makers not a few, the prayse of the place is the chalkie soyle fitte for corne.
+
+
+BAYFORD i. 26.
+
+
+BERNET
+ n. 26. or BERGNET 
+monticulus,
+ called high 
+Ber∣net
+ of the scituation on a hill, and chipping 
+Bernet
+ of the market famous for cattle, there bought and sold euery munday.
+
+
+BERNET n. 18▪ called East 
+Bergnet.
+
+
+BERNET
+ feyld k. 16. a place vulgarly so called, but corruptly as I take it, it should be rather 
+Brentes
+ feyld, of that 
+Fulcatius de Brent
+ spoken of before in S. 
+Albans,
+ who with a troupe of wicked men, a∣bout this place robbed and murthered many.
+
+
+In this feyld, was the matter handled by deadly blowes, betweene Queene 
+Margaret
+ leading the fauourers of the house of 
+Lancaster,
+ and the complices of the house of 
+Yorke,
+ & where she redeemed the king that was taken before at the battell of S. 
+Albans,
+ And gaue the kinges and her enemies a sound requitall.
+
+
+BENINGTON e. 24. or BENIGNTON 
+villa Benigna,
+ eyther of the bountie of the inhabitantes, or the pleasent and profi∣rable scituation of the place. As 
+Blithe
+ in the North partes 
+de iucun∣ditate
+ of myrth and good fellowship.
+
+
+But it may bee BENETON of a riuer called BENE, or
+ BENEFICIAN which riseth neere it, which carryeth greate probabilitie.
+
+
+BENGEHOO h. 26. or rather BENEHOO which is rightly enterpreted the riuer of 
+Bene,
+ BENEHOO for 
+Benegoe
+ in the Germaine tongue, HOO with vs being pronounced for GOW
+ which is in the French EAV, with vs water.
+
+
+BEDMONT l. 16. a hamlet called Bedmont ponde 
+de Stagno
+ of the poole neere it
+
+
+BELLBARR l. 24.
+
+
+BIGRAVE c. 20. a parishe wherein is onely the Berye, of Mannor house and none other.
+
+
+BOVRNE-END k. 10.
+
+
+BOVINGDON m. 10.
+
+
+BROAD-WATER f. 20. a little hamlet whereof 
+Broad-wa∣ter
+ hundred taketh name, so called not of the continuall water for the place is commonly drie: But at great flouds the fall of the land water maketh it a great Sea.
+
+
+BRAGBERG-END f. 22.
+
+
+BRADFEYLD a hamlet sometime a chappell of ease nowe ecayed.
+
+
+BRANFEYLD k. 24. It was giuen by one 
+Hardewine de Sea∣leris
+
+
+
+and 
+Odell
+ his wife to th'aduancement of 
+Albans
+ Monastery.
+
+
+BROWGHING d. 28. or BRAWGHING, A libertie hauing other members, And thereof 
+Brawghing
+ hundred taketh name.
+
+
+BEOX-BORNE i. 30, or BROOKES-BORNE 
+de aqua.
+
+
+BVSHIE o. 18. aptly so called 
+de Dumis
+ of the Bushes, and woodes there, heretofore abounding.
+
+
+BVRWELL f. 24. or BVRGHWELL
+
+
+BVNTINGFORD
+ a. 26. a large hamlet and a good thorow∣fare: also a market towne, standing as it is sayd in foure seuerall pa∣rishes, namely in 
+Layston, Widiall, Throcking,
+ and 
+Aspenden.
+ And hath two fayres in the yeare.
+
+
+BVCKLAND b. 26. 
+fortè de fagis.
+
+
+
+
+
+
+C.
+
+
+CALK-COTE b. 18. rightly so called 
+de creta vel calce,
+ and signifieth 
+cretaceam casam,
+ a house standing in a chalkie soyle.
+
+
+CAISHOO n. 16. or CAEGSHO, M. 
+Camden
+ deri∣ueth the name 
+de Cassijs
+ of a people mentioned by 
+Caesar
+ who had their aboad in this part as is supposed.
+
+
+Caishoo
+ should import a water, called CAIS or 
+Caegs
+ the name,
+ it may bee, of the riuer that passeth through this hundred, called CAISHOO or 
+Caegeshoo
+ hundred, called of 
+Hollenshed
+ GADES and giues name to the 
+Gadesdens,
+ where the riuer riseth: And so by corruption of pronunciation they call it 
+Caishoo
+ for 
+Gadeshoo, Gades
+ riuer or else is GADES mistaken for CAIS or CAEGS and so for 
+Caisden
+ or 
+Caegsden
+ pronounced 
+Gadesden,
+ for doubtlesse the riuer giueth name to 
+Caishoo
+ or 
+Caegshoo,
+ or 
+Gadeshoo-berye.
+
+
+Offa
+ king of 
+Mercia
+ gaue vnto the monasterie of S. 
+Albans,
+ a place by the name of 
+Caegshoo,
+ whether it were the whole hundred 
+Caeg∣shoo-bery
+ or some place else now decayed, I can not affrime. But I take it most like to be the whole hundred for that the most of it be∣longeth to the libertie of S. 
+Albans.
+
+
+CHIPPERS FEYLD m. 12.
+
+
+COLNEY l. 20.
+
+
+COLNEY-STREET l. 18, these take name of 
+Colney streame,
+ which giueth name also to 
+Colnebrooke,
+ a towne standing both in 
+Buc∣kinghamshire
+ and 
+Middlesex.
+
+
+CODERYD a. 24. or 
+Caude-rydge iugum frigidum.
+
+
+CHESFEYLD e. 20. forte CHOISFEYLD 
+Ager delectus,
+ for the rich scituation in so fertile a corne soyle.
+
+
+CHESTON l. 30. 
+cur non
+ Chestin? 
+castanetum
+ of chesse∣nut trees.
+
+
+CORNERHALL a hamlet so called for the suddaine tur∣ning in it from 
+Hemsted
+ way to 
+Barkhamsted.
+
+
+CLOTHALL d. 20.
+
+
+
+
+de Carbonarijs.
+
+
+COLGREENE h. 24.
+
+
+COLLIERS-END f. 26.
+
+
+
+
+COLSEHILL greene o. 8, a hamlet of 
+Hartfordshire,
+ yet within 
+Buckinghamshire
+ foure miles from the neerest parte of 
+Hari∣fordshire▪
+
+
+CVMBERLOW greene d. 22.
+
+
+CVDICOTE g. 20. or CAVDE-COTE 
+casa frigida.
+
+
+
+
+
+
+D.
+
+
+DANE-END i. 26. 
+terminus velclades Dacornm.
+
+
+DANE-END h. 16. of these see more in the definition of the hundred DACORVM.
+
+
+DIGSWELL h. 22.
+
+
+DATCH-WORTH g. 22.
+
+
+
+
+
+
+E.
+
+
+EAST-WIKE g. 32. 
+vicus orientalis.
+
+
+ELSTREE n. 20. in OFFAES grant EAGLESTRE
+
+
+Nemus aquilinum:
+ a place wherit may be thought Eagles bredd
+ in time past, for though it be nowe hilly and heathy-it hath beene replenished with stately trees, fit for such fowle to breede and har∣bour in. It is parcell of the libertie of S. 
+Albans.
+
+
+EPPALETS e. 16, or HIPPOLETTS, vulgarly PAL∣LETS, this place was dedicate to a supposed Saint of that name,
+ that in his life time was a good tamer of colts, and as good a horse∣leach: And for these qualities so deuoutly honored after his death, as all passengers by that way on horsebacke, thought themselues bound to bring their steedes into the church, euen, vp to the high aulter, where this holy horseman was shryned, and where a Priest continually attended, to bestowe such fragmentes of 
+Eppolettes
+ my∣racles, vpon their vntamed coltes and olde wanton, and forworne Iades, as hee had in store, And did auaile so much the more or lesse, as the passengers were bountifull or hard-handed, but he that was coy of his coyne had but a colde and counterfeite cure.
+
+
+ESENDEN i. 24. or EAVSENDEN.
+
+
+
+
+
+
+F.
+
+
+FLAMSTED i. 14, It may be VERLAM-STED, a place
+ vpon the riuer 
+Verlame
+ for there it riseth, which of the aunci∣ents was called 
+Verlame
+ water, of vs 
+Redburne
+ streame which runnes betweene the Ruines of 
+Verlamcester
+ and S. 
+Albans, Verlamsted
+ is more tedious in pronunciation then is 
+Flamsted,
+ and therefore
+
+
+
+Flamsted
+ held in vse, and soundeth 
+locum Flamenus.
+ And was somtime a baronie so called.
+
+
+FLAVNDEN n. 10.
+
+
+FINCHES-END e. 22.
+
+
+
+
+
+
+G.
+
+
+GADES-DEN i. 10. or CAIS-DEN called GADES∣DEN 
+magna.
+ It taketh name of the Riuer 
+Gades
+ or 
+Cais
+ see more of this before in 
+Caishoo.
+
+
+GADES-DEN i. 10. called 
+Gades-den parua.
+
+
+GELDS-DEN g. 32.
+
+
+GRAVELEY e. 18. or GRAVESLEY 
+terra praepositi,
+ the
+ Reeues land: 
+Chesfeyld
+ is annexed vnto it, and in al charges is called 
+Graueley cum Chesfeyld.
+
+
+GRAVES-END d. 32. 
+limes prepositi
+ the Reeues end or the bound of the precincte of the Reeues office, this officer at this day in many partes Westward is yet in force, especially in anncient 
+de∣meisne Land.
+
+
+
+
+
+
+H.
+
+
+HARDING h. 16. in record HARPEDEN or HAR∣PENDEN.
+
+
+HATFEYLD k. 22. or HAVTFEYLD 
+Campus alius
+ called 
+Bushoppes Hautfeyld
+ for that it did sometime belong to the Bushoppe of 
+Elye.
+
+
+It is now her Maiesties, and will bee for euer famous, for that it
+ first offered forth our most worthy 
+Elizabeth
+ to the Regal diademe, and to recelue the triumphant cepter of this Realme, happie in her Royal Maiestie. And therefore let 
+Hautfeyld
+ be euer famous.
+
+
+HARTFORD h. 26. after M. 
+Camden
+ HERVDFORD for the THE RVDFORD.
+
+
+But vnder correction (reuerenoing his iudgement) Irather take it 
+vadum ceruinum.
+ HARTSFORD a passage for Deere, more
+ like then 
+Oxeford
+ should be 
+de vado Boum,
+ where in deed it is 
+Ous-ford
+ A passage or forde ouer the Riuer 
+Ouse,
+ which giueth name to 
+Ows∣ney.
+ More is sayd of 
+Hartford
+ before in the definition of the Shire.
+
+
+There is in this towne a Castle neuer of great strength, buylt as
+ is thought by Edward 1. and much increased by the houses of 
+Clare
+ and 
+Lancaster,
+ and is at this day accompted parcell of the Duchie of 
+Lancaster.
+
+
+Rogerus de Clare
+ was created Earle of this place in the time of
+ Henrie 2.
+
+
+The Castle and Towne standeth vpon the 
+Lea,
+ which is sayde to
+ haue yeelded passage for shipping euen to the walles of the Castle, which I dare, neither to affirme or denie, hauing seene no record to
+
+
+prooue the one or impossibilities for the other, more is sayde of the 
+Lea
+ and of the passage for ships, before in handling the Riuers.
+
+
+This Towne hath beene of greater state, estimation and beautie then now it is, And had foure parish churches; namly S. 
+Michaells,
+ & S. 
+Maryes
+ decayed, onlie 
+All Saintes
+ and S. 
+Androwes
+ stand.
+
+
+It hath beene most rob-d of her glory, by 
+Wayres
+ aduancement
+ which since the turning of the high way through it hath flourished more and more, and this dayly withered.
+
+
+It hath a corporation, a Bayliffe, elcuen Burgesses, and a Serge∣ant, the gayle for the Shire is in this towne, and the gayle deliuerie in the castle, and vpon occasion, namely when the sickenes visiteth 
+London,
+ the terme for the most part is kept here in the castle, to the
+ great reliefe of the poore towne.
+
+
+It hath market Saterday, and 4. fayres in the yeare.
+
+
+HARTINGFORD-BERY h. 24 whereof see in the de∣finition of the Shire.
+
+
+HAVT-WICK c. 24. 
+de alto situ.
+
+
+HADHAM f. c2 called 
+Hadham magna
+ where the Bishop of London hath an auncient house.
+
+
+HADHAM c. 32. called 
+Hadham parua.
+
+
+HADHAM c. 30. called 
+Hadham on ash
+ a hamlet, standing on a brooke of that name.
+
+
+HEMSTED
+ k. 12. or 
+Hempsted locus cannabinus forte
+ of hempe. 
+Etheldred
+ graunted it to the monasterie of S. 
+Albans
+ by the name of HENAMSTED.
+
+
+HENXWORTH b. 20.
+
+
+HYDE o. 12. called 
+West-hide
+ or 
+hithe.
+
+
+HIGH-STREET l. 14.
+
+
+HITCHING c. 16 or HITCHINE more rightly HITCH∣END, because it lyeth at the end of a famous wood called HITCH
+ of which also the hundred of 
+Hitch,
+ called HITCH HAVLFE HVNDRED taketh name, and not of the towne which is 
+quasi terminus
+ the vtter edge or end of that woode, though time haue ex∣tinguished that parte of the woode, which laie towardes the towne.
+
+
+It cannot be 
+Hitch-ing
+ which soundeth 
+de pratis,
+ vnlesse it bee in that sence, as 
+Lucus
+ is a thicke wood 
+de lucendo
+ of yelding light being altogether darke. So 
+Hitch inge
+ of meadow ground because it hath no meadowe, and yet standeth in a valley betweene the hils.
+
+
+The towne is the Queenes, and a very bountifull corne Market.
+
+
+It is gouerned by a Bayliffe, and foure Constables, whereof two are called for the towne, and two for the forraine.
+
+
+In the towne is made great store of Malt.
+
+
+About the towne is a kinde of chalke, which they call Hurlocke a
+ stonie Marle, more fit to make lime then to soyle the grounde, yet beeing mixed with a more fragile and gentle Marle, which also a∣boundeth there, they find it very helpfull to their corne feilds.
+
+
+HITCH-WOOD f. 16,
+
+
+HILL-END h. 16.
+
+
+HIGH-BRIDGE o. 16 a bridge neere Moar house ouer 
+Col∣ney streame.
+
+
+HOW-END g. 18. or HOO-END the head of the Riuer.
+
+
+HIGH-CROSSE f. 26▪
+
+
+HORMEADE c. 28. or HORMEHEAD 
+magna
+ as the head of the riuer or brooke so called.
+
+
+HORMEAD c. 28. or HORME-HEAD 
+parua.
+
+
+HODDESDON i. 30. a market towne and a thorow fare from the north partes to 
+London.
+
+
+HOCKERELL c. 36. a little hamlet belonging to 
+Stortforde
+ on 
+Essex
+ side but in 
+Hartfordshire.
+
+
+HVNSDON i. 32. This place giueth vnto the R. Ho. Syr 
+George Carey
+ knight, nowe Lord Chamberlaine to her Ma. the title of BA∣RON of HVNSDOD. It is an auncient house, and lately be∣gunne
+ to be inlarged with a stately gallery, fayre lodginges and offi∣ces, by the right honourable. Hen. late Baron of the same place, and in his life time, also Lord Chambersaine to her Maiestie.
+
+
+HICKLINGFORD d. 16. of some HITCH-INGFORD of some ICKLINGFORD.
+
+
+
+
+
+
+I.
+
+
+ICKLINGFORD 
+vide Hicklingforde.
+
+
+
+
+
+
+K.
+
+
+KENSWORTH h. 12.
+
+
+KELSHVLL b. 24▪ in record KELSWALDE.
+
+
+KNEBWORTH g. 20.
+
+
+KEMPTON g. 16. or KIMETON.
+
+
+KINESBVRNE k. 14 or KINESBOVRN of the riuer so
+ called whose head is neere it.
+
+
+
+
+
+
+L.
+
+
+LAYSTON c. 26.
+
+
+LANGLEY m. 12. called KINGES-LANGLEY.
+
+
+At this place 
+Richard
+ 2. and Queene 
+Anne
+ his wife, with manie
+ of their nobles kept a Royall Christmas. And when the king decea sed he was buryed in the church there, But afterwardes hee was re∣moued to 
+Westminster
+ by Henrie 5. At this house 
+Edmond
+ Duke of 
+Yorke
+ was borne, and thereof called 
+Edmond
+ of 
+Langley,
+ where also he was buried and many other of that famelie.
+
+
+LANGLEY m. 14. called ABBOTESLANGLEY.
+
+
+LANGLEY f. 18.
+
+
+LADWELL d. 16.
+
+
+LEVESDEN m. 16.
+
+
+LETCHEWORTH d. 18.
+
+
+LONGE MEERSTON i. 4. So called for that it is 
+termi∣nus extremus huius Hartfordiensis agri.
+
+
+LVLLEY f. 12. or rather 
+Low ley, de solo depresso,
+ of the lowgroūd
+
+
+
+
+
+
+M.
+
+
+MAGIOVINIVM see 
+Ashwell.
+
+
+MARKAT h. 13. corruptly so called for MER-GATE which is 
+Scatebra
+ an issue or outgate of water called in 
+Sussex
+ and 
+Surrey
+ a 
+Bourne
+ that breaketh out of the earth, at sometimes,
+ foregoing (as hath beene obserued) some dismall accident as yel∣ding teares for the euils to come, And of all men held 
+malum omen
+ and this is termed WOMERE, a water presaging sorrowe to
+ come▪ as in the time of Edw. 4 when it brake forth 19. February & ran till the 14. of Iune following, But for these kind of waters some willyeeld natural reasons of the cause, but for my part I will not de∣ny but some diuine mistery may be hidden therein.
+
+
+MICHAELS
+ k. 16. called S. 
+Michaels
+ neere S. 
+Albans.
+
+
+MYMS l. 22. called 
+North Myms.
+
+
+MEERSTON 
+vide Longe Meerston.
+
+
+MVNDON e. 26. called MVNDON 
+furniuall
+ and great MVNDON.
+
+
+MVNDON e. 26. called 
+Mundon frewell
+ and litle 
+Mundon.
+
+
+MVNKES-WOOD f. 22.
+
+
+
+
+
+
+N.
+
+
+NAST-HIDE k. 20.
+
+
+NORTH-CHVRCH k. 8.
+
+
+NORTON c. 10.
+
+
+NEWN-HAM c. 20. 
+villa noua.
+
+
+NORTH-HALL l. 26. corruptly for 
+North-haw nemus boreale.
+ The famous and rightly honourable Henrie Earle of 
+Warwick
+ decea∣sed, there raised a stately house from the ground, and contriued it in verie beautifull order, gracing it with delightfull gardens aud walkes with sundrie other pleasant and necessary deuises, now held and possessed by that moste vertuous his Lady, the Countisse of 
+Warwick.
+
+
+NEW-GATE-STREET k. 26. 
+derianoua.
+
+
+
+
+
+
+
+
+O.
+
+
+ODDESEY See the definition of 
+Oddesey
+ hundred.
+
+
+
+
+
+
+P.
+
+
+PERITON d. 14. or PIRTON.
+
+
+PREE k. 16. or the 
+Prey
+ called 
+Sancta Mario de pratis,
+ of the meadowes, and was a house of Nunnes a sweete neighbor to the Munckes of S. 
+Albans.
+
+
+PVNCHIN-END k. 10.
+
+
+POTTERS crowche l 16.
+
+
+PVCKERIDGE e. 28. a thorowe fare, called of 
+Lealande
+ PVLCHER CHVRCH.
+
+
+PELHAM c, 32. called 
+Stoken Pelham.
+
+
+PELHAM b. 30. called 
+Pelhamarsa,
+ burnt 
+Pelham,
+ some frag∣mentes doe yet appeare of the foundations of sundry buildinges, which were consumd by that fire, wherofit taketh the adiuncte 
+arsa.
+
+
+In the walles of this church lyeth a moste auncient monument,
+ a stone wherein is figured a man, and about him an Eagle, a Lyon, and a Bull hauing all winges, and a fourth of the shape of an Angel, as if they should represent the foure Euangelistes: vnder the feete of the man is a crosse Flourie, and vnder the crosse a Serpent, he is thought to be sometime the Lord of an auncient decayed place, wel moated not farre from this place called SHONKES.
+
+
+PELHAM c. 30. called PELHAM 
+furnix.
+
+
+All these Pelhams seeme to take name de scatebris, of the pells and
+ 
+water springes, which abound about and within them.
+
+
+PVTNHAM i. 4. It signifieth a towne of welles and water springes.
+
+
+
+
+
+
+R.
+
+
+REDBVRNE i. 14. 
+aquarubra.
+
+
+Before the Conquest by the 
+Normans,
+ it did belonge to the Abbey of S. 
+Albans,
+ and at that generall spoyle and confusion of thinges it was taken away, and 
+Lanfranck
+ being afterwards Arch∣bishoppe of 
+Canterbury
+ wrought the restauration of it againe, about the beginning of 
+Rufus
+ raigne.
+
+
+This Church was defaced and spoyled, with many other there aboutes in the time of Henrie 3.
+
+
+At this place were founde the reliques of 
+Amphiball,
+ who is saide
+ to be the instructour and conuertour of 
+Alban
+ from Paganisme, of whose reliques such was the regard, that the Abbottes of the mona∣stetie of 
+Alban
+ had, that they should be deuoutly preserued, that a
+ decree was made, by 
+Thomas
+ then Abbott, that a pryor and three munckes should be appointed to this holie function, whose allow∣ance
+
+
+in those dayes amounted yearely to 20. pound or vpwardes, as much as three hundred pound in this age. Such was the price and
+ estimation of the lothsome reliques of dead mens bones.
+
+
+RADWELL c, 18.
+
+
+RICKMANSWORTH
+ o, 14. or 
+Rich mans worth
+ I haue redd it 
+Rickmersford
+ And as 
+I
+ take it the truest title, for that in for∣mer ages the 
+d
+ was pronounced 
+th
+ as 
+ath
+ for 
+ad quoth
+ for 
+quoth
+ and 
+forth
+ for 
+forde,
+ and so for 
+Richmansforde
+ is pronounced 
+Richmansforth,
+ not 
+Rickmansworth.
+
+
+It standeth in a lowe grounde watered on all sides, yet not high∣ly to be commended for great fertiletie, for the lowest and best mea∣dowes are but a blacke moarish earth colde and mossie, for the most parte, And the higher groundes especially on the north side of the towne stonie and barraine, king 
+Ethelred
+ graunted it to the mona∣sterie
+ of S. 
+Albans
+ by charter.
+
+
+It is a market towne but of no great repayre.
+
+
+The towne is gouerned by two constables and two headborowes.
+
+
+ROYSTON
+ a, 24. 
+Roisiae oppidum, Royes
+ town, this 
+Royes
+ about the time of king 
+Stephen,
+ was Countisse of 
+Norff.
+ and erected a crosse of stone in the high way, where 
+Royston
+ now standeth. And the place was called CRVX ROISIAE, Roys crosse, and vnder that name
+ t continued vntill 
+Eustachius de Marke
+ built a cloyster there. And from that time it began to be more and more peopled, and to be fur∣nished with houses and Innes. And Rich. I. made it a market towne
+ now famous for corne, standing in a very plentifull soyle: And is a verie fitte receptacle for traueilers that from the North partes haue recourse to 
+London.
+
+
+The towne was almost consumed with fire in the time of Henry the fourth.
+
+
+In the time of Henrie 6. such was the plentie of corne, that in this
+ place the best wheare was sould for twelue pence the quarter, three halfe pence the bushell.
+
+
+The price was not then so lowe as it is now aloft, for it is at this present in the same place at eight shillinges the bushell.
+
+
+RIDGE m, 22. 
+de iugo
+ of the hill or Ridge wheron it standeth
+
+
+REED b, 26. 
+de loco arundinoso.
+
+
+RVSHDEN c, 24. 
+vallis Scirpina
+ a lowe rushie ground.
+
+
+
+
+
+
+S.
+
+
+SARRET n, 14. It was granted by 
+Ethelred,
+ to S. 
+Albans
+ by the name of SYRET.
+
+
+SANDON c, 24. 
+mons arenosus.
+ It belongeth to 
+Paules.
+
+
+SANDRIGE k, 18. It diffreth not in signification from 
+Sandon.
+
+
+SAWCOMBE f, 26.
+
+
+SABS-WORTH f, 34. or SABRIDGE-FORDE a
+
+
+market Towne, standing neere the 
+Stort.
+
+
+SLEPES HIDE k, 20. a little hamlet.
+
+
+SHENLEY m, 20.
+
+
+SHEEPES HALE f, 22. 
+Ager ouibus salutaris.
+
+
+SPELBROOKE e, 34.
+
+
+STEPHENS l, 16. called S. 
+Stephens
+ neere S. 
+Albans.
+
+
+STEVEN-EDGE e, 20. or STEPHEN-EDGE, 
+de ac∣cliuitate
+ of the steepe standing of it on the edge of a hill, of some 
+Steuen-haut
+ or 
+Stepen-haut.
+
+
+The principal parte of this towne is from the church. ½. mile, and is a pretie thorrow fare.
+
+
+There hath beene in time past a market.
+
+
+It is a libertie and belongeth to the Bishoppe of 
+London,
+ hauing
+ pillory and gallowes within it selfe, but howe farre the power for execution extendeth, 
+mihi latet.
+
+
+STAPLEFORD g, 24. or STABLEFORD.
+
+
+STANDON e. 28. or STENEDON 
+mons saxosus
+ there is a free Schole for the towne, the stipend yet in suspence, the Fish∣mongers
+ of London contribute twentie pound 
+vt ferunt.
+
+
+STANSTED h, 32. or STENSTEDT 
+locus glariatus
+ of the grauely soyle, called 
+Abbotes Stansted.
+
+
+STANSTED h, 32. in time past called 
+Le Veyle,
+ nowe 
+Olde
+ 
+Stansted
+ and corruptly 
+Stansted Theele.
+
+
+STORTFORD e, 34. so called of the passage or forde ouer the Riuer Stort.
+
+
+There is neere this towne, on the east side of the riuer a little ru∣ynous
+ castle, called the 
+Castle of Waymour
+ standing in an Iland, vpon a little firme artificiall mount verie steepe aud though of small cir∣cuit, yet in former dayes stronge, within it is a dungion deepe and darke, called the 
+Conuictes pryson,
+ arguing some great priuiledges in
+ time past to belong thereunto.
+
+
+William
+ the 
+Conqueror
+ gaue both the towne and the Castle to the Bishoppe of 
+London,
+ and to this day it belongeth to that Sea, and thereof is called 
+Bishoppes Stortforde.
+
+
+The towne standeth on the side of a hill, declyning towardes the riuer, And some fruitefull groundes are about the same.
+
+
+It hath market on the Thursday and three faires in the yeare.
+
+
+SVLLONIACA
+ n, 22. the ruynes of an olde cittie or famous place, mentioned by ANTONINVS in his Itenerary, which he placeth twelue miles 
+a Longidinio
+ from London, and nine miles 
+a verolamio
+ a citie sometime neere S. 
+Albans:
+ And where others haue heretofore placed this 
+Sulloniacae
+ at 
+Chipping Barnet,
+ regarding onely the foresayde distances M. 
+Camden
+ by dilligent obseruation hath founde that it should stand vpon 
+Brokeley hilles
+ West of 
+Bernet,
+ wher∣by I being occasioned made inquisition thereof in my trauaile, and was informed of the place where these snpposed ruynes appeare,
+
+
+
+
+
+
+
+
+
+
+namely some fragmentes of the scituation of some decayed build∣ings, where sundry peeces of Romish coyne haue beene taken vp, as was informed me. This place indeede neere agreeth with the former distances of 
+Antoninus,
+ and standeth east of a regall aunci∣ent highway called 
+Watlingstreet
+ or 
+via consularis.
+
+
+
+
+
+
+T.
+
+
+THOMAS Chappell c, 14. called S. 
+Thomas
+ chappell.
+
+
+TEWING h, 22. or TWEY-ING 
+de binis pratis.
+
+
+TRINGE k. 6. a little market towne on the Fryday.
+
+
+THROCKING c, 24.
+
+
+THVNDREDGE f, 28.
+
+
+THORLEY f, 34. or THORNLEY 
+terra spinosa.
+
+
+TOTTER-EDGE f, 28. parcell of the hundred of 
+Broad∣water
+ yet eight miles from the neerest parte of that hundred. Lon∣doners haue much beautified this place with their neat buildings.
+
+
+TWO-WATERS i, 13. a little hamlet so called 
+de binis aqua∣rum fluctibus,
+ of the two riuers that meete there.
+
+
+
+
+
+
+V.
+
+
+VEROLAMIVM k, 18. the ruynes of a most auncient citie called of the 
+Britons Cair Maricipit, Cair Municip, Cair Watteline
+ of Ptolomey 
+Verolanium,
+ of the Saxons ƿerlamcester 
+, a Citie vpon the riuer 
+Werlame
+ or 
+Verlame.
+
+
+This auncient decayed Citie seemeth at this day to publishe her pristine state and strength, on the west side of S 
+Albans,
+ by the reli∣ques of her defensiue walles, And at this day although 
+Seges sit vbi erat Werlamcester,
+ yet the sundry Roman coyns tumbled out of their
+ obscure denns, by the painefull plough, doe, as it were, proclaime vnto vs, so many hundred yeares after her fall, that it is no fable that is written of her antiquitie.
+
+
+The brasse monies whereof I haue much but seeme farre more, Import the antique names, and pictures, not only of sundry Empe∣rors, but of some of their Empresses also: which in those ages swayd the Romane monarchie, which argueth it to bee 
+quondam,
+ CAIR MVNICIP or 
+Municipium,
+ a citie, enfranchized and endowed,
+ not only, with the ayde of the Romans by mony, but with their Ro∣mishe priuiledges also, the inhabitantes, for the most part being of the auncient britishe line: who deseruing well at the handes of the Romans▪ were made 
+Municipes
+ as it were free denizens of Rome, hauing their Lawes orders and officers, free among them, permit∣ted to liue vnder their ayde and protection, vntill through the fury
+ of the 
+Saxons
+ and 
+Danes
+ it was sackt and subuerted, and of a hautie citie made an heape of stones, which as a 
+Caos
+ layd afterwards long
+
+
+smothered in the ashes of her owne rubble and ruynes, without re∣gard, what it was or had beene. At length one 
+Eldred
+ Abbot of the
+ new Monasterie of S. 
+Albans,
+ coueting to aduance the state of his monasticall sea, began to embowell this ruynate heape, to search what curious conceites, hee might finde to beautifie S. 
+Albans
+ sell. And founde in short time great varietie, of stone worke of sundrie kindes, and pillers of mettall as of Brasse, and Latton, towch and Allablaster. All which laide in heapes 
+Eldred
+ beheld to his no small ioy, but imploide them not according to his purpose intended, for death preuented him: But as curious a searcher as hee succeeded him one 
+Eadmere,
+ who had both a will and workemen, to sound fur∣ther
+ into the bottome of this vnknowne gulfe, not ceassing till hee saw the very entrayles of this confused 
+Caos,
+ in whose most hidden∣vautes, he found sundry Idolls, and aulters not a fewe, superstiti∣ously adorned for the honour of these vnknown gods of the 
+Pagans,
+ some of these Idols were of pure golde, some of other metall, and withall he founde great store of housholde stuffe, and other thinges witnessing the glory both of the citie and the cittizens of the same. Besides sundry pottes of gould, brasse earth, glasse and other met∣tall,
+ some frawght with the ashes of the dead, some with the coyne of the auncient 
+Britons
+ and Romane Emperours. And in a stone were found certayne Brytish bookes, whereof one imported the hi∣storie of 
+Albans
+ martyrdome.
+
+
+In the ruynous walles of this Citie groweth licoras.
+
+
+There are within the walles at this day the ruynes of an olde church called S. 
+Germans.
+
+
+The cause why it was called of the 
+Brytons
+ CAIR WATTE∣LINE was an auncient high way, begun by 
+Dunwallow
+ and fini∣shed by 
+Guitheline,
+ called as some thinke GVITHELINS∣STREET corruptly WATTELINE-STREET which cam
+ by this citie from 
+Douer
+ leading Northwards.
+
+
+About 70. yeares paste this high way, was founde at this place (though mentioned in historie many years before) 18. foote broad and 10. foote deepe, now almost leuell with the feyldes as is also the Citie.
+
+
+Tantum aeui longinqua valet mutare vetustas.
+
+
+And as Plato sayth.
+
+
+Aeuum cuncta rapit furtiuaque tempora mutant.
+
+
+Naturam sortem nominaque & faciem.
+
+
+Alban
+ was a citizen of this cittie, and being hoste vnto 
+Amphiball
+ became conuerted, from paganisme to the knowledge of Christ, and for the same was condemned and suffered, as is set downe before in S. 
+Albans.
+
+
+
+
+
+
+
+
+W.
+
+
+WALDT-DEN f. 16. called kinges 
+Walden, vallis siluestris
+ the woody deane.
+
+
+WALDT-DEN f. 18. called 
+Walden
+ S. Paul.
+
+
+WATFORDE
+ o. 16. 
+cur non
+ WATELINEFORDE for that the 
+Watteline-streete
+ crosseth the 
+Colne
+ nere this place, and
+ so coasteth to old 
+Verlame
+ as is sayd before.
+
+
+This towne hath market on the tuesday well repleat with coun∣try necessaryes, and hath two fayres in the yeere.
+
+
+There is an almes house erected by the Ladie 
+Bryget
+ Countisse of 
+Bedford.
+
+
+WALK-HORNE c. 22. or Wake-hurne.
+
+
+WALLINGTON c. 22. 
+de aquarum scatebris.
+
+
+WATTON f. 24. called 
+Watton at stone.
+
+
+WARE
+ h. 26. or WAYRE 
+de Cataractis
+ of the wayres and water stoppes nere it, rather then 
+de Mercimonijs
+ as some will haue
+ it of wares or marchandize, It was drowned in anno 1408. by the great inundation of waters that from the vpland passe by the town, and since, and before, there was great prouision made by wayres and slcuces, for the better preseruation of the town, and the groūds belonging vnto the same.
+
+
+It began to bee moste famous in king 
+Iohns
+ time, in the furious
+ broyles of the Barons, for being then but a hamlet of small moment the high way towardes the North partes, was laid through it by the meanes of the 
+Lord de Wake,
+ and by little and little by that meanes, increased and much obscured, auncient 
+Hartford.
+
+
+Edward
+ the first gaue first order and direction for the founding of
+ it about anno 914.
+
+
+WAADESNELL g. 28.
+
+
+WALTHAM crosse m. 30, or WALDT-HAM 
+de cruce
+ of the crosse which Edward 1. erected in memoriall of his Queenes death, and conveyance of her corpes from the place where she dy∣ed to westminster.
+
+
+WALSWORTH d. 16.
+
+
+WATTELINE-STREET See 
+Verolamium▪
+
+
+WAYMORE Castle See 
+Stortford.
+
+
+WESTWIKE k. 14. 
+vicus occidentalis
+ in regard of 
+Eastwike
+ before mentioned.
+
+
+WELBERIE k. 14. called also welles, of the springe called 
+Owghton head.
+
+
+WESTON d. 20.
+
+
+WESTMILL d. 26.
+
+
+WHEATHAMSTED i. 18. 
+locus frumentarius inde Ioannes de loco frumentario,
+ famous in the time of Henry 6.
+
+
+WILSTERNE k. 4.
+
+
+WIGGINGTON k. 6.
+
+
+VVHITEWELL i. 8. 
+fons albus
+ a hamlet that giueth name to the riuer that ryseth there, and passeth by 
+Welwine Digswell, &c.
+ and so to the 
+Lea.
+
+
+VVHORWELL a decayed hamlet in Kelshull parish, furni∣shed in time past with many howses.
+
+
+VVYMLEY l. 18. or WIMONELEY 
+magna,
+ where are the ruines and ditches of a castle which did sometime belong to the fitz-Taeces.
+
+
+WYMLEY e. 18. or wimonly 
+parua.
+
+
+WILLION d. 18.
+
+
+WYDYALL c. 28. of some 
+Wythiall
+ of some 
+Wiggell.
+
+
+VVIDFORD g. 30. or-VVYDEFORD so rightly termed 
+de vado spatioso.
+
+
+Wood-greene
+ l. 30.
+
+
+VVORMELEY k. 30.
+
+
+
+
+
+
+Y.
+
+
+YARDELEY d. 24. belonging to 
+Paules.
+
+
+
+
+
+
+
+
+An Aphabetical Table of the Houses, 
+and Anncient Beryes of name for the
+ most part in 
+Hartfordshire,
+ accor∣ding to the vulgar names.
+
+
+
+
+A.
+
+
+A
+Nsaberie. f. 18.
+
+
+Alsewike. d. 28.
+
+
+Abbottes-berye. a. 28.
+
+
+
+
+
+
+B.
+
+
+BEeche-woode. h 12.
+
+
+Bournehall. n. 16.
+
+
+Beamondes k. 18.
+
+
+Bibswell. h 18.
+
+
+Broket-hall. i▪ 20.
+
+
+Bersted, m. 10.
+
+
+Bedwell parke k. 24.
+
+
+Beachames. c. 26. or 
+Beauchampe.
+
+
+Bigging. b 28.
+
+
+Bartrames. f. 28.
+
+
+Bace. k. 30. called 
+le Base.
+
+
+Briggens h. 32.
+
+
+Bleakswayre g. 30.
+
+
+Beaches. b. 32.
+
+
+
+
+
+
+C.
+
+
+CHandoys. l. 12.
+
+
+Casio-berie. n. 16. 
+vide definitionem Centuria
+
+
+CAISHOW.
+
+
+Corney-berye. d. 26.
+
+
+Coken-hatche. a. 28.
+
+
+Cassalberie. f. 28.
+
+
+
+
+
+
+
+
+D.
+
+
+DArnells. d, 20.
+
+
+
+
+
+
+F.
+
+
+FRyers. e. 28.
+
+
+
+
+
+
+G.
+
+
+GRoue. n. 14.
+
+
+Gorehamberie. k. 16. 
+Gowr-ham,
+ or 
+Guer-hambery.
+ A house raysed from the foundation by the right worthie Syr 
+Nicholas Bacon
+ knight deceased, sometime Lord keeper of the great seale of England to our most mighty Queene 
+Elizabeth,
+ who for his excellent vertues and rare wisedome liueth yet, in ho∣norable memory amongst the most honorable.
+
+
+Gubhyns l, 24.
+
+
+Saint Gyles. l. 28.
+
+
+
+
+
+
+H.
+
+
+HIde. k. 14.
+
+
+High - ouer. d. 16.
+
+
+Harpesfeyld-hall. k. 20.
+
+
+Hatfeyld-wood-hall. i. 22.
+
+
+Holmeley. e. 22. An auncient decayed place, sometime fa∣mous as appeareth by the ruynes.
+
+
+Hide-hall. c. 24.
+
+
+Holwell. i. 24.
+
+
+Haley. h. 28.
+
+
+Hetesham-hall. c. 32. or 
+Hetcham hall.
+
+
+
+
+
+
+K.
+
+
+Kinges-wood-berie, d. 22. An auncient place, sometime dowble moated.
+
+
+
+
+
+
+L.
+
+
+THe Lea. m. 16.
+
+
+Laomere. h. 18. or 
+Leamere.
+ A house very auncient stand∣ing not farre from the heade of famous 
+Lea
+ riuer, it is corruptly called Lammer.
+
+
+Ludwike hall. i. 24.
+
+
+
+
+
+
+M.
+
+
+MIchelfeyldhall. o. 12.
+
+
+Mayden crofte. c. 16.
+
+
+Mereden. h. 24.
+
+
+Minsing-berye. a. 26.
+
+
+Mutforde. c. 28.
+
+
+Mattockes. g. 30.
+
+
+
+
+
+
+N.
+
+
+NEw-barne. l. 18.
+
+
+New fells. 3. 28.
+
+
+New-hall. g. 28.
+
+
+New-place. g. 32.
+
+
+
+
+
+
+O.
+
+
+ODdesey-graunge. b. 22. Thereof doth 
+Oddesey
+ hundred take name.
+
+
+Owles. d. 28,
+
+
+
+
+
+
+P.
+
+
+PVtteridge. f. 14.
+
+
+Penley. k. 6.
+
+
+Pansanger. h. 24.
+
+
+Popes. k. 24.
+
+
+Potterells. l. 24.
+
+
+Punsbourne. k. 26.
+
+
+Pissoberie. f. 36.
+
+
+Patmere hall. d. 32.
+
+
+
+
+
+
+Q.
+
+
+QVickswood. d. 22.
+
+
+Quenberye. d. 28.
+
+
+
+
+
+
+R.
+
+
+ROse hall. m. 12.
+
+
+Romerwike. e. 14. Itlyeth within 
+Bedfordshire,
+ but is of 
+Hartfordshire.
+
+
+Ricknesse. g. 26.
+
+
+Reuells. g. 26.
+
+
+Redgewells. c. 28.
+
+
+The Rye. i. 32. or 
+le Ree.
+
+
+
+
+
+
+S.
+
+
+SHandoyse 
+vide
+ Chandois.
+
+
+Sincklees. o. 18.
+
+
+Sopwell. l. 18.
+
+
+Salsberie. m. 20.
+
+
+The Seale. h. 26. 
+Lee seele
+
+
+Satrydge. f. 28.
+
+
+Shingle hall. f. 34.
+
+
+
+
+
+
+T.
+
+
+THibauldes. l. 30. or 
+Theobalde,
+ A most stately house erec∣ted from the firste foundation by the right honourable Syr 
+William Cicill
+ knight, Lord Theasoror of England. To speake of the state and beuty thereof at large as it deserueth, for curious buildinges, delightfull walkes, and pleasant conceites within and without, and other thinges very glorious and ellegant to be seene, would challenge a great portion of this little treatise, and therfore, least I should come shorte of that due commendation that it de∣serueth, I leaue it as indeed it is, a princely seate.
+
+
+Temple. g. 26.
+
+
+Temple. e. 16.
+
+
+Tittenhanger. l. 20.
+
+
+Tannys. d. 24
+
+
+Tunwall. g. 26.
+
+
+Tidnhamberie. f. 34.
+
+
+
+
+
+
+V.
+
+
+VPhall. c. 28.
+
+
+
+
+
+
+W.
+
+
+WElde. m. 20. or 
+Weldt
+
+
+Woodhall. f. 24.
+
+
+Waterforde hall. h. 26.
+
+
+Widborow-hill. k. 28.
+
+
+White-barnes. e. 30.
+
+
+
+
+Many other houses and beries, there are within this Shire, but for that they haue no known proper names, but termed of the pa∣rishes wherein they are, as 
+Langley bery, North hawe,
+ and such like. I haue omitted the mencioning of them in this catalogue, be∣ing easelie found by the table of parishes, with reference to the pla∣ces wherein they may be found in the mappe, though without fur∣ther name added vnto them, then the name of the parish wherein they stand, which doth sufficiently distinguish them.
+
+
+
+
+
+
+
+
+
+
+

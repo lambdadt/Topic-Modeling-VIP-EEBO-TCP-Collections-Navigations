@@ -1,0 +1,405 @@
+The true copies of tvvo especiall letters verbatim sent from the Palatinate by Sir, F.N. relating the dangerous incounter which hapened betwixt the Duke Christian of Brunswicke, and Monsieur Tillies passing ouer the bridge lying vpon the riuer Mayne about Ausbourge. VVith the vniting of his forces with the King of Bohemias, as also the fearefull expectation of the great Turkes comming downe into Germanie. With the late proceedings in the Low Countries, in their proclamations set forth by the States of Holland, the first shewing the last appointed time, as well for forrayners as inhabitants of this countrey to come into the West India Company of the Nether-lands: the second a letter of Marte, the last prohibiting the inhabitants not to assuer any goods of the Spaniards. Printed this 21. of Iune.
+Nethersole, Francis, Sir, 1587-1659.
+Approx. 16 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-12 (EEBO-TCP Phase 2).
+A08161
+
+
+
+
+STC 18507.55
+
+
+
+ESTC S110075
+
+
+
+
+
+99845692
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The true copies of tvvo especiall letters verbatim sent from the Palatinate by Sir, F.N. relating the dangerous incounter which hapened betwixt the Duke Christian of Brunswicke, and Monsieur Tillies passing ouer the bridge lying vpon the riuer Mayne about Ausbourge. VVith the vniting of his forces with the King of Bohemias, as also the fearefull expectation of the great Turkes comming downe into Germanie. With the late proceedings in the Low Countries, in their proclamations set forth by the States of Holland, the first shewing the last appointed time, as well for forrayners as inhabitants of this countrey to come into the West India Company of the Nether-lands: the second a letter of Marte, the last prohibiting the inhabitants not to assuer any goods of the Spaniards. Printed this 21. of Iune.
+Nethersole, Francis, Sir, 1587-1659.
+[2], 18, [2] p.   
+
+
+London :
+
+
+Printed by William Iones [and Edward Allde] for Nicholas Bourne and Thomas Archer, and are to be sold at the Royall Exchange, and in Popes-head Alley,
+
+
+1622.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+2010-07
+TCP
+Assigned for keying and markup
+2010-07
+SPi Global
+Keyed and coded from ProQuest page images
+2010-09
+Mona Logarbo
+Sampled and proofread
+2010-09
+Mona Logarbo
+Text and markup reviewed and edited
+2011-06
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18507.55
+
+
+99845692
+
+
+10610
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE TRVE COPIES OF TVVO ESPE∣CIALL LETTERS VERBATIM SENT FROM THE PALATINATE BY SIR. 
+F. N.
+ Relating the dangerous incounter which hapened 
+betwixt the Duke
+ Christian 
+of
+ Brunswicke, 
+and
+ Monsieur 
+Tillies
+ passing ouer the bridge lying 
+vpon the riuer Mayne about
+ Ausbourge.
+
+
+VVith the vniting of his forces with the King of Bohemias,
+ as also the fearefull expectation 
+of the great
+ Turkes 
+comming downe
+ into 
+Germanie.
+
+
+With the late proceedings in the Low Countries, 
+in their Proclamations set forth by the States of
+ Hol∣land, the first shewing the last appointed time, as well 
+for forrayners as inhabitants of this Countrey to come into
+ the 
+West India
+ Company of the 
+Nether-lands:
+ the second a letter of Marte, the last prohibiting the inhabitants not to assuer any goods of the 
+Spaniards.
+
+
+Printed this 21. of Iune.
+
+
+LONDON
+ Printed by 
+William Iones
+ for 
+Nicholas Bourne
+ and 
+Thomas Archer,
+ and are to be sold at the Royall Exchange, and in Popes-head Alley. 1622.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A COPIE OF THE FIRST LETTER.
+
+
+S
+IR,
+
+
+I wrote to you at large on Sunday last and haue little to adde since, but am like to haue en∣ough very shortly, I pray God it proue good. The Duke of 
+Brunswick
+ was foure dayes since at 
+Nidda
+ in the land of 
+Hessen,
+ about fiue leagues from 
+Francfort.
+ Mounsuor 
+Tilly
+ &c. are gone towards him, and if they be once on the same side of the Mayne, there will in all likely hood be blowes between them. Arch-Duke 
+Leopold
+ is not gone to the 
+Gris∣sons,
+ but doth now assemble his forces a∣gaine, vvith desseigne as vve iudge to be∣siege
+
+Hagenaw
+ againe, or else to fall downe to ioyne vvith his party, neither of vvhich must be suffered by the Count 
+Mansfield,
+ and he is likely therfore to go to the Arch∣duke we hope to morrow, for as yet he ly∣eth betweene the two riuers by the towne, and is not himselfe well able to stand. This is all we haue here.
+
+
+From 
+Ʋienna
+ we haue that the Diot of 
+Hungarie
+ goeth not on the Emperours mind, and that the Turk is like to giue'vs peace here, we haue small signes of one else, and that is a bad one. The King of 
+Bohemia
+ to obey his father, is minded a∣gainst his mind to stay here or at 
+Heydel∣berg,
+ in expectation of the issue of the trea∣tie at 
+Brussels. Manheim
+ the 6. of Iune.
+
+
+
+
+
+
+
+
+A Copie of the second Letter.
+
+
+IN my last Letter you know that 
+Mon∣sieur Tilly
+ was then marching towards the Duke 
+Christian
+ of 
+Brunswick
+ then in the land of 
+Hessen,
+ not farre from 
+Frankford.
+ The Duke soone after tooke 
+Hoest
+ a towne and castle of the Elector of 
+Ments,
+ stan∣ding vpon the Mayne before 
+Frankford,
+ vvhere he had newes that 
+Tilly
+ and 
+Gon∣sales
+ ioyned and marched to him ouer the Mayne at 
+Aschburg
+ vvith an army of 40. m. as was giuen out, I thinke not much lesse then 30. m. yet he resolued to abide it rather then the hazard of a retrait. And they thereupon marched on furiously by 
+Hanaw
+ and 
+Frankford.
+ The Duke in the meane time prouided himselfe the best he could to receiue them, seeing on the ad∣uantage of the ground, intrenching him∣selfe, and burning the villages by which the enemy vvere to march to him. This done, he sent hether to the Count of
+
+Mansfeld,
+ to let him know in what poshire he stood, and that he would doe the best he could to hold himselfe so, till the Count might march to him, for whose passage, or his owne retreate if he were forced to it, prepared to make a Bridge ouer the 
+Mayne,
+ This newes came to the Counte 
+Mansfield
+ as Hee was Marching ouer the Rhyne, with desseigne to haue gone to breake the bridge at 
+Oppenheim,
+ or that fayling, to haue made some other diuersi∣on on that side, thereby to haue eased the Duke of 
+Brunswyck,
+ by giuing 
+Gonzales
+ oc∣casion to looke backward. But herevpon Hee the same instant commaunded sixtie troupes of horse to march ouer the Neccar towards the Duke intending to haue follo∣wed himselfe with the rest of his army this day. But we haue this morning newes, that the Duke was beaten yesterday. The maner and measure of it. is yet variously related, but I hope to adde it to this before I close it. In the meane to doe all I may, against the suddayne dispatch of the post, I hear∣tely take leaue rest.
+
+
+
+
+
+I must close this Letter and yet haue no more certaintie of the defeat of the Duke of 
+Brunswick,
+ but that hee never gaue Bat∣tle, but having beene extreamly molested by the Enemies Cannon, who had twelue peeces at least, whereas the Duke had but two: through some confusion among his men hee was forced to retire ouer the Bridge he had made over the Maine, by the breaking whereof, many of his foote were drowned, others cut off being hin∣dred by carriages, they all are lost as well of baggage as munition, saving the Dukes owne wagons, wherein his money was, His Horse escaped well, some ouer the Bridge, other are forced ouer the deepe that they were put to Swimme, by which meanes some number of them also are lost, and among them the Count 
+Lenestlin
+ who married Mistresse 
+Dudly,
+ thought to bee one, the number can not yet be estimated, but divers came hi∣ther will not beleeue there were aboue one thousand men lost, yet I doubt more, The rest are retyring through the 
+Bergstrate
+ hither in great confusion, and I doubt
+
+most of the foote will haue cast away their Armes, which is a great vnrepa∣rable losse, whether the Enemie doe pursue them on this side the Mayne or no, is not yet knowne here, But to be sure the Count 
+Mansfeild
+ hath drawne out his whole Armie into the 
+Berge∣strate,
+ who being fresh we may redeeme losse if the Enemie do follow, the Duke of 
+Brunswicke
+ is for himselfe safe for cer∣taine, and extreamely discontented that he fought not.
+
+
+Mainheim 
+the 11. of Iune 1622.
+
+
+
+
+
+
+
+
+A PROCLAMATION OF THE HIGH AND MIGHTY LORDS, THE STATES GENERALL of the vnited 
+Provinces,
+ whereby is prohibited 
+vnto the Merchants, and Inhabitants
+ of those Countries, not to make any assurances of goods, Mer∣chandises, or ships belong∣ing to any Subiects of 
+the King of
+ Spaine, 
+or Enemies of
+ these Lands.
+
+
+T
+He States Generall of the vnited Provinces to all them that see or heare these read gree∣ting. VVhereas Wee haue beene certainly informed, that divers. Merchants and inhabitants of these Coun∣tries,
+
+(notwithstanding We after the ex∣piration of the Truce, are compelled to incounter the King of 
+Spaine,
+ and his ad∣herents, in all hostile manner) to assure the goods, Merchandises, and ships, be∣longing vnto the Subiects and Inhabi∣tants of the King of 
+Spaine,
+ and other enemies of these Landes: Whereby it happens, that the sayd goods and ships being taken by Our men of Warre, or those that haue Commission of Vs to endammage the King of 
+Spaine,
+ or his Subiects, the sayd Assurances and Se∣curities, claime and follow them as if they were their owne, to haue them released: And besides, the sayd being declared good Prises and forfeited, the dammage doth not light vpon the Ene∣nemies aforesayd, but vpon the Inha∣bitantes of these Countries, by the meanes of the aforesayd assurance and securitie, who enioy but a small reward or profit for the same, In such manner that the Inhabitantes of these Coun∣treys, and not Our Enemies heereby are impoverished, being the fame likewise
+
+very hurtfull to the equipations and set∣ting foorth of Ships, which many In∣habitants of those Countries with more minde and zeale would make other∣wise against Our Enemies, which now are kept backe in regard of the recla∣mations and pursuings of such assured goods.
+
+
+Now to prevent the same and to or∣der this conveniently, We haue directly forbidden and interdicted, forbid and interdict by these Presents, all Mer∣chants, and other Inhabitants of these Provinces, neyther directly nor indirect∣ly to assure any goods, Merchandises, or Ships, of whatsoever Fort or kinde the sayd may be appertaining to any Sub∣jects of the King of 
+Spaine,
+ or his adhe∣rents, in any manner whatsoever: De∣claring all and euery one of such Assu∣rances made, or here after to be made for nought, and of no value.
+
+
+Prohibiting likewise all Iustices, Courts, Commissioners of the Courts of Assu∣rance, or other whom this may con∣cerne, to giue iudgement of such Assu∣rances:
+
+And here besides the Assurances, that shall be found to haue made such Assurances since this day, shall forfeit vp∣on euery summe small or bigge, that they shall haue signed, hundreth pounds Flem∣mish, one halfe to the Informer, and the other halfe to the officer to be payd that shall doe the execution.
+
+
+And because none here after shall pre∣tend ignorance, We require, and intreat the States, the Governours, the commit∣ted Counsells, and the States of the re∣spectiue Provinces of 
+Gelderland, Zutphen, Holland,
+ and 
+Westvriesland, Sealand, Vtrecht, Vriesland, Overyssell,
+ the Cittie 
+Groeringen,
+ and the Lands about it, and all other Iu∣stices and Officers, whom this may touch, that they Commannd this Our Order presently to bee Proclaimed and Published where it is vsuall, Proceeding and causing to bee proceeded against the Transgressors and offenders of the same, without any favour dissimulation or composition, seeing wee finde it conve∣nient for the good of these Lands.
+
+
+
+This concluded in the meeting of the High and mighty the Lords States Ge∣nerall aforesayd, at the 
+Hage
+ the first of Aprill, Anno 1622. Was subscribed 
+A Ploos.
+ And lower was written, at the Order of High and Mighty Lords the States Generall, signed
+
+
+C. Aerssens.
+
+
+
+
+
+
+
+
+
+
+VVARNING CON∣CERNING THE WEST INDIA Companie of the 
+Netherlands.
+
+
+T
+HE Committees appoin∣ted to collect a stock for the 
+West India
+ Company, in 
+Po∣land
+ and 
+Sealand,
+ being au∣thorized thereunto by the States of the said Coun∣tries, make knowne by these: That besides other aduanta∣ges, it is graunted vnto the said Company by the High and mighty Lords, the States Generall of the vnited Prouinces, to trafficke onely for Salt at 
+Punto del Key.
+ And that the last time prefixed for the Inhabitants of the vnited Prouinces, to come in the said Company, is the last of Iuly 
+stile now,
+ and for Forraigners the last of September following, both inclusiue, and according to the new stile. Wherefore if there bee any that will participate in the said Company, let them direct
+
+themselues vnto the Committees, appointed in∣to the Cities, and deliuer there their Signatures and subscriptions of such summes, as they shall be desirous to participate in the said Companies, which are to be payed in three payments: 
+viz.
+ a third part at the expiration of the aforesaid time: and the other two third parts in three next following yeares, vnlesse afterwards at the gene∣rall meeting of the Assistants or Committees, it be thought fit to prolong the said Payments for any longer time, in which case the Participants shall be warned by bils affixed. And after the ex∣piration of the time aforesaid, shall none be ad∣mitted into the said Company. Giuing notice besides, that according to the resolution of the Lords, the States of 
+Holland,
+ and West 
+Freesland,
+ the chiefe Participants of the Company, shall be qualified to be Assistants, in this manner, that those who in the Chamber of 
+Amsterdam,
+ shall for themselues bring in the summe of sixe thou∣sand, and in the respectiue Chambers about the Mase, and in the Northerne parts foure thou∣sand Karelies Gilders, shall haue power to nomi∣nate three, for to choose out of them (according to the Patent) the Assistants. Item that the Ci∣ties in 
+Holland
+ where are no Chambers, and shall be brought in vpon one name, an hundreth thou∣sand Gilders, shall haue power to appoint an assistant after precedent denomination, and to put him in any of the other Chambers. And after
+
+the expiration of the aforesaid last of Iuly (agree. to the Patent) shall be presently proceeded to the election of the Assistants, to goe immediatly in hand with the equipation and octroyed Nauigation. This done, the tenth of Iune, in the yeare of our Lord, 1622.
+
+
+
+
+
+
+
+
+
+
+A Letter of Mart, Graunted by the Lords States Generall, to them of the Vnited Prouinces.
+
+
+B
+Y these presents is Giuen notice, and made knowne vnto euery one out of the Name of the High and Mighty Lords, the States Gene∣rall of the Vnited Prouinces, That whosoeuer (to endamage the King of 
+Spaine
+ his Adherents and Subiects, aswell of 
+Spaine, Portingall, Brabant, Flaunders,
+ as also other places being in his Dominions) shall be desirous vpon a due and fit Commission to set any Ship or Ships at Sea to goe vpon free Boo∣ty, that they shall henceforth pay no more, ex∣cept otherwise be ordered, then Eighteene in the Hundred, whereas they did pay heere before Thirty in hundred, which the Country and the Prince of 
+Orange
+ as Admirall of the Sea out of the Prizes were vsed to Inioy as their right, whereof Twelue shall bee for the Countrey, and Sixe for the Prince aboue mentioned. And be∣cause
+
+an equall order may be kept concerning the putting in of Security, euery one that shall be vn∣willing to goe vpon Conditions aforesaid, shall bee bound to put in Security in the Court of the Admiralty of the place from whence they intend to depart, for Ten Thousand Gilders, which is 1000. pounds Sterling, and that aboue the Ship and what therein, with action shall serue onely to giue security that the Court prizes to be got∣ten by such a Ship shall be brought in to be cen∣sured in the Colledge of the Admiralty, where the security hath beene giuen, which being done, the Securities shall be Discharged, Prouided al∣wayes, that if the said Ship goes afterwards with like Commission, there must be put in new Secu∣ritie, And if any body shall pretend that hee is wrongfully Damnified, hee may enter his Action against the Captaine, and those that haue Indamaged him.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

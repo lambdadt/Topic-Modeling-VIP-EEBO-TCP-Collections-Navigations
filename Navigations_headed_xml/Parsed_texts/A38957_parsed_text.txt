@@ -1,0 +1,453 @@
+An Exact relation of the most remarkable transactions that happened lately in Ireland with an account of a great sea-fight between the English and French fleets.
+Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A38957
+
+
+
+
+Wing E3694
+
+
+
+ESTC R28618
+
+
+
+
+
+ocm 10700701
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An Exact relation of the most remarkable transactions that happened lately in Ireland with an account of a great sea-fight between the English and French fleets.
+2 p.   
+
+
+London :
+
+
+Printed for J. Morris,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Ireland --  History --  War of 1689-1691.
+Great Britain --  History, Naval --  Stuarts, 1603-1714.
+2012-08
+TCP
+Assigned for keying and markup
+2012-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-03
+Mona Logarbo
+Sampled and proofread
+2013-03
+Mona Logarbo
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+E3694
+
+
+R28618
+
+
+10700701
+
+
+45522
+
+
+
+
+
+
+
+
+
+
+
+
+An Exact RELATION of the most Remark∣able Transactions that happened lately in 
+IRELAND.
+ With an Account of a great Sea-Fight between the 
+ENGLISH
+ and 
+FRENCH
+ Fleets.
+
+
+
+
+Licensed and Entered according to Order.
+
+
+
+
+THE late King 
+James,
+ or rather the 
+French
+ King 
+Lewis
+ having got into their hands all the Towns and Ports in 
+Ireland, Lon∣don-Derry,
+ and 
+Inniskilling
+ excepted, and by that means stopt all Opportunities of Correspon∣dence, by the former Methods, we have no Advices thence, but what either come by way of 
+Scotland,
+ or else by Persons who make their escape by Sea hither, as frequently some do even in 
+Gabbards, viz.
+ an o∣pen Vessel not unlike our Lighters on the 
+Thames.
+
+
+Divers of which have arrived near 
+Chester, Liver∣pool,
+ and in the West of 
+Stotland,
+ one of which late∣ly arrived with 80 Passengers, who came from 
+Lon∣don-Derry,
+ and say that garrison had made offers of Surrendring to the late King, on Conditions to car∣ry off their Baggage, and have their Lives, which was at first accepted of; but Monsieur 
+D'Aveaux.
+ who presides in all Councils, would not consent, al∣ledging, That sort of proceeding was not the way to arrive at the Conquest that must be made in that Kingdom, which hath so exasperated and defperated the Garrison, as to resolve to hearken to no Condi∣tions, but stand it out to the last Man, or until it shall please God to give Opportunity for their being reinforced with such sufficient help as to be enabled to take the Field.
+
+
+Our last Advices thence say, they are Besieged by a great Army, but have 7000 Fighting Men in Gar∣rison, Arms, Amunition, and Provisions for two Months, and doubt not of holding it, having in three Sallies killed many of the 
+Irish
+ and 
+French,
+ and a∣mongst the latter a General Officer, and it is be∣lieved e're this, that Major-General 
+Kirk,
+ Sir 
+John Trelawney,
+ and Sir 
+John Hanmore,
+ with their Regi∣ments, and the Regiment, late Col. 
+Edgworth
+'s, now the Earl of 
+Meath
+'s, are got safe into 
+Derry.
+
+
+On Monday arrived at 
+Chester
+ Col. St. 
+George,
+ to Command the Regiment late Col. 
+Richards,
+ (a Ser∣jent of which for deserting did suffer Death the 
+7th
+ Instant at 
+Chester
+) and also Collonel 
+Stewart
+ to Com∣mand the Regiment, late Col. 
+Cunningham
+'s now at 
+Liverpool,
+ and the same day went post for 
+London,
+ the Collonels that formerly Commanded them.
+
+
+The Garrison of 
+London-Derry
+ having (for what Cause not yet known) a Jealousie that Col. 
+Lundee
+ their Governour was guilty of some Designs upon them, they confined him, and chose another as you have heard; but their Rage continuing, and fearing every day to be hang'd, he found means to make his escape in a small Vessel, which putting in at 
+Grenoch
+ in the West of 
+Scotland,
+ and being there known, and the Circumstances he was under, the 
+Scots
+ secured him, and sent him Prisoner to 
+Dum∣britton
+ Castle, whence on the second Instant he was brought to 
+Edinburgh,
+ and will there be Examined, Punished, or Acquitted.
+
+
+The brave Lord 
+Kingston,
+ Col. 
+Buchan,
+ and di∣vers Persons of Quality are arrived from the North of 
+Ireland
+ to 
+Edinburgh,
+ and thence gone for 
+England,
+ to wait on the King: Some of these Gentle∣men say, that the present State of the Protestants is scarce conceiveable, being surrounded with all sorts of Miseries, and labouring under all the Necessities of Humane Life, and the daily fears of Death by Barbarous hands, having no visible deliverance un∣der God, but from 
+England:
+ These worthy Persons kept together, and in divers Skirmishes killed many of the 
+Irish,
+ and defended their Families, Neighbours, and Friends, until Powder, Ball, and Provisions failed, and the Enemy so far advanced, that they could not retreat so far as 
+Derry,
+ but Embarqued for 
+Scotland,
+ first killing all their fine Horses, to prevent them falling into the Papists hands, Who give out, That when they have received their further Succours from 
+France,
+ and reduced to Obe∣dience, the Heretical Rebels in 
+London-Derry,
+ and in 
+Inniskilling,
+ they are to march further North∣ward, and Embarque for 
+Scotland:
+ But by the U∣nanimous Zeal of the Convention and People of that Ancient Kingdom, their Expectation and Depen∣dance hath deceived them, most of the Chiefs of 
+Clanns
+ or 
+Tribes
+ have freely offered their Service for the King and Estates, and the rest Cited to give the Bond of Peace for themselves and Vassals: Nay, the Viscount of 
+Dundee
+ who hath with about 200 Horse rode the length of 
+Murray
+ in the North, and amongst the Duke of 
+Gordon
+'s, and other of the Highland 
+Clanns
+ cannot get any to obey his Commands, or by Perswasion engage any Gentleman to joyn with him, no not the Papist 
+Highlanders;
+ and such have been the Zeal and dispatch of the Convention, that all the Militia both Officers and Souldiers are setled, and all good Protestants: And above all this, the Lord 
+Neile Campbell,
+ Sir 
+Hugh Campbell
+ of 
+Caddell,
+ and all the Nobility, Lords, and Lairds, whose Territories are in any Danger from an 
+Irish French
+ Invasion, have applied to the Convention with Offers of raising and heading many Regiments without Charge to the Publick, which is accepted, and Powers given them so to do, and all the Militia put into Protestants Hands: So that it's believed an Army of 20000 Horse and Foot will sooner be in the North of 
+Ire∣land
+ from 
+Scotland,
+ than 
+Scotland
+ invaded by the 
+French
+ and 
+Irish
+ Army, whose very Names are be∣come more odious then seared by the 
+Bratish.
+
+
+The 
+French
+ Fleet having in 
+March
+ last Transport∣ed the late King into 
+Ireland,
+ returned back to 
+Brest,
+ where they have lain ever since, and being increased unto near Forty Sail of all sorts.
+
+
+On Friday Morning, 
+April
+ the 26th set Sail a∣gain for 
+Ireland,
+ having on Board many Land-men, a great Sum of Money, Arms, and Ammunition, steering for 
+Kingsale,
+ and were met on Monday the 29th at eight at Night, seven Leagues Westward
+
+of the Cape of 
+Ireland
+ near the Shore, the Wind at East, by Mr. 
+Andrew Hopkins
+ Commander of the 
+Adven∣ture
+ of 
+Byddiford,
+ homewards bound from 
+Mary-Land
+ with Tobacco, who says they were in all 37 Sail, whereof 20 Capital Ships, 8 Fire-Ships, the rest Tenders, and Fly-Boats with Souldiers, one of them made Sail after 
+Hopkins,
+ who braced to his Sails, and staid for him, but the 
+French
+ Admiral fireing a Gun the Frigat left the persuite, and borne up to the Fleet, who made but a slack Sail, most of them having their Top-Sails on the Cap, and all in a Line in a fighting posture, and believes they were designed for the North of 
+Ireland.
+
+
+On Tuesday about eight in the Morning, 
+April
+ the 30th, Mr. 
+Hopkins
+ met one of Admiral 
+Herbert
+'s Scouts who commanded him on Board, and after∣wards went to the Admiral, and gave him a de∣scription of the 
+French
+ Fleet, and that they were then about to Leagues to Leeward of our Fleet, upon which the Sea-men gave a very great Shout, and made all preparations to engage them, making also all the Sail they could: Our Fleet consisted of 26 Sail without the Fire-Ships who were left in 
+Milford
+ Haven, being very Leaky; when Mr. 
+Hopkins
+ left our Fleet, some of his Men from the Top-mast head discovered 8 Sail which he believed were part of the said 
+French
+ Fleet, and that our Fleet met them that Evening; and further says, the 
+French
+ could not Land their Men, 
+&c.
+ thereabouts.
+
+
+On Tuesday last the 
+Mary,
+ Captain 
+Matthew Aylmer
+ Commander, came to the 
+Spithead,
+ and came ashore at 
+Portsmouth,
+ whence he immediately took Post for the Court, to give his Majesty an ac∣count of the Engagement that ensued on Wednesday 
+May
+ the first, as Follows; the 
+English
+ Admiral finding them on Tuesday Night got all into the Bay of 
+Bantrey,
+ lay by all Night, and next Morn∣ing by break of Day stood in upon them, and with 8 or 9 Sail made a desperate Fight against 28 Sail of the 
+French,
+ and five Fire-Ships, with all the disad∣vantages imaginable, the Enemy having the Wind, and the 
+English
+ not able to make use of their lower Tyre of Guns, yet nevertheless maintain'd the Fight for many hours, and at five at Night stood off to Sea, and the 
+French
+ at the same time tacking from them, by which it's guessed they have received great loss of Men, and damage in their Ships, and had not then Landed either Men, Money, Arms, or Ammunition; which two reasons may be given for; the one, that they pursued not the Advantage they had by Num∣bers and Wind; or else according to their constant practice by Land and Sea, not to hazard Men or Ships without inevitable Necessity; their work then being to Land Succours, not fight.
+
+
+Letters of the third Instant from our Fleet say, the 
+French
+ were in the Bay, so near the Shore, that they could not get to Windward of them, that five of their Capital Ships were at one time upon the 
+Eliza∣beth,
+ Admiral 
+Herbert
+'s Ship, and the 
+Pendennis,
+ Capt. 
+Cloudsly Shovel
+'s Ship, but cleared themselves brave∣ly; the Admiral is much damaged in his Sails and Rigging, and lost 20 or 30 Men, the 
+Pendennis
+ not so many, Captain 
+Ashby
+ in the 
+Edgar
+ 60 or 70, Cap∣tain 
+Aylmer
+ in the 
+Portland
+ is killed, and 14 or 15 of his Men.
+
+
+They have sunk two of the 
+French
+ Capital Ships and killed many of their Men, that five of the 
+English
+ Ships chiefly bore four hours hot Engagement, the reit not being able to come up to them.
+
+
+Letters from 
+Exon
+ of the 8th Instant say, Admi∣ral 
+Herbert
+ is come into 
+Plymouth,
+ and that they have sunk the 
+French Admiral,
+ and one more, and that the 
+English
+ are refitting their Sails, and Rig∣ging, in which they suffered the most Damage.
+
+
+Letters from 
+Chester
+ of the 8th Instant say, the Advice-Boat with an Express from the King to 
+Lon∣don-Derry
+ that went off from 
+Liverpool
+ the 30th past, is come back, and gives account that the 
+Irish
+ Coa
+t was full of Souldiers, but however with some diffi∣culty, by help of a Man of War ent in the Express, which when received by direction, they were to give three Huzzaes, which they did, and made great re∣joycing for it, drinking their Majesties Healths in Spring Water; and it's said have assured the King by Express back, they will hold out to the last, and want neither Ammunition nor Provisions, and in three late Sallies on the Besiegers, have killed 400, and retreated each time with little loss.
+
+
+And this Week is come to Town one Mr. 
+Web
+ a most worthy, Grave, and Reverend Divine, who is Minister of 
+Inniskilling
+ in 
+Ireland,
+ who having Pro∣claimed King 
+William
+ and Queen 
+Mary,
+ and pub∣lickly Prayed for them, enraged the Papists to that height, that the Lord 
+Galmoy
+ at the head of some thousands of 
+Irish
+ were drawing towards the place, threatning to hang up the said Minister higher than 
+Haman
+ was, and to put the rest to the Sword. But they fear him not, having 2000 Men well Armed in the place, and Ammunition and Provisions for some Months, yet such was their respect and ten∣derness to this worthy Divine, that they even sor∣ced him to withdraw, least time and Accidents might force them to Surrender into the hands of those who would have no Mercy on him; so he escaped to 
+London-Derry,
+ and there got ten Barrels of Pow∣der to be sent to 
+Inniskilling.
+
+
+Since the arrival of Captain 
+Aylmer
+ (Brother to the late Captain 
+Aylmer
+ that was kill'd in the Fight) who brought the Account to the King of the Engage∣ment, divers Letters are come, which confirm the former Relations, and some with this Addition, That the next day after the Fight they took two small 
+French
+ Vessels, who were making homewards with Advice of the Action: The Prisoners do declare, that their Admiral was killed, and two of their Capital Ships sunk, 12 disabled, and a great number of their Men killed and wounded, and that they all highly applaud the Courage of the 
+English
+ Sea-men, and bravery of their Commanders. Admiral 
+Herbert
+ is certainly come into 
+Plymouth,
+ much disabled, and the other disabled Ships into 
+Portsmouth,
+ where all hands are put to refit them, to joyn the 
+Dutch
+ Fleet, which are passed Westward, consisting of 28 Sail of Capital Ships, 10 Fire-ships, and some Tenders.
+
+
+
+
+
+
+
+
+
+
+LONDON:
+ Printed for 
+J. Morris
+ in 
+Fleet-street.
+ MDCLXXXIX.
+
+
+
+
+
+
+
+
+

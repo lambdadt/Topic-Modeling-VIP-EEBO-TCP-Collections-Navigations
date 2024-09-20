@@ -1,0 +1,960 @@
+Novem. 24 Num. 7. The weekely newes containing these particulars. The surprising of tvvo tovvnes by the Prince of Oranges forces, and the manner of their taking, vvith the seuerall pasages of Spinolas armie lying before Breda, and our campe at Rosendale: as also the death of the Earl of Southampton and his sonne at Bergan-vp-Zomme. The taking of many places in the Grisons countrey by the French kings forces. Likewise the entertainment of many thousands of men by the State of Venice; vnder the command of Colonlel Ouentuant once one of Count Mansfields chiefe commanders. The Hollanders fortunately meeting with one of the King of Spaines plate ships comming from the West-Indies the which in a short time they ouercame and tooke: with a great victorie obtained by the Duke of Tuscans gallies, against the pirats of Argles. The disagreement which is like to happen betweene the emperour and Bethlem Gabor, and the Turke and the Emperour ...
+Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A14896
+
+
+
+
+STC 25199
+
+
+
+ESTC S102712
+
+
+
+
+
+99838482
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Novem. 24 Num. 7. The weekely newes containing these particulars. The surprising of tvvo tovvnes by the Prince of Oranges forces, and the manner of their taking, vvith the seuerall pasages of Spinolas armie lying before Breda, and our campe at Rosendale: as also the death of the Earl of Southampton and his sonne at Bergan-vp-Zomme. The taking of many places in the Grisons countrey by the French kings forces. Likewise the entertainment of many thousands of men by the State of Venice; vnder the command of Colonlel Ouentuant once one of Count Mansfields chiefe commanders. The Hollanders fortunately meeting with one of the King of Spaines plate ships comming from the West-Indies the which in a short time they ouercame and tooke: with a great victorie obtained by the Duke of Tuscans gallies, against the pirats of Argles. The disagreement which is like to happen betweene the emperour and Bethlem Gabor, and the Turke and the Emperour ...
+[2], 20 p.   
+
+
+London :
+
+
+Printed by W. I[ones] for Thomas Archer and are to be sold in Popes head Ally, ouer against the signe of the Horse-shooe,
+
+
+1624.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Europe --  History --  1517-1648 --  Early works to 1800.
+2013-08
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Colm MacCrossan
+Sampled and proofread
+2013-10
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+25199
+
+
+S102712
+
+
+99838482
+
+
+2863
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nouem. 24. Num. 7. THE VVEEKELY Newes, containing these particulars. The surprising of two Townes by the Prince of 
+Oranges
+ forces, and the manner of their taking, with the seuerall pasages of 
+Spinolas
+ armie lying be∣fore 
+Breda,
+ and our campe at 
+Rosendale:
+ as also the death of the Earle of 
+Southampton
+ and his Sonne at 
+Bergan-vp-Zoome.
+ The taking of many places in the 
+Grisons
+ Coun∣trey by the 
+French
+ Kings forces. Likewise the entertainement of many thousands of men by the State of 
+Venice,
+ vnder the Command of Colonell 
+Ouentuant,
+ once one of Count 
+Mansfields
+ chiefe commanders. ¶ The 
+Hollanders
+ fortunately meeting with one of the King of 
+Spaines
+ Plate Ships comming from the 
+West-Indies
+ the which in a short time they ouercame and tooke: with a great victorie obtained by the Duke of 
+Tuscans
+ Gallies, against the Pirats of 
+Argier.
+ The disagreement which is like to happen be∣tweene the Emperour and 
+Bethlem Gabor,
+ and the 
+Turke
+ and the Emperour: the receiuing of many thousands of men, being newly dismissed by 
+Monsier Tillie,
+ into the pay of the 
+French
+ King.
+
+
+LONDON, Printed by W. I. for THOMAS ARCHER, and are to be sold in Popes head Ally, over against the Signe of the Horse-Shooe. 1624.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Weekely Newes from 
+Italy, Germany, France, Spaine,
+ and the 
+Low-Countries,
+ &c.
+
+
+
+
+From Vienna 
+the 
+24.
+ of October.
+
+
+W
+Ee vnderstand here how that the 
+Turkish Chiany
+ who is come to the Imperiall Com∣missioners which are at 
+Commora,
+ hath brought with him some hard points and Articles, which are proponuded by the 
+Grand Signieor,
+
+
+The conditions of peace which the Ambas∣sodors of 
+Bathlem Gabor
+ hath offered vnto his Imperiall Maiestie in the name of his Maister, they are likewise very hard and intollerable, so that there is little or no hope at all, that any peace or truce shall be concluded betwixt the Emperour, or any of them.
+
+
+They write out of 
+Silecia,
+ that the 
+Cossacks
+ haue quite left both 
+Silecia
+ and 
+Morauia,
+ and that the lye vpon the frontiers of 
+Polonia
+ and 
+Silecia,
+ expecting the mercifull resolution and pardon of the King of 
+Poland,
+ that they may come safely home.
+
+
+
+
+
+
+
+
+From Vienna 
+the 
+26.
+ of October.
+
+
+Concerning the 
+Turkish
+ treatie of peace, wee haue yet no other tidings, but that there is come a 
+Turkish Chiany
+ (being accompanied with few persons) to the Imperiall Commissioners, to salute and receiue them: and that he hath pro∣pounded some few Articles, which the Empe∣rour is not to admit in any manner of wayes, although the 
+Grand Signieur
+ would moderate them.
+
+
+They write from 
+Raba,
+ that they stand there in feare that the 
+Turkes
+ will come and pillage the Countrie there about, and that they keepe strong watches, and have planted their Ord∣nance vpon their walles and bulwarkes, to sa∣lute them at their arriuall: as likewise how that there being a house fired by casualtie, the In∣habitants and Souldiers which are in 
+Commora
+ were mightilie afraid, and suspected that it had beene done by the 
+Turkes
+ to surprise the place the better.
+
+
+In the beginning of this Moneth was a Pro∣clamation at 
+Linty
+ in the vpper 
+Austria
+ procla∣med in the name of the Emperour, to cite all such as haue beene guiltie in the former Rebel∣lion, to appeare within the space of sixe weekes and three daies in the head Towne of 
+Linty,
+ be∣fore the Emperiall President and Counsell Namelie, the Count of 
+Neggaw,
+ Gouernour of the lower 
+Austria,
+ the Lord of 
+Hoyes
+ Presedent of the Counsell of the lower 
+Austria,
+ the Lord of 
+Reck,
+ one of his Maiesties Imperiall Counsell,
+
+the Lord 
+Heggenmiller
+ Chanceler of the lower 
+Austria,
+ the Doctors 
+Mosmiller,
+ and 
+Barthold,
+ and to cleare themselues. But the Preachers are authors of the Rebellion (as they write thence) are some 8. dayes agoe dismist of their charge, and commanded to depart within the space of 8. daies, which expired yesterday: At the same time was not onely the preaching forbidden to the Ministers, but also the ringing and sounding of Belles to the Sextons, vpon paine of death.
+
+
+On the 15. of this Moneth were the Booke-sellers Shops viewed in this Citie, and the sel∣ling of Protestant Bookes forbidden. On the same day arriued here the Count 
+Nicolas Wolsky
+ Great Marschall of the Kingdome of 
+Polonia,
+ and it is rumored that he is to goe thence into the 
+Low-Countries
+ to the 
+Infanta,
+ which lieth at 
+Brussell.
+
+
+Two daies agoe perrished two Barkes in the Riuer of 
+Donaw,
+ that were sailing with Corne to the frontier Townes and Castles of 
+Hungarie.
+
+
+The tidings which wee had heare lately, how that Monsieur 
+Tilly
+ had taken the bridge of 
+Strasbourg
+ is false, but it is sure that he hath stopt the passages of the 
+Rhyne,
+ that nothing can come vp or downe without his leaue.
+
+
+
+
+
+
+From Vienna 
+the 26. of October.
+
+
+The 19. of this Moneth departed the great Marschall of 
+Pelonia
+ hence, and went as it is ru∣mored towards 
+Florence.
+
+
+On the same day came his Imperiall Maiestie here backe againe from 
+Ebersdoof,
+ and gaue on
+
+the next Sunday after he had heard the Masse audience to the Ambassador of 
+Bethlem Gabor;
+ he did the like on the following Munday to the Ambassador of the Elector of 
+Cullen,
+ and graun∣ted on the next Tuesday the Regalia and Fulde to the Commissioners of the Abbot of 
+Fulden,
+ which demanded them in his name. On the next Wensday, as likewise yesterday went the Em∣perour abroade to hunt the wilde Bore.
+
+
+Fewe dayes agoe arriued here the Arch-bi∣shop of 
+Pragne
+ comming here poste, and it is ru∣mored that the 
+Land-graue Charles
+ of 
+Lichten∣stayn
+ is likewise to come hitherwards with great speede.
+
+
+The Count 
+Serin Banus
+ of 
+Croatia,
+ who came here likewise fewe dayes agoe, reporteth that he hath not onelie slaine many 
+Turkes,
+ which were pillaging the same Country, but that he also himselfe hath made an inroade on the 
+Turkish
+ Dominion, and gotten there rich booties. The 
+Turkish
+ treatie of Peace is not begunne as yet, by reason that the 
+Turkish
+ Commissioners are not come together, and especially seing that the chiefest of them all is yet at 
+Constantinople.
+
+
+They write from 
+Prague,
+ that there are put in prison three men of them which robbed the Duke of 
+Saxon Lawenborg
+ when he was riding towards this Citie of 
+Vienna.
+
+
+This weeke was a Postillion or Messenger slaine, when he had taken the 9. post horse be∣twixt 
+Prague
+ and 
+Vienna,
+ the lttters being found by a husband man, he carried them to the next
+
+post, but wee cannot learne as yet in what. man∣ner this happenned, nor who was the author.
+
+
+We vnderstand by Letters written from 
+Lin∣ty,
+ that the Protestant States of 
+Austria
+ haue promised to pay the wages to the protestant Preachers which are banished, for two yeares, and that they gaue to euerie one of them 1000. Rix-Dollers before their departure, and that moreouer the Protestant Burgurs gaue them when they tooke their leaue of them 1.2. yea. 3. Rix-Dollers, and some of the richer sorts whole hand fulls of Rix-Dollers, and Duckets.
+
+
+They write out of 
+Hungaria,
+ that the Lord 
+Bosniach
+ hath surprised the small Towne of 
+Waith,
+ which was in the bounds fo the 
+Tu ke,
+ and hauing slaine there 2000. 
+Turkes,
+ tooke moreouer 70. of them as prisoners, & got there 970. 
+Turkish
+ horse, besides many other rich bo∣ties: Hee rescued likewise all those Christians which the 
+Turkes,
+ as we mentioned heretofore had taken at 
+Ferrels.
+
+
+The Lord 
+Esterhasi
+ who is Gouernor rf 
+New∣hensed,
+ hauing sinck fortified 
+Ferrele,
+ the 
+Grand Signiour
+ hath sent him word, that he should dis∣mantle the place againe, seing it was against the treatie of Peace, to make any new fortifications vpon the frontiers. But he the Lord 
+Esterhasi
+ re∣turned this answere, namely, that seing he had suffered his cosin, and diuers other Christians to be taken thence as prisoners, after his 
+Trukish
+ Souldiers had pillaged the place, which was di∣rectlie against the treatie of Peace, he had forti∣fied
+
+the fame place, that the Christians might liue there securle, and out of danger to be surpri∣sed at the pleasure of the 
+Turkes.
+
+
+
+
+
+
+From Vienna 
+the 
+30.
+ of October.
+
+
+The Ambassadors of 
+Bethlem Gabor
+ are not as yet dispacht, nor haue vnderstood the Empe∣rours resolution vpon their propositions which they haue made in the name of 
+Bethlem Gabor.
+ In the meane time they are dayly feasted by seue∣rall Lords, and amongst others the Count of 
+Meggaw
+ feasted them fewe daies agoe in great Pompe and State, not sparing any cost vpon Players and Musitians. It is thought that for this time (seing they brought some presents to the Emperor) that they shall likewise be sent home with some presents.
+
+
+There is yet small likelihood of the treatie of peace, seing that the 
+Basha
+ of 
+Ossen
+ hath decla∣red himselte, that hee will not suffer the Lord 
+Curty
+ the Ambassador of his Imperiall Maiestie, to goe thence before the Peace be concluded. And the Emperour on the other side will not suffer this treatie to beginne, vnlesse he the Lord 
+Curty
+ be at libertie; and may come to it.
+
+
+
+
+
+
+From Vienna 
+the 
+31.
+ of October.
+
+
+We receiued here to day tydings, how that 12000. 
+Turkes
+ which haue laine a while about 
+Osten,
+ were marcht vp to meet againe an inrode either in 
+Hungaria
+ or 
+Styria:
+ And his Impe∣riall Maiestie hath thereupon giuen order that 12000. foote shall with great speede march to∣wards 
+Hungaria.
+
+
+
+
+
+
+
+
+From 
+Prague
+ 
+the 2 of Nouember.
+
+
+Although the Emperour hath now many times giuen order, that the souldiers should be sent out of this Kingdome into the Empire, they will not obey his order: by reason of their want of payment which they expect from the Empeour, and if they continue heere any longer, we are likely to haue a generall dearth in this Kingdome; for they haue already in many places of this Kingdome consu∣med the Victualls.
+
+
+One who came lately from 
+Olmits
+ in 
+Morauia
+ brought heere tiding, how that the most part of the Cossacks which haue layne in 
+Selesia,
+ and 
+Mo∣rauia,
+ (when they were in the pay of the Emperor) are now entered into the seruice of 
+Bethlem Gabor;
+ and many are therefore of opinion that he (
+Bethlem Gabor
+) is not to be trusted.
+
+
+The Elector of 
+Saxony
+ is with 500 horse gone to 
+Berlin
+ to assist there at the Christning of a child of the Elector of 
+Brandenburgh.
+ But there are some which hold that they are to treat there more∣ouer of some matters of great importance.
+
+
+
+
+
+
+From 
+Siuill
+ 
+the 
+20.
+ of October.
+
+
+We haue receiued tidings that the 
+Hollanders
+ haue taken the Admirant which is one of the Ships of our siluer fleete.
+
+
+
+
+
+
+
+
+From 
+Amsterdam
+ 
+the 9 of 
+Nouember.
+
+
+The tyding is confirmed againe out of 
+Spaine
+ how that the Generall 
+le Hermite
+ hath taken and pillaged the Towne of 
+Lima,
+ and gotten there rich booties. And they write likewise thence that there is no hope that the siluer fleet shall this yeare come out of the West-Indies, and that the King of 
+Spaine
+ his Factors can therefore hardly take any money vp for the seruice of his Maiesty.
+
+
+Moreouer they aduise vs thence that the fleete which is to be sent against the 
+Hollanders
+ to reco∣uer the 
+Bay
+ of 
+Todos los Sanctos
+ out of their hands, cannot soone be made ready for want of money, ships, munition, and men, although there walke dayly many Spanish Signiors by the steetes, with their feathers vpon their Hats, and threaten the 
+Hollanders
+ mightily.
+
+
+Likewise we vnderstand by seuerall letters writ∣ten from 
+Siuill,
+ how that by thunder and light∣ning the golden Crowne was stroaken from the head of the Image or statua of the King of 
+Spaine,
+ that was erected there to honour him vppon his arriuall, without doing any other hurt, so that there are made many strange Prognostications, and that the rather seeing that the Confessor of the Queene, who was a very learned man, sayd before his death, that hee was very happy to leaue this
+
+world before such miseries, as were to fall vppon 
+Spaine
+ happened.
+
+
+They write from 
+Liuorno,
+ that on the 11 of October there ariued the Arch-Duke 
+Charles,
+ the brother of the Emperor, who was to goe with the Gallyes of 
+Gemia
+ into 
+Spaine;
+ he was euery where very stately entertayned, and it is thought that he shall bee made Vice-Roy of 
+Portingall,
+ amongst his folowers is one of the Dukes of 
+Saxon-Weymar
+ who is released out of his imprisonment.
+
+
+Foure Gallyes of the great Duke of 
+Toscana
+ with 3 Gallies of the 
+Popes,
+ and 8 Gallyes of 
+Naples,
+ hauing assaulted the Famous Pyrat of 
+Algire, Calefare, Aller,
+ they set so hard vpon him, that he was compelled to put the fire in his gun-pouder.
+
+
+But neuerthelesse they tooke the Captaine and two other Pyrats, besides 3 prises of French and Low-countrymen, which they thought to carry to 
+Algires,
+ and some 150 Turkes which were vpon them are sent to the Gallyes.
+
+
+The King of 
+Denmarke
+ hauing beene in 
+Gotland
+ and viewed his siluer mines, is (God be thanked) againe safe arriued at 
+Coppenhugen.
+
+
+And we vnderstand that the most part of the Souldiers which the Kings of 
+Sweden
+ and 
+Den∣marke
+ haue dismist aswell horse as foote, are en∣tred in the seruice of the High and Mighty Lords, the States of the vnited Prouinces. The horse are
+
+to come through the landes of 
+Oldenborg,
+ and 
+Em∣den
+ vnder the conduct of young Count of 
+Thurne,
+ and the States haue therefore sent prouision in those partes for them.
+
+
+It is rumored that the Imperial Souldiers which lye yet in 
+West-phalia,
+ are speedily to march vp, and to go to the Marquis 
+Spinola
+ before 
+Breda:
+ But such as come thence, reports that they haue no minde to go to his Campe, by reason of the great Death and bad payment which is there made, and haue caused already many Souldiers to forsake it, so that there came dayly many of them out of 
+West∣phalia
+ to serue the States of these Vnited Pro∣vinces.
+
+
+They of the Bishoppricke of 
+Osnaburg
+ haue this yeare slaine many Souldier of Monsieur 
+Tilly,
+ and the Baron of 
+Anholt,
+ which pillaged the Coun∣trey.
+
+
+And the Baron afore mentioned, hath thereup∣pon hauing receiued order from Monsieur 
+Tilly,
+ written to them of the Towne, and vrged that they should receiue some Imperiall Souldiers with∣in their Walles. But they haue refused it flatly, and are not afrayde for him.
+
+
+The Cardinall of 
+Hohensolleren
+ would likewise sine as Bishop of 
+Osnaburg
+ make his entrie in the same Towne.
+
+
+In the County of 
+Rauensberg,
+ are now many Souldiers leauied for the King of 
+Spaine,
+ and are to be sent to the siedge of the Marquis 
+Spinola
+ be∣fore 
+Breda.
+
+
+
+
+
+
+
+
+From 
+Rome
+ 
+the 29 of October.
+
+
+We haue receiued now more particular tidings from the Sea-fight that was lately betwixt 16 gal∣lyes of the Christians, and 6 pyrats, in the Sea a∣bout 
+Sardigna,
+ not farre from the Isle called St. 
+Peter,
+ for they write from 
+Liuorno;
+ that there were three Gallies of the Pope, eight of 
+Naples,
+ and fiue of 
+Toscanus
+ that fight with them, and that they had two Pinasses, and two other great Ships with them, which they had taken from some Low-Country-men.
+
+
+And they relate how that the greatest Ship of the Turkes, which was prouided with 50. peeces of Ordinance, and 300. men, hauing lost her maine Maste, through the shot of the Ordinance of our Gallies, the Pirates put the fire in the gun-dowder, and blew it vp, that they might not bee taken a liue: This ship beeing thereupon presently sunke, the rest fled to saue themselues.
+
+
+
+
+
+
+From 
+Venice
+ 
+the 25. of 
+October.
+
+
+They write from 
+Thurin
+ that the Duke of 
+Sa∣uoy,
+ and the Signiory of 
+Gennu
+ are yet both leaui∣yng more Souldiers, and that the Duke (a fore mentioned,) granted yet lately a Patent to leauie 2000. men: As likewise that his Highnesse is
+
+resolued to purchase yet more lands and Lordships to the Marquisate of 
+Succarello.
+
+
+On the last Twesday arriued here two ships with souldiers of 
+Albania,
+ which are to bee sent into our Fronter Townes in 
+Terra ferma.
+
+
+This weeke sayled the two great Gallions hence being appoynted to conduct our Merchants Ships going and comming in, and from diuers seuerall places.
+
+
+The Coronells 
+Obertront,
+ and 
+Schibilischy
+ are here arriued, and are entred into the pay of this Signiory, which is resolued to leauy 2000. 
+Albe∣neses,
+ 2000. 
+Swissers,
+ and 2000. Italian horse.
+
+
+We vnderstand by letters written from 
+Millane
+ how that the Gouernour of that Duke-dome hath sent many souldiers without any sound of Drum toward 
+Come;
+ and that the Paragor or Pay-maister Generall, hath furnished 5000. 
+Veltoliners
+ with armes and other necessaries to defend it.
+
+
+
+
+
+
+Letters from 
+Emerick.
+
+
+Wee haue intelligence by letters from the town of 
+Emrick,
+ that the Captaine of the horse Sirnamed 
+Quait,
+ the Lord of 
+Sippenbrook
+ hauing made passag into the Land of 
+Marke,
+ with a 100 horse and 500 foote, which were vnder the command of 
+Iohn Whitelme
+ of 
+Schorteneere,
+ surprised and tooke the the Knight Marshall out of the Towne of 
+Haltin∣gen;
+ where out of the walls of the Citty, he forced
+
+him to shake hands and take his farwell of this life shooting him to death against a Tree: the which punishment his bad vsage of many of our souldi∣ers moued him to inflict vpon him.
+
+
+But as yet heere was not a period of their power nor an end of their conquest, for they proceded in the acquiring of a farther victory, laying siedge to the Towne of 
+Vima:
+ where having encamped, they sent some shot to the Towne, as an Ambassador to tell them thundring in their eares, the scope of their approach, notwithstanding the Towne made some small resistance; but to small purpose: for it did but procrastinate, not mittigate their misery, in fine it was taken, from whence they carryed 5 peices of Ordinance, by the assistance of which they went on yet further, and they besiedged the towne of 
+Lunnen,
+ and that not without as hapy successe, as they had formerly done the other: for haueing discharged some Cannons vpon it, the towne not very well likeing of such language as the Cannon noyse, nor approouing of such messengers as dead∣ly bullots, submitted themselues vnto them, and yeeld their persons and their purses, their goods & themselues into their hands, which being accom∣plisht with without further delay (which allures great danger in martiall matters) they posted let∣ters to 
+Emerick,
+ the contents of which were to this effect 
+viz.
+
+
+That they would send them more ayde to the intent they might scoure away the spaniards which like rust hung about the countrys, and constrayne them to flye out of that corner.
+
+
+
+
+I doubt not but this will be a 
+Habeas corpus
+ for 
+Spinola,
+ from the siedge of 
+Breda:
+ for me thinks it stands with reason that when he sees his owne house on fire, he should looke to the quenching of that rather then fircing of others, he sees a certainty of losse in the parting with those Townes, but as yet no assurance of gayne in the possession of others, for hee hath not as yet attained it.
+
+
+But to returne to our former discourse, Fame which is more swift then 
+Pegasus,
+ certifieth the Spanish Commanders, which lyeth in the Town of 
+Wesell
+ of these proceeedings who immediatly, selected of their and the other adioyning Garrison of 
+Sterelen, Gelder, Rhyneberg,
+ and marched after∣wards with them vp into the Land of 
+Marke,
+ tak∣ing with them, certaine number of peices of ordi∣nance: with an intent to make resistance against the afore mentioned Captaine 
+Quait,
+ and to en∣ter into battaile with him.
+
+
+But on the contrary side the States of the Vni∣ted Prouinces, together with the Counsaile of Marquis 
+Brandenburg,
+ sent multituds of souldi∣ers to defend and mayntaine the Townes which were surprised by them.
+
+
+Of late there arriued in our Campe eight companyes of 
+Freizland,
+ each of them being some 150 men strong: and they had a further expectati∣on of other 8 companies which were coming out of the Bishoppricke, and the Land of 
+Greuinger.
+
+
+The Prince of 
+Orange
+ hauing receiued intelli∣gence of Count 
+Mansfields
+ approach to 
+Seuern∣bergen
+ sent his owne Coach accompaned with
+
+foure others, 30 waggons, 2 Troopes of horse to feth him in pompe, with no lesse honour then magnificence.
+
+
+On the 4 day o this month the Count of 
+Stirum,
+ and the Count of 
+Hellaine,
+ being departed out of our Campe, and intending their course to 
+Bergen vp Zoome,
+ in the interim Count 
+Mansfild
+ ioyd our campe with his arriuall, hauing in his Society, the as good as old Count of 
+Thinna
+ the Count 
+Ernest
+ of 
+Nassaw,
+ with many other Lordes, Commanders, and Genelemen, who rod abroad to meete, salute, and congratulate his comming in the name of the Prince of 
+Orange,
+ who receiued him with Pompe and State, bee∣seeming the wellcome of such a noble, vertuous, and vallient, personage.
+
+
+The Prince of 
+Orange
+ likewise made no long stay after them, but being accompaned with ma∣ny Earles, Barrons, and Nobles, very Princely, and Nobley shewed him much countenance, and Entertayned him with much curtesie: long may they bee so hounoured, which haue so nobly fought it.
+
+
+Our Camp is very fortunately, and daily en∣richt, with multitudes of Prisoners, and prizes, taken from the Enemies: to the no lesse aug∣mentation of our ioy, then the demunition of
+
+their solace; for as meat doth feed the body, so mony doth flesh and incourage the heart: but the most memorable booty that blest our Camp, was Lieutenant 
+Roland Vanos,
+ who was a Captaine of the company of their enemies foot, who was taken with seauen horses, and three mules, laden with Truncks of a great Spanish Commanders, was carryed into 
+Bergen vp Zoom
+ where as yet he lyeth in the Towne.
+
+
+All the Trenches, Ditches, Batteryes, and Fortifications, in our Camp, are now fully fini∣shed, and absolutly compleat.
+
+
+The Prince of 
+Orang
+ likewise, hath recalled his sauegards, granted to the villages, scituated in the 
+Kempen:
+ and hath also giuen very strickt and streight probition in Proclamations, or fixed Bills at 
+Bergen vp Zoom, Seuernbergen,
+ and other adioyning places: that they shall neither make sale, or carryage of any kind of Grayne to the Camp.
+
+
+Through which meanes the dearth and fa∣mine in the Spanish Camp doth daily encrease; for a pound of Butter is vallued, and sold there for ten and twelue Stiuers, a pound of Cheese
+
+is at the same price, and a quart of Beere for eight pence.
+
+
+Moreouer they haue as little store of money, as of meate stirring in their Army, in so much that men in generall haue conceiued a hope, and are strongly opinionated that Marquis 
+Spinoloa
+ hath more will then power to continue the siedge of 
+Breda;
+ and it is thought that if not the Warres and spoyle done in other places, yet the hunger at home in his owne Campe, will force him to forsake the siedge, for if hee hath not money to get meate, nor meate to stay his Souldiers sto∣mackes, it is easie to bee coniectured that they will follow their appetites; and if hee leaue not the siedge, his Companies will forsake him; 
+Et sic famem non famam habent,
+ they haue more hunger then honour, and report hath given vs to vnderstand, that they haue stomackes like Lyons, but it is 
+Magis ad passendum quam pugnandum,
+ ra∣ther to feede then to fight, but to leaue the siedge and to come to the besidged.
+
+
+This weeke were fiue Souldiers which made an escape by night out of 
+Breda,
+ by whose re∣lation wee vnderstood that the Towne is as yet reasonable well prouided for victualls, and suffici∣ently furnished with other sustinance and necessa∣ries, for it is their assertion that howsoeuer they bee destitute, and haue want of Butter, yet
+
+they are fully furnished with Corne, and haue great store of Cattle, aboundance of salt, bread, Cheese, Honey, Oyle, Syrrop, and other pro∣uision requisite for the sustenance and maynte∣nance of this our weake and frayle life: And wee learne by particular Letters sent 
+Breda,
+ that some three weekes since, there beeing a suruey made of the sustenance, and prouision in the Towne, they found and vnderstood that there was yet remay∣ning 40000. quarters of Corne vnspent or vn∣toucht, which doth still adde to the former ex∣pectation of 
+Spinolaes
+ relinquiching the siedge, for if the Towne bee so well furnished with men, meate, and munition, it is probable that 
+Spinola
+ being so defectiue in purse and prouision doth but 
+littus arare,
+ as they say, or 
+Aethiopem lauare,
+ la∣bour in vaine, as the sowing on the shore, or the washing of a Blackamore; but to leaue this to the censure of sound iudgements, I proceede in my discourse.
+
+
+Count Henry
+ of 
+Nassaw
+ hath lately likewise fully finished all his Quarters, with all the workes appertayning and belonging to them: Hee hath also prouided, and taken order that none of our victualls or any other of our adherents shall trans∣port or carry any sustinance to any of our enemies or foes forces.
+
+
+Count 
+Mansfield
+ and the old Count of 
+Thieru
+
+
+hauing had long conference, and large consul∣tation with his Excellence, the Prince of 
+Orange,
+ tooke their leaue and farewell of him, who as fame tells vs, are after the expiration of a small time, are to meete the English at the places by them appoynted, although from vs concealed, and heere of late haue beene great summes of money gathered, and sent ouer into these prouin∣ces out of 
+France.
+
+
+Neither is it buryed in concealement, that the 
+French
+ King hath receiued into his pay 2800 Horse, the which haue formerly serued 
+Mounsier Tilly,
+ who became humble and carnest suitors to serue vnder Count 
+Mansfield,
+ and there are yet expected 1000 Horse more which will come to offer their seruice very speedely, and to enter into the pay of the King of 
+France,
+ who is still encreasing his Forces, whose power as it is not yet in the full, so yet it is not in the Wayne: For euery day there bee more addi∣tions to it.
+
+
+We haue likewise intelligence, and vnderstand further more by letters, that the Constable 
+Lon∣guiare
+ hath with no lesse speed then successe ariued amongst the Grisons, for he is not onely already there, but he hath subiected to the yoake of his o∣bedience many places and passages, the which hee
+
+hath effected, wrought and brought to passe, as well by his owne proper forces as by the assistance of the Duke of Sauoy, moreouer the French king hath sent ouer also three regiments to ayde him.
+
+
+
+
+
+
+From 
+Bergen vp Zoame.
+
+
+Our eares of late haue beene the wofull obiects of vnsortunate news from 
+Bargaine vp Zoame,
+ viz. that the Earle of 
+Southampton
+ falling sick, according to somes false relation, of the plague, but according to truth, of the bloudy fluxe at 
+Roscindale,
+ from whence he was carried to the Towne of 
+Bergen vp Zoame,
+ where his soule forsooke that earthly man∣sion place, and departed out of this wretched world: but as who should say, death had an intent to make a second part of our sorrow, with his im∣partiall axe he cut downe both tree and fruit toge∣ther: for the Earle of 
+Southamptons
+ hopefull sonne followed his father in the shadie paths of death, who had also in the same place, and at the same time a period imposed vnto his life.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

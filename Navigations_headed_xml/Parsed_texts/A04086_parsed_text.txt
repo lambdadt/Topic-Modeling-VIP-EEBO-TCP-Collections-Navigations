@@ -1,0 +1,200 @@
+The offer and order giuen forth by Sir Thomas Smyth, Knight, and Thomas Smyth his sonne vnto suche as be willing to accompanye the sayde Thomas Smyth the sonne, in his voyage for the inhabiting some partes of the northe of Irelande.
+Smyth, Thomas, Sir.
+Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2008-09 (EEBO-TCP Phase 1).
+A04086
+
+
+
+
+STC 14140
+
+
+
+STC 22868.5
+
+
+
+ESTC S3013
+
+
+
+
+
+ocm 29681378
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The offer and order giuen forth by Sir Thomas Smyth, Knight, and Thomas Smyth his sonne vnto suche as be willing to accompanye the sayde Thomas Smyth the sonne, in his voyage for the inhabiting some partes of the northe of Irelande.
+Smyth, Thomas, Sir.
+1 sheet ([1] p.).   
+
+
+[London :
+
+
+s.n.,
+
+
+1572]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Great Britain --  History --  Elizabeth, 1558-1603.
+Ireland --  History --  1558-1603.
+2007-08
+TCP
+Assigned for keying and markup
+2007-08
+Aptara
+Keyed and coded from ProQuest page images
+2007-10
+Mona Logarbo
+Sampled and proofread
+2007-10
+Mona Logarbo
+Text and markup reviewed and edited
+2008-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+14140
+
+
+29681378
+
+
+28073
+
+
+
+
+
+
+
+
+
+
+
+
+❧The offer and order giuen forth by Sir Thomas Smyth
+Knight, and Thomas Smyth his sonne, vnto suche as be willing to accom∣panye
+the sayde Thomas Smyth the sonne, in his voyage for the inhabiting some
+partes of the Northe of Irelande.
+
+
+T
+HE Queenes Maiesties graunt made to syr Thomas Smith Knight, and Thomas
+Smyth his sonne in Ireland, is all that is hir maiesties by enheritance, or other right
+in the country called the 
+ARDS,
+ & part of other coūtreys adiacent in y
+e
+ Erledom of 
+VL∣STER,
+
+so that they can possesse & replenish them with English men. The which thing
+that it might the more surely be done, the sayd sir Thomas & Thomas his sonne, haue
+bounden themselues to her highnesse to distribute al the sayd land within the said coun∣treys,
+which they shall be able to obteyne and possesse, to suche as shall take paynes to
+helpe them to possesse the same, to haue and hold to them and to their heires for euer.
+
+
+That is to say, to eche man who wil serue as a souldier on foot, one Plowland con∣teining
+a hundreth & twenty acres Irish of arable land, for which the said sir Thomas
+and Thomas, must pay to the Queenes maiestie two pence▪ Irish for an Irish acre, af∣ter
+foure and twentie foote to the pole. In consideration of whiche rente by them to be payde vnto her Maiestie,
+the Souldier shall paye for the sayde plowlande vnto syr Thomas Smyth and Thomas, and their heires, one
+peny sierlyng for euery Englishe acre of the sayde Plowelande, after the measure of sixteene foote and an halfe
+to the pole, and no more. The first payment to begn foure yeares hence, 
+videlicet.
+ 1576.
+
+
+To eche man who wyll serue on horsebacke two plowelandes, 
+videlicet
+ two hundreth and fortie Acres Irishe,
+whiche is at the least fiue hundreth acres and more Englishe, paying for euery acre English as the footman doth.
+
+
+And the earable lande beyng deuided, eche foote man and horseman shall haue also allotted vnto hym pasture,
+medowe, wood, and suche lyke necessary, as the countrey will serue, as reasonably as they haue arable ground,
+so that they may therewith bee contented.
+
+
+The charges that is required of a footeman at his first setting foorthe, if he be furnished of sufficient armour,
+for a Pike, Halberd, or Caliuer, with a conuenient liuerey cloake of red colour, or carnation wyth black facing, is
+tenne poundes for his vitayling for one whole yeare after his arriuall and his transportation: after which yeare,
+there is hope to fynde prouision inough in the countrey, which they shall obteyne with good guydance.
+
+
+The charges of a horseman well horsed and armed for a lighte horseman with a staffe and a case of Dags, is
+twentie pounds for vittaile of hym and his horse for one whole yeare, and for his transportacion. His liuery had
+neede be of the colour aforesayd and of the fashion of the riding Dutch cloakes nowe vsed.
+
+
+And to auoyde the Flixe and suche daungerous diseases as doth many tymes chaunce to souldiers by reason of
+lying vpon the grounde and vncouered, and lykewyse to horsses for lacke of hales. If any souldier footeman wyll
+giue before hande ten shillings, and the horsman twentie shillings, they shall be lodged vnder canuas, and vp∣on
+beddes, vntill houses may be prouided.
+
+
+And if any will bear
+ the charges of a Souldyer, that cannot goe hymselfe, nor send an other in his roome, he
+shall haue his part of land allotted to him as wel as though he went himself: but then for a footman he must pay
+in readie money .xvj. pound .xiij. s .iiij. d. This is one parte. And if any wyll haue two partes or more, then ac∣cording
+to this rate to pay the money. The Coronel to find the sayd footman or men in al points, for the first yeare
+according as the money is receiued.
+
+
+And to the intent that no man willing to aduenture in this most honorable & profitable voyage, may doubt here∣of,
+if it please him to resorte to London into Paules Churchyarde to the sygne of the Sunne, there hee shall see
+both the Letters Patentes and the Indentures of couenauntes betwixte the Queenes Maiestie and the sayd sir
+Thomas Smith and Thomas Smith, and pay such money as he is disposed to aduenture, and receiue hys assu∣raunce
+from Thomas Smith the sonne, who taketh the aduenture and voyage vpon hym to goe in person, or if
+the said Thomas be not there, one of the receiuers of this voiage remaining there, shal do herein as apperteineth,
+whom he hath made his deputie in this behalfe.
+
+
+Note that all suche kyndes of prouision as be necessary in this iourney, the treasourer may receyue in lieu of mo∣ney,
+according as he shall haue neede of suche prouision, be already furnished therwith, and according to the place
+where the sayde prouision shall lye for the commodious transportation thereof.
+
+
+Bicause the tyme of our Embarking is shorte: And that it is necessarie that some tyme for the prouision and
+gathering togither of all things necessary be had after the receipt. Therfore haue we appointed the said receipt in
+all places, to ende the last day of Februarie. Requesting all suche as be resolued to aduenture in thys enterprise, to
+hasten in their paiments before that last day of Februarie. Especially immediatly vpon their resolution to sende vp
+their names in wryting, the quantitie of their aduenture, and the day or dayes, which they shall take within the
+terme afore limitted, for the paiment of suche summes. The same vnder their hands to be deliuered with all speede
+vnto the Treasorer or Receiuer, where they shal thinke good to pay their said aduentures, to the ende their names
+may be entred certenly. And the number once knowne, all necessaries by proportion prouided accordingly. As for
+the day and place certaine of meeting and Embarking, bicause it is not necessary to publishe the same, the Treaso∣rer
+or Receiuer, shall giue it foorth by Ticquet at the time of his receipt of the aduenture.
+
+
+Tho Smith
+ God saue the Queene.
+
+
+
+
+
+
+
+
+

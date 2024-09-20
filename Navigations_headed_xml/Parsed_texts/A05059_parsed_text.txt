@@ -1,0 +1,10124 @@
+A briefe description of Hierusalem and of the suburbs therof, as it florished in the time of Christ Whereto is annexed a short commentarie concerning those places which were made famous by the Passion of Christ, and by the actes of holye men, confirmed by certeine principall histories of antiquity. Verie profitable for Christians to read, for the understanding of the Sacred Scriptures and Iosephus his Historie. Hereunto also is appertaining a liuely and beawtifull mappe of Hierusalem, with arithmeticall directions, correspondent to the numbers of this booke. Translated out of Latin into English by Thomas Tymme minister.
+Jerusalem sicut Christi tempore flourit. English
+Adrichem, Christiaan van, 1533-1585.
+Approx. 247 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2007-01 (EEBO-TCP Phase 1).
+A05059
+
+
+
+
+STC 152
+
+
+
+ESTC S100442
+
+
+
+
+
+99836282
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A briefe description of Hierusalem and of the suburbs therof, as it florished in the time of Christ Whereto is annexed a short commentarie concerning those places which were made famous by the Passion of Christ, and by the actes of holye men, confirmed by certeine principall histories of antiquity. Verie profitable for Christians to read, for the understanding of the Sacred Scriptures and Iosephus his Historie. Hereunto also is appertaining a liuely and beawtifull mappe of Hierusalem, with arithmeticall directions, correspondent to the numbers of this booke. Translated out of Latin into English by Thomas Tymme minister.
+Jerusalem sicut Christi tempore flourit. English
+Adrichem, Christiaan van, 1533-1585.
+Tymme, Thomas, d. 1620.
+[16], 112, [4] p. : map  
+
+
+London :
+
+
+Printed by Peter Short for Thomas Wright,
+
+
+1595.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Jerusalem --  Description and travel --  Early works to 1800.
+2006-02
+TCP
+Assigned for keying and markup
+2006-02
+Aptara
+Keyed and coded from ProQuest page images
+2006-08
+Elspeth Healey
+Sampled and proofread
+2006-08
+Elspeth Healey
+Text and markup reviewed and edited
+2006-09
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+152
+
+
+99836282
+
+
+542
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+Briefe Description of Hierusa∣lem
+and of the Suburbs therof,
+as it florished in the time
+of Christ.
+
+
+Wherto is annexed a short Commentarie con∣cerning
+
+those places which were made famous by
+
+the Passion of Christ, and by the Actes of holye
+men, confirmed by certeine principall
+Histories of Antiquity.
+
+
+Verie profitable for all Christians to read, for the
+vnderstanding of the sacred Scriptures
+and Iosephus his Historie.
+
+
+Hereunto also is appertaining a liuely and
+
+beawtifull mappe of Hierusalem, with
+Arithmeticall directions, correspondent
+to the numbers of
+this Booke.
+
+
+Translated out of Latin into English
+
+by Thomas Tymme Minister.
+
+
+LONDON,
+
+Printed by Peter Short for
+
+Thomas Wight.
+
+1595.
+
+
+
+
+
+
+
+
+
+
+To the right honourable Sir 
+Iohn
+Puckering,
+ Knight Lorde Keeper of the great
+Seale of England, Thomas Tymme, wisheth
+increase of honour here, to Gods glo∣rie;
+and perpetuall felicitie in the
+worlde to come.
+
+
+F
+Orsomuch as (right
+honorable) 
+Jerusa∣lem,
+
+the citty of our
+God, euen vppon
+his holy mountaine
+the ioy of the whole
+earth, and the Cit∣tie
+of the greate
+King, that faire and
+most auncient Cit∣tie,
+by a speciall prerogatiue is by God him
+selfe bewtified aboue all other Citties: and
+was therefore the cheefe, most noble and fa∣mous
+Cittie of the worlde: Many trauellers
+and Pilgrimes, haue at sundry times both in
+Mappes and histories, described the same.
+By the aduantage of whose laboures therein,
+now of late one 
+Christien Adrichom,
+ hath per∣formed
+
+
+a most liuely description, and in the
+Latine tongue enriched with diuers antiquy∣ties.
+The profit that might come hereby to
+my countrimen of the vulgar sorte, both for
+the better vnderstanding of the story of the
+Bible, where 
+Jerusalem
+ and the partes there∣of
+are often times mentioned, and also for the
+ready conceauing of 
+Josephus his history,
+ mo∣ued
+me to translate it into the english tongue:
+And the book thus translated, with the charts
+expressed in naturall coloures, I haue presu∣med
+to dedicate vnto your honour. And bi∣cause
+the maister workeman in this new plat
+of ould decayed 
+Jerusalem,
+ hath left behind
+him sum rubbish and reliques of the Romish
+superstition, I haue in some measure purged
+and swept the stretes and corners of the same,
+with the broome of truth, and carying them
+out by the Scouregate haue layed them on
+the Leystall of obliuion. My paines herein ta∣ken,
+though not so great, as the laying of 
+Ieru¦salems
+
+foūdation, or the raising of a chief cor∣ner
+stone or the squaring & finishing any part
+of this exquisite plat: yet such it is, as euen in
+the meanest degree of a poore labourer, that
+doth but sweepe the streetes, I most humbly
+beseech your honor to accept as a small mite
+
+
+of my good will: The which I gladly offer, to
+the ende, that amidst the greate burdens of
+your most weighty affaires, your honour be∣houlding
+this most braue cittie, adorned with
+so glorious a temple, and contemplating the
+passion of our sauiour Christ therein, may be
+delighted and recreated: And further, that
+viewing this terrestriall cittie, whose glory is
+now vanished, may thinke still as the Apostle
+did say, 
+Non habemus hîc manentem ciuitatem,
+
+and so aspire to that heauenly 
+Jerusalem,
+ gar∣nished
+and full stored with all manner of de∣lights
+which abideth for euer: wherein 
+I
+ doo
+moste humbly and hartely wish your good
+Lordship a most happie residence, after you
+haue performed your most honorable course
+in this life, in the seruice of your
+country, the pleasure of your
+prince, the generall benefit
+and comfort of your
+own soule.
+
+
+Your Honors most dutifull
+to command,
+Tho: Tymme.
+
+
+
+
+
+
+
+
+
+
+The Preface.
+
+
+F
+Orsomuch, the truth of historie, is
+the foundation of faith, and of spi∣rituall
+vnderstanding, (Christian
+Reader,) and the history of things
+donne, blinde and imperfect, with∣out
+the knowledge of places, the
+which knowledge giueth muche
+light, both to the truth of history, and also to the spiritu∣all
+interpretation thereof: therefore I haue thought good
+to obserue two things with great diligence in this worke.
+First that I might portray and set forth the true and liue∣ly
+Image of 
+Ierusalem,
+ of all other citties the most glori∣us
+and famous throughout the whole world, whereof men∣tion
+is made in sacred and in prophane histories, as it flori∣shed
+in Christ his time; and also the forme of the temple,
+(the fame whereof hath beene extolled aboue the heauens,
+and was worthy of eternall memory) by the sacred Scrip∣tures,
+by approued writers, and by auncient tradition of
+faithfull and trusty men, in a liuely plot, or map, most e∣quisitly
+drawn, together with the names, originalls, situ∣ations,
+and formes of euery place, and the most worthy hi∣stories
+concerning the same, with all breuity. Secondly,
+that I might rightly dispose the places of Christ his passi∣on,
+and represent euery thing which he suffered in euery
+place, euen as if they were now donne before our eies: and
+so represented that I might, explaine it with plainenesse
+and breuity. For hereby, all those thinges which he suf∣fered
+for our sakes, wilbe both more plainely vnderstood,
+and also more profitably remembred. But per aduenture
+there wilbe some which will mislike this our endeuour,
+and the rather bicause we haue many thinges by tradition
+of elders: to whom I answere out of Saint 
+Hierom
+ where
+
+
+he saith, 
+That ecclesiasticall traditions, which are no
+hinderance to faith, are so to be kept, as they were de∣liuered
+by the auncients.
+ In the meane time I will not
+say, that they are too rash & too too wicked, which wil de∣ny
+that thing,
+ which hath beene godly receiued at al times
+and of all men.
+ So many of vs therefore as washed with
+the bloud of Christ, do beare his name and are called Chri∣stians,
+if our faith be aunswering to our name, and our life
+not disagreeing from the truth, hoping to be saued by the
+merits & grace of Christ our sauiour, let vs beleeue that,
+which incorrupt and reuerend antiquity hath left, let vs
+in no wise depart from those thinges which our auncestors
+haue celebrated without superstition, and which by the
+consent of the whole worlde, are come euen from them to
+our hands, and with thankful godlines, and godly thankful∣nesse,
+let vs call to minde those places oftentimes, which
+may put vs in rememberance of the passion of Christe: to
+which places this mappe will leade vs, as it were by the
+hande: and with the eies of faith and of our minde let vs
+looke vpon the same sonne of God, and inwardly behoulde
+him, who being vrged with the great loue of our saluati∣on,
+hauing finished his laste supper in the parlour of Sion
+and being come into the Garden of Oliuet, prayed and
+swet bloud, through the anguish and greuous considerati∣on
+of the Imminent afflictions. Immediately hee was be∣trayed
+by the most wicked Iudas; he was taken, bounde,
+and thrust forward by the Iewes, euen as a lambe by the
+woolues, most cruelly amidst the noise of clamors and wea∣pons,
+and then was ledde to the house of 
+Anna
+ the high
+priest: There hee was stricken: From thence hee was
+drawne to the pallace of 
+Caiphas:
+ in the same, hee was
+falsely accused, condemned, spyt vpon, blindfolded, buffe∣ted
+with fistes, and sundry waies all the night scorned and
+afflicted. In the morning he was violently caried through
+the midst of the cittie to the house of 
+Pilate.
+ From thence
+
+
+he was led to the pallace of 
+Herod
+ and accufed againe, de∣spised
+of him, mocked, & apparrelled like a foole in a white
+garment, & brought back again by another way of the city
+to 
+Pilate.
+ There again he was accused of many faultes, strip¦ped,
+and greuously whipped, cloathed with purple, crowned
+with thornes, dyuersly derided, spitted vppon, buffetted
+with fistes and stricken with a reede▪ and being thus mis∣used,
+was made a gazeing stocke to the people and adiud∣ged
+to death. Then he was loden with a heauie crosse, and
+in the sight of all the people, with greeuous and bloudy steps
+hee was drawen, punched: and vrged by the furiouse vi∣olence
+of the soldiers, through a great parte of the cittie,
+and by the gate of Iudgement out of the cittie, by a harde
+and stoany way, euen vnto mount, 
+Caluarie.
+ And being
+come thither he was stripped againe, and being both faint
+and weary, was refreshed with gaule in stede of drink: and
+about high noone he was fastened to the crosse, & so lifted
+vpon high. And hanging on the crosse by the space of three
+howers, was derided with taunts & reproachfull woordes:
+being thirstie, they gaue him vineger to drinke. Finally
+he which could saue the world with one drop of his bloude
+would needes bestowe vppon vs by the fiue Riuers of his
+woundes, his life, with all his bloude. A figure hereof
+was that brasen serpent,
+ which moses caused to be exalted
+in the wildernes. To this spectacle also our heauenly fa∣ther
+calleth euery faithfull soule, 
+Come forth
+ (saith he)
+
+ye daughters of Sion, and see king Salomon,
+ Naye one
+farre greater then 
+Salomon.
+ In like manner Christ han∣ging
+on the crosse crieth out 
+O all ye which passe by the
+way, behould and see, if there be any sorrow & greefe
+like myne.
+
+
+And not onely to the consideration and meditation of
+these things, but also to the Imitation, God in the holy
+Scripture exhorteth vs in these woordes (spiritually in∣terpreted)
+saying, 
+Looke, & make all thinges according
+
+
+to the example or fashion which was shewed thee in
+the mount.
+ For all the precepts of life, which our sauiour
+taught all the time of his preaching,
+ as well by word as by
+example, the same he expressed in himselfe in one day of
+his passion: Wherefore if we would follow Christ, not onely
+in woorde but also in woorke, we may, by his liuely crucifi∣ed
+Image on mount Caluarie, as it were out of a goulden
+booke intituled with the noble title of three most principal
+languages, written with the quils of the speare, of the nails
+of the thornes, and of the whippes, in the most pure parch∣ment
+of the Immaculat lambe, and with the purple bloude
+of the same, both learned and vnlearned, learne easely &
+breifly, perfect theologie, the most wholesome remedies of
+Phisicke, the full knowledge of Lawe and of Iustice, the
+science of liberall artes, of true humilitie, of obedience, of
+pietie, of charitie, of patience, finally of all manner of ver∣tues,
+and of thinges most perfect: and may also bee inflamed
+and drawen to loue and to follow Christ. Thus the blessed
+virgin, standing nere to the crosse of Christ, did not onely
+with bodely eies, but also in hart, through faith (which wa∣uered
+not in her) behould the woundes of her sonne and se∣riously
+thinking thereon, was so comforted, that now, as
+
+Ambrose
+ saith she was prepared also to die for the good
+of mankind.
+ So saint Ihon both seing the side of Christ o∣pened
+with a speare,
+ bloude with water comming foorth of
+the same, and also giuing testimonie thereunto, did by the
+meditation thereof so greatly profite, that at the last he be∣came
+a most perfect diuine, and a soaring Eagle to behoulde
+the most holy Trinitie.
+ So the Theefe, when he sawe and
+hearde Christ Iesus crucified,
+ in continently tourned vnto
+Christ, and confessing him, he made the punishment of mur¦der
+martiredome, and chaunged the crosse for Paradice.
+So also the 
+Centurion
+ by this spectacle,
+ receaued so great
+strength of faith, that vnder the crosse he was made a fa∣mous
+
+
+confessor of Christ, and further (as 
+Chrysostome
+
+saith) was afterwarde crowned with 
+Martyredome.
+
+Moreouer 
+Thomas
+ behoulding & touching the wounds
+of Christ crucified, was so illumined with faith, that hee
+plainly and openly professed Christ, to be both his Lord and
+his God.
+
+
+This beeing so, and loue procuring loue, euen as the
+loadstone draweth Ironne: who is hee, I pray you, whome
+so vehement loue of Christ, nay rather a heate and flame
+will not affecte, kindell, and sette on fier? Who is he when
+at the death of Christ all creatures do suffer with him, the
+Sunne darkened, the vaile of the Temple rent in sonder,
+the earth quaking, Rockes breaking, graues opening, and
+the deade arising, who and what is hee (I say) that will
+not woonder, and that will not be abasshed? Onely Adams
+children, for whose cause he died are not moued with this
+so great a benefite.
+
+
+The Adamente, that most harde stoane, is mollified
+with the bloude of a goate: Iron with the heate of fier is
+made softe:
+ but the hartes of Christians more harde then
+Adamant or Iron, are not mollified with the bloude and
+fier of Christ▪ but do crucifie a fresh vnto themselues the
+sonne of God, and do tread vnder their feete the bloude of
+the testament.
+
+
+What I pray you can be more beseeming, more meete,
+more Iuste, and more profitable for vs, then to loue againe
+him that so loueth vs, and Imitate him whome wee loue?
+For if any thing herein seme harde, if any thing greuous,
+that thing, loue, the sweete yoke of the Lord, maketh light
+and easie, for all labor is light, to him that loueth, accor∣ding
+to that notable sentence of that auntiente father
+saint 
+Gregory, Nihil adeo graue est quod non aequani∣miter
+toleretur, si Chrsti passio, ad memoriam reduca
+tur.
+ There is nothing so heauy & burthensome but the same
+
+
+is willingly borne, if so be the passion of Christ be remem∣bered.
+
+
+For we will indure all thinges with patience as light
+and easie, if we call to mynde what hard wordes, harder
+stripes, and most harde paines and afflictions, he suffered
+for vs, whose heade was crowned with thornes, his eyes
+blinde foulded, his eares filled with reproaches, his mouth
+with gaule and vineger, his face polluted with spitting,
+his cheekes brused with buffetting, his kneese shaking, his
+shoulders laden with the crosse, his hart replenished with
+sorrow his bodie torne with whippes, his members racked,
+his handes and feete bored,
+ to be breefe from the crowne of
+the heade to the soales of the foot, he sustained an Innume∣rable
+sort of woundes and sorrowes. Wherefore as the wa∣ters
+
+Mara,
+ being sometimes bitter, were made swete by
+
+Moses,
+ at what time he cast wood into them: euen so all
+our tribulation, if we patiently indure the crosse of Christ,
+will waxe sweete, and the gaule thereof will: tourne into
+honny. For by the meditations of these afflictions of our sa∣uiour,
+faith is illumined, hope strengthened, charitie infla∣med,
+and all vertue increased. Wherefore saint Augustine
+a light of the Church, no lesse truly then godly, prouoking
+vs by very forceable woordes therevnto: saith thus, 
+Be∣hould
+the woundes of him that hangeth, the bloud of
+him that dieth,
+ 
+the price of the redemer, the scarres of
+him that ryseth: His heade boweth to kisse thee, his
+hart is opened to loue thee, his armes stretched abroad
+to imbrace thee, his whole bodie set forth to redeeme
+thee. Consider what and how greate 
+hese thinges be,
+waigh them in the ballance of your heartes, that hee
+may be wholy fastened in your hartes, who for vs was
+wholy fastened on the crosse.
+ Thus far 
+Augustine.
+ So
+that it is not enough to meditate of these thinges once: but
+it is profitable to thinke vpon them often: yea the oftener,
+the more they auaile and profite. In the wholesome con∣templation
+
+
+of whose passion, although we profite much, yet
+we shall neuer attaine to the perfite knowledge thereof,
+but there will remaine still somewhat that we may seeke
+for, the full knowledge wherof is reserued to our heauenly
+countrey. In the meane tyme, let vs contemplate in these
+thinges day and night, in these things let vs recreate and
+busie our selues. In these let vs watch, in these let vs sleep,
+yea to die in the meditation of these things, is most Christi∣an,
+and auaileable to euerlasting saluation.
+
+
+
+
+
+Places of holy Scripture to the
+praise of IERVSALEM.
+
+
+
+
+Lamenta. II.
+
+
+Is this the citty of perfit bewty, the ioye of the whole
+earth.
+
+
+
+
+Ezech. V.
+
+
+This is IERVSALEM, I haue set it in the mid∣dest
+of the nations & countries, y
+t
+ are round about her.
+
+
+
+
+II. Cron. VII.
+
+
+I haue chosen this place for my selfe, to be a house
+of sacrifice.
+
+
+
+
+Isaias. II. Micheas. IIII.
+
+
+The Lawe shall go foorth of Sion, and the woorde
+of the Lord from IERVSALEM.
+
+
+
+
+Apocalips XXI.
+
+
+I sawe the holy Citiie, new IERVSALEM,
+come downe from God out of Heauen, prepared as a
+bride trimmed for her husband.
+
+
+
+
+Tobit. XIII.
+
+
+O IERVSALEM the holy Cittie, many nations,
+shall come from far to the name of the Lord God, with
+giftes in their hands, euen gyftes to y
+e
+ King of heauen:
+
+
+all generations shal praise thee, and giue signes of ioye.
+Cursed are all they which hate thee, but blessed are
+they for euer which loue thee. Reioyce and be glad for
+the children of the iust: for they shall be gathered and
+shall blesse the lord for the iust. Blessed are they which
+loue thee, for they shall reioyce in thy peace. Blessed
+are they which haue bene sorrowfull for all thy scour∣ges.
+For they shall reioyce for thee, when they shal see
+all thy glorie and shall reioyce for euer. Let my soule
+blesse God y
+e
+ great King. For IERVSALEM shall
+be built vp with Saphires & Emeraudes, and thy walls
+with pretious stoanes, and thy towers & thy bulwarkes
+with pure gould. And the streetes of IERVSALFM
+shalbe paued with Berall, and Carbuncle, and stoanes
+of Ophir. And all her streets shall say, Halleluiah, and
+they shall praise him saying, blessed bee God which
+hath extolled it for euer,
+
+
+
+
+
+
+
+
+
+
+
+Thomas Newton to the
+louing Reader.
+
+
+THat stately place, that princely bowre
+
+
+that seate of mightie King,
+
+
+That floure of Beniamin his tribe,
+
+
+whose fame through world did ring,
+
+
+Ennobled with such royall stiles,
+
+
+and titles of renowne,
+
+
+And ouer worldlie citties all
+
+
+most meete to weare the crowne;
+
+
+Loe, heere presented is to Viewe
+
+
+in such good currrant sort;
+
+
+As no penne heretofore perform'd
+
+
+or made thereof report.
+
+
+So that wee neede not now to runne
+
+
+or gad from place to place,
+
+
+In daungers great, through countreis staunge
+
+
+to trie or know this case.
+
+
+That braue estate which earst it had,
+
+
+is now (alas) defac'de.
+
+
+King dauids house, and temple now
+
+
+is quight and cleane disgrac'de.
+
+
+Yet sitting still with booke in hand
+
+
+we here may plaine beholde
+
+
+The state of ech thing as it was,
+
+
+in times that were of old.
+
+
+Where Christ did preach, where Christ did suppe,
+
+
+where Christ did fast and pray,
+
+
+Where Christ was caught, where christ was whipt,
+
+
+where theeues did him betraye:
+
+
+Where he a precious raunsome paid
+
+
+for man who had offended;
+
+
+Where he was buried; where he rose,
+
+
+and eke where he ascended.
+
+
+
+Where 
+Annas
+ kept his pompous court,
+
+
+where 
+Caiphas
+ palace stoode;
+
+
+Where wicked 
+Pilate
+ dwelt, that did
+
+
+condemne most guiltles blood.
+
+
+This and much more is here discourst
+
+
+by him that both had read
+
+
+And seene with eye, full thirtie yeeres,
+
+
+where hee his life had lead.
+
+
+Whose worke and paines as they deserue
+
+
+much thankes and hartie praise.
+
+
+So Timme his guerdon well deserues
+
+
+of all men in these daies.
+
+
+Aswell for heere acquainting vs
+
+
+with this rare worke of skill,
+
+
+As also for his other paines
+
+
+that passed haue his quill.
+
+
+Who like a candle wastes himselfe
+
+
+in giuing light to others?
+
+
+Moe such God graunt to take like care,
+
+
+to helpe their Christian brothers.
+
+
+Thomas Newton.
+
+
+
+
+
+
+
+
+
+
+
+
+❧ A BRIEFE
+DESCRIPTION
+OF IERVSALEM AND
+THE SVBVRBES THERE∣OF
+AS IT FLORISHED IN
+THE TIME OF CHRIST.
+
+
+
+
+1 
+I
+Erusalem
+
+ 
+the elect Cittie of God,
+
+holy and most glorious, built vpon
+the holy mountaines, excelling all
+the citties of the world, as well by
+the loftinesse of the seate, as by the
+moderation and temperature of
+the heauens,
+ and fruitfulnesse of
+soile, was situated in the midest of the whole worlde,
+and of 
+Iudaea,
+ as it were in the very center and heart
+of the earth.
+ And being as a Queene amongest
+all other neighbour citties,
+ had the preheminence
+as the head ouer the body,
+ and shined as the sunne a∣boue
+others in sumptuousnes and glorious buildings:
+hauing such surpassing excellency,
+ she was by a cer∣taine
+singular priuiledge in time past, the onely place
+which God had chosen to himselfe: and was a figure
+not only of euery faithfull mans soule, but also of the
+
+
+elect Church of Christ militant vppon earth,
+ and of
+that blessed triumphant Church in heauen.
+ A cittie
+of perfect beautie:
+ the virgin of the worlde, the para∣gon
+of all the Easte, and the ioye and reioycing of the
+whole earth.
+
+
+This cittie was builded about the yeare from the
+creation of the world,
+ two thousand twenty and three,
+in the time of 
+Abraham,
+ by 
+Melchisedech
+ the Kinge.
+In hebrue it was called SALEM; and in Greeke SO∣LYMA:
+and it seemeth that hee possessed the same
+fiftie yeares.
+ The which afterwards the 
+Iebusites
+ en∣ioyed,
+
+who sprang from 
+Iebusi,
+ the sonne of 
+Chanaan:
+
+of whome it was called for a time 
+Iebus,
+ and 
+Iebusaeum
+
+at what time 
+Iosua
+ slue the King thereof.
+ And the 
+Ie∣busites
+
+helde the same,
+ eighte hundred and twentie
+foure yeares,
+ who trusted so much to the strength of
+their cittie,
+ that when king Dauid assailed the same;
+in contempt of him and of his army they placed vp∣on
+their walles, the blind, the halt, and the maimed,
+saying that these were sufficient to beate backe the e∣nemy.
+
+
+But when Dauid through Gods helpe enioyed the
+cittie,
+ the 
+Iebusites
+ being expulsed, hee reedified the
+same rounde, fortified it with a castle, dwelt therein,
+and made it the 
+Metropolitan
+ cittie of the whole pro∣uince
+of 
+Iudaea,
+ and the heade of all the kingdome,
+and from thence foorth called it 
+Ierusalem,
+ as it were
+
+Iebussalem
+ the letter b. (to make the better sounde)
+tourned into r. Notwithstanding there are some
+which write, that it is called 
+Ierusalem,
+ of the mag∣nificent
+temple which Salomon builte therein, as it
+were 
+Hieron Salomonis.
+ For the Greekes call a temple
+
+.
+ In continuance of time Salomon and other
+kings of 
+Iudaea
+ greatly enlarged the same, and so for∣tified
+it with most strong gates, towers, walles, and
+
+
+trenches, and so adorned it with a temple, with pal∣laces,
+and with most exquisite buildings, that among
+other citties it was a miracle of the whole world, and
+is therefore more honoured with silence, then with
+all that can be said concerning the same.
+
+
+In this glory and excellency,
+ 
+Ierusalem
+ florished
+foure hundred seuenty and seuen yeares, as if it had
+beene an earthly paradise,
+ being in compasse round
+about, sixe miles and two hundred and fifty paces.
+And by the wall and circuit of the cittie, there was a
+stony trench or vaulte threescore foote deepe, and in
+bredth two hundred and fiftie, wherein was abiding,
+about one hundreth and fiftie thousand men.
+ But
+when the wickednesse of the Princes and people not
+only had profaned the temple with the abhominati∣ons
+of Idols,
+ but also had filled the cittie euen to the
+full with innocent bloud most cruelly shed, the cittie
+together with the temple, Princes, and people by the
+iust vengeance of God,
+ was by 
+Nabuchodonoser
+ kinge
+of 
+Babilon
+ (but Gods whip) so vtterly ouerthrowne,
+
+and desolated threescore and ten yeares, that 
+Sion
+
+was plowed vp like a field, and 
+Ierusalem
+ was become
+as a heape of stones,
+ and the mountaine of the tem∣ple,
+as it were the height and top of woods, so as in
+the meane time (as 
+Hierom
+ witnesseth) that neither so
+much as a bird,
+ nor a beast, could flie, or passe through
+the same.
+
+
+Afterwards the temple only being with much a do
+and very hardly builded, wanting gates, towers, and
+walles, was inhabited againe by the Iewes (retourning
+out of the captiuity of 
+Babilon
+) threescore yeares.
+
+
+Moreouer within the space of two and fitie dayes,
+
+Nehemia
+ inclosed it in compas three miles and seuen
+hundred and fity paces,
+ with gates, towers & a strong
+wall:
+ and afterward, the same being bewtified by the
+
+
+
+Machabees,
+ by 
+Herod,
+ and by others very stately, with
+publique and priuate buildings,
+ recouered the former
+dignity,
+ being very famous and populous by the space
+of fiue hundred and foure and twentie yeares:
+ hauing
+in it many narrow streetes,
+ by reason of the exceeding
+nomber of houses therein.
+ At what time there,
+ as in
+a Theater,
+ Iesus Christ wrought our saluation: and
+from thence as from a center, the apostles spred forth
+the Euangelicall doctrine throughout the world.
+
+
+But 
+Titus
+ Emperour of Rome, being brought by
+the iust iudgement of God to take vengeance for the
+Death of Christ, the thirtie and eight yeare after his
+passion, besieged it round, casting a banke about it, &
+shut vppe the Iewes in the Cittie as in a prison, which
+came out of euerie Tribe to cellebrate the feast of pas∣ouer
+there. Wherevpon that Cittie, the woonder of
+the world, was made a denne of theeues, and a sepul∣cher
+of dead men. For by reason of ciuill murders,
+famine, pestilence, and sword, there perished in the
+same, eleuen hundred thousand Iewes. And as for the
+Citty it selfe, 
+Titus
+ did so vtterlie subuert it, that men
+which came vnto it, would scarse beleeue that euer it
+had beene inhabited. Neuerthelesse, hee left three
+principall 
+Herodian
+ Towers, that is to say 
+Hippic, Ma∣riam,
+
+and 
+Phasel,
+ which were more notable than the
+rest, aswell for greatnesse as for beawtie, and that part
+of the Citties wall,
+ which compassed them from the
+West, vnshaken; to the ende, that both it might bee a
+Castell for the Romane souldiers which should be left
+there for a Garrison, and also to shewe vnto posteritie
+what manner of Cittie,
+ & how well fortified, the force
+of the Romans had subdued.
+ But after threescore and
+fiue yeares, the Iewes rebelling againe, 
+A Elius Adri∣anus
+
+the Emperour slue many thousands of them, and
+vtterly subuerted those Towers with the remainder of
+
+
+the wall,
+ and commaunded the Cittie to bee strewed
+with salt: whereby it came to passe according to the
+prophesie of Christ, that there was not left one stone
+of the Cittie vpon a stone. And building the Cittie a∣gaine
+in lesse compasse,
+ hee excluded mount 
+Sion,
+
+with the pallace of 
+Salomon,
+ and that of the Queene,
+and the house of the forrest of 
+Libanus,
+ also the gate
+of the North corner,
+ and the tents of the 
+Assyrians,
+
+and all the north parte, euen to the dounge gate and
+to the gate of 
+Ephraim:
+ but the mount of 
+Caluary,
+ and
+the sepulcher of the Lord, which were aforetime with¦out
+the walles, hee inclosed with the North walles of
+the cittie; and set the picture of a sow cut in Marble
+vpon the forefrunt of that gate, by which men go to
+
+Bethleem,
+ thereby giuing to vnderstande, that the
+Iewes subiect to that law of swines flesh, were vnder
+the power of the Romaines: whom by an 
+Edict
+ he for∣bad
+neuer more to enter into that cittie,
+ or looke into
+the same from the top of any higher place, and from
+thenceforth commanded it to be called 
+AEliam Ca∣pitoliam,
+
+after his owne name.
+ But after this, being
+inhabited of the Christians, and dignified with a 
+Pa∣triarchall
+
+seate, receiuing againe in continuance of
+time the name of 
+Ierusalem,
+ florished fiue hundred
+yeares in Christian religion,
+
+
+And in the yeare after the birth of Christ sixe hun∣dred
+thirty and six,
+ it was taken by the 
+Saracens
+ which
+raigned in Egipt, and so possessed foure hundred three
+score and three yeares.
+
+
+After this in the yeare of Christ,
+ 1099 the cittie
+
+Ierusalem
+ was recouered by the Christians hauing for
+their Captaine, 
+Godfrey
+ of 
+Bullion,
+ who was the firste
+that entred vpon the wall of the cittie with great cou∣rage
+and most fierce assalt, the 
+Ides
+ of 
+Iuly,
+ the very
+same day and houre, wherein Christ died: And so
+
+
+greate slaughter was made, throughout al the streetes,
+lanes,
+ and corners of the cittie, that no man coulde
+passe but ouer the deade bodies of the slaine: and so
+exceeding was the effusion of bloud, that men went
+ouer their shooes in the bloud of the dead:
+ insomuch
+that the conquerers themselues were from the sole of
+the foote to the crowne of the heade imbrued with
+bloud. Who when they enioyed the cittie, putting
+off their armour, and clensing themselues from their
+bloud, visited the places of Christs passion, resurrecti∣on,
+and ascension (which the faithful that dwelt in 
+Ie∣rusalem
+
+shewed vnto them) and beheld them with re∣uerence.
+The eight day after with one conssent they
+elected Duke Godfrey, and created him the king of 
+Ie∣rusalem.
+
+But the man being full of Godlinesse and hu∣mility,
+would not be crowned with a crowne of gold
+after the manner of Kinges, in the holy cittye, but
+contented himselfe and reuerenced the like crowne
+of thornes, with the which the emperour of mankind
+was crowned in the same place, when he went to be
+crucified for our saluation.
+
+
+Ierusalem
+ therefore being recouered by the Chri∣stians
+was so held and enioyed by them fourescore
+and eight yeares.
+ Afterward namely in the yeare,
+1187. the second day of october, the Christian prin∣ces
+(wo and alas) disagreing amonge themselues, 
+Ie∣rusalem
+
+was deliuered vp to 
+Saladine
+ the 
+Soldane
+ of
+Egypt,
+ vppon this condition that it should be lawfull
+for the Christians to departe with bag and baggage:
+the which 
+Saladine
+ held it three hundred and thirtie
+yeares.
+ But in the yeare of our Lord, 1517. it was in∣uaded
+by 
+Selimo
+ the emperour of turques, & is at this
+day in the same compasse of walles possessed by the
+Turkes:
+ who name it 
+Cusumobarech
+ or 
+Codsbarich,
+ that
+is to say, a holy cittie. So that from the first foundati∣on
+
+
+thereof vnto this present yeare one thousand, fiue
+hundred, ninety foure are passed three thousand, fiue
+hundred, thirtie and one yeares.
+
+
+
+
+
+
+THE FIRST PART OF THE CITTIE. THE PLACES VVITHIN THE CITTIE.
+
+
+
+
+2 
+M
+OVNT SION,
+
+
+which is called y
+e
+ mount
+of the Lorde, and the 
+Holy Mountaine,
+
+is much more higher then other moun∣taines
+and larger:
+ after the fashion of a
+Theater in the fourme of a halfe cir∣cle
+compassing the cittie on the south parte.
+ And
+being set as a looking glas on a high place,
+ founded by
+God vppon a firme rocke,
+ on euery side broken off,
+had a plainenes thereon like to a towne, and being ve∣ry
+pleasant and recreatiue, it represented the excel∣lencie
+and delights of heauen.
+ Whose top the 
+Iebu∣sites
+
+first of all fortified with a strong castle, and the
+compasse thereof with firme and loftie walles, with
+gates,
+ and with towers. Whome when Dauid the
+king had expulsed, he made the castle and the walles
+round about,
+ the gates and the towers, much more
+defensible,
+ and made the top and plainenesse of the
+hill into streetes and lanes, and builded there for him∣selfe,
+for his nobles and worthies, houses, and called it
+the cittie of Dauid: which now also 
+Iosephus
+ calleth
+the higher cittie, and the holy parte. The 
+Machabees
+
+reedifying the same mountaine in compasse,
+ made it
+most stronge with many walles,
+ and lofty towers, in
+such wise as notwithstanding any force, it was inuinci∣ble,
+only by famine it might be surprised: where were
+many straight and narrow passages, and many houses
+of cittizens placed.
+
+
+
+
+
+
+
+
+
+
+
+From this mountaine,
+ according to the foretelling
+of the prophets,
+ a law, and an euangelicall light came
+forth,
+ and as it were from the head it selfe, it was spred
+forth into the whole bodie of the world, for the sauing
+health of all nations.
+ The which when the Romanes
+by the iudgement and will of God, against all hope of
+man, and without bloudshed had taken (the seditious
+within the Citty beeing stricken with a sudden feare,
+and roaming heere and there from the wall, and hi∣ding
+themselues in their sinkes) being dispersed in all
+corners and streetes with their naked swordes, slue all
+that they met withall,
+ hauing no regard of persons or
+sex,
+ and set fire on the houses burning them and all
+those that were fled into them,
+ and destroying manie
+houses whereinto they entred for pillage sake,
+ where
+finding whole families dead (whome the famine had
+consumed) they so abhorred the sight thereof that
+they returned backe againe emptie,
+ running thorowe
+with their swordes all that they met,
+ and so filling the
+streetes with dead bodies, that the whole Citty flow∣ed
+with bloud in such aboundance, that (as 
+Iosephus
+
+witnesseth) many things burning, were quenched with
+the plentifull bloud of the slaine. But night comming
+on the slaughter began to cease, but the burning in∣creased.
+The next day following, 
+Titus
+ being ente∣red
+into the Citty woondered at the fortifications of
+the Cittie, and at the rockes of the towers, which the
+Tyrants through follie had willinglie forsaken. To be
+briefe, when hee had seene their substantiall altitude
+and inuincible force, we haue fought (saith he) by the
+manifest helpe of God, and it was God which draue
+out the Iewes from these holdes. For what hands of
+men, or what engines of warre might haue preuailed
+against these? Many such words spake he to his frends.
+This mountaine though it were excluded out of the
+
+
+cittie, yet afterward it was builded againe and inhabi∣ted.
+But now being in the Suburbs most ruinous, it
+lieth wast.
+
+
+
+
+
+
+
+
+THE PLACES OF MOVNT SION.
+
+
+
+
+3. THe Castell of 
+Sion
+
+
+being ancient and strong, was
+set on the verie toppe of mount 
+Sion,
+ round like a
+crown, and was a sure defence and beautie both of the
+Cittie and Temple,
+ and was as the capitall or chiefe
+place of so great a cittie.
+ Heerein the 
+Iebusites
+
+dwelte at the firste: whome Dauid casting out by
+force,
+ enioyed the castle, and receiuing from 
+Hiram
+
+king of 
+Tyrus,
+ stones, wood, and artificers, builded out
+of the same a strong pallace for himselfe,
+ and a house
+of Cedar with a kingly throne. In the which castle
+afterward, Dauid himselfe and other kings of Iuda in∣habited,
+and vsed the same for the kinges seat. And
+for this cause it was continually kept with a straight
+garde of souldiors.
+ And in processe of time it was cal∣led
+the kings castle,
+ and the house of Dauid, the seate
+and throne of Dauid,
+ also the Court and kings house.
+In this castle the most cruell of all tyrantes 
+Antiochus
+
+king of 
+Syria,
+ which in Greeke was called 
+,
+
+that is to say 
+Renoumed,
+ (but more truly 
+, that
+is 
+Mad,
+ he deserued to be called) placed a garrison of
+Gentiles: whereby in the time of the 
+Machabes
+ hee
+afflicted the Iewes very much a long time. The which
+when 
+Simon Machabaeus
+ had inforced to yeeld thrugh
+famine, and had cleansed the castle from the pollusi∣on
+of Idols, they entered therinto with palmes in their
+
+
+hands with Cimbals, with psalterions, with hymnes
+and songes: and he placed therein men of the Iewes
+to defend the Cittie and countrey, yet nowe there is
+nothing to be seene but the ruines thereof.
+
+
+
+
+
+
+4. THE KINGS PRISON
+
+
+with a lofty Tower,
+ which
+ouerlooked the kings house.
+ Into this prison Iere∣mie
+was cast, because hee prophesied that the Cittie
+should be taken: and at the last was deliuered out of
+the same by 
+Nabuchadonezer,
+ when the Cittie was
+taken.
+
+
+
+
+
+
+5. 
+CAESARS
+ and 
+AGRIPPAS
+ hall,
+
+
+ was the kings
+house, which 
+Herod
+ the 
+Ascalonite
+ builded for
+himselfe in the vppermost cittie: for he builded in his
+pallace two great and faire houses of polished marble
+and fine gold, wherevnto the Temple it selfe was not
+comparable, and calling them after the names of 
+Cae∣sar
+Augustus,
+ and of 
+Agrippa
+ his sonne in law, his
+friends, he named the one 
+CAESARS,
+ and the other
+
+AGRIPPAS.
+
+
+
+
+
+
+6. THE PARLOVR OF 
+SION
+
+
+was scituate about
+the middest of mount 
+Sion,
+ being large, paued,
+ and
+verie faire:
+ wherein Christ in his last supper did eate
+the paschall Lambe with his disciples,
+ washed their
+feete, and instituted the sacrament of his most blessed
+body and bloud.
+ In the fame, on the day of his resur∣rection
+(when he was entered,
+ the dores being shut)
+standing in the middest of his disciples, he shewed vn∣to
+them the wounds of his side, of his hands and feete,
+
+
+and did eate before them: after that, breathing vpon
+them,
+ he gaue them the holy ghost, and therewithall
+power to remit, and reteine the sinnes of all manner
+persons. The eight day after this, here he offered vn∣to
+
+Thomas
+ the Apostle the prints and scarres of the
+speare and nailes to see and feele.
+ Here, after the Lords
+ascension,
+ 
+Matthias
+ was by lot chosen into the Apo∣stleship
+of 
+Iudas
+ the traitour. Here on the day of Pen∣tecost,
+the holy Ghost came downe in a great sounde,
+and in the forme of fierie toonges, lighted vppon one
+hundred and twenty beleeuers: and at the first sermon
+of Peter, three thousand Iewes were conuerted and
+baptized. In this place 
+Iames
+ the Lordes brother sir∣named
+
+Iust,
+ was by the Apostles created the first Bi∣shop
+of Ierusalem: and 
+Stephen
+ with six more, were
+ordained Deacons. Heere the Apostles entered into
+the first consultation, or councell, and set downe the
+twelue Articles of Christian faith.
+
+
+
+
+
+
+7. THE CYPRES trees of Mount 
+Sion,
+
+
+ which were
+very excellent, whereof the booke called 
+Ecclesi∣asticus
+
+maketh mention.
+
+
+
+
+
+
+8. THE HOVSE OF 
+Annas,
+
+
+ the chiefe priest, the
+father in law of 
+Caiaphas,
+ wherein Christ was ex∣amined
+of 
+Annas
+ concerning his Disciples and his
+doctrine, at what time he aunswered that he had
+taught openly before all men, for the which
+he receiued a blow on the cheek
+by a seruant.
+
+
+
+
+
+
+
+
+9. THE HOVSE OF THE WOORTHIES,
+
+
+wherin
+the strong men, and valiant peeres of king Dauid
+dwelt:
+ where also as in a wrestling place, the cheefe
+wrestlers and champions, for exercise sake, vsed to try
+maisteries.
+
+
+
+
+
+
+10. THE HOVSE OF THE VIRGIN MARY,
+
+
+ wher∣in
+after the death of her sonne she dwelt with Iohn
+the Apostle.
+
+
+
+
+
+
+11. THE HOVSE OF VRIA,
+
+
+ one of the most valiant
+souldiors of Dauid, whose wife 
+Bethsabe,
+ bathing
+her selfe in a fountaine of her Garden (which also is
+to be seene in the map) by her beautie allured Dauid
+to adultery, beholding her from a gallerie of y
+e
+ kinges
+house.
+
+
+
+
+
+
+12. THE VPPER MARKET,
+
+
+ by reason whereof, the
+vpper cittie also, was called sometimes the vpper
+market.
+
+
+
+
+
+
+13. THE STAIRES OF THE CASTLE,
+
+
+ or prison,
+whereon the Apostle Paule stood, when hee made
+aunswer for himselfe.
+
+
+
+
+
+
+14. THE STAIRES OF SION
+
+
+,
+ by which men went
+vppe to the cittie of Dauid.
+
+
+
+
+
+
+
+
+15 THE KINGES GARDEN,
+
+
+ the which also was
+called the garden of Oza,
+ wherin 
+Manasses
+ and 
+A∣mon
+
+kinges of Iuda were buried.
+
+
+
+
+
+
+16 MELLO,
+
+
+a valley or dale, very deepe and wide,
+which lay betwene mount 
+Sion
+ and the lower
+citty,
+ and extended it selfe from the water gate to the
+fish gate.
+ Dauid builded and compassed mount 
+Sion
+
+round about from this valley:
+ the concauity and bot∣tome
+whereof Salomon did make leuell and plaine,
+
+that it mighte bee a conuenient streete:
+ and from
+thence forth it was called the streete of the water gate.
+
+He also bewtified the same with buildings,
+ which be∣ing
+decaied, was repaired by Ezechias. In this place
+it was that 
+Ioas
+ king of Iuda was slaine by his seruants
+in the way downe to 
+Sela.
+ But in 
+Iosephus
+ time, this
+valley was called 
+Tyropoeon,
+ and was very large and
+full of dwelling houses.
+ At this day this valley is so
+filled vp with earth and stones, that there remaineth
+only a small shew of the former concauity & depenes.
+
+
+
+
+
+
+17 THE PALLACE OF CAIPHAS;
+
+
+belonging
+to euery high prieste, large and square: wherein
+somtime dwelled 
+Eliasib
+ the cheef priest.
+ In this pal∣lace
+the princes of the people being gathered toge∣ther,
+
+consulted among themselues what pollicy they
+might vse to catch Iesus,
+ and to kill him:
+ to whome
+he was there soulde by 
+Iudas
+ for thirty peeces of sil∣uer.
+
+Afterwards also he was thrise denyed by 
+Peter:
+
+and was by false witnesses of the Iewes, accused before
+
+Caiphas
+ in the counsell of the priestes and elders, to
+
+
+whom when hee answered nothing beeing straightly
+charged by the high priest, to tell whether hee were
+Christ the sonne of God, the which when he confes∣sed,
+hee was conuinced as it were of blasphemy, the
+cheefe priest calling for the sentence of the counsell,
+threescore and six elders condemned him to be wor∣thy
+of death, and aunswering said, 
+He is worthy to die.
+
+Wherevpon the seruants and souldiors, did presently
+spit in his face, they blinde-folded him, buffeted him
+with their fistes, commaunding him to prophesie,
+scorned him all the night with sundry mockes, and
+vexed him with many blasphemies, and that I may
+speake much in few words, no mortall man in this life
+is able to expresse, what and how much hee endured
+this night. And in the morning following, the rulers
+of the Iewes assembled together in this place againe,
+to deliuer him vp to death: and leading him bounde,
+they deliuered him to 
+Pilate
+ the deputie.
+
+
+
+
+
+
+18. THE FOVNTAINE OF SION,
+
+
+the which was
+made with great labour and cost.
+
+
+
+
+
+
+19. THE BRIDGE OF SION,
+
+
+ by which men went
+through the valley out of the vpper cittie vnto the
+Temple.
+
+
+
+
+
+
+20. THE GATES OF SION,
+
+
+ which the Lord loueth
+more than all the Tabernacles of Iacob.
+
+
+
+
+
+
+21. THE VPPER GATE,
+
+
+ by which 
+Ioas
+ when he was
+crowned king of Iuda in the Temple, and guarded
+
+
+with the princes of the Iewes, was led into the pallace
+of the kings of 
+Iuda.
+
+
+
+
+
+
+22. THE SEPVLCHER OF DAVID,
+
+
+ together with
+the field wherin the kings were buried,
+ the which
+verie stately was placed aloft in the citty of Dauid:
+
+wherein Dauid himselfe,
+ 
+Salomon,
+ and other kings of
+Iuda, also 
+Ioyada
+ the chiefe priest were buried. Into
+this monument of Dauids sepulture,
+ 
+Salomon
+ brought
+great treasure at his burial. The which 
+Hircanus
+ y
+e
+ high
+priest & captain opening, brought from thence 3000.
+talents of siluer.
+ Not long after this, 
+Herod
+ the 
+Ascalo∣nit
+
+king of Iewes,
+ went about also to bring much trea∣sure
+out from thence,
+ but a flame of fire breaking forth
+and consuming two of his souldiors, he left off his en∣terprise,
+
+and to make satisfaction for himselfe, hee a∣dorned
+the same monument with faire shining Mar∣ble,
+
+which continued there a long time after. Where y
+e
+
+
+Saracens
+ afterwarde builded a church for themselues
+which standeth as yet; which place they greatly reue∣rence,
+and suffer not any christiā to enter into y
+e
+ same.
+
+
+
+
+
+
+23. THE SEPVLCHER OF STEPHEN,
+
+
+ the first
+Martyr; of 
+Nichodemus,
+ and of 
+Gamaliel,
+ Paules
+schoolemaister.
+
+
+
+
+
+
+24. THE TABERNACLE OF SION,
+
+
+ couered
+with skinnes which king Dauid made,
+ and placed
+the same in the little hil of Mount Sion which is called
+
+Gabaon,
+ and with great reuerence he put the Arke of
+God therein,
+ and appointed priests and Leuites con∣tinuallie
+to Minister from day to day by turne, which
+
+
+remained there twenty and foure yeares,
+ vntill it was
+carried by 
+Salomon
+ into the temple. In the same, Da∣uid
+sorrowing for his adultery with 
+Bethsabe,
+ and mur∣der
+of 
+Vrias,
+ made certeine psalmes of repentance.
+
+
+
+
+
+
+25. THE KINGS PRESSES,
+
+
+ wherein the kings wine
+was pressed.
+
+
+
+
+
+
+
+
+THE SECOND PART OF
+THE CITTIE.
+
+
+26. 
+T
+HE DAVGHTER OF SION,
+
+
+ so
+called,
+ because it seemed to growe
+from mount 
+Sion,
+ the which was
+also called the lower citty, beeyng
+another part of the cittie, whereof
+there is often mention made in the
+holy scriptures and in 
+Iosephus.
+
+
+
+
+
+
+THE PLACES OF THE DAVGH∣TER
+OF SION.
+
+
+
+
+27. THE MOVNTAINE OF ACRA,
+
+
+ was some∣time
+in the lower cittie verie loftie and steepe, the
+heighth whereof afterward 
+Simon Machabaeus
+ abated
+and made plaine by the continuall labour of the peo∣ple,
+which he imployed heerein by the space of three
+yeares day and night, that the Temple alone might be
+higher then all other places of the cittie.
+
+
+
+
+
+
+
+
+28. THE AMPHITHEATER,
+
+
+ that is a place inuiro∣ned
+with scaffoldes and stages, capable of foure∣score
+thousand men, where the people were woont
+to behold their games, which 
+Herod
+ the elder first of
+all other builded in the field at Ierusalem with great la∣bour
+and cost. Wherein, to recreate the beholders,
+wrastlers and sword players, shewed many feates of
+actiuitie: and sometimes, Lyons, Leopardes, Bulles,
+Beares, Bores, Wolues, and other exceeding wilde
+and fierce beasts, fought one with another, and some∣time
+condemned men were cast vnto these to bee de∣uoured,
+and captiues taken in warre. At which time
+of their games, the place beneath was strowed with
+sand, to the end that neither the sword players should
+faile in their footing, nor the fighters might bee defi∣led
+with the bloud of the slain, nor yet that the sprink∣ling
+of the bloud shoulde bring horror to the lookers
+on.
+
+
+
+
+
+
+29. THE CASTLE ANTONIA,
+
+
+ strong and wel for∣tified,
+
+lying neere to the North side of the Temple,
+which was builded in time past on a high rocke fiftie
+cubits high,
+ and very steepe round about, and the to∣wer
+was called 
+Baris.
+ In this the chiefe priests which
+came of the 
+Machabees
+ euen till 
+Herods
+ time inhabi∣ted:
+where in a Cell made for that purpose, the sacred
+stole of the chiefe priest was kept, the gouernour of
+the Tower lighting a candle there euery day. 
+Herod
+
+the greater hauing gotten the kingdome, and seeing
+that this castle was conueniently scituat to command
+the Cittisens; that they might not seeke innouation
+
+
+through sedition, repaired the same to his greate cost,
+and fortified it within with a roiall pallace, euen like a
+cittie, and with fower loftie towers at each corner,
+whereof three were fiftye cubits hie, and the fourth
+threescore and ten, from whence the whole temple
+might be seene: and for the fauour which hee bare to
+
+Marcus Antonius
+ his frend, he called it ANTONIA
+In this castle the Romaine soldiors, kepte alwaies
+watch with their soldiors, hauing an eie and princi∣pall
+care least the people should worke any innoua∣tion
+in the Temple on the feast daies. And so the
+Temple belonged to the cittie, and the castle 
+Antonia
+
+to the temple.
+
+
+
+
+
+
+30. THE COVRTE OF RECORDES,
+
+
+which wee
+commonly call the courte of 
+Chauncery,
+ or of the
+
+Roules:
+ that is to say, a house wherein the act of the cit∣tie,
+and of the cittizens, and also their publike records,
+and the accoumpt of creditors were kepte:
+ the which
+the seditious burned, the keepers thereof flying from
+thence to the end they might destroy all the euidence
+of the creditors, and ioyne vnto them all the det∣ters.
+
+
+
+
+
+
+31. THE CASTLE OF ANTIOCHVS EPIPHA∣NIS,
+
+
+
+both high and strong, the which, after the
+slaughter of many cittizens,
+ the spoile of the cittye
+and temple,
+ and the burning of most faire houses, he
+builded vppon the mountaine 
+Acra,
+ and fortified it
+with stronge walles and towers, and placed a Garri∣son
+of 
+Macidonian
+ soldiers there mingling with them
+certaine of the most raschall fugitiue Iewes, by whom
+the continual sacrifice was taken away by the space of
+
+
+three yeares and the citty it selfe vexed more then six
+and twentie yeares. But after this 
+Simon Machabaeus
+
+wan and destroied this castle.
+
+
+
+
+
+
+32. THE COMMON PRISON OF THE CITTIE,
+
+
+
+wherein the Apostles being shut vppe,
+ by the rulers
+of the Iewes, were in the night time brought forth by
+the angell. 
+Iosephus
+ seemeth to cal this prison 
+Betiso.
+
+
+
+
+
+
+33 THE CORNER PARLOVR,
+
+
+ belonging to the
+corner house, where the publike suppers were kept.
+
+
+
+
+
+
+34. THE VAVLTED CAVE,
+
+
+leading from the castle
+
+Antonia
+ into the Temple,
+ which 
+Herod
+ the elder
+made, setting a tower thereon,
+ that by the same hee
+might passe priuilie into the temple,
+ if so bee the peo∣ple
+intended to make any insurrection against the K.
+the which remaineth as yet very wonderfull & large,
+insomuch that six hundred horses may verie conueni∣ently
+be placed therein.
+
+
+
+
+
+
+35 THE COVRT,
+
+
+ In Hebrew called 
+Gasith.
+ Which
+in the inner cittie was ioyned to an olde wal there∣of.
+
+Wherein were three score and tenne Senatours
+and ordinary Iudges,
+ which were called of the Iewes
+
+Sanhedrim,
+ in Greeke 
+Synedrium,
+ that is to saye in
+English,
+ The counsell of the Elders, and 
+Seniors
+ of
+the people.
+ These dealt in the affaires of the com∣mon
+wealth, gaue Lawes, and determined the doubt∣full
+and weightie causes, yea euen of other Citties
+
+
+also, they ended strifes and controuersies, and gaue
+the sentence of death,
+ generally they dealt in all capi∣tall
+causes, except onely in the difficulties and miste∣ries
+of Gods Lawe and of the Iewes Religion, the
+which the priestes onely determined. In this consi∣storie
+the Apostles were examined,
+ whipped, and
+forbidden to preach, and yet went reioysing from the
+Councell, because they were counted worthy to suf∣fer
+shame for the name of Iesus.
+ Heere it was that
+Saint 
+Stephen
+ standing before the Councell, and his
+countenance shining like an Aungell, lifting vppe
+his eies, sawe the Heauens open, and the glorie of
+God, and Iesus standing at the right hande of GOD,
+from thence hee being cast with violence out of the
+Citty, was stoned.
+
+
+
+
+
+
+36 THE HOVSE OF ANANIAS THE HIGH PRIEST,
+
+
+ which the seditious at y
+e
+ length fiered.
+
+
+
+
+
+
+37. THE HOVSE OF SAINT ANNE,
+
+
+ the Gran∣dame
+of Christ,
+ wherein she with 
+Ioacim
+ her hus∣band
+abode when the feast was at Ierusalem, where
+they both died.
+ Heere the blessed virgine Mary was
+conceiued (as some coniecture) and aboad there du∣ring
+the passion of Christ.
+
+
+
+
+
+
+38 THE HOVSE OF THE RICH GLVTTON,
+
+
+
+which burneth in hel according to the Euangeli∣call
+storie.
+ In the which house that he dwelt,
+ it is re∣ported
+by some antiquities,
+ a high wall whereof is
+shewed at this day to Christian trauellers.
+
+
+
+
+
+
+
+
+39. THE HOVSE OF MISSA,
+
+
+ whereof mencion
+is made in the fourth booke of Kings.
+
+
+
+
+
+
+40 THE HOVSE OF THE NATHINAEANS,
+
+
+
+which carried wood and water into the Temple.
+
+
+
+
+
+
+41. THE HOVSE OF THE PRINCE OF THE PHARISEIES,
+
+
+ in the which Christ touched the
+man sicke of the dropsie and healed him.
+
+
+
+
+
+
+42. THE HOVSE OF THE FORREST OF LY∣BANVS,
+
+
+
+in length one hundred cubits,
+ in breadth
+fiftie,
+ and in heigth thirtie cubits: the which Salomon
+builded most braue and glorious of polished marble,
+
+of Cedar trees, garnished with siluer and gold, hauing
+a flat roofe with walkes and galleries: (according to
+the fashion of 
+Palestine
+) and within liuely counter∣feits
+of sundry trees and plants most artificially made,
+
+that the leaues thereof seemed in some sort to shake.
+And neere vnto the same hee planted a groue and a
+greene arbor,
+ made of all manner of trees, and wate∣red
+with fountaines: also hee made parkes and fishe
+pooles, wherein it is like were all manner of wilde
+beastes, birds, and fishes. This house was a storehouse
+of meate, an armorie for weapons of warre, a house
+wherein ointments, paintings, and sweete perfumes
+were laied vppe and preserued. Beside these, two hun∣dred
+shields of golde for horssemen, and three hun∣dred
+large targets of golde for footemen which Sa∣lomon
+
+
+made, were in this house by him laide vppe.
+Al other vessels also of this house, were of gold. To this
+house the king and his peeres came when the weigh∣tie
+affaires of the Common wealth were ended, and
+recreated their mindes, with banquets, with plaies,
+and with pleasant walkes.
+
+
+
+
+
+
+43 THE HOVSE OF SIMON THE PHARISIE
+
+
+
+which is at this day to bee seene:
+ wherein Christ
+sitting at the Table, forgaue vnto 
+Mary Magdalen
+
+the sinfull woman (bewailing her sinnes, and washing
+his feet with her teares, wiping them with her haire,
+kissing them, annointing him, and much louing him)
+many sinnes.
+
+
+
+
+
+
+44 THE HOVSE OF THE COMMON PEOPTE
+
+
+
+wherein they exercised themselues with dartinges
+& other exercises of the arme,
+ and with feastes, with
+plaies and walkes refreshed their mindes.
+
+
+
+
+
+
+45 THE GREAT MARKET,
+
+
+ which was in the midst
+of the cittie, and neere adioyning to the Castle
+Antonia,
+ wherein Alexander the king of the Iewes,
+and the chiefe priest, crucified eight hundred Iewes,
+killing also the Wiues in the presence of their hus∣bands,
+and the children in the sight of their mothers:
+the which spectacle himselfe with his Concubines
+beheld, at what time they were banqueting in the ca∣stle
+Antonia. For the which crueltie he was sirnamed
+
+Crucida.
+ In the same market place, 
+Herod
+ the greater,
+fought a great battell with the 
+Parthians,
+ which went
+
+
+about to bring againe 
+Antigonus
+ into the kingdom.
+
+Furthermore when the famine through the Romane
+siege was exceeding great in Ierusalem, in such wife
+that it consumed whole families, and replenished the
+toppes of houses with fainting women and children,
+and the waies with the dead carcases of olde men (in
+which extremitie they did eate leather, their girdles,
+their shooes, hay, and mothers, their owne children)
+then a man might haue seene lusty yoong men which
+afore time were most flourishing, passe through this
+market place, like shadowes of dead men. And when
+those which remained aliue, were not able to burie
+the dead, by reason of theyr exceeding multitude, and
+could not endure the stinke of the bodies vnburied,
+they cast them ouer the wall into the vallies of the cit∣tie.
+The which when 
+Titus
+ sawe as hee went about
+the wals, full of dead bodies much putrified, he fetcht
+a great sigh, and houlding vppe his handes to GOD,
+protested that it was not his deed, for the obstinate
+Iewes refused peace, to them often times offered.
+
+
+
+
+
+
+46. THE MARKET OF WARES,
+
+
+the which was in
+the vpper part of the lower cittie,
+ in the which,
+ fish
+and sundry other things were folde. In this market S.
+
+Iames
+ the greater,
+ the brother of 
+Iohn,
+ suffered his
+martyrdome by the tyranny of 
+Herod Agrippa.
+
+
+
+
+
+
+47. THE VPHOLSTERS MARKET,
+
+
+ wherein all ma∣ner
+of olde garments that had beene worne afore∣time
+of others, were to be sold.
+
+
+
+
+
+
+
+
+48. THE SCHOLE OF GENTILLITIE,
+
+
+ which Ie∣sus,
+the false high priest of the Iewes (who after the
+manner of the Gentiles would be called 
+Iason
+) and o∣ther
+Iewes 
+apostatas,
+ by the permission of 
+Antiochus
+Epiphan,
+ set vp euen vnder his castle oueragainst the
+temple: wherein the people were taught the lawes
+and fashions of the Gentils, & the youth instructed in
+the studies and disputations of the Greeke philoso∣phers.
+Where they being naked and annoynted with
+oile, exercised themselues in feates of actiuity, in mar∣tiall
+actions, and in enterludes. Furthermore in the
+same place, the sayde 
+Apostatas
+ set vp EBHEBIAM,
+that is to say a 
+Stewes
+ of faire young boyes, wherein
+they committed most filthie thinges against nature,
+By reason thereof many fell from the lawe of God, to
+the manners and abhominations of the Gentiles, be∣ing
+as it were sould to commit monstrous wickednes:
+insomuch that some of the priests forsaking the tem∣ple
+and worship of God, gaue themselues to the ex∣ercise
+of feats of actiuity: here hence also there sprang
+vp among the Iewes diuers sects, namely the 
+Phari∣sies,
+
+the 
+Saduceis,
+ the 
+Esseies
+ &c.
+
+
+
+
+
+
+49 THE HOVSES OF THE PRIESTES,
+
+
+ and of the
+Leuites whose houses were shut vp by the out∣ward
+parte of the wall: but from the former parte they
+had a prospect toward the temple.
+
+
+
+
+
+
+50 THE HABITATION OF THE TARGET BEARERS,
+
+
+ was builded before the west gate of the
+
+
+temple:
+ where first the Iewes,
+ then the Romaine sol∣diors,
+vpon the solemne feast days had the stations for
+the guarde of the temple.
+
+
+
+
+
+
+51 THE LYSTES,
+
+
+ OR TYLT, which was placed
+oueragainst the South parte of the Temple, where∣in
+horsses, by running, agillitie, and swiftnesse were
+exercised. And the wrastlers and champions did con∣tend
+before the people, who should rnnne swiftest on
+foot, with chariots diuersly drawne, who shoulde
+breake most speares, and in other masteries, and feares
+of valiencie. Where 
+Herod
+ the kinge for the honour
+of 
+Augustus Caesar
+ ordeined the game and prise, of
+fiue yeares continuance; appointing vnto the victors
+greate rewards. the same 
+Herod
+ when he should die,
+called all the more noble sorte of the Iewes of al places
+within his dominion, by an 
+Edict
+ threatning death to
+such as should not obey, and caused them to be shut
+vp in the 
+Lystes,
+ to the ende that after his death they
+all being there slaine, euery house might haue cause to
+waile euen in despight of all 
+Iudaea.
+
+
+
+
+
+
+52. THE MOVNTAINE MORIA,
+
+
+the which in
+another place is called the lande of vision,
+ and the
+mountaine of the temple,
+ and the mountaine of the
+daughter of 
+Sion,
+ lying neere vnto the easte wall of
+the cittie,
+ being very high, stoany, and very steepe
+rounde about.
+ In this mountaine 
+Abraham
+ being
+ready to offer vp his sonne 
+Isaac,
+ in steede of him offe∣red
+vp a Ramme which was taken, by the hornes in a
+thicket. This was the very same mountaine which
+Dauid bought of 
+Streuna
+ or 
+Ornan
+ the 
+Iebusite
+ for six
+hundred sicles of goulde: and erecting an alter in his
+
+
+threshing flower, he offered a burnt offering vnto the
+Lorde,
+ which the fire from heauen consumed. After∣ward
+in the same mountaine Salomon builded vnto
+the Lorde a moste excellent Temple both for large∣nesse
+and bewtie; whereof mention shalbe made here∣after.
+
+
+
+
+
+
+53. THE FIRST WALL,
+
+
+ the which was called the
+olde wall, both in regard of the valleis, and a hill
+which was alofte aboue them, and also in regarde of
+threescore towers whereinto it was deuided, the
+which made it very defensible and strong.
+
+
+
+
+
+
+54. OPHEL,
+
+
+ which 
+Iosephus
+ calleth 
+Ophlam,
+ was a tow∣er
+of an exceeding height, whose top seemed to
+rech vnto the cloudes; it was fortified with a castle,
+and compassed about with a firme wal, neere vnto the
+Temple, notwithstanding it was without the wall,
+which shut off the habitation of the priests. Here∣in
+dwelte the 
+Nathenims.
+ Into this 
+Manahemus
+ the
+tyrant flying, was taken and slaine. This same was at
+the last burned by the soldiors of 
+Titus.
+
+
+
+
+
+
+55. THE PALLACE OF THE MACHABEES,
+
+
+
+builded by them on a very loftie place on the weste
+side of the Temple,
+ from whence they which would
+behoulde the cittye and those things which were don
+therein,
+ had a most pleasant and delectable prospect.
+The which kinge 
+Agrippa
+ afterward excedingly
+enlarged and made it a Courte for himselfe: from
+
+
+whence out of his parlour hee might behold whatso∣euer
+was donne in the temple. For the which cause the
+rulers of the Iewes builded a very high gate betwene
+that and the weste part of the inner Temple, to hinder
+the kings prospect. This thing both kinge 
+Agrippa,
+
+and 
+Festus
+ also the Lieutenant of the country tooke
+in very euill parte, who also commanded them to pull
+downe the sayde gate. But the rulers intreated, that
+they might haue leaue to send ambassadors to 
+Nero
+
+the emperour concerning this matter, saying that
+they could not liue if any thinge were casted downe of
+the buildings of the temple. The which liberty when
+they had obtained; they sent 
+Ismaell
+ the cheefe priest,
+and 
+Helchia
+ the treasurer, and with them ten of their
+chiefe rulers. And 
+Nero
+ at the earnest sute of 
+Poppea
+
+his wife, a godly woman, which shee made for the
+Iewes, pardoned the building of the saide gate, and
+permitted the same so to stand.
+
+
+
+
+
+
+56. THE PALLACE OF PILATE,
+
+
+ and of the
+Lieutenants of Rome, adioyning to the Gallerie,
+which lieth on the North side of the castle 
+Anto∣nia:
+
+which pallace,
+ was much more large, loftie,
+and fayrer,
+ then all the buildinges of the cittye, and
+had an ascend or mounting,
+ of twenty and eight steps
+of Marble.
+
+
+Here when Christe was falsely accused, and re∣quired
+to bee crucified, by the princes and people
+of the Iewes, for (that as they sayde) hee peruerted
+the people, forbad tribute to be giuen to 
+Caesar,
+ sayde
+that he was 
+Christ
+ a King, and therfore approued him
+selfe a seditious person, 
+Pilate
+ condemned him to be
+whipped vnder the forme of this sentence▪ which was
+
+
+found in a most ancient chronicle,
+ as followeth, 
+Iesum
+Nazarenum virum sediciosum, et Mosaicae legis con∣temptorem,
+per pontifices et principes suae gentis accusa∣tum,
+expoliate, ligate, et virgis caedite.
+ That is to saye,
+
+Take ye Iesus of Nazareth accused by the chiefe priestes
+and rulers of his owne Nation to bee a man sedicious,
+and a contemner of Moses Lawe, strip him, binde him,
+and whyp him.
+ Whereupon the soldiors of 
+Pilate
+ led
+him into the Iudgement haule, stript him before the
+whole band of soldiors and other people, tied him to
+a piller, beate him most cruelly with roddes, and rent
+and tare his most tender body. After this, they put
+on him a purple robe, platted and in forcible manner,
+broided on his head a crowne of sharpe thornes, de∣liuered
+into his right hand a reede, and in scorne salu∣ted
+him as a kinge bending the knee before him, ma∣ny
+waies mocked him, they did spit on him, they did
+buffet him, and strike him vpon the wounded heade
+with a reede.
+
+
+
+
+
+
+57 THE QVEENES PALLACE,
+
+
+ which 
+Salomon
+
+most royally builded of precious and polished stones,
+
+for the habitation of his wife which was 
+Pharaos
+
+daughter.
+
+
+
+
+
+
+58 SALOMONS PALLACE,
+
+
+ exceeding greate
+and fayre, the which hee builded in thirtene yeares
+magnificently and moste sumptuously on the south
+parte of the mount 
+Moria,
+ of bright marble, and ce∣dar
+trees, supported with many pillers, for his owne
+habitation: this he wonderfully garnished with gold
+and siluer round about, and made all the vessels there∣of
+of gold. In the same place afterward, the Christian
+
+
+kings of 
+Ierusalem
+ had their pallace, where first began
+the order of the 
+Templers.
+
+
+
+
+
+
+59 THE CASTLE PISAN,
+
+
+ compassed about with
+deep trenches, & towers; the which was builded
+on the west part of the cittie, by the Christian inhabi∣tants
+of a towne in 
+Italie
+ belonging to the 
+Pisans,
+ at
+what time they had the dominion of the holy lande.
+Where first the 
+Pisans,
+ after them the 
+Saracens,
+ and
+now the Turkes, do exact of the pilgrims of the holy
+land sacrilegious tribute.
+
+
+
+
+
+
+60 THE INNER FOVNTAINE,
+
+
+ which king 
+Eze∣chias
+
+made in the midst of the cittie at the North
+side of the temple.
+ For he brought into the cittie the
+waters of this fountaine,
+ from the higher fountaine of
+
+Gition,
+ by conduct pipes which were vnder the earth,
+and made them to issue forth in this fountaine. This
+fountaine he compassed about with a wel to water the
+whole cittie, that the people in time of siege might
+not be distressed with the want of water.
+
+
+
+
+
+
+61 THE POOLE PROBATICA,
+
+
+ that is to say y
+e
+ sheep
+poole, wherein the sheepe and other beastes were
+washed that were appointed for sacrifice. In Hebrue
+it is called 
+Bethesda,
+ (and corruptly 
+Bethsaida
+) that is
+to say, the house of effusion because the raine waters
+ran into the same. It was situate betwene the gate of
+the valley and the temple.
+ It was the largest and most
+principall poole or water of the whole cittie, hauing
+fiue porches, which king Salomon made for the ser∣uice
+
+
+of the Temple. And this 
+Iosephus
+ calleth Salo∣mons
+lake or Poole. For in this poole the 
+Nathe∣nims
+
+washed the oblations which they deliuered vnto
+the priests to be offered in the Temple. The Water
+heereof was moued at certeine times by the Aungell
+of the Lord, and who so after the stirring therof went
+first into the water, he was healed, whatsoeuer disease
+he had. And therefore there lay a great multitude of
+languishing people in the porches thereof, as blinde,
+lame, withered, waiting for the mouing of the water.
+Among which number Christ healed a man which
+had languished thirty and eight yeares.
+
+
+
+
+
+
+62 THE OLD FOVNTAINE,
+
+
+ together with a Ri∣uer,
+
+which issuing out of the same runneth through
+the whole Cittie into the brooke 
+Cedron.
+
+
+
+
+
+
+63 THE BRIDGE,
+
+
+ and portch with gates, by which
+men went from the gallerie,
+ and from the Castle
+
+Antonia,
+ ouer the valley of 
+Cedron
+ into the Temple,
+the which at the first the fauorites of 
+Aristobolus
+ a∣gainst
+
+Pompei,
+ and afterward the seditious against 
+Flo∣rus,
+
+cut off, least by the meanes of the Castle 
+Anto∣nia,
+
+the Temple should be gotten.
+
+
+
+
+
+
+64 THE WARDERS GATE,
+
+
+ so called, because cer∣teine
+of the kings guard warded there, at such time
+as the king entered into the Temple.
+
+
+
+
+
+
+
+
+65 THE HORSE GATE,
+
+
+ so named, because men
+might ride so farre as that place: but then leauing
+their horses, they went on foote into the temple. At
+the which place began the habitations of the priests.
+
+
+
+
+
+
+66. THE GATE OF THE ESSENS,
+
+
+ was scituate in
+the olde wall of the Citty.
+
+
+
+
+
+
+67. THE FIRST GATE,
+
+
+ whereof the Prophet 
+Zacha∣rie
+
+maketh mention.
+
+
+
+
+
+
+68. THE PORCH OF PILLERS,
+
+
+ scituate before Sa∣lomons
+pallace, the which was fiftie cubites long,
+and thirty cubites broad, and supported with strong
+pillers.
+
+
+
+
+
+
+69. THE BEAST MARKET,
+
+
+ called 
+Probatica,
+ where
+sheepe, oxen, and other beastes for sacrifice were
+sold in the open market.
+
+
+
+
+
+
+70 THE PALLACE OF QVEENE BERNICE,
+
+
+ si∣ster
+of king 
+Agrippa,
+ who with her brother at 
+Cae∣saria
+
+heard Paules supplication before 
+Festus.
+ And af∣terwards
+paying her vowes to God at Ierusalem, shee
+came bare foot before 
+Florus
+ sitting in his iudgement
+seat tyranizing against the cittisens, whom she besee∣ched
+in vaine as concerning them.
+
+
+
+
+
+
+
+
+71. THE PALLACE OF GRAPTA,
+
+
+ the neece of
+
+Izata
+ kinge of the 
+Adiabens,
+ which she built for her
+selfe. Wherein afterward, 
+Ihon
+ the Captaine of the
+seditious abiding, lefte there his mony and spoiles of
+tyranny.
+
+
+
+
+
+
+72. THE PALLACE OF HELEN,
+
+
+ which exalted
+it selfe in the middest of the mountaine 
+Acra.
+ She
+being the Queene of the 
+Adiabens
+ which dwelt be∣yond
+
+Euphrates,
+ was conuerted from Gentilisme, to
+the religion of the Iewes,
+ and came to 
+Ierusalem,
+ to
+dwell. Where she being become a Christian, at what
+time that greate famine, (whereof 
+Agabus
+ prophesi∣ed)
+in the dayes of the emperour 
+Claudius,
+ pinched
+the whole world, but specially the land of 
+Iudaea,
+ this
+good Queene (I say) at her proper costs and charge
+sent for great store of corne out of Egypt which shee
+distributed among the poore and needy at 
+Ierusalem.
+
+
+
+
+
+
+73. THE PALLACE OF MONOBAZ,
+
+
+ kinge of 
+A∣diabens,
+
+the sonne of 
+Helen,
+ which was situat in the
+easte parte of the cittie.
+
+
+
+
+
+
+
+
+74. THE TEMPLE OF THE LORD,
+
+
+ otherwise
+called, the Lordes house and the sanctuary. The
+which Salomon the peaceable kinge builded of the
+matter prepared by Dauid his father, and of electe,
+hewen, and pollished stones, and of timber cut from
+mount 
+Libanus,
+ by the labour of more then a hun∣dred
+
+
+fitie three thousand men in the mont 
+Moria,
+
+without any sound of axe or hammer, in seuen yeares,
+so sumptuous and magnificent both within and with∣out
+with shining gould, that it was counted the mira∣cle
+of the world. Concerning the wonderfull excel∣lencie
+whereof nothing can bee sufficiently spoken.
+When Salomon dedicated this Temple, the cloude
+and glory of the Lord filled it, & the fire which came
+from heauen consumed the sacrifices which were of∣fered
+therein. As concerning the enterance of this
+temple, the same was contrary to the fashion now v∣sed,
+being East-ward, and the backe part tended west;
+whereuppon the priests, and people praied turning
+to the west, and worshipped God herein with greate
+reuerence, vntill through the Impietie of the kinges
+and people of the Iewes,
+ it was prophaned with the
+pollusions of Idols often times.
+ Therefore foure hun∣dred
+fortie and one yeares after the firste foundation
+thereof, by the iust iudgement of God, 
+Nabuchodo∣nozer
+
+kinge of 
+Babilon
+ burnt the same, and so destroi∣ed
+it,
+ that it lay desolate threescore and tenne yeares.
+But after that,
+ 
+Zorobabell
+ repaired the temple againe
+in excellent sorte with squared stones,
+ and the beste
+timber in the same mountaine, within the space of
+forty and six yeares.
+ And this also was of so great esti∣mation
+that it was honoured throughout the whole
+world, and was from all partes enriched and bewtified
+with the greatest gifts and honors of kings and prin∣ces.
+The which after three hundred, fiftie, and fower
+yeares, was spoiled by 
+Antiochus Epiphan
+ king of 
+Sy∣ria,
+
+and polluted with Idols. In the third yeare of the
+contamination thereof, the most valiant Captaine of
+the Iewes 
+Iudas Machaboeus,
+ purged it, and restored
+to the same againe, the goulden vessels, and the wor∣ship
+of God. And that it might neuer more be defiled,
+
+
+he did waule it about in manner of a castle with deepe
+trenches,
+ with strong and high walles, and with gates
+and towers both forceable and faire.
+
+
+Wherein hee being beseeged a long time with one
+hundred and twentie thousand Gentils, coulde not
+be commaunded.
+
+
+But aboute one hundred yeare after this when
+that famous Captaine of the Romaines 
+Pompei
+ the
+greate foughte against it,
+ hee wanne it with maine
+force,
+ and in the entering thereof hee slue therein
+twelue thousande Iewes; and 
+Pompei
+ himselfe with
+his peeres entring into the moste holye place, and
+behoulding the Table, the Candlesticke, and other
+thinges there, of shining goulde, and finding also
+two thousand talents of the holy treasure, this hea∣then
+Prince mooued as it were with a certayne god∣linesse,
+woulde not so muche as touch any of them
+but the nexte daye after the siege commuanded the
+keepers of the temple to clense the same, and to ce∣lebreate
+their lawfull and solemne sacrifices. This
+selfe and same temple being afterwardes decayed,
+
+Herod
+ the 
+Ascalonit
+ kinge of the Iewes, by the space
+of nyne yeares and a halfe, repaired and bewtified it,
+with sumptuous buildings.
+
+
+And according to the prophesie of the prophet
+
+Aggei
+ (euen as the Church is preferred before a
+Sinagogue,
+ and the bloud of the gospell is more pre∣cious
+then the golde of the lawe) greater was the glo∣ry
+of this second temple,
+ then was that of the firste:
+because Christe,
+ with his presence, doctrine and
+miracles,
+ glorified this. For in this, when hee
+was a childe hee was offered. In this hee sate in the
+middest of the doctors; In the pinacle of this Tem∣ple
+hee was tempted of the Diuel, when he fasted for∣tie
+
+
+dayes and forty nights. In this likewise he prea∣ched
+often times, and was vexed by the Iewes. All
+which thinges, as they make muche for the glory
+of the temple, so they did nothing auayle, but that
+the very same Temple, in the yeare from the foun∣dation
+thereof vnder 
+Zorobabell
+ fiue hundred eigh∣tie
+and sixe, by the armye of 
+Titus Caesar,
+ after a
+doubtful and bloudie battaile,
+ was wonne with great
+force and violence, and so greate a slaughter of Iewes
+made aboute the alter for burnt offerings, that the
+bloude of the slayne ranne like a riuer by the stayres
+of the Temple: and the Temple it selfe in the firste
+brunte and furie of the battaile was sette on fiere, by
+a certayne soldior, moued by diuine motion, not
+attending to the commaund of any, euen without
+the Emperours consent: And by this burning, a
+worke of al that euer was seene or heard of, the most
+wonderfull, and the ornament of the whole worlde,
+the tenth daye of the moneth of August,
+ was consu∣med
+into ashes: to witte, euen the very same day and
+moneth, whereon aforetime the temple was burnt
+by the 
+Babilonians.
+
+
+Yet for all this after threescore and fiue yeares,
+the Iewes rebelling agayne, and going aboute to
+restore the Temple in the same place where it was
+afore, 
+AElius Adrian
+ the Emperour, slue of
+them in one daye fiue hundred and foure score thou∣sande,
+and vtterly rased the reste of the buildinges
+of 
+Ierusalem,
+ and leueled the mountaine 
+Moria
+
+whereon the Temple was builded, and made it
+euen, casting the rubbish and earthe thereof into
+the vale 
+Iosaphat,
+ and into the brooke 
+Cedron,
+
+lefte the citty trusting to the defence of the moun∣taine
+and Temple, shoulde rise vppe and rebell any
+
+
+more against the Romaines. He wasted also with fire
+and sword nine hundred and foure score villages. But
+the emperour 
+Iulian
+ the 
+Apostata,
+ after two hundred
+and twenty seuen yeares, to make the oracle of Christ
+false,
+ which he had prophesied concerning the tem∣ple
+that there should not bee lefte one stone vppon
+another,
+ gaue vnto the Iewes money out of the com∣mon
+treasurie, and commanded them to build a new
+the temple and to sacrifice there according to the law
+of 
+Moses.
+
+
+The Iewes glad of this, came from all partes of the
+world to 
+Ierusalem,
+ and threatning greuous things a∣gainst
+the Christians,
+ they prepared & got vnto them
+skilfull workemen, stones, timber, morter, and all
+other things necessary for the building: also they cau∣sed
+to be made siluer mattockes, spades, and baskets:
+and throughly purged the place where the Temple
+stoode, with such speede and willingnesse, that their
+women also bestowed all their ouches, taches, bru∣ches,
+and other Iewells, for the building, and caried
+out from that place all the rubbish in their laps. And
+when the foundations were opened and clensed, the
+day following they should haue begun their founda∣tion,
+but the same night there came such an excee∣ding
+and vehement tempest, that it caried away and
+scattered abroade their stone, timber, and morter,
+with other their necessaries. Ouer and besides this, a
+greate earthquake, shooke all the stones of the olde
+foundations of the temple and dispersed them, disor∣dered
+the houses nexte adioyning to the temple by a
+downefall, and killed many Iewes.
+
+
+And when they which remained, in the morning
+enterprised againe to build; a fier falling from heauen,
+a flame also breaking foorth from the foundations of
+the temple, destroyed more Iewes then before, which
+
+
+either were busy about the worke, or which came thi∣ther
+to see and looke on: and all that daye burnt and
+consumed into ashes, their maules, hammers, axes,
+spades, and all other working tooles, that nothing
+was left. The Iewes being yet obstinately bent, the
+next night following, a bright signe of the crosse ap∣peared
+in heauen, and the garments of all the Iewes
+were marked as it were from heauen with figures of
+the crosse, and replenished therewith as the firma∣ment
+with starres; which when the day appeared they
+seeking to put out, could not by any manner of means
+do it. And thus being astonished and confounded,
+they lefte off both their vaine enterprise and also the
+place. So that by their wicked endeuour, the diuine
+oracle, was not only not made frustrate, but also more
+fulfilled and confirmed.
+
+
+The Iewes being in this sorte beaten from their en∣terprise,
+the Christians neuerthelesse were not afeard
+to build in the same place. For they erected a temple
+there in a round forme, made of greate hewen, and
+pollished stones, couered with a leaden roofe, very
+large high and bewtifull to behold. The which in
+processe of time, was honored with the Patriarchall
+seate, and became famous by reason of the true and
+pure worship of God which was therein maintayned.
+
+At the length being inuaded by the 
+Saracens,
+ it was
+contaminated foure hundred threescore and three
+yeares, with the filthy worship of 
+Mahomet.
+ Finally
+in the yeare of Christ,
+ 1099. the very same temple,
+
+though it was fortified with a wall, with towers, and
+with strong gates by the Christians, yet was it violent∣ly
+wonne by 
+Godfrey
+ of 
+Bullion,
+ a valeant man; who kil∣led
+within the circuit of the temple, ten thousand 
+Sa∣racens,
+
+in such wise that the vpper face of the earth
+was couered with the bloud of the slayne. In the
+
+
+which place the saide 
+Godfrey
+ erected a Colledge of
+diuine seruice, giuing continuall maintenaunc to the
+same, furnishing it with necessary habitations, which
+so continued by the space of foure score and eighte
+yeares. The which expired, the same was possessed
+againe by the 
+Saracens,
+ through the pernicious dis∣corde
+of Christian princes: who in the toppe there∣of,
+(according to their manner) sette vp the figure of
+the halfe moone: and in the courts thereof they plan∣ted
+figges, and oliue trees. The same being nowe
+possessed of the 
+Turkes,
+ is defiled with the detestable
+worship of 
+Mahomet.
+ And all Christians are com∣manded
+by an 
+Edict,
+ not to enter thereinto, vppon
+paine of death. For if any Christian bee knowne to
+haue entered therein, hee is by and by either com∣pelled
+solemnely to deny the faith of Christe, or else
+publiquely to lose his head.
+
+
+
+
+
+
+THE FIRST PARTE OF
+THE TEMPLE.
+
+
+
+
+75. 
+T
+HE HOLY OF HOLYEST,
+
+
+ the
+which is so called bicause of the
+singuler holinesse of the place.
+ It
+is also named the 
+Oracle,
+ and the
+
+Inner house.
+ For it was the se∣cretest
+part of the temple,
+ wherein∣to
+fewe did come: being twentie
+cubits longe, and as many in bredth; the heighte
+whereof was one hundred and twenty cubits. Whose
+
+
+floore was paued with marble,
+ and layde ouer with
+firre boardes,
+ couered with plate of golde. The gates
+were made of polished stones inwardely framed with
+boordes of cedar, and couered with golden plates: the
+which being fastened with nailes of golde shined most
+gloriously, as if it had beene a diuine worke. Where∣on
+were grauen Cherubims, pretious stones, palmes,
+flowers, Imbosements, and pictures of diuerse sortes,
+representing the celestiall bewty. The roofe also was
+couered with golden plate, the very top whereof was
+sette full of goulden prickets, or sharpe spittes to fraie
+away birdes, leste by sitting thereon, it mighte bee
+polluted. Into this sacred holy of holyest, the chiefe
+Prieste, for the diuine maiesty thereof, entred but
+once euery yeare alone,
+ in the feast of purgation: on
+which daye the Iewes did fast and afflict themselues.
+And then that greate and chief priest of God, prefi∣guring
+the person of Christe, offered the bloude of a
+calfe burnte without the hoast, for his owne sinnes,
+and for the sinnes of the people. Who if he weare but
+somuch as in sleepe polluted, entred not in in his own
+person, but by his substituted vicar.
+
+
+
+
+
+
+
+
+THE PARTES OF THE
+MOST HOLY PLACEs.
+
+
+
+
+76. THE ARKE OF THE COVENANT,
+
+
+ the which
+by the commaundement of God was made of 
+Se∣thim
+
+wood,
+ which corrupteth not,
+ by 
+Moses
+ in the
+deserte, couered within and without with plate of
+pure goulde, being sette in the middest of the holy of
+
+
+holiest,
+ shining like the sun with the glittering bright∣nesse
+of golde.
+ Whose surpassing bewtie is rather to
+be wondred at, then with words to be expressed. In
+this Arke the two tables of stone, containing the ten
+commaundements written with the finger of God,
+were kept with a singular care and holinesse: also the
+Pot wherein was 
+Manna:
+ and 
+Aarons
+ florishing rod,
+and the booke of 
+Deuteronomy.
+ The Arke abode in
+this place about foure hundred and thirty yeares.
+ It is
+written in the book of the 
+Machabees,
+ y
+t
+ in the time of
+the captiuity of 
+Babilon,
+ the Prophet 
+Ieremy
+ by the
+commandement of God, hid the same priuily together
+with the Alter of Incense, and the perpetuall fier, in a
+caue of the mount 
+Nebo.
+
+
+But the 
+Hebrues
+ coniecture,
+ that it was caried by
+
+Nabuchodonozer
+ into 
+Babilon:
+ & that it was neuer re∣turned
+againe,
+ but another made by the Iewes in
+steade thereof after the returne from the captiuitie.
+
+Other some thinke that 
+Nabuchodonozer
+ carried away
+the same with fiue thousand and foure hundred ves∣sels
+of siluer and golde,
+ which belonged to the temple
+of 
+Ierusalem,
+ and put them into the temple of 
+Bell
+ his
+god,
+ but preserued by Gods prouidence (as it was
+sometime in 
+Philistaea
+) after threescore and ten yeares
+of the captiuitie, they thinke (I say) that it was resto∣red
+againe to the Iewes, at their returne by 
+Cyrus,
+
+together with the said vessels. But after the beseeging
+of 
+Ierusalem Titus
+ and 
+Vespasian,
+ cariyng out of the
+temple to 
+Rome,
+ the Arke of the couenant, the two
+tables of the Lawe, with both the rods of 
+Moses
+ and
+
+Aaron:
+ also the goulden table, and some of the shew
+bread: the goulden Candlestick also, and the foure pil∣lers;
+made these to be caried among other spoiles, by
+the Iewes themselues round about the cittie in an o∣pen
+triumph, wherein with greate pompe they trium∣phed
+
+
+ouer that nation: 
+Simon Giora
+ Captaine of the
+seditious, and seuen hundred Iewes captiues (which
+were selected from among the rest for youth and com¦lynesse)
+going before the triumpher halfe naked, with
+their hands bound. This triumph being ended 
+Vespa∣sian,
+
+layed vp all the vessels of 
+Ierusalem,
+ in the Tem∣ple
+of 
+Peace
+ at 
+Rome,
+ which hee in moste sumptuous
+manner had builded: But the lawe of the Iewes, and
+the purple vailes of the most secret places, he com∣manded
+to be safely layde vp in his pallace.
+
+
+
+
+
+
+77. THE TWO CHERVBIMS,
+
+
+ of glory, the which,
+as it appeareth by the Hebrue text of 
+Paralippome∣non,
+
+are like vnto young boyes,
+ made of the wood of
+the oliue tree,
+ ten cubits high, and couered with plates
+of gold, and shining with angelicall brightnesse, stood
+at each ende of the Arke with wings spred, one cou∣ple
+couering the propitiatorie, and with the other
+couple touching the gate on both sides: Whose fa∣ces
+were directed toward the vttermost house: and
+looking one towardes the other, they behelde both
+themselues, and also the propitiatorie.
+
+
+
+
+
+
+78. THE PROPITIATORIE,
+
+
+otherwise also called the
+oracle, the which being aboue the Arke, betwene
+the wings of the two 
+Cherubims,
+ and shining with
+most pure golde in brightnesse aboue the sunne, re∣presenting
+the diuine maiesty, was as it were the seate
+of God speaking: from whence he gaue oracles and
+answeres.
+
+
+
+
+
+
+
+
+
+
+THE SECOND PARTE OF
+THE TEMPLE.
+
+
+
+
+79. 
+T
+HE HOLIE PLACE,
+
+
+ so cal∣led
+for the dignitie of the place.
+ It
+was also called the 
+Sanctuary,
+ the
+outwarde house of the Lorde,
+ and
+the priests Courte.
+ This is the o∣ther
+parte of the Temple, fortye
+cubits longe,
+ and twenty broade, in
+highte one hundred and twenty cubits.
+ The doores
+hereof were of golde.
+ The floore made of firre boards
+was couered with plate of goulde.
+ The gates were
+made of polished stones, and beeing within lined
+with boardes of 
+Caedar,
+ were couered outwardely with
+plates of goulde. Whereon was grauen 
+Cherubims
+
+pretious stones, palmes, flowers, and sundry carued
+workes and pictures, which wonderfullie delighted
+men to behold. Aboue it was couered with a fayre
+roofe, shining as if it had beene fier.
+
+
+From the enterance hereinto, such as were not
+cleane, were forbidden by the Lawe. Only the priests,
+which Kinge Dauid reckened to the number of thirty
+eight thousand, and distinguished them by Lot into
+foure and twenty orders, entered dayly thereinto.
+
+
+All which beeing without vice, according to
+
+Dauids
+ ordinance, wekely by turne, from Saboth to
+Saboth abstayning from their wiues, from wine and
+from all other stronge drincke, their priuities coue∣red
+with linnen breeches, outwardely cloathed and
+
+
+girded with a linnen garment, wearing a silke myter
+on their heade, in a wonderfull order, and with the
+greatest reuerence that coulde bee, they worship∣ped
+God, they offered sacrifices and made their prai∣ers.
+
+
+
+
+
+
+80. THE ALTER OF INCENSE,
+
+
+ of gould,
+ which
+by Gods commaundement was placed ouer a∣gainste
+the vaile hanging before the most holy place,
+
+called the holye of holyest: Whereon the Priestes,
+
+euery daye morning and euening offered vnto God
+for a sweete sauour, Frankenscence and sweete per∣fumes.
+The angell Gabriell standing sometime at
+the righte hande of this alter, toulde vnto 
+Zachary,
+
+as hee was offering Incense, the conception of 
+Iohn
+Baptist.
+
+
+
+
+
+
+81. THE GOVLDEN CANDELSTICKE,
+
+
+the
+which hauing seuen branches,
+ and so many Can∣dles,
+was placed on the South side of the Temple:
+the which being lamps of most pure oile,
+ burned con∣tinually,
+and gaue light as well by day as by night,
+ to
+all the holy place.
+
+
+
+
+
+
+82. THE FOVNTAYN,
+
+
+ of water which issued forth on
+y
+e
+ right side of the temple the water wherof 
+Salomō
+
+deriued into the sea of bras,
+ and into the copper 
+Lauer:
+
+the which being carried from thence by Conduit
+pipes vnder the earth breking forth halfe a mile from
+
+
+the east side of the citrie ranne into the brooke Ce∣dron.
+
+
+
+
+
+
+83. THE GOVLDEN TABLE,
+
+
+ the which stood on
+the North side of the temple,
+ whereon were sette
+twelue loaues made of the most pure and fine flower
+of wheate.
+ The which being stale,
+ remayned to the
+vse of the priests,
+ and then new were supplyed againe
+euery Saboth day, vppon the which were layde two
+golden cups full of Frankensence.
+
+
+
+
+
+
+84. THE CHEFE PRIESTE
+
+
+his Image,
+ and holy ap∣parell,
+
+euery parte whereof shewe forth vnto vs, a
+diuine and heauenly magnificence. For when he went
+to offer sacrifice, or to enter into the most holy place
+he put on not only the vnder garments spoken of be∣fore
+vnder the nūber seuenty nyne, but also aboue vp¦pon
+them a 
+Tunicle
+ of 
+Iacinct
+ with sleues downe to
+the ankells, at the lower hem wherof there did hang
+threescore and two golden bells, and in another bor∣der
+as many pomegranats. The 
+Tunicle
+ was girt with
+a girdle foure fingers broad, wouen with silke, gould,
+precious stones, and flowers of sundry colours. A∣loft
+aboue this, he did wear an 
+Ephod
+ or 
+Superhumeral,
+
+that is to say, a most faire cloake, made of golde, of 
+Ia∣cinct,
+
+of purple, scarlet and of fine silke most curiously
+wouen together, dazling of the eies by reason of y
+e
+ vari¦ety
+& glittering brightnes of the colours and flowers.
+Vpon each shoulder whereof there were seueral 
+Onix
+stones
+ included in golde, which 
+Iosephus
+ calleth 
+Sardo∣nichs:
+
+in either of which stones six names of the chil∣dren
+of 
+Israell
+ were grauen.
+
+
+Beside these, he had the 
+Reasonable
+ of Iudgement,
+
+
+which he caried vpon his brest, wherein was doctrine
+and truth. The 
+Reasonable
+ was a square thing about
+the bredth of a mans hand, wouen and made of golde,
+lacinct, purple, scarlet, and fine silke, whereto were
+fastened twelue precious stones of diuerse sortes, ha∣uing
+ingrauen in them the names of the twelue sons
+of 
+Israell,
+ according to the order of their natiuitie.
+Moreouer on his head he ware a long rounde cap, in
+forme of a Miter, made of Iacinct and fine silke; vpon
+the front wherof was set a brooch of gold in forme of
+a halfe gloabe, which figured the ineffectable name of
+God, 
+Tetragrammaton,
+ with these foure Hebrue let∣ters
+
+ theron ingrauē, setting forth by the won∣derfull
+brightnesse thereof the excellencie of the di∣uine
+maiestie: Also the golden Censer in his hand: by
+which he offered vnto God the most fragrant odor of
+Frankensence, is a parte of his ornaments.
+
+
+Al which things as they are ful of misteries, so some
+of them excelled the rest in diuine power. For that
+stone which the high prieste did beare on his righte
+shoulder, so often as he had pleased God with sacrifi∣ces,
+did so wonderfully shine, that they which stoode
+a greate way off might perceiue it. And (which is no
+lesse wonderfull) the twelue stones which were on
+the 
+Reasonable,
+ did foreshewe vnto them which went
+to the warre, victorie.
+
+
+For before the army should moue it selfe, there
+came so great a brightnesse from them, that it gaue al
+the people to vnderstand that God was present, and
+that he would helpe all those that call vpon him. But
+now God being angry with the wickednesse of his
+kings, both the 
+Reasonable
+ and the 
+Onix
+ also haue cea∣sed
+one hundred and fiue yeares before the natiuity of
+Christ to giue their wonted shine and brightnesse.
+
+
+
+
+
+
+
+
+85 THE VAILE,
+
+
+ was wouen of Iacinct, purple, scarlet
+and fine silcke in most bewtifull varietie; and was a∣dorned
+with Cherubims and al manner of flowers im∣broydered
+thereon,
+ which hong at the gate before the
+most holy place,
+ and at the death of Christ was rente
+from the top to the bottome euen in the midst,
+
+
+
+
+
+
+
+
+THE THIRD PARTE OF
+THE TEMPLE.
+
+
+86 THE IEWES ILE
+
+
+. The which also is called the 
+En∣tery,
+
+the 
+Haule,
+ the 
+Holy Secular,
+ & 
+Salomons Porch,
+
+being the thirde parte of the temple.
+ Into the which
+men wente vp by foure steppes.
+ Whose pauement
+checkered with marble of sundry sortes,
+ was open to
+the aier, and vncouered, and was compassed aboute
+with a wall made with three degrees of stones of sūdry
+colours. To the which were annexed greate porches,
+broade, and aboue threescore and tenne cubits high,
+born vp with marble pillers of single stones which wer
+twenty fiue cubits high, the roofe couered with Ce∣dar.
+The inset gates couered with golde, shined most
+gloriously. And it had three high gates: whereof the
+first tended toward the easte, the second towarde the
+South, and the third toward the North: euery of the
+which gates were shut with two siluer doores thirtie
+cubits high, & fiftene broad: but the weste part had no
+gate but was inclosed with a whole wall. And this was
+called the Iewes 
+Ile
+ or 
+Haule
+ because only the Iewes
+
+
+being cleane and chaste made their praiers there,
+ and
+heard the words of the law.
+ In the which place,
+ Christ
+taught the people often times:
+ and where the Iewes
+would haue stoned him: and 
+Peter
+ when he had hea∣led
+the lame man spake vnto the people: and conuer∣ted
+fiue thousand men. Before this 
+Haule
+ inclosed
+with alattice, there was a Table sette, containing this
+lawe ingrauen with letters of Greeke and Latine, 
+E∣uery
+stranger that shall enter into the holy place shall dye.
+
+And the 
+Romaines
+ had giuen authority to the Iewes
+to put to death as wel 
+Romaines
+ as Iewes, which trans∣gressed
+this law.
+
+
+
+
+
+
+THE PARTES OF THE
+IEWES ILE.
+
+
+
+
+87 THE ALTER OF BVRNT OFFERINGE OF BRASSE,
+
+
+ the which stoode in the midst of the Ile
+open to the aier and vncouered.
+ Wherein that perpe∣tuall
+fier was dayely maintained by the putting to of
+wood which fier in old time,
+ the Lord sente downe
+from heauen, when 
+Aaron
+ at the firste time offered sa∣crifice
+in the desert. On the which altar, the priests eue¦ry
+day morning and euening, burnte sundry sortes of
+Male beastes which were cleane and without ble∣mish,
+as Sheepe, Oxen, and Goates, turtels, Pigeons,
+and such like, which were consumed with this holye
+and perpetuall fier, for a burnte offering and Odor
+of sweete fauour vnto the Lorde. But in the time
+of the Captiuity of 
+BABILON,
+ this perpetuall
+fier was hidden by the Priestes in a drye pitte or well
+
+
+and being sought for by 
+Neemia
+ the priest,
+ threescore
+and ten yeares after the same, there could be no fier
+found in that place, but a certaine thicke water which
+by diuine power, at the praier of 
+Neemia
+ was sette on
+fier.
+
+
+
+
+
+
+88 BOOZ and IACHIN,
+
+
+ two pillers of brasse of won∣derfull
+beawty, thirtie two cubits high, whose cir∣cumference
+or circuit comprehended twelue cubits,
+which 
+Salomon
+ caused to be made artificially, and pla∣ced
+them in the porch of the temple, one at the right
+hand, which hee named 
+Iachin,
+ and the other at the
+left hand which he called 
+Booz.
+
+
+
+
+
+
+89. THE LAVER OF BRASSE,
+
+
+ a vessell of greate ca∣pascitie,
+full of water, placed by 
+Salomon
+ on the
+North side of the temple, whereon were carued the
+pictures of cherubims, Lions, and Oxen. In this the
+priests washed the beasts which should serue for burnt
+offerings, which neuerthelesse were firste washed in
+the sheepe poole called 
+Probatica.
+
+
+
+
+
+
+90 THE HOVSE OF COVNSEL,
+
+
+ at the South side
+of the temple, where was the assembly of the elders
+of the people.
+
+
+
+
+
+
+91 THE CLOSETS,
+
+
+ or vesteries, were side houses, lōg,
+broade, and high, like towers. In the which, the
+Priests when they should enter into the holy place,
+did put off their wollen garments, laying them vp till
+
+
+the seruice was ended.
+ Wherin also they did eate
+the partes of the peace offerings.
+
+
+
+
+
+
+92. THE SEA OF BRASSE,
+
+
+ containing very greate
+store of water,
+ which 
+Salomon
+ made, and placed
+on the South side of the temple,
+ vpon twelue oxen of
+brasse; wherein the priests entering into the temple to
+serue at the alter, washed their hands and their feete.
+
+
+
+
+
+
+93. THE NEW GATE,
+
+
+ the which was in the Ile of
+the temple toward the south where 
+Ieremie
+ fore∣shewing
+that the citrie and temple should be destroi∣ed,
+was taken. And where 
+Baruch
+ red before the peo∣ple
+the prophesie of 
+Ieremy.
+
+
+
+
+
+
+94. THE HOLY GATE,
+
+
+ otherwise called the brasen
+gate, which being in the Inset parte of the temple,
+opened toward the East: before the which 
+Esdras
+ red
+the law of God before the people: and where the ru∣lers
+of the Iewes, a long time after that, exhorted the
+seditious vnto peace.
+
+
+
+
+
+
+95. THE PORCH OF THE TEMPLE,
+
+
+ builded by
+
+Salomō
+ before the 
+Sanctuary,
+ the which was twen∣ty
+cubits long, and ten broade.
+
+
+
+
+
+
+96. THE RINGES SEATE,
+
+
+ the which was very loftie,
+the which 
+Salomon
+ prepared for the kings.
+
+
+
+
+
+
+
+
+97. THE LOFTES OF THE SINGERS,
+
+
+where di∣uine
+praises were songe with voice,
+ and with di∣uers
+instruments.
+
+
+
+
+
+
+98. THE PLACE OF ZACHARIAS,
+
+
+ where he was
+stoned betweene the temple and the altar.
+
+
+
+
+
+
+99. THE PLACE,
+
+
+where the Iewes woulde haue sto∣ned
+Christ.
+
+
+
+
+
+
+
+
+THE FOVRTH PARTE OF
+THE TEMPLE.
+
+
+100 
+T
+HE ILE,
+
+
+ which belonged to the
+Gentiles,
+ being also called the 
+out
+set Courte,
+ which is the fourth part
+of the temple, into the which men
+ascended by many stares. Whose
+inset space open to the aier paued
+with al manner of bewtiful stones,
+had foure excellent gates opening towards the foure
+partes of the worlde, which were shut with dores of
+brasse. This being a square porch much like a cloy∣ster,
+vphoulden with pillers of Marble, & seeled ouer
+with cedar, was thirtie cubits broade. The whole cir∣cuite
+
+
+and compasse of which porch, was fiue hundred
+paces. Into this Courte or porch all sortes of Iewes
+and Gentiles might enter, both cleane and vncleane:
+where vpon it was called the Courte of the Gentiles.
+Here hence it was that Christ did caste out twise the
+buiers and sellers: and suffered not any man to carry
+somuche as a vessell through the same. Here hee
+discharged the woman taken in adulterie. Here hee
+taught often times. Here also the Iewes woulde haue
+stoned him. Finally here it was that hee was glo∣rified
+before the Gentiles with a voice from hea∣uen.
+
+
+
+
+
+
+THE PARTES OF THE
+COVRT OF THE GENTILES.
+
+
+
+
+101 THE GOVLDEN EAGLE,
+
+
+ was of great waigth,
+sette vp by 
+Herod
+ the greater ouer the greatest gate
+of the Temple,
+ and was at the laste pulled downe by
+the Iewes and cut in peeces, where vpon arose a great
+tumult, and many were slaine.
+
+
+
+
+
+
+102. THE TREASVRIE
+
+
+;
+ in Hebrue called 
+Corban,
+ a chest
+wherein was offered and kepte suche money,
+ as
+serued for the necessaries of the sacrifices,
+ for the su∣stentation
+of the poore, and for the repairing of the
+Temple. When 
+Helidore,
+ who was sente by the
+kinge of the 
+Syrians,
+ soughte to take the spoyle of
+
+
+
+
+
+
+
+
+
+
+this treasury,
+ he was scourged by angels from heauen.
+And when 
+Pilate
+ by the like temiretie would haue be∣stowed
+this holy treasure for the bringing in of waters
+he was let and hindred by a general vprore of the peo∣ple:
+
+the which neuerthelesse the 
+Romaines
+ when they
+had wonne the cittie tooke and caried way.
+ Also we
+reade that 
+Lysimachus
+ was slaine neer vnto this place:
+
+Here it was that Christ taught himselfe to be the light
+of the world,
+ and sayd that he should be lifted vp vpon
+the crosse by the Iewes.
+ Christ sitting here,
+ pronoun∣ced
+that the poore widdow offering two mites,
+ had
+giuen more then all the rich.
+ Ouer this treasurie, for
+a monument of his aduerse fortune turned into pros∣peritie,
+kinge 
+Agrippa
+ hanged vp that golden chayne,
+which the Emperour 
+Caius
+ gaue vnto him: being e∣quall
+in waight to that Iron chaine with the which his
+hands were bound by the commandement of the em∣perour
+
+Tiberius.
+
+
+
+
+
+
+103. ACHAS DIALL,
+
+
+ the king, which he made, wher∣in
+the kinge 
+Ezechias
+ being sicke,
+ for a signe of re∣couering
+his health, the shadowe of the sunne by di∣uine
+miracle, went backwards ten degrees.
+
+
+
+
+
+
+104. THE NORTH GATE,
+
+
+ whereof mencion is often
+times made in the Scripture and in 
+Iosephus.
+
+
+
+
+
+
+105 THE SOVTH GATE,
+
+
+ mentioned often times in
+Scripture, and in 
+Iosephus.
+
+
+
+
+
+
+
+
+106 THE WEST GATE,
+
+
+ the which also in the booke
+of Cronicles,
+ is called the gate of foundation.
+
+
+
+
+
+
+107. THE EAST GATE,
+
+
+the which also is called the
+gate 
+Sur,
+ otherwise 
+Seir:
+ also the kinges gate, and
+the 
+Bewtifull
+ gate:
+ because of all the reste it was the
+greatest,
+ highest,
+ and fairest: by which also there was
+the principall enterance into the temple.
+ This being
+decayed was repaired by kinge 
+Ioatham.
+ And neere
+vnto this gate the Apostle Peter, with his word, hea∣led
+the man which was lame from his mothers womb
+and sate there begging of almes.
+
+
+
+
+
+
+108. THE TOWERS OF TROMPETORS,
+
+
+ which
+were erected alofte in the west corners of the tem∣ple.
+
+In the tops whereof, the priests, wanting the vse
+of belles, with two siluer trompets, called the people
+vnto the temple. Frō thence also they tould the people
+of Festiuall daies, of 
+Sabboths,
+ of fastes, and of solemne
+feastes.
+
+
+
+
+
+
+109
+
+
+HERE Christe writing with his fingar on the groūd
+made the accusers of the women taken in adultry
+ashamed and set her free.
+
+
+
+
+
+
+110 HERE
+
+
+Christ making a whip of cordes, caste out the
+buiers and sellers,
+ together with their marchandis.
+
+
+
+
+Thus far we haue spoken of the Temple, and of the partes
+thereof: and now me will prosecute the other partes of
+the daughter of Sion.
+
+
+
+
+
+
+111. THE THEATER,
+
+
+ the which was builded in forme
+of a halfe circle by 
+Herod
+ the 
+Ascalonite
+ kinge of
+the Iewes,
+ neere vnto the pallace of the 
+Machabees.
+
+In the circuit whereof in Imagerie was sette foorth
+the tittles,
+ the victories, and spoiles, of 
+Augustus
+Caesar;
+ shining with siluer and goulde: where the bet∣ter
+and more worthy sorte sitting vppon stayres and
+seates made round in compasse, and the rest standing
+therein, behelde the players, and actors, and musi∣tians,
+playing theire comedies and tragedies, and o∣ther
+plaies.
+
+
+
+
+
+
+
+
+THE PLACES OF THE
+DAGHTER OF SION.
+
+
+
+
+112 THE THROANE OF SALOMON
+
+
+.
+ It was a ve∣ry
+great thron of 
+Iuorie,
+ couered ouer with shining
+goulde,
+ close and rounde in the toppe like a Iudge∣ment
+seate, hauing sixe steppes or stayres, at eache
+ende whereof were twelue Lyons set. In this throne
+kinge 
+Salomon
+ sate, when hee heard the controuer∣sies
+of the people, and pronounced Iudgement, and
+capitall sentences, appointing lawes and statutes.
+
+
+Herein also hee sate, when in royall manner hee
+woulde shewe foorth his pompe,
+ glory and Riches,
+and when he intended to bestow vpon his faithful ser∣uants
+rewardes.
+
+
+
+
+
+
+113 THE PASSAGE
+
+
+which Kinge 
+Salomon
+ made of
+strong timber,
+ to go from his pallace into the tem∣ple.
+
+
+
+
+
+
+114. THE TRIBVNALL,
+
+
+was a publique place, set be∣fore
+the house of 
+Pilate,
+ and appointed for Iudge∣ment,
+
+where the Lieutenants of 
+Rome
+ were wonte
+to giue sentence,
+ which in Greeke,
+ was called LI∣THOSTROTOS,
+that is, 
+a place of pauement,
+ and in
+Hebrue, GABATHA: bicause it was highe and
+loftie. 
+Pilate
+ sitting in this iudgement seate, and ha∣uing
+good wil to free Iesus standing before him, tooke
+water and washed his handes before the people, say∣ing,
+
+I am innocent from the bloude of this iuste man.
+
+But all the people crying out 
+Crucifie him, Crucifie
+him, his bloude bee on vs and on our children:
+ and fur∣ther
+laying treason to his charge in that hee made
+himselfe a kinge, hee condemned Christ to the death
+of the crosse, in this forme of wordes, euen as wee
+founde them in certeine antiquities, from whence
+we faithfully report them.
+
+
+Iesum Nazarenum subuersorem Gentis, contempto∣rem
+Caesaris, et falsum Messiam, vt maiorum suorum
+testimonio probatum est, ducite ad communis supplicij
+locum: et cum ludibrio Regiae maiestatis, in medio du∣orum
+latronum cruci affigite. I lictor, expedi cruces.
+
+
+
+That is to lay, carry ye to the place of common exe∣cution
+
+Iesus
+ of 
+Nazareth,
+ a subuerter of his nation, a
+contemner of 
+Caeser,
+ and a false 
+Messias,
+ as is proued
+by the testimony of the elders of his owne people, and
+crucifie him betwene two theeues in reproch & scorn
+of his kingly maiesty. Go hang-mā, & mak ready with
+speede the crosses. The which sentence pronounced
+he deliuered him to the soldiors to be crucified. Who
+brought forth Iesus,
+ depriued of all bewtie and comli∣nesse,
+and more like to a leaper, then to himselfe, by
+reason of the paines which they had laide on him, but
+that he might bee knowne vnto the people, they put
+on him againe his owne garmentes, and carieng his
+crosse, with two theeues through the gate of Iudge∣ment,
+to be crucified in mount 
+Caluary.
+
+
+Pilate
+ sitting in this 
+Tribunall
+ seate in time of
+an Insurrection for bestowing the holy treasures of
+the temple,
+ which were called 
+Corban,
+ gaue a se∣cret
+signe to the soldiors which were priuilie armed
+vnder their cloathes,
+ that they should not vse swords
+but clubs,
+ to beate downe the tumultuous Iewes.
+ By
+which meanes many of them were slaine, many sore
+wounded, and very many trodden vnder foote, euen
+to death by their owne company in the tumult.
+
+
+After this 
+Florus
+ the Lieutenant, sitting in the same
+iudgement seate,
+ caused many of the Noble men and
+gentlemen of the Iewes, to be beaten and torne with
+rods and whips, and to be fastened on crosses: who al∣so
+caused many other massakers about the cittie, no∣thing
+sparing neither women, children, nor sucking
+babes. The which were certain beginnings of venge∣ance
+taken by almighty God vpon the obstinat Iewes
+for the shedding of the Innocent bloud of Christ.
+
+
+
+
+
+
+
+
+115. THE TOWER OF STRATO,
+
+
+ in Greeke called
+
+Pyrgus Sratonis,
+ situate betwene the castle 
+Antonia
+
+and the temple: it was a hollow & an obscure passage
+where 
+Antigonus
+ was slaine by the soldiors of his
+brother.
+
+
+
+
+
+
+116 THE VALLY OF CEDRON,
+
+
+ broad, deepe and
+dark, which in manner of a ditch or trench compas¦sed
+the temple round about. And because it was dis∣posed
+after the fashion of a morter, it was called in He
+brue 
+Macthes,
+ and in Latine 
+Pila.
+ This was so excee∣ding
+deepe, that men could not looke down from the
+roofe of the temple into the bottome therof but their
+eies, would dazle and their heades seme to turne with
+gidinesse.
+ Herein Merchantes, and all sortes of
+chapmen dwelled.
+ Into this vally 
+Iames
+ the brother of
+the Lorde, firste Bishop of 
+Ierusalem,
+ for professing
+Iesus the sonne of God on the feaste of passeouer was
+cast downe headlong from the battlementes of the
+temple at the commandement of 
+Anani
+ a 
+Saducei
+
+chiefe prieste, and was immediately knockt on the
+head with a fullers club, & was there buried nere vnto
+the temple, his monument remaining there alonge
+time after.
+
+
+
+
+
+
+117 THE WAIE OF THE CROSSE,
+
+
+by which
+Christ hauing receiued his iudgement to be cruci∣fied,
+went forward with painefull and bloudy steps to
+mount 
+Caluary.
+
+
+
+For beginning at the Pallace of 
+Pilate
+ he made
+sixe and twenty steppes (which make threescore and
+fiue foote) vnto the place where the crosse was layde
+vpon him.
+
+
+From whence (all the cittye gazeing on him) ca∣rying
+his crosse on his sore shoulders, hee came to∣wardes
+the Weste, or rather North-weste, foure∣score
+steppes, which make two hundred foote, to
+the place, where men say, that hee fell downe vnder
+his crosse.
+
+
+From thence going forward, by threescore steppes
+and three foote (which make a hundred fiftie and
+three foote) hee came to the place where the blessed
+virgin 
+Marye
+ with 
+Iohn
+ the Apostle mette with
+him.
+ And proceeding from hence by threescore
+and eleuen steppes, and one foote and a halfe (which
+make a hundred seuentie and nine foote) he came vn∣to
+a certaine crosse way, where 
+Simon
+ of 
+Ciren
+ was
+compelled to beare the hinder parte of the crosse with
+Christ.
+
+
+Taking his way hence by one hundred ninetie
+and one steppes, and halfe a foote, (which commeth
+to foure hundred and seuenty foote) hee came to the
+place where a certayne woman mette with him. And
+from thence going three hundred thirtie sixe steppes
+and two foote, (which amounte to eighte hundred
+fortie and two foote) hee came to the 
+Iudiciarie
+ gate
+where once againe he fell with his crosse.
+
+
+From thence hee ascending faintely a very heard
+and stony way towardes the North, hee gained three
+hundred forty and eighte steppes and two foote (the
+summe eight hundred seuentye and two foote) which
+broughte him vnto a two foulde way, where certaine
+women weeping spake vnto him: And from hence
+
+
+laboring forwarde threescore steppes and one and
+halfe a foote, (which make foure hundred and foure
+foote) hee fell downe the laste time, at the foote of
+the mounte 
+CALVARIE.
+ From thence hee weari∣lie
+and faintingly went forwarde eighteene steppes, or
+fortie fiue foote to the place where the hange-men
+drewe off his cloathes, where they gaue him to drinke
+wine mixt with mirrh and gaule.
+
+
+Then hee went on twelue steppes, or thirty foote
+euen to the place where hee was nayled on the crosse
+on mounte 
+CALVARIE.
+ So that from the Pallace
+of 
+Pilate,
+ vnto the place where Iesus was crucified,
+the distance is a thousande three hundered and seuen
+steppes: or by another accoumpt, three thousand two
+hundred sixtie and eight foot,
+
+
+We haue made such exacte descripion and de∣monstration
+of the way of the crosse (as also the way
+of the Captiuity hereafter expressed vnder the num∣ber
+of two hundred and seuen) to the ende that eue∣rie
+Christian man, in all places, euen in the doores
+of his house, or walking often times in his garden,
+or being in a iourney, or in the Temple, either lying
+in his bedde, may by the Imaginination of his minde
+conceiue the like way, and with godly affection of the
+hearte may meditate vpon the passion of Christ: the
+which no doubt is both acceptable vnto God, and for
+our owne soules health moste profitable as the holy
+Scriptures, and the writinges of good men by their
+often exhortations do testifie.
+
+
+
+
+
+
+
+
+118. THE WAY OF ENTRANCE EOR THE HOR¦SES,
+
+
+
+which was betwene the pallaces of 
+Salomon,
+
+and of the Queene.
+ By which 
+Athalia
+ the Queene be∣ing
+brought out of the horsse gate, was slaine in the
+valley of the Brooke 
+Cedron.
+
+
+
+
+
+
+119 THE GALLERY,
+
+
+made in forme of a stone bridge,
+with many arches, extending it selfe with ample
+largenesse ouer the common streete, adorned with o∣pen
+walkes vppon the same. From the which there
+was a passage from the pallace of 
+Pilate,
+ into the cast∣le
+of 
+Antonia,
+ and so from thence into the Temple.
+Frō this place, being very safe, y
+e
+ Lieutenants of Rome
+were wont to speake vnto the people.
+ Whereon 
+Pi∣late
+
+standing, exhibited 
+Iesus
+ to the Princes and peo∣ple
+of the Iewes to bee looked on, being very soare
+scourged, spit on, cloathed with a purple cloake, and
+wearing a sharpe crowne of thornes vppon his head,
+
+saying vnto them 
+Behould the man;
+ that he being thus
+afflicted,
+ they might haue compassion on him. But
+they with confused voyces cried,
+ 
+crucifie him, cruci∣fie
+him.
+ Whereas yet an arch of stone is to be seene,
+and is shewed vnto straungers, with this Inscription:
+
+Tolle, Tolle, crucifig
+—the rest cannot be red, by reason
+antiquitie hath worne it out. From this 
+Gallery
+ kinge
+
+Agippa
+ pronounced an eloquent oration to pacifie
+the sedicious people, exhorting them to obay the 
+Ro∣maines,
+Iosephus
+ maketh mention many times of this
+
+Gallery.
+
+
+
+
+
+
+
+
+120 THE CROSSE OF CHRIST,
+
+
+which was layd on
+his shoulder,
+ was fiftene foote long, and eight foot
+ouer, as we haue receiued by tradition of the elders.
+
+
+
+
+
+
+121 HERE
+
+
+it is sayd that Christ fell the first time vnder his
+crosse.
+
+
+
+
+
+
+122 HERE
+
+
+also by tradition of some fathers,
+ it is sayde,
+that the blessed virgin Marye with 
+Iohn
+ and cer∣teine
+godly women stoode,
+ as Christe passed by with
+his crosse.
+
+
+
+
+
+
+123. CHRIST, being com to these two waies,
+
+
+and being
+wearied with the heauy burden of his cros,
+ is said
+to haue fallen.
+ For the which cause,
+ the soldiors and
+Iewes,
+ fearing that he would faint, before he could be
+crucefied,
+ tooke a certaine man comming out of the
+country,
+ named 
+Simon
+ of 
+Cyren,
+ and compelled him
+to carry the crosse after Iesus.
+
+
+
+
+
+
+
+
+
+
+THE THIRD PARTE OF THE CITTIE.
+
+
+124 
+T
+HE SECOND CITTIE.
+
+
+ This is
+the thirde parte of the cittye,
+ the
+which also had many narrow waies
+wherof mention is made somtime
+in the Scripture wherein amonge
+others many prophets and noble∣men
+dwelt.
+ This when the 
+Romaines
+
+had gotten,
+ they were by the seditious againe driuen
+out of the cittie.
+
+
+
+
+
+
+THE PLACES OF THE SECOND
+CITTIE.
+
+
+
+
+125. THE LAKE AMYGDALON,
+
+
+ neere vnto the
+which 
+Titus
+ erected a Bulwarke.
+
+
+
+
+
+
+126. THE HOVSE OF MARIE,
+
+
+the mother of 
+Iohn,
+
+and of 
+Marke,
+ one of the seuenty and two disciples
+of Christ, wherin the faithful of the primitiue church,
+were wont to assemble themselues, & to pray. Where
+also after the martirdome of 
+Iames
+ the Apostle, 
+Peter
+
+being caste into prison by 
+Herod Agrippa,
+ they praied
+without ceassing for his deliuerance. Who at the laste
+being brought out of prison by the angell, and knock∣ing
+at the dore of this house, was by a damsell brought
+
+
+into the same. In the which place afterward a church
+was builded which was the firste of the Christian
+Greeks. And is an episcopall seate, which the 
+Sirians
+
+hould vnto this day.
+
+
+
+
+
+
+127. THE HOVSE OF OLDA THE PROPHETES,
+
+
+
+the wife of 
+Sellum;
+ a famous noble-man the greate
+vncle of the prophet 
+Ieremy:
+ whose counsell being as∣ked
+by the king 
+Iosias,
+ she foretould him of the destru∣ction
+of 
+Ierusalem.
+
+
+
+
+
+
+128. A CONDVIT,
+
+
+and fountaine, which by pipes sent
+forth water alofte:
+ and by the like pipes deriued wa∣ter
+into 
+Herods
+ pallace, and about the same, filling the
+cesterns thereof.
+
+
+
+
+
+
+129 THE WOOD MARKET
+
+
+which 
+Cestius
+ set on fier.
+
+
+
+
+
+
+130. THE HABITATION OF THE RECHABITES
+
+
+:
+
+who liuing religiously according to the comman∣dement
+of their Father, possessed neither fieldes nor
+vineyards, and like pilgrims of this world, dwelt not in
+houses but in tents, and wholely abstained from wine.
+Wherfore when through the necessitie of warre they
+were cōpelled to come into the citty, 
+Ieremy
+ drinking
+vnto them by the cōmandement of God, they would
+drink no wine. By which example of their obedience,
+the same prophet reprehended the disobedience of
+the obstinat Iewes, neglecting the commandement of
+God; and therefore he did set before the one a punish∣ment,
+and before the other a rewarde.
+
+
+
+
+
+
+
+
+131 A LAKE,
+
+
+which was situate betwene two walles of
+the citty,
+ whereof mention is made in 
+Isai
+ the pro∣phet.
+
+
+
+
+
+
+132 THE MIDDLE TOWER,
+
+
+ which was in the mid∣dle
+wall.
+
+
+
+
+
+
+133 A MONVMENT
+
+
+of 
+Allexander Iannaeus
+ the high
+Priest and king,
+ wherein he was buried by the au∣thority
+of the 
+Pharasies
+ very sumptuously.
+
+
+
+
+
+
+134 A MONVMENT
+
+
+of 
+Iohannes Hircanus,
+ highe
+priest and Captaine: of whome mention is often
+made in 
+Iosephus.
+
+
+
+
+
+
+135. THE SECOND WALL,
+
+
+ the which is also called
+the middle wall,
+ bewtified with many gates,
+ and
+deuided with fourteene towers▪ the which wall 
+Eze∣chias
+
+the kinge repaired, and made more stronge and
+higher.
+
+
+
+
+
+
+136 THE PALLACE OF HEROD,
+
+
+ the which was
+builded by HEROD the 
+Ascalonite
+ kinge of the
+Iewes, (who killed the Innocents) with sundry sorts of
+pollished marble stones nere vnto the west wall of the
+cittie, from the old wall, euen to the middle wal: being
+
+
+most singularly bewtified with siluer and gould most
+strongelie fortefied with an iron gate,
+ and three most
+excellent towers,
+ to wyt, 
+Hippic, Mariam,
+ and 
+Phasel,
+
+which in greatnes, strength and beautie, excelled all
+the towers of the whole world. Within was the kings
+haule, which being builded on high and verie loftie
+with vnspeakable magnificence, was wholly cōpassed
+about with moste beautifull towers,
+ parlours, cham∣bers,
+galleries, porches, & with pillers, with the which
+there was an inclosed court open to the ayre.
+
+
+In this haule, Christ was presented to 
+Herod Anti∣pas
+Tetrarch
+ of 
+Galilie,
+ who killed 
+Iohn
+ the 
+Baptist;
+
+which 
+Herod,
+ asked Christ many questions, who was
+there constantly accused by the Iewes. Whom, when
+he answered nothing,
+ the same 
+Herod
+ and his whole
+rout despised and scorned:
+ and so sent him to 
+Pilat
+
+clad in white, as if he had bene a foole, or a iester. But
+nowe this pallace is a scoole for children of the In∣fidelles.
+
+
+
+
+
+
+137. THE MIDDEL GATE,
+
+
+ of the second wall, wher∣in
+the vttermost walles being broken, the princes
+of the king of 
+Babilon
+ did sit.
+
+
+
+
+
+
+138. THE VTTERMOST COVRT,
+
+
+compassing the
+
+Haule of Herod
+ round about,
+ where the kings soldi∣ers
+did watch and ward. Wherin was the kings pri∣son
+whereinto malefactors were put. In this prison
+Saint 
+Peter
+ was shut vp by king 
+Herod Agrippa,
+ who
+had slane 
+Iames
+ the greater. Which 
+Peter
+ being
+bound with two chaines, & most safely kept by fower
+quaternions of soldiors all the daies of sweete bread:
+
+
+But in the night before the day whereon hee should
+haue bene put to death, he was by the Angell of the
+Lord loosed from his chaines, and by him brought
+foorth through an iron gate, by the first and second
+watch, into the cittie.
+
+
+
+
+
+
+139 THE LAKE, CALLED STRVTIVM,
+
+
+which was
+the middle Lake.
+ Here also 
+Titus
+ caused a bulwark
+to be made.
+
+
+
+
+
+
+140. THE TOWER HIPPIC:
+
+
+The which being fower
+square,
+ was builded in the second wall, vpon a high
+hill. It was fower score and fiue cubits high, and ha∣uing
+two toppes was to be seene a far off. It was mar∣ueilouse
+strong, builded by 
+Herod
+ the elder: who ha∣uing
+in the warre lost his friendes the 
+Hippics,
+ called
+this tower after their name 
+Hippic.
+
+
+
+
+
+
+141. THE TOWER MARIAMME,
+
+
+ The which beeing
+fiftie cubits high stood aloft in most bewtiful man∣ner,
+vpon a high hill of the ould wall, the which 
+Herod
+
+builded for a memoriall of 
+Mariamme
+ his best belo∣ued
+wife, whom he had slaine, and called it after her
+name 
+Mariamme.
+ And because it caried the name of
+a Queene, therefore it was more beautifull in shewe
+then the other.
+
+
+
+
+
+
+142. THE TOWER PHASELVS,
+
+
+ which being fower-score
+& ten cubits high, set vpon a high place of y
+e
+
+ould wall, and made alofte in forme of a ball was of
+
+
+woonderful height and exceding strong.
+ Which 
+He∣rod
+
+builded after the fashion of the tower 
+Pharus
+ in
+
+Alexandria.
+ And in the honor of his brother 
+Phaselus
+
+called it 
+Phaselus,
+ who being taken prisoner by the
+
+Parthians,
+ and hauing no libertie to vse neither wea∣pon
+nor hands: ran his head against a stone and so kil∣led
+himselfe. How this and the other two towers were
+left standing after the destruction of 
+Ierusalem,
+ reade
+vnder the nomber of (1.) going before.
+
+
+
+
+
+
+143. HERODS PARKE,
+
+
+which had in it an orchard & a
+garden,
+ watered with ponds, riuers, & fountaines:
+replenished with sundry wild beastes, fishes and fouls:
+hauing many large walkes, & round about the same,
+many towers of tame doues.
+
+
+
+
+
+
+144 THE HOSPITALL,
+
+
+ which 
+Hircanus
+ the highe
+priest founded, with the mony which he got out of
+the sepulcher of 
+Dauid.
+ wherin pilgrims, poore men,
+and such as were Impotent were sustained and kept.
+
+
+
+
+
+
+145. THE WRESTLING PLACE,
+
+
+ the which was pla¦ced
+in 
+Herods Pallas.
+ It was large, seruing in the
+winter time for wrestlers, and for other exercises, and
+pastimes, wherewith men recreated themselues.
+
+
+
+
+
+
+
+
+
+
+THE FOVRTH PARTE OF
+THE CITTIE.
+
+
+146. 
+T
+HE NEWE CITTIE,
+
+
+called in
+Greeke 
+Caenopolis,
+ the fourth parte
+of the cittie;
+ the which was seuered
+as the other parts of the cittie were
+with walles, and many narrowe
+waies, which went cros, extending
+to the walles of the cittie. Where∣in
+dwelt woolle sellers, Carpenters, Smithes, and other
+workemen and artificers.
+
+
+
+
+
+
+THE PLACES OF THE NEW
+CITTIE.
+
+
+
+
+147 BEZETHA,
+
+
+a mountaine,
+ the which hauing many
+houses built theron was inhabited by the common
+sorte of people.
+
+
+
+
+
+
+148 THE CASTEL OF THE ASSIRIANS,
+
+
+ nere vn∣to
+the which 
+Titus
+ pitched his tentes, at such time
+as he had gotten the wall of the citty. This castle stood
+more then an arrow shoote from the second wall.
+
+
+
+
+
+
+
+
+149. THE THIRD WALL,
+
+
+the which also is called
+the outset wall, which kinge 
+Agrippa
+ made vp∣on
+the common charge of the cittizens,
+ extending
+it more broad and highe then it was before. This wall
+was very firme and strong, fiue and twenty cubits
+high. It had foure score and tenne square and loftie
+towers which were of greate force, distant one from
+the other two hundred cubits; whose building and
+bewty in stone worke, was nothing inferior to that of
+the temple.
+
+
+
+
+
+
+150 THE BROADE STREETE:
+
+
+ the which also was ca∣led
+the streete of the gate of 
+Ephraim.
+
+
+
+
+
+
+151 THE KINGES CAVES,
+
+
+ vpon the which the third
+wall of the cittie was builded in length.
+
+
+
+
+
+
+
+
+THE GATES AND TO∣WERS
+ABOVT THE CITTIE.
+
+
+
+
+152 CAPHETETA,
+
+
+ the Easte wall of the Cittye vppon
+the brooke 
+Cedron,
+ which 
+Ionathas Machabeus
+ re∣paired.
+
+
+
+
+
+
+153 THE CORNER STONE,
+
+
+ which was moste harde,
+being the firme foundation of mounte 
+Sion.
+ This
+
+
+was a figure of Christ,
+ who is the stronge and stable
+foundation of his church.
+
+
+
+
+
+
+154 THE GATE OF THE CORNER,
+
+
+so called be∣cause
+it was situate in the north-easte corner of the
+cittie,
+ next vnto the brooke 
+Cedron.
+ The which also
+was called the gate of 
+Beniamin,
+ bicause the way led
+through the same vnto the tribe of 
+Beniamin.
+ By this
+gate,
+ wood was brought into the cittie out of the de∣sert.
+
+In this gate also 
+Ieremy
+ the prophet was appre∣hended,
+
+whose ruines are nowe to bee seene a greate
+way out of the cittie.
+
+
+
+
+
+
+155 THE GOVLDEN GATE,
+
+
+situate betwene the
+gate of the valley and the gate of the fountaine, so
+called bicause it was gilden with goulde:
+ It was also
+called the Easte gate,
+ bicause it was builded on the
+easte side of the Temple.
+ And bicause it led by a ve∣ry
+shorte way, from the temple of mounte 
+Oliuet,
+ it
+was rather a gate of the temple then of the cittie:
+ and
+therefore 
+Neemias
+ maketh no mention thereof. By
+this gate Christe came riding vppon an asse into the
+cittie of 
+Ierusalem
+ at what time men cutte downe
+palmes and strowed them in his way, crying 
+Hosanna
+
+before him.
+
+
+
+
+
+
+156 THE GATE OF EPHRAIM,
+
+
+ which now of som is
+called Saint 
+Stephens
+ gate,
+ situate on the north part
+tending toward the way which leadeth vnto the tribe
+of 
+Ephraim,
+ where vppon it was called the gate of 
+E∣phraim.
+
+From this gate vnto the gate of the corner
+
+
+
+Ioas
+ king of 
+Israell,
+ beate downe the wall of 
+Ierusalem
+
+by the space of foure hundred cubits,
+ and in trium∣phant
+manner hee being caried into the cittie in his
+chariot through that breach, became Lorde of the
+cittye. The which wall together with the towers
+thereof, 
+Ozia
+ kinge of 
+Iuda
+ afterwarde restored a∣gaine.
+
+
+
+
+
+
+157. THE WATER GATE,
+
+
+ the which was situate be∣twene
+mount 
+Sion,
+ and the mount 
+Moria,
+ in the
+valley called 
+Mello,
+ toward the east. It was called the
+water gate, bicause it opened a passage, vnto the foun¦taine
+of the water of 
+Siloe:
+ and bicause horses were ca∣ried
+through the same to be watred in the brooke 
+Ce∣dron.
+
+And for this cause it was called the easte horse
+gate and it tended toward the valley 
+Gehennom.
+
+
+
+
+
+
+158 THE GATE GENATH,
+
+
+or the gate of kinge
+
+Herods
+ Garden,
+ which was not farre from the se∣cond
+wall of the cittye. By which, water was brought
+vppe into the Tower 
+Hippic.
+ By this gate the sedi∣tious
+priuily salyed out many times vppon the 
+Ro∣maines.
+
+
+
+
+
+
+159 THE GATE OF THE KINGES GARDEN,
+
+
+
+which in mounte 
+Sion
+ was placed betwene two
+walles of the castle: by which kinge 
+Zedechias
+ fled in
+the night.
+
+
+
+
+
+
+
+
+160 THe gate of the high priests pallace,
+
+
+ at the south side
+of the cittie.
+
+
+
+
+
+
+161 THE FISH GATE,
+
+
+ the which was situate nexte to
+the tower of 
+Dauid
+ in the valley 
+Mello,
+ betweene
+mount 
+Sion,
+ and the lower cittie, towardes the weste:
+and by the vault adioyning to the same,
+ it gaue a con∣uenient
+passage too and from the cittie to euery man.
+And it was called the fish gate, because through the
+same, fishes were brought into the cittye from 
+Ioppe,
+
+and from other townes of the sea cost. This also had
+other names, as the gate of 
+Dauid:
+ and the marchants
+gate. 
+Dauids
+ gate, bicause it was nexte to 
+Dauids
+ to∣wer:
+& the merchants gate, bicause by the same much
+marchandize were carried into the cittie from 
+Bethe∣lem,
+Hebron, Gaza,
+ from 
+AEgipt,
+ and from 
+AEthio∣pia.
+
+By this gate strangers that came from the weste,
+were wont to enter into the cittie.
+
+
+
+
+
+
+162. THE DOVNG GATE,
+
+
+ on the east side of the cit∣tie,
+toward the corner gate, on the north-east, cari∣ed
+all the doung and filth of the cittie which the raine
+gathered together, into the brooke 
+Cedron.
+ Where
+vpon it was rightly called the doung gate.
+
+
+
+
+
+
+163. THE GATES OF WOMENS TOWERS
+
+
+.
+ On the
+north end of the citty,
+ by which the seditious brake
+forth vppon the 
+Romaines,
+ when they beseeged the
+cittie.
+
+
+
+
+
+
+
+
+164. THE VALLEY GATE,
+
+
+ so named,
+ bicause it made
+way into the valley of 
+Iosephat,
+ situate in the midst
+betwene the doung gate,
+ and the goulden gate, and
+not far distant from the sheepe market,
+ and the poole
+called 
+Probatica.
+ The which also for this cause deser∣ued
+to be called the droue gate,
+ bicause the flockes of
+cattell which were soulde in the sheepe market and
+were to bee offered for sacrifice in the temple, were
+brought in by this gate. But now it is called Saint 
+Ste∣phens
+
+gate of the first martyr 
+Stephen,
+ which was sto∣ned
+to death not far from the same.
+
+
+
+
+
+
+165. THE OLDE GATE,
+
+
+which being on the west part
+of the cittie,
+ was called in time past by the 
+Iebusites
+
+the gate 
+Iebus.
+ It was also called the iudgement gate,
+bicause in olde time,
+ the Iudges did sit there in Iudge∣ment.
+
+For then the Seniors did exercise iustice and
+Iudgement in the gates of their citties.
+ And such as
+were condemned to die, went out at this gate.
+ Where
+vpon Christ was led out of the same to bee crucified.
+
+Of this gate, there are at this day some oulde remain∣ders
+and ruines to be seene.
+
+
+
+
+
+
+166 THE ROCKE
+
+
+: which was very high, going alonge
+from the tower 
+Psephina
+ vnto mounte 
+Sion,
+ vpon
+the which the whole west wall of the cittie stood.
+
+
+
+
+
+
+167 THE TOWER ANANEEL,
+
+
+ the which being not
+far distant from the corner gate,
+ towards the easte
+
+
+and by north,
+ was very stronge and notable: whereof
+the holy scripture maketh mention often times.
+
+
+
+
+
+
+168 THE CORNER TOWER,
+
+
+ standing alofte vppon
+the corner gate, which kinge 
+Ozias
+ did strongly
+repaier, and made it one hundred and fifty cubites
+high.
+
+
+
+
+
+
+169 THE TOWER OF DAVID
+
+
+:
+ stronge and loftie,
+the which was builded by king 
+Dauid
+ in a corner
+of two deepe valleys,
+ on the toppe of a broken rocke,
+with foure square stones moste firmely ioyned toge∣ther
+with Iron and leade: whose singular fortitude,
+and notable bewty, for the commendation of Christs
+spouse (which is the Church) is spoken of by 
+Salomon
+
+when he saith. 
+Thy neck is like the tower of Dauid, buil∣ded
+with bulwarkes, where vppon there hang a thousand
+shields;
+ 
+yea all the weapons of the Giants.
+
+
+
+
+
+
+170 THE HIGH TOWER,
+
+
+ which was builded vppon
+the gate of the valley.
+ The which also kinge 
+Ozias
+
+repaired, and that it might be seene beyonde mounte
+
+Oliuet,
+ hee made it one hundred and fiftye cubites
+high.
+
+
+
+
+
+
+171 THE LANTERN TOWER,
+
+
+situate on the North
+end of the cittie, which men thinke was so called,
+bicause fier was continually kepte there,
+ to serue as a
+marke both for land and seafaring men, to direct them
+the right way.
+
+
+
+
+
+
+
+
+172. THE GREAT TOWER,
+
+
+ which standing neere the
+wall of the temple was higher then the rest.
+
+
+
+
+
+
+173. THE TOWER MEAH,
+
+
+ otherwise 
+Emat,
+ that is
+to say of one hundred cubits, which was not farre
+from the temple.
+
+
+
+
+
+
+174. THE TOWER PSEPHINA,
+
+
+ which was eighte
+square, of seuenty cubits highe, founded at the
+North-weste corner of the cittie,
+ vppon a very high
+rocke: being like a stronge tower, which by reason of
+the exceding hight thereof was feareful, from whence
+on a cleere day, men might behould 
+Arabia,
+ the sea,
+and the vttermoste borders of the 
+Hebrues.
+ The ruines
+whereof are as yet to be seene.
+
+
+
+
+
+
+175 THE TOWER OF SILOE,
+
+
+ which falling in
+Christs time slue eighteen men.
+
+
+
+
+
+
+176 THE DEEP VALLEY,
+
+
+ which compassing mount
+
+Sion
+ on the North and south parte, went all along
+the weste side of the cittie, euen to the gate of 
+Ephra∣im,
+
+making a fitte and conuenient ditch for the Cit∣tie.
+
+
+
+
+
+
+
+
+
+
+THE PLACES WITHOVT
+THE CITTIE. THE PLACES AT THE EAST PART
+OF THE CITTIE.
+
+
+
+
+177. THE WATER,
+
+
+ which was brought out of the tem∣ple
+by conduit pipes vnder the earth, issued foorth
+here with greate noise,
+ and so ranne into the brooke
+
+Cedron.
+
+
+
+
+
+
+178. BETHANIA,
+
+
+the noble castle of 
+Marry
+ and of 
+Mar∣tha
+
+the sisters of 
+Lazarus,
+ hauing many houses, the
+which was situat beyond mount 
+Oliuet,
+ distant from
+
+Ierusalem
+ fifteene furlongs,
+ that is, two Italian miles.
+From which place, though it were but a little way off,
+yet by reason that mount 
+Oliuet
+ lay betwene, the cit∣tie
+
+Ierusalem
+ could not be seene: excepte from a little
+hill from whence part of mount 
+Sion
+ might be seene.
+Christe often times lodged in this house of 
+Martha:
+
+where he preached the worde of God to 
+Mary
+ sitting
+at his feete. Here he raifed vp 
+Lazarus
+ to life, after he
+had beene buried foure daies, and began to stincke.
+Here, hee sitting in the house of 
+Simon
+ the leaper, at
+the table together with 
+Lazarus, Martha
+ seruing thē
+
+Mary
+ annointed him with a most pretious ointment.
+
+
+
+
+
+
+
+
+179. BETHPHAGE,
+
+
+ a little village, belonging to y
+e
+ priests
+situate at the east foote at the mounte 
+Oliuet,
+ from
+whence Christ sente two of his disciples vnto the Ca∣stle
+
+Opposite,
+ or ouer againste them,
+ to fetch the Asse
+and the Coulte. The which brought, and the disci∣ples
+cloathes laide on the Coulte, hee roade on the
+same into 
+Ierusalem.
+ But comming down from mount
+
+Oliuet,
+ and seeing the cittie, he wept on her, and pro∣phesied
+hir vtter ruine bicause she knew not the day of
+hir visitation.
+
+
+
+
+
+
+180 THE CASTLE OPPOSITE,
+
+
+ or which lyeth o∣uer
+against you (to vse the wordes of Christ) when
+he sent his disciples to fetch him the Asse.
+ It was a vil∣lage
+right ouer against 
+Bethphage.
+
+
+
+
+
+
+181 THE WELL,
+
+
+ nere vnto 
+Bethanie,
+ where when the
+Lorde came to raise vp 
+Lazarus, Martha
+ first met
+with him, and afterward called forth hir sister 
+Mary.
+
+
+
+
+
+
+182 THE LITTLE HILL,
+
+
+at the foote of mounte 
+Oli∣uet,
+
+neere vnto the Doue-house a little aboue the
+valley of 
+Siloe.
+
+
+
+
+
+
+183. THE WITHERED FIG-TREE,
+
+
+planted beside the
+way of 
+Bethanie,
+ the which bearing no fruite, but
+garnished only with leaues, was curssed of Christ and
+so presently withered.
+
+
+
+
+
+
+
+
+184 THE DRAGON FOVNTAINE,
+
+
+which doth
+springe euen at this daye,
+ which was betwene the
+valley and the dung gate.
+
+
+
+
+
+
+185. GEHENNOM,
+
+
+the which also was called 
+Benhen∣nom,
+
+that is to say, the valley of the sons of 
+Ennom.
+
+It was a place which was situate in the Suburbes of
+the cittie of 
+Ierusalem
+ towarde the South-easte.
+ In
+which place of 
+Benhinnom
+ was the tabernacle and the
+Idole 
+Moloch:
+ the which Idole as it was chiefe and
+principall amonge all the other Idols, so the same
+being the greatest abhomination and moste hated
+vnto God, hee often times forbad the same in the
+scriptures. It was an Idoll the matter whereof was
+brasse; made in the likenesse and similitude of a king,
+it was hollow within, and had a head like to the head
+of a Calfe, the other partes or members of the bo∣dy
+hauing the shape and fashion of a man, the armes
+whereof were stretched out: whereto the children that
+shoulde bee offered were made faste, with the vehe∣ment
+and extreame heate of the Idoll were burned
+and vtterly consumed being so houlden as it were of
+the same betweene his armes. For when the Idoll
+was made red whot with the fier which they had
+put into the hollownesse of the same, then the moste
+wicked parents of these children in moste cruell and
+barbarous manner, deliuered vppe their sonnes and
+their daughters to these detestable and diuelish Im∣bracings
+
+
+of the Idoll, that so they mighte bee burnte.
+And this they did of a certaine deuelish deuotion,
+offeringe them vppe to the Diuell 
+Moloch
+ for a burnt
+offering of moste filthie sauour. Amiddest these
+horrible tormentes where with they were thus tor∣mented,
+the miserable Clamor of the children could
+in no wise bee heard, whereby the parentes mighte
+in any sorte bee moued to pittie or compassion, for
+that the priestes of this Idole 
+Moloch,
+ during the
+whole time of the sacrifice,
+ did vsually make an ex∣ceeding
+greate noise both with the trumpettes and
+drums.
+
+
+Wherevppon that place was called also 
+Tophet.
+ In
+this abhominable manner,
+ 
+Achaz,
+ and 
+Manasses
+
+also,
+ kinges of Iuda, beeing euen as madde as the
+Common people, offered vppe their sonnes to the
+Diuell 
+Moloch.
+ The which detestable madnesse, the
+godly kinge 
+Iosias
+ seeking at the length to redresse,
+brake in peeces the image of 
+Moloch,
+ cut downe his
+Groues, and defiled the place thereof with the fil∣thinesse
+of dead Carcasses, of bones, and of other vn∣cleane
+thinges, and appointed it to bee a perpetuall
+dunghil for euer.
+
+
+In this Valleye 
+Ieremye
+ at the commandement
+of GOD,
+ breaking an earthen potte in peeces against
+the grounde,
+ before the Elders of 
+Iuda:
+ prophesied
+that GOD woulde after the selfesame manner, break
+and destroye both the Cittye and the people. Ac∣cording
+to which prophesie, there was so great and
+mightie a multitude of people slaine there, because
+they had filled this place with the bloud of Innocent
+children, that this place was called no more the val∣ley
+of 
+Tophet,
+ but 
+Poliandron,
+ that is to saye a heape
+of manye dead bodies, whose Carcases lyeng
+
+
+there vnburied, became meat for the birdes of the
+ayre and for the beastes of the field.
+
+
+
+
+
+
+186. GETHSEMANI,
+
+
+a ferme place, at the foote of
+mount 
+Oliuet.
+ This had manie fruitfull oliue trees.
+When Christ intended to go vnto the garden that
+was in mount 
+Oliuet,
+ he came from his last supper in∣to
+this place, heauie and sorrowfull vnto the death.
+
+
+
+
+
+
+187 THE GARDEN OF OLIVET,
+
+
+in the mount of
+
+Oliuet,
+ where Christ praied vnto his father three
+times,
+ that the cuppe of his passion might passe from
+him.
+ And being in an agony, as he continued in prai∣er,
+
+he swet bloud which fel droppe by dropp vnto the
+earth:
+ at what time hee was comforted by an angell
+from heaueu.
+ In 
+Hieroms
+ time there was a Church
+builded on this place,
+ which is as yet to be seene.
+
+
+
+
+
+
+188 THE KINGS GARDEN,
+
+
+the which also was cal∣led
+the inclosed garden.
+ It was in the Suburbes of
+
+Ierusalem,
+ walled round about. And like to a parra∣dise
+it was planted with trees,
+ of all sorts of fruits,
+ with
+hearbes,
+ with flowers of most sweet sauour, and what
+soeuer els that might delight the sences.
+ It had also
+most pleasant and conuenient walkes. In this was that
+famous fountaine 
+Rogel,
+ & the stone 
+Zoeleth,
+ of both
+which there is often mencion made in the Scripture;
+where 
+Adonias
+ when he purposed to raigne, offered
+oblations, and with his followers made a feast.
+
+
+
+
+
+
+
+
+189. THE GROAVE OF MOLOCH,
+
+
+ consecrated to
+the Idol 
+Moloch:
+ where the worshippers thereof,
+after they had ended their sacrifice, committed forni∣cation
+vnder the shadow of the trees.
+
+
+
+
+
+
+190 THE MOVNT OF OFFENCE
+
+
+;
+ it was a very high
+mountaine,
+ situate on the south side of the kinges
+garden. Where the moste wise 
+Salomon
+ being nowe
+old, was seduced & made folish by his strange wiues,
+building a temple to 
+Melchom
+ the Idoll of the 
+Ammo∣nites,
+
+which also he worshipped.
+
+
+
+
+
+
+191 THE MOVNT OLIVET
+
+
+; or mounte of Oliues, so
+called by reason of the great plenty of oliues which
+grew there: called also in Greeke 
+Elaeon,
+ which other∣wise
+also is named the famous, and holy mountaine.
+It was situate on the east side of 
+Ierusalem.
+ It was se∣perated
+from the high cittie, the valley of 
+Cedron
+ ly∣ing
+betwen, distant from the cittie a Saboth daies ior∣ney,
+according to the Scripture: but according to 
+Io∣sephus,
+
+it was distant fiue furlonges: who also addeth
+that the top of the hill was six furlongs from the citty.
+
+For it was of so greate hight,
+ that from the same, not
+only almost all the streetes of 
+Ierusalem
+ but also the
+dead sea,
+ might easily be seene. And besides the oliues
+it abounded with palmes,
+ pines, mirtells, and other
+fruitful trees.
+
+
+In the toppe of this hill, the holy king 
+Dauid
+ fleeing
+from the face of his sonne 
+Absolom,
+ weping, and bare∣footed
+worshipped God.
+ In this mountaine also his
+
+
+sonne 
+Salomon
+ forgetting all godlinesse,
+ erected a
+temple to 
+Astaroth
+ the Idole of the 
+Sidonians,
+ right
+ouer against the temple of 
+Ierusalem
+ (from whence e∣uery
+one that committed Idolatry mighte beeseene.)
+The which also with all other places dedicated to I∣dols,
+
+Iosias
+ vtterly destroied.
+
+
+Christ often times came vp into this mountaine,
+both for quietnesse sake and also to pray,
+ tarieng there
+all the night.
+ Also from the top of this mount, he as∣cended
+into heauen,
+ in the presence of his disciples
+standing there and behoulding him, after he had bles∣sed
+them.
+
+
+
+
+
+
+192. THE MOVNT OF OFFENCE,
+
+
+a high mountain,
+on the other side of the brooke 
+Cedron,
+ and on the
+North side of the mounte 
+Oliuet,
+ distant from 
+Ieru∣salem
+
+foure furlonges.
+ Whereon 
+Salomon
+ by the mo∣tion
+of his heathenish wiues,
+ builded a Temple to
+
+Chamosh
+ the Idole of the 
+Moabites.
+ This also 
+Iosias
+
+brake downe. In the time of the 
+Machabees
+ a Castle
+was builded on this mount, some tokens whereof are
+to be seene at this day.
+
+
+
+
+
+
+193 THE FVLLERS MONVMENTE
+
+
+: the which
+was not farre from the Corner gate,
+ in the North-easte.
+
+
+
+
+
+
+194. THE PALME TREESE,
+
+
+ wherof mention is made
+in 
+Neemias,
+ and in Saint 
+Iohns
+ Gospell.
+
+
+
+
+
+
+
+
+195 THE DOVE-HOVSE,
+
+
+on the South ende of the
+mount 
+Oliuet;
+ It was made of stone, round, loftie,
+and fashioned like a tower, wherin were store of doues
+to the number of foure or fiue thousand.
+
+
+
+
+
+
+196. THE BRIDGE OF CEDRON,
+
+
+ made of stone,
+with one arche erected ouer the brooke 
+Cedron,
+
+which 
+Helena
+ the Emperes caused to be made in that
+place.
+
+
+
+
+
+
+197. THE SEPVLCHER OF THE VIRGIN MARY,
+
+
+
+which was in the valley of 
+Iosaphat
+ neere vnto the
+ferme place of 
+Gethseman,
+ at the foot of mount 
+Oliuet
+
+wherein the body of the most holy and blessed virgin,
+was decently buried by the Apostles.
+
+
+
+
+
+
+198. THE COMMON PLACE OF BVRIALL,
+
+
+ which
+was in the velley of 
+Iosaphat,
+ where the common
+sort of people were buried.
+
+
+
+
+
+
+199. THE FOVNTAINE OF SILOE,
+
+
+ whereto was
+ioyned the poole of 
+Siloe,
+ the which also is called
+the lower poole, lyeng on the weste side of the valley
+of 
+Iosophat,
+ and springing from the roote of mounte
+
+Sion.
+ The water thereof being cleere, sweete, and
+plentifull, ran with a still and calme streame into the
+brooke 
+Cedron.
+
+
+This fountaine kinge 
+Hezechias
+ repaired. In the
+
+
+poole of this fountain the man which was borne blind
+washing his eies which Christe had annointed with
+clay and his spittle,
+ receiued his sight.
+ 
+Iosephus
+ teste∣fieth
+that 
+Siloe,
+ and all other waters which were with∣out
+the cittie, did so faile and vanish away before the
+comming of 
+Titus Caesar,
+ that water was soulde hard
+by them.
+ And after his comming, they did so abound
+to him and his hoast, that they had water enough for
+them and for their cattell. Concerning the vertue of
+this water, the most dilligent Surueyour of this place
+
+Saligniacus,
+ writeth in this sort. 
+The water of this foun∣taine
+is of greate price at this day, euen among the Sara∣cens
+themselues. For whereas naturally they be rammage
+and stinke like Goates,
+ 
+they washing themselues and their
+children therein, doe mittigate the euill sauour thereof.
+The Turkes also make great accoumpte thereof, for that
+they finde by experience, that the vse thereof is good for
+the sight of their eies.
+
+
+
+
+
+
+200 STEPHEN,
+
+
+ the Deacon, in the very flower of his
+youth, was stoned to death, praying to God for
+them that stoned him, whose garments the young
+man Paule kept. This man, was the firste that trium∣phed
+with the palme of martirdome.
+
+
+
+
+
+
+201 THE BROOKE CEDRON
+
+
+; is a riuer on the easte
+side of 
+Ierusalem
+ betweene the same and mounte 
+O∣liuet,
+
+which being increased with diuers springs issu∣ing
+from all partes out of the mountaine,
+ and pooles,
+
+ran through the valley of 
+Iosaphat,
+ and 
+Gehennom
+ with
+a siluer streame, and so passed through the plaines of
+the wildernesse into the dead sea.
+
+
+On the bankes of both side this riuer, there grewe
+
+
+many frutefull trees: the pleasant shew whereof, toge∣ther
+with the gardens neere adioyning which were
+watered with the cristall streames of 
+Cedron,
+ greatly
+delighted the eies and mindes,
+ of such as walked by
+the same. King 
+Dauid
+ passed ouer this riuer bare foo∣ted,
+
+bare headed, and with watery eies, accompanied
+with his moste trusty frendes, fleeing from the face of
+his sonne 
+Absolom.
+ Christ also went ouer the same,
+with his disciples when hee wente to the garden of
+mount 
+Oliuet.
+
+
+
+
+
+
+202 THE VALLEY OF IOSOPHAT,
+
+
+ the which also
+is called the valley of 
+Cedron,
+ and the valley of
+
+Mountaines.
+ It is a wide and deepe valley betwene 
+Ie∣rusalem
+
+and mounte 
+Oliuet,
+ compassing the cittie on
+the east parte,
+ the which is made very fruitfull by the
+passage of the brooke 
+Cedron.
+ The greate deepenes
+of this valley was much filled by 
+Titus
+ and 
+Adrian
+
+the Romaine Emperours,
+ casting into the same great
+store of earth with the ruines of the temple and cittie,
+
+yet it was not therewith any thing neere leueled.
+ In
+this valley, the godly and religious kinges of 
+Iuda, Asa
+Ezechias
+ and 
+Iosias,
+ burned the Idols of the temple,
+and cast their ashes into the brooke 
+Cedron.
+
+
+This valley was the common place of buriall for
+the whole cittie,
+ where all the common sorte of peo∣ple
+were buried.
+ For it was the manner of the Iewes
+to bury their dead courses out of the citty. And in the
+same place, the Turkes are now buried.
+
+
+
+
+
+
+203. THE VALLEY OF SILOE,
+
+
+ so named of the
+fountane of 
+Siloe:
+ wherein the Iewes which at this
+day dwell at 
+Ierusalem,
+ are buried.
+
+
+
+
+
+
+
+
+204 THE WAIE OF THE FVLLERS FIELDE,
+
+
+ ly∣ing
+betweene the water of 
+Siloe
+ and the South-easte
+corner of the cittie.
+ Here the Prophet 
+Isaias
+
+foretoulde king 
+Achaz,
+ that Christ should be borne
+of a virgin.
+
+
+
+
+
+
+205 THE WAY OF THE CAPTIVITIE
+
+
+.
+ These
+small prickes traced foorth in length (as you see)
+doe demonstrate the way, by which Christe was
+ledde captiue for the redemption of mankinde. For
+being come into the garden of mounte 
+Oliuet
+ to pray
+after his laste supper in the parlour of mounte 
+Sion,
+
+and hauing offered to GOD his Father the holye
+sacrifice of praiers,
+ returning from thence hee mette
+with his enimies which came to take him,
+ to whome
+hee yeelded himselfe. Who hadde scarce gone for∣tie
+steppes from the place where hee prayed, but
+the soldiors which were sente from the highe priestes
+and rulers of the people, layed handes on him, tooke
+him, and bound him.
+
+
+From whence he was presently caried as a meke
+Lambe by those rauening woolues, armed with
+weapons,
+ ouer the brooke 
+Cedron,
+ to the house of
+
+ANNA,
+ which was distante from the place where
+hee was taken, two thousande three hundred and
+sixtie pases. And from hence hee was caried to the
+Pallace of 
+CAIPHAS
+ three hundred and thirtie pa∣ces.
+And so afterwarde hee was conducted by the
+souldiors and by the people to the pallace of 
+Pilate,
+
+which was distante from that of 
+CAIPHAS
+ a thou∣sande
+
+
+pases. And from thence to the pallace of 
+HE∣ROD
+
+which was distante three hundred and fiftie pa∣ces.
+Lastly from thence againe to the pallace of 
+Pi∣late
+
+hee was caried by another way then that which
+hee came, the distance of sixe hundred elles which
+make about the length of halfe a myle and more. The
+pases whereof wee speake here, containe two foot and
+a halfe.
+
+
+
+
+
+
+206 THE WAY, TO ANATHOT,
+
+
+to 
+Bethel,
+ and to
+the wildernesse.
+
+
+
+
+
+
+207 THE WAY TO IERICO, and to ENGADDI,
+
+
+ 
+of the which there is mention made in some of the
+Euangelists.
+
+
+
+
+
+
+208. HERE THE THREE APOSTLES,
+
+
+ 
+Peter, Iames,
+
+and 
+Iohn,
+ sate while Christe prayed in the Gar∣den,
+being aboute a stones caste from the selfe same
+place.
+
+
+
+
+
+
+209 HERE
+
+
+the other eight Apostles taried being distante
+about a quarter of a mile from the other three pla∣ces.
+
+
+
+
+
+
+210. HERE CHRISTE,
+
+
+ to make vs free, was betraied with
+a kisse by the Traitor 
+Iudas,
+ and was bounde with
+hard and straight bands (as if he had ben an euil doer)
+by the Iewes, whom he beate downe backward to the
+
+
+ground by the word of his mouth.
+ There 
+Simon Peter
+
+moued sodainely with great feruencie,
+ stroke the ser∣uant
+of the high Priest whose name was 
+Malchus,
+ and
+cut off his right eare: which christ immediately resto∣red
+againe. But the rest of the Apostles being afeard
+left the Lord and fled.
+
+
+
+
+
+
+211. IN this place of mount 
+Oliuet
+
+
+ right ouer against the
+temple neere to a certaine water,
+ Christ sate with his
+disciples,
+ making a longe sermon concerning the de∣struction
+of 
+Ierusalem,
+ the afflictions of the godly to
+come, the comming of false prophetes, the signes
+of the ende of the world, and concerning the manner
+of the last iudgement. In the which place, there was
+afterward builded a temple which is now desolate.
+
+
+
+
+
+
+212. THIS WAY Christ came to 
+Ierusalem,
+
+
+ sitting vp∣on
+the Asses coult,
+ wayted on with a great compa∣ny
+of men,
+ som going before,
+ and othersome follow∣ing
+after him: where vnto also a great number which
+came out of the cittie ioyned themselues. So that
+he seemed to be receiued of all men with so greate fa∣uour,
+that many spraed their cloathes in the waye,
+som cutting downe the bowes of palmes, oliues, and
+other trees, to honour him there withal, strowed them
+in the way. And the voices of such as reioyced was
+heard in euery place as he went resounding with these
+cries, 
+Osanna in the highest, blessed is he that commeth
+in the name of the Lord.
+ With this pompe and triumph
+the true king and humble triumpher, entered in at the
+goulden gate, and rode aboute the temple, and the
+greatest part of the cittie. With this newe spectacle,
+the whole cittie was moued saying, 
+Who is this?
+ The
+
+
+multitude which followed him answered, 
+This is Ie∣sus
+the Prophet of Nazareth a Citty af Galile.
+ Then the
+crie of those that reioysed and were gladde increased
+more and more, and men and women, young and
+olde, yea which is wonderful) the very infants, which
+came from al parts, cryed out together, 
+Osanna to the
+sonne of Dauid, Blessed bee the king of Israel, which
+commeth a king in the name of the Lord. Blessed be the
+kingdome that commeth in the name of him, that is Lord
+of our father Dauid: peace in Heauen, and glory in the
+highest, Osanna in the hyghest.
+ With these ioyful voi∣ces
+and cryes, they proclaiming their 
+Messias,
+ follo∣wed
+him euen into the Temple. Where this newe
+king happily beginning his kingdome, presently hea∣led
+the blinde and the lame. In the meane time the
+wicked and enuious Pharisies, the chiefe priestes and
+Scribes, doo fret and fume, who seeing the great mar∣uels
+which he did, and the children crying in the tem∣ple,
+
+Osanna
+ to the sonne of 
+Dauid,
+ said among them∣selues,
+
+Do ye not see how we profit nothing? Behold the
+whole world goeth foorth after him.
+ Wherevpon they
+begin with Iesus himselfe saying, 
+Mayster, doost thou
+heare what these say? Rebuke thy Disciples.
+ To whome
+he shewing that this was long before prophesied of
+by the Prophet, answereth, 
+Why should they not? Haue
+ye not read, Out of the mouth of very babes and sucklings
+thou hast ordained praise? I say vnto you if these
+holde their peace, the stones shall
+presentlie crye.
+
+
+
+
+
+
+
+
+
+
+THE PLACES ON THE
+SOVTH PART OF THE CITTIE.
+
+
+
+
+213. 
+A
+BACVC.
+
+
+ Here the Angell of the
+Lord taketh vp the prophet 
+Aba∣cuc
+
+by the haire of the head,
+ as hee
+was carying to the reapers in the
+fielde their dinner, and caried him
+with the same meat into 
+Babilon
+ to
+feede Daniel,
+ being shut vp in the
+Lyons denne. Who being fed, he brought 
+Abacuc
+
+hither againe.
+
+
+
+
+
+
+214 ACELDEMA, or 
+Haceldemach,
+
+
+ that is to saye the
+
+fielde of bloud.
+ It was a potters fielde situate at the
+South parte of mounte 
+Sion
+ hauing behinde it a hill
+of the same name.
+ This fielde,
+ by the counsaile of the
+Iewes,
+ was bought with the thirtie peeces of siluer for
+the which 
+Iudas
+ soulde Christ,
+ that it might serue to
+bury strangers in,
+ the middle parte whereof the Em∣peresse
+
+Helen
+ caused to be inclosed with a foure square
+wall in length seuenty and two foote, and in bredth
+fiftie.
+ And the same to bee couered ouer with a roofe
+hauing seuen loope holes by which the deade bodies
+of Christians might be let downe.
+
+
+The vertue of this earth is reported to be wonder∣full,
+and almost incredible, to witte, that it bringeth
+and consumeth into dust, the bodies of the dead men
+within the space of twenty foure howers, leauing no∣thing
+but the bones.
+
+
+
+
+
+
+
+
+215 THE FVLLERS FIELDE,
+
+
+ which lay all along at
+the South ende of the cittie,
+ euen from the valley
+of 
+Siloe
+ east ward vnto mount 
+Gihon,
+ towards the west
+and betweene the wall of the citty and the water. In
+this fielde the Fullers did scoure their cloathes in the
+brooke next adioyning, and did set them on tainters,
+and so dry them.
+
+
+
+
+
+
+216. THE DENNE, OR CAVE, of 
+Iames
+ the lesse,
+
+
+
+wherin he is said to haue hid himselfe by the space
+of three dayes,
+ hauing vowed not to eate breade vn∣till
+Christe was risen agayne. For the which cause
+the Lorde appered to him a parte,
+ after his resurrec∣tion.
+
+
+
+
+
+
+217 THE CAVE OF PETER THE APOSTLE,
+
+
+
+wherein after hee had denied the Lorde thrise, hee
+repented him and mourned with many teares.
+
+
+
+
+
+
+218 THE TENTS OF THE ASSYRIANS,
+
+
+of whom
+for a reuenge of their blasphemy, the most stronge
+to the nomber of 185000 in the very first night of the
+beseeging 
+Ierusalem,
+ were slaine by the Angell of the
+Lord,
+ and (as 
+Augustine
+ reporteth) their bodyes
+were brought into dust,
+ that they might not infect the
+aier: their garments, armour and weapons notwith∣standing
+remaining whole and sound, that the people
+of 
+Ierusalem
+ might haue the spoile.
+
+
+
+
+
+
+
+
+219 THE HOVSE OF ELIAS,
+
+
+ wherein it is said that
+the prophet 
+Elias
+ sometime dwelt. Where after∣ward
+also a Church was builded.
+
+
+
+
+
+
+220. THE MOVNTAINE EROGE,
+
+
+otherwise called
+the 
+South Mountaine,
+ being very high and loftie,
+
+bowing a little towarde the west.
+ Concerning this
+mountaine this is worthy to bee noted;
+ That, when
+
+Ozias
+ king of Iuda presumed to put on him the priests
+attire,
+ entered into the sanctuary of the Temple,
+ and
+offered vpon the golden altar, the incense of sweete
+sauour vnto God: by and by there came a great earth¦quake,
+
+(whereof also 
+Amos
+ and 
+zacharias
+ the Pro∣phets
+make mention) whereby the vpper part of the
+Temple was shaken, and this mountaine cleft in the
+mids, with so great and terrible violence, that one
+part thereof falling and tumbling downe was rolled
+and carried by the space of foure furlongs euen right
+ouer against the East mountaine (which is called the
+mount of offence) where at the length it staied. King
+
+Ozias
+ himselfe in the meane time, blasted and terrifi∣ed
+with lightning, was stricken in the forehead with a
+Leprosie. For the which cause he being presently cast
+out of the Temple and Citty, languished all his life
+long, and was shut vp in his house and separated euen
+till the day of his death.
+
+
+
+
+
+
+221. A FOVNTAINE
+
+
+.
+ At this Fountaine, the Starre,
+which vanished away when the three wise men,
+
+which came from the East, were entered Ierusalem,
+
+
+
+appeared vnto them againe: and led them vnto 
+Beth∣lehem.
+
+
+
+
+
+
+222. THE CAVE OF the Prophet 
+Ieremy:
+
+
+ wherein he
+sitting with a greeued and sorrowfull mind, wept,
+moorned,
+ and bewailed the destruction of 
+Ierusalem,
+ with sobs and sighes. Where 
+Helena,
+ the Empresse
+(as 
+Nicephorus
+ testifieth) builded a notable monu∣ment.
+
+
+
+
+
+
+223 ISAIAS
+
+
+.
+ Here that notable Prophet Isai, when hee
+prophesied in Ierusalem about threescore and ten
+yeares,
+ by the commandment of king 
+Manasses,
+ was
+split through the body with a sawe, and was buried
+vnder an Oake, whose sepulture is to be seene at this
+day.
+
+
+
+
+
+
+224 THE CAVES OF THE APOSTLES
+
+
+. There are
+many Caues, wherein eight of the Apostles (as it
+is reported) hid themselues, during the time of the
+Lords passion.
+
+
+
+
+
+
+225 THE MONVMENT ABSOLOM,
+
+
+ is a marble
+piller,
+ with an Inscriptiō on the same, distant from
+Ierusalem two furlonges: which 
+Absolom
+ beeing a∣liue
+set vppe to himselfe for a monument in the kings
+valley: where there is as yet to be seene a great heape
+of stones, which daily is increased more and more.
+For the Pagans and strangers passing by that way, vse
+this for a custome, that euery man cast a stone at the
+
+
+piller, and challenging as it were, according to the
+lawe,
+ his rebellion againste his father Dauid, they
+cursse him with this malediction, 
+Cursed be the Parri∣cide
+Absalom, and accursed be all they for euer, which
+vniustly do persecute their parents.
+
+
+
+
+
+
+226 THE RIVER OF THE VPPER FOVNTAINE,
+
+
+
+situate on the South parte of mount Sion (which
+
+Hieron
+ calleth the 
+Fullers fountaine
+) the which the
+noble king 
+Ezechias
+ repaired with the conduct therof
+also.
+ This he choaked with earrh,
+ at what time the 
+As∣syrians
+
+beseeged 
+Ierusalem.
+
+
+
+
+
+
+227 THE SEPVLCHER OF ZACHARIAS,
+
+
+the son
+of 
+Barachias,
+ whome the Iewes slue betweene the
+temple and the altar.
+
+
+
+
+
+
+
+
+THE PLACES ON THE WEST SIDE
+OF THE CITTIE.
+
+
+
+
+228. BAALPARASIM,
+
+
+is a field in the valley of 
+Raphaim,
+
+wherein Dauid the king,
+ at the first time, ouerthrew
+the 
+Philistians,
+ and buried their Gods which he found
+in their tents.
+
+
+
+
+
+
+229. HERODS TENTS,
+
+
+ which as 
+Iosephus
+ witnesseth,
+he pitched on the weste part of the cittie.
+
+
+
+
+
+
+
+
+230. THE FOVNTAINE GIHON THE LOWER,
+
+
+
+which sprange vp in the end of the fullers field,
+ the
+waters wherof 
+Ezechias
+ brought vnto the vpper oun¦taine.
+
+
+
+
+
+
+231. THE FOVNTAINE GIHON the higher,
+
+
+ spring∣ing
+from the mount 
+Gihon,
+ which afterwards 
+Eze∣chias
+
+stopped vp,
+ and cutting deeper into the rocke, he
+brought the waters thereof vnto the west parte of the
+cittie of Dauid,
+ by conduct pipes vnder the earth, by
+which he brought it through the middest of the cittie,
+into the innermoste fountaine, leaste when the cittye
+should be beseeged the people might want water.
+
+
+
+
+
+
+232. IVDAS,
+
+
+ who of an Apostle being become a traytor,
+hoong himselfe vpon a wilde figge tree:
+ And being
+hanged brust asunder in the midst, and all his bowels
+gushed out.
+
+
+
+
+
+
+233. THE MOVNT OF CALVARIE,
+
+
+ a rockie moun∣taine
+of meane hight,
+ called in the Hebrue tongue
+
+Golgatha;
+ which was nexte to the Northwest parte of
+the cittie.
+ In the which place offenders condemned
+in open iudgement,
+ were put to death. Where at all
+times,
+ a man might see the boanes and bowels of men
+hanged, or otherwise put to death. Here, 
+Christe Iesus
+
+our sauiour, which knew no sin, becam (as the Apostle
+sayth) sinne for vs, that is to say, was made a sacrifice
+
+
+for our sinnes, and as if he had beene an euill dooer
+was hanged between two theeues, and for our saluatiō
+crucified. So that now mounte 
+Caluary,
+ which afore∣time
+was a place moste infamous, by the passion and
+bloud of Christ, is now made famous and honorable.
+
+
+
+
+
+
+234. MOVNT GIHON,
+
+
+ a mountain full of stones, high
+and long, which running along by the West part
+of the Cytty, growing lesse and lesse towards the gate
+of iudgement, is seuered from the Citty by a deepe
+valley. In this mountaine, at the commaundement
+of 
+Dauid,
+ 
+Salomon
+ was annointed king, by 
+Sadoc
+ the
+chiefe priest, and by 
+Nathan
+ the prophet with the ho∣lie
+oyle. To whom immediatly all the people cryed,
+
+God saue king Salomon.
+
+
+
+
+
+
+235 THE MONVMENT of 
+Anani
+
+
+the chiefe priest, of
+which 
+Iosephus
+ maketh mention, in his sixt booke,
+and thirteenth chapter of the Iewes warre.
+
+
+
+
+
+
+236 THE PEARE TREES
+
+
+of the valley 
+Raphaim,
+ the
+which 
+Iosephus
+ calleth the wood of weeping,
+ neere
+vnto the which Dauid assisted by God from Heauen,
+gaue a second ouerthrow to the Philistines, pursuing
+them a great way.
+
+
+
+
+
+
+237 THE SEPVLCHER OF CHRIST,
+
+
+ was a newe
+Monument,
+ eight foot long, distant from Mount
+
+Caluarie,
+ one hundred and eight foot, and from moūt
+
+Sion
+ about a mile: which 
+Ioseph
+ of 
+Arimathea,
+ a
+
+
+noble Senator,
+ had hewen out in the rocke for him∣selfe,
+
+in the Garden neere vnto mount 
+Caluarie.
+ In
+the which Sepulcher he togither with 
+Nichodemus,
+
+and the virgine Mary,
+ with other godly women, buri∣ed
+the body of Iesus,
+ being with the consent of 
+Pilate
+
+taken from the crosse,
+ and then trimmed with mirre
+and Aloes,
+ and wrapt in a fine linnen cloath, was put
+honorablely into the same, the head layed toward the
+west: And rolling a stone of exceeding waight to
+the mouth of the monument,
+ he went his way. But
+in the meane time, the chiefe priestes and 
+Pharisies,
+
+going about to hinder the resurrection of Christ ta∣kinge
+vnto them a strong garde of soldiors, watched
+the sepulcher, and sealed the stone which shut vp the
+mouth of the sepulcher, least the keepers and watch∣men
+being corrupted with money shoulde deale de∣ceiptfully.
+But this dilligence of the Iewes, by which
+they went about to houlde Christ in the graue from
+rising againe, increased the miracle, and confirmed
+the faith of the Resurrection.
+ And there hee firste
+of all appered to 
+Mary
+ Magdalen,
+ at the monument
+as shee was weeping, in the likenesse of a Garde∣ner.
+
+
+
+
+
+
+238. A WOOD,
+
+
+neere vnto the cittie, as is to be gathe∣red
+by 
+Iosephus
+ in his sixt booke and fourtene chap¦ter
+of the Iewes warre.
+
+
+
+
+
+
+239 THE BROOKE, OR RIVER GIHON,
+
+
+ at the south-west
+corner of the cittie: which king 
+Achas
+ had
+begun to bringe from the lower fountaine 
+Gihon
+ into
+the vpper fountaine: the which kinge 
+Ezechias
+ at the
+last finished.
+
+
+
+
+
+
+
+
+240 THE VALLE OF DEAD CARCASSES,
+
+
+ which
+lay betweene mount 
+Caluarie,
+ and the walles of 
+Ie∣rusalem:
+
+so called, bicause the dead carcasses, bones, &
+ashes, of such as were put to death or burnt on mount
+
+Caluarie
+ were cast thereinto.
+
+
+
+
+
+
+241 THE VALLEY OF THE FOVNTAINE GI∣HON:
+
+
+
+whereof mencion is made in the booke of
+the Cronicles,
+ and in 
+Iosephus.
+
+
+
+
+
+
+242. THE VALLEY 
+Raphaim,
+
+
+ that is to say, of Gyants. It
+a is valley on the west side of the cittie very large &
+great,,
+ which beginneth at the north part, and exten∣deth
+vnto the South;
+ bringing foorth most plentifully
+in time past excellent wheate, wine, oyle, and al other
+fruites. In this valley Dauid by the helpe of God, twise
+ouercame the 
+Phillistines
+ which sought to inuade him
+with a great armie.
+
+
+
+
+
+
+243. THE WAIES TO BETHLEHEM, 
+Emaus,
+ to 
+Gaza,
+
+and to 
+Ioppa,
+
+
+ which 
+Salomon
+ made with flint and
+stoane, euen as he did other waies, which led to 
+Ierusa∣lem,
+
+both to make the passage more easie, and also to
+shew foorth the magnificence of his kingdome in this
+point.
+
+
+
+
+
+
+244. THE WAIE TO SILOE, and to 
+Gabaon,
+
+
+whereof
+
+Brocardus
+ in his sixt booke of his traueile maketh
+mention.
+
+
+
+
+
+
+
+
+245. HERE CHRIST
+
+
+fell againe;
+ as according to the tra∣dition
+of the fathers of old.
+
+
+
+
+
+
+246. HERE IESVS
+
+
+ tourning himselfe about to the wo∣men
+that mourned and wept,
+ 
+sayde,
+ ye daughters
+of Ierusalem,
+ weep not for me; but weep for your selues and
+for your children, bicause the day shall come, &c.
+
+
+
+
+
+
+247. HERE CHRIST FELL DOWNE
+
+
+the third time
+vnder his crosse:
+ as the fathers of old time haue af∣firmed.
+
+
+
+
+
+
+248 HERE CHRIST WAS STRIPT OVT OF HIS
+GARMENTS;
+
+
+ whose body being all to torne with
+whips,
+ could not but be very soare, wherunto his blou∣dy
+garments cleauing gaue newe occasion of paine,
+
+when they were violently pulled off.
+ And standing
+there naked al the while that the cros was a preparing,
+
+in the could & wind, he sate down at the length vpon a
+stone, where he dranke wine mixt with gaule & mirh.
+
+
+
+
+
+
+249 HERE CHRIST BEING LAYED ON HIS BACK
+ON THE CROSSE,
+
+
+ and stretched out vpon the
+same,
+ his hands and feete was nayled thereunto with
+Iron nayles:
+ and his tender members were with such
+force strayned and racked vppon the crosse,
+ that the
+very arteries and sinewes were loosened,
+ and all his
+bones might be toulde.
+
+
+
+
+
+
+
+
+250 THIS IS the most notable and memorable place of
+the whole world,
+
+
+ euen the clifte of the Rocke of
+mount 
+Caluarie,
+ wherein the Crosse bearing the bodie
+of Christ,
+ was fastened about high noone of the feaste
+day of Passouer.
+ Vpon the top of which crosse, a white
+table was fastened, expressing the cause of his death,
+written with 
+Pilats
+ owne hand in these woordes of
+
+Hebrue, Greke
+ and 
+Latine.
+
+
+IESVS OF NAZARETH, KING OF THE IEWES
+
+
+Further it is to be remembered,
+ that the Iewes did
+in such manner erect and set Christ vpon his crosse,
+
+that his backe partes might be toward 
+Ierusalem,
+ and
+his face towards the west. For they demed him vnwoor¦thy
+to haue his face toward the holie cittie.
+ But wee
+must thinke, that this was not done altogether by for∣tune,
+or without a mystery: but rather by the singular
+dispensation of God, his miseries seeme to be no false
+prophets of our felicitie,
+ by this meanes, and by this
+dede forewarning them of that which the Prophet
+
+Ieremy
+ had prophesied should come to passe, saying
+
+I will scatter them with an East wind before the enimie,
+
+
+I will shew them the backe and not the face,
+ 
+in the day of
+their destruction.
+ For as saint 
+Hierom
+ saith, seeing they
+are dispersed throughout the whole world, and do cal
+vpon God night and day in the synagogues of Sathan,
+
+God sheweth vnto them his backe, and not his face
+that they may knowe that hee is alwaies going from
+them,
+ and not comming towards them:
+ And that e∣uen
+in the day of their destruction, that is to say, du∣ring
+all the time after the passion of our sauiour,
+ vnto
+the very ende of the worlde:
+ that when the fullnesse
+of the Gentiles is come in,, the remnant of the peo∣ple
+
+
+of Israell may bee conuerted at the laste,
+ and bee
+saued. And I verily coniecture that by this their cru∣elty,
+they were foretellers of our felicity. For in that
+they did sette the moste sweete and amiable face of
+our sauiour towarde the weste, it seemeth vnto me
+to note no other thinge, but the very same which
+the kingly Prophet longe before had toulde shoulde
+come to passe saying, 
+His eies behoulde the gentiles.
+
+For hee hauing the eyes of his mercie opened and
+fixed vppon vs,
+ from the time of his passion, will not
+cease to looke vpon vs with a fauorable countenance
+euen vnto the end of the world.
+
+
+Therefore, Christe being on this manner hanged
+on the crosse, three howers naked, bloudy, wounded,
+crowned with thornes, did hang between two theeues
+in most grieuous torments, partaker with them of the
+paine and punishment, as if he had beene a compani∣on
+with them in their wickednesse: The which thing
+the prophet 
+Isaias
+ foreshewed should come to passe,
+saying, 
+Hee was reputed among the wicked.
+ Whome in
+the meane time, the Iewes, the high priests, together
+with the Scribes and elders of the people passing by,
+yea the common soldiors also, and the theefe that was
+crucified with him, in steed of consolation, which be∣longeth
+to al that are afflicted, in most reprochful man¦ner
+scorned him, shaking their heads, and saying, 
+Thou
+which destroiest the temple of God, and buildest the same
+againe in three daies, saue thy selfe: if thou beest the sonne
+of God, come downe from the crosse, He saued others, him
+selfe he cannot saue If he be Christ the king of Israell, let
+him come down now from the crosse; and wee will beleue
+him. He trusted in God, Let him deliuer him nowe, if hee
+will haue him. For he said I am the son of God.
+
+
+Iesus most patiently suffering all these things more
+bitter then the crosse, was so far from reuenging them
+
+
+that he praied for them that mocked him saying, 
+Fa∣ther
+
+
+forgiue them for they know not what they doe.
+ And
+to the other of the theeues requiring mercy hee pro∣mised
+
+Paradise,
+ saying, 
+Verely I say vnto thee, This day
+thou shalt bee with me in Paradise.
+ And then behoul∣ding
+his well beloued mother, and the disciples also
+whome he loued, and commending a virgin to a vir∣gin,
+
+ said vnto his mother, 
+Behould thy sonne.
+ And then
+he sayd to his disciple, 
+Behould thy mother:
+ who from
+that hower forward tooke her for his owne. While
+these thinges thus proceeded, the sunne abashed at
+those passions which the creator of all the worlde suf∣fered
+on the crosse, as it were mourning hid his face:
+and was darkened from the sixte hower, (at what
+time it shyneth in greatest glorye) vntill the ninth
+hower.
+
+
+Then Iesus complayning that he is forsaken of his
+father, cryed out with a strong voice saying, 
+My God,
+
+
+My God, why haste thou forsaken me?
+ This donne, to
+the ende all thinges that were spoken of by the pro∣phets,
+
+ might be fulfilled, hee sayd, 
+I thirste.
+ Straight
+way one running,
+ as though he would doo him some
+good, when he had taken a spounge, and filled it with
+vinegre, hee put it vppon a reede and gaue him to
+drinke. Iesus wonderfully thyrsted for the saluation
+of men: but the Iewes offered him nothing but gaule
+and vinegre. And so soone as Iesus had tasted the
+
+ vinegre, hee sayde, 
+It is finished,
+ geuing thereby to
+vnderstand,
+ that the sacrifice was truly ended accor∣ding
+to the will of his father. And once againe cry∣ing
+out with a loud voice and with sheading of teares,
+
+ hee sayth, 
+Father into thy handes I commende my spi∣rit:
+
+And so bowing downe his heade (a man of flo∣rishing
+age) hee yealded vppe his breath, the nynth
+hower of the fiue and twentieth day of March, and in
+
+
+the three & thirtith yere of his age and three moneths.
+But in the yeare from his Incarnation, the thyrty and
+foure.
+
+
+By this sacrifice, the moste high and euerlasting
+priest inflamed with most singular and vnspeakeable
+loue, offered him selfe a sacrifice and a peace offering
+to God his father, and by his death destroyed death,
+ouercame Sathan, brake a sunder hell gates, restored
+life, and opened vnto all beleeuers, the euerlasting
+kingdome of heauen. For this cause, the fathers of
+ould time, ingraued in siluer these words of the psalme
+in Greeke, and set it in the circumference of the hole
+which was made on the toppe of mount 
+Caluary,
+ and
+wherein the crosse of Christ was fastened, but nowe
+they are ingrauen in copper thus.
+
+
+,
+
+that is to saye,
+ Here God our Kinge be∣fore
+worldes wrought saluation in the middest of the
+earth.
+
+
+The which one and onely bloudy sacrifice moste
+truly and lawfully made,
+ hee woulde not by and by so
+soone as he was dead be taken from the crosse, but e∣uen
+as when he was aliue, so when hee was dead, by
+the space of three howers he hong as a spectacle to all
+men: and as he spared no one member from torment
+so his will was to shed all his bloude, euen to the very
+laste droppe of his moste pretious heart, and to open
+the fountaine for the washing away of our sinnes,
+ the
+which we may vse to our endlesse comforte.
+ Therfore
+one of the soldiors perceauing and opening his side
+and hearte,
+ presently there issued foorth bloude and
+water as from a moste liuely springe, to the sanctifying
+and saluation of his Church. In the meane season all
+thinges gaue testimonie to their Lorde and makers
+death. The vaile of the Temple rente asunder in two
+
+
+partes: the earth was shaken and quaked, the graues o∣pened,
+the deade bodies of men arose againe, and the
+stoanie rockes, (to the shame and reproach of the
+Iewes for the hardnes of their hartes) claue a sunder &
+burst in peeces.
+
+
+
+
+
+
+251 HERE the blessed virgin 
+Marie,
+
+
+ accompanied with
+
+Iohn,
+ with 
+Marie Magdalen,
+ & with other women,
+stoode with a firme mind and constant faith,
+ where ac∣cording
+to the prophesie of 
+Simeon,
+ the sworde of sor∣row
+pearsed her soule.
+
+
+
+
+
+
+252 HERE the soldiors
+
+
+which crucified Christ, parted his
+garments among them and cast lotts for his seame∣les
+coate who should haue it,
+ that the saying of the pro∣phet
+might be fulfilled,
+ 
+They parted my garments among
+them, and for my Vesture they did cast lottes.
+
+
+
+
+
+
+253. HERE the dead Corpes
+
+
+of Christ, being taken down
+from the Crosse,
+ was deliuered to the blessed virgin
+
+Marie
+ to be buried.
+
+
+
+
+
+
+254 HERE
+
+
+Christ meteth with the
+ women,
+ which retur∣ned
+from his Sepulcher toward 
+Ierusalem,
+ and salu∣teth
+them, who imbracing and kissing his feete woor∣shiped
+him.
+
+
+
+
+
+
+255 HERE
+
+
+Christ in the forme of a straunger,
+ went with
+the two disciples toward 
+Emaus:
+ and in the way as
+
+
+they wente together, hee interpreted 
+Moses,
+ and the
+Scriptures of all the prophets, which he proued to bee
+fulfilled in him.
+
+
+
+
+
+
+
+
+THE PLACES ON THE
+NORTH SIDE OF THE CITTIE.
+
+
+
+
+256. THE tents of the 
+Chaldaeans.
+
+
+On this North part of
+the cittie,
+ 
+Nabuchodonozer
+ kinge of 
+Babilon,
+ and
+the 
+Chaldaeans,
+ scaled the wals of 
+Ierusalem,
+ and wan it.
+
+
+
+
+
+
+257 THE TENTS of the Romaines,
+
+
+the which were pit∣ched
+betweene the 
+Womans
+ towers,
+ and the tower
+PSEPHINA. On this parte, although inclosed and
+fortified with a triple wall, 
+Titus
+ and the Romains as∣sayled
+
+Ierusalem.
+ For on this parte onely, the citty was
+sauteable. And albeit the other partes were compassed
+round about with one single wall onely, yet the same
+being very strong, and sette vppon stony and cragged
+rocks, and hauing also deepe valleies or trenches Im∣passable,
+were inexpugnable. Therefore they began to
+scale the first wall, which was the outermost and third
+wall of the cittie. After that they tooke in hand the se∣cond
+wall: And then the third wal of the cittie, which
+wall also called the old wall. Next they took the castle
+
+Antonia:
+ And so the temple, which was fortified like a
+castle and last of all they entered mount 
+Sion,
+ of al the
+rest,
+ the most strong. At what time also the Christians
+tooke this cittie in hand to win it, they began their en∣terprise
+on this part, anong whome 
+Godfrey
+ of 
+Bullion
+
+was the first that entered the wal, nere vnto the gate of
+
+Ephraim,
+ whose soldiors following the assalt like men,
+
+
+opened immediately the sayde gate, and so wan the
+cittie. The which also the 
+Saracens
+ beseeging on the
+same parte, wan from the Christians.
+
+
+
+
+
+
+258 THE HILL GAREE,
+
+
+ the which was neere to 
+Ie∣rusalem
+
+one the north.
+
+
+
+
+
+
+259 EREBINTH
+
+
+was a little village on the north.
+
+
+
+
+
+
+260. GARDENS AND FEARMES,
+
+
+ inclosed with wals
+and hedges: where 
+Titus
+ taking a vew of the citty
+was in danger.
+
+
+
+
+
+
+261 THE SEPVLCHER of 
+Helene
+
+
+Queene of the 
+Adia∣bens
+
+(who vittailed 
+Ierusalem
+ in the time of the fa∣mine
+with wheat) the which she moste sumptuously
+builded with three pinacles,
+ about three furlongs di∣stant
+from the cittie.
+ Wherin she was buried with her
+son 
+Isates:
+ the which also was standing in the time of
+
+Eusebius
+ and 
+Hierom.
+
+
+
+
+
+
+262 THE NORTH MOVNTAINE,
+
+
+ where 
+Pompei
+ pit∣ched
+his tents.
+
+
+
+
+
+
+263 THE MONVMENT of 
+Herod Agrippa:
+
+
+ who for his
+intollerable pride being striken by the angell of the
+Lord,
+ and consumed of wormes, dyed.
+
+
+
+
+
+
+
+
+264. SAPHA,
+
+
+in Greeke called 
+Scopos,
+ that is to say, A
+place of espiall, situate towarde the north, distante
+from the cittie about seuen furlongs.
+ It was so named,
+bycause from thence both the citty and temple might
+be seene. Here 
+Iaddus
+ the chiefe Priest, and the rest of
+the priests, in their priestly attire, and al the people clad
+in white garments, went foorth to meete 
+Alexander
+
+the greate, kinge of the 
+Macedonians,
+ when hee came
+with his army to destroy 
+Ierusalem.
+ Whome when
+
+Alexander
+ saw by and by suppressing his fury, in hum∣ble
+sort worshipped the name of God, which shined
+in goulden letters in the 
+Reasonable
+ of the high priest,
+and gaue reuerence to the high priest. Then ente∣ring
+into the Cittie and Temple, hee offered sacri∣fice
+to God, and graunted greate priuiledges vnto the
+Iewes.
+
+
+
+
+
+
+265. THE FRVITEFVLL WOOD,
+
+
+ which 
+Titus
+ cau∣sed
+to be cut downe.
+
+
+
+
+
+
+266 THE LAKE OF SERPENTS,
+
+
+ which in ould time
+was called 
+Bethara.
+
+
+
+
+
+
+267. THE WAY,
+
+
+ by which men went into 
+Samaria
+ and
+
+Galile.
+
+
+
+
+
+
+268. THE VILLAGE
+
+
+neere to 
+Ierusalem,
+ whereof 
+Nee∣mia
+
+maketh mention.
+
+
+
+THese (
+Christian Reader
+) are the most notable and
+famous places of the Citty and Temple of Ierusa∣lem.
+By the placing whereof, the scituation of the rest
+may easily be knowne. Therefore if wee haue made a
+true description, let the praise be giuen to God, the
+giuer of all good gifts. But if otherwise there bee any
+defect, impute that to my want of skill, and not to my
+ill will: who for that I was not able to giue towards the
+furnishing of the Temple, golde, siluer, or pretious
+stones, haue notwithstanding offered a little oyle to
+lighten the Church; trusting that the same will be ac∣ceptable,
+both to Christ,who allowed the twoe
+mites which the poore Widdow offered: &
+also to those that be good Christians,
+whom it becommeth well to
+be like vnto their hed
+CHRIST.
+
+
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The names of the Authors out of whose
+workes and trauels this Description of
+Ierusalem is taken and made.
+
+
+THE HOLIE BIBLE, of the old and new Testa∣ment.
+
+
+FLau Iosephus, a priest of the Iewes: who flourishing in
+the 70. yeare of Christ, exactly described the scituati∣on,
+the forme, and the besieging of the Citty of Ierusalem.
+
+
+EXemplars of the famous Doctor of the church S. Hie∣rom,
+as well printed as written. Who liued in the yeare
+of Christ. 380.
+
+
+IAmes of Vitriac, who trauelled into the Holy lande, and
+and returning was made Bishop of Acon, who wrote a
+Booke, concerning the Holy land, and the wonders which
+he saw there. He florished in the yeare of our Lord. 1231.
+
+
+IAmes pantaleon a Frenchman, Patriarch of Ierusalem,
+his booke concerning the Holy land. Who was famous in
+the yeare of Christ, 1247.
+
+
+THe exact Description of Ierusalem, and of the places of
+the holy land, made by Brocardus a Moonke, published
+at Basil by Heruage, and at Antwerp by Stelsius. Who
+in the yeare of Christ, 1283. after great search and dilli∣gent
+suruey of that Citty and land, and the view of the an∣tient
+ruines thereof, described the same most carefully.
+
+
+THe Description of Ierusalem and of the holy places, by
+Iohn Mandeuille Englishman, who finished his pere∣grination
+in the yeare of our Lord, 1322, and diligentlie
+described the same: printed at Antwerp by Nicol. Wou∣
+er,
+in Anno. 1564.
+
+
+A Table of the Citty Ierusalem, and a verie ancient de∣scription
+of all the Holy lande, portrayed one hundred
+yeare since and more in parchment, which Iohn Huls pro∣cured
+
+
+from the Librarie of the Colledge of saint Hierom
+at Delph in Holand.
+
+
+THe originall of the Citty of Hierusalem and of the
+Temple in the same, described by Rodulph Langius,
+Anno 1476. and printed at Colen, Anno. 1517.
+
+
+THe Pilgrimage to Hierusalem and to mount Sinai, of
+Bernhard Breidenbach, Deane of the Church of
+Mentz, which he, accompanied with others moe, finished,
+Anno 1483. and most dilligently described the same.
+
+
+Adding thereunto a portraiture of the most principall
+places of the holy land and of his trauell, which he caused
+a cunning painter to make vpon the view of euery place,
+whom he had in his companie for that purpose: Printed
+at Mentz, An. 1486.
+
+
+A
+ Description of the voyage to Hierusalem, published in
+the yeare 1520. by M. Gerard Kuynretorff and others.
+
+
+A
+ Delineation of the Citty of Hierusaiem, which may∣ster
+Iohn Schorrel with the helpe of a skilfull painter
+drue foorth by the view of the eie, sitting on mount Oli∣uet.
+1521.
+
+
+THe Description of Hierusalem and of the holy places,
+by Ioan. Heuterus Praetor of Delph, which hee sette
+foorth in An. 1521.
+
+
+THe like Description was made by Bartholmew of Sa∣ligniac
+Knight, and professor of both lawes. 1525.
+
+
+A
+ Peregrination, with an exact description of Hierusa∣lem
+and of the holy places, made by Iohn Pasch Doctor
+of Diuinitie, printed at Louane in the yeare, 1563.
+
+
+THe Histories of the Holy warre, whereof there were
+three and twenty books, shewing how in the year 1099
+Hierusalem and the whole land of promise, was recouered
+againe by the Christians, and so possessed of them 84. years
+by William, archbishop of Tyren, Chancellor of Hieru∣salem:
+printed at Basill in the yeare. 1564.
+
+
+
+SIx bookes of Historie concerning the holy warre, sette
+forth by Iohn Herold, printed at Basil in the year, 1560
+
+
+A
+ Delineation, or Mappe of the Citty Ierusalem, and of
+the holy places of al the land of Palestine, by Herman
+Broculoo, printed at vtrict in the yeare, 1538
+
+
+BOnauentur of Mirica his Description of Hierusalem,
+and of the holy places thereof, who made three voiages
+thyther, and dwelt there a long time, in the yeares 1538.
+and 39.
+
+
+The vniuersal Cosmography of Sebastan Munster.
+
+
+THe Description of the Cittie of Hierusalem, and of
+Palestine, by Wolfgang Weyssenburch: Printed in the
+yeare, 1542.
+
+
+A
+ Dilligent Description of the places of the olde & new
+Testament gathered out of many authors: as, out of
+Ptolomie, Plinie, Pomponius Mela, Strabo, Herodotus,
+
+
+Hierō, Ioseph Egesippus, Stephanus, Raphael volateran,
+Lyra, Bocas. And out of the morelater, as Iames ziegler,
+Wolfang Weyssenburg, and Andrue Althamer, menne
+that heerein haue taken great paines: and printed at Pa∣ris.
+
+
+A
+ Delineation and description of the Citty Ierusalem,
+and of the land of promise, most exquisitlie doone by
+Bonauenture Broccard, in the yeare, 1544.
+
+
+A
+ Description of Ierusalem and of the places thereof, by
+M. Gerard Ioan of Leiden, in the yeare, 1556.
+
+
+A
+ Map of the Citty of Ierusalem, and of the whole lande
+of promise, made by Tilmannus Stella in the yeare,
+1557, and printed at Anwerp.
+
+
+A
+ Topographical description of the Citty of Ierusalem
+by Fabian Licinius a Venetian, printed at Venes in
+the yeare, 1560.
+
+
+A
+ Mappe of Ierusalem set forth by Adam Reiszner,
+exhibited to the Emperour Ferdinando in the yeare,
+1559.
+
+
+
+THe way of Caluarie, written in Latin, by Laurence
+Surius.
+
+
+THe way of the Crosse, from Pilates house to Mount
+Caluarie, published by Peter Calentine, and printed
+at Louane in the yeare, 1561.
+
+
+THe Itinerarie of Iohn Godscalci of Delph which he fi∣nished
+in the yeare, 1561.
+
+
+A
+ Description of Hierusalem and of the places therabout
+by Isbrand Godfrey, which hee finished in the yeere,
+1563.
+
+
+THe voyage of the noble knight, Baptist van der Mue∣len
+of Mechlin, who by word of mouth described vnto
+me oftentimes Hierusalem, & al the places thereof, which
+he surueyed in the yeare, 1567.
+
+
+THe Description of the old and new Hierusalem, made
+by Peter Lackstein, and painted in a map by Christian
+Sgrothen in the yeare, 1570.
+
+
+A
+ Topographical delineation of the Citty of Hierusalem
+made by Antonie de Angelis a minorite, who dwelt
+a long time at Hierusalem, set forth in the yeare, 1578.
+
+
+A
+ Verie large map the Citty of Hierusalem, and of all
+the holy land, drawne in parchment with the hande of
+Biron a Frenchman with liuely colours, & bewtified with
+Gold, and described in the French toong, which Mappe,
+MICHAEL EYZINGER of Austria, a most dilli∣gent
+historiographer, deliuered vnto me.
+
+
+
+
+THese are for the most part the chiefe Authors a∣mong
+them, which of set purpose haue handeled this
+Argument, and of whome I make special mention, I
+haue vsed many, of whom I haue nothing spoken: And
+to make mention of all such writers, which hauing ano∣her
+purpose, and haue yet giuen me matter to write of,
+yeere to make a tedious Catalogue.
+
+
+
+
+
+
+
+
+A Table Alphabeticall, whereby the
+Reader may finde the principall mat∣ters
+conteyned in this booke.
+
+
+
+
+A
+
+
+ABacuc, 213
+
+
+Aceldema, 214
+
+
+Anani his moniment, 235
+
+
+Annas his house, 8
+
+
+Amphitheater, 28
+
+
+Antonia his Castell, 29
+
+
+Arke of the Couenant, 76
+
+
+Altar of Incence, 80
+
+
+Altar of burnt offring, 87
+
+
+
+
+
+
+B
+
+
+BAalpharazim, 228
+
+
+Bethania, 178
+
+
+Bethphage, 179
+
+
+Broad street, 150
+
+
+Bridge of Cedron, 196
+
+
+Bridge of Sion, 19
+
+
+Bridge from the castell antonia, 63
+
+
+Brooke of Cedron, 201
+
+
+Brooke Gihon, 239
+
+
+Booz and Iakin, 88
+
+
+Bignesse of Christ his crosse, 120
+
+
+
+
+
+
+C
+
+
+CAesar and Agrippas hall, 5
+
+
+Caiphas pallace, 17
+
+
+Castell Antonia, 29
+
+
+Castell of Antiochus, 31
+
+
+Castell Pisan, 59
+
+
+Castell of the Assyrians, 148
+
+
+Caues, called the kings caues, 151
+
+
+Castel opposite, 180
+
+
+Caue of Iames, 116
+
+
+Caue of the Apostles, 224
+
+
+Caue of Peter, 117
+
+
+Caluarie, 233
+
+
+Caue of Ieremy, 222
+
+
+Capheteta, 152
+
+
+Cherubims, 77
+
+
+Candlestick of gold, 81
+
+
+Christ his crosse, 120
+
+
+Christ rideth to Ierusalem, 211
+
+
+Christ falleth downe vnder his crosse
+245, 247, 121.
+
+
+Christ speaketh to the moorners, 246
+
+
+Christ stript out of his clothes, 248
+
+
+Christ racked and nayled on the
+crosse, 249
+
+
+Christ deliuered to the virgin mary,
+253
+
+
+Christs garment parted by lot, 252
+
+
+Christ speaketh to the women after
+his resurrection, 254
+
+
+Christ talketh with his two Disciples
+going to Emaus 255
+
+
+The court, 35
+
+
+Court of Records, 30
+
+
+Corner parlour, 33
+
+
+Corner stone, 153
+
+
+Court of Herods pallace, 138
+
+
+Conduct, or fountaine, 128
+
+
+Closets, 91
+
+
+Common place of buriall, 198
+
+
+Cypres trees, 7
+
+
+
+
+
+
+D
+
+
+DIall of Achas, 103
+
+
+Douehouse, 195
+
+
+
+
+
+
+E
+
+
+ESsens gate, 66
+
+
+Eagle of gold, 101
+
+
+Erebynth a village, 259
+
+
+
+
+
+
+
+
+F
+The
+
+
+Fountaine of Sion, 18
+
+
+Fountaine the innermost, 60
+
+
+Fountaine old, 62
+
+
+Fountaine in the temple, 82
+
+
+Fountaine, 128, 221
+
+
+Fountaine dragon, 184
+
+
+Fountaine of Silo, 199
+
+
+Fountaine Gihon the lower, 230
+
+
+Fountaine Gihon the higher, 231
+
+
+Frutefull wood, 265
+
+
+Fullers field, 115
+
+
+Figge tree withered, 183
+
+
+
+
+
+
+G
+The
+
+
+Garden belonging to the king,
+15 and 188
+
+
+Gardens inclosed, 260
+
+
+Garden on mount Oliuet, 187
+
+
+Garments of Christ parted by lot, 252
+
+
+Gates of Sion, 20
+
+
+Gate, called the vpper gate, 21
+
+
+Gate of Warders, 64
+
+
+Gate called the horsse gate, 65
+
+
+Gate belonging to the Essenes, 66
+
+
+Gate the first, 67
+
+
+Gate, called the new gate, 93
+
+
+Gate called the middle gate. 137
+
+
+Gate called holy gate, 94
+
+
+North Gate, 104
+
+
+Gate South, 105
+
+
+Gate in the West. 106
+
+
+Gate of the corner, 154
+
+
+Goulden Gate, 155
+
+
+Gate of Ephraim, 156
+
+
+Gate called the water gate, 157
+
+
+Gate Genath, 158
+
+
+Gate of the kings garden, 159
+
+
+Gate of the high priests pallace, 160
+
+
+Gate called the fish gate, 161
+
+
+Gate called the dung gate, 162
+
+
+Gate of womens towers, 163
+
+
+Gate called the Valley gate, 164
+
+
+Gate called the old gate, 165
+
+
+Groue of Moloch, 189
+
+
+
+
+
+
+H
+The
+
+
+House of Annas, 8
+
+
+House of the Worthies, 9
+
+
+House of the Virgin Mary, 10
+
+
+House of Vria, 11
+
+
+House of Ananias, 36
+
+
+House of S. Anne, 37
+
+
+House of the rich glutton, 38
+
+
+House of Mesa, 39
+
+
+Houses of the Nathinaeans, 40
+
+
+House of the prince of Phariseis 41
+
+
+House of the forrest of Lybanus, 42
+
+
+House of Simon the pharisei, 43
+
+
+House of the common people, 44
+
+
+Houses of the priests, 49
+
+
+Houses of the target bearers, 50
+
+
+House of counsel, 90
+
+
+House of Mary the mother of Iohn,
+126
+
+
+House of Olda the prophetesse, 127
+
+
+House of Elias, 219
+
+
+Hill Garee, 258
+
+
+Hole where the crosse stood, 250
+
+
+Hill which is little, 182
+
+
+Herods parke, 143
+
+
+Hospital, 144
+
+
+Holy place, 79
+
+
+Holy of holyest, 75
+
+
+
+
+
+
+I
+The
+
+
+ILe of the Iewes, 86
+
+
+Ile of the Gentiles, 100
+
+
+Isaias martyred, 223
+
+
+Iudas hanged on a tree, 232
+
+
+
+
+
+
+
+
+L
+The
+
+
+Lystes or tyltyard, 51
+
+
+Lauer of brasse, 89
+
+
+Lofts of the singers, 97
+
+
+Lake, 131
+
+
+Lake Amigdalon, 125
+
+
+Lake of Serpents, 266
+
+
+
+
+
+
+M
+The
+
+
+MArketplace, 12, 45, 46, 47, 69, 129
+
+
+Mary and Iohn beholde Christ
+as he passeth by with his cros, 122
+
+
+Mello, 16
+
+
+Moloch his Groue, 189
+
+
+Mount Sion, 3
+
+
+Mount Moria, 52
+
+
+Mountaine Bezetha, 147
+
+
+Mount of offence, 190, 192
+
+
+Mount oliuet, 191
+
+
+Mountaine Eroge, 220
+
+
+Mount of Caluary, 233
+
+
+Mount Gihon, 234
+
+
+Mountaine in the north part, 262
+
+
+Monument of Alexander, 133
+
+
+Monument of Iohn, 134
+
+
+Monument of the Fuller, 193
+
+
+Monument of Absolom, 225
+
+
+Monument of Anani, 235
+
+
+Monument of Herod, 263
+
+
+
+
+
+
+N
+The
+
+
+NOrth mountayne, 262
+
+
+North gate, 104
+
+
+New Citty, 146
+
+
+
+
+
+
+O
+The
+
+
+Ophel, 54
+
+
+Oliuet, 191
+
+
+
+
+
+
+P
+
+
+PArlour of Sion, 6
+
+
+Parlour in the corner, 33
+
+
+Pallace of Caiphas, 17
+
+
+Pallace of the Machabees, 55
+
+
+Pallace of Pilate, 56
+
+
+Pallace of the Queene, 57
+
+
+Pallace of Solomon, 58
+
+
+Pallace of Queene Bernice, 70
+
+
+Pallace of Grapte, 71
+
+
+Pallace of Helen. 72
+
+
+Pallace of Herod, 136
+
+
+Pallace of Monobaz, 73
+
+
+Passage of the temple from Salomōs
+pallace, 113
+
+
+Palme trees, 194
+
+
+Peare trees, 236
+
+
+Place of zacharias death being slain,
+98
+
+
+Place where the Iewes woulde haue
+stoned Christ, 99
+
+
+Place where the woman taken in a∣dultery,
+was absolued, 109
+
+
+Places of Christs fall, 121
+
+
+Place where the three Apostles sate,
+while Christ prayed, 208
+
+
+Place where the 8. Apost. tarried, 209
+
+
+Place where Iudas betrayed Christ
+with a kisse, 210
+
+
+Place where Christ preached of the
+destruction of Hierusalem, 211
+
+
+Place where Mary with others stood
+at Christ his death, 251
+
+
+Porch of pillars, 68
+
+
+Porch of the temple, 95
+
+
+Prison, called the kings prison, 4
+
+
+Prison common, belonging to the
+citty, 32
+
+
+Poole, called Probatica, 61
+
+
+Priest, called the high priest, 84
+
+
+Propitiatory, or mercy seat, 78
+
+
+
+
+
+
+R
+The
+
+
+REchabites habitation, 130
+
+
+Rock of the West Wall, 166
+
+
+Riuer of the vpper fountaine, 226
+
+
+
+
+
+
+S
+The
+
+
+
+SApha, 264
+
+
+Sion. 3.26, 27
+
+
+Sepulcher of Dauid, 22
+
+
+Sepulcher of Stephen, 23
+
+
+Sepulcher of Christ, 237
+
+
+Sepulcher of Helen, 261
+
+
+Sepulcher of the virgin Mary, 197
+
+
+Of zacharias, 227
+
+
+Stayres of the castell, 13
+
+
+Stayres of Sion. 14
+
+
+Schoole of Gentility, 48
+
+
+Sea of brasse, 92
+
+
+Seate appertayning to the king, 96
+
+
+Singers seats aloft, 97
+
+
+Solomons throne, 112
+
+
+Simō of Cyren, beareth the cros, 132
+
+
+Second citty, 124
+
+
+Stephen stoned, 200
+
+
+
+
+
+
+T
+The
+
+
+TAbernacle of Sion, 24
+
+
+Temple of the Lord, 74
+
+
+Table of Gold, 83
+
+
+Tents of the Assyrians, 218
+
+
+Tents of Herod, 229
+
+
+Tents of the Chaldeans, 256
+
+
+Tents of the Romanes, 257
+
+
+Theater, 111
+
+
+Throne of Salomon, 112
+
+
+Tribunal seat, 114
+
+
+Towers of the trumpetters, 108
+
+
+Tower Strato, 115
+
+
+Tovver in the middle, 132
+
+
+Tovver Hippic, 140
+
+
+Tovver Mariamme, 141
+
+
+Tovver Phaselus 142
+
+
+Tovver Ananael, 167
+
+
+Tovver in the corner 168
+
+
+Tovver of Dauid, 169
+
+
+Tovver called the high tower, 170
+
+
+Tovver called the Lanterne, 171
+
+
+Tovver called the great tower, 172
+
+
+Tovver Meah, 173
+
+
+Tower Psephina, 174
+
+
+Tovver of Siloe, 175
+
+
+Treasory, 102
+
+
+
+
+
+
+V
+The
+
+
+VAlley called the deep valley, 176
+
+
+Valley of Iosaphat, 202
+
+
+Valley of Siloe, 203
+
+
+Valley of dead carcases, 240
+
+
+Valley of the riuer Gihon, 241
+
+
+Valley of Cedron, 116
+
+
+Valley of Raphaim, 242
+
+
+Vaulted caue, 34
+
+
+Vaile of the temple rent, 85
+
+
+Village nere to Ierusalem, 268
+
+
+Vria his house, 11
+
+
+
+
+
+
+W
+The
+
+
+Wine presse belonging to the K, 25
+
+
+Wals, first 53, second 135, the thirde,
+149
+
+
+Way of the crosse, 117
+
+
+Way of entrance for the horses, 118
+
+
+water issuing forth of the temple, 177
+
+
+Way of the Fullers field, 104
+
+
+Way of the captiuity, 205
+
+
+Way to Anathot, 206
+
+
+Way to Iericho, 207
+
+
+Way to Siloe, 244
+
+
+and to Bethlehem, 243
+
+
+Way to Samaria, and Galile, 267
+
+
+Well, 181
+
+
+Whipping of the buyers and sellers,
+110
+
+
+A Wood, 138
+
+
+
+
+
+
+Z
+
+
+Zacharias place where he was slayne
+betweene the temple & the Altar,
+98.
+
+
+
+
+
+
+
+
+
+
+
+
+

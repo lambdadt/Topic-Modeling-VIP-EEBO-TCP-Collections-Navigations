@@ -1,0 +1,290 @@
+A letter from the commanders and officers of the fleet of this Common-wealth unto General Monck in Scotland. Dated the 4th. of November 1659.
+Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A48084
+
+
+
+
+Wing L1516
+
+
+
+ESTC R217628
+
+
+
+
+
+99829286
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A letter from the commanders and officers of the fleet of this Common-wealth unto General Monck in Scotland. Dated the 4th. of November 1659.
+[2], 5, [1] p.   
+
+
+London :
+
+
+printed by Sarah Griffin for Thomas Hewer, and are to be sold at her house in Eliots Court in the little Old Baily,
+
+
+1659.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.
+Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.
+Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.
+2013-09
+TCP
+Assigned for keying and markup
+2013-11
+SPi Global
+Keyed and coded from ProQuest page images
+2014-02
+Colm MacCrossan
+Sampled and proofread
+2014-02
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+L1516
+
+
+R217628
+
+
+99829286
+
+
+33723
+
+
+
+
+
+
+
+
+
+
+
+
+A LETTER FROM THE COMMANDERS AND OFFICERS OF THE FLEET Of this 
+COMMON-WEALTH,
+ Unto General 
+MONCK
+ in 
+SCOTLAND.
+ Dated the 4th. of 
+November
+ 1659.
+
+
+LONDON,
+ Printed by 
+Sarah Griffin
+ for 
+Thomas Hewer,
+ and are to be sold at her house in 
+ Eliots Court
+ in the little 
+Old Baily,
+ 1659.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A LETTER FROM THE COMMANDERS AND OFFICERS of the FLEET of this 
+COMMON-WEALTH,
+ un to General 
+Monck in
+ SCOTLAND
+
+
+THE deep sense we have of the duty in∣cumbent on us in this day of 
+Englands
+ fears, tryals and temptations, puts us up∣on this Application to your Honour unto whom not long since most of us had a more immediate relation, and the experience we had then of your readiness to receive and grant our just desires, gives us encouragement to be∣leive this present tender will have the like Re∣sentment.
+
+
+
+
+As private Members of this Common-wealth, we cannot but take notice of, and in secret be∣wail before the Lord, the intestine divisions that are amongst us at this day; and the dreadfull consequence likely to ensue thereupon, when duely pondered, do exceedingly afflict, and even break our hearts.
+
+
+All the force, that the common Enemy, (whil'st in his strength) were able to muster up against the good people of this Nation, either at home or frō abroad, could never raise such clouds of fears, nor impresse those terrors on our hearts, as we nowly under frō the apprehension of that evill which attends that distance, which is be∣tween you, and the Army in 
+England,
+ which being manifested to us by a declaration lately sent from 
+Scotland,
+ and published by your Com∣mand and resolutions therein expressed, of your vindicaing the late Parliament in opposition to the general proceeding of the General Coun∣cils of Officers here. We have taken the bold∣nesse not only as private Christians, but in our publick capacity as Officers of the Fleet to be∣seech you (in the bowels of mercy and com∣passion to this your native Country, and espe∣cially to all the Lords people therein, whose interest we remember hath formerly been precitious to you.) seriously to consider.
+
+
+1. Whether the undertaking you are ingaged in, will not make the hearts of the righ∣teous in these Nations sad, whom the Lord hath not made sad, and strengthen the
+
+ hands of the wicked, that he should not return from his wicked way; It being ob∣vious to us where ever we come, that few or none take pleasure in your proceedings but the Cavaleers, who make their boast of you, & place their cōfidence in you, which as it is irkesome to us to hear, so we trust, and shall pray, that the Lord will preserve you from such a defection, as knowing that never any prospered that helped them.
+
+
+2. Whether this sudden Resolution against your Brethren of the Army on account of their late transactions, have not some pro∣portion with what the Israelites intended against the Tribes of 
+Ruben, Gad,
+ and half tribe of 
+Manasseth,
+ when they had built an Altar of Memorial on this side 
+Jordan,
+ and whether the same means, (if used by you for information of matter of fact as by them) might not through the Lords blessing have the same effect, and thereby not only bloudshed be prevented, but the work of Reformation carryed on.
+
+
+And truly though we shall not undertake to justifie the Army in their late Action, as being very unable to judge of such important affairs, (not having been of their Council (yet we hope that in the integrity of their heart, and inno∣cency of their hands, they have done this thing which we apprehend to be the ground of your dissatisfaction; And on this occasion we crave
+
+ leave to remind you, that as you were satisfied with the former dissolution of this very Parlia∣ment in the year 1653. and were pleased to con∣tinue your command at Sea in that Juncture, (when as the undertaking of the late Lord General 
+Cromwell
+ was not so clear to others) and through the blessing of God obtained two signal Victories against the Dutch, even in that 
+Inter∣regnum,
+ so we earnestly desire you will hearken unto, and receive satisfaction from, the Officers of the Army, in what they have to offer in this particular.
+
+
+3. We humbly offer to consideration, whether in your own Observation, it be not appa∣rent, that this Army have in their actings hitherto Cordially designed the advance∣ment of Gods glory, and the promoting and incoragement of godliness and vertue though in persons of different judge∣ments, and perswasions, and whether the cause of God, and his people hath not hereby been preserved, and maintained a∣gainst all opposition.
+
+
+4. Whether by such an undertaking (if prose∣cuted,) the Common Enemy in 
+Scotland
+ will not soon recover strength, and be∣come as obnoxious to 
+England,
+ as in for∣mer times, though of late through your singular prudence industry and care they have been kept under.
+
+
+And whether the espousing of an interest (di∣stinct from your brethren of the Army in 
+England
+
+
+ as is reported) contrary to those righteous prin∣ciples, that have hitherto been contended for, will not (instead of purchasing our desired Li∣berties) render the good people of these Nations to a condition of perfect thraldome, & bondage.
+
+
+The state of Affaires being such in our weak ap∣prehensions we have taken this freedom to un∣bosom our hearts to your Honour, and shall earnestly pray they may take some place with you, in order to the begetting of a good Under∣standing, and agreement between your self, and your brethren here, that both you and they, as also our selves in our several stations by Land and Sea, may with one heart, and consent be found doing the Lords Work in this present Ge∣neration, in opposition to all Corrupt interests whatsoever; In attending whereunto, a bles∣sing may be expected from the Lord; In him we are
+
+
+Nov.
+ 4
+th
+. 1655.
+
+
+Your Honours humble Servants
+
+
+
+Rich. Stayner.
+
+
+John Lambert.
+
+
+Tho. Lunn.
+
+
+John Bourne.
+
+
+Robert Clark
+
+
+Tho. Sparling.
+
+
+Bartho. Ketcher
+
+
+Charles Wager.
+
+
+Rich. Newbery.
+
+
+Henry Fenn.
+
+
+Fran. Allen.
+
+
+Nath Browne.
+
+
+Peter Bowen.
+
+
+William Go
+an
+
+
+Ju
+ Stoakes.
+
+
+Anth. 
+vning.
+
+
+Robert Story.
+
+
+Henry Pack.
+
+
+Ja
+ Grove.
+
+
+Edw.. Witheridge.
+
+
+Rich. H
+lb
+k.
+
+
+Christoph. Myngs.
+
+
+
+
+
+
+
+
+
+
+

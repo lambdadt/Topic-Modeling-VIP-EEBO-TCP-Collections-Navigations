@@ -1,0 +1,178 @@
+Reasons against making the river Darwent, in the county of Derby, navigable I. The mayor and burgesses of Derby, have thrice heretofore attempted, without success, the making this river navigable. ...
+Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A58224
+
+
+
+
+Wing R473
+
+
+
+ESTC R222728
+
+
+
+
+
+99833870
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Reasons against making the river Darwent, in the county of Derby, navigable I. The mayor and burgesses of Derby, have thrice heretofore attempted, without success, the making this river navigable. ...
+1 sheet ([1] p.)   
+
+
+[London :
+
+
+s.n.,
+
+
+1698-99]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+River engineering --  England --  Early works to 1800.
+Derwent River (Derbyshire, England) --  Early works to 1800.
+Inland navigation --  England --  Early works to 1800.
+2013-10
+TCP
+Assigned for keying and markup
+2013-11
+SPi Global
+Keyed and coded from ProQuest page images
+2014-01
+Colm MacCrossan
+Sampled and proofread
+2014-01
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+R473
+
+
+R222728
+
+
+99833870
+
+
+38348
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REASONS Against making the RIVER 
+DARWENT,
+ in the County of 
+Derby,
+ NAVIGABLE.
+
+
+I. THE Mayor and Burgesses of 
+Derby,
+ have Thrice heretofore attempted, without Success, the making this River Navigable.
+
+
+II. There is no Common Bridge over the said River, but many Fords, through which Carts and Carriages daily, and Mill-stones frequently do pass. Now by constant deepening the Channel to keep the River Navigable, no New Fords can ever be cast up; and if the Old ones wear out, which often happens, all Communication of the Inhabitants on the one side of the River, with those on the other, will be lost; for the Undertakers are not willing to make Bridges.
+
+
+III. On this River are divers Corn-Mills and Fulling-Mills, which this Navigation will often lay dry, and frequently interrupt their Working, to the great damage of the Country thereabouts, and endanger the breaking of the Wares, to the da∣mage of the Owners.
+
+
+IV. This intended Navigation will not, as is pretended, Advance the Trade of any Market, or other Town lying near the said River, or the River 
+Trent;
+ but instead thereof, it will much abate the Trade of 
+Nottingham, Mansfield, Blyth, Tuxford, Worsop, Bautry,
+ &c. which is driven thence through 
+Scarsdale
+ by Land-Carriage into 
+York-shire, Lancashire,
+ and 
+Cheshire,
+ and by this means mul∣titudes of Families will be utterly undone, who now get their Living by Land-Carriage.
+
+
+V. Nor can this intended Navigation be any ways commodious for the quicker and cheaper conveying of Goods to the Port of 
+London
+ (which is the principal Reason that all Navigators urge for such their Undertaking) for oftentimes the Stream of this River for a Month or six Weeks together, is so small and shal∣low, that it will scarce carry a little Fishing-Boat; all which time the greater Vessels with their Lading, must lie still, and the Trader often lose the advantage of that Market, which he might have been sure of by Land-Carriage.
+
+
+VI. And as for the Preservation of the High-ways, a Benefit which is pre∣tended will be wrought by this Navigation, this Navigation can only save five Miles of Land-Carriage, 
+viz.
+ from 
+Derby
+ to 
+Wiln-Ferry,
+ and all who are liable to the repair of those High-ways, had much rather bear that Charge, than be barr'd the conveniency of passing the River 
+Darwent
+ when they have occasion.
+
+
+VII. If this River were capable of being made Navigable, (as in the opinion of all who know it well, it is not) yet it would be advantageous to none, besides a few Tradesmen in 
+Derby,
+ but very prejudicial to many who live there, and get a comfortable Livelihood by Land-Carriage from thence to 
+Wiln-Ferry,
+ yet dare not, for fear of the Great ones of the Town, shew their dislike of the Navigation.
+
+
+VIII. Now by this Navigation, to enrich some of the Town of 
+Derby
+ and impoverish others, to subvert the Trade of all the Market-Towns in 
+Nottingham∣shire,
+ and greatly to annoy all the Gentlemens Estates on the Banks of the River 
+Darwent,
+ is just as reasonable, as to rob all the Apostles to enrich St. 
+Peter.
+
+
+
+
+
+
+
+
+
+
+
+
+THE CASE Of making the River 
+DARWENT NAVIGABLE.
+
+
+
+
+
+
+
+
+

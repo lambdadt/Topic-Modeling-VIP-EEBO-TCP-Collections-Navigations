@@ -1,0 +1,592 @@
+The wars in Germany vvith the taking of the seuerall townes by the Marquesse Spynola, and the present estate of the whole armie now on foote, in right of the emperour, sent from the Pope. Emperour. King of Spaine. Archduke. The cardinals. And Germaine prelasts. Together with the present estate of the contrary armie, conducted by Graue Maurice of Nassau, and the townes by him taken. Truely translated out of Dutch and French into English: and printed at Antvverpe the third of September. 1614.
+Approx. 29 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A01656
+
+
+
+
+STC 11796
+
+
+
+ESTC S118829
+
+
+
+
+
+99854036
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The wars in Germany vvith the taking of the seuerall townes by the Marquesse Spynola, and the present estate of the whole armie now on foote, in right of the emperour, sent from the Pope. Emperour. King of Spaine. Archduke. The cardinals. And Germaine prelasts. Together with the present estate of the contrary armie, conducted by Graue Maurice of Nassau, and the townes by him taken. Truely translated out of Dutch and French into English: and printed at Antvverpe the third of September. 1614.
+[4], 23, [5] p.   
+
+
+Printed at London :
+
+
+[By E. Allde and T. Snodham] for Nathaniell Butter,
+
+
+1614.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Germany --  History --  17th century.
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-09
+Colm MacCrossan
+Sampled and proofread
+2013-09
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+11796
+
+
+S118829
+
+
+99854036
+
+
+19442
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Wars in Germany, With the taking of the seuerall townes by the Marquesse Spynola, and the present estate of the whole Armie now on foote, in right of the Empe∣rour, sent from the 
+Pope. Emperour. King of Spaine. Archduke.
+ The 
+Cardinals.
+ And 
+Germaine Prelats.
+ Together with the present estate of the contrary Armie, con∣ducted by 
+Graue Maurice
+ of 
+Nassau,
+ and the Townes by him taken. 
+Truely translated out of Dutch and French into English: and printed at
+ Antwerpe 
+the third of September.
+ 1614.
+
+
+
+
+depiction of Ambrogio or Ambrosio Spinola, or a man in armour with a musket or gun and sword standing over a house in the countryside
+
+
+
+
+Printed at London for 
+Nathaniell Butter.
+ 1684.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A true relation of the taking of the towne of 
+Aix
+ or 
+Accon, Weesell
+ and diuers other townes in Germanie by the Marquesse 
+Spinola
+ generall of the King of 
+Spaines
+ Armie; vnder pretence to reduce them to the obedience of the Emperour, and the re∣ligion they call Catholique. Together, with a full declaration of the whole armie now on foote ready to ioyne with the aforesaid Marquesse, being sent from the Pope, Emperour, Archduke, Conclaue of Cardinalls, and the Catholique Prelats of 
+Ger∣manie,
+ and intituled the most Christian league: Their numbers, ensignes, and Emblemes.
+
+
+T
+O enter into the bosomes of Princes, or from a prophetique bold∣nes to interpret the hidden myste∣ries of their de∣signes, shows in an ignorant presum∣ing nature, such an impudence as can neither finde warrantie nor excuse: therefore
+
+ to trace myne Authors relation truly without any inquitie of the grounds, ends or determi∣nations of these strange, sodaine, and vnlookt-for garboyles, which haue euen with much ad∣miration, set open all the eyes and eares in 
+Eu-
+ You shall vnderstand that about the fiue 
+r
+pe.
+
+
+And twentyth of 
+August
+ last, in this present yere 1614. according to the 
+Roman
+ computation,
+ and the fifteenth of 
+August
+ in our account: The Marquesse 
+Spinola
+ (to whom they giue the title of excellence) being generall of the king of 
+Spaines
+ forces, came with a power of 1500. horse, and 12000. foote, before a Towne in 
+Cleueland
+ called 
+Aix
+ or 
+Accon,
+ famous both for the antiquitie thereof: as also for certaine hot Bathes which are therein, but especially for the priuiledge of keeping (as 
+Guychardine
+ reports) of an Iron crowne wherewith the Emperours are crowned at their first elections. Before this towne the Marquesse 
+Spinola
+ with his forces set downe and planted against it three peeces of Cannon vpō Saint 
+Siluesters
+ Hill, & foure other great field peeces of Brasse at the gate of the bridge against the great Tower or Bulwarke: yet before he began to make any shot or play v∣pon the towne, he sent certaine Ambassadors into the town, vpon whose deliberate & perswa∣siue intreaties,
+ the towns-mē accorded to make composition, vpon these conditions following.
+
+ First, that all Soldiers of what name title or qualitie soeuer, being then resident in the town (being at that instant to the number of sixe hun∣dred) should depart from thence, with bag and baggage, full arm'd, Drums beating, and their ensignes displayd, which were of white silke chargd with a blacke crosse. Also that they should haue safe conduct for fortie Carts to conuay and carie them & their baggage: to all which the Marquesse accorded. Now as Cap∣taine 
+Iohn Van Diick alias Seram
+ and 
+Mounsieur de Potlites,
+ with Captain 
+Peter Galon de Meres
+ com∣mander of the Marquesse of 
+Brandenborch
+ soul∣diours, were issuing out of the towne with their white ensignes flying and chargd as beforesaid with blacke crosses, diuers wealthy Burgers or men of account in the towne, whether fearfull of euills to come, or suspitious of euills with which they had beene formerly acquainted, or stirred vp by their conscience then likely to tast tyranny, attempted to issue out of the towne, with the souldiours, but were by strong hand hindred and turnd backe againe, by certaine bands or companies of 
+Almaines
+ to the number of 600. who entred at the same gate at which they departed.
+
+
+
+
+Also at the same instant at another gate of the towne called 
+Collogne
+ port or gate, entred ano∣ther company of 
+Almaines
+ equall to the former number.
+
+
+Likewise at the Bridge port or gate, there entred other sixe ensignes of 
+Almaines,
+ who presently marched vp into the towne, especially to the place where the Protestants were ac∣customed to heare their preaching.
+
+
+An other part of the army marched towards a place in the Towne called the 
+Asses
+ head, where other Protestants did exercise their reli∣gion; The rest of the Army went to the Cytadell or Towne Hall neare to the Hospitall, without hurting or offending any that were of that which they cal the Catholique Religion, whom likewise they exempted and made free from all charge, disbursments or taxations due for the reliefe of their Souldiours, lodging the army only vpon the charge of the Protestants, whom they suggested to haue (whilst they were masters of the towne) stopped and barred against them all these gates or entrances; that is to say first the port 
+Royall,
+ secondly, the Hill port; thirdly, the 
+Zongle
+ port; fourthly, the port 
+Albertus;
+ fiftly, the port 
+Winaerte Bongaerts;
+ sixtly the 
+Roost
+
+
+ port, and lastly, Saint 
+Iames
+ port; not leauing any open for vse but these only: the Bridge port, the port of 
+Collogne,
+ the 
+Bortscher
+ port, and the 
+Younkers
+ port.
+
+
+The twentie seauenth of August, the Army a∣rose from before the towne, and marched a∣bout some two leagues from 
+Aix
+ or 
+Accon,
+ and there encamped againe.
+
+
+The eight and twentith day of August the Army arose,
+ and marched before the Towne of 
+Duren,
+ against which they encamped them∣selues againe, and whilst the Army there lay, there came out of the said towne of 
+Duren
+ cer∣taine principall men of great account and rec∣koning mounted on hors-back, and apparelled all in blacke, who by a mutuall and generall consent were sent out of the towne, as agents or negotiators for all the rest, humbly to craue that it would please his Emperyall Maiestie to pardon their offences and misdemeanors how euer ignorantly or otherwise committed a∣gainst him: most humbly and affectionately de∣firing to render and subiest themselues to the Lawes and ordinances of his Emperiall Maie∣stie, bringing and offering the Keyes of the Towne to the Marquesse 
+Spinola,
+ which hee
+
+ receiued in the name and right of the Empe∣rour, with all the curteous humanitie that his great place could any way extend: All which accomplements being finished, the very same day the Marquesse sent into the towne two Companies or Ensigns of Souldiours being to the number of three hundred men well apoin∣ted, being vnder the command of the Count 
+Emden.
+
+
+The same day also being the twentie eight of August the Army arose from this Towne of 
+Duren,
+ and marched forward toward 
+Mersweicke
+ and 
+Rangleroy.
+
+
+The nine and twentieth of the same moneth of August, the Armie marched towards the towne of 
+Nuys.
+
+
+Vpon the thirtieth day of August the chiefe Burgamaster of 
+Nuys
+ came to salute the Mar∣quesse 
+Spynola,
+ being brauely attended, and his person drawen in a Caroach, with foure hor∣ses, and after some conference and ordinarie accomplement, to which, none but themselues were priuie, the Marquesse entred into the
+
+ Towne with fiue troopes of horse, whilste all the rest of the armie remained without the Towne.
+
+
+Assoone as the Marquesse had ordered and disposed of the Towne of 
+Nuys,
+ and placed ga∣risons as he liked best, without any stay at all, but euen the very selfe same day being the thir∣tieth day of August, he departed thence, and marched towards 
+Dusseldorpe,
+ which is about a league from 
+Nuys,
+ yet at his departure from 
+Nuys
+ the Towne discharged six Cannons in ho∣nour of the Marquesse, and as it seemed in a ve∣rie triumphant and gallant fashion: after which the armie marched towards the towne of 
+Rey∣sers-wert.
+
+
+The thirtieth day of August aforesaid,
+ the Duke of 
+Neuwenborch
+ met and ioyned his armie with the Marquesse 
+Spynola
+ neare to the towne of 
+Iuliet,
+ which armie of the Dukes was com∣posed of seauen thousand foote and one thou∣sand horse, in so much that at that time the Marquesse 
+Spynola's
+ armie was increased and ac∣counted to be twentie sixe thousand foot, and foure thousand and three hundred horse, one thousand Waggons for munition, euery wag∣gon,
+
+ hauing three horses, besides Victualers & other necessarie depēdants to the Army, which are in number aboue two thousand waggons.
+
+
+The one and thirtieth day of August, being the day after the ioyning of these two great bo∣dies into one, they began to make a bridge ouer the 
+Reine,
+ a little aboue 
+Rein-Berke
+ betwixt the two forts; in the labour and workemanship of which Bridge was imploied aboue one hun∣dred men, besides Pyoners, and other mecha∣nicall labourers.
+
+
+The Bridge being perfitted as it were in a ve∣rie moment of time,
+ the armie passed ouer and marched the first day of September to the towne of 
+Orsoy,
+ which they presently tooke, and at the same instant there ariued at the same Towne of 
+Orsoy,
+ a companie with 
+Italians
+ which came out of the towne of 
+Geldre.
+
+
+The same day they marched thence with the whole armie, and comming to the new built Cittie of 
+Mulhem
+ neare vnto 
+Colloigne,
+ beganne that day to sacke, destroy, and make an vtter deuastation of the same, finding it as it seemed,
+
+ either vtterly vnpeopled, or so weakely proui∣ded of resistance, that nothing stood to oppose their furies.
+
+
+The same day also the armie was drawne to 
+Meures,
+ being a towne lying against 
+Rijnsburge,
+ where the Gouernor or Commander thereof came forth, and with all humilitie and reue∣rence saluted the Marquesse 
+Spynola,
+ and so ob∣tained all such conditions as were thought meete for the places ouer which he had com∣mandment.
+
+
+The second day of September the armie came and incamped before the town of 
+Weesell,
+ and hauing laine there the space of two dayes, in the end tooke it by a most kind and friendly composition, and albeit be wholie inhabited by Protestants, and that 
+Spynola
+ hath put thereinto a Garrisson of fiue hundred 
+Spaniards,
+ yet in no degree whatsoeuer doth the Souldier offer vio∣lence against any of the Townesmen; which clemency is supposed by the best iudgements, not to proceede so much from loue as from feare of after troubles, which might follow a∣ny crosse or tyrannicall proceeding in these ho∣stile and furious businesses.
+
+
+
+
+After the departure of this great armie from 
+Weesell,
+ the Marquesse marched to 
+Reinsberche,
+ where he vrged many intreaties and offered di∣uers capitulations, but all to no effect, for the towne being esteemed impregnable, and as it were invincible, there was little hope left of the winning of the same.
+
+
+During the time that this great armie called the most Christian league or warre, ranne thus like an vnresistable flame through all the bo∣wels of 
+Germanie,
+ threatning an vtter losse to all the poore afflicted Protestants, as it is giuen out by most credible and assured information, from the one and the other side: The most ex∣cellent and for euer renowned Prince the 
+Graue Maurice
+ of 
+Nassau,
+ with a very great and strong armie of all the best and most experienced soul∣diers of the 
+Netherlands,
+ marched vp into the higher parts of those Countries, and about the second day of September in this present yeare 1614. (being the same time that the Marquesse 
+Spynola
+ tooke 
+Weesell
+) the aforesaid most excel∣lent prince 
+Graue Maurice
+ besieged and tooke a towne of the Catholiques called 
+Emricke,
+ vpon the selfe same conditions as the Marquesse had
+
+ taken the town of 
+Weesell
+ before, vsing the same clemencie and mercie (in a somewhat more larger measure) to the Catholiques, which hee vnderstood had beene practised before by the Marquesse to the Protestants, as it seemeth, to giue the world notice, how farre hee prefer∣reth a noble president before any iust wrath, seuerity or reuenge: a nature so rich and com∣mendable in the bosome of so worthy a Prince, that it can neuer bee sufficiently admired of any that take delight to hold their rancke a∣mongst the best of the vertuous.
+
+
+The third day of this present moneth of Sep∣tember,
+ the excellent Prince 
+Graue Maurice
+ ac∣companied with the most noble count 
+Henricke,
+ raised their armie from before 
+Emricke,
+ and marched to another towne neare adioyning thereunto called 
+Reys
+ in the Dukedome of 
+Cleue,
+ against which they layd a strong siege and begirt the Towne round about, and there were remaining at such time as these and many o∣other occurrents receiued their dispatches; so that what successe will issue from the same, may bee expected and wisht, but no certaine truth can be related, onely the great all-seeing eye of
+
+ the diuine iustice no doubt will order their counsails and actions, so as it may bee best for his owne glorie and his Churches comfort, against which, questionles was neuer pre∣pared so numberlesse, strong, and po∣werfull an armie, as you may vn∣derstand by the sequell of the Discourse which now followeth.
+
+
+
+
+
+
+
+
+A most true and full Relation of the seuerall parts and members of that most great and generall body of the most 
+in∣vincible Catholike Army, knit and vnited toge∣ther
+ into one maine substance, by the Pope, the Emperour, the King of Spayne, the Arch-Duke of Austria, and all the Catholike Cardinals, Arch-Bi∣shops, Bishops, and other inferiour Priests of Ger∣manie; with their seuerall Generals, and Comman∣ders of each particular Armies: their Names, Pla∣ces, and Dispositions: together, with their seuerall Emblemes and Deuises, placed as Trophyes vpon each of their Standards, or Ensignes Royall: in such sort as they haue been most carefully taken by espe∣ciall eye-witnesses and most truly published for the satisfaction of all Christian people. A matter most famously remarkeable, and worthy of admiration of all that shall happen to reade, and with a charitable iudgement truely vnderstand the same.
+
+
+S
+Ome few dayes (as it is gi∣uen out by most credible report) after the Duke of 
+Niewenborch
+ had ioyned his forces with the Marquesse 
+Spinola,
+ there came
+
+ also and ioyned with them these Armies fol∣lowing.
+
+
+First, from the Popes Holinesse (drawne as he vrgeth from a holy comiseration of the Catho∣like cause) was sent an Armie of two thousand Horsemen, and fifteene thousand footemen, with all necessary prouisions needefull in such a busi∣nesse, but by the distressed Protestants it is con∣iectured; nay, almost now gathered to a full be∣liefe, that this his huge liberalitie and expence of Men and Treasure would not haue come so freely, had not his designe some ayme at the vt∣ter extyrpation of them, and their vndoubted true Religion, which, should it appeare or pro∣ceede in any greater manifestation, no doubt but all Christian eares would be fild with his crueltie, and what he would guild with a noble charitable∣nes, would of the wisest and most modest tongues be called a tyrannicall bloudinesse, a foule and ignoble-title for a man of his holy Order, or a Prince of his great Place and Authoritie.
+
+
+This great Army of the Popes hath ouer is for Generall or chiefe Commander, one named
+
+ 
+Don Pascor,
+ or 
+Pastor,
+ of 
+Constantinople;
+ a man of great birth, place, experience, and vallour, a∣mongst the Italians: He beareth in his Standard (which is all entirely redde without any other Embleme or Empresa, the collour as it were,
+ speaking the anger and reuenge his aymes leuell at) and in the midst thereof this Motto or words written, 
+Mors & Vita,
+ Death and Life; some translate it Death or Life; others dead or liuing, but I take it to be Death and Life; Death to his withstanders; Life to such as will be yoked to him. It hath beene reported by some, that he beareth in his redde Standard or Ensigne, a liuing man, standing ouer a dead man, and a Latine sentence written vnderneath, signifying, 
+Thou hast thy me∣rie:
+ but this I rather take to belong to some o∣ther great Commaunder, being as it were with him a second in authoritie.
+
+
+Next to this Army of the Popes, marcheth the Emperour 
+Mathyas,
+ his owne Army being two thousand Horsemen, and twenty thousand Foot∣men, compounded of seuerall Nations, and Pro∣uinces; but all held well approued in Warre, and of a great expertation and experience.
+
+
+
+
+The Generall, or chiefe Commaunder of this great Armie of the Emperours, is the great Lord of 
+Rhodes;
+ a man very highly esteemed for valour, wisedome, experience, and what else adorneth a perfect Souldiour.
+
+
+Hee beareth in his Standard or Ensigne-Royall, which is all white, prefiguring a more hurtlesse and innocent temper, mixt with much more clemency & Iustice then the former, a Lady or Virgine aparayled in white also, and a Lyon standing by her, with a word or Motto, signify∣ing, 
+Both these belong to Accon:
+ now there be some reporters which affirme that his Ensigne is all white, without any charge but onely cer∣taine words, which signifie in English, 
+I haue much to looke for, and neuer to runne away;
+ others translate it, 
+I expect much, but howsoeuer I will not flye:
+ but this as I sayd of the former, may belong to some other high Commaunder; how∣soeuer neyther but show the strength of a great and vndaunted resolution.
+
+
+
+
+Touching the King of 
+Spaynes
+ Forces, which is called the Armie of the most Catholique King,
+ they are numbred for certaine to be fifteene hun∣dred Horsemen, and twelue thousand Foote-men, being for the most part all naturall Spa∣niards, well experienced and approued Souldi∣ers, as drawne from his most worthiest Garisons, and other places, of his most Warlike imploy∣ments.
+
+
+The Generall of this great and famous Ar∣mie, is the Marquesse 
+Spinola,
+ held amongst all the Spaniards a man of rare valure, wisedome, and all greatnesse of minde, and one on whose re∣putation doth lodge the badge of much good fortune in all his former affaires, whether they haue beene by Land or Sea, which haue knit so vnto him the King his Masters loue, that his ri∣sings haue beene accounted more swift then any other of his ranke: a good note of worthinesse, if his vertues and lovaltie endeauour to keepe and preserue them without tyranie or ambition.
+
+
+
+
+His Standard or Ensigne royall is all white like the Emperours, wherein is portrayed a man standing with a chayne about his necke, yet as it seemeth either vnmanacled and at liberty, or at most but in a willing and most pleasing serui∣tude, for vnderneath him is writ a sentence, which signifieth in English, 
+My Chayne shall binde others.
+
+
+Now there be some Reporters that affirme, that in his Ensigne besides the chayned man, there is a 
+Tyger
+ and a 
+Beare,
+ and the word as a∣fore-said, and I will not stand much to argue the contrary; for although it make the body of the 
+Embleme,
+ like a surcharged coate, somewhat too much burdened, against the strickt rules of our curious deuise-makers, yet are they all so signifi∣cant, and so well expressing the resolution of a strong Conquerour, that they may well become the inuention of him to vvhom they are attri∣buted.
+
+
+
+
+Next this Armie is ranked the Armie of 
+Al∣bertus,
+ Archduke of 
+Austria,
+ and brother to the Emperour 
+Mathyas,
+ and are fully accounted to be one thousand fiue hundred Horse-men, and tenne thousand Foote-men, all good and approued Souldiers, by him bred, and discipli∣ned, with great perfection in the Neather-lands, and other places, to which his occurrents haue drawne him.
+
+
+The Generall of this Army is the Archbishop of 
+Albyod,
+ a very Noble descended Gentleman, full of great spirit and vvisedome, and one of high estimation with the Archduke, as may ap∣peare by this great imployment, and many other graces and fauours done him in other seruices, all which hee seeketh to acknowledge in his rea∣dinesse and preparation, for any imployment shall be fixed vpon him.
+
+
+His Standard or Ensigne royall, is all blacke,
+ and in the midst thereof a withered Tree, and a
+
+ sentence vnderneath it, signifying in English, 
+Waxe greene againe,
+ or 
+I will waxe greene againe.
+ Some report that hee hath in his Standard a 
+Hearce
+ or 
+Tomba,
+ which in Herraldry is an Em∣bleme of dispaire; but I referre that to some better intelligence, for I take the other to be much more proper, and better suiting with the goodnesse of a Noble nature, which indeede is of∣ten darkned with these horrid and dreadfull pre∣saging menaces.
+
+
+Last of all, is an Armie leauied by all those which they entitle Catholicke Prelates, in 
+Germa∣nie,
+ as Cardinals, Archbishops, Bishops, and o∣ther inferiour Priests, all which haue with a mu∣tuall consent drawne their mindes and substan∣ces together, and from thence raised vp a power of one and twenty hundred Horse men, and fif∣teene thousand Foote-men, not so well experien∣ced or approued in the Warres (by supposition) as the others be: but no doubt men daring e∣nough, and apt to goe on without either care or question of the enterprise to vvhich they are drawne, as is commonly seene and allowed in men of their mercinarie quality: and doubtlesse this Armie is composed of all Nations whatso∣euer, their Purses for the most part being the
+
+ entire commanders of their strengths, being by no other bond engaged to the obedience of their Lords and Masters; so that who so euer is out of imployment in this Armie, may finde bu∣sinesse to preoccupate his whole spirits withall.
+
+
+The Generall of this Armie thus gathered from the very fluxe and multiplicity of Masters,
+ is the Archbishop of 
+Riffin,
+ or as some call it S
+t
+. 
+Raffin,
+ a man of great trust and estimation, with all the Clergie in those Countries, and much renowned for his valour, wisedome, poli∣cie, and many other souldierly qualities, where∣with he hath beene plentifully endewed, onely so violent in the blindnesse of his Religion, or as they call it Catholick profession, that many of his acti∣ons may without offence vndergoe the censure or badge of much blood and cruelty.
+
+
+His Ensigne or Guidon (for indeede it can haue no other title of greatnes added vnto it)
+ is all of
+
+ a gray colour, portraying the grauity, sobernesse, and discreation vvhich should be imployed in those mighty Desseynes, and most especially from men of such sanctity and purenesse of life, as in right the Masters of this Armie should be, and in the middest of this gray Ensigne there is grow∣ing in his full glory a full blowne and faire flou∣rishing Lilly, with his naturall leaues, branches, and beauties about it, and vnderneath a sen∣tence signifying in English these words, 
+Natures Innocence is the best cloathing:
+ a Motto which no doubt promiseth vertuously, if the issues be an∣swerable to the ostentation: but if they be rai∣sed for any contrary purpose to goodnesse, as to expell from that long enriched Empire, the true preaching of the Gospell, and profession of the most true, auncient, Catholicke, and Apo∣stolicke Faith, there is no doubt but the ruines of their owne 
+Babell
+ will fall vpon them, and confound them; if otherwise it be for the bene∣fit of the Christian Faith, and the abollishing of 
+Mahomet
+ and his blasphemies, no doubt but their Armies will stand like the Israelites, and finde GOD himselfe continually fighting their battailes: how euer, to that power be all their powers and actions referred who is the GOD and Master of the hearts of Emperours, Kings, and Princes.
+
+
+
+
+The vniuersall power and whole grosse body of this entire Armie, consisteth of nine thousand one hundred Horsemen, and seauenty two thou∣sand Foote-men: the two bodies ioyned together make full foure-score and one thousand and one hundred able fighting men.
+
+
+This Relation was Printed in
+ Antwerpe, 
+both in Dutch and French, as may appeare by the ori∣ginall.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Aduertisement to the 
+READER.
+
+
+G
+Entle READER, I haue giuen thee here the first and fullest tastes of these high and strange preparations in 
+Germany,
+ with that true plainenesse and want of flatterie, as I did receiue them imprinted by especiall Au∣thoritie in 
+Antwerpe;
+ and as more shall come to my hands so I will present them vnto thee
+
+ with all integritie and soundnes of truth: holding it an vnpar∣donable sinne to adde to the Names or Actions of such Mightie and Sacred Persons, the least falsehood or scandall that may any way bee imagined.
+
+
+Farewell.
+
+
+
+
+
+
+
+
+
+
+

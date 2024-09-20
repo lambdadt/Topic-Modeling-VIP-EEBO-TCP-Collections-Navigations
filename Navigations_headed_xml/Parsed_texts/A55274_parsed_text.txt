@@ -1,0 +1,1629 @@
+A poem upon the undertaking of the Royal Company of Scotland Trading to Africa and the Indies
+Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A55274
+
+
+
+
+Wing P2718
+
+
+
+ESTC R220470
+
+
+
+
+
+99831870
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A poem upon the undertaking of the Royal Company of Scotland Trading to Africa and the Indies
+16 p.   
+
+
+Edinburgh :
+
+
+printed for James Wardlaw, and to be sold at his shop in the Parliament closs,
+
+
+1697.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Company of Scotland Trading to Africa and the Indies --  Poetry --  Early works to 1800.
+2013-10
+TCP
+Assigned for keying and markup
+2013-12
+SPi Global
+Keyed and coded from ProQuest page images
+2014-01
+Anne Simpson
+Sampled and proofread
+2014-01
+Anne Simpson
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P2718
+
+
+R220470
+
+
+99831870
+
+
+36337
+
+
+
+
+
+
+
+
+
+
+
+
+A POEM Upon the Undertaking of the Royal Company of SCOTLAND, TRADING TO AFRICA And the INDIES.
+
+
+EDINBURGH, Printed for 
+James Wardlaw,
+ and to be sold at his Shop in the Parliament Closs, 1697.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A POEM Upon the Undertaking of the Royal Com∣pany of SCOTLAND, Trading to AFRICA and the INDIES.
+
+
+
+
+LOng lay Great 
+Britan
+ in the Ocean's Armes,
+
+
+Naked, Unseen, Undrest & void of Charms;
+
+
+Unknown to Others, scarce to her self well known,
+
+
+Content with half of what was then her own,
+
+
+Rich only in her Native Innocence,
+
+
+When other Nations brought their Riches hence.
+
+
+
+
+
+
+The Wise 
+Phaenecians, Neptune
+ did adore,
+
+
+Long e're the Warlik 
+Romans
+ knew his Power,
+
+
+Mars
+ was their God to him with Zeal they bow'd,
+
+
+And hardly maimed Rites to 
+Jove
+ allow'd:
+
+
+His Image did adorn their Capitol,
+
+
+They stil'd him Mighty 
+Jove,
+ and that was all;
+
+
+All other Altars, did neglected ly,
+
+
+
+
+Whilst 
+Mars
+ his Temples smoakt continually,
+
+
+No Victimes there did bleed to 
+Neptunes
+ Name,
+
+
+They only heard of such a God by Fame,
+
+
+And hated him by Nature mortally,
+
+
+Because he did protect their Enemy,
+
+
+Carthage
+ their Rival did that God adore,
+
+
+He loaded them with Wealth from ev'ry Shoar.
+
+
+But 
+Mars
+ delights to keep his People poor▪
+
+
+For Poverty does make all Mankind brave.
+
+
+Few Value Life, who no Convenience have,
+
+
+These from their birth were alwayse Rival Gods,
+
+
+Neptune
+ and 
+Mars
+ were ever more at odds?
+
+
+These 
+Mars
+ prefers, wise 
+Neptune
+ still neglects,
+
+
+As 
+Albion
+ now does find by sad efects.
+
+
+Neptun
+'s the God the 
+Britans
+ first did know,
+
+
+His right to them did 
+Carthaginians
+ show.
+
+
+
+
+
+
+In 
+Carthage
+ Ships which hither came for Tinn,
+
+
+(As same reports) did 
+Britans
+ Trade begin.
+
+
+Carbage
+ the child of 
+Tyre,
+ that Queen of Trade
+
+
+Long courted 
+Albion,
+ but did ne're invade.
+
+
+Then with their ships their 
+chiefest god
+ was brought
+
+
+A God whose harmles Rites are easely taught.
+
+
+A God whose ehief delight is liberty,
+
+
+A
+ God abhores all sorts of tyranny:
+
+
+VVhither of one or many; matters not,
+
+
+Hated Opression was in Hell begot:
+
+
+But of all sorts with which the World's acurst,
+
+
+The many Headed Tyrant is the worst,
+
+
+Albion
+ has felt them all▪ her wealth and ease
+
+
+Makes them in liberty so hard to please,
+
+
+
+
+There's scarce an Age but brings her old disease,
+
+
+And at the first Invasion 
+Caesar
+ brought,
+
+
+Romes
+ Arms, and 
+Mars
+ here first oppression taught.
+
+
+With Fears and Jealousies in wealth they swell,
+
+
+They seem to want Diversion when they'r well.
+
+
+In times like these they must their errours see.
+
+
+Ah! may they for the future wiser be,
+
+
+And throw no more away their Trade by Sea.
+
+
+
+
+
+
+When 
+Neptune
+ first did to this Isle resort,
+
+
+Pleas'd with its Site, he placed there his Court,
+
+
+And seldom did his Presence thence withdraw,
+
+
+But when his hated Rival gave the Law.
+
+
+The Fates and Nature did divide the Land,
+
+
+Albions
+ two Daughters, each their Part cōmand.
+
+
+Two Nimphs of Equal Beautie, Twins by Birth,
+
+
+Did eq
+ally divide their Native Earth,
+
+
+The Eldest South, the Youngest Northward Reigns.
+
+
+This over Mountains, that o're fertile Plains.
+
+
+
+
+
+
+Neptune
+ did 
+Caledonia
+ Court, disdainfull She
+
+
+Slighted his Love, would 
+Mars
+ his Mistris be,
+
+
+That God who does in Human Blood delight,
+
+
+Him She ador'd, and forc't her Sons to fight.
+
+
+First in domestick slaughters taught them Wars,
+
+
+Then drove them thence to search for death & scars
+
+
+On 
+forraign shoars,
+ they starving honour got
+
+
+No Land but boasts the 
+Tomh
+ of some great 
+SCOT
+
+
+Thus to delight her cruel Lovers Eyes,
+
+
+By Law she does her Children sacrifice,
+
+
+An Army on his Altar yearly dyes.
+
+
+Worthies, who had they been in Trade imploy'd
+
+
+
+
+Had brought her Riches in at every Tide,
+
+
+For Liberal 
+Neptune,
+ did present her Store.
+
+
+Of Fishfull Harbours round about her Shoar
+
+
+No Nation in the World can boast of more.
+
+
+
+
+
+
+Fame sayes two Weirds did there arive of old,
+
+
+And bids the Natives search their Hills for Gold.
+
+
+But blind unthinking Mortals sure they be,
+
+
+Who turn up Rocks when they may plow the Sea
+
+
+Fate the true source of Wealth to 
+Neptune
+ gave,
+
+
+God 
+Pluto
+ is no more then 
+Neptunes
+ Slave.
+
+
+He digs towards Hell, & from its Confines draws
+
+
+Money, the Scales of Wealth, but not the Caus
+
+
+Riches proceed from Labour well imploy'd,
+
+
+When mutual Use of things does Men divide.
+
+
+Money's the Standart does the Cause decide,
+
+
+But 'tis its Name, not Nature which prevai
+
+
+Money and Money worth are equal Scales:
+
+
+Trace but the World, you'l find these Lands most poor
+
+
+Abound in Mynes and boast the richest Oar.
+
+
+But every Nation which frequent the Seas,
+
+
+Wallow in Wealth, and pass their time at Ease.
+
+
+Trade needs no fertile Acres for Support,
+
+
+Where ever Freedom lives, it makes its Court;
+
+
+And only craves a safe and open Port;
+
+
+Wherever it thrives, there Strangers do abound,
+
+
+But where its wanting, Penury is found,
+
+
+And makes such Land unhospitable Ground.
+
+
+
+
+
+
+A proof of which is miserable Me.
+
+
+Who never did an willing injurie.
+
+
+And yet have more then six years Prison found,
+
+
+
+
+For setting foot on 
+Caledonian
+ Ground,
+
+
+No wonder then that when I touch my Lyre,
+
+
+My tunes runs low because they want their Fyre.
+
+
+The Theam I treat is Glorious, Great and Brave
+
+
+But he that sings it a poor chain'd Slave,
+
+
+Like caged Birds; he utters broken Notes,
+
+
+These whistle loud, poor things and streach their throats
+
+
+Putting Complaints in Tune & warblings Sighs,
+
+
+To move some pity to their Miseries.
+
+
+But all in vain; as vainly do I sing,
+
+
+For none that hear me dare compassion bring;
+
+
+To speak on my behalf proves bad intent,
+
+
+But to assist me's Boot or Banishment
+
+
+Ill must a Stranger surely pass his Time.
+
+
+Where Pity's Sin, and Charity a Crime!
+
+
+A wanting Stranger too despis'd by all,
+
+
+Whose bare Complaints are counted criminal.
+
+
+Cease then my Muse, and speak of this no more
+
+
+But shift thy Fancie to the 
+English
+ Shoar,
+
+
+An Hospitable Shoar by Trade refin'd,
+
+
+To Strangers ever Equal, Just and Kind
+
+
+Ah! Heav'n that to their Kings they were the fame
+
+
+In this they fail, in this they are to blame.
+
+
+Their Errours on that head do Volumns swell,
+
+
+Ah! might they ever in Oblivion dwell.
+
+
+
+
+
+
+In that once happy Land, & may it be,
+
+
+Happy again, which I scarce hope to see.
+
+
+There lives a sort of Merchants might become
+
+
+The wisest Council Board in Christendome.
+
+
+Numbers of such who do as rightly know.
+
+
+
+
+Men's interen in things as Man can do.
+
+
+True Sons of 
+Neptune,
+ who have wonders done▪
+
+
+And think of all the World as one great Town.
+
+
+Men whose consummat Understanding knô,
+
+
+The rates of hazard, and what's safe to do.
+
+
+How to joyn Stock, and how to share the Gaine,
+
+
+Such as all litigating tri
+ks disdaine.
+
+
+Never o'r busie, never unimploy'd,
+
+
+But between Care and Pleasure time divide.
+
+
+New Undertakings hourly they devise,
+
+
+Their very Table Talk would make one Wise.
+
+
+
+
+
+
+In this 
+great School,
+ some 
+Scots-men
+ now are bred,
+
+
+And there find out the Misteries of Trade.
+
+
+Whence as their Genius leads them, thence they'll go,
+
+
+To every Forraign Nation, 
+English
+ knô.
+
+
+To 
+Turky, Italy,
+ and 
+Africa,
+
+
+To 
+India, Persia,
+ and 
+America:
+
+
+Amongst the Many, visite every Shoar,
+
+
+Judicious 
+Paterson,
+ and many more.
+
+
+Fraught with Experience, back again doth come,
+
+
+Striving to propagat their Skill at home:
+
+
+Home where all Mankind wish to find their Rest,
+
+
+A Charm which makes all Countreys seem the Best.
+
+
+Why it is so? Reason is at a stand,
+
+
+But all Men wish their Graves in Native Land.
+
+
+
+
+
+
+Should I those Worthies go about to Name,
+
+
+'T were endless work, they will survive in Fame,
+
+
+To times these creeping Lines shall never see,
+
+
+To times after, which no time shall be.
+
+
+That endless Glory nothing can prevent,
+
+
+
+
+England
+ Records their Names in Parliament.
+
+
+
+
+
+
+Envy does ever Frantick Council give,
+
+
+Envy that would destroy, shall make them live▪
+
+
+Envy that ugly Flag, with Sneakie Hair,
+
+
+Which in her rage, doth her own Intrals tear,
+
+
+Envy that Child of Pride begot in Hell,
+
+
+Oh! May she ever with our Neighbours dwell▪
+
+
+These Neighbours which so hate our 
+British Isle,
+
+
+They seek our Ruine, at our Losses smile.
+
+
+That Furie which could wish no Land to thrive,
+
+
+With scrieching Cryes did the Alarum give.
+
+
+As if some dreadful Fire again had layd,
+
+
+Our Wealth in Ashes, & destroy,d our Trade,
+
+
+Or, that some Potent Nation did Invade.
+
+
+Haste, looke about you, 
+English
+ Men, she cryes,
+
+
+The 
+Scots
+ will Trade, 
+Scotland
+ is growing Wise.
+
+
+Her Senat does discern her Interest,
+
+
+They'll choice Trade, by which you once were Blest.
+
+
+Free Trade to the 
+Indies
+ and 
+America,
+
+
+Will make them Rich like you, you poor as they.
+
+
+
+
+
+
+The Poyson drunk, soon the Infection spreads,
+
+
+Malice, Disdain, and Mischief, filll their Heads.
+
+
+Three Furies which do Envy still attend,
+
+
+And never do distinguish Foe from Friend.
+
+
+Now these that could silently sit, and see
+
+
+Bantam
+ surpriz'd, 
+Amboyna
+ ruin'd be;
+
+
+The 
+Greenland
+ Trade destroy'd, the 
+Baltick
+ lost,
+
+
+And 
+Holland
+ Fleets still Fishing on our Coast;
+
+
+That could with Patience part with 
+Suranam,
+
+
+And let all Trading run to 
+Amsterdam.
+
+
+
+
+At a wise Thing at home inraged grow,
+
+
+And by their Votes the outmost malice show:
+
+
+As if that 
+Scotland
+'s ruine they design'd,
+
+
+As if the Lands were not together joyn'd;
+
+
+When joyn'd they be, by Power and Nature to,
+
+
+So that th' ones fall, the other must undo:
+
+
+Let Trade increase, no matter where's its Seat,
+
+
+If either Thrieve, it's 
+Britanny
+ grows Great.
+
+
+That 
+Scotland
+'s like to Thrieve is very plaine,
+
+
+They've got a Law, and can that Law maintaine;
+
+
+A Law that sets all sorts of Trading free,
+
+
+No Land, a Wiser Land did ever see:
+
+
+The 
+English
+ anger proves it's Excellence,
+
+
+They learn the Mighty Value of it thence:
+
+
+Wise 
+Paterson,
+ or's Friends, could charm but few,
+
+
+Tho all they said, was Potent, Just, and True,
+
+
+They made it evident, that Trade by Sea,
+
+
+Needs little more Support, than being free,
+
+
+Freedom's the Polar-star, by which it steers,
+
+
+Secure its Freedom, and it nothing fears.
+
+
+No mighty Power it needs, no fertile Lands,
+
+
+No Gold, nor Silver Mines, it all commands.
+
+
+All that our Nature needs, or can desire,
+
+
+All that for Pride or pleasure we require.
+
+
+Free Trade will give, and teach us how to use,
+
+
+Instruct us what to take, and what refuse:
+
+
+Trade has a secret Vertue none can see,
+
+
+Tho ne're so Wise, except they Traders be.
+
+
+It is not ten 
+per Cent,
+ nor three times ten,
+
+
+Makes a Land Rich, but many Trading Men.
+
+
+
+
+Men Skill'd, the Myster
+es of Trade, that know
+
+
+Its Springs, and how to stop or let them flow:
+
+
+Freedō draws such, & where there's many found,
+
+
+It is most certain, Riches will abound.
+
+
+An hundred such, ten thousand do imploy.
+
+
+Who find their 
+Wealth
+ increase, but know not 
+why,
+
+
+And as they Thrive, their Members multiply,
+
+
+The want of Money such joynt Stocks supply,
+
+
+When diverse gaine by few Mens Industry.
+
+
+
+
+
+
+To the Discourse the Senat lend an Ear,
+
+
+Some vote the Cause, who the Effects do fear:
+
+
+Tho one and all consent to the Design,
+
+
+Not one in ten did mean therein to joyn.
+
+
+In all Debates, where there are many speak,
+
+
+Th' Ignorant still do most Objections make:
+
+
+And not discerning where the matter lyes,
+
+
+Seek by much doubting to be counted Wise.
+
+
+They answer when Right Reason proves they err▪
+
+
+You'l pardon me, it's my Opinion, Sir,
+
+
+In all elected Councils these abound,
+
+
+Such heads like empty Vessels make a sound:
+
+
+The brainless gaping Vulgar hear the Noise,
+
+
+And understanding nothing, vote them Wise:
+
+
+These Envy's activ'st Agents alwise be,
+
+
+They can spy dangers no Wise Man can see.
+
+
+Alas! cry such, our Land you know is poor.
+
+
+What mighty Stock have we to bring in more.
+
+
+
+
+
+
+As wisely did the Ancient 
+British
+ cry,
+
+
+We were born naked 
+Romans,
+ so we'll dy.
+
+
+We feel, the 
+Cold,
+ & know your 
+Robes
+ are warme,
+
+
+
+
+Yet should we us them, they'd but do us harme,
+
+
+Make us grow Lazie, and in Ease delight,
+
+
+Our Bodies tender, and unapt to fight.
+
+
+So say these Talkers, mighty Trade would be
+
+
+A sharper spurr to growing Luxurie.
+
+
+'Twould but increase our charge by Servants fees,
+
+
+Make the Poor easie, they'll grow ill to please.
+
+
+Such Stuff as this, does cost but little thought,
+
+
+Yet by such Stuff, all Vulgar Heads are caught.
+
+
+Blinded by Custome, Reason they oppose,
+
+
+And never see one inch before their Nose.
+
+
+It's not an easie Task to stemm the Tide
+
+
+Of noisie Scoffers, which do still deride,
+
+
+All that her brutal Senses have not try'd.
+
+
+
+
+
+
+I who know this, and see what here is done,
+
+
+Admire the steddy Soul of 
+Paterson.
+
+
+It is no common Genius can perswade,
+
+
+A Nation bred in Warr, to think of Trade.
+
+
+It is no less than 
+Solomon
+ could shew,
+
+
+Their Interest in it to the Warlick 
+Jew.
+
+
+'T was fi
+ indeed, the Wisest thing on Earth,
+
+
+Should to the Wisest Monarch owe its Birth:
+
+
+Those people once Blest, with that mighty Prince,
+
+
+Have been a Trading Nation ever since.
+
+
+Where e'r dispers'd, where e'r they Strangers be,
+
+
+They still do propagat this Mysterie.
+
+
+
+
+
+
+From 
+Palestine,
+ and its 
+Phenecian
+ Shoar,
+
+
+Wise Navigation spread the World all o'r.
+
+
+The 
+Jews
+ where ever born, are Merchants all,
+
+
+What's Art in Us, in them seems Natural.
+
+
+
+
+We must to Prentice, e'r we learn to Trade,
+
+
+They from their Infancy are Merchants bred.
+
+
+They seem of Providence the special Care,
+
+
+Of all great Things, they have the greatest Share,
+
+
+And prove wise Merchants, never Exiles are.
+
+
+Their Countrey lost, the World's all their own,
+
+
+Where e'r they live, they seem to be at Home.
+
+
+Their 
+Righteous Fathers Faith,
+ was 
+Blest
+ from 
+Heaven,
+
+
+To them the 
+Law
+ and 
+Gospel
+ both were given.
+
+
+And tho by them defill'd, they yet were made,
+
+
+The Instruments to spread these Truths by Trade.
+
+
+
+
+
+
+Trade Navigations Spurr, dispersed 
+Jews,
+
+
+Indeed teach other Nations how to use,
+
+
+Tho they its Genuine Candor most abuse.
+
+
+False Coyns, Adulterat Warrs, & all that's shām,
+
+
+Or fraud in Trade, with them seems 
+Lawful Gaine.
+
+
+Our most ungrateful Neighbours learn'd frō thē▪
+
+
+To clip our Coyn, and send it back again,
+
+
+Whilst to save them, we all Invention rack,
+
+
+The shameless Rascals run us in the back.
+
+
+Now it appears, they've sent us five time more
+
+
+False Money then of true, e'r past the Tower.
+
+
+Money it's call'd, and did for Money go,
+
+
+Till it has made them high and brought us low,
+
+
+How we shall rise, is past Men's skill to know.
+
+
+So bold a bare-fac'd fraud was never known.
+
+
+We fall, and are with impudence undone,
+
+
+Rogues not content with half of what was Good,
+
+
+Clipt off so well, our folly understood.
+
+
+They durst corrupt the Nations vitial Blood.
+
+
+
+
+We 
+ Money thence,
+
+
+That two half Crowns won't sell for 18 pence:
+
+
+Ah! That I durst their Dealings truely shô,
+
+
+But it's not time, so let the Villains go.
+
+
+'Tis not impossible the day should come,
+
+
+Our just inraged Vengeance may strike home;
+
+
+And make them the Reproach of Christendome.
+
+
+Justly till then we their contempt are made,
+
+
+They've only left us our Plantation Trade.
+
+
+In that too by their Tricks they so much share;
+
+
+We little more than their poor Factors are.
+
+
+We drudge for Suggars, which it's they refine,
+
+
+Their Drawbacks do our Profits undermine.
+
+
+As wisely might we send our Wool from home,
+
+
+As let them for our 
+Moscovadoes
+ come:
+
+
+Bribe them indeed to come & fetch them hence,
+
+
+Thus we Inrich them at our own Expence.
+
+
+We magnifie their Wisdom to the Skies,
+
+
+When it's our folly only makes them Wise;
+
+
+But since it is alle foolish to complain,
+
+
+I'll bring my Thoughts to 
+Scotland
+ back again;
+
+
+Where all the 
+Truths
+ that 
+Paterson
+ has said;
+
+
+Had in the end but small Impression made.
+
+
+Had not the 
+English
+ Votes, and Noisie Fears,
+
+
+Awak'd the Land, and open'd all their Ears,
+
+
+Thus as one Man the Nation has combin'd,
+
+
+And speedily a mighty Stock is joyn'd:
+
+
+A Stock so large, a Stock so very great,
+
+
+As must infallibly the Work compleat:
+
+
+That the Design is Wise, I surely know,
+
+
+
+
+Tho 
+ may not 
+o
+.
+
+
+Wise Things when put in practice come in trew,
+
+
+Till then it's fit they should be known to sew:
+
+
+or Secrecie's the Soul of great Designs,
+
+
+Made publick once, the Enemy combines.
+
+
+Nothing can be contriv'd tho ne'r so Wise,
+
+
+If once made known, but will find Enemies.
+
+
+This much I'll say, those that oppose it most,
+
+
+Will in the End, find all their Labour lost:
+
+
+They need not Trade in Paths, were Trade before,
+
+
+Of undiscovered Trade, the World has Store.
+
+
+Many blest Lands rich Nature can affoord,
+
+
+Which never yet beheld their proper Lord:
+
+
+Lands which abound in Rivers, Meads, & Groves,
+
+
+Where unaffrighted Birds do chant their Loves:
+
+
+Where nūerous Floks, & Herds of harmless Beasts,
+
+
+Freely possess their undisturbed rests.
+
+
+Where various Trees alse various Fruits produce,
+
+
+Some yielding Food, and some delicious Juice.
+
+
+Where rugged Winter never yet was seen,
+
+
+Nor least defect in everlasting Green.
+
+
+Where constant Course of equal Night and Day?
+
+
+Gives an Eternal Spring without decay.
+
+
+New fragrant Flowers, delightful to the Eyes,
+
+
+Do every Morning with the Sun arise.
+
+
+Who there to search the Earth does never stay,
+
+
+But only wipes her Dewie Sweat away:
+
+
+Whilst cooling Breezes fan her lovely Face,
+
+
+And Aromatick Smells fill every place:
+
+
+Such Lands the Sun does every day behold,
+
+
+
+
+With Hills of Silver, Rivers paved with Gold
+
+
+Lands never yet with charming Beauties Blest,
+
+
+Nor never yet with raging War opprest.
+
+
+Never by Blood of Man or Beast defil'd,
+
+
+Nor 
+ever yet with Tricks of Law beguil'd,
+
+
+Thus 
+ree from Guilt; happy in being Wild.
+
+
+
+
+
+
+On some such Shoar from all Preluctancy,
+
+
+This Company designs a Colony.
+
+
+To which all Mankind freely may resort,
+
+
+And find quick Justice in an open Port.
+
+
+To that the weary Labourer may go,
+
+
+And gain an easie Wealth in doing so.
+
+
+Small Use of tiresome Labour will be there,
+
+
+That Clyme richly rewards a little Care,
+
+
+There every Man may choose a pleasant Seat,
+
+
+Which 
+poor Men
+ will make Rich, & 
+Rich Men
+ Great
+
+
+Black Slaves like bussie Bees will plant them Canes
+
+
+Have Juice more sweet then honey in their 
+Veins
+
+
+Which boil'd to Sugar, brings in constant gains
+
+
+They'l raise them 
+Cotton, Ginger, Indigo.
+
+
+Luscious, Potatoes,
+ and the rich 
+Coco.
+
+
+Ships thence encrease to fetch these Goods away,
+
+
+For which the Stock will ready Money pay.
+
+
+By Manufactures here the Poor will live,
+
+
+So they that go and they that stay will thrive.
+
+
+Then 
+Caledonia
+ by her Lovers won,
+
+
+Will now Light 
+Shining Nuptial
+ Robes put on,
+
+
+Sea 
+Gods,
+ and 
+Nymphs
+ will dance, & 
+Tritons
+ play
+
+
+And yearly Celebrate her Wedding Day.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

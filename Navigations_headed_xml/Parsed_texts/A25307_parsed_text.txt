@@ -1,0 +1,270 @@
+An Account of the joyning of Major-General Kirk's forces with Duke Schomberg's and the taking the town and castle of Carrickfergus as also an account of the Irish army under K. James / by several persons lately arrived from Ireland.
+Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A25307
+
+
+
+
+Wing A302
+
+
+
+ESTC R1177
+
+
+
+
+
+ocm 12953581
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+An Account of the joyning of Major-General Kirk's forces with Duke Schomberg's and the taking the town and castle of Carrickfergus as also an account of the Irish army under K. James / by several persons lately arrived from Ireland.
+1 sheet ([2] p.)   
+
+
+London :
+
+
+Printed for J. Green ...,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Kirke, Percy, 1646?-1691.
+Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.
+James --  II, --  King of England, 1633-1701.
+Ireland --  History --  War of 1689-1691 --  Campaigns --  Sources.
+Carrickfergus (Northern Ireland) --  History --  17th century --  Sources.
+Broadsides --  England --  17th century.
+2012-05
+TCP
+Assigned for keying and markup
+2012-06
+SPi Global
+Keyed and coded from ProQuest page images
+2012-08
+Mona Logarbo
+Sampled and proofread
+2012-08
+Mona Logarbo
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+A302
+
+
+R1177
+
+
+12953581
+
+
+96015
+
+
+
+
+
+
+
+
+
+
+
+
+AN ACCOUNT Of the Joyning of MAJOR-GENERAL 
+KIRK
+'s Forces with DUKE 
+SCHOMBERG's
+ And the taking the TOWN and CASTLE of CARRICKFERGUS: As also an Account of the IRISH ARMY under K. 
+JAMES:
+ By several Persons lately arrived from 
+Ireland.
+
+
+
+
+Licensed and Entered 
+August
+ the 30
+th
+ 1689.
+
+
+
+
+Chester
+ 
+August
+ the Twenty eighth. 1689.
+
+
+SIR,
+
+
+SINCE my last several Ships are returned from Major General 
+Kirk,
+ who gives this Account, That Major General 
+Kirk
+ had Joyned his Grace the Duke 
+Schomberg
+ with Fourteen Troops of Horse, three of Dragoons, and Horse for three or four Troops more; and that the 
+English
+ Forces are Battering 
+Carrickfergus
+ with Eight Men of War by Sea, and likewise by Land, and 'tis not doubted but they will soon be Masters of it.
+
+
+Major 
+Tiffen,
+ after the great Defeat near 
+Inniskilling,
+ march'd towards Co∣lonel 
+Sarsfield
+ with one Troop of Horse, one of Dragoons, and two Com∣panys of Foot; but finding him Decampt, and hearing he fled toward 
+Sligo,
+ marched after him thither; but when he came he found a clear Stage, the Enemy being fled, and left behind them Fourteen Pieces of Cannon in the Town, of which the said Major is now in Possession, and is Fortifying of that Place.
+
+
+Yesterday at Noon sailed from 
+High-Lake
+ the 
+French
+ Regiment of Horse-Guards, commanded by the Right Honourable Colonel 
+Schomberg,
+ and like∣wise the Earl of 
+Devonshire
+'s Regiment of Horse. This day the Duke of 
+Bolton
+'s Regiment of Foot set Sail from 
+High-Lake,
+ and—
+Herbert
+'s Troop goes from hence this day to the same place. Two Troops of Colonel 
+Villar
+'s
+
+Regiment of Horse are come in, and the rest will follow this day, in order to their imbarking for 
+Ireland
+ with the first fair Wind. We likewise hear from 
+Dublin,
+ by a Ship come into 
+Beaumaris,
+ laden with Hides, Tallow, and Lea∣ther, wherein were several Passengers, as Mr. 
+Berton,
+ Servant to Alderman 
+Fletcher
+ of 
+Dublin,
+ Mr. 
+Smith,
+ and Mr. 
+Smallman,
+ Linnen-Drapers, with Monsieur 
+La Rue,
+ Silk-Man, who gives this Account, That King 
+James
+ had formed a Camp at 
+Rathmine,
+ on the South side of 
+Dublin,
+ composed of a∣bout 7000 Foot, being all new-rais'd Men, that they had neither Shirts nor Shoes, for the most part, and a great Multitude of Women and Children that followed them; and that King 
+James
+ had given Orders to all the Parish-Priests, to take an Account of all Persons from Sixteen to Sixty, and the place of their Abode, that they may be listed in that Kings Service; and that upon the News of Duke 
+Schomberg
+'s landing, the Camp was ordered to march on the North side of the Town, intending to form an Army to go and fight him; but the Horse that return'd from 
+Derry,
+ as well as the Foot, were misera∣bly Harass'd; and a 
+French
+ Officer that was in the Engagement before 
+In∣niskilling,
+ saith, That the 
+English
+ behaved themselves to a Wonder, but he never saw such Cowards as the 
+Irish,
+ some of them running Sixteen or Eighteen Miles without staying to look behind them; insomuch that King 
+James
+ was so enraged that he caused a Captain and a Corporal to be hang∣ed for running away, for Example sake: he also gives Account of a Ship arrived from 
+France,
+ with a 
+French
+ General and Twenty Officers, with some Arms, and that they had secured most of the considerable Protestants in the West, not daring to trust them, and are forming a Camp near 
+Kinsale,
+ as fearing the Earl of 
+Torington
+ may Land there, being now in despair of the 
+French
+ Succours; and that they have laid up a great Magazine in 
+Ath∣loane,
+ and Fortified 
+Gallway
+ for a safe Retreat: But we hope the Victori∣ous and Renowned General 
+Schomberg
+ will soon cool their Courage, ha∣ving as we hear taken the Town and Castle of 
+Carrickfergus
+ by Storm; so that he will be at liberty to march towards 
+Dublin,
+ having receiv'd the 
+English
+ Horse, who already forage up as far as the 
+Newry
+ and 
+Charlemont.
+ In our next we expect to hear of some Considerable Action, in the mean time I am your Humble Servant.
+
+
+
+
+
+
+POSTCRIPT.
+
+
+On Munday and Tuesday last sailed out of 
+Highlake
+ Eighty Sail of Ships all Horse, and Fifty Ships with Foot, Ammunition and Necessaries.
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed for 
+J. Green
+ near 
+Temple-Bar.
+ 1689.
+
+
+
+
+
+
+
+
+

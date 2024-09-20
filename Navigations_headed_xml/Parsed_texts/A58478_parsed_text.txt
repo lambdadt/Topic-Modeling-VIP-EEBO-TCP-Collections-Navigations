@@ -1,0 +1,10190 @@
+The Religious-rebell, or, The pilgrim-prince a tragædy.
+Approx. 102 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A58478
+
+
+
+
+Wing R910
+
+
+
+ESTC R14387
+
+
+
+
+
+ocm 13024568
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The Religious-rebell, or, The pilgrim-prince a tragædy.
+[2], 35, [1] p.   
+
+
+[London :
+
+
+s.n.],
+
+
+1671.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Henry --  V, --  Holy Roman Emperor, 1086-1125 --  Drama.
+2013-10
+TCP
+Assigned for keying and markup
+2013-11
+SPi Global
+Keyed and coded from ProQuest page images
+2013-12
+Anne Simpson
+Sampled and proofread
+2013-12
+Anne Simpson
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+R910
+
+
+R14387
+
+
+13024568
+
+
+96672
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE Religious-Rebell, OR THE Pilgrim-Prince. A TRAGAEDY.
+
+
+Printed, 
+Anno Dom.
+ 1671.
+
+
+
+
+
+
+
+
+Dramatis Personae.
+
+
+
+
+Henry
+ the Fourth Emperour of Germany.
+
+
+His Sons.
+
+
+
+Henry
+
+
+Conrade
+
+
+
+
+Saxon Nobles
+
+
+
+Magnus
+
+
+Rodolphus
+
+
+Frederick
+
+
+Otho.
+ 
+
+
+
+
+Hildebrand
+ Pope 
+Gregory
+ the Seventh.
+
+
+Victor
+ A Cardinal.
+
+
+Nobles of Italie.
+
+
+
+Prudentio
+
+
+Honorio
+
+
+Junio.
+
+
+
+
+Brazutus,
+ An Emperick.
+
+
+Jocoso
+ his Man.
+
+
+Cardinals.
+
+
+Fryers.
+
+
+Monks.
+
+
+A mixt company.
+
+
+Messengers.
+
+
+Souldiers.
+
+
+Officers.
+
+
+ Women.
+
+
+
+Sophrona,
+ The Empresse.
+
+
+Aurelia,
+ Her Daughter.
+
+
+Sylvia,
+ Her Maid of Honour.
+
+
+Madam 
+Matilda,
+ a great Court Lady:
+
+
+Ladies.
+
+
+
+
+
+
+The Scene,
+ Germany.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Act.
+ 1 
+Scen.
+ 1.
+
+
+Enter 
+Hildebrand
+ and 
+Brazutus.
+
+
+
+
+Hil.
+
+
+MAss! thou hast got a luckie hand 
+Brazutus,
+
+
+The 
+Septicollis
+ now of 
+Rome
+ is levell'd,
+
+
+My way made even to St. 
+Peters
+ chair,
+
+
+The Popedome mine!
+
+
+
+
+
+
+Bra.
+
+
+God bless your Holiness!
+
+
+Never had men quicker dispatch to Heaven,
+
+
+(I Judge Sir) that those seven your predecessors,
+
+
+Thanks to my luckey starres, and pills! (then which
+
+
+There can be nothing more Infallible)
+
+
+(Your Holiness excepted)
+
+
+
+
+
+
+Hil.
+
+
+Here's my hand.
+
+
+
+
+
+
+Bra.
+
+
+Your Toe, good Sir, your Toe's too great a honour.
+
+
+
+
+
+
+Hil.
+
+
+Murder as many as thou canst, 
+Brazutus,
+
+
+(Husband it likewise to thy best advantage,
+
+
+I know mens Deaths must be thy Livelyhood)
+
+
+You freely have my Dispensation for it.
+
+
+
+
+
+
+Bra.
+
+
+All thanks, Sir,
+
+
+My study shall be to deserve it.
+
+
+
+
+
+
+Hil.
+
+
+Harke.
+
+
+a shout within,
+
+
+They come, I must retire.
+
+
+
+
+Enter 
+Cardinal Victor,
+ with a Mitre, other 
+Cardinals, Monks Fryers,
+ with a mixt company.
+
+
+
+
+Car.
+
+
+God save the Pope!
+
+
+
+
+
+
+All.
+
+
+Peter
+ th' Apostle chooseth 
+Hildebrand!
+
+
+Exeunt, manet Brazutus.
+
+
+
+
+Enter to 
+Brazutus, Jocoso.
+
+
+
+
+Jo.
+
+
+Master! the Kettle-drumms past by just now.
+
+
+
+
+
+
+Bra.
+
+
+Peace foole, those were religious men, call'd 
+Fryers.
+
+
+
+
+
+
+Joc.
+
+
+Men! shave they for the scabb? or were half poyson'd?
+
+
+Pox on the bungler! could his feeble dosse,
+
+
+But fetch the hair off?
+
+
+
+
+
+
+Bra.
+
+
+No Jests now, 
+Jocoso.
+
+
+Exit Jocoso.
+
+
+Hasten home, I am with you straight; but first
+
+
+Will fetch my Patent, to prepare for travel:
+
+
+I cannot think it safe, abiding here,
+
+
+
+
+So near the Pope, should once his Magick prompt
+
+
+Him to beleive, some liberal bribes might tempt
+
+
+Me to ridd him hence (by one slight or other)
+
+
+(To make all sure) he'd send me packing first.
+
+
+For all his fair pretenses I confess,
+
+
+I dare not too much trust his Holyness.
+
+
+
+
+
+
+
+
+Act.
+ 1. 
+Scen.
+ 2.
+
+
+Enter 
+Honorio, Prudentio,
+ to them 
+Junio:
+
+
+
+
+Ho.
+
+
+How can the Emperour take this 
+Prudentio:
+
+
+
+
+
+
+Pru.
+
+
+Pride and Ambition ruines all the world.
+
+
+Truth, Sir, I fear 'twill breed bad bloud, if not
+
+
+Timely made up; He's a Prince wise and valiant,
+
+
+And wont be baulk'd thus of his ancient right.
+
+
+
+
+
+
+Ho.
+
+
+Hildebrand
+ reckons all the Roman Empire,
+
+
+May I not say the the whole fourth Monarchie?
+
+
+For 
+Peter's
+ Patrimony, falling now,
+
+
+To him, whereof he will be sole, supream;
+
+
+Making the Scepter level to his Mitre.
+
+
+
+
+
+
+Pru.
+
+
+Must none arrive to heaven without his leave,
+
+
+Nor yet possess the earth in any quiet?
+
+
+Would he be Metropolitane of both?
+
+
+I must confess, to men in Sacred Orders,
+
+
+We owe all love, awful respect and honour;
+
+
+Yet there are two extreams do ill become
+
+
+Their cloth 
+Honorio,
+ Pride and Poverty:
+
+
+I'de neither have them swell, nor starve to death.
+
+
+
+
+
+
+Ho.
+
+
+Here comes mad 
+Junio.
+
+
+
+
+Enter Junio.
+
+
+
+
+Pru.
+
+
+God save you, Sir!
+
+
+
+
+
+
+Jun.
+
+
+Yours 
+Prudentio, Honorio
+ I am yours!
+
+
+
+
+
+
+Ho.
+
+
+Junio,
+ sweet 
+Junio!
+ prethee lad, what news?
+
+
+
+
+
+
+Jun.
+
+
+Faith, that which makes me laugh, Sir, The new Pope
+
+
+(Talking against Massing-Preists Wives already:)
+
+
+Hath wrought the prettiest different effect:
+
+
+Some storme, and some are glad on't: The one swears
+
+
+(Should he nere use bead more) he'l never quit
+
+
+His pretty Bet
+y for an Ave Marie.
+
+
+h' other complains, Nets Lectures spoil his Sermons.
+
+
+
+
+
+
+Pru.
+
+
+Mad 
+Junio
+ still. 
+
+
+
+
+
+
+Jun.
+
+
+Troth, I am serious, Sir.
+
+
+
+
+
+
+
+
+Ho.
+
+
+Prethee speak
+
+
+
+
+
+
+Jun.
+
+
+I am, and can tell you further,
+
+
+Th' Arch-bishops Grace of 
+Mentz,
+ the other day,
+
+
+Pressing this Order, from his Holiness,
+
+
+Narrowly scap'd his life.
+
+
+
+
+
+
+Ho.
+
+
+What project's this?
+
+
+I warrant you 
+Prudentio,
+ Some cunning
+
+
+Citizen Miser (to preserve his purse)
+
+
+(Fearing least his Impropriated Preist
+
+
+Might Marry, and so leave a parish charge)
+
+
+Hath put it in his head.
+
+
+
+
+
+
+Pru.
+
+
+With this perswasion.
+
+
+Most Benefic'd men dying Batchelours,
+
+
+Would make him Heir, and so enrich his See.
+
+
+
+
+
+
+Jun.
+
+
+I had almost forgot to tell you too:
+
+
+Those who contrive the thriftiest way to live,
+
+
+Think Wives, will be as cheap as Concubines.
+
+
+Cardinal 
+Cremensis
+ the other day,
+
+
+(Arguing fiercely 'ganst Priests-Matrimonie)
+
+
+Was catcht that night bedding a common strumpet.
+
+
+
+
+
+
+Pru.
+
+
+I fear this design will but promote
+
+
+Lusts more, and secret Murders to conceal 'um.
+
+
+Restraint oft creates those unruly passions,
+
+
+Which Freedom, slights.
+
+
+
+
+
+
+Jun.
+
+
+But Gentlemen! before
+
+
+We part let's clash one pint of Wine together,
+
+
+I'le give you that shall be most excellent.
+
+
+
+
+
+
+Pru.
+
+
+All thanks kind 
+Junio. Ho.
+ We'll accept your proffer.
+
+
+
+
+
+
+Jun.
+
+
+With all my heart; now I could hugg you dearly.
+
+
+Let times go how they will, the Grape-juyce merits
+
+
+My praises still, for that preserves my spirits.
+
+
+
+
+
+
+Pru.
+
+
+Poetical!
+
+
+
+
+
+
+Jun.
+
+
+Whether or no, you know it:
+
+
+The very thoughts of Sack will make a Poet.
+
+
+
+
+
+
+Ho.
+
+
+Ha. ha. ha.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+Act.
+ 1. 
+Scen.
+ 3.
+
+
+Enter Emperour, Henry, Conrade, Attendants.
+ to them 
+Otho.
+
+
+
+
+Emp.
+
+
+It can't be born! Princes are things too holy
+
+
+For Popes to 
+oole: Hath kind fate blest me with
+
+
+
+
+Such conquest o're the 
+Saxons,
+ and will this
+
+
+Religious Rebel, now spoyl all at home?
+
+
+To make a Pope without me, is all one
+
+
+As to unmake me.
+
+
+
+
+
+
+Henry.
+
+
+Sir, I thought that past
+
+
+Off!
+
+
+The reach of mortals, dare they snarch that Crown off,
+
+
+Which none, but a Divine hand setled on you?
+
+
+
+
+
+
+Con.
+
+
+They had as good seek to unravel Heaven,
+
+
+And fetch the Diety thence.
+
+
+
+
+
+
+Emp.
+
+
+My Sons talk,
+
+
+As if descended, from Imperial Loines;
+
+
+But what wont human Impudence attempt,
+
+
+Spurr'd with ambition?
+
+
+Enter Otho.
+
+
+What meanes this haste?
+
+
+
+
+
+
+Otho.
+
+
+Hildebrand
+'s Nuntio, is arriv'd, Sir, And—
+
+
+
+
+
+
+Emp.
+
+
+And what, Sends for my Scepter doth he not?
+
+
+May I nere more ask pardon of my sins!
+
+
+If this steel doth not make him cry me mercy.
+
+
+
+
+
+
+Otho.
+
+
+And so he doth, Sir, may it please your Highness!
+
+
+
+
+
+
+Emp.
+
+
+He shall know that there was a 
+Caesar
+ long
+
+
+Before St. 
+Peter,
+ or his Successor
+
+
+Were ever thought on. 
+Otho.
+ May it please your Highness!
+
+
+
+
+
+
+Emp.
+
+
+The Election of the Pope from 
+Constantine
+
+
+Descended to Me, 
+Otho,
+ Reckon that.
+
+
+
+
+
+
+Otho.
+
+
+'Tis now Seven Hundred years agon, and upwards.
+
+
+
+
+
+
+Emp.
+
+
+Nor shall this 
+ome-Usurper stand a day,
+
+
+Can I but once reach Italie.
+
+
+
+
+
+
+Otho.
+
+
+Please you —
+
+
+Sir, Hear me, 
+Hildebrand
+ is sorry.
+
+
+
+
+
+
+Emp.
+
+
+How?
+
+
+
+
+
+
+Hen.
+
+
+For that he cannot, Sir, play 
+Prester John.
+
+
+Be Prince and Prelate too.
+
+
+
+
+
+
+Emp,
+
+
+Grant he were so,
+
+
+Could it be thought these twins of government,
+
+
+Might ever wrangle in the self-same breast
+
+
+For the Supremacy; It would be found,
+
+
+(I lay my life on't) that St. 
+Peters
+ Chair
+
+
+Must owe it self upheld by 
+Caesars
+ Throne.
+
+
+
+
+
+
+Otho.
+
+
+Sir,—
+
+
+
+
+
+
+Con.
+
+
+No Bull like the roaring Cannon, No
+
+
+
+
+Anathama like a good Sword and Pistol.
+
+
+
+
+
+
+Otho.
+
+
+I see I am still disturb'd.
+
+
+
+
+
+
+Emp.
+
+
+Go on, 
+Otho.
+
+
+
+
+
+
+Otho.
+
+
+For ought we hear, Sir, 
+Hildibrand
+ is sorry,
+
+
+The lawless rout of common people should
+
+
+Cry him up Pope: which Title he protests
+
+
+He ne're will own, Sir, without your Election.
+
+
+
+
+
+
+Hen.
+
+
+I hate this flattering.
+
+
+
+
+
+
+Con.
+
+
+It takes too much.
+
+
+
+
+aside.
+
+
+
+
+Otho.
+
+
+Till when he hath refus'd Inauguration.
+
+
+
+
+
+
+Emp.
+
+
+Now thou saist somewhat.
+
+
+
+
+
+
+Otho.
+
+
+For this very purpose,
+
+
+Comes th'Embassie.
+
+
+
+
+
+
+Emp.
+
+
+This is some satisfaction.
+
+
+Receive 'um, we will give 'um some Audience.
+
+
+
+
+Exit Otho.
+
+
+
+
+Hen.
+
+
+Were it not fit 
+Hildebrand
+ should have made
+
+
+Most Royal, Sir, a Personal submission?
+
+
+
+
+
+
+Con.
+
+
+Proxy humilitie seems but presumption.
+
+
+
+
+
+
+Emp.
+
+
+I see Youth's rash and inconsiderate,
+
+
+It was the giddie factious multitude,
+
+
+Not he (my Boyes) intruded on my right.
+
+
+
+
+
+
+Hen.
+
+
+Con.
+ Sir, we submit.
+
+
+
+
+
+
+Emp.
+
+
+Haste then without delay,
+
+
+To grace the Entertainment.
+
+
+
+
+
+
+Both.
+
+
+We obey.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+Act
+ 1. 
+Scen.
+ 4.
+
+
+Enter 
+Rodolphus, Magnus, Frederick
+ in Prison.
+
+
+
+
+Fred.
+
+
+And is the Emperours promise come to this?
+
+
+Is this his Liberty?
+
+
+
+
+
+
+Mag.
+
+
+A Princes word
+
+
+I took to be, as true as Heaven it self.
+
+
+
+
+
+
+Ro.
+
+
+For this I'le n'ere believe a Conquest more,
+
+
+But what shall meet me over eares in bloud.
+
+
+
+
+
+
+Mag.
+
+
+'Twas not we feared death as to be thought
+
+
+Foolishly lavish of our lives: to fight
+
+
+For that liberty, we might have with peace.
+
+
+
+
+
+
+Ro.
+
+
+Would we had dyed before we yeilded.
+
+
+
+
+
+
+Fred.
+
+
+Hark! They sing and dring within.
+
+
+
+
+
+
+
+
+A Song.
+
+
+Here's to that Noble Soul;
+
+
+Drowns his sins in a Bowl;
+
+
+And cares not a fig for the Pope.
+
+
+Here's to him a full Glasss,
+
+
+That counts him an Asse,
+
+
+Who will stinch at the sight of the Rope.
+
+
+
+
+
+
+All within.
+
+
+Ho Boyes!
+
+
+
+
+
+
+First.
+
+
+A merry life and a short.
+
+
+
+
+
+
+2.
+
+
+About with it.
+
+
+
+
+
+
+3.
+
+
+Where lyes the fault?
+
+
+
+
+
+
+1.
+
+
+Roger
+ 'tis your liquor.
+
+
+
+
+
+
+Ro.
+
+
+O plague, I drank the very last but one,
+
+
+Ralph
+ wants it.
+
+
+
+
+They sing agen.
+
+
+
+
+Fred.
+
+
+O Brave Roarers! They know no other prayers.
+
+
+These are their Mattins, and their Evening Songs.
+
+
+
+
+
+
+Ro.
+
+
+Is there such mirth in death?
+
+
+
+
+
+
+Mag.
+
+
+Or are they rather
+
+
+Glad that the friendly Halter shortly will
+
+
+Free them from Goal, which I count worse then death.
+
+
+VVhat man that hath that Noble thing call'd Soul
+
+
+But hates confinement? This whole world would be
+
+
+To narrow for him, were he alwaies tied to'r.
+
+
+
+
+
+
+Fred.
+
+
+But these poor souls are hardned in their Irons.
+
+
+
+
+
+
+Ro.
+
+
+I was in hopes that breach like to have bin
+
+
+Betwixt the Emperour and the Pope of late,
+
+
+Would have made our way out
+
+
+
+
+
+
+Fred.
+
+
+But that's all dash't.
+
+
+
+
+
+
+Ro.
+
+
+Could not our old friend (
+Otho
+ having got
+
+
+Into such favour) do us here a kindness?
+
+
+
+
+
+
+Mag.
+
+
+We are but here kept like 
+West-Indian
+ captives,
+
+
+To be devoured at some solemn meeting,
+
+
+With Mirth and Jollitie; endure't who list
+
+
+Let our wits work our freedom
+
+
+
+
+
+
+Ro. Fred.
+
+
+We'l all assist.
+
+
+
+
+
+
+
+
+Act.
+ 1. 
+Scen.
+ 5.
+
+
+Exeunt.
+
+
+Enter 
+Aurelia, Silvia,
+ to them 
+Sophrona, Matilda, Attendants.
+
+
+
+
+Au.
+
+
+May not one guesse affection by a glance?
+
+
+
+
+
+
+Syl.
+
+
+Madam!
+
+
+
+
+
+
+Au.
+
+
+'Twas but one look, and that look did it.
+
+
+Those lights like 
+Archimedes
+ burning-glasse
+
+
+
+
+Set me on Fire at that distance from him.
+
+
+
+
+
+
+Syl.
+
+
+Your meaning, Madam.
+
+
+
+
+
+
+Aur.
+
+
+Sylvia,
+ thou art dull,
+
+
+I see, for hadst thou any sence at all,
+
+
+How couldst thou choose but feel the self-same heat?
+
+
+
+
+
+
+Syl.
+
+
+Explain your self, pray Madam.
+
+
+
+
+
+
+Aur.
+
+
+Then I will.
+
+
+I'me conquer'd by my Fathers Captive.
+
+
+
+
+
+
+Syl.
+
+
+Which?
+
+
+
+
+
+
+Aur.
+
+
+Now I could chide thee for a silly Gitle:
+
+
+Dost ask me which?
+
+
+
+
+
+
+Syl.
+
+
+Otho
+'s fair, 
+Frederick
+ smiling.
+
+
+
+
+
+
+Aur.
+
+
+I see my errour. Love is such a madness;
+
+
+What we love, we'd have all love; and yet can't
+
+
+Endure a Rival: Didst not mind him 
+Sylvia
+
+
+With the Majestick countenance? My love
+
+
+Is not Effeminate, although a Womans.
+
+
+
+
+
+
+Syl.
+
+
+Bold Magnus!
+
+
+
+
+
+
+ Aur.
+
+
+Magnus!
+
+
+
+
+
+
+Syl.
+
+
+In your cheeks I read it,
+
+
+That blush betraies you; He is—
+
+
+
+
+
+
+Aur.
+
+
+Hush the Empress.
+
+
+
+
+Enter 
+Empress, Matilda,
+ Attendants.
+
+
+
+
+Soph.
+
+
+Aurelia!
+ Why were you wanting at
+
+
+The sport but now?
+
+
+
+
+
+
+Aur.
+
+
+Madam I was just comming.
+
+
+
+
+
+
+Mat.
+
+
+'Twas excellent, I love to see men active.
+
+
+
+
+
+
+Soph.
+
+
+They're gon to visit now the 
+Saxon
+ Captives,
+
+
+Nothing that's tending to your Fathers glory,
+
+
+Must be concealed from these noble strangers.
+
+
+
+
+
+
+Aur.
+
+
+Must 
+Magnus
+ make them sport?
+
+
+
+
+
+
+Syl.
+
+
+Pray Madam!
+
+
+
+
+weeps aside.
+
+
+
+
+Soph.
+
+
+What saith 
+Aurelia?
+ What's that 
+Sylvia?
+
+
+
+
+
+
+Syl.
+
+
+She's sorry, Madam, she should loose the sport.
+
+
+
+
+
+
+Soph.
+
+
+I thought 'twould trouble her, there's more behind,
+
+
+
+
+
+
+Mat.
+
+
+But Madam, shall we never visit 
+Rome?
+
+
+
+
+
+
+Sop.
+
+
+We may perchance, 
+Matilda,
+ danger it
+
+
+Now there is made this happy reconcilement.
+
+
+
+
+
+
+Mat.
+
+
+I long to see his Holyness, methinks
+
+
+I fancy most those by Religion ty'd
+
+
+From lust and wedlock; am (you must concieve)
+
+
+A chast Platonick Lover.
+
+
+
+
+
+
+Aur.
+
+
+What is that?
+
+
+To Love, to love, and not to enjoy?
+
+
+
+
+
+
+Mat.
+
+
+Fruition
+
+
+Doth but allay those hightned flames, which are
+
+
+The very life of love.
+
+
+
+
+
+
+
+
+Aur.
+
+
+I am but raw,
+
+
+(Yet give me leave) you seem, as if 
+Matilda
+
+
+You own'd no Paradise to scorching 
+Aetna.
+
+
+Platonick loves, (like Purgatorian sires)
+
+
+Doe but prepare us for a perfect blisse,
+
+
+And make us worthy of a free possession.
+
+
+
+
+
+
+Soph.
+
+
+Aurelia,
+ have a care my Girle, I fear
+
+
+By your Romantick tongue, you may be smitten.
+
+
+
+
+
+
+Aur.
+
+
+If my discourse offend (my Royal Mother)
+
+
+May I be ever silent rather then
+
+
+Provoke your hand.
+
+
+
+
+
+
+Mat.
+
+
+You do mistake the Empress.
+
+
+
+
+
+
+Soph.
+
+
+No matter, keep her still in Ignorance.
+
+
+
+
+
+
+Mat.
+
+
+Ours is but talk, Madam, you'l pardon it.
+
+
+
+
+
+
+Soph.
+
+
+It is Ingenious, I gladly could
+
+
+Hear more on't: but I dare believe by this
+
+
+They are return'd. 'Tis high time to be gon,
+
+
+We must be all there: This night puts anen'd
+
+
+To the Solemnity.
+
+
+
+
+
+
+All.
+
+
+We shall attend.
+
+
+
+
+Finis Act. Primi.
+
+
+
+
+
+
+
+
+
+
+Act. II. Scen. I.
+
+
+Enter 
+Pope, Card. Victor,
+ other 
+Cardinals,
+ Attendants. The 
+Pope
+ ascends his Chair.
+
+
+
+
+Ʋict.
+
+
+God save Pope 
+Gregory
+ the Seventh! 
+All.
+ Long live!
+
+
+
+
+
+
+1. 
+Card.
+
+
+Caesar
+ confirmes it!
+
+
+
+
+
+
+Pope.
+
+
+Who's that mentions 
+Caesar?
+
+
+For Policie I did complie a while,
+
+
+It was but to procure the surer ground,
+
+
+To give the Emperour the stronger blow.
+
+
+Must 
+Peter
+ stoop to 
+Caesar?
+
+
+
+
+
+
+2 
+Card.
+
+
+That rests fully,
+
+
+Sir,
+ in your Holiness to remedy.
+
+
+
+
+
+
+Po.
+
+
+My Keys already look and unlock Heaven,
+
+
+And if they wont fit, I will add a ward
+
+
+Wherewith they shall serve Earthly Kingdoms,
+
+
+To make and unmake Princes at my pleasure.
+
+
+
+
+
+
+Vict.
+
+
+Nobly Resolv'd, 
+Sir,
+ This will grace your See,
+
+
+With the more awe and splendour.
+
+
+
+
+
+
+2. 
+Car.
+
+
+And restore
+
+
+Rome to itsformer fame, that it shall be
+
+
+Once more the worlds renown'd Metropolis.
+
+
+
+
+
+
+
+
+1. 
+Card.
+
+
+Henry
+'s accus'd—
+
+
+
+
+
+
+Pope.
+
+
+I may as well ask him
+
+
+Forgivness of my sins, as to be Pope.
+
+
+
+
+
+
+1. 
+Card.
+
+
+He needeth pardon, Sir, or punishment,
+
+
+Who is so loudly tax'd for a truce-breaker.
+
+
+
+
+
+
+2. 
+Card.
+
+
+The 
+Saxons
+ gladly would help to depose him.
+
+
+
+
+
+
+1. 
+Card.
+
+
+A Tyrant.
+
+
+
+
+
+
+Vict.
+
+
+Cruel, Symoniacal,
+
+
+A buisie Bodger of Church-livings, Sir.
+
+
+
+
+
+
+Pope.
+
+
+I hear enough: makes him uncapable,
+
+
+starts up.
+
+
+Both of Heavens mercy, and of mans protection.
+
+
+Let him be Excommunicated! lesse
+
+
+Cannot be done to him, doth so transgresse.
+
+
+
+
+
+
+
+
+Act.
+ 2. 
+Scen.
+ 2.
+
+
+Enter 
+Brazutus
+ to him 
+Jocoso.
+
+
+
+
+Bra.
+
+
+All things succeed as well as heart could wish.
+
+
+
+
+Enter 
+Jocoso
+ telling Money,
+
+
+
+
+Joc.
+
+
+So, this is somewhat towards my Journey now.
+
+
+
+
+
+
+Bra.
+
+
+What hast thou there 
+Jocoso?
+
+
+
+
+
+
+Joc.
+
+
+Nothing Sir,
+
+
+But a peice for killing an good old woman,
+
+
+That did so lave the house still with her nose
+
+
+As she swept it.
+
+
+
+
+
+
+Bra.
+
+
+Didst it accurately.
+
+
+
+
+
+
+Joc.
+
+
+To a hair, Sir, no Juggler ever playd
+
+
+Legerdemaine neater, then I shook that same
+
+
+Into her Hallow tooth.
+
+
+
+
+
+
+Bra.
+
+
+And is she dead?
+
+
+
+
+
+
+Joc.
+
+
+Dead, and at heaven I hope. Her son was mad
+
+
+For haste to bury her the 
+Rushian
+ fashion,
+
+
+With Hose and Shoes, she was so troublesome
+
+
+To the chymney-corner (he said) and liv'd
+
+
+So unmercifully, to keep that little
+
+
+She had from him.
+
+
+
+
+
+
+Bra.
+
+
+'Twas he then gave the peice.
+
+
+
+
+
+
+Joc.
+
+
+It was, and to say truth, I well deserv'd it.
+
+
+It did so plague me Sir, to hatch a cry,
+
+
+And pray an hours nonsence by the clock.
+
+
+I must not touch her, if I touch'd abook.
+
+
+
+
+
+
+Bra.
+
+
+I warrant 'twas one of those good women
+
+
+That us'd to fetch an ill contrived sigh
+
+
+At Church, in the wrong place; (not hearing well)
+
+
+
+
+
+
+Joc.
+
+
+She was, all said, hugely well given Sir,
+
+
+
+
+
+
+
+
+Bra.
+
+
+And so art thou, nay if thou canst 
+Jocoso
+
+
+Fanatick-like, murder with prayers and teares,
+
+
+N'ere fear a livelyhood 
+Joc.
+ and when thy 
+orks done,
+
+
+My Fee will make me a Thanks-giving day.
+
+
+
+
+
+
+Bra.
+
+
+All such odd jobs I give thee.
+
+
+
+
+
+
+Joc.
+
+
+I thank you Sir.
+
+
+
+
+
+
+Bra.
+
+
+Come hasten, fetch our things, we must be gon.
+
+
+
+
+
+
+Bra.
+
+
+Now the Popes Licence without peradventure
+
+
+Will be excepted from the Emperour
+
+
+Exit Joc.
+
+
+To gain me leave, (since they are both agreed)
+
+
+To practice near his Court: My man may play
+
+
+At lower stakes, and kill men for a trisle:
+
+
+But where I venture Soul, Life and Estate,
+
+
+It shall, believe me, cost a saucie rate.
+
+
+
+
+Exit.
+
+
+
+
+
+
+Act
+ 2. 
+Scen.
+ 3.
+
+
+Enter 
+Prudentio, Honorio, Junio.
+
+
+
+
+Jun.
+
+
+What! we are likely to be all to peices
+
+
+Agen, 
+Honorio,
+ with the 
+Emperour.
+
+
+
+
+
+
+Ho.
+
+
+So the newes goes, and the Popes Arrogance
+
+
+Hath rais'd a civil warre amongst the Clergy.
+
+
+
+
+
+
+Jun.
+
+
+I am resolv'd I'le be of no religion
+
+
+Till all agree.
+
+
+
+
+
+
+Pru.
+
+
+I must confess these failings
+
+
+Shew they'r but men, but what they'd have us learn,
+
+
+Is of an higher and diviner nature,
+
+
+In that themselves so hardly practice it.
+
+
+
+
+
+
+Ho.
+
+
+I cannot blame the German Bishops
+
+
+To stand for their custome and prerogative.
+
+
+Is there no Patriarchal seat but Rome?
+
+
+
+
+
+
+Jun.
+
+
+I'me apt to think they shortly will determine
+
+
+No Baptiz'd Infant, shall be call'd a Christian
+
+
+Except his Name be 
+Peter.
+
+
+
+
+
+
+Ho.
+
+
+Can there be
+
+
+Nothing decreed without the Pope 
+Prudentio?
+
+
+Ought he, and only he, command a Council,
+
+
+How, where, and when, he please?
+
+
+
+
+
+
+Pru.
+
+
+This is in Truth,
+
+
+Novel Encroachment, and he's like to smart for't,
+
+
+Should the Prelates now joyn with th' Emperour.
+
+
+
+
+
+
+Jun.
+
+
+Would they were at it once.
+
+
+
+
+
+
+Ho.
+
+
+Will you engage?
+
+
+
+
+
+
+
+
+Jun.
+
+
+There's nothing better, Boy, then Wars or Women,
+
+
+To tame this Fact, and I abhor a Mistress.
+
+
+
+
+
+
+Ho.
+
+
+The better Warriour.
+
+
+
+
+
+
+Jun.
+
+
+Those desperate Dam-hims
+
+
+Who for a while may force the fare of Valour.
+
+
+To stand a prick or two in vindicating
+
+
+Their Ladyes naughty title to her Honour,
+
+
+(To gain some Commendation, or a kindness)
+
+
+Can never serve their Country worth a rush.
+
+
+
+
+
+
+Pru.
+
+
+Why now I like you: Gentlemen, your Hands,
+
+
+You'l side with me.
+
+
+
+
+
+
+Both.
+
+
+May we else never speed:
+
+
+
+
+Exeunt.
+
+
+
+
+Pru.
+
+
+Resolve then for the Emperour.
+
+
+
+
+
+
+Both.
+
+
+Agreed.
+
+
+
+
+
+
+
+
+Act. 2. Scen. 4.
+
+
+Enter 
+Magnus
+ to him 
+Otho, Frederick.
+
+
+
+
+Mag.
+
+
+Can her soft nature sport with th' afflicted?
+
+
+I'le never think it, this were to blaspheme
+
+
+Thy love 
+Aurelia!
+ She comes.—
+
+
+
+
+Enter 
+Aurelia, Sylvia
+
+
+
+
+Aur.
+
+
+I'le try him, 
+Sylvia.
+
+
+
+
+
+
+Syl.
+
+
+'Tis prudence!
+
+
+
+
+aside.
+
+
+
+
+Magnus!
+
+
+I bring enlargemen and delight to be
+
+
+The early messenger of welcome newes.
+
+
+
+
+
+
+Mag.
+
+
+All thanks kind Princess: Madam you are noble:
+
+
+Your Presence is a freedome.
+
+
+
+
+
+
+Aur.
+
+
+Yours a Prison.
+
+
+
+
+
+
+Mag.
+
+
+I see I was but mockt; What Scenes are these?
+
+
+Such Calmes and Tempests in the self-same breath
+
+
+Am I offensive?
+
+
+
+
+
+
+Syl.
+
+
+You have mov'd him Madam.
+
+
+
+
+aside.
+
+
+
+
+Aur.
+
+
+Yes, and Love-Sympathy now makes me suffer
+
+
+A double torture, 
+Magnus!
+ Imust—
+
+
+
+
+Drawes & gives her his Sword. aside to
+ Silvia, 
+gives him his Sword.
+
+
+
+
+Mag.
+
+
+Here is a Weapon, if you must dispatch me.
+
+
+
+
+
+
+Aur.
+
+
+He still misaprenends me 
+Sylvia,
+
+
+And how undauntedly he talks of death!
+
+
+Dear 
+Magnus!
+ sheath, the Prison that I talkt of
+
+
+Was nothing else but loves ensnarement.
+
+
+
+
+
+
+Mag.
+
+
+Now,
+
+
+You surfet me with joy, tell't by peice-meales.
+
+
+
+
+
+
+Aur.
+
+
+My Fathers purpose is to set you free.
+
+
+
+
+
+
+Magnus
+
+
+I owe it you.
+
+
+
+
+
+
+Syl.
+
+
+Heaven bless these meeting flames.
+
+
+
+
+
+
+Aur.
+
+
+Some German Princes lately proving Rebels,
+
+
+Joyn with the 
+Saxons
+ now agen in Armes.
+
+
+
+
+
+
+
+
+Syl.
+
+
+You Noble 
+Magnus
+ must be one of us.
+
+
+
+
+
+
+Aur.
+
+
+Swear Loyaltie t'assist the Emperour.
+
+
+Thy Valour's know.
+
+
+
+
+
+
+Mag.
+
+
+If I must take this oath,
+
+
+I'le go and bid the 
+Saxons,
+ fight and help 'um;
+
+
+And then return and willingly submit
+
+
+To that just death my perjury deserves.
+
+
+I'le prove as false to you, as to my Country.
+
+
+
+
+Exit.
+
+
+
+
+Syl.
+
+
+Sir you'r unhandsome to your Princess.
+
+
+
+
+
+
+Aur.
+
+
+Peace.
+
+
+
+
+
+
+Sylvia,
+
+
+what was't he said? He'd prove as fals
+
+
+To me as to his Country, was't not so?
+
+
+This is no slighting but doth argue rather
+
+
+That strong and holy zeal he hath for both.
+
+
+I like him better for this Resolution,
+
+
+His Constancy to me and that together
+
+
+Must sind a way He may be fals to neither.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+Act. 2. Scen. 5.
+
+
+Enter 
+Emperour, Sophrona, Matilda, Henry, Conrade, Otho.
+ Attendants.
+
+
+
+
+Emp.
+
+
+Were't not for these Apostatizing 
+Germans
+
+
+The Pope should feel by sad Experience,
+
+
+No curse so heavy, as a Princes anger.
+
+
+
+
+
+
+Otho.
+
+
+These Rebels must be look'd to timely Sir,
+
+
+
+
+
+
+Emp.
+
+
+I first must make my peace with Rome; or else
+
+
+His Holyness will have in every Corner,
+
+
+Blind zealots, that will strive by murdering me
+
+
+To merit Heaven:
+
+
+
+
+
+
+Soph.
+
+
+Can man be thought so stupid?
+
+
+
+
+
+
+Mat.
+
+
+O Madam! Ignorance leads to all mischeif.
+
+
+This makes some bid good marrow to a Snaile,
+
+
+Or Serpent, and Adore 'um for that day;
+
+
+The Vulgar learn Rebellion still without book,
+
+
+Which the Pope shuts and bids 'um read their Lessons
+
+
+In his commands, which needs must be (he saith)
+
+
+Alwaies Infallible.
+
+
+
+
+
+
+Emp.
+
+
+I see 
+Matilda,
+
+
+Thou art Ingenious, and talkst handsomly.
+
+
+(
+ogether with the Empress) I have thought on
+
+
+Employment for you.
+
+
+
+
+
+
+Sop.
+
+
+May we serve you Sir.
+
+
+
+
+
+
+Mat.
+
+
+Thus 
+ I beg this Houour.
+
+
+
+
+
+
+
+
+Emp.
+
+
+Rise, 'tis granted.
+
+
+Hast courage thinkst, to face his Holyness?
+
+
+
+
+
+
+Sop.
+
+
+Thou'rt like now to enjoy thy wish 
+Matilda.
+
+
+
+
+
+
+Emp.
+
+
+You see, my Boyes, Princes are somtimes made
+
+
+The Tennis-balls of Fortune, to be bandy'd
+
+
+At her unconstant pleasure; now full fraught
+
+
+With good success, soon after wrackt with crosses.
+
+
+
+
+
+
+Hen.
+
+
+Sir! we are rash and inconsiderate.
+
+
+
+
+
+
+Con.
+
+
+He first usurp'd the Mitre, then ask'd leave.
+
+
+
+
+
+
+Emp.
+
+
+My Children blame me 
+Otho,
+ that I did not
+
+
+Tread upon 
+Hildebrands
+ submissive neck.
+
+
+
+
+
+
+Otho.
+
+
+You were more Noble, Sir, and Mercyful,
+
+
+Who could have thought on such Hypocrisy?
+
+
+
+
+
+
+Emp.
+
+
+We must not now spend all our time in talk,
+
+
+Aurelia
+ is to tender for this Journey.
+
+
+Henry,
+ and 
+Conrade,
+ you'r iuclin'd to travel.
+
+
+
+
+
+
+Hen.
+
+
+We must Sir, if it be your Royal pleasure.
+
+
+
+
+
+
+Emp.
+
+
+Sophrona,
+ you, and you, 
+Matilda
+ shall
+
+
+Receive your charge anon.
+
+
+
+
+
+
+Both.
+
+
+With diligence.
+
+
+
+
+
+
+Emp.
+
+
+Otho,
+ to you we shall commend the care
+
+
+Of our affairs at Home.
+
+
+
+
+
+
+Otho.
+
+
+I shall be faithful.
+
+
+
+
+
+
+Emp.
+
+
+The Sun sometimes is darkned with Ecclipses;
+
+
+And the most fixed Stats do seem to twinkle;
+
+
+So must my splendour for a while be clouded:
+
+
+And I! The 
+Pilgrim-Prince,
+ now plainly shew,
+
+
+Monarchs, like Tides, do Ebb, as well as Flow.
+
+
+
+
+Finis Act. Secundi.
+
+
+
+
+
+
+
+
+
+
+Act. 3. Scen. 1,
+
+
+Enter 
+Aurelia, Sylvia,
+ to them 
+Otho, Magnus, Frederick, Rodolphus.
+
+
+
+
+Aur.
+
+
+The powers above must needs approve our love.
+
+
+Their secret wisdome doth so prosper it.
+
+
+How Melancholy would the Court be now?
+
+
+Were it nor for, you know my meaning 
+Sylvia.
+
+
+
+
+
+
+Syl.
+
+
+Madam, for some divertisement, let's go
+
+
+To see the Mask acted to day.
+
+
+
+
+
+
+Aur.
+
+
+Agreed.
+
+
+And let us go disguis'd without Attendants.
+
+
+
+
+Enter 
+Otho, Magnus, Erederick, Rodolphus.
+
+
+
+
+Otho.
+
+
+Aurelia
+ you are Queen we'l only act
+
+
+
+
+At your command, now in your Fathers absence.
+
+
+
+
+
+
+Aur.
+
+
+You'r Gen'rous. Then my first endeavour's for
+
+
+Some worthy Honour on your Countrey men.
+
+
+(For your sake 
+Otho
+) what shall 
+Magnus be?
+
+
+
+
+
+
+Mag.
+
+
+Thanks to our Noble Viceroy, I enjoy,
+
+
+A Happiness ample enough in my
+
+
+Freedome from Prison, and that Oath I hated.
+
+
+But cheisly, Madam, in your government.
+
+
+
+
+
+
+Otho.
+
+
+This is handsome, I fear I come to late.
+
+
+
+
+aside
+
+
+
+
+Rod.
+
+
+What shall be 
+Magnus?
+ Nothing for 
+Rodolphus.
+
+
+
+
+
+
+Fred.
+
+
+Nor 
+Frederick.
+
+
+
+
+aside
+
+
+
+
+Rod.
+
+
+We'l make our selves, when once
+
+
+We come i'th' field, good 
+Otho,
+ give us quickly
+
+
+Some Martial Office or our Swords will rust.
+
+
+
+
+
+
+Otho.
+
+
+We'l meet to night (if it may please the Princess!)
+
+
+In Council, where we all may know our charge.
+
+
+
+
+
+
+Aur.
+
+
+You may Command it Sir.
+
+
+
+
+
+
+All.
+
+
+We shall attend.
+
+
+
+
+
+
+Syl.
+
+
+Madam you are forgetful.
+
+
+
+
+ex. Fred. Mag. Rod.
+
+
+
+
+Aur.
+
+
+Now we'l go.
+
+
+Most Noble Viceroy I must crave your leave
+
+
+This afternoon to take some private repast.
+
+
+
+
+
+
+Otho.
+
+
+Madam, you degrade your self to ask it.
+
+
+
+
+
+
+Au.
+
+
+I in my Fathers absence owe you dutie.
+
+
+
+
+
+
+Otho.
+
+
+Might I entreat your Love it were an Honour.
+
+
+
+
+
+
+Aur.
+
+
+You cannot choose but have it in obedience.
+
+
+
+
+
+
+Otho.
+
+
+Adeiu sweet Princess.
+
+
+
+
+
+
+Both.
+
+
+Yours
+
+
+
+
+
+
+Otho.
+
+
+Farewell 
+Sylvia.
+
+
+Excunt Aur.
+
+
+I am resolv'd 
+Harrie
+ shall ne're come here,
+
+
+Nor his two Sons; yet we usurpers love
+
+
+To guild our Titles with some shew of 
+ight.
+
+
+There is but one lett and I'le straight remove it.
+
+
+Aurelia
+ could I once make thee my own,
+
+
+I were for ever stablish'd in my Throne.
+
+
+
+
+
+
+
+
+Act, 3. Scen. 2.
+
+
+Enter 
+Brazutus
+ and 
+Jocoso,
+ there appears an 
+Apothecharies shop.
+
+
+
+
+Bra.
+
+
+Dull times 
+Jocoso.
+
+
+
+
+
+
+Joc.
+
+
+They can never hold.
+
+
+
+
+
+
+Bra.
+
+
+Why Prethee.
+
+
+
+
+
+
+
+
+Joc.
+
+
+I Faith if they do Master,
+
+
+I must like the 
+Peruvian
+ Cannibals,
+
+
+Feast it with mans flesh, and it must be mine own.
+
+
+Cur Collops here, Sir, and be merry with 'um
+
+
+They'l ast as long as I, and ther's an end.
+
+
+
+
+
+
+Bra.
+
+
+Thou talkst too frolick, to be starv'd 
+Jocoso.
+
+
+I am already got into their fashion,
+
+
+Who make their meals either with Mear, or Drink,
+
+
+Not both together, our trade won't maintain it.
+
+
+
+
+
+
+Bra.
+
+
+My takings are but small, the warrs spoil all.
+
+
+
+
+
+
+Joc.
+
+
+Pox on it, Men are grown both hard, and holy;
+
+
+I would now murder, half as cheap agen
+
+
+As I did formerly, to gain some custome.
+
+
+
+
+
+
+Bra.
+
+
+My takings too lye all in Preservations,
+
+
+Were it not for the 
+French
+—
+
+
+
+
+
+
+Joc.
+
+
+I have observ'd
+
+
+That is the prettiest strang distemper Master,
+
+
+It like a cunning Gamester hath its salf pass,
+
+
+Makes at the lower parts, and hits the Nose.
+
+
+
+
+
+
+Bra.
+
+
+And then there's fine work that will pay us well.
+
+
+T' erect a new bridg, or uphold the old one.
+
+
+Here comes a Customer.
+
+
+
+
+Enter 
+Otho.
+
+
+
+
+Joc.
+
+
+What want you Sir?
+
+
+
+
+
+
+Otho.
+
+
+Dwells here 
+Brazutus?
+
+
+
+
+
+
+Joc.
+
+
+There's my Master Sir.
+
+
+
+
+
+
+Otho.
+
+
+A word or two in private.
+
+
+
+
+They whisper.
+
+
+
+
+Bra.
+
+
+I shall Sir.
+
+
+
+
+
+
+Joc.
+
+
+O pox! I warrant he's pepper'd by's stradling.
+
+
+
+
+Enter 
+Aurelia, Sylvia,
+ Disguised.
+
+
+
+
+Aur.
+
+
+Are we not somewhat of the latest 
+Sylvia?
+
+
+
+
+
+
+Syl.
+
+
+Madam, they say it don't begin till four.
+
+
+
+
+
+
+Aur.
+
+
+Let us make haste.
+
+
+
+
+
+
+Joc.
+
+
+What want you Ladies, pray?
+
+
+They pass by
+
+
+Here dweleth that Renowned 
+Don Brazutus,
+
+
+That most famous 
+Italian
+ Physitian.
+
+
+
+
+
+
+Aur.
+
+
+Heaven bless me, is not 
+Otho
+ yonder whispering?
+
+
+
+
+
+
+Syl.
+
+
+The very same, what makes he here so private?
+
+
+
+
+
+
+Aur.
+
+
+I strang! pass on, he cannot know us 
+Sylvia.
+
+
+
+
+Ex. Aur. & Sylvia.
+
+
+
+
+Joc.
+
+
+Those two past by, were pretty Girles I sware
+
+
+
+
+If those Faces I saw were all their own.
+
+
+But if they were, they are not for our purpose:
+
+
+We cannot live, but by good Gentlewomen,
+
+
+That undress Nature, as they dress to bed.
+
+
+At night throw off their Perewigs, and their Noses.
+
+
+Pull out their Teeth, and lay aside their Eies.
+
+
+
+
+
+
+Bra.
+
+
+I warrant Sir.
+
+
+
+
+Jocoso orders his things in his shop.
+
+
+
+
+Otho.
+
+
+There is on other way
+
+
+But this to gain 
+Aurelia,
+ and prepare
+
+
+A free and valid passage to my suit.
+
+
+Her carriage I confess seems plausible,
+
+
+aside
+
+
+Yet it is nothing but Dissimulation.
+
+
+Did not I see which way her amorous eye went,
+
+
+And how 'twas only fix'd on him? 
+Brazutus,
+
+
+Be quick and private.
+
+
+
+
+
+
+Bra.
+
+
+As your own breast Sir.
+
+
+I am beholding to my good old Master.
+
+
+Ex. Otho.
+
+
+The Pope hath taught me here a blessed Lesson.
+
+
+Now Mental Reservation, saves my neck,
+
+
+And no way hurts my Purse, I'le out with all:
+
+
+Should she love 
+Magnus,
+ as I am perswaded,
+
+
+Aurelia
+'s pay will excel that of 
+Otho
+'s.
+
+
+Jocoso,
+ Let's go in I'le give thee, Boy,
+
+
+One point of Wine, to chear thee, these sad times.
+
+
+
+
+
+
+Joc.
+
+
+My Master hath a peice, I warrant you
+
+
+Ex. Brazutus.
+
+
+He is so free, this look'd like a good chapman,
+
+
+A curse upon this Primogeniture!
+
+
+But a few minutes create all this trouble;
+
+
+My Elder Brother carries all the Land,
+
+
+And I may feed on Gallipots, and glasses.
+
+
+Before I'le starve thus like a silly Elfe,
+
+
+I am a Knave, if I don't Hang my self
+
+
+
+
+Exit.
+
+
+
+
+
+
+Act.
+ 3. 
+Scen.
+ 3.
+
+
+Enter 
+Honorio, Prudentio, Junio.
+
+
+
+
+Jun.
+
+
+The Emperour's arriv'd.
+
+
+
+
+
+
+Ho.
+
+
+Fully Incens'd I guess
+
+
+Against the Pope.
+
+
+
+
+
+
+Jun.
+
+
+We'l tame this mad usurper.
+
+
+
+
+
+
+Pru.
+
+
+I wish, 
+Honorio,
+ this Religious Rebel,
+
+
+Were well chastis'd.
+
+
+
+
+
+
+Jun.
+
+
+If his Revenge be dull,
+
+
+We'l whet his sword, Sir, with our active spirits.
+
+
+
+
+
+
+
+
+Pru.
+
+
+First, we must understand the Princes mind,
+
+
+Before we be to forward, 
+Junio.
+
+
+Only we'l give him leave to pick our meaning,
+
+
+And our designes, out of our costly banquets,
+
+
+And bounteous Entertainments.
+
+
+
+
+
+
+Ho.
+
+
+He shall read
+
+
+These civil discords in the neat-wrought Sweet meats.
+
+
+
+
+
+
+Jun.
+
+
+I am not for these womans toyes, but if
+
+
+The Wine be good, I'le carouse wholeones to Him,
+
+
+And Fancy the Pope merrily tumbling down.
+
+
+
+
+
+
+Ho.
+
+
+Ha, ha, ha.
+
+
+
+
+
+
+Pru.
+
+
+This is a sharp and bitter season for 'um.
+
+
+
+
+
+
+Ho.
+
+
+I hear the Empress comes, and her two Sons
+
+
+With a most Noble Train of handsome Ladies.
+
+
+
+
+
+
+Jun.
+
+
+They do not come, I hope, to fight with these.
+
+
+If any thing doth make me run away,
+
+
+'Twill be a womans shreicks.
+
+
+
+
+
+
+Ho.
+
+
+Ill, and harsh sounds
+
+
+But you can't hear 'um, for the Drums and Trumpets.
+
+
+
+
+
+
+Pru.
+
+
+They will secure these in the 
+Littadel.
+
+
+
+
+
+
+Ho.
+
+
+Poor souls! It can't but be hard servise to 'um.
+
+
+They never saw such weather in their Chambers,
+
+
+Which they do alwaies keep this winter quarters.
+
+
+They know no Snow, but what their Wash-ball makes,
+
+
+Nor Ice, but curious artificial Jellies:
+
+
+Bold 
+Boreas
+ will disturb this Lock, that Curle,
+
+
+So put them to't.
+
+
+
+
+
+
+Jun.
+
+
+Shame on their tenderness!
+
+
+If I marry it shall de some 
+Amazon,
+
+
+Can fight with one hand, and give suck with t'other.
+
+
+
+
+
+
+Pru.
+
+
+For all your merry talking, Gentlemen,
+
+
+Let's not be tardy to salute the Prince.
+
+
+
+
+
+
+Ho.
+
+
+True, they deserve our early loves. No age,
+
+
+Can Parrallel, this 
+Royal Pilgrimage.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+Act.
+ 3. 
+Scen.
+ 4.
+
+
+Enter 
+Pope, Ʋictor, Cardinals,
+ Attendants.
+
+
+
+
+Pope.
+
+
+I'le be as frigid to him as the Alpes,
+
+
+And the deep winter, now they travel in.
+
+
+
+
+
+
+Ʋict.
+
+
+Make him your Slave, Dread Sir, to hold your Stirrop:
+
+
+Give him a good cuff if he don't do't right.
+
+
+
+
+
+
+
+
+1 
+Card.
+
+
+Tread on him Sir, when you get up your Horse.
+
+
+
+
+
+
+Pope.
+
+
+I now can make him any thing or nothing.
+
+
+Having him in a treble twist; I hear,
+
+
+The German Bishops back my censure, and
+
+
+Their Princes wont comply, without my pardon.
+
+
+
+
+Enter 
+Second Cardinal.
+
+
+
+
+Card.
+
+
+Sir The Embassy's come.
+
+
+
+
+
+
+Pope.
+
+
+Admit them quickly,
+
+
+Their Sex commands civil Respect, from all.
+
+
+
+
+Enter 
+Sophia, Matilda,
+ Ladies.
+
+
+
+
+Soph.
+
+
+Thus low we begg your Honour.
+
+
+
+
+Sop. & Mat. kneel & kiss his Toe.
+
+
+
+
+Pope.
+
+
+Your Business.
+
+
+
+
+
+
+Soph.
+
+
+Your Emperour layes his Scepter at your feet.
+
+
+
+
+
+
+Po.
+
+
+Is't come to this? It was but lately, I
+
+
+Must ask Him leave to put my Mitre on.
+
+
+
+
+
+
+Mat.
+
+
+Sir, we appeal to you, as unto Heaven,
+
+
+For Clemency, abstract from all revenge,
+
+
+Or any thought on't.
+
+
+
+
+
+
+Po.
+
+
+True. Yet sinners must
+
+
+Know by our frowns wherein they have offended.
+
+
+
+
+
+
+Soph.
+
+
+This he doth well, Sir, and is humbled for it.
+
+
+
+
+
+
+Mat.
+
+
+If there be merit (next your Holynes)
+
+
+What can be Higher then a Princes Fasting?
+
+
+
+
+
+
+Soph,
+
+
+Three daies already, all disrob'd, and bare-foot.
+
+
+
+
+
+
+Mat.
+
+
+We have passed through the Island Purgatory,
+
+
+In our cold progress; nor grudge we this penance,
+
+
+T'arrive at Bliss, wee mean, your Holyness;
+
+
+Where 'twere not Venial now, to doubt of Mercy,
+
+
+For which I cannot but adore your presence.
+
+
+
+
+
+
+Po.
+
+
+She cannot be deny'd, this Ladies converse
+
+
+Becomes a Patriarch, 'tis so sublime:
+
+
+Let's go conferre about this buisnes.
+
+
+
+
+
+
+Ʋict.
+
+
+Gladly.
+
+
+
+
+
+
+Po.
+
+
+Madam, for your sakes I will think upon
+
+
+Some termes of Pardon, (may they be accepted)
+
+
+You shall anon receive 
+um privately.
+
+
+
+
+
+
+So. Mat.
+
+
+You Crown our wishes.
+
+
+
+
+Ex. Po. Car. Attend.
+
+
+
+
+So.
+
+
+I'le run with this newes.
+
+
+
+
+Exit Soph.
+
+
+
+
+Mat.
+
+
+Privately! Let me see! a well-thought Lady,
+
+
+Must act a subtle niceness, to keep up
+
+
+Her reputation, whatsoere she prove,
+
+
+
+
+Were He another man, this might create
+
+
+An ill conception of me: but I hope
+
+
+There can be no such danger, in the Pope,
+
+
+
+
+
+
+
+
+Act.
+ 1. 
+Scen.
+ 5.
+
+
+
+
+Enter 
+Henry, & Conrade.
+
+
+
+
+Hen.
+
+
+I wonder 
+Conrade,
+ what th' effect will be.
+
+
+
+
+
+
+Con.
+
+
+Had I but had my wish, it never should
+
+
+Have come to this.
+
+
+
+
+
+
+Hen.
+
+
+You see th' 
+Italian
+ Princes
+
+
+Receive us Nobly, take no notice, 
+Conrade,
+
+
+At all, of th' Execration.
+
+
+
+
+
+
+Con.
+
+
+I have that
+
+
+Within my breast, cannot abide there long:
+
+
+It swells to fast.
+
+
+
+
+
+
+Hen.
+
+
+Prethee declare what is it?
+
+
+
+
+
+
+Con.
+
+
+Will you swear secrecy, and courage then?
+
+
+
+
+
+
+Hen.
+
+
+I dare to you.
+
+
+
+
+
+
+Con.
+
+
+You shall be Emperour,
+
+
+My Father dotes.
+
+
+
+
+
+
+Hen.
+
+
+We will divide this Honuor.
+
+
+
+
+
+
+Con.
+
+
+I'le ask no more, and— They come.
+
+
+
+
+Enter 
+Pope, Victor, Cardinals, Sophrona, Matilda, Ladies, Attendants.
+
+
+
+
+Hen.
+
+
+Let us stand here, this is the privatest.
+
+
+
+
+
+
+Po.
+
+
+Let him b' admitted with his Royal Habet,
+
+
+And order that a Banquet be prepar'd
+
+
+Without delay.
+
+
+
+
+Ex. Card. aside.
+
+
+
+
+Con.
+
+
+That's better then his blessing.
+
+
+
+
+
+
+Po.
+
+
+You see now Ladies, how my full desires
+
+
+Do well concurre with yours in act of grace.
+
+
+
+
+
+
+Soph.
+
+
+Thanks to your Holyness we find it so.
+
+
+
+
+
+
+Mat.
+
+
+It well becomes, Sir, your Paternal Bowels.
+
+
+
+
+
+
+Po.
+
+
+Your Honour, (with the Emperours Pietie)
+
+
+Doth stand engag'd, 
+Matilda,
+ to secure
+
+
+The Just performance of what's offered.
+
+
+
+
+
+
+Mat.
+
+
+VVhat'ere is mine, Sir, may it be thought worthy,
+
+
+I'le freely stake to have your will fullfil'd.
+
+
+
+
+
+
+Po.
+
+
+I know thou 'rt Noble, if thou fancy'st 
+Rome
+
+
+Command our Court.
+
+
+
+
+
+
+Hen.
+
+
+This is exact Love-talk.
+
+
+
+
+asids.
+
+
+
+
+Con.
+
+
+In my heart the old fellow will prove wanton,
+
+
+
+
+
+
+Enter 
+Emperour, Card. Banquet,
+
+
+
+
+Emp.
+
+
+I must perforce awhile dissemble it
+
+
+Thanks Holy Father.
+
+
+
+
+aside. kneels
+
+
+
+
+Con.
+
+
+This is brave submission.
+
+
+
+
+aside.
+
+
+
+
+Po.
+
+
+You have our Absolution, and our Love.
+
+
+
+
+
+
+Card.
+
+
+Heaven prosper, and continue these embraces!
+
+
+
+
+
+
+Po.
+
+
+Let us refresh our selves! Fall to, 
+Matilda.
+
+
+Musick playes and they sing within.
+
+
+
+
+
+
+
+
+A Song.
+
+
+Your Civil jarrs
+
+
+Are the worst Warrs:
+
+
+But now such dangers cease:
+
+
+Those Mortal Gods,
+
+
+That were at odds,
+
+
+Conclude an happie Peace.
+
+
+
+
+
+
+Cho.
+
+
+It is most pleasant Harmonie,
+
+
+When Crown and Mitre do agree.
+
+
+We all then fear
+
+
+Sad darkness near,
+
+
+When Heaven's Two great Lights fight:
+
+
+Whil'st Prince and Pope
+
+
+Clash; there's no hope,
+
+
+But the worlds fatal night.
+
+
+
+
+
+
+Cho.
+
+
+But 'tis most pleasant Harmonie,
+
+
+When Crown and Mitre do agree.
+
+
+
+
+
+
+
+
+Hen.
+
+
+I see the Cardinals Caps are good for somwhat.
+
+
+
+
+
+
+Con.
+
+
+They hold almost a Charger full of March-paines.
+
+
+
+
+aside
+
+
+
+
+Emp.
+
+
+Your Bounty hath oblig'd us, Sir.
+
+
+
+
+
+
+Po.
+
+
+Accept it.
+
+
+Now our next buisness, is to confirm all
+
+
+Before the Sacred Alter.
+
+
+
+
+
+
+All.
+
+
+We attend you.
+
+
+
+
+Exeunt.
+
+
+
+
+Hen.
+
+
+The face of things, methinks, seemes but untowardly,
+
+
+I do not like it, 
+Conrade,
+ Peace can never
+
+
+Sute with the nature, and complexion
+
+
+Of our designes, our sport must be in Tempests.
+
+
+
+
+
+
+Con.
+
+
+I warrant you, rather then baulk the action,
+
+
+If we find discords slow, we'l make a faction.
+
+
+
+
+Finis Act. Tertii.
+
+
+
+
+
+
+
+
+
+
+
+
+Act.
+ 4. 
+Scen.
+ 1.
+
+
+Enter 
+Brazutuss, Jocoso,
+ as on a Stage.
+
+
+
+
+Joc.
+
+
+Now Master ther's hopes of a Trade agen,
+
+
+Things fadge so well at 
+Rome.
+
+
+
+
+
+
+Bra.
+
+
+We shall anon
+
+
+Have company.
+
+
+
+
+
+
+Joc.
+
+
+I find the Market mends.
+
+
+The Clowns begin to draw their Cat-string Purses,
+
+
+And call so boldly for a Pot for 
+Joane.
+
+
+
+
+
+
+Bra.
+
+
+They droop'd but now, I saw, most heavily,
+
+
+With their Chops leaning on their Staves, a listning,
+
+
+And enquiring of every one they met,
+
+
+Whether they thought this War would cause a Land Tax.
+
+
+
+
+
+
+Joc.
+
+
+But now they are as brisk.
+
+
+
+
+
+
+Bra.
+
+
+We'l try their Pockets.
+
+
+
+
+
+
+Joc.
+
+
+'Tis never well but when the Glove goes, Master.
+
+
+
+
+
+
+Bra.
+
+
+The Empress will I hear honour our sport.
+
+
+
+
+
+
+Joc.
+
+
+I'le leap out of my skin, and in agen.
+
+
+
+
+
+
+Bra.
+
+
+I strange they tarry.
+
+
+
+
+
+
+Joc.
+
+
+Pox on't nothing, but
+
+
+Two bawling fellowes on a Ladder yonder,
+
+
+Detain 'um: now they come.
+
+
+
+
+Enter 
+a mixt company.
+
+
+
+
+1. 
+Wo.
+
+
+Yonder he is.
+
+
+
+
+
+
+2. 
+Wo.
+
+
+Look, 
+Jack
+ shall see him.
+
+
+
+
+
+
+3. 
+Wo.
+
+
+Poor Knave, what ailes He?
+
+
+
+
+
+
+2. 
+Wo.
+
+
+Alass woman he hath had an Ague this six weeks.
+
+
+They say this Monster-banke knowes what's good for't.
+
+
+
+
+
+
+Bra.
+
+
+Gentlemen, 
+By the help of a Divine hand, I can Cure all those Distempers, mentioned in your Paper, I need not name them. Only I am to tell you, amongst the rest, there is a Rare
+ Jesuitical Powder, 
+made of the skin of the Serpent the Devil possessed, when he seduced
+ Eve. 
+That out∣wardly applyed, will charm away any Ague, be it
+ Tertian, Quartan, 
+on
+ Quotidian.
+
+
+
+
+
+
+2. 
+Wo.
+
+
+I am glad of that.
+
+
+
+
+
+
+Bra.
+
+
+I purchas'd it by my Intimacy at Rome, the Great-great-grand∣mother of all Antiquity. No one else hath it.
+
+
+Let's see 
+Jocoso.
+
+
+
+
+
+
+Joc.
+
+
+Master mind me
+
+
+
+
+Jocoso gives him his things.
+
+
+
+
+Bra.
+
+
+The price of all my things.
+
+
+
+
+
+
+Joc.
+
+
+Master my things!
+
+
+
+
+
+
+Bra.
+
+
+The price of all my things, with the Directory how to use them, is Three Shillings.
+
+
+
+
+
+
+Joc.
+
+
+Master!
+
+
+
+
+
+
+Bra.
+
+
+But because my time is not long with you, I shall in love give you six pence.
+
+
+
+
+
+
+Joc.
+
+
+Master, my things!
+
+
+
+
+
+
+
+
+Bra.
+
+
+So that you shall have all mine, and
+ Jocoso
+'s for three shillings in the whole,
+
+
+
+
+
+
+Joc.
+
+
+Gentlemen your Gloves.
+
+
+With my Balls you may scrub up old Cloathes and Faces, and make them look like new.
+
+
+
+
+
+
+1. 
+Wo.
+
+
+Give me the whole parcel.
+
+
+
+
+
+
+2. 
+Wo.
+
+
+And me.
+
+
+
+
+
+
+3. 
+
+
+And me.
+
+
+
+
+
+
+Joc.
+
+
+My Balls help a wench to a husband quickly.
+
+
+The take away all scurff, scabs and wrinckles,
+
+
+redness, freckles, pimples, or any unhandsomness in the flesh.
+
+
+
+
+They throw up. their Gloves.
+
+
+
+
+Bra.
+
+
+Gentlemen, 
+if any of you be rich enough for the Gout, you must know I wrought an incomparable Cure of this lately, in
+ Italy, 
+on the Popes great Toe.
+
+
+
+
+Enter a 
+Drunken-man
+ reeling amongst them.
+
+
+
+
+Wo.
+
+
+What's the matter?
+
+
+
+
+
+
+Drunk.
+
+
+What a pox do all these Fooles harkning to a couple of Knaves?
+
+
+
+
+
+
+Joc.
+
+
+You make a gleak of us Gaffer.
+
+
+
+
+
+
+Drunk.
+
+
+Are you minded to have your po. po. Pockets pickt?
+
+
+
+
+
+
+Joc.
+
+
+You'r an old Rogue.
+
+
+
+
+
+
+Bra.
+
+
+Friend, about your buisness.
+
+
+
+
+
+
+Drunk.
+
+
+Kiss my Bumme.
+
+
+
+
+
+
+Joc.
+
+
+Were I a little nearer, my foot should sweetly.
+
+
+
+
+
+
+Wo.
+
+
+Mind him not pray, He's Drunk, Sir.
+
+
+
+
+
+
+Drunk.
+
+
+Kiss my Bumme!
+
+
+
+
+
+
+Joc.
+
+
+I'de drum a march on't.
+
+
+
+
+
+
+Drunk.
+
+
+Kiss my Bu, Bu, Bumme!
+
+
+
+
+
+
+Wo.
+
+
+Good now be quiet.
+
+
+
+
+Exit with Wo.
+
+
+
+
+Bra.
+
+
+Were not this fellow drunk now, Gentlemen,
+
+
+I'de make him a sad example, we come not
+
+
+Here, Sirs, without leave from the Emperour.
+
+
+And a full License from his Holiness.
+
+
+Dispatch 
+Jocoso.
+
+
+
+
+Exit Bra.
+
+
+Enter on the Stage an old 
+Woman
+ holding her Teeth.
+
+
+
+
+Joc.
+
+
+I have done! Here com's an object of Charity.
+
+
+
+
+
+
+Wo.
+
+
+Pray Sir!
+
+
+
+
+
+
+Joc.
+
+
+Set down good woman.
+
+
+
+
+
+
+Joc.
+
+
+Which Tooth is it? She hath but that.
+
+
+
+
+looks in her mouth.
+
+
+
+
+Wo.
+
+
+'Tis Ha, Hallow Sir.
+
+
+
+
+
+
+Ioc.
+
+
+It makes your breath stinck.
+
+
+'Tis done.
+
+
+
+
+
+
+Wo.
+
+
+I find ease.
+
+
+
+
+holds his Nose.
+
+
+
+
+Ioc.
+
+
+You have eas'd nature I think.
+
+
+
+
+
+
+Wo.
+
+
+smells the tooth.
+
+
+What must you have.
+
+
+
+
+
+
+Ioc.
+
+
+I have enough alreadie.
+
+
+
+
+
+
+Wo.
+
+
+Pray Sir speak!
+
+
+
+
+
+
+Ioc.
+
+
+Don't drop Curt'sies so, for fear your Curt'sies drop.
+
+
+
+
+
+
+Wo.
+
+
+I'de willingly content you.
+
+
+
+
+
+
+Ioc.
+
+
+Good goodwife-house-of-Office do not follow me, so!
+
+
+
+
+
+
+Wo.
+
+
+You must speak in my ear, Sir.
+
+
+
+
+
+
+Ioc.
+
+
+Oh hell! must I come so near her. I'le have nothing Gammer!
+
+
+
+
+
+
+
+
+Wo.
+
+
+Thank you, Sir, I am deaf.
+
+
+
+
+Exit Wo.
+
+
+
+
+Joc.
+
+
+Pox on her, she hath neither eares, nor nose.
+
+
+
+
+
+
+All.
+
+
+Ha, ha, ha.
+
+
+
+
+
+
+Joc.
+
+
+This goes now 'mongst my Regiment of Teeth.
+
+
+Each one (like those, I read, which 
+Cadmus
+ sow'd,
+
+
+May prove a Man of reputation.
+
+
+pulls his cloath out & shews it.
+
+
+Do you not here, Sir, read a learned Artist,
+
+
+As well, as in those sixteen stragling Letters
+
+
+He brought to Greece? And now kind Gentlemen
+
+
+Be pleas'd to walk in, (Hang me if I lye)
+
+
+You shall see wonders of Activity.
+
+
+
+
+Ex. Omnes.
+
+
+
+
+
+
+Act.
+ 4. 
+Scen.
+ 2.
+
+
+Enter 
+Emperour, Prudentio, Honorio, Iunio.
+ To them 
+Henry, Conrade.
+
+
+
+
+Jun.
+
+
+For you we had design'd our lives and fortunes.
+
+
+
+
+
+
+Ho.
+
+
+This is an everlasting Infamie,
+
+
+Sir, to your Royal Empire.
+
+
+
+
+
+
+Jun.
+
+
+He's a Lecher.
+
+
+A murderer, and by lewd practises
+
+
+Set on the Papacie.
+
+
+
+
+
+
+Emp.
+
+
+Had my dull Braine,
+
+
+From your first kindness apprehended you,
+
+
+This nere had bin.
+
+
+
+
+
+
+Pru.
+
+
+In you were all our hopes,
+
+
+Whom we esteem'd the Patron of all Justice,
+
+
+The Alter and sole Bulwark of the Lawes
+
+
+
+
+
+
+Ho.
+
+
+We valu'd not his Excommunication.
+
+
+
+
+
+
+Emp.
+
+
+Those civil discords of the German Prinsce
+
+
+Forc'd me to get this off, on such conditions,
+
+
+Hell's Torment's nothing to 'um. I must stand
+
+
+To the Popes Judgment; Answer mine accusers:
+
+
+If guilty, quietly resign my Crowns,
+
+
+In the mean time, live privately: release
+
+
+My Subjects from their Loyaltie, and Oath.
+
+
+And which is worst, never attempt revenge.
+
+
+
+
+
+
+Jun.
+
+
+But that good manners here constrain'd a patience
+
+
+I had not heard you half out, 'twas such pain.
+
+
+
+
+
+
+Pru.
+
+
+He strives in all this but t' enslave you to him.
+
+
+
+
+
+
+Ho.
+
+
+And works his pleasure on you, thus disarm'd.
+
+
+
+
+
+
+Jun.
+
+
+We'r Idle still.
+
+
+
+
+
+
+Emp.
+
+
+Our Swords shall cut this League.
+
+
+
+
+
+
+
+
+Pru.
+
+
+The Soul can be oblidg'd to nothing, but
+
+
+What's free, and voluntary.
+
+
+
+
+Enter to them 
+Henry, Conrade.
+
+
+
+
+Hen.
+
+
+Sir, we hear
+
+
+Otho
+ Rebels, and with a num'rous Army
+
+
+Bids you defiance.
+
+
+
+
+
+
+Con.
+
+
+Aided with 
+Rodolphus.
+
+
+
+
+
+
+Emp.
+
+
+More Mischief! Your assistance Gentlemen.
+
+
+
+
+
+
+All.
+
+
+'Tis ready, Sir, most willingly.
+
+
+
+
+
+
+Hen.
+ & 
+Con.
+
+
+And ours.
+
+
+
+
+
+
+Emp.
+
+
+First we'l secure Home, next succeeds thy doome,
+
+
+Thy doome, Proud Metropolitan of 
+Rome.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+Act. 4. Scen. 3.
+
+
+Enter 
+Matilda, Ladies.
+
+
+
+
+Mat.
+
+
+Prepare all things in order for the Bath.
+
+
+I hope by this your perfect in your Task.
+
+
+
+
+
+
+1 
+Lad.
+
+
+VVe are, Dear Madam, 
+
+
+
+
+
+
+2. 
+
+
+And are happy in 'um.
+
+
+
+
+
+
+Mat.
+
+
+Observe your charge, I follow.
+
+
+
+
+
+
+All.
+
+
+We obey.
+
+
+
+
+Ex. Ladies
+
+
+
+
+Mat.
+
+
+'Tis fine! the whole world is at my command.
+
+
+Although I cannot bear the name of Pope,
+
+
+I have the power fully, under him.
+
+
+This Duke, that Cardinal, this Lord, that Abbot,
+
+
+Are all my Creatures, owe me sute and servise.
+
+
+All the Revenues of Rome's Mother-Church
+
+
+Are scarce enough now, to maintain a Mistress.
+
+
+A Lady well drest, like a 
+Pers'an
+ Madam
+
+
+VVares sev'ral cityes on her; so must I.
+
+
+The 
+Peter
+ Pence will find me Pins and Laces.
+
+
+And —
+
+
+
+
+Enter 
+Pope.
+
+
+
+
+Pope
+
+
+What alone, at thy private contemplations?
+
+
+Let none confess thee but my self, 
+Matilda.
+
+
+
+
+
+
+Mat.
+
+
+Sir, you best know my secret passions.
+
+
+
+
+
+
+Po.
+
+
+I doe, and can best pardon 'um.
+
+
+
+
+
+
+Ma.
+
+
+Your 
+Cardinals.
+
+
+I must retire till anon.
+
+
+
+
+Exit Matilda.
+
+
+
+
+Pope.
+
+
+Your buisness.
+
+
+
+
+
+
+Ʋict.
+
+
+Sir, Th' Emperour is started from his Cov'nant
+
+
+Already, and with th' 
+Italian
+ Nobles
+
+
+Conspire your ruine.
+
+
+
+
+
+
+Pope.
+
+
+Most unheard of falshood!
+
+
+We must bestir us to be ready for 'um.
+
+
+Here now I want my good old Freind 
+Brazutus.
+
+
+Can't we put confidence in Alter-vowes?
+
+
+Nay; If once such Assurances be crost
+
+
+As These; I'le burn the consecrated Host.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+
+
+Act.
+ 4. 
+Scen.
+ 4.
+
+
+Enter 
+Otho, Frederick, Rodolphus.
+
+
+
+
+Otho.
+
+
+Sirs, Now, now, let's behave our selves like men!
+
+
+The stak's the Cerman Empire, and we'l share it,
+
+
+Amongst us three: we'l share it equallie.
+
+
+
+
+Enter Above 
+Emp. Hen. Con. Ho. Pru. Jun.
+
+
+
+
+Emp.
+
+
+Will you yeild Traytors?
+
+
+
+
+
+
+Otho.
+
+
+If yo'have valour for it.
+
+
+
+
+
+
+Emp.
+
+
+Ye shall have mercy.
+
+
+
+
+
+
+Ro.
+
+
+Dandle Fools and Children.
+
+
+
+
+
+
+Fred.
+
+
+Kingdoms are more worth then to part with so.
+
+
+
+
+
+
+All.
+
+
+Force the doores open, Sirs.
+
+
+We have free entrance.
+
+
+
+
+Enter above 
+Magnus.
+
+
+
+
+Mag.
+
+
+Magnus
+ is poyson'd 
+Otho,
+ and his Ghost
+
+
+Comes to revenge his Death.
+
+
+
+
+
+
+Otho.
+
+
+Villain, I am cheated.
+
+
+
+
+
+
+Fred.
+
+
+We are betray'd!
+
+
+
+
+A noise within, they run, they run, they run.
+
+
+
+
+Ro.
+
+
+They come like lightning on us!
+
+
+
+
+Enter 
+Hen. Con. Mag.
+ beating 
+Otho, Fred. Rodolp.
+ off the Stage,
+
+
+Ex. fighting.
+
+
+
+
+Otho.
+
+
+Stand to't 
+Rodolphus.
+
+
+
+
+
+
+All.
+
+
+Now
+
+
+
+
+Enter 
+Junio,
+ and 
+Honorio,
+ with their Swords rawn.
+
+
+
+
+Jun.
+
+
+Pox on't! they fled, fore I had half my sill.
+
+
+Such wars as these starve a good stomackt Sword
+
+
+
+
+
+
+Ho.
+
+
+They had good Heels. The Emperour's safe I see.
+
+
+
+
+Enter 
+Emp.
+ embracing 
+Prudentio.
+
+
+
+
+Emp.
+
+
+Prudentio
+ Thanks! Thanks to you Noble Sirs!
+
+
+To you we owe this conquest.
+
+
+
+
+
+
+Hon.
+
+
+To your Courage.
+
+
+
+
+
+
+Pru.
+
+
+And VVisdom, Sir, we must ascribe this Honour.
+
+
+
+
+
+
+Jun.
+
+
+Pox! 'Twas a skirmish not worth talking of.
+
+
+
+
+Enter 
+Magnus, Henry, Conrade.
+
+
+
+
+Emp.
+
+
+Magnus!
+
+
+
+
+
+
+Mag.
+
+
+The Three-Head-Traytors have their due deserts,
+
+
+Rodolphus,
+ Sir, and 
+Frederick
+ are slain
+
+
+By the these your Noble Sons.
+
+
+
+
+
+
+Emp.
+
+
+VVas this your Act, My Boyes?
+
+
+
+
+
+
+Jun.
+
+
+Faith fine Beginnings, Hah, 
+Honorio.
+
+
+
+
+
+
+Ho.
+
+
+True.
+
+
+
+
+
+
+Hen.
+
+
+Thanks to good Fortune, Sir.
+
+
+
+
+
+
+Pru.
+
+
+They're modest too.
+
+
+
+
+
+
+Emp.
+
+
+Now Gentlemen, your swords have carv'd your way
+
+
+To a most free, and well-deserved welcome,
+
+
+
+
+To what 'ere 
+Germany
+ affords.
+
+
+
+
+
+
+All.
+
+
+All thanks.
+
+
+
+
+
+
+Emp.
+
+
+I long almost to see 
+Aurelia.
+
+
+
+
+
+
+Mag.
+
+
+She'l not a little triumph at this news.
+
+
+
+
+
+
+Emp.
+
+
+Mag.
+ Do you conduct the Empress to us.
+
+
+
+
+
+
+Mag.
+
+
+Sir, I obey.
+
+
+
+
+
+
+Emp.
+
+
+Let's go.
+
+
+
+
+
+
+All.
+
+
+We all attend.
+
+
+
+
+Exeunt.
+
+
+Manet Henry, Conrade.
+
+
+
+
+Hen.
+
+
+Ill luck, the old man scap'd so, were He dead
+
+
+We'd never talk of Primogeniture.
+
+
+But be sworn Collegues in the Empire, 
+Conrade.
+
+
+
+
+
+
+Con.
+
+
+Here we were forc'd to fight, to help to save him,
+
+
+We, and our hopes else had been lost for ever,
+
+
+But now there is an other Warre behind,
+
+
+May order all things, 
+Harrie,
+ to our mind.
+
+
+
+
+
+
+
+
+Act. 4. Scen. 5.
+
+
+Enter 
+Aurelia, Sylvia,
+ Attendants
+
+
+
+
+Syl.
+
+
+Are you resolv'd to Antidate his death,
+
+
+And weep his Dirge, before hand, Madam?
+
+
+
+
+
+
+Aur.
+
+
+I saw him murder'd, in my dream last night,
+
+
+And felt the sword that did it, 
+Sylvia!
+
+
+
+
+
+
+Syl.
+
+
+These be but idle Fancies; He's alive!
+
+
+
+
+
+
+Aur.
+
+
+He's run through (here I bleed) He's run through here!
+
+
+
+
+strikes her breast.
+
+
+Enter A Messenger.
+
+
+
+
+Syl.
+
+
+A Messenger! what Newes!
+
+
+
+
+
+
+Mess.
+
+
+Where's the Princess?
+
+
+Madam!
+
+
+
+
+
+
+Aur.
+
+
+I have but a few minutes now!
+
+
+
+
+
+
+Mess.
+
+
+Your Royal Father hath the Victory.
+
+
+
+
+
+
+Aur.
+
+
+How would I fain know, what I fear to know!
+
+
+
+
+
+
+Mess.
+
+
+Madam! The Empress with the two young Princes
+
+
+Are safe returned.
+
+
+
+
+
+
+Aur.
+
+
+Still Impertinent!
+
+
+
+
+
+
+Mess.
+
+
+And —
+
+
+
+
+
+
+Aur.
+
+
+Now it comes! quick rid me out of pain.
+
+
+Speak, how doth 
+Magnus?
+
+
+
+
+
+
+Mess.
+
+
+They are all at hand.
+
+
+
+
+
+
+Syl.
+
+
+He knows not 
+Magnus,
+ Madam! Now they come.
+
+
+
+
+Enter 
+Emp. Sophrona, Magnus, Prudentio, Honorio, Junio.
+
+
+
+
+Aur.
+
+
+And now I see him 
+Sylvia,
+ or his Ghost.
+
+
+Your Royal Blessings both!
+
+
+
+
+
+
+
+
+Emp.
+
+
+The Heavens preserve
+
+
+My Dear 
+Aurelia.
+
+
+
+
+They all salute the Princess.
+
+
+
+
+Soph.
+
+
+How dost, my Child?
+
+
+
+
+
+
+Aur.
+
+
+Thanks Royal Mother: How is't 
+Magnus?
+
+
+
+
+
+
+Pru.
+
+
+Sir, you much Honour us to shew such Treasure.
+
+
+
+
+They talk together.
+
+
+
+
+Hon.
+
+
+Is not she tempting, 
+Junio?
+
+
+
+
+
+
+Jun.
+
+
+In her Sex.
+
+
+You know I mind no face but what's in Breeches,
+
+
+And so may make a fit Companion,
+
+
+For 
+Mars,
+ or 
+Bachus,
+ Fighting, boy, or Drinking.
+
+
+
+
+
+
+Emp.
+
+
+Sirs, you shall tast our Liquor, and accept
+
+
+A large Heart, with a slender Entertainment.
+
+
+
+
+
+
+All.
+
+
+Oh Sir, you all oblige us by your kindness.
+
+
+
+
+
+
+Mag.
+
+
+'Twas to do somwhat that can ne're be done.
+
+
+Exeunt.
+
+
+'Twas to do somwhat to deserve 
+Aurelia
+
+
+And next you, to Revenge that Treacherie
+
+
+I alwaies hated.
+
+
+
+
+Exit Magnus.
+
+
+
+
+Aur.
+
+
+You were ever Noble
+
+
+
+
+
+
+Syl.
+
+
+Magnus
+ is dead! don't he affright you Madam?
+
+
+
+
+
+
+Aur.
+
+
+Surely thou art some Sybil, 
+Sylvia.
+
+
+
+
+Enter 
+Hen. Conrade
+
+
+My Brothers! Brothers!
+
+
+
+
+Bo.
+
+
+Lives 
+Aurelia?
+
+
+And 
+Sylvia
+ too?
+
+
+
+
+
+
+Syl.
+
+
+Welcome sweet Princes!
+
+
+
+
+
+
+Aur.
+
+
+VVhat,
+
+
+You kil'd 
+Rodolphus,
+ and You 
+Frederick.
+
+
+
+
+
+
+Hen.
+
+
+And 
+Magnus, Otho.
+ Now she blushes 
+Conrade.
+
+
+
+
+
+
+Aur.
+
+
+'Tis but your Fancy.
+
+
+
+
+
+
+Con.
+
+
+VVe must not delay.
+
+
+They will but just recruit, and then for Rome.
+
+
+Come Sister.
+
+
+
+
+Ex. Hen. Conrade.
+
+
+
+
+Aur.
+
+
+VVe will follow. 
+Sylvia!
+
+
+Compose thy self for Mirth, Girle!
+
+
+
+
+
+
+Syl.
+
+
+I do, Madam,
+
+
+And am prepar'd to frolick, any how
+
+
+You shall Command.
+
+
+
+
+
+
+Aur.
+
+
+The Heavens n're smil'd, till now.
+
+
+
+
+Exeunt.
+
+
+Finis Act. Quinqui.
+
+
+
+
+
+
+
+
+
+
+
+
+Act. 5. Scen. 1.
+
+
+Enter. 
+Emperour, Prudentio, Honorio, Junio, Henry, Conrade.
+
+
+
+
+Emp.
+
+
+Matilda!
+ what means this? Read Gentlemen!
+
+
+He reads a letter.
+
+
+I am the Privy-Council of his breast
+
+
+(She writes) Beware 
+Brazutus!
+ I live yet,
+
+
+Free from all poyson, don't I? Well 
+Matilda,
+
+
+Shall not repent this kindness.
+
+
+
+
+
+
+Pru.
+
+
+This is he
+
+
+Poyson'd Seven Popes to make use of this.
+
+
+
+
+
+
+Ho.
+
+
+Lives here 
+Brazutus?
+
+
+
+
+
+
+Pru.
+
+
+And his Man 
+Jocoso.
+
+
+
+
+
+
+Jun.
+
+
+Beggarly Urchin! He'l kill any one,
+
+
+For a Pot, Ten-groats, and the dead corps in,
+
+
+To make some Mummia for th' Apothecaries.
+
+
+
+
+
+
+Emp.
+
+
+Were they for this, thus long allow'd our Court?
+
+
+
+
+
+
+Hen.
+
+
+Sir, This was he, that should have poyson'd 
+Magnus.
+
+
+
+
+
+
+Emp.
+
+
+To you we leave th'inspection of this buisness
+
+
+Together 
+Henry,
+ with the government.
+
+
+
+
+
+
+Hen.
+
+
+I shall be Just, Sir, May you safe return!
+
+
+
+
+
+
+Con.
+
+
+Be mindful of your promise 
+Hal.
+
+
+
+
+
+
+Hen.
+
+
+Fear nothing.
+
+
+
+
+
+
+Emp.
+
+
+Conrade
+ goes.
+
+
+
+
+
+
+Pru.
+
+
+We shall miss his Valour else.
+
+
+
+
+
+
+Con.
+
+
+Thanks for your Noble thoughts 
+Prudentio.
+
+
+
+
+
+
+Jun.
+
+
+Would we could flie 
+Honorio
+ to the wars
+
+
+On some swift-whinged Horses.
+
+
+
+
+
+
+Ho.
+
+
+Oh brave 
+Junio.
+
+
+
+
+Exeunt.
+
+
+Manet Henry.
+
+
+
+
+Hen,
+
+
+Farewel! From this time shall my Raign take date,
+
+
+Will 
+Magnus
+ second now, this pleasing Fate.
+
+
+
+
+Exit.
+
+
+
+
+
+
+Act.
+ 5. 
+Scen,
+ 2.
+
+
+Enter 
+Magnus, Aurelia, Sylvia.
+
+
+
+
+Aur.
+
+
+I fear'd thee 
+Magnus, Magnus
+ I did.
+
+
+
+
+
+
+Mag.
+
+
+Dear Madam!
+
+
+You that had got such Interest in my heart,
+
+
+Methinks should know what's in't. Ther's truth written,
+
+
+Not in dull Characters, but large, and lasting.
+
+
+
+
+
+
+
+
+Aur.
+
+
+Enough!
+
+
+
+
+
+
+Syl.
+
+
+Hymen cannot be wanting long.
+
+
+(Madam) That blush did well become a Lady,
+
+
+That must anon be chastly ravished.
+
+
+
+
+
+
+Aur.
+
+
+Sylvia,
+ you talk. The Empress.
+
+
+
+
+Enter 
+Sophrona.
+
+
+
+
+Soph.
+
+
+Noble 
+Magnus!
+
+
+
+
+
+
+Mag.
+
+
+Madam, was not your Journey tedious.
+
+
+
+
+
+
+Soph.
+
+
+'Twas.
+
+
+And now return'd we must confess, to you
+
+
+We owe our selves and Kingdoms, and that ease
+
+
+They do afford.
+
+
+
+
+
+
+Aur.
+
+
+Didst hear that 
+Sylvia?
+
+
+
+
+
+
+Mag.
+
+
+This Honour justly appertains
+
+
+To th' Emperour, and Your Heroick sons.
+
+
+Pray do 'um Justice.
+
+
+
+
+
+
+Soph.
+
+
+Courage never braggs.
+
+
+Harrie
+ how is't.
+
+
+
+
+Enter 
+Henry
+
+
+
+
+Hen.
+
+
+I left 'um well, and merry.
+
+
+Magnus
+ a word or two with you, in secreet.
+
+
+
+
+They whisper.
+
+
+
+
+Aur.
+
+
+What's become of 
+Matilda,
+ Royal Mother?
+
+
+That I was thus forgetful, not to ask
+
+
+Till now.
+
+
+
+
+
+
+Soph.
+
+
+She's grown obsequious to the Pope,
+
+
+And wants for nothing.
+
+
+
+
+
+
+Aur,
+
+
+Oh me! I thought him
+
+
+Still past a woman, by the Papian Law.
+
+
+
+
+
+
+Syl.
+
+
+She talk'd indeed at first Amorously
+
+
+Of the old Man.
+
+
+
+
+
+
+Soph.
+
+
+You say right 
+Sylvia.
+
+
+
+
+
+
+Hen.
+
+
+Aurelia
+'s wise, chaste, fair.
+
+
+
+
+
+
+Mag.
+
+
+I know all this,
+
+
+And yet I'le wedd my grave, first
+
+
+
+
+
+
+Hen.
+
+
+Farewel then.
+
+
+Ex. Magnus.
+
+
+Avoid the Court upon my high Displeasure
+
+
+
+
+Ex. Henry.
+
+
+
+
+Soph.
+
+
+They'r mov'd!
+
+
+
+
+
+
+Syl.
+
+
+What means all this?
+
+
+
+
+
+
+Soph.
+
+
+Let us enquire.
+
+
+
+
+Exit
+
+
+
+
+Aur.
+
+
+My Joyes are Dasht still, as they do begin
+
+
+The Sun but just appear'd, and is clapt in.
+
+
+
+
+
+
+
+
+
+
+Act.
+ 5. 
+Scen.
+ 3.
+
+
+Enter 
+Matilda,
+ and Ladies, Attendants.
+
+
+
+
+Mat.
+
+
+And let him flye! My pompe will be the same.
+
+
+(My hopes are built upon undoubted grounds:)
+
+
+Victor
+ will be as good as 
+Gregorie.
+
+
+Command the Card'nals to recieve my pleasure.
+
+
+
+
+
+
+Attend.
+
+
+We shall
+
+
+
+
+Ex. Attend.
+
+
+
+
+Mat.
+
+
+How like you Sirs, my Dress to day?
+
+
+
+
+
+
+Lad.
+
+
+As it becomes the Empress of the world.
+
+
+
+
+
+
+Mat.
+
+
+I know no reason for the Salique Law,
+
+
+But that a woman may be fit to govern,
+
+
+Or why do Poets talk of 
+Juno Pallas.
+
+
+Place pow'r and wisdom in the Female Gender?
+
+
+Had not dame Nature cut us out to Rule,
+
+
+She never would have giv'n us such desires,
+
+
+We'l give men leave to think we think them wise,
+
+
+But yet we know our strength: all States, and Persons,
+
+
+(Act we discreetly) may be conquered
+
+
+By our well manag'd favours.
+
+
+
+
+Without. The day's our own.
+
+
+Enter 
+Emp. Prudentio, Hon. Jun. Souldiers.
+
+
+
+
+Emp.
+
+
+Secure all there.
+
+
+
+
+
+
+Mat.
+
+
+The buisness is effected.
+
+
+
+
+
+
+Jun.
+
+
+They can't be hir'd to turn agen: (Hare-like)
+
+
+One Run a Post down, with his eies behind.
+
+
+
+
+
+
+Soul.
+
+
+Make room-there, stand back
+
+
+
+
+
+
+Hon.
+
+
+The Cardinals.
+
+
+
+
+Enter 
+Cardinals.
+
+
+
+
+Mat.
+
+
+Great Sir! thus low accept my Loyalty.
+
+
+
+
+
+
+Emp,
+
+
+Matilda,
+ rise, we have sufficient proof of't.
+
+
+Fathful, and politick were thy designes
+
+
+To which we owe this bloudless victory.
+
+
+How may we now requite this love?
+
+
+
+
+
+
+Mat.
+
+
+Our selves and service, Sirs, must be our Princes
+
+
+Pure from all Mercenarie purposes.
+
+
+
+
+
+
+Emp.
+
+
+True. Yet 
+Matilda
+ we must not discourage
+
+
+Our Subjects duties with Ingratitude.
+
+
+
+
+
+
+Mat.
+
+
+Then please me, Sir, in pleasuring your self,
+
+
+In the Election of a Worthy Pope.
+
+
+Ʋictor
+'s demeanouors speak him such.
+
+
+
+
+
+
+Pru.
+
+
+We never
+
+
+Sir heard the contrary.
+
+
+
+
+
+
+
+
+Emp.
+
+
+I do approve him.
+
+
+
+
+Victor and Matilda talk together.
+
+
+
+
+Vict.
+
+
+Thanks mighty Prince!
+
+
+
+
+
+
+All.
+
+
+God save Pope 
+Victor
+ the third.
+
+
+
+
+
+
+Emp.
+
+
+Hildebrand
+'s Name did Anagramatize
+
+
+His Nature, 
+(I HEL-BRANDD)
+ and so he was.
+
+
+
+
+
+
+Ho.
+
+
+He was indeed the Worlds Incendiarie.
+
+
+
+
+
+
+Emp.
+
+
+A Legion Rebel, (in a wicked Pope)
+
+
+Must be a Complication of Traytors.
+
+
+
+
+
+
+Pru.
+
+
+He makes a thousand hardy-Regicides
+
+
+With Pardons in their Pockets, and hopes of
+
+
+Immediate access into Paradise:
+
+
+With a fair promise to be Canoniz'd.
+
+
+
+
+
+
+Jun.
+
+
+And then Men run on in their villainies
+
+
+As eagerly as e're the Pope run from us.
+
+
+Pox on him! now the warrs are done, and now
+
+
+We may make Mustard with our Cannon-bullets,
+
+
+And stick our Swords up to hang Scare-crows on.
+
+
+
+
+
+
+Vict.
+
+
+Will It please Caesar now to grace our Court.
+
+
+
+
+
+
+Emp.
+
+
+Thanks to Your Holyness. Come kind 
+Matilda.
+
+
+Come Gentlemen, you shall participate.
+
+
+
+
+
+
+Pru.
+
+
+We shall attend.
+
+
+
+
+
+
+All.
+
+
+God save 
+Caesar
+ and Pope 
+Victor!
+
+
+
+
+exeunt.
+
+
+
+
+
+
+Act. 5. Scen. 4.
+
+
+Enter 
+Conrade,
+ Souldiers
+
+
+He looks on a Letter.
+
+
+
+
+Con.
+
+
+My Revenge cannot stay the old mans pace.
+
+
+I look'd for all the Empire, half, was promis'd:
+
+
+And now he writes, I must submissively
+
+
+Yeild to the Portion, of a Younger Brother:
+
+
+And wait the leisure of the Destinies,
+
+
+Or never be admitted to his Court.
+
+
+Souldiers! rest confident in my Rewards!
+
+
+And let them highly animate your courage!
+
+
+I will not make a meal, nor close mine eyes,
+
+
+Until I'me Emperour of Germany.
+
+
+
+
+Enter 
+a Messenger.
+
+
+What are you? Come, for Reconciliation?
+
+
+
+
+Mess.
+
+
+I come to tell you, Sir, Your Fathers dead.
+
+
+
+
+
+
+Con.
+
+
+Dead!
+
+
+
+
+
+
+Mess.
+
+
+He no sooner heard your Brothers aime,
+
+
+(But He reply'd) 'twas time he was Extinguish'd,
+
+
+Finding that short life, he had yet behind
+
+
+
+
+Burnt like a snuff, so noysome to his issue,
+
+
+His own Son 
+Henry!
+ And with that, he funck.
+
+
+
+
+
+
+Con.
+
+
+Is he quite dead?
+
+
+
+
+
+
+Mess.
+
+
+Dead.
+
+
+
+
+
+
+Con.
+
+
+Ther's one lett Remov'd.
+
+
+
+
+A shout within.
+
+
+They Come, let us prepare.
+
+
+Enter 
+Magnus
+ and 
+Souldiers.
+
+
+
+
+Mag.
+
+
+Brave 
+Conrade,
+ yeild!
+
+
+
+
+
+
+Con.
+
+
+How like a flattering Parret, the Foole talks!
+
+
+Brave 
+Conrade!
+
+
+
+
+
+
+Mag.
+
+
+'Tis your Elder Brothers Right.
+
+
+
+
+
+
+Con.
+
+
+Pox on't! Can High and Noble Spirits, bent
+
+
+For a Kingdom, stand to tell first, and Second?
+
+
+Fight, Fight! I'le quickly make a younger Brother
+
+
+Of thee 
+Magnus.
+
+
+
+
+They all fight, Conrad's Souldiers are beaten off the Stage,
+ Magnus 
+kills
+ Conrade.
+
+
+
+
+Mag.
+
+
+There was no way but death.
+
+
+
+
+Enter 
+Souldiers.
+
+
+
+
+Soul.
+
+
+We have the Conquest, Sir, they are quite Routed.
+
+
+
+
+
+
+Mag.
+
+
+Conveigh this Corps to Solemn Funeral,
+
+
+We cannot but Lament Bold 
+Conrade
+'s Fall.
+
+
+
+
+
+
+
+
+Act.
+ 5. 
+Scen.
+ 5.
+
+
+Enter 
+Officers
+ with 
+Brazutus, Jocoso,
+ and a mixt Company
+
+
+
+
+1. 
+Off.
+
+
+Along, Along!
+
+
+
+
+
+
+Braz.
+
+
+What are we apprehended for?
+
+
+
+
+
+
+1. 
+Off.
+
+
+The Emperour will tell you.
+
+
+
+
+
+
+2. 
+Off.
+
+
+Come along.
+
+
+
+
+
+
+Joc.
+
+
+So I can, you Hunger-starved-Hound
+
+
+Without your Haleing.
+
+
+
+
+
+
+1. 
+Wo.
+
+
+They are very cheats.
+
+
+
+
+
+
+3. 
+Wo.
+
+
+They mump'd poor Besse.
+
+
+
+
+
+
+2. 
+Wo.
+
+
+Their things w'ant worth a Farthing.
+
+
+
+
+
+
+All.
+
+
+Hang 'um, hang 'um they do but gull the Country.
+
+
+
+
+
+
+Braz.
+
+
+This daies work shall cost you dear.
+
+
+
+
+
+
+1. 
+Off.
+
+
+'Tmay cost your life.
+
+
+
+
+
+
+Braz.
+
+
+I had a License from His Royal Father:
+
+
+Nor will the Princess thank you for this rudeness.
+
+
+
+
+
+
+1. 
+Off.
+
+
+W'have order never fear't for what we do.
+
+
+
+
+
+
+
+
+Braz.
+
+
+Y'have spoyl'd a Chymistrie cost (God kowes what)
+
+
+
+
+
+
+Joc.
+
+
+Y'have brain'd the Gallipots, ye Rogues! the stuff
+
+
+Runs out, shall cost you sauce, I warrant you.
+
+
+
+
+
+
+2. 
+Off.
+
+
+Come, come, a Halter will soon spoil your rayling.
+
+
+
+
+
+
+Joc.
+
+
+You may deserve it first.
+
+
+
+
+
+
+All.
+
+
+Hang'um quick, Hang'um
+
+
+
+
+
+
+Off.
+
+
+Peace, The Emperour.
+
+
+
+
+Enter 
+Hen.
+ Embracing 
+Magnus,
+ Attendants.
+
+
+
+
+Wo.
+
+
+Take heed you be'nt in the old womans pickle,
+
+
+By and by, Sirrah.
+
+
+
+
+
+
+Joc.
+
+
+Go you Bob-tail'd Whores.
+
+
+
+
+Ex. Women & company.
+
+
+
+
+Wo.
+
+
+You whore-son Arse-gut!
+
+
+
+
+
+
+All.
+
+
+Ha, ha, ha.
+
+
+
+
+
+
+Off.
+
+
+Peace the Emperour
+
+
+
+
+
+
+Hen.
+
+
+Magnus,
+ I am oblig'd. —
+
+
+
+
+
+
+Off.
+
+
+Sir, here's the Pris'ner.
+
+
+
+
+
+
+Hen.
+
+
+Brazutus!
+ you endeavoured to poyson
+
+
+Our Royal Father.
+
+
+
+
+
+
+Braz.
+
+
+Sir, I'me ignorant.
+
+
+
+
+
+
+Hen.
+
+
+If you conceal't I shall the rather think it.
+
+
+
+
+
+
+Mag.
+
+
+Perhaps, 
+Matilda
+ might not send the Letter,
+
+
+Pope 
+Gregorie
+ intended for this purpose.
+
+
+
+
+
+
+Hen.
+
+
+Confess all or else you dye.
+
+
+
+
+
+
+Joc.
+
+
+I n'ere, Sir, murder'd any in my life.
+
+
+
+
+
+
+Braz.
+
+
+The old Woman. (I hate lying)
+
+
+
+
+
+
+Joc.
+
+
+I did but faign that, Sir, to get his service.
+
+
+
+
+
+
+Hen.
+
+
+How now 
+Brazutus?
+
+
+
+
+
+
+Braz.
+
+
+Sir, this is but malice.
+
+
+
+
+
+
+Mag.
+
+
+If clear in this yet they may both be faulty.
+
+
+
+
+
+
+Hen.
+
+
+Declare 
+Brazutus
+ what you're committed,
+
+
+And on a Princes word, you shall have mercy.
+
+
+(For your sake 
+Magnus
+ and 
+Aurelia
+'s.)
+
+
+
+
+
+
+Braz.
+
+
+If I am guilty, Sir, of this I'me tax'd of,
+
+
+May I for ever be debarr'd your bounty.
+
+
+
+
+
+
+Hen.
+
+
+Speak all you know, or ever did, 
+Jocoso.
+
+
+If you'r found in a tittle fals, you dye.
+
+
+
+
+
+
+Joc.
+
+
+I never murder'd any but my Mother,
+
+
+Which Nature had almost done to my Hand.
+
+
+Besides it was my Elder Brothers doings.
+
+
+She liv'd so long He thought she was Immortal.
+
+
+His mind was once, to try whether she'd drown:
+
+
+But I was forc'd at last to doe her work
+
+
+For a mean Fee; I might have starv'd else, Sir.
+
+
+Your mercy, Sir, your mercy!
+
+
+
+
+
+
+
+
+Hen.
+
+
+Horrid Villain!
+
+
+
+
+
+
+Mag.
+
+
+But that your word joyn'd with the Jubilee
+
+
+Of your first Raign, pleads somewhat, Sir, for life,
+
+
+There could be no escaping of the Gallows:
+
+
+However pray think on some punishment
+
+
+That may be next to it.
+
+
+
+
+
+
+Hen.
+
+
+Friends, hear your sentence.
+
+
+Brazutus!
+ You Equivocated with us,
+
+
+More then 
+Jocoso
+ in your slie confession.
+
+
+(Who poyson'd a Septinary of Popes!
+
+
+Both shall live in perpetual Prisonment:
+
+
+look to them Officers, and see that daylie
+
+
+A hard allowance, mind them of their faults.
+
+
+
+
+
+
+Off.
+
+
+Sir We obey.
+
+
+
+
+
+
+1. 
+
+
+'Tis well yee scape so
+
+
+
+
+
+
+2. 
+Off.
+
+
+Come my Friend, 
+Jocoso.
+
+
+
+
+Exeunt Officers with Bra. & Jocoso.
+
+
+
+
+Joc.
+
+
+Pox on your Frendship, would we n'ere had met!
+
+
+How Intimate I must be now with Hell!
+
+
+
+
+
+
+Braz.
+
+
+The best on't is, old age, ill-us'd
+
+
+Can't suffer me, to be Tenant to a Prison long!
+
+
+
+
+
+
+Hen.
+
+
+Magnus!
+ whate're the German Empire now
+
+
+Rightly descended to me, will afford,
+
+
+Command it freely.
+
+
+
+
+
+
+Mag.
+
+
+May Heaven prosper 
+Caesar!
+
+
+
+
+The Embrace.
+
+
+Enter 
+Aurelia, Sylvia.
+
+
+
+
+Aur.
+
+
+Look yonder 
+Sylvia.
+
+
+
+
+
+
+Syl.
+
+
+I like this well.
+
+
+
+
+
+
+Aur.
+
+
+Must 
+Magnus
+ now be Banish'd?
+
+
+
+
+
+
+Hen.
+
+
+Sweet 
+Aurelia!
+
+
+I can as soon be banish'd from my self.
+
+
+(Give me leave Sister) You will have a man,
+
+
+Made up of Love, of Justice, and of Honour.
+
+
+I might have call'd these Virtues into question,
+
+
+Had he yeilded to me in hindering
+
+
+My Fathers Return, to his Empire: which
+
+
+None but the Fates prevented.
+
+
+
+
+
+
+All.
+
+
+Heaven Bless 
+Caesar!
+
+
+
+
+
+
+Mag.
+
+
+Next we must Palliate 
+Sophrona
+'s greif.
+
+
+
+
+
+
+Hen.
+
+
+That must be 
+Magnus
+ in your Nuptials.
+
+
+Great Duke of Saxony! accept your Dutchess,
+
+
+Accept of your 
+Aurelia!
+
+
+
+
+
+
+Aur.
+
+
+I flye to Him.
+
+
+
+
+
+
+
+
+Syl.
+
+
+Blest pair, may yours no more prove 
+April-joyes!
+
+
+
+
+
+
+Mag.
+
+
+We prize things most got through a world of Crosses.
+
+
+
+
+
+
+Hen.
+
+
+When those are quite blown over: and now may
+
+
+You (like the City 
+Alexandria
+)
+
+
+Enjoy a constant Sun-shine ev'ry day!
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EPIGOLUE.
+
+
+
+
+I am to tell you
+ (Gentlemen!) 
+The Play
+
+
+Caesar
+'s sad Tragoedie, you saw to day.
+
+
+Should any
+ Momus 
+crie, it can't be true.
+
+
+A man
+ Religious, 
+and a
+ Rebel, 
+too.
+
+
+Carp at the Title first, and next the Plot,
+
+
+And then the Sence, the Language, and what not!
+
+
+Condemn this Poyson, this Lust, and that Treason,
+
+
+And sware, our
+ Pilgrim-Prince 
+can't stand to reason;
+
+
+(But as a Vulgar Errour straight must be
+
+
+Damn'd with the
+ Belisarian 
+Povertie.
+)
+
+
+Our
+ Poet 
+doth confess, and 'tis His glory,
+
+
+He plaid the Theif, he saith, and stole the story
+
+
+From men of Trust, who write, the thing was so,
+
+
+Acted about Six Hundred years agoe.
+
+
+But yet all this won't do He understands,
+
+
+Nothing will pass for good, without your Hands.
+
+
+For which great favour, (she who did express
+
+
+Her self so handsome to his Holiness.)
+
+
+—
+Witty
+ Matilda 
+pleads; and 'tis hard hap,
+
+
+If such a freindly Girle don't get a clap.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

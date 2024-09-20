@@ -1,0 +1,6389 @@
+A new iuterlude [sic] and a mery of the nature of the .iiii. element declarynge many proper poynt of phylosophy naturall, and of dyuers straunge landys and of dyuers straunge effects [and] causis, whiche interlude yf ye hole matter be playd wyl conteyne the space of an hour and a halfe, but yf le lyst ye may leue out muche of the sad mater as the messengers p[ar]te, and some of experyens p[ar]te [and] yet the matter wyl depend conuenyently, and than it wyll not be paste thre quarters of an hour of length.
+Rastell, John, d. 1536.
+Approx. 74 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-01 (EEBO-TCP Phase 1).
+A10439
+
+
+
+
+STC 20722
+
+
+
+ESTC S104481
+
+
+
+
+
+99840219
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A new iuterlude [sic] and a mery of the nature of the .iiii. element declarynge many proper poynt of phylosophy naturall, and of dyuers straunge landys and of dyuers straunge effects [and] causis, whiche interlude yf ye hole matter be playd wyl conteyne the space of an hour and a halfe, but yf le lyst ye may leue out muche of the sad mater as the messengers p[ar]te, and some of experyens p[ar]te [and] yet the matter wyl depend conuenyently, and than it wyll not be paste thre quarters of an hour of length.
+Rastell, John, d. 1536.
+[64+] p. : music  
+
+
+[London :
+
+
+J. Rastell,
+
+
+1520?]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+America --  Discovery and exploration --  Early works to 1800.
+2002-04
+TCP
+Assigned for keying and markup
+2002-05
+SPi Global
+Keyed and coded from ProQuest page images
+2002-06
+Olivia Bottum
+Sampled and proofread
+2002-06
+Olivia Bottum
+Text and markup reviewed and edited
+2002-07
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+20722
+
+
+99840219
+
+
+4695
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¶A new interlude and a mery of the nature of the .iiij. element{is} declarynge many pro¦per poynt{is} of phylosophy naturall / and of dyuers straunge landys / and of dyuers straunge effect{is} & causis / whiche interlude yf y
+e
+ hole matter be 
+playd
+ wyl conteyne the space of an hour and a halfe / but yf ye lyst ye may leue out muche of the sad mater as the messengers {per}te / and some of naturys parte and some of experyens {per}te & yet the matter wyl de¦pend conuenyently / and than it wyll not be paste thre quarters of an hour of length.
+
+
+¶Here folow the namys of the pleyers.
+
+
+¶The messengere / Nature naturate / Humanyte Studyous desire / Sensuall appetyte / The tauer¦ner / Eyperyence / yngnoraunce / Also yf ye lyst ye may brynge in a dysgysynge.
+
+
+¶Here folow dyuers matters whiche be in this interlude conteynyd.
+
+
+¶Of the sytuacyon of the .iiij. element{is} that is to sey the yerth the water the ayre and fyre / & of theyr qualytese and propertese / and of the generacyon & corrupcyō of thyng{is} made of y
+e
+ cōmyxion of them
+
+
+¶Of c
+rt
+yn {con}clusions {pro}uynge y
+•
+ the yerth must 
+ roūde & y
+•
+ it h
+ngyth in y
+e
+ mydd{is} of the fyr 
+ y
+t
+ it is in circūferēce a boue .xxj.M. myle 
+ Of 
+ {con}clusions 
+ynge that the see lyeth 
+ vppon 
+.
+
+
+ 
+osmography / as how & 
+ / & of 
+yuers straūge 
+ 
+landys and whiche wey th
+y ly
+ 
+ and of 
+ n
+w founde landys and y
+e
+ maner of y
+e
+ people.
+
+
+ cause of stone & m
+tall 
+.
+
+
+¶
+ cause of well spryng{is} & 
+ of the cause o
+ hote fumys that come 
+ of y
+•
+ y
+rth / and of y
+e
+ cause of the bathys 
+ in the yerth whiche be {per}petually hote.
+
+
+¶Of th
+ cause of th
+ 
+bbe and flode of the see
+
+
+¶O
+ the cause of rayne snowe and hayle
+
+
+¶O
+ th
+ cause of the wynd
+s and thonder
+
+
+ Of th
+ cause of the lyghtnynge of blasyng ster∣
+ys and flamys fleynge in the ayre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¶ The messenger.
+
+
+THaboūdant grace of the power deuyne
+
+
+whiche doth illumyne y
+e
+ 
+world
+ inuyron
+
+
+P
+eserue this audyēce and cause them to inclyne
+
+
+To charyte this is my petycyon
+
+
+For by your pac
+ns and supportacyon
+
+
+A lytyll in
+erlude late made and preparyd
+
+
+Before your presence here shall be declaryd
+
+
+¶whiche of a f
+w conclusyons is contriuyd
+
+
+And poynt{is} of phylosophy naturall
+
+
+But though the matt
+r be not so well declaryd
+
+
+As a great clerke coude do nor so substancyall
+
+
+yet the auctour hereof requiryth you all
+
+
+Though he be yngnorant and ca
+ lytyll skyll
+
+
+To regarde his only intent and good wyll
+
+
+¶whiche in his mynde hath oft tymes ponderyd
+
+
+what nombre of bok{is} in our tonge maternall
+
+
+Of ioyes and tryfellys be made and impryntyd
+
+
+And few of th
+m of matter substancyall
+
+
+For though m
+y make bok{is} yet vnneth ye shall
+
+
+In our englyshe tonge fynde any wark{is}
+
+
+Of connynge that is regardyd by clerk{is}
+
+
+¶The grek
+ th
+ romayns with many other mo
+
+
+In their moder tonge wrot wark{is} excellent
+
+
+Than yf clerk{is} in this r
+alm
+ wolde take payn so
+
+
+Consyderyng that our tonge is now suffycyent
+
+
+o expoun any hard sentence euydent
+
+
+hey myght yf they wolde in our englyshe tonge
+
+
+ryt
+ workys of grauyte somtyme amonge
+
+
+¶For dyuers pr
+gnaunt wytt
+ 
+ this lande
+
+
+s well of noble men as of meane estate
+
+
+ 
+othynge but 
+nglyshe can vnderstand
+
+
+ yf connynge laten bokys were translate
+
+
+ englyshe w
+l corr
+t and app
+obate
+
+
+ in englyshe myght be l
+rnyd
+
+
+ oth
+r people in their owne tong{is} dyd
+
+
+But now so i
+ is that in our englyshe tonge
+
+
+ one th
+r
+ is that can but rede & wryte
+
+
+ wyll oft presume amonge
+
+
+ to compyle and balat{is} to indyte
+
+
+Some o
+ loue or other matter not worth a myte
+
+
+Some to opteyn fauour wyll flatter and glose
+
+
+Some wryte curyous term{is} nothyng to purpose
+
+
+¶Thus euery man after his fantesye
+
+
+wyll wryte his conseyte be it neuer so rude
+
+
+Be it vertuous vycyous wysedome or foly
+
+
+wherfore to my purpose thus I conclude
+
+
+why shold not th
+ the auctour of this interlude
+
+
+Utter his own
+ 
+antesy and conseyte also
+
+
+As well as dyuers other now a dayes do
+
+
+¶For wys
+dom
+ and foly is as it is takyn
+
+
+For y
+e
+ one callyth wysedome a nother callyth foly
+
+
+y
+t amonge moste folke that man is holdyn
+
+
+moste wyse / whiche to be ryche studyeth only
+
+
+But he that for a cōmyn welth bysyly
+
+
+Studyeth and laboryth and lyuyth by godd{is} law
+
+
+Except he wax ryche men count hym but a daw
+
+
+¶So he that is ryche is euer honouryd
+
+
+All though he haue got it neuer so falsely
+
+
+The pore beynge neuer so wyse is reprouyd
+
+
+This is the oppynyon moste cōmynly
+
+
+Thorowe out the worlde / and yet no reason why
+
+
+Therfore in my 
+mynd
+ whan that all suche dawis
+
+
+Haue babelyd what they cā no force of .ii. strawis
+
+
+¶For euery man in reason thus ought to do
+
+
+To labour for his owne necessary lyuynge
+
+
+And than for the welth of his neyghbour also
+
+
+But what dyuylish 
+mynd
+ haue they which musīg
+
+
+And labouryng all their lyff{is} do no nother thyng
+
+
+But brīge ryches to their owne possessyon
+
+
+Nothyng regardīge their neyghbours distrucciō
+
+
+¶yet all the ryches in the worlde that is
+
+
+ysyth of the grounde by goddys sendynge
+
+
+And by the labour of pore mennys handys
+
+
+And though thou rych
+ mā haue therof y
+e
+ kepynge
+
+
+y
+t is not this 
+yches of thy gettynge
+
+
+Nor oughtyst not in reason to be preysyd y
+e
+ more
+
+
+For by other mēnys labour it is got before
+
+
+¶A great wytted man may sone be enrychyd
+
+
+That laboryth and studyeth for ryches only
+
+
+But how shall his cōscyens than be discharged
+
+
+For all clerk{is} afferme that that man presysely
+
+
+whiche studyeth for his owne welth pryncypally
+
+
+Of god shall deserue but lytyll rewarde
+
+
+E
+cept he the cōmyn welth somwhat regarde
+
+
+¶So they s
+y that that man occupyed is
+
+
+For a cōmyn welth whiche is euer laborynge
+
+
+To rel
+ue pore people with temporall goodys
+
+
+And that it is a cōmyn good act to brynge
+
+
+People from vyce and to vse good lyuynge
+
+
+Lyke wyse for a cōmyn welth occupyed is he
+
+
+That bryngyth them to knowlege y
+e
+ yngnorāt be
+
+
+¶But man to knowe god is a dyffyculte
+
+
+Except by a meane he hym selfe inure
+
+
+whiche is to knowe godd{is} creaturys that be
+
+
+As furst them that be of the grosyst nature
+
+
+And than to know them that be more pure
+
+
+And so by lytyll and lytyll ascendynge
+
+
+To know godd{is} creaturys & meruelous werkīge
+
+
+¶And this wyse man at the last shall come to
+
+
+The knowlege of god and his hye mageste
+
+
+And so to lerne to do his dewte and also
+
+
+To deser
+e of his goodnes partener to be
+
+
+wherfore in this work d
+claryd shall ye see
+
+
+Furst of the element is the sytuacyon
+
+
+And of their effectis the caule and generacyon
+
+
+¶And though some mē thyn
+e this matter to hy
+
+
+And not mete for an audyence vnlernyd
+
+
+Me thynke for man nothynge more necessary
+
+
+Than this to know though it be not vsyd
+
+
+Nor a matter more lowe can not be arguyd
+
+
+For though the elementis goddys creaturis be
+
+
+yet they be most grose and lowyst in degre
+
+
+¶How dare men presume to be callyd clerk{is}
+
+
+Dysputynge of hye creaturis celestyall
+
+
+As thyngys inuysyble and godd{is} hye warkys
+
+
+And know not these vysyble thyngys inferyall
+
+
+So they wolde know hye thyng{is} & know nothīge at all
+
+
+Of the yerth here wheron they dayly be
+
+
+Nother the nature forme nor quantyte
+
+
+¶wherfore it semyth nothynge conuenyent
+
+
+A man to study and his tyme to be stowe
+
+
+Furst for the knowlege of hye thyng{is} excellent
+
+
+And of lyght matters beneth nothynge to know
+
+
+As of these .iiij. elementis here below
+
+
+whose effectis dayly appere here at eye
+
+
+Such thīg{is} to know furst / were most mete study
+
+
+¶whiche matter before your presence shortly
+
+
+In this interlude here shall be declaryd
+
+
+without great eloquence ī ryme rudely
+
+
+Because the compyler is but small lernyd
+
+
+This worke with rethoryk is not adournyd
+
+
+For perhappis in this matter muche eloquence
+
+
+Sholde make it tedyous or hurt the sentence
+
+
+¶But because some folke be lytyll disposyd
+
+
+To sadnes / but more to myrth and sport
+
+
+This phylosophycall work is myxyd
+
+
+with mery conseytis to gyue men cōfort
+
+
+And occasyon to cause them to resort
+
+
+To here this matter / wherto yf they take hede
+
+
+Some lernynge to them therof may {pro}cede
+
+
+¶But they that shall nowe this matter declare
+
+
+Openly here vnto this audyence
+
+
+Be holde I prey you see where they are
+
+
+The pleyers begyn to appere in presence
+
+
+I se well it is tyme for me to go hens
+
+
+And so I wyll do / therfore now shortly
+
+
+To god I cōmyt all this hole company
+
+
+
+
+¶Hic intrat natura naturata Huma∣nyte & Studyous desire portās figurā
+
+
+
+
+¶Natura Naturata
+
+
+THe hye myghty most excellent of all
+
+
+The foūtayn of goodnes verteu & cōnyng
+
+
+whiche is eterne of power most potencyall
+
+
+The {per}feccyon and furst cause of euery thynge
+
+
+I meane that only hye na
+tu
+e naturynge
+
+
+Lo he by his goodnes hath ordeynyd and create
+
+
+Me here his mynyster callyd nature naturate
+
+
+¶wherfore I am the verey naturate nature
+
+
+The inmedyate mynyster for the preseruacyon
+
+
+Of euery thynge in his kynde to endure
+
+
+And cause of generacyon and corrupcyon
+
+
+Of that thynge that is brought to distruccyon
+
+
+A nother thynge styll I brynge forth a gayne
+
+
+Thus wonders
+y I worke and neuer in vayne
+
+
+¶The great 
+wor
+d
+ be holde 
+o deuydyd wōdersly
+
+
+In to two regyons wherof on I call
+
+
+The etheriall region with the heuyns hye
+
+
+Conteynynge the planettys sterris & speris all
+
+
+The lower region callyd the elementall
+
+
+Conteynynge these .iiij. elementis be loo
+
+
+The fyre the ayre the water and yerth also
+
+
+¶But yet the elementis and other bodyes all
+
+
+Beneth / take theyr effectys and operacyons
+
+
+Of the bodyes in the region ethereall
+
+
+By theyr influens and constellacyons
+
+
+They cause here corrupcyons and generacyons
+
+
+For yf the mouyng
+ a boue sholde onys cease
+
+
+Beneth sholde be nother in
+r
+se nor decrese
+
+
+¶These elementis of them selfe so syngle be
+
+
+Unto dyuers formys can not be deuydyd
+
+
+yet they cōmyx to gyder dayly ye s
+e
+
+
+wherof dyuers kyndes of thyng{is} be ingenderyd
+
+
+whiche thyng{is} eftsonys whan they be corruptyd
+
+
+yche element I reduce to his 
+urst estate
+
+
+So that nothynge can be vtterly ad
+y
+helate
+
+
+¶For though the forme and facyon of any thyng
+
+
+That is a corporall body be distroyed
+
+
+yet euery matter remaynyth in his beynge
+
+
+wherof it was furst made and formyd
+
+
+For corrupcyon of a body cōmyxyd
+
+
+ys but the resolucyon by tyme and space
+
+
+Of euery element to his owne place
+
+
+¶For who that wyll take any body corporall
+
+
+And do what he can it to distroy
+
+
+To breke it or grynde it into 
+ouder small
+
+
+To washe to drown to bren it or to dry
+
+
+yet the ayre and fyre therof 
+aturally
+
+
+To their owne {pro}per places wyll ascende
+
+
+The water to the water the yerth to y
+e
+ yerth tende
+
+
+¶For yf hete or moysture of any thynge certayne
+
+
+By fyre or 
+e water 
+e cons
+yd
+
+
+yet yerth or asshes on yerth wyll remayne
+
+
+So the elementis can neuer be distroyed
+
+
+For essencyaliy ther is now at this tyde
+
+
+As muche fyre ayre water yerth as was
+
+
+Euer before this tyme nether more nor las
+
+
+¶wherfore thou man now I speke to the
+
+
+Remembre that thou art compound and create
+
+
+Of these elementis as other creaturis be
+
+
+yet they haue not all lyke noble estate
+
+
+For plantis and herbys growe and be insensate
+
+
+Brute bestis haue memory and their wytt{is} fyue
+
+
+But thou hast all those and soule intellectyue
+
+
+¶So by reason of thyne vnderstandynge
+
+
+Thou hast domynyon of other bestis all
+
+
+And naturally thou sholdyst desire cōnynge
+
+
+To knowe straunge effect{is} and causys naturall
+
+
+Fo
+ he that studyeth for the lyfe bestyall
+
+
+As voluptuous pleasure and bodely rest
+
+
+I account hym neuer better than a best
+
+
+
+
+
+
+¶Humanyte.
+
+
+¶O excellent prynce and great lorde nature
+
+
+I am thyne owne chylde and formyd instrument
+
+
+I beseche thy grace take me to thy cure
+
+
+And teche me suche scyens thou thikyst expedyēt
+
+
+
+
+
+
+¶Nature.
+
+
+¶Than syth thou art so humble and beneuolent
+
+
+That thynge that is mete for thy capasyte
+
+
+And good for thy knowlege I shall Instructe the
+
+
+¶Furst of all thou must consyder and see
+
+
+These elementis whiche do yche other penetrate
+
+
+And by contynuall alteracyon they be
+
+
+Of them selfe dayly corruptyd and generate
+
+
+The yerth as a poynt or center is sytuate
+
+
+In the mydd{is} of the worlde / with y
+e
+ water Ioyned
+
+
+with the ayre & fyre rounde & hole inuyronyd
+
+
+¶Th
+ yerth of it selfe is ponderous and heuy
+
+
+Colde and dry of his owne nature {pro}per
+
+
+Some parte lyeth dry contynually
+
+
+And parte therof coueryd ouer with water
+
+
+Som
+ with the salt see some with freshe ryuer
+
+
+whiche yerth and the water to gyder with all
+
+
+So Ioynyd make a rounde fygure sperycall
+
+
+¶So the water whiche is colde & moyst is foūde
+
+
+In and vppon the y
+rth fyllynge the hol
+nes
+
+
+In dyuers partis liynge with y
+e
+ yerth rounde
+
+
+yet th
+ hyllys and mount
+yns of y
+e
+ yerth excesse
+
+
+Take nothynge of hit a way the roundnes
+
+
+In comparyson bycause they be so small
+
+
+No more than the prikk{is} do that be on a gall
+
+
+¶The ayre whiche is hote and moyst also
+
+
+And the fyre which
+ is euer hote and dry
+
+
+A bout th
+ yerth and water Ioyntly they go
+
+
+And compasse them euery where orbycularly
+
+
+As the whyte a boute the yolke of an egg doth lye
+
+
+But the ayre in the lower parte moste remaynyth
+
+
+The fyre naturally to the hyer tendyth
+
+
+¶The eth
+ryall region whiche conteynyth
+
+
+The sterrys and planettys and 
+uery spere
+
+
+A bout the elementis dayly mouyth
+
+
+And coueryth them rounde a bout euery where
+
+
+Euery sterre and spere in straunge maner
+
+
+Uppon his owne poles mouy
+h-dyuersly
+
+
+whiche now to declare were to longe to tary
+
+
+¶The fyre and the ayre of their naturys be lyght
+
+
+Therfore they moue by naturall prouydence
+
+
+The water bycause it is ponderous in weyght
+
+
+Mouyth not naturally but by vyolence
+
+
+Of the st
+rris and plan
+tt{is} by whose influence
+
+
+The see is compellyd to ebbe and flowe dayly
+
+
+And freshe waters to sprynge contynually
+
+
+¶And though y
+t
+ the water be grose and heuy
+
+
+t nothynge so grose as the yerth I wys
+
+
+Therfore by hete it is vaporyd vp lyghtly
+
+
+And in the ayre makyth cloudys and myst{is}
+
+
+But as sone as euer that it grosely is
+
+
+Geder
+d to gyder / it descendyth a gayne
+
+
+And causyth vppon y
+e
+ yerth hayle snow & rayne
+
+
+¶The yerth because of his ponderosyte
+
+
+A voydyth equally the mouyng{is} great
+
+
+Of all extremytes and sperys that be
+
+
+And 
+endyth to the place that is most quiet
+
+
+So in the myddys of all the sperys is set
+
+
+Fo
+mast abie
+t from all maner mouynge
+
+
+where naturally he restyth & mouyth nothynge
+
+
+¶Marke well now how I haue the shewyd & told
+
+
+Of euery element the very sytuacyon
+
+
+And qualyte
+ wherfor
+ this fygure b
+holde
+
+
+For a more manyfest demonstracyon
+
+
+And by cause thou sholdyst not put to oblyu
+on
+
+
+My doctryne / this man callyd studyous desire
+
+
+with the shall haue con
+ynuall habytacyon
+
+
+The styll to exhort more scyens to adquire
+
+
+¶For y
+e
+ more y
+t
+ thou desyrest to know any thynge
+
+
+Therin thou semyst th
+ more a man to be
+
+
+For that man that desir
+th no maner cōnynge
+
+
+All that wyle no better than a b
+st is he
+
+
+why ben the ey
+s made but only to see
+
+
+The leggys to bere the body of a creatur
+
+
+So 
+uery thynge is made to do his nature
+
+
+¶So lyke wyse reason wit and vnderstondyng
+
+
+ys gyu
+n to the man for that thou sholdyst ī dede
+
+
+Knowe thy maker & cause of thyne owne beyng
+
+
+And what y
+e
+ worlde is & wherof thou doest {pro}cede
+
+
+wherfore it be houyth the of verey nede
+
+
+The cause of thyng{is} 
+urst for to lerne
+
+
+And than to know
+ & laude the hye god eterne
+
+
+
+
+
+
+¶Humanyte.
+
+
+¶O gloryous lorde and prynce moste plesant
+
+
+Greatly am I now hold
+n vnto the
+
+
+So to illumyne my 
+mynd
+ that was yngnorant
+
+
+with such noble doctryne as thou hast here shewed me
+
+
+wherfore I promyse vppon my fydelyte
+
+
+My dylygence to do to kepe in memory
+
+
+And the for to honour styll {per}petually
+
+
+
+
+
+
+¶Studyous desire
+
+
+¶And syth it hath pleasyd thy grace to admyt
+
+
+Me vppon this man to gyue attendaunce
+
+
+with thy doctryne here shewyd I shall q
+i
+kkyn his wyt
+
+
+And dayly put hym in remembraunce
+
+
+His courage and desyre I shall also inhaunce
+
+
+So that his f
+lycyte shall be most of all
+
+
+To study and to serche for causys naturall
+
+
+
+
+
+
+¶Nat
+e.
+
+
+¶well than for a seas
+n I wyll departe
+
+
+Leuynge you to gyder here both twayne
+
+
+what I haue shewid man prynt well in thyne hert
+
+
+And marke well this fygure y
+t
+ here shall r
+mayne
+
+
+wherby thou maist perceyue many thynges more playn
+
+
+ncernynge y
+e
+ matter I spake of befor
+
+
+nd whan that I shall resort here a gayne
+
+
+Of hye poynt{is} of cōnynge I shall shew y
+e
+ more
+
+
+
+
+
+
+¶Studyous desire.
+
+
+¶Now humanyte call to your memory
+
+
+The cōnynge poynt{is} that nature hath declaryd
+
+
+And though he haue shewed dyuers poit{is} & many
+
+
+Of the el
+mentis so wondersly formed
+
+
+yet many other causys there are wolde be lernyd
+
+
+As to knowe the generacyon of thyng{is} all
+
+
+Here in the yerth / how they be ingendryd
+
+
+As herbys plantys well spryng{is} ston and me
+all
+
+
+
+
+
+
+¶Humany
+t.
+
+
+¶Those thyng{is} to knowe for me be full expediēt
+
+
+But yet ī those poynt{is} whiche nature late shewyd me
+
+
+My mynde in them as yet is not cōtent
+
+
+For I can no maner wyse parceyue nor see
+
+
+Nor proue by reason why the yerth sholde be
+
+
+In the mydd{is} of y
+e
+ fyrmament hengyng so small
+
+
+And the yerth with the water to be roūde with all
+
+
+
+
+
+
+¶Studyo
+s desire.
+
+
+¶Me thynkyth my selfe as to some of those poīt{is}
+
+
+I coude gyue a suffycyent solucyon
+
+
+For furst of all thou must nedys graunt this
+
+
+That the yerth is so depe and botom hath non
+
+
+Or els there is some grose thyng hit stōdyth vpon
+
+
+Or els that it hangyth thou must ned{is} consent
+
+
+Euyn in the mydd{is} of the fyrmament
+
+
+
+
+
+
+¶Humanyte.
+
+
+¶what than go forth with thyne argument
+
+
+
+
+
+
+¶Studyous desire.
+
+
+¶Thā marke well in y
+•
+ day or in a wynters nyght
+
+
+The sone and mone and sterris celestyall
+
+
+In the est furst they do apere to thy syght
+
+
+ after in the west they do downe fall
+
+
+ agayne in the morowe next of all
+
+
+ .xxiiij. houres they be come Iust
+
+
+To
+ est poīt{is} again where thou sawist them fur
+
+
+¶T
+an yf the erthe shulde be of endles de
+nes
+
+
+Or shulde stande vpon any other grose th
+g
+
+
+It shulde be an impedyment dowtles
+
+
+To the sone mone and sterris in theyr mouynge
+
+
+They shulde not so in the est agayne sprynge
+
+
+Therfore in reason it semyth moste conuenyent
+
+
+The yerth to hange in y
+e
+ mydd{is} of the fyrmamēt
+
+
+
+
+
+
+Humanyte.
+
+
+¶Thyne argument in y
+e
+ poynt doth me cōfoūde
+
+
+That thou hast made but yet it {pro}uytht not ryght
+
+
+That the yerth by reason shulde be rounde
+
+
+For though y
+e
+ fyrmament with his sterris bryght
+
+
+Compas aboute the yerth eche day and nyght
+
+
+yet the yerthe may be playne {per}aduentnre
+
+
+Quadrant triangle or some other fygure
+
+
+
+
+
+
+Studyouse desyre.
+
+
+¶That it can not be playne I shall well {pro}ue the
+
+
+Be cause the sterris that a ryse in the oryent
+
+
+Appere more soner to them that there be
+
+
+Than to the other dwellynge in the occident
+
+
+The eclypse is therof a playne experymente
+
+
+Of the sone or mone which whane it dothe f
+
+
+Is neuer one tyme of the day in placys all
+
+
+¶yet the eclyps generally is alwaye
+
+
+In the hole worlde as one tyme beynge
+
+
+But whan we that dwell here see it in y
+e
+ mydday
+
+
+They in the west partis see it in the mornynge
+
+
+And they in the est beholde it in the euenyng
+
+
+And why that sholde so be no cause can be found
+
+
+But onely by reason that the yerthe is rownde
+
+
+
+
+
+
+¶Humanyte.
+
+
+That reason proueth the yerth at the lest
+
+
+One wayes to be rownde I cannot gayne say
+
+
+As for to accompt frome the est to the west
+
+
+But yet not withstondynge all that it may
+
+
+Lese hys rowndenesse by some other waye
+
+
+
+
+
+
+¶Studyous desyre.
+
+
+Na no dowte yt is rownde euery where
+
+
+which I coulde proue thou shoudest not say nay
+
+
+yf I had therto any tyme and leser
+
+
+But I knowe a man callyd experyens
+
+
+Of dyuers instrumentys is neuer without
+
+
+Cowde proue all these poyntys & yet by his scyē
+
+
+Can tell how many myle the erthe is a bowte
+
+
+ many other straūge cōclusiōs no dowte
+
+
+ys instrumentys cowde shew thē so certayn
+
+
+at euery rude carter shold them {per}sayue playn
+
+
+
+
+
+
+¶Humanyte.
+
+
+Now wolde to god I had y
+t
+ man now here
+
+
+For the contembtacyon of my mynde
+
+
+
+
+
+
+¶Studyous desyre.
+
+
+¶yf ye wyll I shall for hym enquere
+
+
+And brynge hym heder yf I can hym fynde
+
+
+
+
+
+
+¶Humanyte.
+
+
+Then myght I say ye were to me ryght kynde
+
+
+
+
+
+
+¶Studyous desyre.
+
+
+I shall assay by god that me dere bought
+
+
+For cunnyng is the thynge y
+t
+ wolde be sought
+
+
+
+
+
+
+¶Sensuall apetyte.
+
+
+well hyet quod hykman when y
+t
+ he smot
+
+
+Hys wyffe on the buttock{is} with a bere pott
+
+
+Aha now god euyn fole god euyn
+
+
+It is euen the knaue that I mene
+
+
+Hast thou done thy babelyng
+
+
+
+
+
+
+¶Studyous desyre.
+
+
+¶ye peraduenture what than
+
+
+
+
+
+
+¶Sensnall apetyte.
+
+
+Thā hold downe thy hede lyke a prety mā & take my blyssyng
+
+
+Benedicite / I graūt to the / this {per}do
+
+
+And gyue the absolucion
+
+
+For thy soth saws / stande vp Iack daw
+
+
+I be shrew thy faders sone
+
+
+¶Make rome syrs and let vs be mery
+
+
+with huffa galand synge tyrll on the bery,
+
+
+And let the wyde worlde wynde
+
+
+Synge fryska Ioly with hey trolyloly
+
+
+For I se well it is but a foly
+
+
+For to haue a sad mynd
+
+
+¶For rather than I wolde vse suche foly
+
+
+To pray to study or be pope holy
+
+
+I had as lyf be ded
+
+
+By goggys body I tell you trew
+
+
+I speke as I thynke now els I be shrew
+
+
+Euyn my next felowes hed
+
+
+¶Master humanyte syr be your leue
+
+
+I were ryght loth you to greue
+
+
+Though I do hym dyspyse
+
+
+For yf ye knewe hym as well as I
+
+
+ye wolde not vse his company
+
+
+Nor loue hym in no wyse
+
+
+
+
+
+
+Hu.
+
+
+¶Syr he loketh lyke an honest man
+
+
+Therfore I merueyll that ye can
+
+
+This wyse hym depraue.
+
+
+
+
+
+
+Sen.
+
+
+¶Though he loke neuer so well
+
+
+I promyse you he hath a shrewde sme
+
+
+
+
+
+
+u.
+
+
+¶why so I prey you tell
+
+
+
+
+
+
+en.
+
+
+¶For he saueryth syke a knaue
+
+
+
+
+
+
+St.
+
+
+¶Holde your pease syr ye mys take me
+
+
+what I trowe that ye wolde make me
+
+
+Lyke to one of your kyn
+
+
+
+
+
+
+Sen.
+
+
+¶Harke syrs here ye not how boldly
+
+
+He callyth me knaue agayne by polycy
+
+
+The deuyll pull of his skyn
+
+
+I wolde he were hangyd by the thro
+
+
+For by the messe I loue hym not
+
+
+we two can neuer a gre
+
+
+I am content syr with you to tary
+
+
+And I am for you so necessary
+
+
+ye can not lyue without me
+
+
+
+
+
+
+Hu.
+
+
+why syr I say what man be ye
+
+
+
+
+
+
+Sen.
+
+
+I am callyd sensuall apetyte
+
+
+All craturs in me delyte
+
+
+I comforte the wyttys fyue
+
+
+The 
+astyng smellyng & herynge
+
+
+I refresh the syght and felynge
+
+
+To all creaturs a lyue
+
+
+For whan the body wexith hongry
+
+
+For lacke of fode or ellys thursty
+
+
+Than with drynkes plesaund
+
+
+I restore hym out of payne
+
+
+And oft refresshe nature agayne
+
+
+with delycate vyand
+
+
+with plesaunde sound of armonye
+
+
+The herynge alwaye I satysfy
+
+
+I dare this well reporte
+
+
+The smellynge with swete odovr
+
+
+And the syght with plesaunte fygovr
+
+
+And colours I comforte
+
+
+The felynge that is so plesaunte
+
+
+Of euery member fote or hande
+
+
+what pleasure therin can be
+
+
+By the towchynge of so
+t & harde
+
+
+Of hote or colde nought in regarde
+
+
+Excepte it come by me
+
+
+
+
+
+
+Hu.
+
+
+Than I cannot see the contrary
+
+
+But ye are for me full necessary
+
+
+And ryght conuenyent.
+
+
+
+
+
+
+Stu.
+
+
+ye syr beware yet what ye do
+
+
+For yf you forsake my company so
+
+
+Lorde nature wyll not be contente.
+
+
+Of hym ye shall neuer lerne good thyng
+
+
+Nother vertu nor no other cōnynge
+
+
+This dare I well say
+
+
+
+
+
+
+Sen.
+
+
+Mary auaunt knaue I the defye
+
+
+Dyde nature for byde hym my cōpany
+
+
+what sayst thou therto speke openly
+
+
+
+
+
+
+Hu.
+
+
+As for that I know well nay
+
+
+
+
+
+
+Sen.
+
+
+No by god I am ryght sure
+
+
+For he knoweth well no creature
+
+
+without me can lyue one day
+
+
+
+
+
+
+Hu.
+
+
+Syr I pray you be contente
+
+
+It is not vtterly myne intente
+
+
+your company to exyle
+
+
+But onely to haue cōmunycacyon
+
+
+And a pastyme of recreacyon
+
+
+with this man for a whyle
+
+
+
+
+
+
+Stu.
+
+
+well for your pleasure I wyll departe
+
+
+
+
+
+
+Sen.
+
+
+Now go knaue go I beshrew thy hart
+
+
+The deuyll sende the forwarde
+
+
+
+
+
+
+Sen.
+
+
+Now by my trouth I meruell gretly
+
+
+That euer ye wolde vse the company
+
+
+So myche of suche a knaue
+
+
+For yf ye do no nother thynge
+
+
+But euer study and to be musynge
+
+
+As he wolde haue you it wyll you brynge
+
+
+At the last vnto your graue
+
+
+¶ye shulde euer study pryncypall
+
+
+For to comfort your lyfe naturall
+
+
+with metis and drynkes dilycate
+
+
+And other pastymes & pleasures a monge
+
+
+Daūsynge laughynge or plesaunt songe
+
+
+This is mete for your estate
+
+
+
+
+
+
+Hu.
+
+
+¶Be cause ye sey so I you {pro}myse
+
+
+That I haue musyd & studyed such wyse
+
+
+Me thynketh my wyttes wery
+
+
+My nature desyreth some refresshynge
+
+
+And also I haue ben so longe fastynge
+
+
+That I am somwhat hongry
+
+
+
+
+
+
+Sen.
+
+
+¶well than wyll ye go with me
+
+
+To a tauerne where ye shall se
+
+
+Good pastaunce & at your lyberte
+
+
+Haue what so euer ye wyll
+
+
+
+
+
+
+Hu.
+
+
+¶I am content so for to do
+
+
+yf that ye wyll not fro me go
+
+
+But kepe me company styll
+
+
+
+
+
+
+Sen.
+
+
+¶Cōpany 
+qd
+ a / ye y
+t
+ I shall poynt deuyse
+
+
+And also do you good and trew seruyce
+
+
+And therto I plyght my trouthe
+
+
+And yf that I euer forsake you
+
+
+I pray god the deuyl take you
+
+
+
+
+
+
+Hu.
+
+
+¶Mary I thanke you for that othe
+
+
+
+
+
+
+Sen.
+
+
+¶A myschyfe on it my tonge loo
+
+
+wyll tryp somtyme what so euer I do
+
+
+But ye wot what I mene well
+
+
+
+
+
+
+Hu.
+
+
+¶ye no force let this matter passe
+
+
+But seydest euī now thou knewyst where was
+
+
+A good tauerne to make solas
+
+
+where is that I prey the tell
+
+
+
+
+
+
+Sen.
+
+
+¶Mary at the dore euyn here by
+
+
+yf we call any th
+nge on hye
+
+
+The tauerner wyll answere
+
+
+
+
+
+
+Hu.
+
+
+¶I prey the than call for hym nowe
+
+
+
+
+
+
+Sen.
+
+
+¶Mary I wyll / How tauerner how
+
+
+why doste thou not appere
+
+
+
+
+
+
+Tauer¦ner.
+
+
+¶who is that calleth so hastely
+
+
+I shrew thyne hert speke softely
+
+
+I tell the I am not here
+
+
+
+
+
+
+Sen.
+
+
+¶Than I be shrew y
+e
+ page of thyne age
+
+
+Come hyther knaue for thyne auauntage
+
+
+why makyst thou hit so tow
+
+
+
+
+
+
+Ta.
+
+
+¶For myne auaūtage mary thā I come
+
+
+Beware syrs how let me haue rome
+
+
+Lo here I am what seyst thou
+
+
+
+
+
+
+
+
+Sen.
+
+
+Mary thus here is a gentylman I say
+
+
+That nother ete nor dranke this day
+
+
+Therfor 
+ell me I the praye
+
+
+yf thou haue any good wyne
+
+
+
+
+
+
+Ta.
+
+
+ye shall haue spayneshe wyne & gascoyn
+
+
+Rose coloure whyt claretrampyon
+
+
+Tyre capryck and maluesyne
+
+
+Sak raspyce alycaunt rumney
+
+
+Greke ipocrase new made clary
+
+
+Suche as ye neuer had
+
+
+For yf ye drynke a draught or too
+
+
+yt wyll make you or ye thens go
+
+
+By gogg{is} body starke madde
+
+
+
+
+
+
+Sen.
+
+
+I wot thou art not without good wyne
+
+
+But here is a gentylmā hath lyst to dyne
+
+
+Canst thou get hym any good mete
+
+
+
+
+
+
+Ta.
+
+
+what mete mayster wolde ye haue
+
+
+
+
+
+
+Hu.
+
+
+I care not so god me saue
+
+
+So that it be holsome to ete
+
+
+I wolde we had a good stewyd capon
+
+
+
+
+
+
+Sen.
+
+
+As for capons ye can gette none
+
+
+The kyngys taker toke vp eche one
+
+
+I wot well there is none to get
+
+
+
+
+
+
+
+
+Ta.
+
+
+Though all capons be gone what than
+
+
+yet I can get you a stewed hen
+
+
+That is redy dyght.
+
+
+
+
+
+
+Hu.
+
+
+yf she be fat yt wyll do well
+
+
+
+
+
+
+Ta.
+
+
+Fat or lene I cannot tell
+
+
+But as for this I wot well
+
+
+She lay at the stewes all nyght.
+
+
+
+
+
+
+Hu.
+
+
+Thou art a mad gest be this lyght.
+
+
+
+
+
+
+Sen.
+
+
+ye syr it is a felow that neuer faylys
+
+
+But cāst get my mayster a dyshe of qua∣les
+
+
+smal byrdes swalowes or wagtayl{is}
+
+
+They be lyght of dygestyon.
+
+
+
+
+
+
+Ta.
+
+
+Lyght of dysgestyon for what reason
+
+
+
+
+
+
+Sen.
+
+
+For physyk puttyth this reason therto
+
+
+Bycause those byrdes fle to & fro
+
+
+And be contynuall mouynge
+
+
+
+
+
+
+Ta.
+
+
+Then know I a lyghter mete than y
+•
+
+
+
+
+
+
+Hu.
+
+
+I pray the tell me what
+
+
+
+
+
+
+Ta.
+
+
+yf ye wyll nedys know at short & longe
+
+
+It is euyn a womans tounge
+
+
+For that is euer sterynge
+
+
+
+
+
+
+Hu.
+
+
+Syr I pray the let suche fanteses be
+
+
+And come heder nere & harke to me
+
+
+And do after my byddynge.
+
+
+Goo p
+ruey vs a dyner euyn of the mos
+
+
+Of all maner dysshes both sod and roste
+
+
+That thou canst get spare for no coste
+
+
+yf thou make thre course
+
+
+
+
+
+
+Ta.
+
+
+¶Tha
+ ye get nother gose nor swane
+
+
+But a dyshe of dreggys a dyshe of bra
+e
+
+
+A dysshe of draffe and I trowe than
+
+
+ye can not get thre worse
+
+
+
+
+
+
+Hu.
+
+
+¶what horson woldyst thou puruey
+
+
+Bran draffe & stynkynge dregg{is} I sey
+
+
+I holde the mad I trowe
+
+
+
+
+
+
+Ta.
+
+
+¶Gogges passyon sayd ye not thus
+
+
+That I shulde puruey you thre course dysshe
+
+
+And these be course Inowe
+
+
+
+
+
+
+Hu.
+
+
+¶Thre course dysshes 
+qd
+ a
+
+
+what mad 
+ole thou mys takest me clene
+
+
+I se well thou wotest not what I mene
+
+
+And vnderstandyst a mys
+
+
+I mene this wyse I wolde haue the
+
+
+To puruey mete so great plente
+
+
+That thou sholdyst of necessyte
+
+
+Serue them at thre coursys
+
+
+¶That is to vnderstande at one 
+rde
+
+
+Thou shuldest brynge them vnto y
+•
+ 
+or
+
+
+At thre seuerall tymes
+
+
+
+
+
+
+Ta.
+
+
+¶what than I se well ye wyll make a fes
+e
+
+
+
+
+
+
+u.
+
+
+¶ye by the rode euyn with the gretest
+
+
+
+
+
+
+Sen.
+
+
+¶By my trouth than do ye best
+
+
+Euyn after my mynde
+
+
+But ye must haue more company.
+
+
+
+
+
+
+Hu.
+
+
+¶That is trewe and so wolde I gladl
+
+
+If I knewe any to fynde
+
+
+
+
+
+
+Sen.
+
+
+¶why wyll ye folowe my counsell
+
+
+
+
+
+
+Hu.
+
+
+¶ye
+
+
+
+
+
+
+Sen.
+
+
+¶Than we wyll haue lytell nell
+
+
+A {pro}per wenche she daunsith well
+
+
+And Iane with the blacke lace
+
+
+we wyll haue bounsynge besse also
+
+
+And two or thre proper wenchis mo
+
+
+Ryght feyr and smotter of face
+
+
+
+
+
+
+Hu.
+
+
+¶Now be it so thou art saunce pere
+
+
+
+
+
+
+Ta.
+
+
+¶Thā I {per}ceyue ye wyll make gode chere
+
+
+
+
+
+
+Hu.
+
+
+¶why what shulde I els do
+
+
+
+
+
+
+Ta.
+
+
+¶If ye thynke so best than wyll I
+
+
+Go before and make all thynge redy
+
+
+Agayne ye come therto
+
+
+
+
+
+
+Hu.
+
+
+¶Mary I prey the do so
+
+
+
+
+
+
+Ta.
+
+
+¶Than farewell syrs for I am gone
+
+
+
+
+
+
+
+
+¶Hu.
+
+
+And we shall folow the anon
+
+
+without any taryyng
+
+
+
+
+
+
+Sen.
+
+
+Then it is best syr ye make hast
+
+
+For ye shall spende here but tyme ī wast
+
+
+And do no nother thynge
+
+
+
+
+
+
+Hu.
+
+
+¶yf ye wyll let vs goo by and by
+
+
+
+
+
+
+Sen.
+
+
+I pray you be it for I am redy
+
+
+No man better wyllynge
+
+
+Ex
+a
+ Sen. & Hu.
+
+
+Intrat 
+Ex{per}ies.
+ & Stu.
+
+
+¶Now cosyn experyens as I may say ye are ryght welcom to this contrey without any faynyng.
+
+
+
+
+
+
+Ex{per}iēs
+
+
+Syr I thanke you therof hertely
+
+
+And I am as glad of your company
+
+
+As any man lyuynge.
+
+
+
+
+
+
+Stu.
+
+
+Syr I vnderstonde that ye haue be
+
+
+In many a stra
+nge countree
+
+
+And haue had grete fylycyte
+
+
+Straunge causes to seke and fynde
+
+
+
+
+
+
+E
+.
+
+
+Ryght farr syr I haue rydden & gone
+
+
+And seen straunge thynges many one
+
+
+In affryk / europe and ynde
+
+
+Bothe est & west I haue ben farr̄
+
+
+North also and seen the sowth sterr̄
+
+
+Bothe by see and lande
+
+
+And ben in sondry nacyons
+
+
+with peple of dyuers condycyons
+
+
+
+
+
+
+Stu.
+
+
+Maruelous to vnderstonde.
+
+
+Syr yf a man haue suche corage
+
+
+Or deuocyon in pylgrymage
+
+
+Iheruzalem vnto
+
+
+For to accompt the nexte way
+
+
+How many myle is it I you pray
+
+
+
+
+
+
+Ex.
+
+
+From hens theder to goo
+
+
+Syr as for all suche questyons
+
+
+Of townes to know the sytuacyon
+
+
+How ferr̄ they be a sunder
+
+
+And other poyntes of cosmogryfy
+
+
+ye shall neuer lerne then more surely
+
+
+Then by that fugure yonder
+
+
+For who that fygure dyd fyrst deuyse
+
+
+It semeth well he was wyse
+
+
+And perfyte in this s
+yens
+
+
+For bothe these and lande also
+
+
+Lye trew and iust as they sholde do
+
+
+I know by experyens.
+
+
+
+
+
+
+Stu.
+
+
+who thynke you brought here this fygure
+
+
+
+
+
+
+Ex.
+
+
+¶I wot not
+
+
+
+
+
+
+
+
+Stu
+
+
+¶Certes lorde nature
+
+
+Hym selfe not longe a gone
+
+
+¶whiche was here personally
+
+
+Declarynge hye phylosophy
+
+
+And lafte this fygure purposely
+
+
+For humanytes instruccyon
+
+
+
+
+
+
+Ex.
+
+
+¶Dowtles ryght nobly done
+
+
+
+
+
+
+Stu.
+
+
+Syr this realme ye knou is callid ēglāde
+
+
+Somtyme brettayne I vnderstonde
+
+
+Therfore I prey you poīt with your hāde
+
+
+In what place it shulde lye.
+
+
+
+
+
+
+Ex.
+
+
+¶Syr this ys ynglande lyenge here
+
+
+And this is skotlāde y
+t
+ Ioyneth hym nere
+
+
+Compassyd a boute euery where
+
+
+with the occian see rownde
+
+
+¶And next from them westwardly
+
+
+Here by hym selfe alone doth ly
+
+
+Irelande that holsome grounde
+
+
+¶Here than is the narowe seey
+
+
+To Calyce and Boleyne the next wey
+
+
+And flaunders in this {per}te
+
+
+Here lyeth fraunce next hym ioynynge
+
+
+And spayn̄ southwarde frō thēs stādynge
+
+
+And portyngale in this quart
+
+
+This contrey is callyd Italye
+
+
+Beholde where Rome in y
+e
+ mydd{is} doth ly
+
+
+And Naples here be yonde
+
+
+And this lytell See that here is
+
+
+Is callyd the Gulfe of Uenys
+
+
+And here venys doth stande
+
+
+¶As for almayne lyeth this way
+
+
+Here lyeth denmarke and norway
+
+
+And northwarde on this syde
+
+
+There lyeth Iselonde where mē do fyshe
+
+
+But be yonde that so colde it is
+
+
+No man may there abyde
+
+
+¶This See is called the great Occyan
+
+
+So great it is that neuer man
+
+
+Coude tell it sith the worlde began
+
+
+Tyll nowe within this .xx. yere
+
+
+westwarde be founde new landes
+
+
+That we neuer harde tell of before this
+
+
+By wrytynge nor other meanys
+
+
+yet many nowe haue ben there
+
+
+¶And that contrey is so large of rome
+
+
+Muche lenger than all cristendome
+
+
+without fable or gyle
+
+
+For dyuers maryners haue it tryed
+
+
+And sayled streyght by the coste syde
+
+
+Aboue .v. thousand myle
+
+
+¶But what cōmodytes be within
+
+
+No man can tell nor well Imagin
+
+
+But yet not longe a go
+
+
+Some men of this coutrey went
+
+
+By the kynges noble consent
+
+
+It for to serche to that entent
+
+
+And coude not be brought therto
+
+
+¶But they that were they venteres
+
+
+Haue cause to curse their maryners
+
+
+Fals of promys and dissemblers
+
+
+That falsly them be trayed
+
+
+whiche 
+wold
+ take no paine to saile farther
+
+
+Than their owne lyst and pleasure
+
+
+wherfore that vyage and dyuers other
+
+
+Suche kaytyffes haue distroyed
+
+
+¶O what a thynge had be than
+
+
+yf that they that be englyshe men
+
+
+Myght haue ben the furst of all
+
+
+That there shulde haue take possessyon
+
+
+And made furst buyldynge & habytacion
+
+
+A memory perpetuall
+
+
+And also what an honorable thynge
+
+
+Bothe to the realme and to the kynge
+
+
+To haue had his domynyon extendyng
+
+
+There into so farre a grounde
+
+
+whiche the noble kynge of late memory
+
+
+The moste wyse prynce the .vij. Herry
+
+
+Causyd furst for to be founde
+
+
+¶And what a great meritoryouse dede
+
+
+It were to haue the people instructed
+
+
+To lyue more vertuously
+
+
+And to lerne to knowe of men the maner
+
+
+And also to knowe god theyr maker
+
+
+whiche as yet lyue all bestly
+
+
+For they nother knowe god nor the deuell
+
+
+Nor neuer harde tell of heuyn nor hell
+
+
+wrytynge nor other scripture
+
+
+But yet in the stede of god almyght
+
+
+The honour the sone for his great lygg
+
+
+For that doth them great pleasure
+
+
+¶Buyldynge nor house they haue nō at all
+
+
+But wodes / cot{is} / and cauys small
+
+
+No merueyle though it be so
+
+
+For they vse no maner of yron
+
+
+Nother in tole nor other wepon
+
+
+That shulde helpe them therto
+
+
+¶Copper they haue whiche is founde
+
+
+In dyuers places aboue the grounde
+
+
+yet they dyg not therfore
+
+
+For as I sayd they haue non yryn
+
+
+wherby they shuld in the yerth myne
+
+
+To serche for any wore
+
+
+¶Great haboundauace of wodd{is} ther be
+
+
+Moste parte vyr and pyne aple tre
+
+
+Great ryches myght come therby
+
+
+Both pyche and tarre and sope asshys
+
+
+As they make in the eest landes
+
+
+By brynnynge therof only
+
+
+¶Fyshe they haue so great plente
+
+
+That in hauyns take and slayne they be
+
+
+with stauys withouten fayle
+
+
+Nowe frenchemen & other haue foūde the trade
+
+
+That yerely of fyshe there they 
+lad
+
+
+A boue an .C. sayle
+
+
+¶But in the south parte of that contrey
+
+
+The people there go nakyd alway
+
+
+The lande is of so great he
+e
+
+
+And in the north parte all the clothes
+
+
+That they were / is but best{is} skynnes
+
+
+They haue no nother fete
+
+
+But howe the people furst began
+
+
+In that contrey or whens they cam
+
+
+For clerkes it is a questyon
+
+
+Other thynges mo I haue in store
+
+
+That I coude tel therof but now no more
+
+
+Tyll a nother season
+
+
+
+
+
+
+Stu.
+
+
+¶Thā at your pleasure shew some other thīge
+
+
+y
+ lyketh me so wel your cōmynīge
+
+
+ye can not talke a mys
+
+
+
+
+
+
+Ex.
+
+
+¶Thā wyl I torne a gayne to my matter
+
+
+Of Cosmogryfy where I was err̄
+
+
+Beholde take hede to this
+
+
+¶Loo estwarde beyonde y
+e
+ great occyan
+
+
+Here entereth the see callyd mediterran
+
+
+Of .ij.M. myle of lengthe
+
+
+The Soudans contrey lyeth here by
+
+
+The great Turke on y
+e
+ north syde doth ly
+
+
+A man of merueylous strengthe
+
+
+¶This sayde north {per}te is callyd europa
+
+
+And this south {per}te callyd affrica
+
+
+This eest {per}te is callyd ynde
+
+
+But this newe land{is} founde lately
+
+
+Ben callyd america by cause only
+
+
+Americus dyd furst them fynde
+
+
+¶Loo Ihrfin lyeth in this contrey
+
+
+And this be yonde is the red see
+
+
+That moyses maketh of mencyon
+
+
+This quarter is India minor
+
+
+And this quarter India maior
+
+
+The lande of prester Iohn̄
+
+
+¶But northwarde this way as ye se
+
+
+Many other straunge regions ther be
+
+
+And people that we not knowe
+
+
+But estwarde on the see syde
+
+
+A prynce there is that rulyth wyde
+
+
+Callyd the Cane of catowe
+
+
+¶And this is called the great eest see
+
+
+whiche goth all a longe this wey
+
+
+Towardes the newe landis agayne
+
+
+But whether that see go thyther dyrectly
+
+
+Or if any wyldernes bytwene them do ly
+
+
+No man knoweth for certeyne
+
+
+But these 
+ewe land{is} by all cosmografye
+
+
+Frome the cane of catous lande cā not lye
+
+
+Lytell paste a thousande myle
+
+
+But from those new land{is} mē ma
+ 
+ayle playne
+
+
+Estwarde & cū to englāde agaīe
+
+
+where we began ere whyle
+
+
+¶Lo all this part
+ of the yerth whiche I
+
+
+Haue here discryuyd openly
+
+
+The north parte we do it call
+
+
+But the south {per}te on the other syde
+
+
+ys as large as this full and as wyde
+
+
+whiche we knowe nothynge at all
+
+
+¶Nor whether y
+•
+ moste {per}te be lande or see
+
+
+Nor whether 
+he people that there be
+
+
+Be besty
+l or connynge
+
+
+Nor wh
+th
+r th
+y knowe god or no
+
+
+No
+ 
+ow
+ th
+y beleue nor what they do
+
+
+Of this we knowe no
+hynge
+
+
+Lo is not this a thynge wooderfull
+
+
+How that
+
+
+
+
+¶Et subito studyouse desire dicat.
+
+
+
+
+Stu.
+
+
+¶Pese syr no more of this matter
+
+
+Beholde where humanyte cōmeth here
+
+
+
+
+
+
+Sen.
+
+
+¶How sey you maister humanyte
+
+
+I prey you haue ye not be mere
+
+
+And had good recreacyon
+
+
+
+
+
+
+Hu
+
+
+¶yes I thanke the therof euery dell
+
+
+For we haue faryd meruelously well
+
+
+And had good cōmunycacyon
+
+
+
+
+
+
+Ta.
+
+
+¶what how maister where be ye now
+
+
+
+
+
+
+Sen.
+
+
+¶what I shrewe the what haste hast thou
+
+
+That thou spekyst so hye
+
+
+
+
+
+
+Ta.
+
+
+¶So hye 
+qd
+ a I trow ye be mad by saynt gyle
+
+
+For dyd ye not ere whyle
+
+
+Make poyntment openly
+
+
+To come agayne all to supper
+
+
+There as ye were to day at dyner
+
+
+And yet ye poynted not playne
+
+
+what mete that ye wyll haue drest
+
+
+Nor what delycat{is} ye loue best
+
+
+M
+ thynke you farre ouer sayne
+
+
+
+
+
+
+Hus
+
+
+¶As for myne owne {per}te I care not
+
+
+Dress
+ what mete thou louest spare not
+
+
+what so euer thou doest best thynke
+
+
+
+
+
+
+
+
+Ta.
+
+
+¶Now if ye put it to my lyberte
+
+
+Of all met{is} in the worlde that be
+
+
+By this lyght I loue best drynke
+
+
+
+
+
+
+Sen.
+
+
+¶It semyth by thy face so to do
+
+
+But my maister wyll haue mete also
+
+
+what so euer it cost
+
+
+
+
+
+
+Ta.
+
+
+¶By god syr than ye must tell what
+
+
+
+
+
+
+Hu.
+
+
+At thy discressyon I force nat
+
+
+whether it be soden or rost
+
+
+
+
+
+
+Ta.
+
+
+¶well syr than 
+are not let me a lone
+
+
+ye shall se that all thynge shall be done
+
+
+And ordeyned well and fyne
+
+
+
+
+
+
+Hu.
+
+
+¶So I require the hertely
+
+
+And in any wyse specyally
+
+
+Let vs haue a cuppe of newe wyne
+
+
+
+
+
+
+T
+.
+
+
+¶ye shall haue wyne as newe as can be
+
+
+For I may tell you in pryuyte
+
+
+Hit was brued but yester nyght
+
+
+
+
+
+
+Hu.
+
+
+¶But that is nothynge for my delyte
+
+
+
+
+
+
+Ta.
+
+
+¶But than I haue for your apetyte
+
+
+A cup of wyne of olde claret
+
+
+There is no better by this lyght
+
+
+
+
+
+
+Hu.
+
+
+¶well I trust the well Inowe
+
+
+
+
+
+
+Ta.
+
+
+¶But on thynge if it please you nowe
+
+
+ye se well I take muche payne for you
+
+
+I trust ye wyll se to me
+
+
+
+
+
+
+
+
+Hu.
+
+
+¶ye I {pro}myse the get the hens
+
+
+And in this matter do thy dylygence
+
+
+And I shall well rewarde the
+
+
+
+
+
+
+Sen.
+
+
+By cause thou lokyst for a rewarde
+
+
+One thynge for the I haue p̄pared
+
+
+That here I shall the gyffe
+
+
+Thou shalte haue a knauys skyn
+
+
+For to put thy body theri
+
+
+For terme of thy lyfe
+
+
+
+
+
+
+Ta.
+
+
+¶Now gramercy my gentyll brother
+
+
+And therfore thou shalt haue nother
+
+
+For voydynge of stryfe
+
+
+
+
+
+
+Sen
+
+
+¶Nowe farewell gentyll Iohn̄
+
+
+
+
+
+
+Ta.
+
+
+Than farewell fole for I am gone
+
+
+
+
+
+
+Sen.
+
+
+¶A byde torne ones a gayne harke what I sey
+
+
+yet there is a nother thynge
+
+
+wolde do well at our maisters wasshynge
+
+
+
+
+
+
+Hu.
+
+
+¶what thynge is that I the prey
+
+
+
+
+
+
+n.
+
+
+¶Mary thus canst thou tell vs yet
+
+
+where is any rose water to get
+
+
+
+
+
+
+Ta.
+
+
+ye that I can well purney
+
+
+As good as euer you put to your nose
+
+
+For there is a 
+eyre wenche callyd rose
+
+
+Dystylleth a quarte euery day
+
+
+
+
+
+
+Sen.
+
+
+By god I wolde a pynt of that
+
+
+were p
+wryd 
+uyn vpon thy pate
+
+
+Before all this presence
+
+
+
+
+
+
+Ta.
+
+
+¶yet I had leuer she and I
+
+
+where both to gyther secretly
+
+
+In some corner in the spence
+
+
+For by god it is a prety gyrle
+
+
+It is a worlde to se her whyrle
+
+
+Daunsynge in a rounde
+
+
+O lorde god how she wyll tryp
+
+
+She wyll bounce it she wyll whyp
+
+
+ye clene aboue the grounde
+
+
+
+
+
+
+Hu.
+
+
+¶well let all suche matters passe I sey
+
+
+And get the hens and goo thy way
+
+
+Aboute this other matter
+
+
+
+
+
+
+Ta.
+
+
+¶Than I goo streyght lo fare ye well
+
+
+
+
+
+
+Sen.
+
+
+¶But loke yet thou remembre 
+uerydell
+
+
+That I spake of full ere
+
+
+
+
+
+
+Ta.
+
+
+¶yes I warrant you do not fere
+
+
+
+
+¶Exeat Tauerner.
+
+
+
+
+Hu.
+
+
+¶Goddis lorde s
+ist not who is here now
+
+
+what study
+{us} desire what newis with you
+
+
+
+
+
+
+Stu
+
+
+¶ye shall knowe syr or I go
+
+
+
+
+
+
+Sen.
+
+
+¶what art thou here I se well I
+
+
+The mo kn
+ys the worse company
+
+
+
+
+
+
+Stu.
+
+
+¶Thy lewde condycyons thou doest styll occupy
+
+
+As thou art wont to do
+
+
+
+
+
+
+Hu.
+
+
+¶But I s
+y who is this here in presence
+
+
+
+
+
+
+
+
+Stu.
+
+
+¶Syr this is the man callyd experiens
+
+
+That I spake of before
+
+
+
+
+
+
+Hu.
+
+
+¶Experyens why is this he
+
+
+Syr ye ar ryght welcome vnto me
+
+
+And shall be euer more
+
+
+
+
+
+
+Expe.
+
+
+¶Syr I thanke you therof hertely
+
+
+But I assure you feythfully
+
+
+I haue small courage here to tary
+
+
+As longe as this man is here
+
+
+
+
+
+
+Sen.
+
+
+¶why horson what eylyst at me
+
+
+
+
+
+
+Ex.
+
+
+¶For thou hast euer so leude a {pro}perte
+
+
+Science to dispyse and yet thou art he
+
+
+That nought canst nor nought wylt lere
+
+
+
+
+
+
+Sen.
+
+
+¶Mary auaūt knaue I make god auowe
+
+
+I thynke my selfe as cōnynge as thou
+
+
+And that shall I proue shortly
+
+
+I shall put the a questyon now come nere
+
+
+Let me se how well thou canst answere
+
+
+How spellest this worde tom Couper
+
+
+In trewe a
+tografye
+
+
+
+
+
+
+Ex.
+
+
+¶Tom co
+per 
+qd
+ a a wyse qu
+styō herdly
+
+
+
+
+
+
+Sen.
+
+
+¶ye I tel y
+•
+ agayne yet / tom cou{per} how spel¦lyst it
+
+
+Lo he hath for gotten ye may se
+
+
+The furste worde of his a b c.
+
+
+Harke fole harke I wyll teche the
+
+
+P. a. pa. t. 
+. r. 
+er. do to gyther tom couper
+
+
+ys not this a sore matter
+
+
+Loo here ye may se hym {pro}uyd a fole
+
+
+He had more nede to go to scole
+
+
+Than to come hyther to clatter
+
+
+
+
+
+
+Stu.
+
+
+¶Certeyne this is a solucyon
+
+
+Mete for suche a boyes questyon
+
+
+
+
+
+
+Hu.
+
+
+¶Sensuall apetyte I prey the
+
+
+Let passe all suche tryfles and vanyte
+
+
+For a wy
+e it shall not longe be
+
+
+And departe I the require
+
+
+For I wolde talke a worde or two
+
+
+with this man here or he hens go
+
+
+For to satysfy my desyre
+
+
+
+
+
+
+Sen.
+
+
+¶why goggis soule wyll ye so shortly
+
+
+Breke poyntment with yonder company
+
+
+where ye shulde come to supper
+
+
+I trust ye wyll not breke {pro}mys so
+
+
+
+
+
+
+Hu.
+
+
+¶I care not greatly yf I do
+
+
+yt is but a tauerne matter
+
+
+
+
+
+
+Sen.
+
+
+¶Than wyll I go shew them what ye sey
+
+
+
+
+
+
+Hu.
+
+
+¶Spare not if thou wylt go thy wey
+
+
+For I wyll here tary
+
+
+
+
+
+
+Sen.
+
+
+¶Thā a dew for a whyle I tel you playne
+
+
+But I {pro}myse you whā I come a gayne
+
+
+I shall make yonder knauys twayne
+
+
+To repent and be sory
+
+
+
+
+
+
+
+
+Ex.
+
+
+¶Nowe I am full glad that he is gone
+
+
+
+
+
+
+Stu
+
+
+¶So am I for good wyll he do none
+
+
+To no man lyuynge
+
+
+But this is the man with whome ye shall
+
+
+I trust be well content with all
+
+
+And glad of his cōmynge
+
+
+¶For he hath expownyd connyngly
+
+
+Dyuers poyntes of Cosmogryfy
+
+
+In fewe wordes and shorte clause
+
+
+
+
+
+
+Hu.
+
+
+¶So I 
+vnderstand
+ he hath gode science
+
+
+And that he hath by playne ex{per}ience
+
+
+Lernyd many a straunge cause
+
+
+
+
+
+
+Stu.
+
+
+¶ye syr and I say for my {per}te
+
+
+He is the cōnyngest man in that arte
+
+
+That euer I coude fynde
+
+
+For aske what questyon ye wyll do
+
+
+Howe the yerth is rounde or other mo
+
+
+He wyll satysfye your mynde
+
+
+
+
+
+
+Ex.
+
+
+¶why what doute haue ye therin founde
+
+
+Thynke ye the yerth shulde not be rounde
+
+
+Or elles howe suppose ye
+
+
+
+
+
+
+Hu.
+
+
+¶One wey it is rounde I must consent
+
+
+For this man prouyd it euydent
+
+
+Towarde the eest and occydent
+
+
+It must nedis rounde be
+
+
+
+
+
+
+Ex.
+
+
+¶And lykewyse from the south to north
+
+
+
+
+
+
+
+
+Hu.
+
+
+That poynt to proue were sū thāke worth
+
+
+
+
+
+
+Ex.
+
+
+¶yes that I can well proue
+
+
+For this ye knowe as well as I
+
+
+ye se the north starre in the skye
+
+
+Marke well ye shall vnethe it spye
+
+
+That euer it doth remoue
+
+
+¶But this I assure you if you go
+
+
+Northwarde an hundreth myle or two
+
+
+ye shall thynke it ryseth
+
+
+And how that it is nere aproched
+
+
+The poynt ouer the top of your hed
+
+
+whiche is callyd your zenyth
+
+
+¶yet yf ye go the other wey
+
+
+Southwarde .x. or .xii. dayes Iorney
+
+
+ye shall then thynke anon
+
+
+It discended and come more nye
+
+
+The sercle {per}tynge the yerth and skye
+
+
+As ye loke streyght with your eye
+
+
+whiche is callyd your oryson
+
+
+¶But ye may go southwarde so farre
+
+
+That at the last that same starre
+
+
+wyll seme so farre downe ryght
+
+
+Clere vnder neth your oryson
+
+
+That syght therof can you haue non
+
+
+The yerth wyll stop your syght
+
+
+¶This {pro}uyth of necessyte
+
+
+That the yerth must nedis rounde be
+
+
+This conclulsyon doth it trye
+
+
+
+
+
+
+Hu.
+
+
+¶Nowe that is the {pro}perist conclusyon
+
+
+That euer I herde for by reason
+
+
+No man may hit deuye
+
+
+But sir if that aman sayle farre
+
+
+Upon the see wyll than that starre
+
+
+Do there as on the grounde
+
+
+
+
+
+
+Ex.
+
+
+¶ye doutles sayl
+ 
+northward
+ ryse it wyl
+
+
+And sayle southwarde it falleth styl
+
+
+And that prouyth the see rounde
+
+
+
+
+
+
+Stu.
+
+
+¶So dothe it in myne oppynyon
+
+
+But knowe you any other conclusyon
+
+
+To proue it rounde saue that alone
+
+
+
+
+
+
+Ex.
+
+
+¶ye that I knowe ryght well
+
+
+As thus marke well whan y
+•
+ see is clere
+
+
+That no storme nor wawe therō doth pere
+
+
+This maryners can tell
+
+
+¶Than if a fyre be made on nyght
+
+
+Upon the shore that gyueth great lyght
+
+
+And a shyp in the see farre
+
+
+They in the toppe the fyre se shall
+
+
+And they on hache nothynge at all
+
+
+yet they on haches be nerr̄
+
+
+¶Also on the see where men be saylynge
+
+
+Farre frome lande they se nothynge
+
+
+But the water and the skye
+
+
+yet whan they drawe the lande more nere
+
+
+Than the hyll toppes begyn to apere
+
+
+Styll the nere more hye and hye
+
+
+As though they were styll growynge faste
+
+
+Out of the see tyll at laste
+
+
+whan they come the shore to
+
+
+They se the hyll toppe fote and all
+
+
+whiche thynge so coude not be fall
+
+
+But the see lay rounde also
+
+
+
+
+
+
+Hu.
+
+
+Me thynketh your argumēt sōwhat hard
+
+
+
+
+
+
+Ex.
+
+
+¶Than ye shall haue it more playnly declared
+
+
+If ye 
+aue great desyre
+
+
+For here loo by myne instrumentis
+
+
+I can shew the playne ex{per}iment{is}
+
+
+
+
+
+
+Hu.
+
+
+¶Therto I you requyre
+
+
+
+
+
+
+Ex.
+
+
+¶with all my herte it shall be done
+
+
+But for the furst conclusyon
+
+
+That I spake of the fyre
+
+
+Be this the s
+ey that is so rounde
+
+
+And this the fyre vpon the grounde
+
+
+And this the shyp that is here
+
+
+ye knowe well that a mannes syght
+
+
+Can neuer be but in a lyne ryght
+
+
+
+
+
+
+Hu.
+
+
+¶Iust you say that is clere
+
+
+
+
+
+
+Ex.
+
+
+¶Marke well than may not y
+t
+ mānis eye
+
+
+
+
+
+
+
+
+¶with argyng here theyr fo
+y
+ 
+
+
+That is not worth iij. strawes
+
+
+¶I loue not this horeson losophers
+
+
+Nor this great cōnyng extromers
+
+
+That tell how far it is to the sterres
+
+
+I hate all maner connyng
+
+
+I wolde ye knew it I am Ignorance
+
+
+A lorde I am of gretter pusans
+
+
+Than the kynge of yngland or fraunce
+
+
+ye the grettyst lord lyuyng
+
+
+¶I haue seruaūt{is} at my retynew
+
+
+That longe to me I assure you
+
+
+Here with in ynglande
+
+
+That with me yngnorance dwell styll
+
+
+And terme of lyfe cōtynew wyll
+
+
+A boue v C. thowsand
+
+
+
+
+
+
+Sen.
+
+
+Gogg{is} naylys I haue payed sō of thē I tro
+
+
+
+
+
+
+yng.
+
+
+why man what eylyth y
+•
+ so to blow
+
+
+
+
+
+
+Sen.
+
+
+For I was at a shrewd fray
+
+
+
+
+
+
+yng.
+
+
+Hast thou any of them slayn than
+
+
+
+
+
+
+Sen.
+
+
+ye I haue slayn them euery man
+
+
+Saue them that ran away
+
+
+
+
+
+
+yng.
+
+
+why is any of them skapyd & gone
+
+
+
+
+
+
+Sen.
+
+
+ye by gogg{is} body euerychone
+
+
+All that euer were there
+
+
+
+
+
+
+
+
+.
+
+
+O syr ye know ryght well this
+
+
+That when any man is
+
+
+In other mens company
+
+
+He must ned{is} folow the appyte
+
+
+Of such thyng{is} as they delyte
+
+
+Som tyme amonge perdy
+
+
+
+
+
+
+yng.
+
+
+But such knaues wold alway haue y
+•
+
+
+To put all thy mynd & felicite
+
+
+In this folysh cōnyng to study
+
+
+which if thou do wyll make y
+e
+ mad
+
+
+And alway to be pensyf & sad
+
+
+Thou shalt neuer be mery
+
+
+
+
+
+
+.
+
+
+Mery quod a / no I make god auow
+
+
+But I pray y
+e
+ mayster hark on word now
+
+
+And aunswere this thyng
+
+
+whether thought you it better chere
+
+
+At the tauerne where we were ere
+
+
+Or ell{is} to clatter with these knaues here
+
+
+Of theyr folysh cunnynge
+
+
+
+
+
+
+Hu.
+
+
+Nay I can not say the contrary
+
+
+But y
+•
+ I had mych myryer company
+
+
+At the tauer
+e than in this place
+
+
+
+
+
+
+Sen.
+
+
+Than yf ye haue any wyt or brayn
+
+
+Let vs go to the tauerne agayn
+
+
+And make some mery solace
+
+
+
+
+
+
+yng.
+
+
+yf he wyll do so thā doth he wysely
+
+
+
+
+
+
+
+
+Hu.
+
+
+By my troth I care not gretely
+
+
+For I am indyfferent to all company
+
+
+whether it be here or there
+
+
+
+
+
+
+Sen.
+
+
+Then I shall tell you what we wyll do
+
+
+Mayster yngnorans you & he also
+
+
+Shall tary both styll here
+
+
+And I wyll go fet hyther a cōpany
+
+
+That ye shall here thē syng as swetly
+
+
+As they were angell{is} clere
+
+
+¶And yet I shall bryng hydyr a nother sort
+
+
+Of lustly bludd{is} to make dysport
+
+
+That shall both daunce & spryng
+
+
+And torne clene aboue y
+e
+ ground
+
+
+with fryscas & with gambawd{is} round
+
+
+That all the hall shall ryng
+
+
+¶And y
+t
+ done with in an howre or twayn
+
+
+I shall at the towne agayne
+
+
+Prepare for you a banket
+
+
+Of metys that be most delycate
+
+
+And most plesaunt drynk{is} & wynes ther ate
+
+
+That is possyble to get
+
+
+which shall be in a chamber feyre
+
+
+Replete with sote & fragrāt eyre
+
+
+Preparyd poynt deuyse
+
+
+with damaske water made so well
+
+
+That all y
+•
+ howse therof shall smell
+
+
+
+
+
+
+
+
+
+
+As it were pardyse
+
+
+¶And after that if ye wyll touche
+
+
+A feyre wenche nakyd in a couche
+
+
+Of a softe bed of downe
+
+
+For to satisfye your wantō lust
+
+
+I shall apoynt you a trull of trust
+
+
+Not a feyrer in this towne
+
+
+¶And whan ye haue taken your delyte
+
+
+And thus satisfyed the appetyte
+
+
+Of your wyttis fyue
+
+
+ye may sey than I am a seruaunt
+
+
+For you so necessary and plesaunt
+
+
+I trowe non suche a lyue
+
+
+
+
+
+
+Hu.
+
+
+¶Nowe by the wey that god dyd walke
+
+
+It cōforthe myne herte to here the talke
+
+
+Thy mache was neuer seyn
+
+
+
+
+
+
+yng.
+
+
+¶Than go thy wey by and by
+
+
+And brynge in this company
+
+
+And he and I wyll here tary
+
+
+Tyll thou come agayne
+
+
+
+
+
+
+Hu.
+
+
+¶And I prey the hertely also
+
+
+
+
+
+
+Sen.
+
+
+¶At your request so shall I do
+
+
+Lo I am gone nowe fare well
+
+
+I shall brynge them in to this hall
+
+
+And come my selfe formast of all
+
+
+And of these reuellis be ch
+fe mershall
+
+
+And order all thynge well
+
+
+
+
+
+
+¶yngnoraunce.
+
+
+¶Nowe set thy hert on a mery pyn
+
+
+Agayns these lusty bludd{is} come in
+
+
+And dryue fantesys a wey
+
+
+
+
+
+
+Hu.
+
+
+And so I wyll by heuyn kynge
+
+
+If they other daunce or synge
+
+
+Haue a monge them by this day
+
+
+
+
+
+
+¶yngnorau
+ce.
+
+
+¶Than thou takyst good & wyse weys
+
+
+And so shalt thou best please
+
+
+All this hole company
+
+
+For the folyshe arguynge y
+t
+ thou hast had
+
+
+with that knaue experiens y
+t
+ hath made
+
+
+All these folke therof wery
+
+
+¶For all they that be nowe in this hall
+
+
+They be the most {per}te my seruaunt{is} all
+
+
+And loue pryncypally
+
+
+Disportis as daunsynge syngyuge
+
+
+Toys tryfuls laughynge gestynge
+
+
+For connynge they set not by
+
+
+
+
+
+
+Hu.
+
+
+I se well suche company euer more
+
+
+As sensuell appetyte is gone fore
+
+
+wyll please well this audyens
+
+
+
+
+
+
+yng.
+
+
+¶ye that I suppose they wyll
+
+
+But pease harke I prey the be styll
+
+
+I wene they be not far hens
+
+
+¶Then the daunsers with out the hall syng this wyse and they with in answer or ellys they may say it for nede.
+
+
+
+
+
+
+
+
+¶The daunsers & Sensuall
+
+
+P
+ase syrs pease now pease syrs all
+
+
+
+
+
+
+¶Humanyte & yngnorans.
+
+
+why who is that so hye doth call
+
+
+
+
+
+
+¶The daunsers.
+
+
+Sylence I say be you among
+
+
+For we be dysposyd to syng a song
+
+
+
+
+
+
+¶Humanyte & yngnorans.
+
+
+Come in then boldely a mong this presens
+
+
+For here ye shall haue good audyens.
+
+
+
+
+
+
+
+
+Tyme to pas with goodly sport our spryt{is} to
+
+
+
+
+Tyme to pas 
+&c.
+
+
+
+
+Tyme to pas 
+&c.
+
+
+
+
+reuyue & cōfort to pipe to sīge to daūce 
+
+
+
+
+
+
+
+
+with plesure & delyte folowīg sēsual appetyte
+
+
+
+
+to pipe 
+&c.
+
+
+
+
+
+
+
+
+
+
+yng.
+
+
+I 
+an you thank y
+•
+ is done well
+
+
+It is pyte ye had not a mynstrell
+
+
+For to angment your solas
+
+
+
+
+
+
+Seu.
+
+
+As for mynstrell it maketh no force
+
+
+ye shall se me daunce a cours
+
+
+without a mynstrell be it better or wors
+
+
+Folow a
+l I wyll lede a trace
+
+
+
+
+
+
+Hu.
+
+
+Now haue a monge you by this lyght
+
+
+
+
+
+
+yng.
+
+
+That is well sayd be god almyght
+
+
+Make rome syrs & gy
+ them p
+ace
+
+
+¶Than he syngyth this song & daunyth with all And euermore maketh countenaunce accordyng To the mater & all y
+e
+ other annswer lyke wyle ¶Daunce we / daunce we. praunce we praunce we
+
+
+So merely let vs daunce ey / so merely 
+&c
+
+
+And I can daunce it gyngerly & I 
+&c
+
+
+And I can fote it by & by & I 
+&c
+
+
+And I can pranke it {pro}perly
+
+
+And I can countenaunse comely
+
+
+And I can kroke it curtesly
+
+
+And I can lepe it lustly
+
+
+And I can torn it trymly
+
+
+And I can fryske it freshly
+
+
+And I can loke it lordly
+
+
+
+
+
+
+yng.
+
+
+I can the thanke sensuall apetyte
+
+
+That is y
+•
+ best daunce with out a py
+e
+
+
+That I saw this seuen yere
+
+
+
+
+
+
+Hu.
+
+
+This daunce wold do mych better yet
+
+
+yf we had a kyt or taberet
+
+
+But alas ther is none here
+
+
+
+
+
+
+Sen.
+
+
+Then let vs go to y
+e
+ tauerne agayne
+
+
+There shall we be sure of one or twayn
+
+
+Of mynstrell{is} y
+t
+ can well play
+
+
+
+
+
+
+yng.
+
+
+Then go I pray ye by & by
+
+
+And puruey some mynstrell redy
+
+
+And he & I wyll folow shortly
+
+
+As fast as euer we may
+
+
+
+
+
+
+Hu.
+
+
+Ther with I am ryght well content
+
+
+
+
+
+
+Sen.
+
+
+Then wyll I go in contynent
+
+
+And prepare euery thyng
+
+
+That is metely to be done
+
+
+And for lacke of mynstrell{is} y
+•
+ mean seasō
+
+
+Now wyll we begyn to syng
+
+
+
+
+¶Now we wyll here begyn to syng
+
+
+For daunce can we nomore
+
+
+For mynstrell{is} here be all lackyng
+
+
+To y
+e
+ tauerne we wyll therfore
+
+
+
+
+¶Et exeūt cantando 
+&c.
+
+
+
+
+Hu.
+
+
+Now yf that sensuall appetyte cā fynd
+
+
+Any good mynstrell{is} after hys mynd
+
+
+Dowt not we shall haue good sport
+
+
+
+
+
+
+yng.
+
+
+And so shall we haue for a suerte
+
+
+But what shall we do now tell me
+
+
+The meane whyle for our cōfort
+
+
+
+
+
+
+Hu.
+
+
+Then let vs some lusty balet syng
+
+
+
+
+
+
+yng.
+
+
+Nay syr by y
+e
+ heuyn kyng
+
+
+For me thynkyth it seruyth for no thyn
+
+
+All suche peuysh prykyeryd song
+
+
+
+
+
+
+Hu.
+
+
+Pes man pryksong may not be dispysy
+
+
+For ther with god is well plesyd
+
+
+Honowryd praysyd & seruyd
+
+
+In the churche oft tymes among
+
+
+
+
+
+
+yng.
+
+
+Is god well pleasyd trowst thou therby
+
+
+Nay nay for there is no reason why
+
+
+For is it not as good to say playnly
+
+
+Gyf me a spad
+
+
+As gyf me a spa ve va ve va ve vade
+
+
+But yf thou wylt haue a song y
+t
+ is good
+
+
+I haue one of robyn hode
+
+
+The best that euer was made
+
+
+
+
+
+
+Hu.
+
+
+Then a feleshyp let vs here it
+
+
+
+
+
+
+yng.
+
+
+But there is a bordon thou must bere it
+
+
+Or ellys it wyll not be
+
+
+
+
+
+
+
+
+Hu.
+
+
+¶Than begyn and care no
+ 
+o
+
+
+
+
+¶Downe downe downe 
+&c.
+
+
+
+
+yng.
+
+
+¶Robyn hode in barnysdale stode
+
+
+And lent hym tyl a mapyll thystyll
+
+
+Thā cam our lady & swete saynt andrewe
+
+
+Slepyst thou wakyst thou geffrey coke
+
+
+¶A.C. wynter the water was depe
+
+
+I can not tell you how brode
+
+
+He toke a gose nek in his hande
+
+
+And ouer the water he went
+
+
+¶He start vp to a thystell top
+
+
+And cut hym downe a holyn clobe
+
+
+He stroke y
+e
+ wren betwene the hornys
+
+
+That fyre sprange out of the pygg{is} tayle
+
+
+¶Iak boy is thy bowe I broke
+
+
+Or hath any mā done y
+e
+ wryguldy wrage
+
+
+He plukkyd muskyllys out of a wyllowe
+
+
+And put them in to his sachell
+
+
+¶wylkyn was an archer good
+
+
+And well coude handell a spade
+
+
+He toke his bend bowe in his hand
+
+
+And set hym downe by the fyre
+
+
+¶He toke with hym .lx. bowes and ten
+
+
+A pese of befe a nother of baken
+
+
+Of all the byrdes in mery englond
+
+
+So merely pypys the mery botell
+
+
+
+
+
+
+
+
+¶Nature.
+
+
+¶well Humanyte now I see playnly
+
+
+That thou hast vsyd muche foly
+
+
+The whyle I haue ben absent
+
+
+
+
+
+
+Hu.
+
+
+¶Syr I trust I haue done nothynge
+
+
+That shold be contrary to your pleasynge
+
+
+Nor neuer was myne intent
+
+
+¶For I haue folowed the counsell clere
+
+
+As ye me bad of studyouse desire
+
+
+And for necessyte a monge
+
+
+Somtyme sensuall appety
+{is} counsell
+
+
+For without hym ye 
+nowe ryght well
+
+
+My lyfe can not endure longe
+
+
+
+
+
+
+¶Nature.
+
+
+¶Though it be for the full necessary
+
+
+For thy cōfort somtyme to satysfy
+
+
+Thy sensuall appetyte
+
+
+yet it is not conuenyent for the
+
+
+To put therin thy felycyte
+
+
+And all thy hole dely
+e
+
+
+¶For if thou wylt lerne no sciens
+
+
+Nother by study nor experiens
+
+
+I shall the neuer auaunce
+
+
+But in the worlde thou shalt dure than
+
+
+Dyspysed of euery wyse man
+
+
+Lyke this rude best ygnoraunce
+
+
+
+
+
+
+
+
+
+
+
+
+

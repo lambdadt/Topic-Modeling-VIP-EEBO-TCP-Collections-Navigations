@@ -1,0 +1,1742 @@
+Taylor his trauels: from the citty of London in England, to the citty of Prague in Bohemia The manner of his abode there three weekes, his obseruations there, and his returne from thence: how he past 600 miles downe the riuer of Elue, through Bohemia, Saxony, Anhalt, the bishoprick of Madeberge, Brandenberge, Hamburgh, and so to England. With many relations worthy of note. By Iohn Taylor.
+Taylor, John, 1580-1653.
+Approx. 49 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-01 (EEBO-TCP Phase 1).
+A13508
+
+
+
+
+STC 23802
+
+
+
+ESTC S118294
+
+
+
+
+
+99853501
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Taylor his trauels: from the citty of London in England, to the citty of Prague in Bohemia The manner of his abode there three weekes, his obseruations there, and his returne from thence: how he past 600 miles downe the riuer of Elue, through Bohemia, Saxony, Anhalt, the bishoprick of Madeberge, Brandenberge, Hamburgh, and so to England. With many relations worthy of note. By Iohn Taylor.
+Taylor, John, 1580-1653.
+[32] p.   
+
+
+London :
+
+
+Printed by Nicholas Okes, for Henry Gosson, and are to bee sold by Edward Wright,
+
+
+1620.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Germany --  Description and travel --  Early works to 1800.
+Bohemia (Czech Republic) --  Description and travel --  Early works to 1800.
+2000
+TCP
+Assigned for keying and markup
+2001-07
+SPi Global
+Keyed and coded from ProQuest page images
+2001-08
+TCP Staff (Michigan)
+Sampled and proofread
+2001-08
+TCP Staff (Michigan)
+Text and markup reviewed and edited
+2001-11
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+23802
+
+
+99853501
+
+
+18885
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taylor his Trauels: From the Citty of 
+London
+ in 
+England,
+ to the Citty of 
+Prague
+ in 
+Bohemia.
+
+
+The manner of his abode there three weekes, his obseruations there, and his returne from thence:
+
+
+How he past 600 miles downe the riuer of 
+Elue,
+ through 
+Bohemia, Saxony, Anhalt,
+ the Bishoprick of 
+Madeberge, Brandenberge, Hamburgh,
+ and so to 
+England.
+
+
+With many relations worthy of note.
+
+
+By 
+Iohn Taylor.
+
+
+LONDON
+ Printed by 
+Nicholas Okes,
+ for 
+Henry Gosson,
+ and are to bee sold by 
+Edward Wright.
+ 1620.
+
+
+
+
+
+
+
+
+
+
+The Right Hon.
+ble
+ Algernon Capell, Earl of Essex, Viscount Maldon, & Baron Capell of Hadham. 1701
+
+
+
+
+
+
+
+
+
+
+Reader take this in your way.
+
+
+
+
+A Pamphlet (Reader,) from the presse is hurld,
+
+
+That hath not many fellowes in the world:
+
+
+The maner's cōmon, though the matter's shallow,
+
+
+And 'tis all true, which makes it want a fellow.
+
+
+
+
+And because I would not haue you either guld of your mony, or deceiued in expectation, I pray you take notice of my plaine dealing; for I haue not giuen my booke aswelling bumbasted title, of a promising inside of newes; therefore if you looke for any such matter from hence, take this warning, hold fast your mony, and lay the booke downe: yet if you do buy it (I dare presume) you shall find somewhat in it worth part of your mo∣ny; the troth is that I did chiefely write it, because I am of much acquaintance, and cannot passe the streets, but I am continually stayed by one or o∣ther, to know what newes, so that sometimes I am foure houres before I can go the length of too paire of butts, where such non-sence or sence∣lesse
+
+
+questions are propounded to me, that calles many seeming wise mens wisedoms in question, drawing aside the curtaines of their vnderstand∣iug, and laying their ignorance wide open. First 
+Iohn Easie
+ takes me, and holds mee fast by the fist halfe an houre, and will needes torture some newes out of me from 
+Spinola,
+ whom I was neuer neere by 500 miles; for hee is in the 
+Pallatinate
+ country, and I was in 
+Bohemia.
+ I am no sooner eased of him, but 
+Gregory Gandergoose,
+ an Alder∣man of 
+Gotham
+ catches me by the goll, demaun∣ding if 
+Bohemia
+ bee a great towne, and whether there be any meare in it, and whether the last fleet of shipps be ariued there: his mouth being stop'd, a third examines mee boldly, what newes from 
+Vienna,
+ where the Emperours army is, what the Duke of 
+Bauaria
+ doth, what is become of Count 
+Buquoy,
+ how fares all the Englishmen; Where lies the King of 
+Bohemiaes
+ forces, what 
+Bethlem Gabor
+ doth, what tydings of 
+Dampeier,
+ and such a tempest of inquisition, that it almost shakes my patience in pieces. To ease my selfe of all which, I was inforced to set pen to paper, & let this poore pamphlet (my harrald or nuntius) trauell & talke,
+
+
+whilst I take my ease with silence. Thus much I dare affirme, that whosoeuer hee or they bee, that do scatter any scandalous speeches against the plenty in 
+Bohemia
+ of all manner of needfull things for the sustenance of man and beasts, (of the which there is more aboundance then euer I saw in any place else) or whatsoeuer they bee that report any ill successe on the Kings party, this lit∣tle booke, and I the Author doth proclaime and proue them false lyers, and they are to be suspect∣ed, for coyning such falshoods, as no well-willers to the 
+Bohemian
+ prosperity. One thing I must entreate the Readers patience in reading one hundred lines; wherein, I haue kept a filthy stirre about a beastly fellow, who was (at my go∣ing from 
+England,
+ a piece of a 
+Graues-end
+ Consta∣ble) at which time hee did mee such wrong, as might haue drawne my life in question; for hee falsly sayd that I would haue fired their Towne. I did promise him a ierke or two of my penne at my returne; which now I haue performed, (not out of any mallice, but be∣cause I would bee as good as my word with him.) Thus crauing you to reade if you
+
+
+like, and like as you list. I leaue you a booke much like a pratling Gossip, full of many words to small purpose.
+
+
+Yours, as you are mine.
+ 
+Iohn Taylor
+.
+
+
+
+
+
+
+
+
+
+
+
+
+TAYLORS TRA∣VELS, FROM THE CITTY of 
+London
+ in England, to the Cit∣ty of 
+Prague
+ in 
+Bohemia.
+
+
+
+
+I Come from 
+Bohem,
+ yet no newes I bring,
+
+
+Of busines 'twixt the Keysar and the king:
+
+
+My Muse dares not ascend the lofty staires
+
+
+Of state, or write of Princes great affaires.
+
+
+And as for newes of battells, or of War,
+
+
+Were 
+England
+ from 
+Bohemia
+ thrice as far:
+
+
+Yet we do know (or seeme to know) more heere
+
+
+Then was, is, or will euer be knowne there.
+
+
+At Ordinaries, and at Barbers shopps,
+
+
+There tydings vented are, as thick as hopps,
+
+
+How many thousands such a day were slaine,
+
+
+What men of note were in the battell ta'ne,
+
+
+When, where, and how the bloody fight begun,
+
+
+And how such sconces, and such townes were won;
+
+
+How so and so the armies brauely met,
+
+
+And which side glorious victory did get:
+
+
+The month, the weeke, the day, the very houre,
+
+
+And time, they did oppose each others powre,
+
+
+These things in 
+England
+ prating fooles do chatter,
+
+
+When all 
+Bohemia
+ knowes of no such matter.
+
+
+For all this summer, that is gone and past,
+
+
+Vntill the first day of 
+October
+ last,
+
+
+The armies neuer did together meete,
+
+
+Nor scarce their eie sight did each other greet:
+
+
+The fault is neither in the foote or horse,
+
+
+Of the right valiant braue 
+Bohemian
+ force,
+
+
+From place to place they daily seeke the foe,
+
+
+They march, and remarch, watch, ward, ride, run, goe,
+
+
+And grieuing so to waste the time away,
+
+
+Thirst for the hazard of a glorious day.
+
+
+But still the enemy doth play bopeepe,
+
+
+And thinkes it best in a whole skin to sleepe,
+
+
+For neither martiall pollicy, or might,
+
+
+Or any meanes can draw the foe to fight:
+
+
+And now and then they conquer, spoile and pillage,
+
+
+Some few thatcht houses, or some pelting village;
+
+
+And to their trenches run away againe,
+
+
+Where they like foxes in their holes remaine,
+
+
+Thinking by lingring out the warres in length,
+
+
+To weaken and decay the 
+Beamish
+ strength.
+
+
+This is the newes, which now I meane to booke,
+
+
+He that will needes haue more, must needes go looke.
+
+
+Thus leauing warres, and matters of high state,
+
+
+To those that dare, and knowes how to relate,
+
+
+I'le onely write how I past heere and there,
+
+
+And what I haue obserued euery where,
+
+
+I'le truely write what I haue heard and eyed,
+
+
+And those that will not so be satisfied,
+
+
+I (as I meete them) will some tales deuise,
+
+
+And fill their cares (by word of mouth) with lies:
+
+
+THe month that beares a mighty Emp'rours name,
+
+
+(
+Augustus
+ hight) I passed downe the streame,
+
+
+Friday the fourth, Iust sixteene hundred twenty
+
+
+Full moone, the signe in 
+Piscis,
+ that time went I;
+
+
+The next day being saturday, a day,
+
+
+Which all greate 
+Brittaine
+ well remember may,
+
+
+When all with thankes do annually combine,
+
+
+Vnto th' Almighty maiesty diuine,
+
+
+Because that day, in a most happy season,
+
+
+Our Soueragne was preseru'd from 
+Gouries
+ treason;
+
+
+Therefore to Churches people do repaire,
+
+
+And offer sacrifice of praise and praire,
+
+
+With bells and bonfires, euery towne addressing,
+
+
+And to our gracious King their loues expressing,
+
+
+On that day, when in euery nooke and angle,
+
+
+Fag gots and bauins smoak'd, and bells did iangle:
+
+
+Onely at 
+Graues-end,
+ (why I cannot tell,)
+
+
+There was no sparke of fire, or sound of bell,
+
+
+Their steeple, (like an instrument vnstrung,)
+
+
+Seem'd (as I wish all scolds) without a tong,
+
+
+Their bonfires colder then the greatest frost,
+
+
+Or chiller then their charities (almost)
+
+
+Which I perceiuing, sayd I much did muse,
+
+
+That 
+Graues-end
+ did forget the thankfull vse,
+
+
+Which all the townes in 
+England
+ did obserue;
+
+
+And cause I did the King of 
+Brittaine
+ serue,
+
+
+I and my fellow, for our Maisters sake,
+
+
+Would (neere the waters side) a bonfire make;
+
+
+With that a Scotch man, 
+Tompson
+ by his name,
+
+
+Bestowed foure faggots to increase the flame,
+
+
+At which (to kindle all) a 
+Graues-end
+ Baker,
+
+
+Bestowed his bauine, and was our partaker:
+
+
+We 
+18
+ foote from any house retir'd,
+
+
+Where we a iury of good faggots fir'd;
+
+
+But ere the flame, or scarce the smoake began,
+
+
+There came the fearefull shaddow of a man,
+
+
+The Ghost or Image of a Constable,
+
+
+Whose frantick actions (downeright dunce-stable,)
+
+
+Arm'd out of 
+France
+ and 
+Spaine,
+ with 
+Bacchus
+ bounty:
+
+
+(Of which ther's plenty in the 
+Kentish
+ county,)
+
+
+His adle coxcomb with tobaco puff'd`
+
+
+His guts with ale full bumbasted and stuff'd,
+
+
+And though halfe blind, yet in a looking glasse,
+
+
+He could perceiue the figure of an asse;
+
+
+And as his slauering chapps non-sense did stutter,
+
+
+His breath (like to a iakes) a sent did vtter,
+
+
+His leggs indenting scarcely could beare vp,
+
+
+His drunken trunk (o're charg'd with many a cup.)
+
+
+This riff raff rubbish, that could scarcely stand,
+
+
+(Hauing a staffe of office in his hand,)
+
+
+Came to vs as our fire began to smother,
+
+
+Throwing some faggots one way, some another,
+
+
+And in the Kings name did first breake the peace,
+
+
+Commanding that our bonfire should succease.
+
+
+The 
+Sotchman
+ angry at this rudnes done,
+
+
+The scattered faggots, he againe layd on:
+
+
+Which made the demy Constable go to him,
+
+
+And punch him on the brest, and outrage do him;
+
+
+At which a cuffe or twaine were giuen, or lent,
+
+
+About the eares, (which neither did content.)
+
+
+But then to heare how fearefull the asse braid,
+
+
+With what a hideous noyse he houl'd for aid,
+
+
+That all the ale in 
+Graues-end,
+ in one houre,
+
+
+Turn'd either good, bad, strong, small, sweete, or soure:
+
+
+And then a kennell of incarnate currs,
+
+
+Hang'd one poore 
+Thomson,
+ like so many burrs;
+
+
+Haling him vp the dirty streetes, all foule,
+
+
+(Like diuells pulling a condemned soule.)
+
+
+The Iaylor (like the grand deu'll) gladly sees,
+
+
+And with an itching hope of fines and fees,
+
+
+Thinking the Constable, and his sweete selfe,
+
+
+Might drinke and quaffe with that ill gotten pelfe;
+
+
+For why such hounds as these, may if they will,
+
+
+Vnder the shew of good, turne good to ill;
+
+
+And with authority the peace first breake,
+
+
+VVith Lordly domineering or'e the weake,
+
+
+Committing (oft) they care not whom or why,
+
+
+So they may exercise themselues thereby,
+
+
+And with the iaylor share both fee and fine,
+
+
+Drowning their damned gaine in smoake and wine:
+
+
+Thus hirelings Constables, and iaylors may,
+
+
+Abuse the kings leige people night and day,
+
+
+I say they may, I say not they do so,
+
+
+And they know best if they do so or no.
+
+
+They hal'd poore 
+Thomson
+ all along the streete,
+
+
+Tearing him that the ground scarce touch'd his feete,
+
+
+Which he perceiuing, did request them cease
+
+
+Their rudenes, vowing he would go in peace,
+
+
+He would with quietnesse go where they would,
+
+
+And prayed them from his throate to loose their hold.
+
+
+Some of the townesmen did entreat them there,
+
+
+That they their barbarous basenes would forbeare,
+
+
+But all entreaty was like oyle to fire,
+
+
+Not quenc'd; but more enflam'd the scuruy squire.
+
+
+Then they afresh began to hale and teare,
+
+
+(Like mungrell mastifes, on a little Beare,)
+
+
+Leauing kind 
+Tompsom
+ neither foote or fist,
+
+
+Nor any limb or member to resist,
+
+
+Who being thus opprest with ods and might,
+
+
+Most valiant with his teeth, began to bite,
+
+
+Some by the fingers, others by the thumbs,
+
+
+He fang'd within the circuit of his gummes;
+
+
+Great pitty'twas his chapps did neuer close,
+
+
+On the halfe Constables, cheekes, eares, or nose;
+
+
+His seruice had deseru'd reward to haue,
+
+
+If he had mark'd the peasant for a knaue:
+
+
+Yet all that labour had away bin throwne,
+
+
+Through towne and country he's already knowne;
+
+
+His prisoner, he did beate, and spurn'd and kick'd,
+
+
+He search'd his pockets (I'le not say he pick'd)
+
+
+And finding (as he sayd) no mony there,
+
+
+To heare how then the bellwether did sweare,
+
+
+And almost tearing 
+Tompson
+ into quarters,
+
+
+Bound both his hands behind him with his garters,
+
+
+And after in their rude robustious rage,
+
+
+Tide both his feete, and cast him in the cage,
+
+
+There all night he remained in lowsie litter,
+
+
+Which for the Constable had bin much fitter,
+
+
+Or for some vagabond (that's sprung from 
+Caine,
+)
+
+
+Some rogue or runagate, should there haue laine,
+
+
+And not a Gentleman that's well descended,
+
+
+That did no hurt, nor any harme intended:
+
+
+But for a bonfire in fit time and place,
+
+
+To be abus'd and vs'd thus beastty base.
+
+
+There did I leaue him till the morrow day,
+
+
+And how he scap'd their hands I cannot say.
+
+
+This piece of officer, this nasty patch,
+
+
+(Whose vnderstanding sleepes out many a watch)
+
+
+Ran like a towne bull, roring vp and downe,
+
+
+Saying that we had meant to fire the towne;
+
+
+And thus the diuell his maister did deuise,
+
+
+To bolster out his late abuse with lies;
+
+
+So all the streete downe as I past along,
+
+
+The people all about me in a throng,
+
+
+Calling me villaine, traytor, rogue, and theife,
+
+
+Saying that I to fire their towne was cheife.
+
+
+I bore the wrongs as patient as I might,
+
+
+Vowing my pen should ease me when I write;
+
+
+Like to a grumbling cur, that sleepes on hay,
+
+
+Eates none himselfe, driues other beasts away,
+
+
+So this base fellow would not once expresse,
+
+
+Vnto his Prince, a subiects ioyfulnesse,
+
+
+But cause we did attempt it (as you see)
+
+
+H'imprison'd 
+Thompson,
+ and thus slandered me.
+
+
+Thus hauing eas'd my much incensed muse,
+
+
+I craue the reader this one fault excuse,
+
+
+For hauing vrg'd his patience all this time,
+
+
+With such a scuruy subiect, and worse rime;
+
+
+And thou 
+Graues-endian
+ officer take this,
+
+
+And thanke thy selfe, for all that written is,
+
+
+'Tis not against the towne this tale I tell,
+
+
+(For sure there doth some honest people dwell,)
+
+
+But against thee, thou fiend in shape of man,
+
+
+By whom this beastly outrage first began,
+
+
+Which I could do no lesse, but let thee know,
+
+
+And pay thee truely what I long did owe,
+
+
+And now all's euen betwixt thou and I,
+
+
+Then farrewell and be hang'd, that's twice God buy.
+
+
+
+
+Sunday the 26 of 
+August
+ we set sayle from 
+Graues-end,
+ and with various windes, some large and some scarce, we happily past the seas, and sayled vp the riuer of 
+Maze,
+ by the 
+Brill,
+ and on the wednesday following I ariued at 
+Ro∣terdam
+ in 
+Holland,
+ at which time the worthy regiment of the right honorable Colonell Sir 
+Horace Veare,
+ and the two noble Earles, of 
+Essex,
+ and 
+Oxford
+ departed from thence in Martiall Equipage toward the Pallatinate Country, whose Heroick and Magnanimous endeauors, I beseech the Lord of hosts, and God of battells to direct and blesse.
+
+
+The same day, I went to the 
+Hage,
+ and from thence to 
+Leyden,
+ where I lodged all night, and the morrow being thurseday the 30 of 
+August,
+ I sayled from 
+Leyden,
+ to 
+Am∣sterdam,
+ where I saw many things worthy the noting, but because they are so neere and frequent to many of our Nation, I omit to relate them, to auoid teadiousnes: but on the friday at night I got passage from thence towards 
+Hambrogh,
+ in a small hoy, in the which wee were weather-beaten at sea three dayes and nights before wee ariued there.
+
+
+Saterday the eight of 
+September
+ I left 
+Hambrogh,
+ and being carried day and night in waggons, on the mun∣day night following I came to an ancient towne called
+
+
+
+Heldesheim,
+ it standeth in 
+Brunswick
+ land, and yet it be∣longeth to the Bishop of 
+Collin,
+ where I did obserue in their 
+Doome Kirke,
+ or Cathedrall Church, a crowne of siluer 80 foote in compasse, hanged vp in the body of the Church, in the circuit of which crowne were placed 160 wax candles, the which on festiuall dayes, or at the cele∣bration of some high ceremonies are lighted to lighten their darknesse, or their ignorance, chuse yee whether.
+
+
+Moreouer there I saw a siluer bell in their steeple, of six hundred and 30 l. weight, and the Leades of their steeple, shining and sparkling with the Sun beames, they did affirme to mee to bee gold, the truth of which I am doubtfull of.
+
+
+In this towne I stayed foure dayes, and on friday the 14 of 
+September,
+ I went six dutch miles to the strong towne of 
+Brunswick,
+ where by reason of my short stay, which was but two houres, I obserued nothing worthy of memory, but their triple walls, and double ditches, their artillery and fortifications, which they thinke to be im∣pregnable; besides, there I saw an old house of the Duke of 
+Brunswicke,
+ with the statue of a golden lyon, of a great bignesse, standing aloft vpon a piller, with the broken walls, and houses, which the Dukes Cannon hath left there six yeares since, as tokens and badges of his fury, and their rebellion.
+
+
+From thence on the morrow I went one dutch mile further, to an ancient towne called 
+Wolfunbuttle,
+ where the Duke of 
+Brunswick
+ keepes his Court, in the which I and my fellow could get no further admittance, then ouer a bridge into his outtermost, or base court; for his souldiers, seeing vs with swords and pistolls, were feare∣full,
+
+
+belike, that wee would haue taken the fortresse from them, and therefore though wee were but two English∣men, yet they durst not let vs enter; which made men call to remembrance the frequent, and dayly Egresse and Regresse, that all people and nations haue to his Maiesty royal Court of great 
+Brittaine,
+ where none that are of any good fashion or aspect are debar'd entrance: when those inferiour Princes houses are garded with hungry Hal∣berdiers, and reuerend rufty bil-men, with a brace or two of hot shots, so that their pallaces are more like prisons, then the free & noble courts of cōmanding potentates.
+
+
+After two dayes entertainment at 
+Wolfunbuttle,
+ with an English Merchant residing there, of good fame and credit, named Maister 
+Thomas Sackuille,
+ I wish my bro∣ther, my fellow 
+Tilbery,
+ and another man in my company departed from thence on foote, onward on our iourny towards 
+Bohemia,
+ in which trauell, what occurrences hap∣ned, and what things of note I saw, were as followeth.
+
+
+Passing with many weary steps, through the townes of 
+Rosondink, Remling, Soolem, Hessen Darsam,
+ and 
+Haluerstade,
+ (which is all in 
+Brunswick
+ land,) But this towne of 
+Haluer∣stade
+ belongs to a Bishop so stiled, who is Duke 
+Christian
+ brother to the now Duke of 
+Brunswick,
+ a long dutch mile (or almost six English) is a small towne or a Bleck called 
+Groning
+ belonging to the Duke, in the which place I obserued two things worthy of re∣membrance.
+
+
+First a most stately Pallace built with a beautiful Chap∣pell, so adorned with the images and formes of Angells, and Cherubins, with such exquisitenes of arts best indu∣stry of caruing, grauing, guilding, painting, glasing, and
+
+
+pauing, with such superexcellent workmanship of or∣ganes, pulpit and font, that for curiosity and admirable rarenesse, all the buildings, and fabricks that euer I be∣held, must giue it preheminence. I confesse that 
+Henry
+ the seuenths Chappell at 
+Westminster,
+ Kings Colledge Chappell in 
+Cambridge,
+ and Christs Church in 
+Canter∣bury,
+ are beyond it in height and workmanship of stone: for indeed this Chappell is most of wood gipps, and pla∣ster of 
+Parris
+; but it is so guilded as if it had bin made in the golden age, when gold was esteemed as drosse, so that a man had need to weare a vaile ouer his dazeling eyes, or else he can hardly looke vpon it.
+
+
+The caruing and painting seeme to outgo the arts of 
+Pigmalion, Apelles,
+ or 
+Praxiteles
+; the pauing of chequered blacke and white marble, and the windowes glassed with Christall: but all this great cost and shew is very little to the honor of God, or the propagation of the Ghospel, the edification of the ignorant. For in this Chappell of ease, there is no Seruice. If the painted pulpit could preach, the dumbe images might (perhaps) haue a ser∣mon now and then; for scarce at any time there comes a∣ny body into the Chappell, but a fellow that shewes the beauty of it for two pence or three pence a piece.
+
+
+In the same house, in a place or celler built of purpose, is a great tonne or vessell of wood, that was 7 yeares in making, and hath vsed to be filled with Rhenish wine: it is sayd to bee twice as bigge as the vessell at 
+Heidelberg,
+ and the hoopes of it are twelue inches thick, and the staues or bordes of it being as much: I went vp to the top of it, with a ladder of 18 stepps, hee that keepes it saith it will hold 160 tonnes. My fellow 
+Tilbery
+ did creepe in at
+
+
+the tap hole; it is in length 32 foote, and in breadth acrosse 19, and verily I thinke that bable cost more mo∣ny the making, then would haue built a good ship, or founded an almes house for 6 poore people.
+
+
+
+
+This is a Tub of Tubs, Tub of Tubs Hall,
+
+
+Who n'ere had fellow yet, nor euer shall;
+
+
+O had 
+Diogenes
+ but had this a Ton,
+
+
+He would had thought that he more roome had won,
+
+
+Then 
+Alexanders
+ conquests, or the bounds
+
+
+Of the vast 
+Occean,
+ and the solid grounds.
+
+
+Or had 
+Cornelius
+ but this tub, to drench
+
+
+His clients that had practis'd too much French,
+
+
+A thousand hogsheads then would haunt his firkin,
+
+
+And Mistris 
+Minks
+ recouer her lost mirkin.
+
+
+This mighty cask great 
+Bacchus
+ vs'd too stride,
+
+
+When he to drunkards hall did often ride;
+
+
+And in this barrell he did keepe his court,
+
+
+Bathing himselfe in Rhenish for disport.
+
+
+But now these 
+8
+ yeares it hath dry bin kept;
+
+
+In it the wine-god hath nor pist or wept;
+
+
+That now the Cappell, and the cask combine,
+
+
+One hath no preaching, t'other hath no wine.
+
+
+And now the vse they put it to is this,
+
+
+'Tis shew'd for mony, as the Chappell is.
+
+
+
+
+From 
+Groning
+ wee trauelled to a towne called 
+Ashers Leauen,
+ to 
+Ashleauen,
+ to 
+Kinderne,
+ to 
+Hall,
+ and so to 
+Leip∣zig,
+ which is one of the chiefest townes in 
+Saxony,
+ being famous for a yearely Mart that is yearely held there, whereto Merchants and other people from the most part
+
+
+of Christendom haue annual concourse: in this towne we stayd two dayes, and taking our leaue then of some Eng∣lish Merchants, who vsed vs kindly, we there would haue hired a coach or waggon to 
+Prague
+; but all the 
+Saxon
+ coach-men and carters were afraid to looke vpon any part of 
+Bohemia,
+ because their Duke is a profest enemy in armes against the King of 
+Beame,
+ so that we were forced to hire a fellow with a wheelebarrow two dayes to carry our cloakes, swords, guns, pistolls, and other apparell and luggage which were our necessaries, to a towne called 
+Boorne,
+ to 
+Froburge,
+ and so to another towne called 
+Penigh,
+ where wee cashierd our one-wheel'd coach, and hired a cart with two, which carried both vs and our baggage to 
+Chemnizt
+ another towne in 
+Saxony,
+ from whence to a place called 
+Shop,
+ wee were faine to bee our owne sumpter horses, walking on foote to the last towne in 
+Saxony,
+ cal∣led 
+Marienberg.
+ From thence passing vp and downe in∣accessable mountaines, we came to a wood, which parts 
+Bohemia
+ from 
+Saxony
+ on the west, which wood is called by the people of those parts the 
+Beamer Wolts
+ or 
+Wolt,
+ and is in breadth to English miles, and in length further then I know how to describe truely: but this much of it I dare affirme, that it is a naturall impregnable wall to the kingdome of 
+Bohem,
+ which kingdome is all incompast round with woods and mountaines, so that there is no passage on that side of it, for any army to enter into it with munition and artillery, all the wayes being vneuen, and the mountaine tops all boggs, mosses, and quag∣mires, that great ordnance or any heauy cariage either of horse, cart or waggon, will sinke and be lost. Besides, there are numbers past numbring of Firre trees, many
+
+
+standing, and such store fallen of themselues, that any passage might easily be stopped by laying them crosse the way. And of all my iourny, the trauell through that dis∣mall wood was the most heauy vnto mee, for the trees grew so thicke, and so high, that the sunne was obscured, and the day seemed night; in some places, the way paued with swimming trees 2 miles together on the tops of hills, which now and then I slipping besides, sunke to the middle in a quagmire.
+
+
+When wee had thus footed it, and trauelled past the hills and woods, (being at the least 4 houres toyle) and that wee might looke downe the mountaines into the fruitfull land of 
+Bohem,
+ neuer did sight more reioyce vs, the lower hills being all full of Vineyards, and the val∣lies, corne and pasture; not an English mile distance, but a village euery way; and twenty, thirty, or forty reekes or stacks of corne which their barnes cannot hold, in the space of euery houres iourny: in a word, euery thing that belonged to the vse and commodity of man was and is there, and al the delightfull obiects to satisfie euery sence is there abundantly, so that nature seemed to make that Country her storehouse or granary, for there is nothing wanting except mens gratitude to God for such blessings.
+
+
+The first night we lodged there at a pretty towne cal∣led 
+Comoda,
+ which towne by negligence and occasion of fire had fifty houses burnt two dayes before our com∣ming thither, it being eleuen dutch miles from 
+Prague.
+ There we hired a wagon 7 dutch miles to a towne called 
+Slowne,
+ from whence we walked on foote a long 16 Eng∣lish miles to 
+Prague,
+ which long looked for the Citty wee could not see vntill we came within an houres trauell of
+
+
+it: within halfe a dutch mile is a fearefull place, being fre∣quented with inhumaine and barbarous murderers, that assault trauellers, first shooting and murdring them, and after searching their pockets, where if they haue mony or not, all is one, it is but so many slaine: for these villaines haue a wood, and a deepe valley to shelter themselues in, that they are hardly taken afterwards; but if they chance at any time to be but apprehended, they are racked and tortured to make them confesse, and afterwards their ex∣ecutions are very terrible. But (I thanke God) wee past that place, and many other as dangerous as that, where some were robbed and murdered (as report told vs) both before vs, behind vs, and on each side: and we saw in our iourny aboue seauen score gallowses and wheeles, where thieues were hanged some fresh, and some halfe rotten, and the carkases of murtherers, broken limb after limb on the wheeles; and yet it was our happines onely to see the dead villaines, and escape the liuing.
+
+
+I came into 
+Prague
+ on thurseday the seauenth of 
+Sep∣tember,
+ whither if I had come but the friday before, I had seene a most fearefull execution of two notori∣ous offenders; the manner how, with their faults, as it was truely related to me by English Gentlemen that saw it, I thinke it not much impertinent to relate.
+
+
+The one of them being taken, apprehended and rac∣ked, for ripping vp aliue a woman with child, and for ta∣king the infant out of her body, did sowe a liuing pup∣py into her belly; all which hee confessed hee did to make properties for wichcraft: and beeing further tortured, hee confessed when and where hee had committed 35. mur∣thers more: the other in respect of him was but a petty
+
+
+offender, for he in all his life time had murthered but 14. For the which execrable facts, their deserued executions were as followeth: First, they were brought out of the Iayle naked from the girdle vpward; and so being bound fast on high in a cart, that the spectators might see them; then the Hangman hauing a panne of coales neere him, with red hot pincers nip'd off the nipple of one brest; then he tooke a knife and giues him a slash or cut downe the backe on one side, from the shoulder to the waste; and presently gaue him such another slash, three inches from the first; then on the top he cut the slashes into one;, and presently taking pincers, tooke hold of the crosse cut, and tore him downe like a Girse below the middle, letting it hang downe behind him like a belt: after which he tooke his burning pincers, and pluck'd off the tops of his fingers of one hand: then passing to another place of the Towne, his other nipple was plucked off, the other side of his back so cut and mangled, (which they call by the name of rimming, (if it had beene riming, I would neuer haue written but in prose) his other fingers nip'd off; then passing further, all his toes were nip'd off with the bur∣ning pincers: after which he was enforced to come out of the cart, and goe on foote vp a steepe hill to the Gal∣lowes, where he was broken with a wheele, aliue, one bone after another, beginning at his legs and ending with his neck, and last of all quartered and layd on the wheele, on a high post, till Crowes, Rauens, or consuming time con∣sume him.
+
+
+This was the manner of both their executions, but I speake but of the greatest murtherer particularly, because it is reported, that all these torments neuer made him
+
+
+once to change countenance, or to make any signe or action of griefe, to call to God for mercy, or to entreate the people to pray for him; but as if he had beene a sense∣lesse stocke or stone, he did most scornefully, and as it were in disdaine abide it: whilst the other villaine did crye, rore, and make lamentation, calling vpon God often; the difference was not much in their liues, and manner of their deaths, but I am perswaded the odds was great in their dying.
+
+
+The City of 
+Prague
+ is almost circular or round, being diuided in the middle by the riuer of 
+Moldoue,
+ ouer which is a faire stone Bridge, of 600. paces ouer, and at each end a strong gate of stone: there is said to be in it of Churches and Chappels, 150. for there are great numbers of Ca∣tholiques, who haue many Chappels dedicated to sundry Saints, and I was there at foure seueral sorts of diuine ex∣ercises; viz. at good sermons with the Protestants, at Masse with the Papists, at a Lutherans preaching, and at the Iewes Synagog; three of which I saw and heard for curiosity, and the other for edification.
+
+
+The Iewes in 
+Prague
+ are in such great numbers, that they are thought to be of men, women and children, be∣twixt 50. or 60000. who doe all liue by brocage and vsu∣ry vpon the Christians, and are very rich in money and Iewels, so that a man may see tenne or twelue togither of them, that are accounted worth 20. 30. or 40000. l. a∣piece; and yet the slaues goe so miserably attired, that 15. of them are not worth the hanging for their whole ward∣robes.
+
+
+The Castle where the King and Queene doe keepe their Court, is magnificent and sumptuous in building,
+
+
+strongly situated and fortified by nature and art, being founded on a high hill, so that at pleasure it keepes the towne in command, and it is much more spacious in roomes for receipt in gardens and orchards, then the Towre of 
+London.
+ I was in it dayly the space of 20 dayes, and saw it royally graced with the presence of a gracious King & Queen, who were honorably attēded by a gallant courtly traine of Lords and Ladies, and Gentles, of the high 
+Dutch
+ and 
+Bohemians,
+ and where was free & bountiful entertainment to strangers in abundance: I must euer humbly and thankfully acknowledge the Queenes Maie∣sties goodnesse towards mee, whose vndeserued fauours were helpful vnto me both there, and in my tedious ior∣ny home-ward. Moreouer there I saw (and had in mine armes) the King and Queenes yongest son, Prince 
+Robert,
+ who was borne there on the 16 of 
+December
+ last: a goodly child as euer I saw of that age, whom with the rest I pray God to blesse; to his glory and his Parents ioy and com∣fort.
+
+
+
+
+There (for a token) I did thinke it meete,
+
+
+To take the shoes from off this Prince his feete:
+
+
+I doe not say I stole, but I did take,
+
+
+And whilst I liue I'le keepe them for his sake:
+
+
+Long may his Grace liue to be stylde a man,
+
+
+And then I'le steale his bootes too, if I can.
+
+
+The shoes were vpright shoes, and so was he
+
+
+That wore them, from all harme vpright and free:
+
+
+He vsde them for their vse, and not for pride,
+
+
+He neuer wrong'd them, or ne're trod a side.
+
+
+Lambskin they were, as white as Innocence,
+
+
+(True patternes for the footsteps of a Prince,)
+
+
+And time will come (as I do hope in God)
+
+
+He that in childhood with these shooes was shod,
+
+
+Shall with his manly feete once trample downe,
+
+
+All Antichristian foes to his renowne.
+
+
+
+
+The citty of 
+Prague,
+ hath in it (by reason of the wars) thrice the number of it's owne inhabitants, and yet for all that, victuals is in such great plenty, that 6 men can∣not eate three halfe penny worth of bread, and I did buy in the market a fat goose well roast for the vallew of nine pence English, and I and my brother haue dined there at a Cookes with good roasted meate, bread and beere, so that we haue bin satisfied and left, for the vallew of fiue pence: a good turky there may bee bought for two shil∣lings, and for fresh fish I neuer saw such store, for in one market day I haue knowne in 
+Prague
+ 2000 carps, besides other fishes, which carps in 
+London
+ are fiue shillings a piece, and there they were for eight pence, or ten pence at the most, so that one of their fresh fish markets heere were worth at the least 5 or 600 pounds, and as for all other manner of wild foule, they are there in sa∣tiety, besides their fruites are in such abundance that I boght a basket of grapes of the quantity of halfe a pecke for a penny & farthing, & a hat-ful of faire peaches for as much, pickled cowcumbers I haue bought a pecke for three pence, and muskmellons, there hath bin cast fiue or six carts load of them in one day to their hoggs.
+
+
+As concerning the dyet that is in the Kings armies, I could neuer yet heare any man complaine of want, but that it is more plentifull then in the citty, the grea∣test scarcity hath bin to some sicke souldiers, who being not able to march with the leaguers (by reason of their weakenes) they haue bin left amongst the Boores, or hus∣bandmen
+
+
+in the next villages, where their languages not vnderstood, their succour hath bin but small, but for all this in the campe hath euer bin a continuall cheapnes of all things, the King most duely paying his souldiers at the end of euery month, hauing in his great leguer, vnder the conduct of the Princes of 
+Hollock
+ and 
+Anhalt,
+ of foote and horse 43000, and at the least of carts and waggons to carry prouision, and baggage for the army, to the number of 18000. In his little leaguer vnder the leading of Count 
+Mansfelt
+ there are of foote and horse 7000, be∣sides carrs and waggons for carriage, and yet for these great numbers of men and beastes, there is food in all a∣bundance.
+
+
+In the campe with 
+Graue Mansfelt
+ is the 
+Brittane
+ regi∣ment vnder their Colonel Sir 
+Andrew Gray
+ Knight, and in 
+Prague
+ I met with many worthy Gentlemen and soul∣diers, which were there sicke, as the worthy Captaine 
+Bushell,
+ Lieutenaut 
+Grimes,
+ Lieuetenant 
+Langworth,
+ Anci∣ent 
+Galbreath,
+ Ancient 
+Vandenbrooke,
+ Maister 
+Whitney,
+ Maister 
+Blundell
+ and others, all which did most courte∣ously entertaine me, vnto whom I must euer rest thankful, and they do affirme that now it hath pleased God to grant their souldiers recouery, that they do hope euery 
+Brittaine
+ souldier doth retaine more good spirit, then 3 enemies of what nation soeuer.
+
+
+Thus hauing shewed part of the best things in 
+Bohemia,
+ the Court and Citty of 
+Prague,
+ it shall not be amisse if I relate a little merily, of some things there tolerable, some intollerable, some naught and some worse then naught; for as euery rose hath a prickle, and euery Bee a sting, so no earthly kingdome hath such persection of goodnesse, but it may be iustly taxed with imperfections.
+
+
+
+
+
+
+Prague
+ is a famous, ancient, kingly seate,
+
+
+In scituation and in state compleate,
+
+
+Rich in aboundance of the earths best treasure,
+
+
+Proud and high minded, beyond bounds or measure,
+
+
+In Architecture stately; in Atire,
+
+
+Bezonians
+ and 
+Pleibeians
+ do aspire,
+
+
+To be apparell'd with the stately port
+
+
+Of worship, honor, or the royall court;
+
+
+There coaches, and carroches are so rife,
+
+
+They do attend on euery trades mans wife,
+
+
+Whose husbands are but in a meane regard,
+
+
+And get their liuing by the ell or yard,
+
+
+How euer their estates may be defended,
+
+
+Their wiues like demy ladies are attended:
+
+
+I there a Chimney sweepers wife haue seene,
+
+
+Habillimented like the diamond Queene,
+
+
+Most gaudy garish, as a fine maid marrian,
+
+
+With breath as sweete as any suger carrion,
+
+
+With sattin cloake, lin'd through with budg, or sable,
+
+
+Or cunny furre (or what her purse is able)
+
+
+With veluet hood, with tiffanies, and purles,
+
+
+Rebatoes frizlings, and with powdred curles,
+
+
+And (lest her hue or sent should be attainted,
+
+
+She's antidoted, well persum'd and painted,
+
+
+She's fur'd, she's fring'd, she's lac'd and at her wast,
+
+
+She's with a massie chaine of siluer brac'd,
+
+
+She's yellow starch'd, she's ruff'd, and cuff'd, and muff'd,
+
+
+She's ring'd, she's braceleted, she's richly tuff'd,
+
+
+Her petticoale, good silke as can be bought,
+
+
+Her smocke, about the taile lac'd round and wrought,
+
+
+Her gadding legges are finely spanish booted,
+
+
+The whilst her husband, like a slaue all sooted,
+
+
+Lookes like a courtier to infernall 
+Pluto,
+
+
+And knowes himselfe to be a base cornuto.
+
+
+Then since a man that liues by chimny sweepe,
+
+
+His wife so gaudy richly clad doth keepe,
+
+
+Thinke then but how a Merchants wife may go,
+
+
+Or how a burgamaisters wife doth show;
+
+
+There (by a kind of top sie turuy vse,)
+
+
+The women weare the bootes, the men the shooes,
+
+
+I know not if't be profit, or else pride,
+
+
+But sure th'are oft'ner riden then they ride:
+
+
+These females seeme to be most valiant there,
+
+
+Their painting shewes they do no colours feare,
+
+
+Most art-like plastring natures imperfections,
+
+
+With sublimated, white and red complexions;
+
+
+So much for pride I haue obserued there,
+
+
+Theire other faults are almost euery where.
+
+
+
+
+Thus hauing stayd in 
+Prague
+ almost 3. weekes, I retur∣ned from thence homeward, on tuesday, the 26. of Sep∣tember, hauing in my company three Gentlemen, a wid∣dow (and foure small children) whose husband and being an English man, and the Kings Brewer for Beere, deceased, and was buried there in 
+Prague
+ whilst I was there: the good desolate woman hauing receiued reward after se∣uen yeares seruice there and at 
+Heidelberg,
+ being desirous to retire to her countrey (England) came with vs, with my brother, and my fellow 
+Tilbery.
+ We tooke two Coaches at the Castle of 
+Prague,
+ & in a day and halfe, we were car∣ried seuen Duch miles, to a Towne in 
+Bohemia
+ (standing on the riuer of 
+Elue
+) called 
+Leutmeritz,
+ at which Towne we all layd our moneyes together, and bought a boate of 48. foote in length, and not 3. foote in bredth, and be∣cause we did not know the riuer, wee hired a 
+Bohemian
+ waterman to guide vs 15. dutch miles, to the Towne of
+
+
+
+Dreason
+ in 
+Saxony.
+ But 4. miles short of that Town, which was the first Towne in the Saxon Countrey, called 
+Pirne,
+ where we were stayed 5. houres without the gates, til such time as the Burgamaster wold be pleased to examin vs: in the meane space our waterman (not daring to abide the terrible triall of examination, because the Duke of 
+Saxon
+ was in Armes against the King of 
+Beame
+) hee ran away, and left vs to bring the boate downe the riuer, 600. Eng∣lish miles our selues to 
+Hamburgh.
+
+
+But now to close vp all, I will relate what rare dyet, excellent cookery, and sweete lodging we had in ouriour∣ney in 
+Germany
+: first for our comfort, after very hard get∣ting of houseroome, our lodgings was euery night in straw, where lying together well littered, we honestly al∣wayes left our sheetes behind vs: then at our suppers at a table square, and so broad, that two men can hardly shake hands ouer it, we being some twelue about it. Our first dish being a raw cabbadge, of the quantity of halfe a pecke, cut and chopped small, with the fat of resty bacon powred vpon it in stead of oyle; which dish must be emp∣tied before we could get any more: Our second dish per∣haps, a peck of boylde Apples and honey, the Apples be∣ing boyled skins, stalkes, cores, and all: Thirdly, 100. Gudgeons, newly taken perhaps, yet as salt as if they had beene three yeares pickled, or twice at the East Indies, boyled with scales, guts an all, and buried in Ginger like sawdust: a fresh pike as salt as brine, boyled in flat milke, with a pound of Garlick. This was the manner of the most part of our dyet; and if we did aske them why they did salt their meate so vnreasonably, their answere was, that their beer could not be consumed, except their meat were salted extraordinarily.
+
+
+If a man doe finde fault or seeme distasted with their beastly dyet, he is in danger to be thrust out of dores, and take vp his lodging in the streetes: and in the conclusion when dinner or supper is ended, then comes mine Host, or his leather lip'd Froe, with a sawcy reckoning of what they please, which sounds in our eares like a harsh Epi∣logue, after a bad playe; for what they say wee must pay, their words are irreuocable (like the ancient Kings of 
+Persia
+) and we must not question or aske how and how it can bee so much, but pay them their demand without grumbling to halfe a farthing.
+
+
+Which made me call to minde sixe seuerall princi∣pals, that doe belong to a traueller, as patience, silence, warinesse, watchfulnesse, a good stomacke, and a purse wel moneyed; for if he want any one of these, (perhaps) the other fiue will neuer bring him to his iour∣nies end. A mans patience must be such, that (though he be a Barron) he must beare all abuses, either in words, lod∣ging, dyet, or almost any thing, though offered from or by a sowter, a tinker, or a Merchant of tripes & turneps; his silence must be, that though he heare & vnderstand him∣selfe wronged, yet he must be as dumbe as a Gudgeon or a Whiting mop: and though his mouth be shut, his wa∣rinesse must be such, that his eares must be euer open, to listen and ouer-heare all dangers that may bee complot∣ted against him: his watchfulnesse must be so, that he must seldome sleep with both his eyes at once, lest his throat be cut before he wake againe. But for his stomacke, hee must eate grasse with a horse, aud draffe with the hogges, for hee that cannot eate pickl'd herring broth, and dirty puddings, shall many times fast by authority, and goe to bed withont his supper: and last of all, he must haue 
+For∣tunatus
+
+
+
+or a Prince his purse, that must bee (like a drun∣kards dagger) euer drawne, to pay bountifully for such wash and graines, as his valiant stomack hrth ouercome, conquered and deuoured: but of this a little in verse:
+
+
+
+
+Sixe things vnto a Traueller belongs,
+
+
+An Asses backe, t'abide and beare all wrongs:
+
+
+A fishes tougue (mute) grudging speech forbearing,
+
+
+A Harts quick eare, all dangers, ouerhearing.
+
+
+A dogs eyes, that must wake as they doe sleepe,
+
+
+And by such watch his corpes from perill keepe.
+
+
+A swines sweete homely taste, that must digest
+
+
+Al Fish, Flesh, Rootes, Fowle, foule and beastly drest;
+
+
+And last, he must haue euer at his call
+
+
+A purse well lynde with coyne to pay for all.
+
+
+
+
+With this kinde of lodging and dyet, and with te∣dious labour sometimes night and day, wee came in 14. dayes 607. miles from 
+Prague
+ in 
+Bohemia,
+ to 
+Hambrogh
+ on the hither skirts of 
+Germany,
+ the riuer hauing aboue 1000. shelues and sands, and 800. Ilands, so that a man cannot see on which side of them to goe, there being 240. mills chained in boates on the first streame, and a num∣ber numberlesse of Oakes and other trees sunke with the violence of the Riuer, and sometimes fogs and mists that we could not see a boates length from vs: besides great Rocks, and stones that were fallen into the water, that any or many of these impediments do often ouerthrow boats, and drowne passengers; yet I, and my fellow 
+Tilbery
+ (wee being both his Maiesties watermen) did by Gods assi∣stance safely escape them all, and brought our selues, as is afore-sayd, to 
+Hamborogh,
+ where being winde bound 10. dayes, I thanke the English Merchants, I was well welco∣med, vntill at last it pleased God, the winde came faire, I
+
+
+tooke ship, and after 9. dayes and nights of various wea∣ther (I giue prayse to the Almighty) I safely came home to my house in 
+London,
+ on saterday the 28. of September. 1620.
+
+
+
+
+You that haue bought this, grieue not at the cost,
+
+
+Ther's something worth your noting, al's not lost,
+
+
+First halfe a Constable is well bumbasted,
+
+
+If there were nothing else, your coynes not wasted,
+
+
+Then I relate of hills, and dales, and downes,
+
+
+Of Churches, Chappels, Pallaces and Townes,
+
+
+And then to make amends (although but small)
+
+
+I tell a tale of a great Tub withall,
+
+
+With many a gallowse, Iibbit, and a wheele,
+
+
+Where murdrers bones are broke, from head to heele;
+
+
+How rich 
+Bohemia
+ is in wealth and food,
+
+
+Of all things which for man or beast is good.
+
+
+How in the Court at 
+Prague
+ (a princely place)
+
+
+A gracious Queene vouchsafed me to grace,
+
+
+How on the sixteenth day of 
+August
+ last,
+
+
+King 
+Frederick
+ to his royall army past,
+
+
+How fifty thousand were in armes araid,
+
+
+Of the Kings force, be side th' 
+Hungarian
+ ayde,
+
+
+And how 
+Bohemia
+ strongly can oppose,
+
+
+And cuffe and curry all their daring foes.
+
+
+Then though no newes of state, may heere be had,
+
+
+I know heer's something will make good men glad,
+
+
+No bringer of strange tales I meane to be,
+
+
+Nor ile beleeue none that are told to me.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

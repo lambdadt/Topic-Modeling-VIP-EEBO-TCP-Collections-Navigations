@@ -1,0 +1,403 @@
+A Description of Buda, in its ancient and present state with an exact and compleat account of the siege thereof : began by the Duke of Lorrain, July 14. 1684, and continued by him and the elector of Bavaria, till November the first, at which time the siege was raised.
+Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2005-10 (EEBO-TCP Phase 1).
+A35757
+
+
+
+
+Wing D1146
+
+
+
+ESTC R41092
+
+
+
+
+
+ocm 19618833
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Description of Buda, in its ancient and present state with an exact and compleat account of the siege thereof : began by the Duke of Lorrain, July 14. 1684, and continued by him and the elector of Bavaria, till November the first, at which time the siege was raised.
+1 broadside : map.  
+
+
+London :
+
+
+Printed for T.M. and sold by Will. Benbridge ...,
+
+
+1685.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Buda (Hungary) --  Description and travel.
+Buda (Hungary) --  History.
+Hungary --  History --  1683-1848.
+2004-10
+TCP
+Assigned for keying and markup
+2004-11
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2005-01
+Jonathan Blaney
+Sampled and proofread
+2005-01
+Jonathan Blaney
+Text and markup reviewed and edited
+2005-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+D1146
+
+
+19618833
+
+
+109208
+
+
+
+
+
+
+
+
+
+
+
+
+A Description of BUDA, in its Ancient and Present State; With an Exact and Compleat Account of the SIEGE thereof: 
+Began by the Duke of
+ Lorrain, July 14. 1684, 
+and Continued by him and the Elector of
+ Bavaria, 
+till
+ November 
+the First, at which time the Siege was Raised.
+
+
+
+
+
+
+BUDA,
+ which was ever accounted the most considerable and important City in 
+Hungary,
+ is by the 
+Dutch
+ called 
+Offeir,
+ and supposed by some Historians to be the 
+Curia
+ of 
+Pto∣lemy,
+ but by others with more probability thought to be the 
+Abriueum
+ of 
+Amoninus,
+ and to have received its name of 
+Buda,
+ either from 
+Buda
+ the Brother of 
+Mila
+ by whom it is said to be rebuilt, or else from the 
+Bu∣dini
+ a 
+Scythian
+ People mentioned in 
+Herodotus.
+ It is very pleasantly, though somewhat unevenly situated amidst divers Hills, in the pleasantest and most fruit∣ful part of all the Country, on the South side of the 
+Danow.
+ It is curiously beautisied and adorned with many great and sumptuous Buildings, and Publick Edi∣f
+s, and exceedingly well fortified with a well built Wall, and a strong Castle, supposed to be impregnable, & therefore continually watched by the jealous 
+Turks,
+ with all imaginable care and diligence, lest it should be surprized. It is furnished with several pleasant and me∣dicinal Baths, which are the greatest part of their pre∣sent pomp and s
+mptuousness to their new Masters the 
+Turks,
+ who took it from the Christians 
+May
+ 20. 1591.
+
+
+It was anciently the Metropolis of the King∣dom, and the Royal Seat of the Kings of 
+Hungary,
+ and by that means was grown both populous and rich. But 
+Solyman
+ the Magnificent, after he had conquered the 
+Rhodians,
+ seeing the Christian Princes at variance a∣mong themselves, and that their discords grew to a greater heat, he resolved to take the opportunity to inlarge his Dominion: And therefore raising an Army of Two hundred thousand Horse and Foot, he fell like a raging Tempest upon 
+Hungary,
+ subduing all before him, till he came within sight of the Walls of 
+Buda.
+ When 
+Lewis
+ King of 
+Hungary,
+ who was young, and un∣acquainted with the hazards of War, upon the persua∣sion of 
+Tomoreus
+ a Fryer, and a few other young rash Councillors, who aslured him of Victory, adventured to issue out, and give him Battel, contrary to the Opi∣nion of those of more gravity, who dissuaded him from so rash and desperate an Attempt, but was soon defeated with a miserable slaughter of his Men, and himself in his flight, as he was passing over a Fenny Ditch, was overthrown by his Horses falling back∣ward, and smothered in the Mud. Most of the 
+Hunga∣rian
+ Nobility were slain in this Fight, and almost all the common Souldiers.
+
+
+After which Victory 
+Solyman
+ had most of the strong Cities in 
+Hungaria
+ delivered into his hands; who thereupon gave the Kingdom to 
+Joannes Sepusius Vayvod
+ of 
+Transilvania:
+ But no sooner was he return∣ed to 
+Constantinople,
+ and 
+John
+ crowned, but 
+Ferdinand
+ King of 
+Bohemia
+ claimed the Kingdom, and being aided by his Brother 
+Charles
+ the Fifth Emperour of 
+Germany,
+ entred into 
+Hungary
+ with a great Army, and with little or no resistance took this strong City of 
+Buda.
+ And then marching to the Castle of 
+Tocai,
+ where King 
+John
+ lay with his Army, he gave him Battel, and after a bloody Fight obtain'd the Victory, and forced 
+John
+ to save himself by flying into 
+Poland.
+
+
+John
+ being now driven out of the Kingdom, 
+Ferdi∣nand
+ caused himself to be crowned King at 
+Alba Re∣galis,
+ the usual place for the Coronation of the 
+Hungari∣an
+ Kings. And this 
+Ferdinand
+ being after the death of his Brother 
+Charles
+ chosen Emperour, it hath ever since re∣mained as the Hereditary Possession of all his Successors. But 
+John
+ storming at his being thus thrust out of his Kingdom, mightily importuned 
+Sigismond
+ King of 
+Po∣land
+ to reinthrone him; but not prevailing there, he applied himself to the Grand Signior, who had at first advanced him to be King, intreating him now to aid him against 
+Ferdinand,
+ and restore him again to his lost Dominion. 
+Solyman
+ thereupon resolving to main∣tain the Crown upon the Head of this King of his mak∣ing, reentred 
+Hungary
+ with an huge Army, conquer∣ing all before him till he came to 
+Buda,
+ which was as soon as he came before it, surrendred to him with little or no resistance, together with the strong Castle, and hath ever since remained in the 
+Turks
+ possession.
+
+
+And as it had ever been till this time the Royal Seat of the King of 
+Hungary,
+ so hath it ever since it was possessed by the 
+Turks,
+ been the Residence of their chief 
+Bassa;
+ and hath proved more prejudicial and in∣jurious to the Emperial Territories, than all the 
+Turkish
+ Garrisons in 
+Hungary
+ besides. But the Grand Vizier being overthrown before 
+Vienna,
+ and forced to raise his Siege, and retire back into 
+Hungary,
+ he was pursu∣ed thither by the King of 
+Poland,
+ and the Imperial Forces. And after several defeats given to the 
+Turks,
+ the Duke of 
+Lorrain,
+ with the Imperial Army, sate down before 
+Buda
+ on the 14th of 
+July
+ 1684. And on the 19th took the lower Town by Assault 2500 
+Jani∣saries
+ and other 
+Turkish
+ Souldiers being slain in the dispute. The next day the Duke attackt the Fort of St. 
+Gerard,
+ which the 
+Turks
+ were forced to abandon, together with all the Cannon that was in it.
+
+
+After the abandoning of this Fort, the Duke being informed that an Enemy of 
+Turks
+ that lay hovering about three Miles from 
+Buda,
+ under the Command of the 
+Serasquier Bassa,
+ he resolved to remove them before he proceeded any further in the Siege. Where∣fore taking most of his Cavalry, and about 1000 Foot, he marcht with them all night, and came to their Camp about break of day, and fell upon them with such courage and fierceness, that after a Fight of four hours he gave them a total overthrow, forcing them to abandon their Camp, together with their Infantry, Cannon and Baggage, four or five thousand Men be∣ing slain on the place.
+
+
+This Victory thus obtained, he begirt 
+Buda
+ more strictly than before, whereupon the 
+Turks
+ made seve∣ral desperate Sallies, wherein they pressed hard upon the Christians who had the Guard of the Trenches, but were still beaten back with great loss. In the mean time the Duke continued to batter the Town with his Cannon and Bombs, & to spring several Mines where∣with he did great Execution, and made a large Breach in the Wall, but there being no want of help in the Town, in regard there were Eighteen or Nineteen thousand Men in Garrison, they quickly made up the Breaches, and being resolved to hold out to the last, made several Reintrenchments within the Wall. And the Seras∣quier 
+Bassa,
+ who still hovered about 
+Alba Regalis,
+ made several At∣tempts to force Count 
+Leslies
+ Camp, who lay with an Army at the Bridge of 
+Iurannovitz
+ on the River 
+Drave,
+ to cover the Siege, but was always repulsed with loss.
+
+
+The 
+Bassa
+ of 
+Buda
+ being slain, another of the Turkish 
+Bassa
+'s took that command, and appeared more resolute in the defence of the Town than the former. And when the Elector of 
+Bavaria
+ sent a Mes∣senger into the Town to acquaint him with his Arrival in the Camp, and that he was resolved not to stir from thence, till he had reduced the Place to the obedience of his Imperial Majesty, advising him to surrender in time, and not suffer things to come to extremity, which if he did, he must then expect no quarter; he boldly answered, that he very well understood the Rules of War, and therefore would not sur∣render the Place so long as he had Men and Ammunition to defend it, and Provisions to subsist on. Whereupon the Elector caused the Can∣non to play hard, and a Mine to be sprung on the side of the River, whereby he threw down a great part of the Wall: But the Serasquier willing to gratifie his Master with the Relief of 
+Buda,
+ made another At∣tempt to Raise the Siege, but with as bad success as formerly, being forced to retire under the Walls of 
+Alba Regalis,
+ and thinking himself safe there, repassed the Bridge of 
+Esseke
+ only in this Attempt about Five hundred 
+Turks
+ got into 
+Buda.
+
+
+But the Serasquier being again defeated, the 
+Bavarians
+ made a fierce Assault upon a Tower of the Castle, towards the water side, which they mastered at first, but being over-powered with numbers, were fore't to quit it again. And the besieged continued to make a stout resistance, though they were reduced to 4000 Men, and were in great want of Provision. On the 14th they sallied forth with such fury, that they forced the 
+Bavarians
+ from their Works, till reinforced by o∣ther Troops, and in a Sally they made the next day, they took away, and carried into the Town the Deal-boards, and other materials the Christians made use of in mining, and with incredible pain still coun∣termined the Christians Works. And the Serasquier lying with his Army within five Miles of 
+Buda,
+ hindered the Imperialists from forra∣ging, whereupon the Duke of 
+Lorrain,
+ with half the Horse and Dragoons, went to attack him, which the Serasquier being informed of by his Spies, retired again to his usual place of safety under the Walls of 
+Al∣ba Regalis.
+
+
+But being at last reinforced with a fresh supply of Men, which in∣creased his Army to 40000. On the 23d of 
+Octob.
+ he drew towards the Christians Camp with his whole Force, and four Pieces of Cannon, as though he were resolved to attack them in their Trenches; where∣upon a great Council of War was held among the Christians, to de∣bate whether they should go to meet the Enemy, or expect them in their Camp, which was very well fortified, the latter whereof was re∣solved on, only a small Body of Horse was sent out, who skirmished with some of the foremost of the Turkish Troops, whereupon the sub∣til 
+Turk,
+ who designed not to fight, but only to weary them out with frequent Alarms, retired. But the next day the Besieged making a resolute Sally, wherein they endeavoured to ruine one of the Batteries that did most annoy them, killed Collonel 
+Kimeg,
+ who commanded in the Trenches, and two Captains, and one Lieutenant, with about an hundred more; he commanded the 
+Bassa
+ of 
+Agria
+ to attempt the Re∣lease of the Town on the side of 
+Pest,
+ who having surprized and cut to pieces the few Imperialists whom he found there, conveyed in eight Boats about 300 
+Janisaries,
+ and some Provisions into the Town which they entred with flying Colours, and their accustomed Shouts which so encouraged the Besieged, who in all probability could not without this Relief have held out many days longer; that the next day they sallied forth again, and killed above an hundred of the Christians, and ruined several of their Works.
+
+
+But that which was more injurious to the Christians, and hindred their taking the City, was the great Rains which fell in such abundance, that the 
+Bavarians
+ Mines were so filled with Water, that they were forced to abandon them. And the chief Mine on the Imperialists side having been long ready, was at length discovered by the Besieged.
+
+
+The Serasquier being incouraged by the 
+Bassa
+ of 
+Agna
+'s Success, and the Damage he understood the weather had done in the Imperial Camp, sent out several strong Detachments, one whereof surprized several of the Imperial Forragers, took 500 Horse, and all the Baggage of the Regiment of the Count 
+de Stirum;
+ another took about 100 
+Hun∣garians,
+ who were going with Provisions to the Camp; and a third en∣deavoured to possess themselves of the heavy Baggage of the Christi∣ans, which the two Generals had sent to 
+Gran,
+ but failed of their En∣terprize, which made the Christians, who began now to despair of ta∣king the City this Campaign, think of raising the Siege, which was re∣solved on in a Council of War held on the 29th, their whole care being now to send away their Cannon, and secure their Retreat, in regard they expected the Serasquier to fall upon them.
+
+
+Wherefore all the sick and wounded Men, with the Baggage and the loose Retainers to the Camp being first sent away, the Cannon was drawn off from the Batteries, and planted in the Isle of St. 
+Andrews,
+ for defence of the Troops in their Retreat. And then the Cavalry be∣ing commanded to face the Enemy, whilst the Foot marched off, the whole Army consisting of 30000 Men, passed the 
+Danube November
+ the first on a Bridge of Boats, which they had kept there all the time of the S
+ege.
+
+
+The whole Action was performed with so much prudence and cau∣tion, that they lost not one Man in the Retreat; neither the Serasquier nor the Besieged daring to attack them.
+
+
+Some time before the Raising of the Siege, the Elector of 
+Bavaria
+ received a Message from the Governour of 
+Buda,
+ wherein he ac∣quainted him, that by his bold and adventurous appearing in the Trenches and places of the greatest danger, he had rendred himself very well known to his Souldiers, for which reason he advised him to take greater care of his person, in regard his Cannon knew no respect of persons.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed for 
+T. M.
+ and sold by 
+Will. Benbridge
+ in 
+Huggins-Alley
+ in 
+Woodstreet,
+ 1685.
+
+
+
+
+
+
+
+
+

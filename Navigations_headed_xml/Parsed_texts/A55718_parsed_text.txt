@@ -1,0 +1,9685 @@
+The present state of Hungary. Or, A geographical and historical description of that kingdom giving an account of the nature of the country, and of its inhabitants, of its government and policy; its religion and laws; of its division into counties and provinces; of its towns, castles, forts, rivers lakes, mountains, product, mines, minerals, and other rarities. Together, with the memorable battles and sieges that have happened there since the time of the Romans; but more particularly since the Turkish invasions. To which is added, a short account of Transilvania, and the lofty titles taken by those Turkish emperours, who have made war in those countries.
+Approx. 204 KB of XML-encoded text transcribed from 90 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A55718
+
+
+
+
+Wing P3266
+
+
+
+ESTC R218986
+
+
+
+
+
+99830528
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The present state of Hungary. Or, A geographical and historical description of that kingdom giving an account of the nature of the country, and of its inhabitants, of its government and policy; its religion and laws; of its division into counties and provinces; of its towns, castles, forts, rivers lakes, mountains, product, mines, minerals, and other rarities. Together, with the memorable battles and sieges that have happened there since the time of the Romans; but more particularly since the Turkish invasions. To which is added, a short account of Transilvania, and the lofty titles taken by those Turkish emperours, who have made war in those countries.
+[4], 168, [8] p.   
+
+
+Lond. :
+
+
+printed for H. Rhodes next door to the Swan-Tavern, near Brides-Lane in Fleet-Street,
+
+
+1687.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Hungary --  History --  Early works to 1800.
+Hungary --  Politics and government --  Early works to 1800.
+Hungary --  Description and travel --  Early works to 1800.
+Transylvania (Romania) --  History --  Early works to 1800.
+2013-10
+TCP
+Assigned for keying and markup
+2013-12
+SPi Global
+Keyed and coded from ProQuest page images
+2014-01
+Anne Simpson
+Sampled and proofread
+2014-01
+Anne Simpson
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P3266
+
+
+R218986
+
+
+99830528
+
+
+34980
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE 
+Present State
+ OF HUNGARY.
+
+
+OR, A Geographical and Historical De∣scription of that Kingdom, giving an account of the Nature of the Country, and of its In∣habitants, of its Government and Policy; its Religion and Laws; of its Division into Counties and Provinces; of its Towns, Ca∣stles, Forts, Rivers Lakes, Mountains, Pro∣duct, Mines, Minerals, and other Rarities.
+
+
+TOGETHER, With the Memorable Battles and Sieg∣es that have happened there since the time of the 
+Romans;
+ but more particularly since the 
+Turkish
+ Invasions.
+
+
+To which is added, A short Account of 
+Transilvania,
+ and the lofty Titles taken by those 
+Turkish
+ Em∣perours, who have made War in those Countries.
+
+
+Lond.
+ Printed for 
+H. Rhodes
+ next door to the 
+Swan-Tavern,
+ near 
+Brides-Lane
+ in 
+Fleet-Street,
+ 1687.
+
+
+
+
+
+
+
+
+Licensed, 
+August
+ 12. 
+R. L. S.
+
+
+
+
+
+
+
+
+A TABLE OF THE CHAPTERS.
+
+
+
+
+CHAP. I.
+
+
+OF the Names of 
+Hungary,
+ its Li∣mits, Division, Rivers, Lakes and Mountains. 
+Page 1
+
+
+CHAP. II.
+
+
+Of the Country of 
+Hungary
+ and it's In∣habitants. 
+Page 3
+
+
+CHAP. III.
+
+
+Of the Princes and Nations, that have made Progress in 
+Hungary. Page 5
+
+
+CHAP. IV.
+
+
+Of a Chronological Succession of the Kings of 
+Hungary. Page 8
+
+
+CHAP. V.
+
+
+Of the Authors who treat of 
+Hungary. Page 11
+
+
+CHAP. VI.
+
+
+Of the Towns of Upper 
+Hungary
+ and their Description. 
+Page 12
+
+
+CHAP. VII.
+
+
+Of the Towns of the Lower Hungary. 
+Page 38
+
+
+CHAP. VIII.
+
+
+Of the Rivers, of 
+Hungary,
+ and their Description. 
+Page 73
+
+
+CHAP. IX.
+
+
+Of the Division of the Kingdom of 
+Hunga∣ry,
+ into Counties, and their Names. 
+Page 81
+
+
+CHAP. X.
+
+
+Of the Estates of 
+Hungary. Page 84
+
+
+CHAP. XI.
+
+
+Of the chief Palat. Nobility of 
+Hung. Page 68
+
+
+CHAP. XII.
+
+
+Of the State of the Palatin of the King∣dom of 
+Hungary,
+ his Quality, Au∣thority, and Preheminence, with a List of those who in this last Age have been Elected to that Office. 
+Page 89
+
+
+CHAP. XIII.
+
+
+Of the Arms of the Kingdom of 
+Hunga¦ry,
+ and in what manner the Kings have given them. 
+Page 92
+
+
+CHAP. XIV.
+
+
+Of the memorable Battles that have been fought in 
+Hungary. Page 97
+
+
+CHAP. XV.
+
+
+Of the Ceremon. observed in the Coron. of the Kings and Queens of 
+Hungary. Page 133
+
+
+CHAP. XVI.
+
+
+Of the Description of 
+Transilvania,
+ anci∣ently united to 
+Hungary
+ and the Princes who have Reigned in it, since the begin∣ning of this Age, to the present time. 
+Page 142
+
+
+CHAP. XVII.
+
+
+Of the 
+Turkish
+ Emperors, who in Progress of time have invaded, subdued, and usurped the greatest part of 
+Hungary Page 146
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE Present State OF HUNGARY: OR An Historical, and Geographical Description of that Kingdom.
+
+
+
+
+CHAP. I.
+
+
+
+
+ Of its Names, Bounds, Division, Ri∣vers, Lakes and Mountains.
+
+
+
+
+THE Kingdom of 
+Hungary,
+ belonging by Right to the House of 
+Austria,
+ but, in a great part, invaded and
+
+ usurped by the 
+Turks,
+ lies betwixt the 39. and 47. degree of Longitude, and from the 45. to the 49. of North Lati∣tude, or thereabouts: It is part of the Ancient 
+Pannonia,
+ called 
+Magiar
+ by the 
+Turks; Wegierska,
+ by the 
+Sclavoni∣ans; Hungerland,
+ by the 
+Germans; On∣garia,
+ by the 
+Italians
+ and 
+Spaniards; Hongrie,
+ by the 
+French;
+ and 
+Hungary
+ by the 
+English.
+
+
+The Bounds of it are 
+Transilvania
+ to the East; 
+Poland
+ and 
+Russia
+ to the North; 
+Moravia, Austria
+ and 
+Styria
+ to the West; and 
+Servia
+ and 
+Bosnia
+ to the South.
+
+
+The Figure of this Kingdom is square, its Corners looking to the four parts of the World.
+
+
+It is divided into the Upper and Lower 
+Hungary;
+ the Upper is on the side of the 
+Danube,
+ towards 
+Poland
+ and 
+Transilvania;
+ and the Lower on the other side of the same River.
+
+
+Heretofore it contained above Sea∣venty Counties, but at present it has only about fifty; whereof before this last War Twenty six were subject to the 
+Ottoman
+ Tyranny. It may be also divided into the part held by the Em∣perour,
+
+ and that which is under the 
+Turkish
+ Dominion.
+
+
+Its chief Rivers are, the 
+Raab,
+ the 
+Wag,
+ the 
+Gran,
+ the 
+Teisse,
+ the 
+Sarvilise,
+ which comes out of the lake 
+Balathon,
+ and the 
+Donau.
+ The less considerable are the 
+Newsidl
+r, Reckzkerle,
+ and some others.
+
+
+The highest Mountains of 
+Hungary
+ are the 
+Carpathian
+ Mountains, towards 
+Poland
+ and 
+Transilvania.
+ The richest are betwixt 
+Buda
+ and 
+Strigonium,
+ which have Mines affording excellent Mettals, and especially Quick-silver.
+
+
+
+
+
+
+CHAP. II.
+
+
+
+
+ Of the Country of 
+Hungary,
+ and its Inhabitants.
+
+
+
+
+THE Air of this Country is un∣wholesom, and especially to Stran∣gers; and it is observed to engender a great deal of Vermine. The Waters, excepting that of the 
+Danube,
+ are not good, and the Author 
+de Mirabilibus Hungariae
+ observes, that there are Foun∣tains
+
+ in 
+Hungary,
+ whose Waters are Poysonous, which increase and dimi∣nish with the Moon, and are quite dried up when that Luminary is in the Full. There are other Fountains in it also, that turn into Stone any thing that is cast into them; others which are hot in Winter, and freeze in Sum¦mer; and others whose Waters are sowrish, salt, 
+&c.
+ There are in i
+ also several Mines of Salt, Gold, Sil¦ver, Copper, Steel and Iron. Th
+ Soil is very fruitful, in so much, tha
+ some have thought, that 
+Hungary
+ alone was sufficient to furnish all 
+Europe
+ with Corn. Its Pasturages are wonderful and so great is the plenty of Wild Beasts and Fowl, of Fish and Cattle that the Country People live for mos
+ part on the Flesh of Wild Boars an
+ Venison. An hundred Carps hav
+ been sold there for a 
+Noble;
+ and i
+ hath been observed, that in one yea
+ above Fourscore thousand Oxen hav
+ been brought from thence into 
+Germa¦ny.
+ The 
+Hungarians
+ are Warlike, bu
+ cruel, proud, revengeful, and so i
+ united together, that it is no wonde
+ they have been a Prey to the 
+Barbar
+¦ans.
+
+
+ They speak several Languages, and especially 
+Latin,
+ which is very familiar to them; the Gentry are magnificent, and all great Lovers of Horses, Hunting and good Chear. The 
+Hungarians
+ love not the 
+Germans;
+ yet the Nobility adhere to the House of 
+Austria,
+ to secure themselves from the Oppression of the 
+Turks,
+ who va∣lue a Peasant as much as a Gentleman. The strength of the Country consists in light Horse-Men. The Troopers there are called 
+Hussars,
+ and the Foot 
+Heydukes.
+
+
+
+
+
+
+CHAP. III.
+
+
+
+
+ Of the Princes and Nations, who have made any Progress in 
+Hungary.
+
+
+
+
+THE first of the 
+Romans
+ that made any Progress in 
+Hungary
+ was 
+Julius Coesar,
+ other Captains con∣tinued them after him, untill the time of 
+Tiberius,
+ who entirely subjected that Kingdom. Afterwards upon the Fall of the 
+Roman
+ Empire, the 
+Goths
+
+
+ seiz'd it, and that Kingdom became Prey to the 
+Huns
+ and 
+Lombards,
+ who were driven out by the former in th
+ eighth Century. For certain crue
+ People of 
+Scythia,
+ called 
+Hongres,
+ tha
+ lived only on Blood, possessed them selves of all that Country, which a
+ present we call 
+Hungary.
+ They who treat of 
+Hungary,
+ reckon 
+Balamir
+ o
+ 
+Balamber
+ amongst the Kings of tha
+ Countrey; he reigned fifty six years and had a Son 
+Mundsur
+ or 
+Mundiaque
+ who died before his Father. 
+Aptar
+ i
+ also reckoned amongst those Kings and the two Brothers, 
+Bleda,
+ killed in the Year, 444. and 
+Attila,
+ called the Scourge of God, who died in the year 453. His Children made a cruel Wa
+ against one another, and lost the Con¦quests of their Father. The 
+Huns
+ made another Irruption into 
+Pannonia,
+ about the Year 744. under the Conduct o
+ one named 
+Amie,
+ who had 
+Arphad
+ for his Successor. These gave the name to 
+Hungary. Sultan,
+ one of the issue of that 
+Arphad,
+ was, as it is said, the Father of 
+Toxa
+ or 
+Toxis,
+ and this Man begot 
+Geiza,
+ the Father of St. 
+Stephen,
+ with whom I shall begin the Chrono∣logical
+
+ Succession of the Kings of 
+Hun∣gary.
+ He was Crowned in the year, 1000. or 1020. according to others. Since that time the 
+Hungarians
+ had Kings, who governed them peaceably▪ enough, until after the Death of 
+Loüis,
+ called the Great, whose Daughter and Heiress 
+Marie
+ was Married to the Em∣perour 
+Sigismond
+ of 
+Luxemburg;
+ but his Government displeasing them, they called in 
+Charles de Duras
+ King of 
+Na∣ples,
+ and 
+Stephen,
+ Vaivod of 
+Transilva∣nia,
+ who had his recourse to 
+Bajazet
+ the First, Emperour of the 
+Turks;
+ from thence began the Miseries of that Kingdom, which since the year 1394. hath been always almost the seat of War, and became a Prey to the 
+Turks;
+ and especially under 
+Amurath, Solyman,
+ and others. The Kingdom of 
+Hun∣gary
+ is partly possessed by the House of 
+Austria,
+ and partly by the 
+Infidels.
+ The former rendred it Hereditary af∣ter the Death of 
+Loüis
+ the Young, who perished at the Battle of 
+Mohacs,
+ in the year 1526. 
+John de Zapol,
+ Count of 
+Scepua,
+ was saluted King by part of the 
+Hungarians,
+ and 
+Ferdinand
+ of 
+Austria
+ by the rest, who carried it
+
+ from his Competitor. The Estates of this Kingdom are divided into four Bodies. 1. The Clergy. 2. The Ba∣rons. 3. The Nobles. 4. The Roy∣al and Free Towns. The Religion of it is divided, and the Manners of the People odd. The 
+Hungarians
+ were converted to the Faith by 
+Gisle
+ Sister to St. 
+Henry,
+ who married their King St. 
+Stephen.
+
+
+
+
+
+
+CHAP. IV.
+
+
+
+
+ A Chronological Succession of the Kings of 
+Hungary.
+
+
+
+
+IN the year 1000. or 1020. St. 
+Ste∣phen,
+ died in 1038.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+years
+
+
+months
+
+
+
+
+
+
+1038. 
+
+
+Peter
+ the 
+German
+ reigned
+
+
+4
+
+
+0
+
+
+
+
+
+
+1042. 
+
+
+Ovon
+ or 
+Aban
+
+
+2
+
+
+0
+
+
+
+
+
+
+1044. 
+
+
+Peter
+ the 
+German
+ restor'd
+
+
+2
+
+
+0
+
+
+
+
+
+
+1046. 
+
+
+Andrew
+ I.
+
+
+15
+
+
+0
+
+
+
+
+
+
+1061. 
+
+
+Bela
+ I.
+
+
+2
+
+
+0
+
+
+
+
+
+
+1063. 
+
+
+Salomon
+
+
+11
+
+
+0
+
+
+
+
+
+
+1074. 
+
+
+Geiza
+ or 
+Gezcza
+ I.
+
+
+3
+
+
+0
+
+
+
+
+
+
+1077. 
+
+
+Ladislaus
+ I.
+
+
+7
+
+
+0
+
+
+
+
+
+
+1095 
+
+
+Coloman
+ or 
+Colan
+
+
+19
+
+
+0
+
+
+
+
+
+
+
+
+1114. 
+
+
+Stephen
+ II.
+
+
+18
+
+
+0
+
+
+
+
+
+
+1132. 
+
+
+Bela
+ II.
+
+
+9
+
+
+0
+
+
+
+
+
+
+1141. 
+
+
+Geiza
+ II.
+
+
+20
+
+
+0
+
+
+
+
+
+
+1161. 
+
+
+Stephen
+ III.
+
+
+11
+
+
+0
+
+
+
+
+
+
+1172. 
+
+
+Ladislaus
+ the Usurper
+
+
+0
+
+
+6
+
+
+
+
+
+
+1172. 
+
+
+Stephen
+ IV.
+
+
+0
+
+
+5
+
+
+
+
+
+
+1173. 
+
+
+Bela
+ III.
+
+
+23
+
+
+0
+
+
+
+
+
+
+1193. 
+
+
+Emeri
+
+
+8
+
+
+0
+
+
+
+
+
+
+1204. 
+
+
+Ladislaus
+ II.
+
+
+0
+
+
+6
+
+
+
+
+
+
+1205. 
+
+
+Andrew
+ II. called of 
+Je∣rushalem.
+
+
+30
+
+
+0
+
+
+
+
+
+
+1235. 
+
+
+Bela
+ IV.
+
+
+25
+
+
+0
+
+
+
+
+
+
+1260. 
+
+
+Stephen
+ V.
+
+
+12
+
+
+0
+
+
+
+
+
+
+1272. 
+
+
+Ladislaus
+ III.
+
+
+18
+
+
+0
+
+
+
+
+
+
+1290. 
+
+
+Andrew
+ III. called the 
+Venetian
+
+
+11
+
+
+0
+
+
+
+
+
+
+ 
+
+
+Charles
+ I. called 
+Martel.
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+1301. 
+
+
+Wenceslaus
+
+
+0
+
+
+0
+
+
+
+
+
+
+1305. 
+
+
+Otho.
+
+
+0
+
+
+0
+
+
+
+
+
+
+1310. 
+
+
+Charles Robert
+ or 
+Charo∣bert
+
+
+32
+
+
+0
+
+
+
+
+
+
+1342. 
+
+
+Loüis
+ I.
+
+
+40
+
+
+0
+
+
+
+
+
+
+1382. 
+
+
+Marie
+
+
+0
+
+
+0
+
+
+
+
+
+
+1383. 
+
+
+Charles
+ III. called the Little
+
+
+0
+
+
+3
+
+
+
+
+
+
+1387. 
+
+
+Sigismond
+
+
+51
+
+
+0
+
+
+
+
+
+
+1438. 
+
+
+Albert
+ of 
+Austria
+
+
+0
+
+
+2
+
+
+
+
+
+
+1440. 
+
+
+Ladislaus
+ IV.
+
+
+0
+
+
+4
+
+
+
+
+
+
+
+
+1445. 
+
+
+John Corvin,
+ called 
+Huniades
+
+
+0
+
+
+8
+
+
+
+
+
+
+1452. 
+
+
+Ladislaus
+ V.
+
+
+0
+
+
+6
+
+
+
+
+
+
+1458. 
+
+
+Matthias Corvin
+
+
+0
+
+
+2
+
+
+
+
+
+
+1490. 
+
+
+Ladislaus
+ VI.
+
+
+25
+
+
+0
+
+
+
+
+
+
+1516. 
+
+
+Loüis
+ II. called the Young
+
+
+11
+
+
+0
+
+
+
+
+
+
+1526. 
+
+
+John de Zapol
+
+
+0
+
+
+0
+
+
+
+
+
+
+1540. 
+
+
+John Stephen,
+ or 
+Sigis∣mond
+
+
+0
+
+
+0
+
+
+
+
+
+
+1527. 
+
+
+Ferdinand
+ I.
+
+
+37
+
+
+0
+
+
+
+
+
+
+1564. 
+
+
+Maximilian
+ I.
+
+
+12
+
+
+0
+
+
+
+
+
+
+1576. 
+
+
+Rodolph
+
+
+36
+
+
+0
+
+
+
+
+
+
+1612. 
+
+
+Matthias.
+
+
+0
+
+
+7
+
+
+
+
+
+
+1619. 
+
+
+Ferdinand
+ II.
+
+
+18
+
+
+9
+
+
+
+
+
+
+1637. 
+
+
+Ferdinand
+ III. called Earnest.
+
+
+20
+
+
+0
+
+
+
+
+
+
+Ferdinand Francis
+ Elected, 1647.
+
+
+1657. 
+Leopold Ignatius
+ chosen in the Life of his Father 
+Ferdinand
+ the III. in the year, 1655.
+
+
+The Author has not here observed the precise year of the Election of these Princes, but the year their Reign began.
+
+
+
+
+
+
+
+
+CHAP. V.
+
+
+
+
+ Of the Authors that speak of 
+Hungary.
+
+
+
+
+THE chief are: 
+Bonfinius, Eneas Sylvius, Bizar, Philippus Calli∣machus, Experieus, Cellarius, Dillichi∣us, Poretius, Estuanfus, Sambuch, Scho∣del, Peter Ranzan, Melchior Soiter, Cia∣conius, Stuarth, Roger,
+ who hath Pub∣lished a Volume of 
+Hungarian
+ Writers, 
+Tharosius,
+ the Authors of the Historys of 
+Germany, Poland
+ and 
+Naples, Thevet
+ and 
+Paulus Jovius
+ on 
+Matthias, Corvi∣nus
+ and 
+Huniades,
+ St. 
+Antonin, Blondus, Daviti,
+ the Fables of the Kings of 
+Hun∣gary, Mercator, Ortelius, Maginus Cluve∣rius, Brietius, Samson, Du Val, Boissard, Volateran, Du May
+'s Description of the War of 
+Hungary, Szenkely, Chron: Fer∣rarii,
+ St. 
+Baudrand Lexic. Geog.
+ &c.
+
+
+
+
+
+
+
+
+CHAP. VI.
+
+
+
+
+ Of the Towns of 
+Upper Hungary
+ and their Description.
+
+
+
+
+THE Kingdom of 
+Hungary,
+ as we have said, is divided into the 
+Up∣per
+ and 
+Lower Hungary,
+ the Towns of the 
+Upper Hungary,
+ are these that follow.
+
+
+
+
+PRESBOURG.
+
+
+This Town lies upon the 
+Danube,
+ and is the Capital City of the 
+Upper Hungary,
+ and of all that belongs to the Emperor within that Kingdom. It gives it's Name to a County, which is a Province of 
+Hungary,
+ betwixt 
+Mo∣ravia, Austria,
+ and the 
+Danube;
+ the Latin Authors call it 
+Posonium
+ and 
+Flex∣um,
+ and those of the Country, 
+Poson.
+ This place is eight Leagues from 
+Vien∣na
+ in 
+Austria,
+ and as far from 
+Newheu∣sel
+ and 
+Comorra;
+ it is Fortified with a considerable Castle against the Incur∣sions
+
+ of the 
+Turks,
+ which is mention∣ed by the Author of the 
+German
+ Itine∣rary in this manner. 
+Lib.
+ 5.
+
+
+Hic ubi Posonium consurgit turribus altis,
+
+
+Limes Teutonicis, Hungariisque viris.
+
+
+The Authors of the 
+Hungarian
+ Histo∣ry, which are bound up in one Vo∣lume, speak of 
+Presbourg,
+ as well as 
+Cluverius, Ortelius
+ and 
+Samson;
+ it hath the Title of an Arch-Bishoprick, and in the Cathedral-Church, which is partly possessed by the Fathers Jesuits, the Body of St. 
+John
+ Bishop of 
+Alex∣andra
+ is held in great Veneration.
+
+
+Pope 
+Clement
+ the Fifth being inform∣ed that the 
+Hungarians
+ were in Arms, and would not submit to 
+Charles Mar∣tel,
+ Son to 
+Charles
+ II. King of 
+Naples,
+ thought himself obliged to send a Le∣gat thither, either for composing these Disorders, or strengthening the Party of the Lawful Soveraign. For that effect he pitched upon 
+Gentil de Monteffiore,
+ whose Merit had raised him from a Franciscan Frier to the Dignity of a Cardinal, and who ac∣quitted
+
+ himself extraordinarily well in his Commission. At first he used all ways of Mildness; but finding them to be unprofitable, he employed Ec∣clesiastical Censures, and reclaimed the 
+Hungarians
+ to their Duty. He ce∣lebrated a Council at 
+Presbourg,
+ in the year 1309. Where sound Cannons were made; which were afterwards approved by the Pope. In this Town there are a great many Houses built after the 
+Italian
+ manner, which con∣tribute much to the Beauty thereof.
+
+
+
+
+
+
+NITRIA.
+
+
+Nitria
+ or 
+Nitracht,
+ a Town in the 
+Upper Hungary,
+ is the Seat of a Bishop, Suffragan to the Arch-bishop of 
+Gran,
+ and has it's Name from the River it lyes upon, which it gives to a Coun∣ty, whereof it is the Capital: It is un∣der the Jurisdiction of 
+Newheusel,
+ be∣ing five Leagues distant from it, and ten from 
+Presbourg,
+ and continued al∣ways subject to the Emperour.
+
+
+
+
+
+
+
+
+NEWHEUSEL.
+
+
+The people of the Country call it 
+Owar,
+ and the Latin Authors 
+Neoseli∣um;
+ it lyes upon the River of 
+Nitria,
+ or 
+Nitrach,
+ two Leagues from 
+Comor∣ra
+ upon the 
+Danube:
+ It is but a small Town, but very well seated, and the chief Town of a large Country; the 
+Turks
+ took it in the year 1663. And the Emperours Army having invested it the seventh of 
+July,
+ 1685. Re∣took it the nineteenth of 
+August
+ fol∣lowing.
+
+
+
+
+
+
+NOVIGRAD.
+
+
+A little Town with a Castle upon a Hill, the Capital of the County of the same name, lying on the 
+Danube,
+ betwixt 
+Gran
+ and 
+Vachia.
+
+
+
+
+
+
+VACHIA.
+
+
+Vatzen
+ or 
+Veitzen,
+ and in Latin 
+Vac∣cia,
+ is a Town lying upon the 
+Danube,
+ betwixt 
+Novigrad
+ and 
+Pest,
+ and the Seat of a Bishop, Suffragan to 
+Gran.
+
+
+
+
+
+
+
+
+CASSOVIA.
+
+
+This Town by the 
+Hungarians
+ is called 
+Caschow,
+ the Capital of the County of 
+Abauwiver.
+ It is very well fortified, and lyes upon the River of 
+Kunnert,
+ which falls into the 
+Teiss
+ five or six Leagues from the Carpatian or Crapat Mountains, betwixt 
+Esperies
+ and 
+Borsanick.
+ And though it be a free Town, and have considerable Pri∣viledges, yet it hath always acknow∣ledged the Emperor as King of 
+Hunga∣ry,
+ till of late, being engaged in the Rebellion of 
+Teckely,
+ it was forced to return to the Emperor it's Lawful So∣veraign in the year, 1685.
+
+
+
+
+
+
+FILLECK.
+
+
+Was formerly a strong Town of the Imperial 
+Hungary,
+ lying five Lea∣gues to the North of 
+Agria,
+ and as far to the West of 
+Cassovia,
+ upon the River 
+Gayenne,
+ in the County of 
+Zabel;
+ it was reduced under the power of 
+Teckely,
+ and it's Fortifications demo∣lished.
+
+
+
+
+
+
+
+
+ESPERIES.
+
+
+In Latin 
+Eperiae
+ is a very well forti∣fied Town in the County of 
+Sarax
+ in 
+Hungary,
+ lying upon the River of 
+Tar∣bez,
+ towards the Mountains and upon the Frontiers of 
+Poland:
+ It always be∣longed to the Emperor as King of 
+Hungary,
+ till it was involved in the Rebellion of 
+Teckely,
+ from whom it was retaken by the Imperial Arms in the year, 1685.
+
+
+
+
+
+
+AGRIA.
+
+
+This Town by the 
+Germans
+ is cal∣led, 
+Eger,
+ and by the 
+Hungarians, Er∣law,
+ lying upon a River of the same Name: It is but a small place, hut ex∣traordinarily well fortified, and hath always been the Seat of a Bishop, Suf∣fragan to the Arch-bishop of 
+Strigoni∣um,
+ and the Bulwark of Christendom, and therefore it was Besieged, but in vain, by the Army of 
+Solyman:
+ But at length, 
+Mahomet
+ the Third carried it the 12. of 
+October,
+ 1596. Since that time it hath been in the hands of the
+
+ 
+Turks,
+ who keep a strong Garison in it. Three Leagues from this Town the River of 
+Agria
+ falls into the 
+Tyssa
+ or 
+Teisse,
+ which is the 
+Tibiscus
+ of the Latins. In the year 1552. the 
+Turks
+ first besieged 
+Agria,
+ with an Army of Threescore and ten thousand Men. It was then no strong place, neither by Nature nor Art; and yet the Cou∣rage of the Garison supplied the Weak∣ness of the place. There were within it Two thousand 
+Hungarians,
+ and Three∣score of the chief Gentlemen of the Country, who brought thither their Wives, Children, and all their Goods. They all took an Oath, that they would suffer the utmost Extremity, ra∣ther than render the place; they put all their Provision into publick stores, and when the 
+Turks
+ summoned them to render the place, they put out a Cof∣fin upon the Battlements of the Walls, to shew that they had resolved to die, rather than to yield. The Town was for Forty days time incessantly Batter∣ed with Fifty pieces of Cannon; but all that daunted not the Besieged. Nay the 
+Turks
+ having made three Assaults in one day, were still beaten off, and
+
+ lost Eight thousand men. Above all things the Valour of the Women was conspicious in so bloody an Action. One of them was fighting in presence of her Mother and Husband, who was killed hard by her, and her Mother bidding her carry off the Body and Bury it: God forbid, answered she, that I should Bury my Husband be∣fore I revenge his death: and with that snatching up the Buckler and Sword of her dead Husband, she threw her self into the midst of the Enemy's, and left not off Fighting till she had revenged the death of her Husband by the slaughter of three 
+Turks.
+ Ano∣ther Woman carrying a great stone to cast down upon the Enemy, was shot with a Canon Bullet, that carried off her head. Her Daughter who fol∣lowed her, without standing to be∣wail her loss, took up the stone, and all bloody as it was with her Mo∣thers Blood, threw it down upon a croud of the Enemy, who endeavour∣ed to mount the Wall. The 
+Turks
+ be∣ing Witnesses of such obstinate Reso∣lution, raised the Siege the Nineteenth of 
+October;
+ and the Besieged sallying
+
+ out after them, cut to pieces a great number of the Infidels, and took most of their Baggage.
+
+
+
+
+
+
+TOKAY.
+
+
+A very strong Town with a Cita∣del upon the River 
+Bodroch,
+ that falls in∣to the 
+Teisse.
+ This Town lying in form of an Island, was taken by the 
+Turks,
+ and afterwards regained by the Em∣perors Army; but falling into the hands of the Rebel 
+Teckely,
+ his Impe∣rial Majesty retook it in the year, 1685. to whom it belongs at pre∣sent. This Town is Subject to Inun∣dations, and yet the Land about it is very Fertile, and bears excellent Wine called by that name. Below it the Ri∣ver of 
+Bodroch,
+ running by 
+Esperies,
+ joyns the 
+Teisse.
+
+
+
+
+
+
+UNGWAR.
+
+
+A little Town, Capital of the County of 
+Ung,
+ lying at the Foot of the 
+Carpat
+ Mountain, near the River 
+Ung,
+ the Boundary of 
+Red Russia,
+ thirty Lea∣gues to the East of 
+Cassovia,
+ and five
+
+ and twenty to the North of the 
+Teisse;
+ it fell likewise into the hands of 
+Teckely,
+ and was retaken by the Arms of the Emperor in the year, 1685.
+
+
+
+
+
+
+COLOCZA.
+
+
+An Ancient Town lying near the 
+Danube
+ lower than 
+Pest,
+ was here∣tofore an Arch-bishops See; it is encompassed with very Fertil Mea∣dows.
+
+
+
+
+
+
+ONOTH.
+
+
+A Town lying upon the side of the River of 
+Schaia,
+ between 
+Agria
+ and 
+Tokay.
+
+
+
+
+
+
+DEBRECHIM.
+
+
+A City lying in the County of 
+Zo∣bel,
+ betwixt 
+Tokay
+ and great 
+Waradin;
+ it is Rich, Populous, and of great Commerce and Traffick; upon the humble desire of the Inhabitants, it was received into the Protection of his Imperial Majesty, after the Reduction of 
+Zolnock,
+ and 
+Cassovia:
+ It continued
+
+ Neuter during the late Revolutions in 
+Hungary,
+ and sided not with the Re∣bels, allowing always Liberty, as well to the Judges there established by the Emperour, as to the Commissioner of the Port, to Exercise their Authority in it.
+
+
+
+
+
+
+GIULA.
+
+
+This Town lies betwixt the Rivers of 
+Sebeskeres
+ and 
+Feyerkeres,
+ upon the Lake of 
+Zarkad,
+ a few Leagues be∣low great 
+Waradin,
+ upon the Frontier of 
+Transilvania;
+ as yet it belongs to the 
+Turk.
+
+
+
+
+
+
+ZOLNOCK.
+
+
+This Town lyes upon the River of 
+Teisse,
+ where the River of 
+Zagiwa
+ joins it: It is the chief Town of the same name, and strongly fortified, having long groaned under the 
+Turkish
+ Yoke; it lyes fourty Leagues to the West of 
+Waradin,
+ and sixty from 
+Bu∣da.
+ This Fortress was taken by the 
+Baron de Mercy,
+ Lieutenant-Marshal 
+de
+ Camp, and by the Sr. 
+Heusler
+ one of
+
+ the Emperor's Generals, in the Month of 
+October,
+ 1685.
+
+
+
+
+
+
+ZATMAR.
+
+
+A small Town lying upon the River of 
+Samos,
+ on the Frontiers of 
+Tran∣silvania,
+ and the Capital of the County of the same Name; it belongs to the Emperour, and is ten Leagues North∣ward of 
+Waradin,
+ and fourteen East∣ward of 
+Tokay.
+
+
+
+
+
+
+ZARAVAS.
+
+
+This is a Modern Fortress built by the 
+Turks,
+ since the breaking out of the Rebellion, which 
+Emersi
+ Count of 
+Teckely
+ raised in this Kingdom: It lyes upon the River of 
+Kiros,
+ which falls into the 
+Teysse,
+ five 
+German
+ Leagues from 
+Zolnock,
+ and twelve from 
+Giula;
+ but the situation of it is not as yet de∣scribed in the Maps: By the Conquest of this place, two Counties that de∣pend on it have been gained, which before the Rebellion held not of his Imperial Majesty; the one is called the County of the 
+Tarantali∣ans,
+
+
+ and the other of the 
+Czongradi∣ans.
+
+
+
+
+
+
+MONGATZ.
+
+
+A Fort with a very strong Castle seated on the River 
+Torza,
+ betwixt 
+Ungwar
+ and 
+Zatmar
+ near the Moun∣tains; it hath been a place of Retreat to the Rebel Count 
+Teckely,
+ as it was before to Prince 
+Ragotzi.
+ The Coun∣tess of 
+Teckely, Aurora Veronica
+ Daugh-to the late Count 
+Peter Serine,
+ and be∣fore Widdow of the said Prince, still delays to render it to the Emperor, as being uncertain what will become of her Husband. In the mean time it is straitly blocked up by the Imperial Forces.
+
+
+
+
+
+
+TEMESWAR.
+
+
+A great and strong Town upon the River of 
+Temes,
+ towards the Fron∣tiers of 
+Transilvania;
+ it is the chief Town of a P
+ovince of that Name, which has the Title of a County. The 
+Turk
+ hath subdued both the Town and Country.
+
+
+
+
+
+
+
+
+WARADIN.
+
+
+This Town which is called 
+Great Waradin,
+ lying on the 
+Drave,
+ was of the Ancient 
+Dacia,
+ and is at present in 
+Transilvania.
+
+
+It is situated to the South of the lit∣tle River of 
+Keuvres,
+ which others call 
+Sobeskeres,
+ and the Ancients 
+Chrisus,
+ that has its Source in one of the Branches of the 
+Carpathian
+ Mountains, from whence it seems to wash away, and bring along with its Sand little Spangles of Gold.
+
+
+In the year 1242. the 
+Tartars
+ made themselves Masters of that Town, and used great Cruelties i
+ 
+t, putting most of the Inhabitants to the Sword, with∣out distinction of Age or Sex.
+
+
+In the year 1290. 
+Ladislaus
+ King of 
+Hungary,
+ built in it the fair Church of our Lady, which is the Seat of a Suf∣fragan Bishop.
+
+
+This Town having a strong Cita∣del, is fortified with five Bastions; and the 
+Turks
+ looking upon it as a fa∣vourable Post, for enlarging their Con∣quests on the side of 
+Transilvania,
+ sent
+
+ first in the year, 1598. a powerful Army under the command of 
+Omar,
+ who besieged it in the month of 
+Sep∣tember;
+ but after may Cruel and Bloody Attacks on both sides, the 
+Turks
+ were forced to raise the Siege on the third of 
+November:
+ How∣ever in 1660. they took it, and made it a place of Arms against Christendom.
+
+
+This place is the usual Residence of a 
+Sangiack,
+ who depends on the 
+Beglerbey
+ of 
+Themeswar:
+ And here it was, that Count 
+Emery of Teckely,
+ was surprised and seized by the Bassa of the place, and sent to the Grand Visier at 
+Adria∣nople
+ in Chains. This was a great Transformation of him, who put in his Standard that was taken in the month of 
+September,
+ 1684. by General 
+Schultz
+ at the Battle near 
+Esperies;
+ his own Arms beset with two Lions 
+Or,
+ and two 
+Argent
+ holding in their claws a Shable, cleaving the Imperial Eagle in two, and over-head a Ducal Coronet, with a device in Latin and Sclavonick, of, Protector in 
+Hungary:
+ But alas!
+
+
+Quem veniens superbum
+
+
+dies vidit
+
+
+Hunc fugiens jacentem
+
+
+
+
+
+
+
+
+GUTTA.
+
+
+This Town is very well Fortified at that place, where the River of 
+Waag
+ discharges it self into the 
+Danube;
+ it was Built since the last Wars, in a Fen∣ny place betwixt a branch of the 
+Da∣nube,
+ the 
+Waag
+ and the 
+Swatrz.
+ It is a Mile distant from 
+Newheusel,
+ and from the top of the Church of 
+Gutta,
+ one may see the Town of 
+Newheu∣sel,
+ and even distinguish the several Houses.
+
+
+
+
+
+
+SCHINTA.
+
+
+Esteemed a very strong place, long since Built to command the River, and all the Country about; it hath a Tower in the middle, with four Ba∣stions, and several great Guns.
+
+
+
+
+
+
+TIRNAW.
+
+
+Is a Town lying in an open Coun∣trey, and may be seen at a great di∣stance; within these seven years it was reduced to Ashes, and is now almost intirely Re-built.
+
+
+
+
+
+
+
+
+TOPOLCHAN.
+
+
+This Town lyes upon the Banks of the River of 
+Nitra,
+ and was burnt down with its Church during the late Wars, and could never be Built again since.
+
+
+
+
+
+
+LEOPOLD.
+
+
+This Town was Built after the loss of 
+Newheusel,
+ and much in the same Figure; it hath six very Regular Ba∣stions, and well covered, lying West∣ward of the River of 
+Waag,
+ and exact∣ly opposite to 
+Freistadt:
+ It is not ve∣ry far from the place, through which the 
+Tartars
+ went in the late War, when they ravaged a great part of that Coun∣try, and made many Slaves, as they did also in 
+Moravia.
+ It was begun to be fortified in the year, 1665.
+
+
+
+
+
+
+FREISTADT.
+
+
+Is a very pretty Town, but the 
+Turks
+ not long since burnt it: The Count of 
+Forchatz,
+ has a lovely Castle and a
+
+ stately House in it, and the 
+Capucins
+ a Convent.
+
+
+
+
+
+
+TRENSCHEIN.
+
+
+Is a very fair Town lying upon the side of the River of 
+Waag,
+ over which it hath a Wooden Bridge: The Mar∣ket place of it is very pretty, the Je∣suits Church lovely, and the Castle very high; it is seen at a great di∣stance, and belongs to Count 
+Illeshazi.
+ There are a great many Springs of Mineral Waters, in all the Country a∣bout it.
+
+
+
+
+
+
+SERNOWITZ.
+
+
+Is a Town lying upon the River of 
+Gran,
+ having a Castle built upon a Rock.
+
+
+
+
+
+
+NEWSOL.
+
+
+Is a pretty neat Town, lying upon the River of 
+Gran;
+ at the end of it there is a very lovely Tower, and the Castle well deserves to be seen; be∣cause there is a Church within it co∣vered
+
+ with Copper, wherein are a great many fair Wooden Statues, and some Relicks. It hath a Bridge over the River, with a handsome pile of Building, made to stop the Timber that is thrown into the River, ten Miles above the Town in the Country, that is all covered with Wood. By that means Wood is conveyed to 
+Newsol
+ without much trouble and cha
+ges, which is made use of for Working in the Copper Mines that are in the Town: It was taken by 
+Bethlem Ga∣bor
+ Prince of 
+Transilvania,
+ who making use of the Occasion of the Revolt of the 
+Bohemians,
+ and of his Alliance which they demanded, fell into 
+Hun∣gary
+ and took many places in it. Before this Town of 
+Newsol,
+ the brave Count 
+Charles of Bucquoy,
+ Knight of the Gol∣den Fleece, being General of the Im∣perial Army, found his Bed of Ho∣nor; for having retaken the Towns of 
+Presbourg, Tirnaw, Altenbourg,
+ and others, and encamping before 
+New∣sol,
+ where he Valliantly carried on the Siege in the year, 1621. he was kil∣led in a Sally in the Month of 
+July
+ that year, after he had received Six∣teen
+
+ Mortal Wounds. The following Inscription was made to his Me∣mory.
+
+
+
+
+
+
+
+
+
+
+Belli fulmen,
+
+
+Hostium terror,
+
+
+Suorum militum Pater,
+
+
+Regum Praesidium, Equitum Aurei Velleris decus.
+
+
+
+
+
+
+CAROLUS BUCQUOIUS.
+
+
+
+
+
+
+Quem ad Ambianum Henricus 
+IV.
+
+
+Galliae Rex
+
+
+Timendo laudaverat.
+
+
+Novis hic laudibus atque victoriis se probavit,
+
+
+Supremus Tormentorum constitutus Praefectus,
+
+
+Ipso sole illustrior famâ
+
+
+Gaborem Imperii jugulo imminentem
+
+
+Viennâ repulit, Austriâque totâ exegit:
+
+
+Turrianum, Anhaltinum & Mans∣feldium,
+
+
+Perduellium Duces, contudit.
+
+
+Dejecit affectato Regno Palatinum.
+
+
+Pragam recepit,
+
+
+
+
+Subegit Bohemiam,
+
+
+Moraviam pacavit:
+
+
+In Hungaria Posonium, Tirnaviam,
+
+
+aliaque oppida,
+
+
+Regi suo asseruit:
+
+
+Denique dum ad Neosolium
+
+
+Infestam obsessorum eruptionem fortiter
+
+
+sustinens
+
+
+Equo, quem in hostem admiserat longius,
+
+
+trucidato,
+
+
+Ipse, sedecim vulneribus saucius,
+
+
+Lanceâque ad extremum confossus
+
+
+Non finem vitae suae,
+
+
+Sed melius & auctius quam apud
+
+
+Mantinaeam,
+
+
+Epaminondas,
+
+
+Initium reperit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALTSOL.
+
+
+Is a Town lying upon the same River of 
+Gran,
+ lower than 
+Newsol,
+ betwixt it and the Town of 
+Crem∣nitz.
+
+
+
+
+
+
+HERN-GRUNDT.
+
+
+Is a little Town standing on a pretty high Ground, though it be betwixt two
+
+ Hills. The place it stands on goes by the same Name, and is but a mile from 
+Newsol.
+
+
+
+
+
+
+SCHEMNITZ.
+
+
+The biggest of all the Towns in 
+Hungary,
+ where there are Mines, and in it there is a great deal of Silver found daily. The Town is very well built, hath three fair Churches, and most part of the Inhabitants are 
+Lu∣therans.
+ It hath also three Castles; the first is the old Castle, that stands in the Town; where one may hear pretty pleasant Musick, at six of the Clock in the morning, and six at night, which is performed by means of an Engine that they have found out. The second is the new Castle, built by a Lady, who caused the Gibbet that stood upon a Hill to be removed, and a stately Fabrick to be erected in place of it. The third is upon the top of a very high Hill, where there is always a Sentinel to discover the approach of the 
+Turks,
+ and to give notice of it by firing a great Gun. The Streets lye upwards and downwards upon the side
+
+ of the Hill, and all the Country is ve∣ry uneven.
+
+
+
+
+
+
+CREMNITZ.
+
+
+This is but a very little Town, but hath large Suburbs, and stands on ve∣ry high Ground. It is thought that St. 
+John
+'s Church, which is pretty near it, is built on the highest Ground of all 
+Hungary:
+ It is the ancientest of all the Towns where Mines are, and is also the richest of all the seven, which are called 
+Schemnitz, Cremnitz, New∣sol, Koninsbergs, Bochantz, Libeten,
+ and 
+Tiln.
+
+
+
+
+
+
+VIROVICHITZ.
+
+
+Lying before the Isle of St. 
+Andrew,
+ is a place in high Esteem, for the love∣ly Vines and good Grapes that grow there. Near it there is a demolished Stone Building, upon the side of the Isle of St. 
+Andrew,
+ where it is said, that heretofore there was a Stone Bridge.
+
+
+
+
+
+
+
+
+MAROS.
+
+
+Is on the other side of 
+Vicegrad,
+ near the Isle of St. 
+Andrew.
+ It hath a very lovely Church, and being a place that heretofore yielded voluntarily to the 
+Turks,
+ the 
+Christians
+ are not much tormented there; but only pay a yearly Tribute of very small Conse∣quence.
+
+
+
+
+
+
+PEST.
+
+
+On the other side of the 
+Danube
+ to∣wards the East, is the Town of 
+Pest,
+ that is square and seated in a very lovely Plain: it looks very pretty from 
+Buda,
+ because of its Walls and the Towers of its 
+Mosques.
+ It gives the Name to all the Countrey about, which therefore is called, 
+Comitatus Pesthiensis,
+ the County of 
+Pest;
+ for 
+Hungary
+ is divided into Counties as well as 
+England.
+ Betwixt this place and 
+Buda
+ there is a fair Bridge of 
+Boats,
+ at least half a mile over; it hath been taken and re-taken, whereby it is much ruined, and the Town of 
+Buda
+ which
+
+ is over against it standing on an Emi∣nence, whereas this lies in a Plain, so commands it, that it can batter it down with great Guns; unless on the side of the Gate of 
+Agria,
+ which is covered by the Town. The 
+Imperial
+ Forces took it in the year 1684. when they invested 
+Buda;
+ but quitting that Siege they also abandoned 
+Pest;
+ though now in this present year 1686. they have again made themselves Masters of it.
+
+
+
+
+
+
+HADWAN.
+
+
+Lies upon the 
+Zagywe
+ to the North of 
+Pest,
+ and fortifyed with Earth, but not so as that the 
+Turks
+ repose great assurance on it: It was taken by the 
+Christians
+ in the year 1596. but after∣wards abandoned to the 
+Turks
+ in the year 1603. and is not above six Leagues from 
+Pest.
+
+
+To close up the Description of the Towns of Upper 
+Hungary,
+ I shall sub∣join the 
+Latin Epigram,
+ made upon the Revolt of the Towns that espoused the Party of 
+Teckely.
+
+
+
+
+
+
+
+
+EPIGRAMMA.
+ In septem Superioris Hungariae For∣talitia Duce Teckelio Caesari Rebellantia.
+
+
+CAstrorum septem crudelis & impia tellus
+
+
+Quid Dominum contra perfida colla levas?
+
+
+Oblita es famulam, saltem te agnosce pa∣rentem:
+
+
+Hic tibi, ni Princeps esset, alumnus erat.
+
+
+Divitiisnè tumes? cecidit Campania dives.
+
+
+An populo? Marathon millia quanta premit.
+
+
+Sed tibi fortè animos perjurus proditor auget,
+
+
+Aspice quàm stultum stulta sequare Ducem.
+
+
+Sit licet ille ferox, & sit bellare peritus,
+
+
+Sit licet ille potens, improba causa sua est.
+
+
+Vincitur ut causâ, pariter vincetur & Ar∣mis,
+
+
+Bella placent justo non nisi justa Deo.
+
+
+
+
+
+
+
+
+
+
+CHAP. VII.
+
+
+
+
+ Of the Towns of Lower 
+Hungary.
+
+
+
+
+
+
+BUDA.
+
+
+BEfore the 
+Turks
+ invaded 
+Hungary,
+ the City of 
+Buda
+ was the 
+Metro∣polis
+ of the Kingdom; the Ancients called it 
+Curta,
+ and the 
+Germans Offen.
+
+
+It is divided into the Upper and Lower Town, lying upon the side of a Hill, the Foot whereof is washed by the 
+Danube,
+ which at that place is a∣bove half a mile over: It hath a Bridge of Boats over it, that joins the City of 
+Buda,
+ to the little Town of 
+Pest,
+ ly∣ing on the opposite side. In 
+Buda
+ are to be seen the Ruines of several stately Palaces, built heretofore by 
+Matthias Corvinus
+ King of 
+Hungary,
+ and his Predecessours; which the 
+Turks
+ neg∣lect, and let fall into decay.
+
+
+
+
+This is a large, fair, and well built Town, but ill peopled, and hath hard∣ly any Inhabitants, but the 
+Spahies
+ and 
+Janisaries
+ of the Garrison, which is al∣ways very numerous.
+
+
+After the Death of 
+John Zapol,
+ Count of 
+Scepus
+ and 
+Elba
+ King of 
+Hungary,
+ his Widow 
+Elisabeth
+ of 
+Po∣land
+ and his Son 
+Stephen,
+ called in the 
+Turks
+ to their Assistance, against 
+Ferdi∣nand
+ of 
+Austria,
+ who was elected King. The 
+Germans
+ besieged 
+Buda,
+ and the 
+Turks
+ having defeated them, made themselves Masters of the Town under pretext of Friendship, sending the Queen, her Son, and 
+George Martinisius,
+ who had been chief Minister to the late King, into 
+Transilvania.
+
+
+This Town is the Residence of a 
+Beglerbey,
+ whose Authority extends o∣ver twenty 
+Sangiacks.
+ The 
+Bassa
+ of 
+Buda
+ hath more Authority than the others have, and the Garrison consists commonly of eight or ten Thousand Men. Some take it to be the 
+Curta
+ of 
+Ptolomy,
+ and others for the 
+Aguincum
+ of the Itinerary of 
+Antonine.
+ It is ve∣ry hard to be positive as to that, and all that can be said are but Conje∣ctures.
+
+ But it is a Fable, that the Brother of 
+Attila
+ built it, and called it by his Name 
+Budaeus:
+ For that Bro∣ther of 
+Attila
+ was named 
+Bleda,
+ and not 
+Budaeus,
+ as the Fabulous pretend.
+
+
+Solyman
+ rendered himself Master of 
+Buda
+ the 20eth. of 
+August,
+ 1526. and in the year 1527. 
+Ferdinand
+ I. King of 
+Bohemia,
+ Brother to the Emperour 
+Charles
+ V. after the overthrow of 
+Loüis
+ the Young, in the Plain of 
+Mohacz,
+ was proclaimed King of 
+Hungary,
+ by 
+Stephen Bathori
+ Palatin of the Kingdom, and by the sounder part of the Nobi∣lity; 
+John Zapoliha,
+ Vaivod of 
+Tran∣silvania,
+ having been before tumultua∣rily elected by the rest.
+
+
+The same year, 
+Ferdinand
+ made himselt Master of the greatest part of the Kingdom, and of 
+Buda
+ the Capi∣tal City, of which he made 
+Thomas Nadasti
+ Governour; until the year 1529. that 
+Solyman
+ took it by the Trea∣chery of the Garrison, and shortly af∣ter laid siege to 
+Vienna,
+ which he was forced shamefully to raise, after he had made many B
+oody Assaults.
+
+
+
+
+From whence, retreating to 
+Buda,
+ he re-established 
+John
+ Vaivod of 
+Tran∣silvania
+ in the Kingdom; having left in 
+Buda, Gritti,
+ a Renegado, with three Thousand 
+Janisaries,
+ to defend it in Name of the Vaivod.
+
+
+Afterwards 
+Ferdinand
+ King of 
+Bohe∣mia,
+ made General 
+Rogendorf
+ besiege it, in the year 1530. but in vain.
+
+
+In the year 1540. he commanded his General 
+Leonard Fessius
+ to Besiege it a second time, having first possest himself of the Forts of 
+Vicegrad, Vac∣cia,
+ and 
+Pest;
+ and 
+John Zapoliha
+ be∣ing dead the year before, who left for his Successor 
+John Sigismond,
+ a Pupil under the tuition of the Princess 
+Isabel
+ his Mother, and 
+George Monck;
+ but 
+Fessius
+ having there endured the fati∣gues of a long and troublesom Siege, was again obliged to draw off.
+
+
+In the year, 1541. General 
+Rogen∣dorf
+ renewed the Siege again a Third time; but upon the coming of 
+Soly∣man,
+ he thought it best to retreat. In the mean time that 
+Ottoman
+ Prince surprised the Town by Cunning, drove the young Prince and his Mother out of it, and sent them to Reign in 
+Tran∣silvania,
+
+
+ publishing that he would keep it until 
+John Sigismond,
+ the Son of 
+John Zapoliha
+ the Usurper, were of Age.
+
+
+In the year, 1542. the Marquess of 
+Brandebourgh,
+ made as if he intended to Besiege 
+Buda,
+ and in that design marched towards it. He attacked 
+Pest,
+ on his march, but in vain, and retreated without any success.
+
+
+The Count of 
+Swartzenbourgh
+ ha∣ing in the Month of 
+March
+ 1598. by a Wonderful Stratagem retaken 
+Java∣rin,
+ or 
+Raab,
+ from the 
+Turks,
+ marched the same year in the Month of 
+Octo∣ber,
+ under the Auspices of the Arch∣duke 
+Matthias,
+ and laid Siege to 
+Buda,
+ which after thirty days Attack he was forced to raise, because of the conti∣nual Rains: And it is remarkable, that the 
+Turks,
+ who at the same time Besieged the Town of 
+Waradin
+ in 
+Tran∣silvania,
+ were likewise obliged to quit their Enterprise for the same Rea∣son.
+
+
+The Christians again attacked that Town in the year 1602 under General 
+Roswurm,
+ but having ruined the Bridge ever the 
+Danube,
+ and pos∣sessed
+
+ the Town of 
+Pest,
+ the Rigour of the Season obliged them to desist from their Design.
+
+
+The Duke of 
+Lorrain
+ Generalissimo of the Imperial Armies, attempted the Siege of the same place, having first made himself Master of the Castle of 
+Vicegrad, Vaccia
+ and 
+Pest,
+ and thrice defeated the 
+Ottoman
+ Army; but the Season being too far advanced, that he might not endanger the Army, he thought it convenient to raise the Siege in the Month of 
+October,
+ 1684.
+
+
+
+
+The Council of 
+Buda.
+
+
+Philip
+ Bishop of 
+Fermo,
+ of the holy See, being sent by 
+Nicholas
+ III. for treating some important Affairs with 
+Ladislaus
+ III. King of 
+Hungary,
+ in the year 1279. celebrated a Council at 
+Buda;
+ the Constitutions whereof to the Number of Thirty six, 
+Oldericus Rainaldus
+ hath put at the end of the 14. Tome of the Ecclesiastical An∣nals.
+
+
+
+
+
+
+Churches
+ or 
+Funf-Kerken,
+ and some other places, burnt 
+Siget,
+ and be∣sieged 
+Canisa,
+ which he would have infallibly taken, had the Succours that were promised him been sent to him. The Grand 
+Visier
+ having Intelligence of that siege, advanced with a great Army, made him raise it, and then took 
+Fort Serini,
+ which was afterwards demolished, little 
+Gomora,
+ and other Places.
+
+
+
+
+
+
+
+
+VICEGRAD.
+
+
+The 
+Latins
+ call it, 
+Vissegradia,
+ and the 
+Germans, Plindenburg.
+ It is a strong Town, built upon a very high Rock, the 
+Danube
+ running by the Foot of it, and lies above 
+Buda,
+ and below 
+Stri∣gonium.
+ In this place there is a Castle, upon a little Hill, where the 
+Abbey
+ of 
+Pily
+ stands also. Heretofore the Crown of 
+Hungary
+ was kept there, that Town in former times having been the place of Residence of the Kings of 
+Hunga∣ry;
+ and the Remains of the Ruines of a very stately Building of Free Stone, are still to be seen there. The Forces of the Arch-Duke 
+Matthias,
+ re-took
+
+ that place in the Reign of 
+Mahomet
+ III. But the 
+Heydukes
+ committed a piece of the greatest Treachery ima∣ginable, and delivered it up into the hands of the 
+Turks,
+ in the time of 
+Sultan Achmet. Charles
+ King of 
+Na∣ples,
+ who was also proclaimed King of 
+Hungary,
+ having been wounded in the Head by 
+Forchatz,
+ was carried into that Castle, where under pre∣text of applying a Plaister to his Head, they strangled him. The Crown of 
+Hungary
+ was heretofore kept at 
+Vice∣grad,
+ but the 
+Turks
+ having advanced so far, it was thought safer to put it into the Castle of 
+Presbourg.
+ This Crown is of a pretty singular shape; for it is very low, and hath a Cross on the top with four leaves that go compleatly round it, of which one is as big as the other three, or at least, as two of them. It is infinitely esteem∣ed by the 
+Hungarians,
+ because they believe that an Angel brought it to their King St. 
+Stephen:
+ and the most 
+August
+ Emperour 
+Leopold,
+ who reigns at present, is the two and fourtieth King that hath been crowned with that Crown.
+
+
+
+
+
+
+
+
+S. MARTINSBERG.
+
+
+Is a pretty handsom Town, and a very strong place, seated on the Top of a very high Hill, from whence all the Countrey about may be discovered. It lies betwixt the Fort of 
+Raab,
+ and the Town of 
+Dotis.
+
+
+
+
+
+
+DOTIS.
+
+
+Dotis, Tata,
+ or 
+Theodata,
+ is but four Leagues from 
+Comora;
+ it hath a Ca∣stle with Ditches round it, and not far from thence, there are some natural Baths. It lies betwixt 
+S. Martinsberg
+ and the 
+Danube,
+ hath been often ta∣ken and re-taken, and belongs to his 
+Imperial
+ Majesty. The Count of 
+Salms,
+ General of the 
+Imperial
+ Army, took it in the year 1565. with the Town of 
+Vesprim.
+
+
+
+
+
+
+VESPRIM.
+
+
+In 
+Latin Vesprinium,
+ and in 
+High-Dutch Weisbrun,
+ is a little pretty strong Town, lying near the head of the Ri∣ver
+
+ 
+Sarwis,
+ and the Lake 
+Balaton
+ ele∣ven Leagues from 
+Strigonium,
+ and five from 
+Alba Regalis,
+ being the Seat of a Bishop Suffragan to 
+Strigonium;
+ it is the capital of the County of its Name, and hath a strong Castle upon the top of a little Hill, belonging to his 
+Im∣perial
+ Majesty. The Count of 
+Salms
+ took it in the year 1565. with the Town of 
+Dotis.
+
+
+
+
+
+
+PAPA.
+
+
+A little Town, but strong, defend∣ed by a Castle, and lying in the County of 
+Vesprim,
+ upon the River of 
+Malchaltz;
+ it belongs to the Em∣perour.
+
+
+
+
+
+
+SARWAR.
+
+
+This place lyes upon the 
+Raab,
+ be∣twixt 
+Papa,
+ and 
+Sabaria,
+ under Obe∣dience to the Emperour, having been re-taken in the year, 1567.
+
+
+
+
+
+
+SABARIA.
+
+
+Is an Ancient Town in the County
+
+ of 
+Iron Castle
+ lying at the concourse of the two Rivers of 
+Guntz,
+ and 
+Regnitz,
+ before they fall into the 
+Raab.
+ This Town is affirmed to be the Native Town of St. 
+Martin;
+ and there are some who report, and others that be∣lieve, that the Famous Poet 
+Ovid
+ di∣ed and was Buried in this Town of 
+Sabaria.
+ They write, that having been Seven years Banished at 
+Tomos,
+ near the 
+Euxin
+ Sea, he was afterwards recalled, and died at 
+Sabaria,
+ upon his return to 
+Italy;
+ where they say his Tomb was found in the year 1508. with this E∣pitaph, made by himself, and cut on the outside of a stately Vault.
+
+
+
+
+
+
+
+
+
+
+Fatum necessitatis lex.
+
+
+Hic situs est Vates, quem Divi Caesaris ira
+
+
+Augusti, Patriâ cedere jussit humo.
+
+
+Soepe miser voluit Patriis occumbere terris;
+
+
+Sed frustra, hunc illi fata dedêre locum.
+
+
+
+
+That's to say.
+
+
+
+
+
+
+Fate 
+is a Law of necessity.
+
+
+Here lyes the Poet, whom the Anger of Divine 
+Caesar,
+ obliged to leave his Country; often did he wish in his Mi∣sery that he might dye in his own Coun∣try, but in vain; for the Fates have given him this for a Burying place.
+
+
+
+
+
+
+
+
+
+
+And about the year 1540. 
+Isabel
+ Queen of 
+Hungary
+ shewed 
+Peter Angelo Bargeo,
+ a Silver Pen that 
+Ovid
+ made use of to write with; which not long before had been found amongst the Ancient Ruins of 
+Tearunum,
+ at present called 
+Belgrade,
+ at the mouth of the 
+Save,
+ that falls into the 
+Danube,
+ with these words Engraven round it: 
+Ovidii Nasonis Calamus,
+ which that Queen highly prised, and kept it as a Sacred thing.
+
+
+
+
+
+
+GRAN.
+
+
+This Town which is called 
+Gran, Strigonium,
+ or 
+Ostrogon,
+ lyes on the South-side of the River of 
+Gran,
+ where it falls into the 
+Danube.
+ It is divid∣ed into the Upperr and Lower, Town both which are considerably strong
+
+ and have good Walls. The lower Town commands the 
+Danube,
+ and St. 
+Thomas
+ his Hill is also very well fortified, be∣cause being close by the Town it might command it. In this Town there are excellent Natural Baths, that are not too hot. Heretofore it was the Metropolitan City of 
+Hun∣gary,
+ and St. 
+Stephen
+ their first King was born in it; as 
+Stephen
+ III. died there. The chief Ornaments of it are the great Church of St. 
+Stephen,
+ who lyes buried in it, the Arch-Bishop's Palace, and the Houses of other Ca∣nons: This Arch-Bishop formerly put the Crown upon the Kings Head the day of his Coronation. In the Upper Town there is a Rock, on which a ve∣ry strong Castle is built. The Neigh∣boring Hills abound in Vines, and the Country about with Springs of hot water, so that by reason of the Fruit∣fulness of the Country, and the strength of the Town, the Kings of 
+Hungary,
+ in former times had their Palace and kept their Residence there: Hardly any place hath maintained so many Bloody Sieges. For 
+John
+ King of 
+Hun∣gary▪
+ Besieged it, but in vain; and he
+
+ could not succeed in his Attempt. 
+So∣lyman
+ took it in the year, 1542. but the Count of 
+Mansfield
+ re-took it, for the Arch-duke 
+Matthias.
+ It was once more Besieged in vain; but in Succession of time 
+Sultan Achmet
+ took it, by means of an infamous piece of Baseness, that the Christians who de∣fended it committed; for having kil∣led the Count of 
+Dampierre
+ the Gover∣nour, they surrendered the place to 
+Alybeg
+ General of the 
+Turkish
+ Army. The Town of 
+Barckan,
+ is exactly op∣posit to 
+Gran,
+ and there is a Bridge of Boats betwixt those two places. It was before that Fort, that the Armies of the Emperor and 
+Poland
+ gained the Battle against the 
+Turks
+ in the Month of 
+October,
+ 1683. when they Besieged and took the said Fort, and the Town of 
+Gran
+ also the 23. of the same Month, after they had gloriously raised the Siege of 
+Vienna;
+ which the Grand Vizier 
+Kara Mustapha
+ had laid to it, with the chief Forces of the 
+Ottoman
+ Empire, who were cut to pieces, and put to the rout there; and after that the City of 
+Gran,
+ for the space of 80. years had groaned under the yoke
+
+ of the 
+Turks.
+ But the 
+Barbarians,
+ be∣ing impatient that such an important place should remain longer in the Hands of the Christians, endeavoured to regain it with an extraordinary strong Army, and laid Siege to it the 30th. of 
+July,
+ 1685. which they were forced to raise, with the loss of the Battle that followed after the 16th. of 
+August,
+ the same year.
+
+
+
+
+The Isle of Schut.
+
+
+This Isle, which the 
+Latins
+ call 
+Insu∣la Cituorum,
+ called commonly 
+Schut,
+ and 
+Comora,
+ or rather 
+Comara,
+ from its most important place lying on the North-East point of the Island, that has that name, is Twelve 
+Hungarian
+ Leagues in length, and Five in breadth, Sixteen 
+Hungarian
+ making Twenty 
+German
+ Leagues. It contains about Three Hundred Villages, or Bourgs, and Fifteen Thousand Inhabitants. Its next best place to 
+Comora,
+ is 
+Sama∣ria
+ or 
+Samareyn,
+ for which cause 
+Mun∣sterus
+ says, that the Island is called 
+Sa∣maria,
+ as well as 
+Schythia
+ and 
+Camaron,
+ meaning 
+Schut
+ and 
+Comara.
+ This
+
+ Isle is made by the 
+Danube,
+ which dividing it self into four Branches be∣low 
+Presbourg,
+ makes many lovely Isles, full of tall Trees, of which this is the chief; at the end whereof and be∣low 
+Comara
+ the 
+Danube
+ unites all its Branches, of which that which comes from the Upper 
+Hungary,
+ is cal∣led 
+Waag;
+ and the River coming from the North falls into the 
+Danube
+ at this Island.
+
+
+
+
+
+
+
+
+RAAB or JAVARIN.
+
+
+A very strong Town situated where the Rivers of 
+Raab
+ and 
+Rabuits,
+ fall into the 
+Danube,
+ is the Seat of a Bishop Suffragan to 
+Gran,
+ or 
+Strigoni∣um.
+ The 
+Germans
+ call it 
+Raab,
+ the 
+French Javarin,
+ the 
+Hungarians Gever,
+ the 
+Italians Giavarin,
+ and the Latin Authors, 
+Javarinum, Arabo
+ and 
+Ha∣rabo.
+ The Fort was made by 
+Ferdi∣nand
+ of 
+Austria,
+ King of 
+Hungary,
+ be∣fore he came to be Emperor in the year, 1550. and is one of the com∣pleatest Strengths in 
+Europe.
+ It hath two Bridges, one on the side of 
+Au∣stria,
+ and the other on the side of 
+Al∣ba Regalis,
+ or 
+Stael-Weissenbourgh,
+ it is
+
+ fortified with Seven Bastions, and hath Four high Mounts, from whence all the Country about may be disco∣vered. The First is the Bastion, on which the Castle or Governours Pa∣lace is built. The Second is upon the brink of the River of 
+Danube.
+ The Third stands upon the Holy Hill; and when the 
+Turks
+ blew it up, there was a Man upon it on Horse back, who was carried by the force of the Gun∣powder into the 
+Danube,
+ without the least hurt either to Man or Horse. The Fourth is that in the middle, which looks East-ward into the Coun∣trey. The Fifth is that which is cal∣led the New Bastion. The Sixth the Imperial Bastion. And the Seventh is that of 
+Hungary,
+ on the brink of the River of 
+Raab.
+ Here it was that the 
+Turkish
+ Governour was killed, when the Christians surprised the Town, in the night time. It is very near the Isle of 
+Schut
+ in a Plain that reaches out of sight, environed by a Branch of the 
+Danube,
+ and the River of 
+Raab,
+ which makes many to give it that name: And it would seem that nothing can be able to hurt it; unless it be a little Hill
+
+ which is at a pretty good distance from it too, and might be blown up when they pleased, if there were occa∣sion for it. Beyond it there is also a little Tower, in the middle of the Plain, from whence the approach of an Enemy, may easily be discovered. This Town may be near Three hun∣dred paces in Circuit, and at each Angle of the Figure, there is a Cava∣lier which commands the Fortification faced with brick. 
+Sinam Bassa
+ besieg∣ed it in the Reign of Sultan 
+Amurath
+ III. He lost a great many men there, and Twelve thousand were killed in one Attack; but at length it rendred in the year 1591. by the Treachery of the Count of 
+Hardeck,
+ who was Go∣vernour of the place, for which base Action he had his Head struck off at 
+Vienna.
+ Some years after it was re∣taken by the Count of 
+Swartszenbourg,
+ and the Count of 
+Palfy
+ who surprised it in the night time, in the year 1606. under the Emperor 
+Rodolph,
+ and made a great slaughter of all the 
+Turks
+ that were in it: A piece of the Gate, which was broken down by a Petard, is still kept in the Cathedral Church, as the
+
+ Instrument of the Victory; in memo∣ry whereof, the Town fires yearly all their Guns, and make a Solemn Pro∣cession. Whilst the 
+Turks
+ were Ma∣sters of that Town, they made a Dungeon for the Christian Prisoners, into which there enters no Light but through a Grate that looks to the Market-place. But at present there are commonly 
+Turks
+ shut up in it, who beg the Charity of those that pass that way, and sell a kind of Whips, which they make in their wretched Confine∣ment. 
+George Drascovitz
+ Bishop of that Town held a Synod there in the year 1579.
+
+
+The Emperor finding himself in∣commoded by the great number of 
+Chiaus
+ or Ordinary Envoys who came often to 
+Vienna,
+ from the Vizier of 
+Bu∣da,
+ and never went back again with∣out some Present, ordered for the fu∣ture, that they should advance no far∣ther than 
+Raab,
+ unless they had a Per∣mission, and that they should receive their dispatches there. In consequence whereof there was in 
+December,
+ 1685. a 
+Turkish Aga
+ there named 
+Aga Scelebi,
+ waiting for the Emperours Answer,
+
+ from whom he came to beg a Peace.
+
+
+
+
+
+
+COMORA.
+
+
+Gomora, Crumenum,
+ or 
+Comaronium,
+ is a very large fair Town, lying at the East-end of the Isle of 
+Schut;
+ it looks to the 
+Danube,
+ and 
+Waag,
+ and is very well fortifyed and peopled. The Fortifications of it have also been late∣ly enlarged, and a great deal of ground taken in, by means of a Line drawn from the 
+Waag
+ to the 
+Danube,
+ and is fortified by four Bastions more.
+
+
+
+
+
+
+TORTOISE.
+
+
+Is reckoned a strong place, and has its Name from its Figure, which in some manner resembles a 
+Tortoise. Si∣nan Basha
+ having taken the Town of 
+Raab,
+ besieged this place with Three∣score Vessels, and a vast number of 
+Turks
+ and 
+Tartars;
+ but it was without success, and most part of the 
+Tartars
+ were kill'd there.
+
+
+
+
+
+
+
+
+PETRONEL.
+
+
+Betwixt 
+Vienna
+ and 
+Presbourg,
+ where the River of 
+Mark
+ falls into the 
+Da∣nube,
+ lyes the Town of 
+Petronel,
+ near the Hill, and Castle of 
+Haimbourg. Petronel
+ is thought to be the place that was anciently called 
+Carnuntum,
+ which was one of the strongest places of the 
+Panonians,
+ and in vain besieged by the 
+Romans
+ 170. years, before the Incar∣nation of our Saviour; who never∣the less, in Progres of time made them∣selves Masters of it under 
+Augustus,
+ that sent thither a 
+Roman
+ Colony, with the Forces which were called 
+Legio decima Gemina,
+ and 
+Classis Istrica.
+ It was enlarged so much afterward, that it became the chief City of the Upper 
+Panonia,
+ and contained all that lay on the South side of the 
+Danube,
+ where at present we see 
+Haimbourg, Altenbourg,
+ and 
+St. Petronel.
+
+
+
+
+
+
+ALTENBOURG.
+
+
+Is a Town environned by the little River of 
+Leytha,
+ and near that small
+
+ Branch of the 
+Danube,
+ which runs to∣wards the Lower 
+Hungary,
+ eight Leagues from 
+Presbourg.
+ It was form∣erly an open Village; but it hath since been walled in by the 
+Hungarians,
+ who call it 
+Ovar,
+ that's to say, old 
+Castle,
+ which sutes with the German name 
+Altenbourg,
+ that signifies an old Bur∣rough. It is near to the West end of the Isle of 
+Schut,
+ and in the Hands of the Emperour, who in the year 1646. gave that Lordship to 
+Nicholas Drasko∣witch,
+ Count of 
+Trukostian,
+ at that time chosen Palatin of 
+Hungary,
+ that he might qualifie him by that Dig∣nity.
+
+
+
+
+
+
+SIGET.
+
+
+A strong Town lying on this side of the 
+Drave,
+ in the Wash of the River 
+Alm,
+ with a Citadel fortifyed by a tripple Wall, and a tripple Ditch: It is the chief Town of the County of that Name, and was taken by the 
+Turks
+ the seventh of 
+September,
+ 1566. after a brave defence made by 
+Nicho∣las Esdrin
+ Count of 
+Serini,
+ Great-Grandfather to 
+Nicholas
+ II, Knight of
+
+ the Golden Fleece, who died in the year, 1664. and three days after, 
+Soly∣man
+ who besieged it departed this Life in the Town of 
+Five-Churches,
+ whi∣ther, falling sick in the Camp, he was carried. This 
+Nicholas
+ I. was that Great and Valiant Warriour, who af∣ter the taking of so many Towns, and gaining so many Battles, defended that great and important Place of 
+Ziget,
+ against the 
+Turks
+ with an undaunted Courage to the last; so that being no longer able to resist the formidable Ef∣forts of that Barbarous Enemy, he made the last Sally with Prodigious Re∣solution, and amongst many Musket-shot which he received at the first dis∣charge, one in the Head, laid him Dead on the Ground. The Barbari∣ans having cut off his Head, sent it to 
+Selim
+ the Son of 
+Solyman,
+ who sent it to 
+Mahomet Bassa,
+ and he to the 
+Ba∣sha
+ of 
+Buda,
+ who presently wrapt it up in a Cloth of Silk, and by two Boors sent it to the Emperor 
+Maximi∣lian
+ in the Camp of 
+Turn
+ or 
+Bregeto,
+ and from thence it was carried by 
+Bal∣thasar Butschano
+ to 
+Tscacaturno,
+ and there buried in St. 
+Helens
+ Church,
+
+ where 
+Catharine de Frangipani
+ his first Wife lay; this is the 
+Epitaph
+ upon his Tomb.
+
+
+Illustrissimo Comiti 
+Nicolao Zeri∣nio
+ Torquati ex sorore nepoti, à 
+Ca∣rolo
+ V. post Viennam obsidione so∣lutam, quòd in ea Adolescens adhuc & Tyro multa praeclara confecisset, equo, auroque donato: Ad Budam & Peschtum pulchra per facinora summâ cum laude probato: Croa∣tia, Dalmatiae, & Sclavoniae Ban∣nato, Bavernicorumque Regalium in Pannonia Magisterio singulari cum prudentiâ functo: Copiis Cae∣saris ad dextrum Danubij latus à 
+Fer∣dinando
+ I. & 
+Maximiliano
+ II. Impera∣toribus Praefecto: Victis saepissimè, fugatis, captis, caecisque hostibus: Infaustissimâ postremùm, funestissi∣mâque Sigethi expugnatione, cujus arcem contra innumerabilem 
+Soly∣manni
+ Turcarum Principis exerci∣tum, factâ eorum ingenti & memo∣rabili strage, diutìus qum viribus par fuerat, defendit, defuncto ibi∣dem 
+Solymanno,
+ totiùs Orbis flagello, pulcherrimè absumpto, bellicae gloriae
+
+ fortissimo, invictissimoque Duci, de se publièque B. M. P. P.
+
+
+Vixit annos quadraginta octo: occubu∣it septimo Septembris, anno Vir∣ginei partus 1566.
+
+
+
+
+
+
+ALIUD.
+
+
+"Hostibus ut vidit diris & caedere fatis
+
+
+"Credita virtuti maenia celsa suae:
+
+
+"Servatae à me olim, nunc me serva∣bitis, "inquit,
+
+
+"Arces & pugnans 
+Zrinius
+ occubuit.
+
+
+"Imodo, te jacta quantum vis, Roma "Lyburnis
+
+
+"Et sunt quae mortem pectora despi∣ciunt.
+
+
+
+
+
+
+FIVE CHURCHES.
+
+
+This Town hath a Bishoprick Suf∣fragan to 
+Gran,
+ or 
+Strigonium;
+ the 
+Ger∣mans
+ call it 
+Funf-Kircken,
+ the 
+Hungari∣ans Otegiazack,
+ and the 
+Latin
+ Authors 
+Quinque Ecclesiae.
+ It lyes upon the Ri∣vulet called 
+Kevirz
+ close by the 
+Drave,
+ which five or six Leagues from that, falls into the 
+Danube. Five Churches
+ is
+
+ a strong place Four Leagues from 
+Si∣get,
+ and in the hands of the 
+Turks. Solyman
+ II. took it in the year 1543, and afterward died in that Town, du∣ring the Siege of 
+Siget
+ in the year, 1566. which being so near, they had reason to say that he died in his Camp. The Valiant Count 
+Nicholas Serini
+ Se∣cond of that Name, burnt this Town, and the Bridge of 
+Esseck,
+ in the year 1664. and shortly after signalized him∣self in a particular manner at the Bat∣tle of 
+Raab,
+ the 
+Turks
+ having ingenu∣ously confessed, that the Terror of his Name was the cause of the gaining of that Battle. Not long after that brave Count ended his Life, in a very Tra∣gical manner, for being separated from his Attendance, and engaged in the Thickets of a Wood, a Wild Boar enraged by the Wounds which it had received, fell upon him, and having hurt him in the Knee, threw him down. The Count had not the leisure to come to him again; for the violent Beast struck one of its Tusks into his Head, and gave him that Mortal wound, whereof he shortly af∣ter died in his Page's Arms. Such
+
+ was the end of that Illustrious Cap∣tain, whom Death seemed to have respected amidst the greatest Dangers to which he daily exposed himself, and yet became a prey to an inconsi∣derable Beast. He was a sworn Ene∣my to the 
+Mahometans,
+ and had for them as implacable a Hatred as ever 
+Hanibal
+ had for the 
+Romans.
+ He was undaunted in Dangers, brave in Acti∣on, indefategable in Labour, Mild in Peace, and moderate in his Pleasures. He was very sober and took greatest pleasure in Hunting in the Woods, be∣cause it was an Exercise that resem∣bled the Labours of War. He was a man of a profound and solid Judg∣ment; and in a Word, one of the most zealous Defenders of the Christi∣an Religion, whose Courage, Valour, and brave Actions, ought in History to procure him a place amongst the greatest 
+Hero
+'s. He died the 18th. of 
+November,
+ 1664. about the four and fortieth year of his Age, and his Body was Buried near to 
+Sacathurne,
+ the place of his Residence in 
+Croatia,
+ in the Chap∣ple that hath been built in the same place of the Wood where he was killed,
+
+ and all round the Chappel these words are to be read: 
+Neque diem, neque horum scimus.
+ The Chappel is full of all sorts of Trophies, Standards, and Colours, which that Noble Warriour took from the 
+Turks.
+ His Epitaph is in Leonin Verse.
+
+
+Fata, Leonini versus, deflete 
+Serini,
+
+
+Magnus bellator fuit & Virtutis a∣mator,
+
+
+Turcas prosternit, mortemque & vulnera spernit,
+
+
+Hic vitâ exemptus, crudeli est morte peremptus,
+
+
+Inter Apri ardentes, invenit funera dentes,
+
+
+Atque hoc augustum meruit sub mar∣more bustum
+
+
+
+
+
+
+ESSECK
+ and its 
+BRIDGE.
+
+
+The Town of 
+Esseck
+ or 
+Osseck,
+ is thought to be the Ancient 
+Mursa,
+ or at least it is not far from it. History will have it to be in this place, that 
+Constantus
+ Son to the Emperor 
+Con∣stantine
+ defeated the Tyrant 
+Magnen∣tius
+ in the year 359. This Town lies very low, and there are Trees grow∣ing in all the Streets. On one side of
+
+ the Gate there is part of a 
+Roman
+ in∣scription, which begins thus: 
+M. Aeli∣an,
+ &c. And on the other, the Head of a Maid on a Stone. There is a very pret∣ty Dial there also, brought thither from 
+Serinwar;
+ and one of the finest pieces of Cannon that ever was seen in those parts: It is not upon a Carriage, as o∣thers are, but upon great beam of Wood. This is a great and populous Town, there being in it at least five hundred shops, many Mosques and 
+Haccars,
+ which are large Inns for Tra∣vellers.
+
+
+But that which is most considerable, is the lovely Wooden Bridge, (not to be matched in the World) which was built by 
+Solyman,
+ in the year 1521. immedi∣ately after he took 
+Belgrade,
+ partly over the 
+Drave,
+ and partly over the River of 
+Fenues
+ close by, both which do often o∣verflow. On this side the 
+Drave
+ it is about Eleven Hundred paces long, and on the other side almost Eight Thousand, all of good Oak. It is about Twelve yards broad, so that three 
+Turkish
+ Wag∣gons, that are bigger than ours, can go a Breast upon it. The River of 
+Drave
+ is not broad at that place, and there are
+
+ but sixteen Boats that support the Bridge with great Trees that make the Arches. All who well consider that Bridge, and the several Wood∣en Towers which are built upon it, with the vast number of Beams that were needful to uphold so great a Fa∣brick, cannot sufficiently admire, how they could find Timber enough to build or to support it. The Brave Count 
+Nicholas
+ of 
+Serini,
+ Second of that Name, burnt the part of the Bridge that is over the 
+Drave
+ in the year 1664. but in six Weeks time they made ano∣ther Bridge of Boats, a little lower than the first. The 
+Turks
+ would not re-build it in the same place, because the Piles that supported it, and that were under Water when the Fire was out, stuck so fast in the ground, that it would have cost them too much Trouble to get them out. Over this Bridge march all the Armies that come into 
+Hungary,
+ and here it was that the unfortunate King 
+Loüis
+ thought to have put a stop to the 
+Turks,
+ that were co∣ming against him, under the Conduct of 
+Solyman,
+ in the year 1526. and in∣deed, if that Pass had been well defen∣ded
+
+ at that time, it is probable 
+Soly∣man
+ might not so easily have marched forwards to 
+Buda.
+ Count 
+Serini
+ burnt the part of the Bridge that was built o∣ver the 
+Drave,
+ to hinder the 
+Grand Vi∣sier
+ from receiving Succours from the other Counties of 
+Turky;
+ and upon his return, he also burnt 
+Five-Churches,
+ that lyes West-ward from 
+Esseck. Count Le∣slie,
+ General of the Imperial Army, set fire again to the Bridge of 
+Esseck,
+ which for twelve hundred Paces length was immediately in a flame; at the same time he took the Town of 
+Esseck,
+ put all he met to the Sword, and ha∣ving plundred it, and blown up the Magazin and Arsenal, that were full of Ammunition and Provisions, he put Fire to it, and reduced it to A∣shes.
+
+
+
+
+
+
+WALPO.
+
+
+Is a Town lying upon a River of the same Name, which abounds in Fish. It was taken by the 
+Turks
+ in the year 1642. and re-taken and sacked by Count 
+Leslie,
+ in the Month of 
+Au∣gust
+ 1685.
+
+
+
+
+
+
+
+
+METRONIZA.
+
+
+Is a pretty neat Town, and big e∣nough to be the place of a Fair. It lyes upon the side of a Lake.
+
+
+
+
+
+
+CIRMIUM.
+
+
+This Town lying upon the River 
+Bosneth,
+ near the 
+Save,
+ into which it falls, is the chief Town of the Province of that Name, which is also called 
+Schremnia,
+ in the South part of 
+Hun∣gary,
+ having been formerly a Bishops Seat; it hath its Name from 
+Sirmus
+ King of the 
+Tribals:
+ This is the anci∣ent 
+Sirmium
+ heretofore so Famous, which is at present so little esteemed. However, there grows excellent Wine about it, and in this Province, it is said, that the Emperour 
+Probus
+ planted Vines with his own hand, upon 
+Mount-Almos
+ or 
+Arpataro.
+ That Emperor was killed there by his own Soldiers, who were vexed that he kept them in so strict Discipline, and feared that they might be thought useless when that Prince had quell'd all the Enemies of
+
+ the Empire; but afterwards repent∣ing what they had done, they made him this 
+Epitaph.
+
+
+Hic probus Imperator
+
+
+Et verè probus situs est.
+
+
+Victor omnium gentium Barbarorum,
+
+
+Victor etiam Tyrannorum.
+
+
+That Emperour named 
+Marcus Au∣relius Probus,
+ was the Son of a Peasant in 
+Dalmatia,
+ and was killed in the year 282. Many 
+Roman
+ Emperours have been in these parts, who were born, died, or signalized themselves by great Actions there. For not to speak of 
+Trajan, Caracalla, Gallien, Constantius,
+ and several others; the Emperours 
+Aurelian, Probus,
+ and 
+Gra∣tian,
+ were born at 
+Sirmium,
+ and 
+Clau∣dius Gothicus
+ died there, or very near to that place. 
+Jovian
+ and 
+Valentinian,
+ were born in 
+Pannonia,
+ and in the time of 
+Photinus
+ Bishop of 
+Sirmium,
+ there was a general Council held in that Town.
+
+
+
+
+
+
+
+
+
+
+CHAP. VIII.
+
+
+
+
+ Of the Rivers of 
+Hungary,
+ and their Description.
+
+
+
+
+
+
+THE 
+DANUBE.
+
+
+THE 
+Don
+ or 
+Donaw,
+ by the Anci∣ents called 
+Danube,
+ is the second River of 
+Europe,
+ both for Greatness and Force; its source is in 
+Swabia,
+ in the County of 
+Fustemberg,
+ where the 
+Schwartz-wald
+ is, and the black For∣rest. It passes by 
+Ulm,
+ over against which it receives the 
+Iler,
+ which runs by 
+Kempten,
+ and near to 
+Memminguen,
+ it passes by 
+Donawert,
+ near which and on the other side of it, it receives the 
+Lech,
+ which runs by 
+Ausbourg,
+ and se∣parates 
+Swabia
+ from 
+Bavaria;
+ near to 
+Donawert,
+ the 
+Danube
+ enters into 
+Ba∣varia,
+ where it leaves 
+Newbourg
+ to the right hand, 
+Ingolstadt
+ to the left; di∣vides 
+Bavaria
+ from the Palatinat, from whence it receives the 
+Nabe;
+ passes under the Bridges of 
+Ratisbonne
+ and
+
+ 
+Siraubing,
+ which are to the right; on the same side receives the 
+Iler,
+ which watereth 
+Munick
+ and 
+Landshout,
+ the Capitals of the upper and lower Dut∣chies of 
+Bavaria,
+ receives at 
+Passaw
+ the 
+Inn,
+ which comes from the 
+Enga∣dines
+ amongst the 
+Grisons,
+ and crosses the County of 
+Tirol,
+ and there wa∣shes 
+Inspruck,
+ that has the first Bridge upon the 
+Inn,
+ then 
+Halle,
+ in 
+Tirol,
+ and 
+Kufstain,
+ &c. and gives to a part of the Town of 
+Passaw
+ the Name of 
+In∣stat,
+ the first Town of 
+Inn.
+ A little below 
+Passaw
+ the 
+Danube
+ enters 
+Au∣stria,
+ and there watereth 
+Lintz
+ the Capital City of 
+Austria;
+ above 
+Ens
+ it receives the River of 
+Ens,
+ where the Town of 
+Ens
+ is, washes 
+Crems
+ in the middle 
+Austria,
+ and 
+Vienna
+ in the lower; 
+Vienna
+ and 
+Lintz
+ are on the right side Bank, and 
+Crems
+ on the left of the 
+Danube.
+ The 
+Murau,
+ which descends from 
+Moravia,
+ falls into the 
+Danube
+ between 
+Austria
+ and 
+Hungary,
+ where the 
+Danube
+ continuing its course, on the left hand washes 
+Presbourg,
+ the Capital City of the Upper 
+Hungary,
+ embraces the Isle of 
+Schut,
+ on the Bor∣ders whereof are 
+Owar
+ or 
+Walkenbourg,
+
+
+ and 
+Gever
+ or 
+Javarin;
+ and at the point of the Isle, 
+Comora,
+ all strong places, which for many years have stood it out against the 
+Turks.
+ The 
+Danube
+ ha∣ving at 
+Comora
+ rejoined all its Branch∣es, passes by 
+Gran
+ or 
+Strigonium,
+ runs betwixt 
+Buda
+ the ancient place of Re∣sidence of the Kings of 
+Hungary,
+ and 
+Pest,
+ embraces the Isse of 
+Ratzenimarck;
+ waters 
+Colocz
+ on the left, receives the 
+Drave
+ on the right, and over against the Isle of 
+Erdewdy,
+ the 
+Teisse
+ on the left, over against 
+Salonkemen,
+ the 
+Save
+ on the right, and below the confluence of the 
+Save
+ and 
+Danube
+ lyes 
+Belgrade,
+ in a Situation that ought to be estee∣med, seeing of the four Rivers that are near to it, the least runs above an hun∣dred Leagues: Beyond 
+Belgrade
+ we have but little knowledge of the 
+Da∣nube,
+ and from this place forwards the Ancients began to call it the 
+Ister:
+ On the right hand it receives all the Riv∣ers, which descend from 
+Servia
+ and 
+Bulgaria,
+ and on the left those of 
+Wa∣lachia
+ and 
+Moldavia,
+ by seven Mouths it discharges it self into the greater or black Sea. The whole Length of its Course may be six hundred Leagues,
+
+ to wit, two hundred in 
+Germany,
+ some∣what less in 
+Hungary,
+ and somewhat more from 
+Hungary
+ to the Black Sea.
+
+
+
+
+
+
+The 
+TIBISQUE,
+ and the 
+BEDRACK.
+
+
+That great River towards the East called 
+Tibiscus,
+ or otherwise the 
+Teisse,
+ which hath its source in the Country of 
+Maromorus,
+ at the Foot of the 
+Carpati∣an
+ Hills, having received the 
+Mariscus
+ or 
+Marisa
+ with several other Rivers, discharges it self into the 
+Danube,
+ be∣twixt 
+Waradin, St. Peter,
+ and 
+Belgrade.
+ There are brought down this River great quantities of Salt Stones, dug out of several Mines in 
+Hungary
+ and 
+Tran∣silvania,
+ which are also sent up the 
+Da∣nube
+ as far as 
+Presbourg.
+ This River is reckoned the best in all 
+Europe;
+ nay, I may say, in all the World, for Fish∣ing; so that the People of the Coun∣try say commonly, that there is no∣thing in that River but Water and Fish.
+
+
+
+
+The River of 
+Bedrack,
+ which falls in∣to the 
+Tibiscus
+ not far from 
+Tockay,
+ is also so full of Fish, that in the Sum∣mer time when the water is low, the People say that the Fish make the Ri∣ver to swell: It is none of the smallest Rivers; for according to the Relation of those who have seen it, it is Thirty fathom broad, and Eighty eight and a half deep. But there is no good fish∣ing in it with Nets, because the Chan∣nel of it is triangular. This great Fer∣tili
+y is attributed to the Communica∣tion that its Water hath with the salt Mines under Ground, which impreg∣nates it with a Principle of Fecun∣dity.
+
+
+
+
+
+
+The 
+RAAB.
+
+
+The River 
+Arabo
+ or 
+Raab
+ is to the West, which hath its source in 
+Stiria,
+ and falls also into the 
+Danube.
+ It is a River in much esteem, because it re∣ceives the 
+Lauffnitz,
+ the 
+Pica,
+ the 
+Guntz,
+ and many other Rivers; but it is become more Famous by the de∣feat of the 
+Turks,
+ under the conduct of 
+Achmet,
+ who at that time was 
+Grand
+
+ Visie-,
+ by the 
+Imperial
+ Army at 
+St. Go∣dard
+ near to that River.
+
+
+
+
+
+
+The 
+DRAVE.
+
+
+There is a very lovely River to the South, called the 
+Drave,
+ or the 
+Drau,
+ which having its head in the Country of 
+Saltzburland,
+ that is a part of the ancient 
+Noricum,
+ and running through the middle of 
+Carinthia,
+ falls at length into the 
+Danube
+ near to 
+Erdoed,
+ or the ancient 
+Teutoburgium,
+ after it hath run about an hundred Leagues. The River of 
+Mure
+ falls into it.
+
+
+
+
+
+
+The 
+SAVE.
+
+
+On the same side also is the River of 
+Sava
+ or 
+Sau,
+ which is very broad, and having its source in 
+Carinthia,
+ falls into the 
+Danube
+ at 
+Belgrade,
+ after it hath run near an hundred Leagues, and been augmented by several considera∣ble Rivers that fall into it. It seems to be a very pretty River at 
+Carnodunum
+ or 
+Crainbourg,
+ which is a neat Town near the head of it; but it is much en∣larged in its Course: It makes some
+
+ pretty Islands, as 
+Metubaris
+ to the West of the ancient 
+Sirmium,
+ and 
+Sigestica
+ or 
+Sissex
+ near 
+Zagrabia,
+ wherein there was heretofore a very strong and fa∣mous Town. The Water of the 
+Da∣nube
+ seems to be whiter and more mud∣dy than the 
+Sau,
+ and the Water of the 
+Sau,
+ blacker and clearer than the 
+Da∣nube.
+
+
+
+
+
+
+The 
+GRAN
+ and the 
+WAAG.
+
+
+In the North of 
+Hungary
+ there are some Rivers also, which having their sources in the 
+Carpathian
+ Mountains, divide it from 
+Poland;
+ amongst others the River of 
+Gran,
+ which falls into the 
+Danube,
+ close by 
+Strigonium
+ or 
+Gran;
+ and the 
+Waag
+ or 
+Vagus,
+ which dischar∣ges it self into the same River, above 
+Comara. Stuckius
+ who is an Eye Wit∣ness says, that that River is no less than the 
+Po
+ in 
+Italy:
+ It is certain that at 
+Frey∣stadt,
+ which is a Town about seven∣teen Leagues from the place, where it falls into the 
+Danube,
+ it is very broad, and has a fair Bridge there, the greatest part whereof was carried away by the Ice, in the year 1669. A great way above this
+
+ Place, and nearer its source, there is another very fair Bridge at 
+Trenschin.
+
+
+
+
+
+
+The 
+SARVIZZA, WALPO,
+ and 
+BOSNETH.
+
+
+Besides all these great Rivers there are some others mentioned by 
+Pliny
+ which he calls 
+Fluvii non ignobiles,
+ no inconsiderable Rivers. By 
+Jeni
+ or 
+Nova Palenka,
+ runs the River of 
+Sarviz za
+ otherwise called 
+Vrpanus▪
+ which hath its source close by 
+Wesprin,
+ and having run by 
+Alba Regalis,
+ makes a Trian∣gle with 
+Buda
+ and 
+Gran,
+ and then falls into the 
+Danube.
+
+
+By 
+Walcover
+ also runs the River of 
+Walpo
+ or 
+Vulpanus,
+ which hath its head above the Town of 
+Walpo,
+ that was taken by 
+Solyman
+ upon his March to 
+Alba Regalis
+ or 
+Stoel-Weissenbourg.
+
+
+As to the River 
+Bosneth
+ or 
+Bacuntus,
+ it hath its source near Mount 
+Arpataro
+ or 
+Almus,
+ and falls into the River of 
+Sau,
+ near to the Ancient 
+Sirmium
+ that stands upon its bank.
+
+
+
+
+
+
+
+
+
+
+CHAP. IX.
+
+
+
+
+ Of the Division of the Kingdom of 
+Hungary,
+ into Counties, and their Names.
+
+
+
+
+WE have said before, that the Kingdom of 
+Hungary
+ is divid∣ed into Counties as well as 
+England
+ is. These Counties are the parts of the Kingdom, which are called Provin∣ces, and by the 
+Greeks
+ Monarchies, and the Lords who are Counts of them, have the jurisdiction therein; it having been for the more easie and exact Administration thereof, that the 
+Hungarians
+ thought fit to make that division. The Soveraignty of part of these Counties is at present lodged in his Imperial Majesty, as King of 
+Hun∣gary;
+ and the other is usurped by the 
+Turks:
+ The Counties subject to the King of 
+Hungary,
+ are these that follow.
+
+
+
+
+
+
+
+
+Counties.
+
+
+Comitatus.
+
+
+
+
+
+
+Abanviver,
+
+
+Abanvivariensis.
+
+
+
+
+
+
+Avra,
+
+
+Arvensis.
+
+
+
+
+
+
+Barzod,
+
+
+Barzodiensis.
+
+
+
+
+
+
+Kalo,
+
+
+Bihoriensis.
+
+
+
+
+
+
+Bistricz,
+
+
+Bistricensis.
+
+
+
+
+
+
+Sarwar,
+
+
+Castriferrensis.
+
+
+
+
+
+
+Czepufs,
+
+
+Cepuziensis.
+
+
+
+
+
+
+Comara,
+
+
+Comariensis.
+
+
+
+
+
+
+Gewynar,
+
+
+Geuinariensis.
+
+
+
+
+
+
+Gewer,
+
+
+Javarensis.
+
+
+
+
+
+
+Gran,
+
+
+Strigoniensis.
+
+
+
+
+
+
+Lypzce,
+
+
+Liptoviensis.
+
+
+
+
+
+
+Marmarue,
+
+
+Marmaroviensis.
+
+
+
+
+
+
+Mauzon,
+
+
+Musoviensis.
+
+
+
+
+
+
+Neytracht,
+
+
+Nitriensis.
+
+
+
+
+
+
+Novigrad,
+
+
+Novigradensis.
+
+
+
+
+
+
+Peretzaz,
+
+
+Peregiensis.
+
+
+
+
+
+
+Poson,
+
+
+Posoniensis.
+
+
+
+
+
+
+Kreiss,
+
+
+Risiensis.
+
+
+
+
+
+
+Sellia,
+
+
+Saroniensis.
+
+
+
+
+
+
+Saroz,
+
+
+Sariensis.
+
+
+
+
+
+
+Semlyn,
+
+
+Selminiensis.
+
+
+
+
+
+
+Sopron,
+
+
+Soproniensis.
+
+
+
+
+
+
+Torna,
+
+
+Tornensis.
+
+
+
+
+
+
+Transchyn,
+
+
+Tranchiniensis.
+
+
+
+
+
+
+Ovar,
+
+
+Turocensis.
+
+
+
+
+
+
+Wa
+asdin,
+
+
+Varasdiensis.
+
+
+
+
+
+
+Vesprim,
+
+
+Vesprimiensis.
+
+
+
+
+
+
+Ugoza,
+
+
+Ugoghensis.
+
+
+
+
+
+
+Ungwar,
+
+
+Ungensis.
+
+
+
+
+
+
+Zagrabia,
+
+
+Zagrabiensis.
+
+
+
+
+
+
+Zalawar,
+
+
+Zaladiensis.
+
+
+
+
+
+
+Zatmar,
+
+
+Zalmariensis.
+
+
+
+
+
+
+Zolnock,
+
+
+Zolnocensis.
+
+
+
+
+
+
+The Counties subdued by the 
+Turks.
+
+
+
+
+
+
+Ekekes Feierwar,
+
+
+Albensis.
+
+
+
+
+
+
+Barananyvar,
+
+
+Baraniensis.
+
+
+
+
+
+
+Bars,
+
+
+Barsensis.
+
+
+
+
+
+
+Bath,
+
+
+Bathiensis.
+
+
+
+
+
+
+Bodrogh,
+
+
+Bodrogensis.
+
+
+
+
+
+
+Chanad,
+
+
+Chanadicensis.
+
+
+
+
+
+
+Chege,
+
+
+Zaboliensis.
+
+
+
+
+
+
+Hewecz,
+
+
+Hewesensis.
+
+
+
+
+
+
+Sag,
+
+
+Hontensis.
+
+
+
+
+
+
+Czongrad,
+
+
+Orodiensis.
+
+
+
+
+
+
+Peloycz,
+
+
+Pelysiensis.
+
+
+
+
+
+
+Pesth,
+
+
+Pesthensis.
+
+
+
+
+
+
+Posega,
+
+
+Posegiensis.
+
+
+
+
+
+
+Szygeth,
+
+
+Sigetensis.
+
+
+
+
+
+
+Zegzard,
+
+
+Simigiensis.
+
+
+
+
+
+
+Szerem,
+
+
+Sirmiensis.
+
+
+
+
+
+
+Temeswar,
+
+
+Temesvensis.
+
+
+
+
+
+
+Tolna,
+
+
+Tolnensis.
+
+
+
+
+
+
+Thurtur,
+
+
+Torantaliensis.
+
+
+
+
+
+
+Valpon.
+
+
+Valkoniensis.
+
+
+
+
+
+
+
+
+
+
+
+
+CHAP. X.
+
+
+
+
+ The Estates of 
+Hungary.
+
+
+
+
+THE Estates of 
+Hungary
+ consists of four Orders. 1. The Bishops and Clergy. 2. The Barons and Lords, amongst whom are comprehended the Palatin of 
+Hungary,
+ the Ban of 
+Scla∣vonia,
+ and the Hereditary Counts of Provinces. 3. The Gentry, whether they have Inheritances or not, and those newly enobled by the Prince, for which the Patents ought to be pre∣sented in some of the Counties when they have their particular Meetings, for the holding of the Convention of the Estates. 4. The free and Royal Towns.
+
+
+
+
+In the Estate of the Clergy, which makes the first, are rec∣koned,
+
+
+The Arch-bishop of 
+Gran,
+ and his Suffragans, who are,
+
+
+
+
+
+The Bishop of 
+Agria,
+ Chancellor of 
+Hungary.
+
+
+The Bishop of 
+Nitra.
+
+
+The Bishop of 
+Raab.
+
+
+The Bishop of 
+Vaccia.
+
+
+The Bishop of 
+Five-Churches.
+
+
+The Bishop of 
+Vesprim,
+ Chancellor to the Queen.
+
+
+
+
+ The Arch-bishop of 
+Colocza;
+ whose Suffragans are:
+
+
+
+The Bishop of 
+Zagrabia
+ or 
+Agram.
+
+
+The Bishop of 
+Waradin.
+
+
+The Bishop of 
+Szerem.
+
+
+The Bishop of 
+Alba Julia
+ in 
+Transilva∣vania.
+
+
+The Bishop of 
+Chenad.
+
+
+The Bishop of 
+Bosne.
+
+
+The Bishop of 
+Posega
+ in 
+Sclavonia.
+
+
+
+
+
+
+
+
+
+
+
+
+CHAP. XI.
+
+
+
+
+ The chief Palatin Nobility of 
+Hungary.
+
+
+BAthory
+ Princes of 
+Transilvania,
+ Counts of 
+Schepuse.
+
+
+Bothlen Falva,
+ Counts of 
+Schepuse.
+
+
+Bubeck
+ of 
+Pessevez.
+
+
+Budiani,
+ Counts.
+
+
+Draskowich
+ Counts of 
+Tracosthian.
+
+
+Drugeth
+ of 
+Homonay.
+
+
+Esdrin
+ Counts of 
+Serini.
+
+
+Esterhazi,
+ of 
+Galanta,
+ Counts of 
+Frack∣no
+ and 
+Sopronia.
+
+
+Fergatz,
+ Counts of 
+Nograd, Saros
+ and 
+Sabol.
+
+
+Gara.
+
+
+Gareb,
+ Counts of 
+Windgradt.
+
+
+Hedervara.
+
+
+Illeshazi,
+ Counts of 
+Lipton,
+ and 
+Trin∣chin.
+
+
+Ilsua,
+ Counts of 
+Alba.
+
+
+Kaonth.
+
+
+Nadasti,
+ Counts of 
+Pochenedioz.
+
+
+Orsag
+ of 
+Guth.
+
+
+Palfy,
+ Counts of 
+Erdend.
+
+
+
+
+Pasman,
+ Counts of 
+Paves.
+
+
+Paszta.
+
+
+Poloch.
+
+
+Poth,
+ Barons of 
+Hederwara,
+ Counts of 
+Simigin.
+
+
+Privi,
+ Counts of 
+Viwar.
+
+
+Revay,
+ Counts of 
+Turocz.
+
+
+Rothal,
+ Counts.
+
+
+Schasgotz,
+ Counts.
+
+
+Seech,
+ Counts of 
+Seech.
+
+
+Teckely,
+ Counts.
+
+
+Wesseleny
+ of 
+Hadad
+ Counts of 
+Muran, Co∣mora, Pest,
+ and 
+Pilis.
+
+
+Zapolya,
+ Counts of 
+Scepuse.
+
+
+Zacky,
+ Counts.
+
+
+
+
+
+
+The Counts and Barons who were at the Diet of 
+1660.
+ at Presbourg, were of the following Families.
+
+
+Bastian.
+
+
+Balassa.
+
+
+Berchery.
+
+
+Bossangi.
+
+
+Bosckai.
+
+
+Beirber.
+
+
+Beringi.
+
+
+Chaki.
+
+
+Czobor.
+
+
+Caroli.
+
+
+Cikani.
+
+
+Druget.
+
+
+Dhomonaia.
+
+
+Drascowitz.
+
+
+Esterhasi.
+
+
+Erdoeidi.
+
+
+Forgach.
+
+
+Frangipani.
+
+
+
+
+Franczi.
+
+
+Herdewara.
+
+
+Horwaths.
+
+
+Horeski.
+
+
+Jakwich.
+
+
+Illeshasi.
+
+
+Keri.
+
+
+Klegowits.
+
+
+Kemeni.
+
+
+Kara.
+
+
+Kapi.
+
+
+Kolonisch.
+
+
+Konski.
+
+
+Kokarch.
+
+
+Listius.
+
+
+Lippa.
+
+
+Melith.
+
+
+Meggeri.
+
+
+Maitingi.
+
+
+Megisai.
+
+
+Malakosi.
+
+
+Nadasti.
+
+
+Niari.
+
+
+Nodani.
+
+
+Ozacki.
+
+
+Orchoci.
+
+
+Ostronsien.
+
+
+Palfi.
+
+
+Pasmani.
+
+
+Prengi.
+
+
+Pafkay.
+
+
+Petroci.
+
+
+Poloczi.
+
+
+Pongrato.
+
+
+Pongrangi.
+
+
+Petreo.
+
+
+Ragotski.
+
+
+Revai.
+
+
+Rothal.
+
+
+Schezi.
+
+
+Sekengi.
+
+
+Scengici.
+
+
+Szaniogh.
+
+
+Telegki.
+
+
+Weseleni.
+
+
+Wicay.
+
+
+Zichi.
+
+
+Zrin.
+
+
+Zahi.
+
+
+Zengchi.
+
+
+
+
+Some of these Families are extinct since the late Wars.
+
+
+
+
+
+
+
+
+CHAP. XII.
+
+
+
+
+ Of the State of the Palatin of the King∣dom of 
+Hungary,
+ his Quality, Au∣thority, and Preheminence, with a List of those who in this last Age have been Elected to that Office.
+
+
+
+
+THE chief Dignity of this King∣dom next to the King, is that of 
+Palatin,
+ who calls the Estates during an Inter-reigne, and who hath the first and most powerful voice in the Electi∣on of the King. He also decides the controversies that happen betwixt the King and his Subjects, since the Kings there are subject to the Laws, and must not Transgress them. He hath abso∣lute Power in the Armies, so that he can punish and reward all, as he thinks good, and bestow asmuch Land as Twenty or Thirty men are able to Labour. He hath great Revenues, not only from the Salt-pits, but from other things also; and heretofore he had the Rents of the two Isles on the Coast
+
+ of 
+Dalmatia,
+ which now are possessed by the 
+Venetians.
+ In short, so great is his Authority, that right or wrong the 
+Hungarians
+ obey his Will, and fol∣low his Resolutions; and it is a Digni∣ty that cannot be given to Strangers, but belongs only to the 
+Hungarians,
+ who many times oppose their King by means of that Magistrate. It is not an Hereditary but Elective Office. Here I shall mention those who in this last Age have been Chosen to that Dignity.
+
+
+1. 
+Stephen Illishazi
+ Count of 
+Trens∣chin,
+ Palatine of 
+Hungary,
+ chosen in the year 1601. died at 
+Vienna
+ the 26. of 
+May
+ 1609.
+
+
+2. 
+George Turso
+ Palatine of 
+Hunga∣ry,
+ chosen the Seventh of 
+December,
+ 1609.
+
+
+3. 
+Sigismond Forgatz,
+ of 
+Guymes,
+ 1619.
+
+
+4. 
+Nicholas
+ Count of 
+Esterhazi
+ of 
+Galantha
+ and 
+Frakno,
+ Palatine of the Kingdom of 
+Hungary,
+ made Knight of the Golden Fleece, in the year 1628. Deceased in the year 1645.
+
+
+5. 
+Nicholas Draskowich
+ Count of 
+Trakostyan,
+ and of the County of 
+Mas∣sovia,
+ Gentleman of the Bed Chamber
+
+ to his Imperial Majesty, in his Royal Court of 
+Hungary,
+ chosen Palatine in 1646. he died the Ninth of 
+August
+ 1648.
+
+
+6. 
+Paul Palfi
+ Count of 
+Erbent,
+ and 
+Plaffenstein,
+ Palatine of the Kingdom of 
+Hungary,
+ was made Knight of the Gol∣den Fleece in the year 1650. he died in 1654.
+
+
+7. 
+Francis
+ Count 
+Wesselini
+ of 
+Hadad,
+ Hereditary of 
+Muran,
+ Palatine of 
+Hun∣gary,
+ made Knight of the Order of the Golden Fleece in the year 1662. he died in 1667.
+
+
+8. 
+Paul
+ Count of 
+Esterhazi, Galan∣tha, Frackno,
+ and 
+Sopronica,
+ Palatine of 
+Hungary,
+ made Knight of the Gol∣den Fleece, in the year 1682. Coun∣sellor and Chamberlain to the Empe∣ror in his Royal Court of 
+Hungary,
+ at present Palatine of that King∣dom.
+
+
+
+
+
+
+
+
+CHAP. XIII.
+
+
+
+
+ Of the Arms of the Kingdom of 
+Hunga∣ry,
+ and in what manner the Kings have born them.
+
+
+
+
+THE Kingdom of 
+Hungary
+ bears Barry of eight pieces 
+Argent
+ and 
+Gules.
+ Prince 
+Sigismond
+ King of 
+Bohe∣mia
+ having Married 
+Mary
+ Daughter and Heiress of 
+Loüis
+ of 
+Hungary,
+ was in right of her King of 
+Hungary,
+ and afterwards Emperor. He joyned the Arms of 
+Hungary
+ and 
+Bohemia,
+ which he bore upon the Eagle of the Empire, empaling those of 
+Hungary,
+ with a dou∣ble Cross of St. 
+Stephen,
+ which is pre∣served with his Coat of Arms and Sword, used in the Ceremony of the Coronation of these Kings. In his Coyn of Gold there is a Reverse of the Globe of the Earth, Crowned with an Imperial Crown, which the Em∣perours at present place over their Arms.
+
+
+
+
+John
+ and 
+Matthias Corvinus,
+ who were Kings after him, bore quarterly the Arms of 
+Hungary,
+ the Cross of St. 
+Stephen;
+ those of 
+Dalmatia,
+ and 
+Bohemia,
+ and upon all those, the Arms of 
+Corvin.
+ In this manner they have been found upon a Prayer Book in Velom, which belonged to 
+Matthias Corvinus,
+ and is kept in the 
+Bibliotheke
+ of the 
+Vatican.
+ On the first page they are disposed in this manner, quar∣terly. 1. 
+Hungary,
+ Barry 
+Argent
+ and 
+Gules.
+ 2. 
+Gules
+ a Cross double 
+Argent
+ placed upon a Tuff of Earth 
+vert,
+ con∣sisting of three little Hills. 3. 
+Dalma∣tia, Azure
+ three Leopards Heads cou∣ped and Crowned 
+Or.
+ 4. 
+Bohemia, Gules,
+ a Lion 
+Argent
+ his tail forked, nowed, and passed in 
+Saltier,
+ Crown∣ed langued and Armed 
+Or,
+ upon all the Arms of 
+Corvin,
+ which is 
+Or,
+ a Crow conturned Sable, the head re∣turning back to the right-hand, in his Beak a double long Cross placed in Bend. 
+Loüis
+ King of 
+Hungary
+ Knight of the Golden Fleece, Son of 
+Ladi∣slaus
+ King of 
+Hungary
+ and 
+Bohemia,
+ bore quarterly the 1. and 4. 
+Hungary,
+ the 2. and 3. 
+Bohemia, Gules
+ a Lion
+
+ 
+Argent,
+ with a double tail, langued, and Armed 
+Or,
+ upon these the Arms of 
+Poland.
+ The Helmet Crowned 
+Or,
+ and the crest an Eagle nascent.
+
+
+After them, this Kingdom entered into the House of 
+Austria,
+ which joyn∣ed the Arms of both together. The Arch-Dukes, who have born so many Quarterings in their Escutcheons, have born a chief empaling 
+Hungary
+ and 
+Bohemia. Ferdinand
+ the Brother of 
+Charles
+ the Fifth, King of the 
+Romans,
+ and afterwards Emperor, bore a great Escutcheon quartered of 
+Hungary
+ and 
+Bohemia;
+ upon which he placed ano∣ther less Escutcheon, quarterly upon the 1. 
+Austria
+ and Ancient 
+Burgun∣dy
+ empaled. 2. Quarterly of 
+Castille
+ and 
+Leon:
+ Upon the 3. 
+Arragon
+ em∣paled with 
+Sicily:
+ Upon the 4. 
+partie per fess, Lorrain
+ upon 
+Brabant.
+ Up∣on all another little Escutcheon em∣paling 
+Guelders
+ and 
+Juliers,
+ two Lions confronting one another, the Eagle of the Empire was displayed behind the great Escutcheon encompassed with a Collar of the Order of the Gol∣den Fleece.
+
+
+
+
+Rodolph,
+ II. during the Diet of 
+Aus∣bourg,
+ coyned a piece of Silver or Me∣dal, in the Middle whereof was the Eagle of the Empire Crowned with an 
+Imperial
+ Crown, and collered with an open Crown supporting an Escutche∣on quarterly of 
+Hungary
+ and 
+Bohemia,
+ with another over all, empaleing 
+Au∣stria
+ and Ancient 
+Burgundy:
+ About this Medal or Coin, instead of an Inscription, were Four and Twenty little Escutcheons of the Arms of 
+Ca∣stillo, Leon, Arragon, Sicily, Granada, Carniola, Carinthia, Swabia, Cellem∣bourgh, Braganza,
+ the Mark of 
+Scla∣vonia, Portuan, Habsbourg, Tyrol, Bra∣bant, Flanders, Nybourg, Alsatia, Hol∣land,
+ the Mark of the Holy Empire, or 
+Antwerp, Croatia, Sclavonia,
+ and 
+Dal∣matia.
+
+
+One may judge how much in the progress of time, the Kings of 
+Hunga∣ry
+ enlarged their Country, not so much by what may be found in Histo∣ry, as by what is to be seen at their Coronation. For there are Twelve of the Chief of the Kingdom, who carry each of them a Banner, where∣in are represented the Arms of
+
+ Ten Provinces of that Kingdom, which are,
+
+
+
+Hungary.
+
+
+Dalmatia, Vert.
+ Three Leopards Fa∣ces: 
+Or.
+
+
+Croatia,
+ Chequey 
+Argent
+ and 
+Gules
+ of Eight Ranges.
+
+
+Sclavonia: Or,
+ a Cardinals Cap 
+Sable,
+ bordered 
+Gules,
+ the Strings Pen∣dant of the same.
+
+
+Galicia.
+
+
+Russia:
+ Sables, a Portal open, with an Ascent of two Steps, 
+Or.
+
+
+Servia.
+
+
+Bulgaria.
+
+
+Bosnia: Azure,
+ an Arm armed 
+Or,
+ holding in the hand a Sword 
+Argent,
+ the point upwards.
+
+
+Ludormiria.
+
+
+
+
+
+
+
+
+
+
+CHAP. XIV.
+
+
+
+
+ Of the Memorable Battels that have been fought in 
+Hungary.
+
+
+
+
+
+
+ROMAN BATTLES.
+
+
+THE Inhabitants of 
+Hungary
+ have had in Ages past many Brushes with the 
+Romans,
+ and fought several Bat∣tles with them: that which was given in the Neighbourhood of 
+Adom,
+ a Town of the Lower 
+Hungary,
+ upon the Bank of the 
+Danube,
+ was one of the Bloodiest. The occasion of it was, that at that time the 
+Romans
+ came to Seize the Country under the Conduct of 
+Mocrinus
+ and 
+Tetricus,
+ but there they received an utter overthrow.
+
+
+Some time after the Inhabitants of 
+Hungary
+ having recollected their For∣ces, gave the 
+Romans
+ a Second Battle in the precincts of 
+Solna,
+ wherein they again obtained the Victory, and drove out the 
+Romans,
+ though they lost on their side above Forty thousand of their own Souldiers.
+
+
+
+
+
+
+
+
+THE BATTLE OF MOHACZ.
+
+
+THAT unhappy Battle, where∣in 
+Loüis
+ King of 
+Hungary
+ lost his Life, was fought the 30th. of 
+August
+ 1526. in the plain of 
+Mo∣hacz,
+ a little Town of the Lower 
+Hun∣gary
+ upon the River called 
+Carasse,
+ close by the 
+Danube,
+ betwixt 
+Botesk
+ and 
+Es∣seck. Solyman,
+ Emperor of the 
+Turks,
+ being come into 
+Hungary,
+ with a pow∣erful Army; the Chief Commanders of the 
+Hungarian
+ Army perswaded the young King, who being hardly Twenty years of Age, was much wanting in Conduct, and had not For∣ces sufficient to make head against the 
+Turks,
+ to give them Battle, without staying for the Succors that were to come to him from 
+Transilvania:
+
+
+ They were puffed up with their for∣mer Victories, and so swollen with a good Conceit of themselves, that they 
+hought none were able to stand a∣gainst them, and that their Reserved∣ness might make the 
+Hungarians
+ enter∣
+ain a bad opinion of the resolution of 
+heir Army. The Event answered 
+he rashness of that Counsel; for that 
+ovely Army of the 
+Hungarians,
+ consist∣
+ng of the best part of the Nobility, 
+nd chief Forces of the Kingdom, was 
+outed and cut in pieces: The King was 
+ot killed in the Fight; but his Horse 
+hrew him into a Mire, where he 
+tuck, and died, after he had for a 
+ong time fought Valiantly with the 
+Barbarians
+ on the other side of the Town. His Body was found two Months after the Battle, in the River 
+f 
+Czelepatuka,
+ and was interred in 
+he Burying-place of the Kings, in the City of 
+Alba Regalis.
+ That unhappy 
+efeat of the Christians, and that 
+ictory of the 
+Turks,
+ occasioned in the 
+equel the loss of the chief part of the 
+ingdom of 
+Hungary:
+ The Bishops 
+hemselves aswell as the rest of 
+he Clergy, made it apparent
+
+ in that Battle, that they were very good Soldiers for the common Cause of 
+Chri∣stendom;
+ for no fewer than six Bishops were killed in that fatal Overthrow, and amongst them 
+Paul Tomorie
+ Archbishop of 
+Colocza,
+ one of the chief who had advised the King to engage in that Battle: His Head was carried to 
+Soly∣man,
+ who called it a foolish Head, and incapable of giving its Master good Council. This is the Inscription that was made in memory of that fatal day.
+
+
+Ludovicus
+ solo nomine secundus,
+
+
+Ad coronas natus, non formatus
+
+
+Diadema Hungaricum secundo, quarto aetatis Bohemicum,
+
+
+Ut Immaturus acquisivit.
+
+
+Ita maturè secum utrumque perdidit;
+
+
+Foelicior, si solus perire potuisset.
+
+
+Eandem tamen cum Rege fatalis urna sortem
+
+
+Experire coacta Hungaria,
+
+
+Ducenta suorum millia eodem luctu deplora∣vit:
+
+
+Luctuosum praevisorum malorum initium,
+
+
+Lachrymabile futurorum dolorum argu∣mentum.
+
+
+
+
+
+
+
+
+THE BATTLE OF S. GODARD.
+
+
+THis Battle was fought the first of 
+August,
+ in the year, 1664. at St. 
+Godard,
+ betwixt 
+Kermin
+ and 
+Canisa,
+ in the Lower 
+Hungary.
+ In this place, one half of the 
+Turkish
+ Army passed the River of 
+Raab,
+ to attack the 
+Impe∣rialists;
+ but hardly were these Troops got over the River, when, without gi∣ving them time to entrench themselves, the 
+Imperial
+ Forces under the Com∣mand of General 
+Montecuculi,
+ being drawn up to receive them, forced them to fight, and utterly defeated the great∣est part of the 
+Turks;
+ the rest betook themselves shamefully to flight, who crowding in great haste to re-pass the River, threw themselves head-long in∣to the Water, and were carried away by the Stream; so that the Rapidity of
+
+ the River, forcing along with it Men and Horses, they were drowned in the deepest places; it being certain that more perished in the Water, than by the Sword: And the 
+Turks
+ themselves acknowledged, that they lost many more Men, than the 
+Gazets
+ of 
+Europe
+ mentioned. To which they added, that their Histories did not speak of so great and so shameful a Disgrace happened to the 
+Ottoman
+ Empire, since it had attained to so high a degree of Power, as that Disaster was. The 
+Turks
+ left above Eight Thousand Men upon the place, and the Glory of the day to the 
+Imperialists,
+ which was imme∣diately followed by a Peace, that the 
+Turks
+ proposed, and greedily embra∣ced; of which these were the Condi∣tions.
+
+
+
+
+1. That 
+Transilvania
+ should conti∣nue within its ancient Limits, and with its ancient Priviledges, under the Command of Prince 
+Michael Abaffi.
+
+
+2. That the Emperour of 
+Germany
+ should have Liberty to fortifie 
+Gutta
+ and 
+Nitra.
+
+
+
+
+3. That the 
+Turks
+ should make no In∣novation in the Regulation made for the Frontiers, as well of 
+Hungary,
+ as of the other Territories of the Em∣perour.
+
+
+4. That 
+Abaffi
+ should pay six hundred Thousand Crowns to the Port, for the Charges of the War.
+
+
+5. That all Acts of Hostility, betwixt the Emperour and 
+Grand Signior,
+ and their Subjects, should for ever cease.
+
+
+6. That the two Provinces of 
+Zatmar,
+ and 
+Zaboli,
+ given to 
+Ragotzi
+ for Life, should again return to his Imperial Majesty, and neither the Prince of 
+Transilvania,
+ nor the 
+Grand Signior
+ pretend any Right to them.
+
+
+7. That the strong Castle of 
+Zechel∣hyd
+ which revolted from the Em∣perour, should be demolished, be∣cause neither Party would renounce their Pretentions to so important a place.
+
+
+
+
+8. That 
+Waradin
+ and 
+Newheusel
+ should remain in the Possession of the 
+Turks,
+ who had carried them by their Arms.
+
+
+9. That for Confirmation of the Peace, the two Emperours should send Ambassadours to one another, with reciprocal Presents of equal value.
+
+
+
+
+
+
+
+
+
+
+THE BATTLE AND RELIEF OF VIENNA. The 12th. of 
+September,
+ 1683.
+
+
+
+
+Instead of a Description of that happy day; I shall here publish the Letter of the King of 
+Poland,
+ written in Latin, the Day after the Battle, to the 
+Marquess
+ of 
+Grana,
+ then Go∣vernour of the 
+Netherlands,
+ with the Transla∣tion thereof; nothing being more Authen∣tick than the Contents of it.
+
+
+
+
+JOHN III. 
+By the Grace of God, King of
+ Poland, 
+Great Duke of
+ Li∣thuania, Russia, Prussia, Massovia, Samogitia, Livonia, Kiovia, Vol∣hinia, Podolia, Poldachia, Smalen∣scia, Severia, 
+and
+ Czernihovia.
+
+
+
+
+
+
+
+
+ILlust
+me.
+ grate nobis dilecte.
+
+ Vocati in subsidi∣um periclitantis Viennae, lectis con∣festim militari∣bus Copiis quam angusti temporis spatio priùs via∣rum incommoda, distantiam loci, & ripas Danubij, demum cacumina montium & sal∣tus sylvarum Vi∣ennensium supera∣verimus, famam distulisse non du∣bitamus. Nobis vel id Illustritati Vestrae referre pla∣cet, quòd sine in∣juria communis Christianorum so∣latij reticere non possumus. Deo auspice, Comite Se∣renissimorum
+
+ Prin∣cipum, Ducum, & Electorum Fortunâ, Christiani Exercitus, quorum nobis cuncti detulerant Imperium, die hesternâ in Cam∣pis praesentibus insig∣nem & saeculis memo∣randam de Turcis, & Tartaris reportarunt Victoriam. Magnus quippe Turcarum Vi∣sirus integris Orientis & Hanni Crimensi∣um superbus viribus, jam non Viennae dun∣taxat intra triduum (ni subventum fuis∣set) periturae, sed uni∣versae Christianitatis spem deglutiens, acie, & praelio unius diei coesus, atque fugatus est. Peditatus vulgò
+
+ Janisseri, utpote tardior militia, ae∣qualique cum Eque∣stribus fugae insuffi∣ciens, in Castris de∣serta, & Victorum re∣licta discretioni. Ca∣stra ipsa longitudinem & latitudinem duo∣rum ferè milliarium exaequantia, capta, Tormenta atque inte∣gra res tormentaria cum opimis spoliis in praemium victricium cessêre armorum. Vi∣enna gravi obsidione, & extremis liberata periculis, suaque sedes reddita Caesari. Ʋl∣teriori Victoriae mox metam posuit, ac turpi fugâ sese recipienti hoste terrore panico in Pannoniam mon∣strante
+
+ viam, um∣bra fuit beneficium. Insidet nihilominus tergo illius levior nostra militia; de∣ficientesque in viâ partim caedit; par∣tim in captivitatem abducit. Porrò & ipsi in Dei nomine eidem insistimus vi∣ctoriae, non priùs de∣stituri, donec, si ita propitiis visum fue∣rit Superis, hostili in terra armis Chri∣stianis stativa pate∣ant hyberna. Tali itaque rerum Otto∣manicarum sub-secu∣tâ confusione, si quid∣piam aliquando Eu∣ropae vires ubique promptis accinctae ar∣mis dignum Christi∣ano
+
+ nomine auder
+ contendant, nunquam opportuniora rerum momenta praesentibus nancisci poterunt; Si namque ad clangorem memoratae Victoriae, vel levis armorum ter∣râ marique succedat ostentatio, proculdu∣bio gemens sub tyran∣nide Graecia, ac ipsa Constantinopolis per∣fido recalcitraret Do∣mino, ad suasque respi∣ceret origines. Idem de Epiro, Macedoniâ, Bosniâ, Bulgariâ, Dal∣matiâ, Valachiâ, Mol∣daviâ, aliisque Regnis & Provinciis raptis credendum, prout non levia praemissorum ha∣bemus indicia: fortè jam & illam conti∣nuam
+
+ rerum huma∣narum Mahometano Imperio superesse vi∣cissitudinem, ut post∣quam ab exiguis pro∣fectum initiis eò cre∣verit, ut magnitudine suâ laboret, rursus vertente fato & vo∣lubilis fortunae rotâ aliò inclinante, ad sua devolvatur prin∣cipia & ubi satis in altum surrexerit, lap∣su graviori ru at: Sed his omnibus supremo Imperiorum Regno∣rumque Arbitrio reli∣ctis. De Illustritate Vestrâ omnino persuasi sumus, habere illam tantum pietatis & ge∣nerosissimae mentis in res Christianas, ut non solùm felicibus hisce
+
+ congaudeat successi∣bus, sed eos communes sibi aliquando faciat, nullasque ad mutua Christianitatis incom∣moda intermittat oc∣casiones. Quod dum profundissimis inge∣minamus desideriis, optimam Illustritati Vestrae cum prospero re∣rum successu precamur valetudinem. Daba∣tur in Castris Turcicis in Tentoriis Visiriis ad Viennam die 
+13.
+ mensis Septemb. anno Dom. 
+1683.
+ Regni nostri 
+X.
+ Anno.
+
+
+
+
+
+
+MOST Illustrious Lord, and most dear to us. Being
+
+ called to the relief of 
+Vienna,
+ which was in danger of being lost, we make no doubt, but that you have been in∣formed by the com∣mon Report, in how short a time, not∣withstanding the dif∣ficulties and length of the way, we came to the Banks of the 
+Danube,
+ sur∣mounted the tops of Mountains, and cros∣sed the Forrests of 
+Vienna,
+ with Forces that we raised in di∣ligence; but with Pleasure now we ac∣quaint your Illustri∣ous Lordship with that which we cannot conceal without pre∣judice to the com∣mon Consolation of Christendom. Know then that Yesterday the Christian Ar∣mies, the command whereof was by all given to us, fight∣ing under the Pro∣tection of God; and
+
+ assisted by the good Fortune of the Princes, ann Dukes and Ele∣ctors, obtained in the Camp where we are, a signal Victory and Memorable to all posterity, over the 
+Turks
+ and 
+Tartars.
+ For the 
+Grand Visier
+ of the 
+Turks
+ proud with the Forces of all the East and of the 
+Crim Tartars,
+ and think∣ing of nothing less than swallow∣ing up not only 
+Vienna,
+ which in three days space must have perished (had it not been reliev∣ed) but also all Christendom, is in one days fight overthrown and put to flight. The Infantry, whom they call 
+Jani∣saries,
+ not being able to fly so
+
+ nimbly as the Horse, seeing they are slower and more pestered, were left in the Camp, and aban∣doned to the dis∣cretion of the Vi∣ctorious. Their Camp, which took up near two 
+German
+ miles in 
+length,
+ and as much in breadth, was taken, their Can∣non, Ammuniti∣on, with rich spoils became the re∣ward of the victo∣rious Armies. 
+Vi∣enna
+ is relieved from a dreadful Siege, and immi∣nent dangers, and the Emperour a∣gain restored to the place of his Residence. The Night put a stop to the course of the Victory, and Darkness favoured the Ignominious flight of the E∣nemy, who smit∣ten
+
+ with a Panick Fear is retreated towards 
+Hungary.
+ Our Light Horse, nevertheless pur∣sue them at the Heels, and kill or make Prisoners all whom they over∣take in the way. We, moreover, in the name of God pursue the same Victory, being re∣solved not to de∣sist, untill (if kind Heaven so think fit) we have opened for the Christian Armies Winter quarters in the Enemies Country. And such at present is the Confus
+on of the 
+Ottoman
+ Af∣fairs, that if the Princes of Europe, will speedily Arm and undertake somewhat worthy of the Christian Name, a more favourable Jun∣cture than this
+
+ can never be of∣fered unto them; for if the News of this Victory were seconded by some shew of arm∣ing by Land and by Sea, there is no doubt but 
+Greece,
+ that groans under the Ty∣ranny of an U∣surper, and 
+Con∣stantinople
+ it self would revolt from their perfidious Master, and endea¦vor to reco∣ver their pristine-Liberty. Upon no slight grounds we may assert the same thing of 
+Epyrus, Macedonia, Bosnia, Bulgaria, Dalma∣tia, Valachia, Mol∣davia,
+ and other Kingdoms and Provinces that have been sub∣dued by the 
+Turks.
+ Perhaps, also the 
+Mahometan
+ Em∣pire, may now have a tryal of
+
+ the vicissitude of Humane Affairs, and from small Beginnings being grown so great, that it labours under its own weight, by a change of Fate and a turn of the Wheel of fickle Fortune, it may relapse in∣to its Original, and from so high an Elevation have a greater fall. But all these things are to be left to the su∣pream Will and Pleasure of Em∣pires and King∣doms. As for your Illustrious Lordship, we are fully perswaded that you have so great Piety and such Generous In∣clinations towards the concerns of Christianity, that you will not on¦ly congratulate
+
+ these happy suc∣cesses; but one day also contri∣bute to the pro∣moting of the same, and omit no Occasion of furthering the ad∣vantage of 
+Chri∣stendom.
+ This we desire from the bottom of our Heart, praying God to give your Illustrious Lord∣ship perfect health and all sort of Prosperity. From the Tent of the 
+Grand Visier,
+ in the 
+Turkish
+ Camp before 
+Vienna
+ the 13. 
+Septemb.
+ 1683. and the Tenth Year of our Reign.
+
+
+
+
+
+
+
+
+Upon occasion of this great Victo∣ry, the following Chronogram was published.
+
+
+aVstrIaCo aVXILIVM DeVS.
+
+
+And it was the Subject of a Medal, which was made representing a double
+
+ spread Eagle upon the Globe of the World looking to the Sun, with this Inscription, 
+Colliget Auxilii radios,
+ and having in its Tallons a Sword and Scep∣ter: About the Globe was this Mot∣to, 
+Sub umbrâ alarum tuarum,
+ and un∣derneath this, the Crescent reversed, with this Hemistich, 
+Victamque rede∣git in umbras.
+ And in the circumfe∣rence of the Medal, this Verse:
+
+Imperii murum Austriaco interponit inorbe.
+
+
+On the Reverse these Words were en∣graven.
+
+
+1683.
+
+
+Die 
+14.
+ Julii
+
+
+Vienna Austriae
+
+
+A Turcis obsessa,
+
+
+Sed Protectore altissimo,
+
+
+Leopoldi Imperatoris industriae consilio,
+
+
+Regis Poloniae Joannis 
+III.
+
+
+Presentis valido Auxilio.
+
+
+On the one side was Written.
+
+In Perso. Seren. Electoris Bavari, Saxon:
+
+
+Et Imperi subsidio Comit. Caplieres Deput. Praesidente.
+
+
+
+
+And on the other:
+
+Duce Lotharingio Caesaris locum tenente Generali, Comite Starembergio Viennae.
+
+
+And underneath all these Writings was what follows:
+
+Viennensium denique Universitatis Senatus,
+
+
+Officialium, Civium ac incolarum concordi obsequio, ab obsidione
+
+
+Profligato hoste eodem Anno
+
+
+Die 
+12.
+ Septembris liberata.
+
+
+There were many Sonnets made upon the same Subject in Vulgar Lan∣guages to the Honour of the King of 
+Poland;
+ but that which was made on him in Latin, very well deserves a place here.
+
+
+
+
+
+
+
+
+JOANNI SOBIESCO.
+
+
+
+
+DOminatione Polonico, Lutuanico;
+
+
+Liberatione Austriaco, Pannonico;
+
+
+Profligatione Ottomanico, Turcico;
+
+
+Religione Christianissimo;
+
+
+
+
+Pietate Catholico;
+
+
+Zelo, & obsequio Apostolico.
+
+
+Inter Reges sapientissimo,
+
+
+Inter Duces praestantissimo,
+
+
+Inter Imperatores, citra fabulas,
+
+
+Solo nomine tremebundo,
+
+
+Solo nomine Hostes profliganti.
+
+
+
+
+
+
+CUI
+
+
+Gloria militaris Regnum peperit,
+
+
+Clementia firmavit,
+
+
+Meritum perenabit.
+
+
+
+
+
+
+QUI
+
+
+Raro probitatis & constantiae exemplo,
+
+
+Propria deserens, aliena defendens,
+
+
+Docuit quo pacto sancta Jura foederum
+
+
+Ineantur, excolantur, perficiantur.
+
+
+Ottomanicam lunam fulgentissimo
+
+
+Crucis vexillo
+
+
+Aeternam eclypsim minitant
+m,
+
+
+Ita properè fortiterque à Christianorum finibus eliminavit,
+
+
+Ut unum, idemque fuerit
+
+
+Venisse, vidisse & vicisse.
+
+
+Inter innumeros igitur Christiani orbis plausus,
+
+
+
+
+Inter vindicatae Religionis & Imperii Laetitiam,
+
+
+Inter cruentatae lunae extrema deliquia,
+
+
+Agnoscant praesentes, fateantur posteri,
+
+
+Non tantum enascenti Evangelio quo promulgaretur,
+
+
+Sed etiam promulgato ne profligaretur,
+
+
+Utrobique fuisse hominem à Deo missum
+
+
+Cui nomen erat
+ Joannes.
+
+
+
+
+
+
+
+
+
+
+Now this happy Victory and Relief of 
+Vienna,
+ is so much the more to be pri∣sed, that it is certain, according to the List which was afterwards found in the Grand Viziers Tent, that the Army of the 
+Turks
+ which Besieged it, consisted of 191800. men, and the Christian Army only of 81600. The great Standard, the Horses Tail, and the Grand Viziers own Horse were taken by the 
+Poles,
+ who obstinatly pursued them in their Retreat, and there was much booty found in the 
+Turkish
+ Camp, which was wholly plundered even to the Tent of the Grand Vizier, where they found great Riches in Gold, Silver, and other pre∣cious things: All their Artillery, which consisted of above an hundred pieces
+
+ of Cannon, was also gained with store of Ammunition.
+
+
+The great Standard we mentioned before, was carried before the King of 
+Poland,
+ when he made his entry into 
+Vienna,
+ immediately after it was Relieved, and was sent presently by that King to the Pope. On the one side of it was this Inscription,
+
+We prophecy to you prosperity and good Success, God Pardon your Sins, and grant you all his grace.
+
+
+And on the other side.
+
+God Assist and Bless you, and dwell in the Hearts of Believers, that the purity of the Faith may encrease therein. Besides him there is no other God, and 
+Ma∣homet
+ is his Prophet.
+
+
+It will not be amiss here to insert the List of the great Lords, who be∣sides the 
+Imperialists,
+ were present at that Battle; of whom the Names follow,
+
+
+
+
+
+The King of 
+Poland.
+
+
+Prince 
+Alexander
+ his Son.
+
+
+The Elector of 
+Bavaria.
+
+
+The Elector of 
+Saxony.
+
+
+The Duke of 
+Lorrain.
+
+
+Prince 
+Waldeck.
+
+
+Two Marquesses of 
+Baden.
+
+
+Four Dukes of 
+Saxony.
+
+
+Three Dukes of 
+Wittenberg.
+
+
+The Prince of 
+Anhalt.
+
+
+The Duke of 
+Croy.
+
+
+The Prince of 
+Salms.
+
+
+Two Dukes of 
+Neubourgh.
+
+
+The Marquess of 
+Barreit.
+
+
+The Prince of 
+Hannover.
+
+
+The Prince 
+Lubomirski.
+
+
+The Prince of 
+Savoy.
+
+
+The Prince of 
+Hogen Zoller.
+
+
+
+
+And since the King of 
+Poland
+ had so great a Hand in this Victory, I hope the Curious will not be dissatisfi∣ed, to see the League offensive and de∣fensive, which was happily made and concluded in the Month of 
+April,
+ 1683. betwixt their 
+Imperial
+ and 
+Polo∣nian
+ Majesties, of which the substance follows:
+
+
+1. There shall be only an Alliance defensive betwixt the two high Con∣tractors; but against the 
+Turks
+ there shall be also an Alliance offensive, which shall last untill both Parties find themselves in Rest and good Security.
+
+
+2. This Alliance shall be Sworn and Sacredly confirmed by Oath, in presence of the Pope, by the two Cardinals 
+Pio
+ and 
+Barberino,
+ aswell in name of his 
+Imperial
+ Majesty, as of his Majesty of 
+Poland,
+ and of his States.
+
+
+3. His 
+Imperial
+ Majesty renounces all pretentions for the Charges he hath been at, for the good of the Republick of 
+Poland,
+ during the late War of 
+Swe∣den,
+ and the 
+Diploma de Electione Regis
+ shall be given back and an∣nulled.
+
+
+4. On the other hand the Crown and Republick of 
+Poland
+ renounces all pretentions it can have against the House of 
+Austria.
+
+
+5. The one shall not make a sepa∣rate Peace, without the consent of the other.
+
+
+6. The Heirs of the two parties and Successors in the Government, shall be obliged to observe this Alli∣ance.
+
+
+7. This only is to be understood of a War against the 
+Turks,
+ and not of any other.
+
+
+8. His 
+Imperial
+ Majesty declares, that he will entertain 60000. men, whereof he will send 40000. into the Fields, and keep the other 20000. in Garrisons.
+
+
+9. His 
+Polonian
+ Majesty offers to bring 40000. men into the Fields un∣der his own command.
+
+
+10. To the end the Preparations of War may be the sooner in readiness, His 
+Imperial
+ Majesty promises by Antici∣pation to remit 200000. Crowns to the Crown of 
+Poland,
+ on condition that that sum be raised out of the Tenth of the Pope in the Kingdom of 
+Poland,
+ which he hath granted for that effect.
+
+
+11. His 
+Imperial
+ Majesty shall be obliged to recover the places that he hath lost in 
+Hungary.
+ The 
+Poles
+ in like manner shall be obliged to regain theirs in 
+Podolia, Walachia,
+ and the 
+Vkrain,
+ and to act against 
+Teckely
+ with 6000. men.
+
+
+12. Other Christian Kings and Po∣tentats may be also received into this Alliance; but not without the mutu∣al consent of both Parties, and above all the two 
+Czars
+ of 
+Muscovy
+ shall be earnestly entreated to enter in∣to it.
+
+
+I cannot conclude this Chapter, without calling to mind a pretty Em∣bleme made upon occasion of this Victory, by a young Prince, who reckons Emperors amongst his Ance∣stors: The Emblem represents a 
+Turk
+ pitching a Net to surprise and catch the Eagle; but who wandering and engaging too far in his own Toile, be∣came himself therein the prey of the Eagle, with this Inscription: 
+Qui captat, capitur,
+ or 
+Turca à capiendis captus.
+
+
+Turca parans Aquilae insidias ac retia tendens
+
+
+In somnis nuper visus adesse mihi.
+
+
+O miseram! mecum tacitus, te funera, dixi,
+
+
+Quae maneant, nescis, quo malè cauta volas?
+
+
+Interea in casses tendebat rectà volatu,
+
+
+
+
+Tollere jam praedam, praedo parabat ovans.
+
+
+Unguibus at contrà volucris (mirabile visu)
+
+
+Tendentem insidias insidiasque tulit.
+
+
+Sic raptus raptor, factus sic latro, rapina,
+
+
+Praedonemque putans se fore, praeda fuit,
+
+
+
+
+
+
+
+
+THE BATTLE OR DEFEAT OF THE TURKS NEAR 
+PRESBOƲRG.
+
+
+THE 
+Turks
+ who were before 
+Vienna,
+ in the year 1683. find∣ing it difficult to bring their Provisions and Ammunition from the City of 
+Buda,
+ to the place where they were on the side of the 
+Danube;
+ be∣cause the Garrisons of 
+Raab
+ and 
+Co∣mora
+ way laid all their Convoys, and much annoyed them; the 
+Grand Visier
+ sent orders to 
+Basha Husani,
+ to join
+
+ Count 
+Teckely
+ with some Troops, who was on the other side of the 
+Danube,
+ near the River of 
+Waag,
+ and to en∣deavour to make himself Master of the City of 
+Presbourg,
+ to the end they might have the passage of the 
+Danube
+ free, make a Bridge of Boats over it, and be provided of all things on that side. The thing was well undertaken; for Twenty thousand of their Men marched towards that Town: But the Duke of 
+Lorrain,
+ who at that time resolved to encrease his Army with the Regiments of 
+Gran
+ and 
+Baden,
+ which were in 
+Raab,
+ and were not so necessary there, seeing the 
+Turks
+ had Besieged 
+Vienna,
+ and who therefore had drawn near to 
+Presbourg,
+ to secure that Town from the attempts of the 
+Turks;
+ having had notice of it, sent immediately against them Prince 
+Louis
+ of 
+Baden
+ (who that day commanded the Van-Guard) with some Squadrons of Prince 
+Lubomirski
+'s men, and the Two Regiments of 
+Palfi
+ and 
+Styrum,
+ who at first charged 
+Teckely
+'s men in such a manner, that presently they be∣took themselves to flight. The 
+Turks
+ made a little longer Resistance; but at
+
+ length also they were forced to give ground with the loss of Eight hundred of their Men, and a considerable 
+Aga.
+ The 
+Imperialists
+ gained there a Thou∣sand Wagons with Baggage; and cer∣tainly it was a lucky Hit for them to have beat the Enemy at that time, be∣cause if they had delayed but one day longer, 
+Presbourg
+ had been lost, see∣ing those within had promised to ren∣der next day to 
+Teckely,
+ and to furnish him with all that was necessary for the Bridge of Boats: whereas the 
+Im∣perialists
+ thereby not only preserved that Town, whither soon after they sent Six hundred men to re-inforce the Garrison; but also hindred the passage of the 
+Danube,
+ and the means of pro∣viding the Army before 
+Vienna
+ with necessaries; besides that they also ru∣ined the Boats which Count 
+Teckely
+ and the 
+Turks
+ had gathered together for making a Bridge: These last re∣treated towards the River of 
+Waag,
+ from whence Count 
+Teckely
+ wrote a Letter, to Justifie himself to the 
+Grand Visier,
+ which was intercepted by the 
+Imperialists.
+
+
+
+
+
+
+
+
+THE BATTLE OF BARKAN.
+
+
+THE Generals of the Christian Armies, on the 10th. of 
+Octo∣ber,
+ 1683. advanced towards 
+Barkan
+ (the 
+Poles
+ on that occasion be∣ing on the left Wing;) the 
+Turks
+ see∣ing them approach, fell upon them with a dreadful Shout, and chiefly up∣on the left Wing, commanded by the Lord High Marshal of 
+Poland Jabla∣nowisky,
+ who having the former Vict∣ory in his thoughts, charged the 
+Turks
+ so furiously, that he constrained them to give ground; but the Duke of 
+Lor∣rain
+ with the Cavalry of the right Wing, broke in upon them, with so great Impetuosity, that he put them entirely to the Flight. Afterwards some Regiments were commanded out to pursue the 
+Turks,
+ who fled, and by
+
+ them were driven partly in a Marish, and partly into the 
+Danube;
+ because the Bridge, betwixt 
+Barkan
+ and 
+Gran,
+ broke in the middle, so that most of them fell into the River, and were drowned, and the rest who saved themselves in the Marish were killed, seeing in the first heat they gave the 
+Turks
+ no Quarters; and it was not till towards the end that they took a Thousand Prisoners, a∣mongst whom was the Basha of 
+Silistria.
+ Prince 
+Loüis
+ of 
+Baden
+ signalized him∣self on this occasion, and was by his Conduct the chief cause of the Victo∣ry, because the 
+Imperial
+ Cavalry act∣ed all along without the Foot. The Christians gained all the Colours, Tents, Cannon, Baggage, and in a word, all that was in the Camp of the 
+Turks,
+ besides a Thousand Horses that they made booty of. There are various Relations of the loss that the 
+Turks
+ suf∣fered in this Fight; some will have it that being Thirteen thousand strong before the Defeat, they saved but Three or Four Thousand at most, and amongst those the 
+Basha
+ of 
+Mesopotamia
+ who Commanded them; all the rest,
+
+ who were the Choice of the 
+Turkish
+ Army, being either killed or taken. However it be, the Waters of the 
+Da∣nube
+ were died with their Blood; this Fight lasted about five hours.
+
+
+From thence the 
+Imperalists
+ advanc∣ed towards 
+Barkan,
+ and Battered that place so violently with great and small Shot, that presently they in the Town beat a Parley, which being granted them, the 
+Imperialists
+ enter∣ed the place; but shortly after a Fire happening in it, this little Hold was burnt down, and no body could tell how the Fire happened. This Victory was followed by the taking of 
+Gran,
+ which surrendered the 27th. of 
+Octo∣ber,
+ after four days Siege: These were the Articles of Capitulation;
+
+
+1. All the Cannon, Mortars, Ammu∣nition, Magazines, and other Arms shall remain in the Fort, except what is hereafter specified.
+
+
+2. The Garrison shall have leave to provide themselves of Bread and Meat for two days, and to carry with them all their Coffee, Sharbet, Cloaths and other Moveables.
+
+
+3 His Highness of 
+Lorrain
+ shall fur¦nish the Garrison a certain Number of Waggons, to carry their Goods to the Water, to be Transported down∣wards.
+
+
+4. Some Boats shall also be given to the said Garrison, to be made use of for transporting their Effects; and if they cannot carry them off all at once, they may send for them at several times.
+
+
+5. That if the afore said Baggage can∣not be Transported all at once, the Garrison may put what is left behind into some Houses of the Lower Town, which shall be kept by some of their Men, that all the rest may honestly and without Let or Molestation follow after.
+
+
+6. Since the Boat-men cannot be spared at present, the Garrison shall be obliged to make use of their own men, to go down and up the River with the Boats.
+
+
+7. The afore-mentioned Articles being granted to the Garrison, the Gate of the Castle shall immediately be opened to the 
+Imperial
+ Troops, that they may take their Post there,
+
+ and so soon as the aforesaid Waggons and Boats shall be ready, the Garrison of the Fort of 
+Gran,
+ that is to say, they who are capable to bear Arms, shall march out all at once.
+
+
+8. All the Christian Prisoners in the Castle shall be released.
+
+
+9. Lastly, the Garrison may freely march out, as hath been said, with their Wives and Children, Arms and Baggage, Horses and Camels, observ∣ing the Conditions above-mentioned, in the manner as they are expressed.
+
+
+In consequence of this Capitulation, the Prince of 
+Alepah
+ of 
+Syria,
+ Comman∣der in 
+Gran,
+ and 
+Basha
+ of 
+Nicopolis,
+ and 
+Samson Basha
+ Colonel of the 
+Janissa∣ries,
+ marched out of the place with Five hundred Men carrying Arms to go to 
+Offen;
+ whereupon the Duke of 
+Lorrain,
+ made Governor of 
+Gran
+ Co∣lonel 
+Calowith
+ Governor of the Castle of 
+Presbourg,
+ with a Garrison of 1000. 
+Imperial
+ Souldiers, and some Hundreds of 
+Hussars.
+
+
+
+
+
+
+
+
+THE BATTLE OF GRAN.
+
+
+AUgust
+ the 16. 1685. The Dukes of 
+Lorrain
+ and 
+Bavaria
+ raised the Siege that the 
+Turks
+ had laid down before 
+Gran,
+ and then engaged the 
+Barbarians,
+ to the number of Fifty or Sixty Thousand men, gave them a total Rout, and obliged them to aban∣don their Camp and Baggage; which Victory Three days after was fol∣lowed with the taking of 
+Newheu∣sel.
+
+
+It will not be improper, I think, in this place to insert the Letter which about that time, the 
+Serasquier Ibrahim Basha
+ wrote to his Highness the Duke of 
+Lorrain,
+ which he sent by the 
+Defte∣dar
+ of the 
+Timmariot
+'s 
+Achmet Desquelebi
+ by the Advice of the 
+Grand Signior,
+ the Contents whereof are word for word as follows.
+
+
+
+
+
+
+To our good Friend the Duke of 
+Lor∣rain,
+ Generalissimo of the Armies of the Emperour of the 
+Germans,
+ Greeting: 
+
+
+We let you know as a good Friend, that 
+Ach∣met Desquelebi Deftedar,
+ or Commis∣sary of 
+Newheusel,
+ hath reported that we your Friend, ought to send you Letters, to which you might give Credit, if we desire to see a Negotiation for Peace: It is for that Cause that the present are Writ∣ten and sent to you; and seeing we your Friends desire for the service of the Crea∣tures of God, that means of Tranquillity might be found out for the Subjects of both Parties, what we say to you and beseech, as well as what we shall do (in pursuance of our Word) hath been approved (for so is the Will of God) by the Majesty of our re∣splendent, Omnipotent, and formidable Emperor and King of the Superfice of the Earth; wherefore we send you this Man, to whom we have entrusted some things to be told you by word of Mouth, to the end you may be pleased to send us a trusty Man on your part, to endeavour a Peace, it is hoped we may come to a Conference; where∣upon Farewel. Given in the Camp at 
+Pest:
+ 
+
+
+Signed, 
+IBRAHIM.
+
+
+
+
+
+
+
+
+
+
+
+
+CHAP. XV.
+
+
+
+
+ Of the Ceremonies observed in the Coro∣nations of the Kings and Queens of 
+Hungary.
+
+
+
+
+AFter all necessary Preparations have been made for the Solem∣nity of the Coronation, the Ceremo∣nies of it are performed in this manner: In the first place, an Election is made of those who are to go and fetch the Crown, Scepter, Globe, representing the World, Sword, Coat of Arms, the Royal Habits, and Cross, in the City of 
+Presbourg,
+ where they are kept, with the Standards of the King∣dom. They discharge this Duty, and carry them to the Church. The Pa∣latin takes the Crown, and places it on the right side of the Altar, where the Arch-bishop of 
+Strigonium
+ says Mass; the Prelates sit about the Steps of the Altar, and some of them lead the King from the Throne to the Al∣tar, or from the Altar to his Seat; the
+
+ rest serve for some other Action of the Coronation. The Kings Throne dec∣ked with Cloth of Gold, is pretty near the Altar, and opposite to the middle of it, having over it a Cloth of State, of the same Stuff as that of the Seat. The King kneels first upon the Steps of the Altar, and Kisses the Cross, which the Arch-Bishop of 
+Stri∣gonium
+ presents to him; then takes the Oath contained in the 
+Roman
+ Pontifi∣cal, saying the Words after the Arch-bishop, and laying his Right hand on the Gospel, with Eyes lifted up to Heaven, as if he called God to wit∣ness. After the Oath, he is anointed by the Arch-bishop on the right Arm near the Elbow, and betwixt the two Shoulders: Then being cloathed with the Coat of Arms of King St. 
+Stephen,
+ he receives from the same Arch-Bishop, the naked 
+Cuttelas
+ of the same Saint, then gives it back to the Arch-bishop, who returns it into the Scabbard, and then girds it to his side. That being done, the King turned towards the Altar, as Defender of the Altars, Re∣ligion, and the Church, draws the Sword out of the Scabbard,
+
+ and brandishing it three ways in the Air gives so many blows; then the Arch-Bishop taking the Crown, gives it to the Palatin, who holding it up on high with both his Hands, and being upon the Steps of the Altar, asks aloud all that are present, if they would have him Crown'd for their King, and having three times put the same que∣stion unto them, upon their answer∣ing in the Affirmative, he is crowned, and receives from the Arch-Bishop the Scepter in the right hand, the Globe in the left, and all the marks of Roy∣al Dignity: After that he sits down on the Throne, as taking Possession of the Kingdom. Then all the 
+Hun∣garians
+ make loud Shouts and Accla∣mations, wishing the King a long and prosperous Reign, and at the same time, the Vocal and Instrumental Mu∣sick, the Trumpets, Drums, and Can∣non, mingle their noise with the confused Voices. Mass being said, and the Streets, through which the King is to go, being Boarded and co∣vered with White, Green, and Red Cloth, the King walks from the Church, where he was, to another,
+
+ wearing the Crown and Coat of Arms, some carrying before him the Royal Ornaments and Standards, and a great many others walking before and after him. At the same time pieces of Gold and Silver are scattered a∣mong the People, in all the Streets through which the King passes, who coming to the other Church, sits down on the Royal Throne erected there, and makes some Knights, striking them thrice on the Back with the naked Sword of St. 
+Stephen,
+ as they are knee∣ling before him. This being done, he comes out of the Church, and mount∣ing on Horse back, with the Crown and Coat of Arms, having the same per∣sons on Horse-back, who walked be∣fore or followed him on foot, as he came in the same Order he goes out of the Town, and alighting, with the Arch-bishop of 
+Strigonium
+ mounts up upon a Theater, where lifting up the Right hand he takes an Oath to the 
+Hungarians
+ to maintain the Priviledges of the Nobility, do Justice to all, ob∣serve the Laws of the Kingdom, and procure the good of the Publick.
+
+
+In the mean time all are uncovered, and when he hath taken the Oath, all
+
+ again shout, and amidst the noise of great Guns wish him all sort of Prospe∣rity. Afterwards he mounts a stately and well-managed Horse, and spurs him towards an adjoyning ground, where putting him upon the Carrier, and drawing the Sword of St. 
+Stephen,
+ he makes in form of a Cross, four stroaks in the Air, turning his Horse very nimbly, as threatning the four Corners of the World, and then there is nothing to be heard but Volleys of great Guns. After this the new King putting his Horse to a Walk, draws near the Lords who are Spectators, and with them goes to his Pallace, where he feasts them, sitting at Table with his Crown and Coat of Arms, and being served by some Ba∣rons and Grandees of the Kingdom, appointed for that Office; and when Dinner is over, they who have the charge of the Crown, and Royal Orna∣ments carry them back to their place.
+
+
+Now to shew you the Ceremonies of the Coronation of the Queens of 
+Hungary,
+ I'll give you here an Abridg∣ment of what past when the present Emperess 
+Anna Maria of Bavaria
+ Pa∣latiness
+
+ of 
+Newbourg
+ was Crowned Queen of 
+Hungary
+ in the Town of 
+Edimbourg
+ in the year 1681. The Emperor in his 
+Imperial
+ Habits, and the Domestick Crown of the Empire on his Head, went with his Attendants to the Church of the 
+Recollets,
+ where he was received and sprinkled with Holy Water by the Clergy of 
+Hunga∣ry.
+
+
+The Train of the Empress came after, before whom Count 
+John Dras∣kowich
+ walked with the Scepter, in place of Count 
+Draskowich,
+ the Ste∣ward of the Kingdom went before. The Counts 
+Stephen Zichy
+ and 
+Christo∣pher Erdedy,
+ both Keepers of the Crown, came next, with the Lords who carried the Royal Jewels upon Cushions of Crimson Velvet. Count 
+Illishazi
+ carried the Silver Cross, Count 
+Nicholas Erdedy
+ the Scepter, the Pala∣tin of 
+Hungary
+ the Crown, and Count 
+Nicholas Draskowich
+ the Globe of the Empire. The 
+Empress
+ came after these, led by the Duke of 
+Diederichstein
+ Master of the Palace. The Countess of 
+Rapach
+ chief Governante carried up her Train, which was embroidered
+
+ with Gold, Diamonds and Pearls, and after her came the Palatiness and other Ladies of Court. The Emperess was received at the Entry into the Church, by the Arch-Bishops of 
+Colocza
+ and 
+Neutra,
+ who led her to the Throne. In the mean time the Emperour ha∣ving taken his place on the side of the Gospel, went also to his Throne in the middle of the Quire over against the great Altar, behind the Throne sate the Palatiness with the chief Go∣vernante and other Ladies of Court, in Chaires prepared for them. On the left hand of the Empresses Throne were the Lords of 
+Hungary,
+ who carri∣ed the Jewels of the Kingdom, which were taken from them by the Arch-Bishop who put them upon the Altar. Before the Throne there was a Silver Stool, where the Domestick Crown, which was brought to the Church un∣der a Cover, was placed. That being done the Gospel was read, at the end whereof the Emperour went to the Altar with the Crown on his Head, the Scepter in his Right Hand, and the Globe in the Left, and presented the Empress to the
+
+ Arch-bishops to be crowned. When his Imperial Majesty had taken his place, the Empress advanced towards the Altar, assisted by the Arch-bishops, and kneeled upon the first Step, whilst the Arch-bishop of 
+Gran
+ kissed the end of the Cross, and presented her the Scepter and Globe of the Empire, which she took, the Scepter in her right hand, and the Globe in the left, the Prelate all the while saying some Prayers. That Ceremony being over, the Empress was led back to the Throne, where the Arch-bishop hav∣ing again said some Prayers, 
+Te Deum
+ was sung during a Volly of 480. Musket∣shot, and a discharge of the Artillery upon the Rampart. Then Count 
+John Draskowich
+ took the Scepter and Globe of the Empire out of the hands of the Empress, in place of the Steward of 
+Hungary,
+ and gave them back to those who had carried them before. That being done, the Empress was led to the Offering by the Arch-bishops, and put a rare piece of Gold of Gold-Smiths work into a Silver Bason that was up∣on the Altar, and then returned to her Throne. The Domestick Crown was
+
+ taken off of the Head of the Empress by the Bishop of 
+Neutra,
+ during the Offering and Communion, and given to be held by the Duke of 
+Diedericksteyn,
+ who after the Communion gave it back to the said Prelate, to be put up∣on the Head of the Empress again. The aforesaid Bishop led her to the Communion, which being given her by the hand of the Arch-bishop of 
+Gran,
+ the Crown was put upon her Majesties head. The Ceremonies thus performed, they returned in the same Order as they came, with the noise of Cannon, and the Ladies were ad∣mitted to kiss her Hand. When they were at Table, his Imperial Majesty ordered the Artillery once more to play, which concluded the Solemnity.
+
+
+
+
+
+
+
+
+CHAP. XVI.
+
+
+
+
+ Of the Description of 
+Transilvania,
+ an∣ciently united to 
+Hungary,
+ and the Princes who have Reigned in it, since the beginning of this Age, to the present time.
+
+
+
+
+TRansilvania,
+ a Principality of 
+Eu∣rope,
+ is part of the Ancient 
+Dacia,
+ to the West of 
+Hungary,
+ and to the East of 
+Moravia,
+ having the 
+Carpathian
+ Mountains to the North, and 
+Walachia
+ to the South. It is four days journey in length, and as much in breadth: That Name was given it by the 
+Romans,
+ because it is incompassed with Forrests as well as Mountains. The 
+Hungari∣ans
+ call it 
+Erdely,
+ and the 
+Germans Si∣ben bergen;
+ because of Seven Towns which the fugitive 
+Saxons
+ built there. Several other People settled there; but the 
+Saxons
+ I speak of cultivated the Country best. The 
+Romans
+ after∣wards became Masters of it under 
+Tra∣jan:
+
+
+ In process of time it was united to 
+Hungary,
+ from which it was dismem∣bred in the year 1541. At present the Princes of it are Elective & Tributary to the 
+Turk.
+ The Town of 
+Transilva∣nia
+ are 
+Hermenstadt, Clausenbourg, Wei∣senbourg,
+ or 
+Alba-Julia,
+ &c. It is a fertile Country, and hath several Mines and Medicinal Plants. Most of the Inhabitants are 
+Greeks, Schismaticks;
+ there are in it also a great many 
+Here∣ticks,
+ and some 
+Mahometans.
+
+
+The Princes of 
+Transilvania,
+ who have reigned since the beginning of this Age, are these that follow.
+
+
+1. 
+Sigismond Bathori,
+ Knight of the Golden Fleece, Son to 
+Christopher
+ Prince of 
+Transilvania,
+ who died in the year 1581. succeeded to his Fa∣ther in that Principality, and died at 
+Prague
+ the 17. of 
+March
+ 1603.
+
+
+2. 
+Stephen Bodtskey
+ introduced himself by force into that Principality, and his Usurpation was approved by the 
+Turk,
+ and at length by the Empe∣ror upon certain Conditions; he died of Poyson in the year 1606. and named for his Successor 
+Valen∣tine Homonay;
+ but the States of the
+
+ Country preferred 
+Sigismond Ragot∣ski
+ before him.
+
+
+3. 
+Sigismond Ragotski
+ was elected Prince of 
+Transilvania
+ in the year 1606. but having reigned a year, he resigned that Dignity to 
+Gabriel Ba∣thory
+ Nephew to Prince 
+Sigismond
+ in 1608. 
+Sultan Achmet
+ confirmed that choice, and the King of 
+Hun∣gary,
+ the Arch-Duke 
+Matthias
+ did not oppose it.
+
+
+4. 
+Gabriel Bathory
+ was elected Prince of 
+Transilvania
+ in the year 1608. and was assassinated at 
+Valencze
+ in the year 1613.
+
+
+5. 
+Bethlen Gabor
+ who had had a great Hand in that Death, being suppor∣ted by the 
+Turks,
+ seized the State and caused himself to be proclaim∣ed Prince of 
+Transilvania
+ in the year 1613. and by a Treaty made with the Emperor in 1622. he continued Prince of 
+Transilvania.
+ He died the 15. of 
+November
+ 1629.
+
+
+6. 
+George Ragotski
+ Prince of 
+Transilva∣nia
+ succeeded to him; he died of his Wounds at 
+Waradin
+ in the Month of 
+June
+ 1660.
+
+
+7. 
+Achatius Barchay
+ by the 
+Turks
+ intro∣duced into that Principality in place of 
+Ragotski,
+ resigned it some time after, and was beheaded about the end of the said year 1660,
+
+
+8. When 
+John Kemeni
+ was chosen Prince, who was killed in the year. 1661.
+
+
+9. 
+Michael Abafti
+ Count of 
+Sicules,
+ Prince of 
+Transilvania
+ who Reigns at present, was chosen in the year 1661. by the Assistance of the 
+Turks.
+
+
+
+
+
+
+
+
+CHAP. XVII.
+
+
+
+
+ Of the 
+Turkish
+ Emperors, who in Pro∣gress of time have invaded, subdued, and usurped the greatest part of 
+Hun∣gary.
+
+
+
+
+SOlyman,
+ called the Magnificent, Son of 
+Sultan Selim,
+ immediately af∣ter the death of his Father, whom he had poysoned, took 
+Belgrade,
+ and the Isle of 
+Rhodes,
+ was the first that inva∣ded the Kingdom of 
+Hungary,
+ and with his Armies passed the Rivers of 
+Save
+ and 
+Drave,
+ in the year 1526. He was Victorious in the Famous Battle of 
+Mohacz,
+ which I mentioned before, wherein 
+Loüis
+ II. King of 
+Hungary
+ un∣fortunately perished. At 
+Bagdet
+ he was crowned King of 
+Persia,
+ and sub∣jected 
+Assyria,
+ and 
+Mesopotamia:
+ He made six Expeditions into 
+Hungary,
+ and took the strong Towns of 
+Strigo∣nium
+ and 
+Alba-Regalis:
+ He also sub∣jected 
+Aladulia,
+ and the Kingdom of 
+Aden;
+ besides many other Towns up∣on
+
+ the 
+Red-Sea:
+ He made 
+Algiers
+ Tri∣
+utary, took 
+Pialli, Tripoli,
+ and the 
+Gerbes,
+ and after all these Victories whilst he besieged the strong Town of 
+Siget
+ in the lower 
+Hungary,
+ he died 
+n 
+Five-Churches,
+ as hath been menti∣oned before.
+
+
+This Emperour took to himself the 
+ollowing Titles, in the Credential Letters of the Ambassador, whom 
+e sent to the Emperour 
+Ferdi∣
+and.
+
+
+
+
+I the Lord of all Lords, the Ruler of the East and West, who am able to do, and 
+ot to do whatsoever I please. Lord of all
+ Grecia, Persia, 
+and
+ Arabia, 
+Ruler over 
+ll things that can be Subject to a King 
+nd Lord; the Great
+ Hero 
+of these Times, 
+nd mighty Giant of this vast universe; Lord of the White and Black Seas, and 
+he Holy City of
+ Mecha, 
+shining with the Brightness of God, of the City of
+ Medina, 
+nd the Holy and Chaste City of
+ Jerusa∣
+em; 
+King of the most Noble Kingdom of
+ Egypt; 
+Lord of the Country of
+ Ionia, 
+and Cities of
+ Athens 
+and
+ Sena, 
+of the Holy Temple of God
+ Zabilon 
+and
+ Bassio, Ret∣
+aam 
+and
+ Magadim, 
+the Seat and Throne 
+f the Great King
+ Nashin Rettham, 
+and
+
+ Lord of the Island of
+ Algiers, 
+and Prince of the Kingdom of
+ Tartary, Mesopota∣mia, 
+the
+ Medes, Georgians, 
+and of all
+ Greece, Morea 
+and
+ Anatolia, Asia, Armenia, Walachia, Moldavia, 
+and all
+ Hungary, 
+with a great many other Kingdoms and Dominions, whereof I am Emperour, that thrice great
+ Caesar, Sul∣tan Solyman, 
+the Son of the great Em∣peror
+ Sultan Selim, 
+who have Authority from God to Rule all People in a bit of Iron, and power to open the Gates and Doors of all Cities and strong Holds, all the ends of the Earth, none excepted are delivered into my Hands; I the Lord of the East from the Land of
+ Tscin 
+to the utmost bounds of
+ Africa, 
+whom God hath made a valiant Warriour in the edge of the Sword, amongst whose most potent King∣doms the impregnable Castle of
+ Cesarea, 
+is reckoned the least, and the Empire or Dominion of
+ Alexander 
+the Great the meanest of my Hereditary Dominions; with me is the Strength of the whole World, and Virtue of the Firmament.
+
+
+
+
+Zelim
+ II. Emperor of the 
+Turks,
+ Son of 
+Sultan Solyman
+ II. called the Mag∣nificent, succeeded to him in the year 1566. being about Fourty two years
+
+ of Age; this Emperor having subje∣cted 
+Nicosia
+ and 
+Famagusta,
+ seized the Island of 
+Cyprus,
+ a Kingdom belong∣ing to the 
+Venetians
+ in the year 1521. but after that loss the 
+Christians
+ gained the Famous Battle of 
+Lepanto,
+ the 7th. of 
+October
+ the same year. 
+Haly Basha
+ was killed there, and it is not doubted, but that it was the greatest Blow that the 
+Ottoman
+ Empire had for a long time received; and, indeed, if the 
+Christi∣ans
+ had known how to make the best Advantage of that Victory, they might without doubt have taken 
+Con∣stantinople,
+ where all were in a gene∣ral Consternation: And to see how great a Victory that of the 
+Christian
+ Princes was, we may only read the Triumphal Inscription exposed by the 
+Romans
+ in the Capitol, in memory of it, and of 
+Marco Antonio Colonna
+ Duke of 
+Paliano,
+ Knight of the Golden Fleece, Great Constable of 
+Naples,
+ whom Pope 
+Pius
+ V. made General of the Ecclesiastical Forces, who solemn∣ly received the Standard in St. 
+Peter
+'s Church at 
+Rome,
+ and who in that memorable Battle commanded as Lieutenant General, being upon his
+
+ return received in Triumph in the City of 
+Rome.
+
+
+Marcus Antonius
+ Ascanij Filius, Fa∣bricij nepos, Columnae Marsorum, & Her∣nicorum Dux, initâ inter Pium V. Pont. Max. Phillippum Hispaniarum Regem Ca∣tholicum, & Rempublicam Venetam So∣cietate, Classis Pontificiae Praefectus,
+
+
+De Turcis Non. Octobris ad Echinadas,
+
+
+
+
+Navali praelio victis,
+
+
+DC.
+ Navigiis in potestatem redactis,
+
+
+Demersis & fugatis.
+
+
+Christianos 
+XV.
+ mill. in libertatem assertis,
+
+
+Hostium 
+XXX.
+ mill. caesis,
+
+
+X.
+ mill. captis,
+
+
+Re optimè gestâ
+
+
+Ut Victoriâ omnium maxima in mari partâ.
+
+
+Ex S. C. & Pij V. S. P. authoritate
+
+
+More Majorum
+
+
+Prid. Non. Decembris anno à Christo nato 
+M.D.LXXI.
+
+
+Triumphavit,
+
+
+Ad ejus rei memoriam sempiternam,
+
+
+Diem hunc antiquis Triumphalibus fastis adscribendum,
+
+
+Et monumentum hoc in Capitolio ponendum,
+
+
+Censuit S. P. Q. R. ut superiorum aemu∣lationi,
+
+
+
+
+Praesentis aevi gloriae, posterorum incita∣mento,
+
+
+Testaretur, in promerendis honoribus, ac tribuendis,
+
+
+Neque virtutem, neque benignitatem pris∣cam
+
+
+Adhuc deesse Romanis,
+
+
+Coss. Rom. decreverunt, curaverunt.
+
+
+
+
+Selim
+ the 
+Turkish
+ Emperor, died of an Apoplexy the Thirteenth of 
+De∣cember
+ 1574.
+
+
+Amurath
+ III. Son of 
+Selim
+ II. began to Reign about the end of the year 1574. He presently put to death five of his Brothers, according to the Cru∣el custom of the 
+Ottomans,
+ and refus∣ed to prolong with the Emperor 
+Maxi∣milian
+ II. the Truce which he had concluded with 
+Selim
+ II. He took 
+Tauris
+ which he Plundered, and de∣feated the 
+Marovites
+ and 
+Drus
+ of Mount 
+Libanus:
+ After that he made a powerful Invasion into the Country of the 
+Croats,
+ who were worsted at first, but they afterwards killed Ten thousand 
+Turks,
+ and obliged the rest to let them live in quiet. 
+Amurath
+ di∣ed at 
+Constantinople,
+ the 18th. of 
+Ja∣nuary,
+
+
+ 1595. at the Age of Forty eight.
+
+
+Mahomet
+ III. Son of 
+Amurath
+ III. began his Reign in the year 1595. by the death of One and Twenty of his Brothers, and Ten of his Fathers Wives whom he left with Child, and whom he caused to be thrown into the Sea. He never was at the Head of his Ar∣my but once. The Christians under the Conduct of Count 
+Mansfield
+ took 
+Strigonium, Alba-Regalis
+ under the Command of the Duke of 
+Mercaur
+ in the year 1601. and the Lower Town of 
+Buda,
+ under the Arch-Duke of 
+Austria.
+ He lost the Forts of 
+Vice grad, Balbocz, Petrinia, Haduan, Palota
+ and 
+Vesprin;
+ and on the other side the Knights of 
+Malta
+ seized 
+Lepanto.
+ The Armies of 
+Mahomet
+ were beaten by the Vaivod of 
+Walachia,
+ and by the Prince of 
+Transilvania,
+ who defeated 
+Sinan Basha,
+ and so 
+Moldavia, Wala∣ohia
+ and 
+Transilvania
+ shook off the 
+Ottoman
+ yoke. The 
+Turks
+ on the o∣ther hand had some advantages, and re-took two or three Towns, as 
+Pest Canisa
+ and 
+Alba-Regalis,
+ but that was not comparable to their losses. 
+Maho∣met
+
+
+ demanded Peace of the Christi∣ans, who refused it. He was an In∣famous Man, so plunged into Debau∣chery, that neither domestick Disor∣ders, nor Forreign Wars could ever make him forsake it; that made the 
+Janisaries
+ mutiny; to pacifie whom 
+Mahomet
+ was forced to deliver up his greatest Friends to their Rage, and pre∣tended to banish his Mother, who was thought to be the cause of all the Ca∣lamities of the State. He caused his eldest Son to be Strangled, and the 
+Sultana
+ the Mother of him to be drow∣ned, having suspected her to be Guil∣ty of some Treason against his Person. He died of the Plague at 
+Constantino∣ple
+ in the year 1603. the Thirty ninth year of his Age, and Eighth year of his Reign.
+
+
+Achmet
+ I. of that name, Emperor, of the 
+Turks,
+ Succeeded to his Father, 
+Mahomot
+ III. at the Age of Fifteen years, in the year 1603. His Mode∣ration was admired upon his coming to the Throne, in that having but one only Brother, he did not put him to death according to the Custom of the 
+Turkish
+ Princes; but shut him up in
+
+ a Cloyster of 
+Mahometans.
+ The 
+So∣phy
+ of 
+Persia
+ taking the advantage of his Minority, re-took 
+Tauris
+ and 
+Er∣zerum. Achmet
+ sent thither the 
+Basha Ci∣gale,
+ who not having acquitted himself well of his Commission, was upon his re∣turn Strangled by 50. 
+Capigis
+ who met him at 
+Bursa. Achmet
+ regained 
+Transil∣vania, Walachia
+ and 
+Moldavia
+ by the means of 
+Botskay,
+ who revolted from the Emperor, and sided with 
+Bethlem Gabor
+ against 
+Sigismond Bathory
+ Prince of 
+Transilvania.
+ Afterwards finding himself Attacked on all hands, he put Four Armies into the Field; one against the 
+Persians,
+ another against the 
+Poloni∣ans,
+ one to oppose the 
+Cossacks,
+ and the last to guard the Tribute of 
+Egypt;
+ but all of them having been unfortu∣nate, as he was preparing for greater designs, he died the 15th. of 
+November
+ 1617. in the Thirtieth year of his Age and Fourteenth of his Reign.
+
+
+Mustapha,
+ Emperor of the 
+Turks
+ was Son to 
+Mahomet
+ III. and Brother to 
+Achmet
+ I. he succeeded to him though he had a Son 
+Osman
+ Twelve years old in the year 1617. 
+Mustapha
+ being Twenty five years of Age was placed
+
+ upon the Throne by the 
+Janisaries,
+ who two Months after degraded him, being displeased at his reserved way of living. 
+Osman
+ his Nephew Succeeded to him, and 
+Mustapha,
+ as some say, led a recluse and solitary Life: But the truth is he was in Prison; howe∣ver being brought out by the 
+Janisa∣ries,
+ he was again set upon the Throne the 19. of 
+May
+ 1622. Next day after he caused his Nephew 
+Osman
+ to be put to death, and having Reigned six∣teen Months, the People being dis∣satisfied with his Conduct, he was again confined to perpetual Imprison∣ment in the Month of 
+September
+ 1623. and 
+Amurath
+ Brother to 
+Osman
+ was put in his place.
+
+
+Osman,
+ Emperor of the 
+Turks,
+ was the Son of 
+Achmet
+ I. and succeeded to him at Twelve years of Age about the end of 
+January
+ 1621. He led an Army of almost Four hundred thou∣sand men against the 
+Poles;
+ but that Expedition was not prosperous; he lost above an Hundred thousand men, a∣tempting to force the Camp of Three∣score thousand 
+Poles
+ and 
+Cosa
+ks,
+
+
+ Commanded by Prince 
+Ladislaus. Os∣man
+ was obliged to make a Peace on disadvantageous Conditions. He thought that the 
+Janisaries
+ had much contributed to that unhappy Success, which made him have a mind to ca∣shier them, and he was accused of having a design to remove the seat of the Empire unto 
+Damascus
+ in 
+Syria.
+ That insolent Militia revolted and the Unfortunate Prince was Strang∣led the 20. of 
+May,
+ 1622. dy Order of 
+Mustapha
+ his Uncle, whom the same 
+Janisaries
+ had raised to the Throne, as I said before. 
+Osman's
+ Reign lasted but Four years, and about four Months. Sultan 
+Osman
+ took the following Ti∣tles, in a Letter which he wrote at the desire of the most Christian King to Basha 
+Ferrovi
+ and to 
+Mula Cadi
+ of 
+Jerusalem,
+ to restore the 
+Cordeliers
+ to the possession of 
+Bethlehem
+ and of the Holy Sepulchre in 
+Jerusalem,
+ which places had been possessed by the 
+Ar∣menians
+ in the year 1625.
+
+
+
+
+The Emperor
+ Osman, 
+Son of the Em∣peror
+ Achmet, 
+always Victorious; I who am by the infinite Graces of the Almighty Creator, and by the abundant Miracles of
+
+ the chief of the Prophets, Emperour of Vi∣ctorious Emperours, Distributor of Crowns to the greatest Princes of the Earth, Kee∣per of the two sacred and most august Ci∣ties, the fairest amongst all those of the World
+ Mecha 
+and
+ Medina, 
+Protector of the Holy
+ Jerusalem, 
+Lord of the great∣est part of
+ Europe, Asia, 
+and
+ Africa, 
+conquered with our Victorious Sword, to wit, of the Countries and Kingdoms of
+ Greece, Themeswar, Bosne, Seget, Natolia, Caramania, Egypt, 
+and of all the Countries of the
+ Parthians, Curdes 
+and
+ Georgians, 
+of the
+ Iron-Gate, 
+of the Countries of the Prince of the little
+ Tar∣tars, Cyprus, Diarbeck, Aleppo, Er∣zerum, Damascus, Babylon, 
+the
+ Bal∣zaradick, Arabians, Abechy, Thunis, Tripoli, Barbary, 
+and of so many other Countries, Isles, Streights, Passages, Peo∣ple, Families, Generations and of so many Thousand millions of valiant Soldiers, who rest under the Obedience and Justice of me, who am Emperor
+ Osman, 
+Son of the Em∣peror
+ Achmet, 
+of the Emperor
+ Maho∣met, 
+of the Emperor
+ Amurath, 
+of the Emperor
+ Selim, 
+of the Emperor
+ Solyman, 
+by the Grace of God, the Retreat of the greatest Princes of the
+
+ World, and Refuge of the most honorable Emperors.
+
+
+
+
+Amurath
+ IV. was the Son of 
+Achmet,
+ and Brother of 
+Osman;
+ after the Death of 
+Achmet,
+ the 
+Janisaries
+ as we have said, put 
+Mustapha
+ his Brother upon the Throne, and afterwards having sent him back again to Prison, they crowned 
+Osman.
+ But in the sequel the same Insolent Militia re-called 
+Mustapha,
+ who caused 
+Osman
+ to be strangled, and the Government of that Prince, being disagreeable unto them, they remanded him to Prison. 
+Amurath
+ at the Age of fifteen years was saluted Emperor in the Month of 
+Sep∣tember
+ 1623. and in the year 1626. he besieged 
+Bagdet;
+ but the 
+Persians
+ de∣fended themselves so vigorously, that in the year 1630. the 
+Turks
+ were for∣ced to withdraw. 
+Amurath
+ had the Trouble of losing 
+Hali Basha,
+ and di∣vers places, which the 
+Persians
+ and 
+Ara∣bians
+ took from him. Besides that, the 
+Poles
+ and 
+Cossacks,
+ gave him the allarm so hot, that the 
+Viziers
+ were resolved to dethrone him, if the Peace, which he made with these People, had not al∣tered their minds. 
+Amurath
+ concerned
+
+ himself indirectly in the Affairs of the Protestants of 
+Germany,
+ at the Sollicita∣tion and under the Conduct of 
+Ragot∣ski;
+ but it happened to the Confusion of both. He had at length the Plea∣sure to be revenged on the 
+Persians.
+ In the year 1638. He set out into the Field, as it is thought, one of the most numerous Armies that ever the 
+Otto∣mans
+ had on foot, and making use of the favourable juncture of the War betwixt the 
+Persians
+ and 
+Mogols,
+ he be∣sieged 
+Bagdet,
+ and took it in fourty days time. 
+Amurath
+ enjoyed not that Victory long, for his Debauches brought him to his Grave the 8th of 
+Fe∣bruary
+ 1640. in the Two and thirtieth year of his Age.
+
+
+This 
+Amurath
+ IV. in a Letter which he wrote to the King of 
+Hungary
+ in the year 1640. took the following Ti∣tles.
+
+
+
+
+By the Grace of the Almighty God in Heaven, we
+ Soly-Mahomet 
+only God upon Earth, full of invincible Graces, and Omnipotent Emperour of
+ Babylon in Ju∣dea, 
+from the Sun-rising to its Setting, King of all the Kings of the Earth, King of all
+ Arabia 
+and
+ Media, 
+Duke sprung
+
+ from the Noble Stem of
+ Greece 
+and
+ Ar∣menia, 
+born Triumphant King of
+ Jeru∣salem, 
+Lord and Protector of the Holy Se∣pulcher of Christ Crucified.
+
+
+
+
+Ibrahim,
+ Emperor of the 
+Turks,
+ was the Son of 
+Achmet,
+ and succeeded to his Brother 
+Amurath
+ IV. in the year 1640. When this last died the Officers of the Port had a great deal ado, to make him come out of the place where he had been in a manner Prisoner for three or four years, suspecting it to be only a pretext to render him Criminal. The 
+Sultana
+ his Mother persuaded him of the truth, having shown him the dead Body of his Brother, he came out, and having been crown'd, he gave himself wholly over to Voluptu∣ousness, which was fatal unto him. The loss of one of his 
+Sultana
+'s, whom the Knights of 
+Malta
+ took in the year 1644. betwixt 
+Rhodes
+ and 
+Alexandria,
+ made him undertake to be revenged on 
+Malta.
+ But he turned his Arms a∣gainst 
+Candie,
+ and took the 
+Canea
+ in 1645. In the mean time he grew cru∣el, his Pleasures made him abandon all care of the Affairs of the Empire, and he became insupportable to all Men.
+
+ The Militia and Officers conspired a∣gainst him, and sent for the 
+Mufti
+ and other considerable Persons of the Law, on design at first to put to Death the 
+Grand Visier:
+ Then they resolved to depose 
+Ibrahim,
+ who expressing a great Contempt, and much Haughtiness, did so incense those mutinous Spirits, that they strangled him the 18th. of 
+August
+ 1649. and placed 
+Mahomet
+ his Son up∣on the Throne.
+
+
+Mahomet
+ IV. was Born the second of 
+January
+ 1642. and was raised to the Throne ten days after the Death of 
+Sultan Ibrahim
+ his Father, who was strangled by the 
+Janisaries.
+ In the years 1663. and 1664. He took in 
+Hun∣gary
+ the Towns of 
+Newheusel, Fort-Se∣rin
+ or 
+Serin-wart,
+ afterwards demolish∣ed, and some other places. The loss he sustained at the Battle of 
+Raab
+ or 
+St. Godard
+ made him resolve to make Peace, which he did the 17th. of 
+Sep∣tember
+ 1664. He hath been more un∣fortunate in the present War, where∣in he hath lost 
+Gran, Newheusel
+ and a great many other strong Places and Battles mentioned before. He took the City of 
+Candie
+ in the year 1669.
+
+ after a very long and tough Siege. The 
+Venetians
+ have taken many impor∣tant Places from him in this War, both in the 
+Morea
+ and elsewhere. His great∣est delight is in Hunting, wherein he spends most part of the year. For that reason it is that he resides commonly at 
+Adrianople,
+ that he may be near the places where there is most Game. He goes often to 
+Larissa,
+ and spends some∣times Eight or Ten Days together un∣der magnificent Tents, pitched half a League from that Town upon the Banks of the 
+Peneus.
+ The 
+Turks
+ in his time have made many Conquests from the 
+Poles,
+ from whom they have taken 
+Caminiec,
+ and some other places. 
+Sobieski
+ great Mareshal of the Crown, and at present King of 
+Poland,
+ was at that time General of the 
+Polonian
+ Ar∣my, who defeated the 
+Turks
+ at the Fa∣mous Battle of 
+Gotzchin
+ in the year 1673. He eluded their Projects the two years following, and at length re∣duced them to desire a Peace. Since that, the 
+Turks
+ undertook a War a∣gainst the 
+Moscovites,
+ and got some ad∣vantages over them in the year 1678. and the 
+Poles
+ having confederated with
+
+ the Emperor and Republick of 
+Venice
+ in the year 1683. continue to Harass and make head against them in 
+Podolia, Russia,
+ and the neighbouring Territo∣ries. These are the Titles that 
+Ma∣homet
+ IV. takes to himself.
+
+
+Mahomet Sultan, 
+by the Infinite Gra∣ces of the Almighty Creator, and by the abundant Miracles of the chief of the Pro∣phets, Glorious, Great, Invincible, and always Victorious, Emperor of the Em∣perors of
+ Constantinople 
+and
+ Trebizon∣de, 
+King of Kings, Distributer of Crowns to the greatest Princes of the Earth, Kee∣per of the two sacred and most august Ci∣ties,
+ Mecha 
+and
+ Medina, 
+Protector of the Holy
+ Jerusalem, 
+Master of the great Sea, Lord of the greatest part of
+ Europe, Asia 
+and
+ Africa, 
+conquered with our Vi∣ctorious Sword, Lord of the East and West, of the great
+ Anatolia, Bithinia, 
+of the great City of
+ Nice, Nichomedia, 
+the great
+ Chalcedonia, Phrygia, Lycia, Pamphylia, Tarsis, Paphlagonia, Ca∣ramania, Capadocia, Cesarea, 
+of the great and little
+ Armenia, Iberia, Geor∣gia, Mingrelia, 
+the
+ Iron-Gate, Tur∣comania, 
+of the
+ Curdes, Parthians, Medes, Persians, 
+of
+ Tauris, Assyria,
+
+ Mesopotamia, Diarbeck, 
+of great
+ Ba∣bylon, Balzara, Chaldaea, 
+of the
+ Holy Land, Syria, Judaea, Canaan, Galilee, Jerusalem, Samaria, Phenicia, Pale∣stine, Aleppo, Erzerum, Damascus, 
+of the great
+ Antioch, 
+of the
+ Tyberiade 
+and
+ Caspian Seas, 
+of the three
+ Arabias, 
+the Stony Desart, and Happy, the
+ Indian, 
+and Red Seas, of
+ Aleppo, Ethiopia, E∣gypt, Alexandria 
+and
+ Grand Caire, 
+of
+ Barbary, Thunis, Tripoli, Fez, Mo∣rocco, Cyprus, 
+of
+ Rhodes, 
+all
+ Greece, Peloponesus, Thrace, 
+Great
+ Romani∣a, Macedonia, Thessaly, Corinthia, Chersonesus, Albania, Bosnia, Ser∣via, Bulgaria, Slavonia, Moldavia, 
+of
+ Themeswar, Dacia, Hungary, Wallachia, Scythia, 
+the greater and lesser
+ Tartary; 
+and of an infinite num∣ber of other Countries, Kingdoms, and Empires, Isles, Streights, People, Fami∣lies, Generations, and of so many Thou∣sand Millions of Valiant Soldiers, who rest under the obedience and Justice of me, who am Emperor
+ Mahomet, 
+son of the Emperor
+ Ibrahim, 
+by the Grace of God, the Retreat of the greatest Princes of the World, and the Refuge of honourable Em∣perors.
+
+
+
+
+This Prince 
+Mahomet
+ IV. has Chil∣dren: the 
+Sultana
+ Queen, who is his chief Wife, brought him his first Son, she is called 
+Eumenia,
+ a Greek by Nati∣on; he hath a Brother called 
+Solyman
+ and his eldest Brother named 
+Osman,
+ is a Dominican Monk, called 
+Father Dominick of St.
+ Thomas, who was ta∣ken with his Mother by the Galleys of 
+Malta
+ sayling to 
+Alexandria
+ upon a Pilgrimage to 
+Mecha.
+ This Emperor is the greatest Enemy of Christendom: May Heavens grant, that the projects of that Infidel Prince against the Chri∣stian Religion, may be disapointed, and that the proud Empire of the Crescent may one day be subject to the glorious Standard of the Cross, un∣der the Auspices of that great 
+Caesar,
+ who under the lovely name of 
+Leopold
+ hath merited to be the first, and XIV. Emperor of the most 
+August
+ House of 
+Austria,
+ who by his great Prudence and exemplary Piety, by his Constant and indefatigable Pains, and by the Grace of the Great God of Armies, hath happily procured to Christendom, all these great Victories to the shame and confusion of that fierce and barbarous common
+
+ Enemy, and under the Conduct of the Valiant 
+Charles
+ IV. Duke of 
+Lor∣rain,
+ that brave 
+Hero,
+ to whom Chri∣stendom is obliged, that it had time to Relieve 
+Vienna,
+ when with unparal∣led Speed he marched thither, and in view of the Enemy supplied the place with Provisions, Ammunition and 12000 of the best men in the Army, who defeated the 
+Turks
+ and Rebels before 
+Presbourg;
+ that having taken that Town, had a design, to make a Bridge there over the 
+Danube,
+ thereby to fa∣cilitate the passage of the 
+Turkish
+ Con∣voys to their Camp before 
+Vienna,
+ who flew like lightening to save the King of 
+Poland
+ from the extream Dan∣ger wherein he was, being engaged with the Body of the 
+Ottoman
+ Army near 
+Barkan,
+ and who after gained the Battle of 
+Barkan
+ that we mention∣ed before. This is that Prince who considering that his Glorious Prede∣cessors have Reigned in 
+Jerusalem,
+ when they had driven the 
+Mahometans
+ out of it, hath on that occasion given so many Proofs of his Courage, that it may be said he there revived the 
+Lorrain
+ Princes, who heretofore Con∣quered
+
+ the East. He hath spared nei∣ther Body nor Heart in following their Footsteps, that he might Crown him∣self with Glory in the Bloody Battle of 
+Gran,
+ which he gained. He is the very same who hath so often repulsed the Fury of the 
+Turks,
+ when they were most formidable: It is he, in short, who re-took from the Infidels the strong place of 
+Newheusel,
+ which serv∣ed them for a Key to open them a passage farther into the Countries of the Christians, and who after the ex∣ample of the Glorious 
+Godfrey,
+ who filled 
+Europe
+ with admiration in the year 1096. hath so signalized himself that if he Reign not in 
+Jerusalem,
+ as his Ancestors have done, he Reigns, at least, in the hearts of those, who have been the Spectators of his Fortitude and Prowess.
+
+
+
+
+Sic fidei ductus Zelo Bullonius Heros,
+
+
+Ille Ambivaritae 
+Gothofredus
+ Marchio Terrae,
+
+
+Moenia dum Solymae, templumque Arcem∣que Sionis,
+
+
+Non sibi, sed Coelo vincit, Diadema su∣perbum
+
+
+
+
+Sprevit, & oblatae gemmantia dona Co∣ronae.
+
+
+
+
+
+
+Huc 
+Leopoldorum
+ virtus animosa te∣tendit
+
+
+Austriadum, quorum hic celsa 
+Ptolemai∣dos
+ arce,
+
+
+Vicinisque procul 
+Salidinum
+ exegit ab oris,
+
+
+Barbarico referens saga candida mersa cruore,
+
+
+Quo gentilitii rubuere insignia scuti:
+
+
+Alter Damiatae muros, Nilotica Claustra
+
+
+Diruit, & Phariis tentoria fixit arenis:
+
+
+Ambo, triumphati spoliis Orientis onusti.
+
+
+
+
+
+
+Horum magnanimus modò per vestigia tendit
+
+
+Austriades,
+ Caesar 
+Leopoldus
+ Gloria Saecli:
+
+
+Cui victrix Pietas famulantia dirigit Arma,
+
+
+Et Comites secum deducit in agmina Divos.
+
+
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+A TABLE OF MATTERS.
+
+
+
+
+A
+
+
+
+AChmet. 
+Pag.
+ 153
+
+
+Agria. 
+Pag.
+ 17
+
+
+Alba Regalis. 
+Pag.
+ 44
+
+
+Altenbourg. 
+Pag.
+ 60
+
+
+Altsol. 
+Pag.
+ 32
+
+
+Amurath III. 
+Pag.
+ 151
+
+
+Amurath IV. 
+Pag.
+ 158
+
+
+Arms of
+ Hungary. 
+Pag.
+ 92
+
+
+
+
+
+
+
+
+B.
+
+
+
+BArkan. 
+Pag.
+ 53
+
+
+Battles of the
+ Romans. 
+Pag.
+ 97
+
+
+Of
+ Mohacz. 
+Pag.
+ 98
+
+
+Of
+ St. Godard. 
+Pag.
+ 101
+
+
+Of
+ Vienna. 
+Pag.
+ 105
+
+
+Of
+ Presbourg. 
+Pag.
+ 123
+
+
+Of
+ Barkan. 
+Pag.
+ 126
+
+
+Of
+ Gran. 
+Pag.
+ 131
+
+
+Of
+ Lepanto. 
+Pag.
+ 149
+
+
+Of
+ Candie. 
+Pag.
+ 161
+
+
+Bedrac. 
+Pag.
+ 76
+
+
+Borsneth. 
+Pag.
+ 80
+
+
+Buda. 
+Pag.
+ 38
+
+
+
+
+
+
+
+
+C.
+
+
+
+CAnisa. 
+Pag.
+ 45
+
+
+Cassovia. 
+Pag.
+ 16
+
+
+Charles 
+Duke of
+ Lor∣rain, 
+his Elegy.
+
+
+Chronogram on the day of the Relief of
+ Vi∣enna. 
+Pag.
+ 112
+
+
+Ceremonies observed at the Coronation of the Kings and Queen of
+ Hungary. 
+Pag.
+ 133
+
+
+Five Churches. 
+Pag.
+ 64
+
+
+Cirmium. 
+Pag.
+ 71
+
+
+Clergy of
+ Hungary. 
+Pag.
+ 84
+
+
+Colzoca. 
+Pag.
+ 21
+
+
+Comorra. 
+Pag.
+ 58
+
+
+Count 
+of
+ Bouquoy, 
+his Elegy. Pag.
+ 31
+
+
+Counts 
+of
+ Serini, 
+their Elegy, Death of
+ Ni∣cholas, I. 
+Pag.
+ 62, 63
+
+
+Counts 
+of
+ Hungary. 
+Pag.
+ 81
+
+
+
+
+Cremnitz. 
+Pag.
+ 34
+
+
+Marco Antonio Colon∣na. 
+Pag.
+ 150
+
+
+
+
+
+
+
+
+D.
+
+
+
+DAnube. 
+Pag.
+ 73
+
+
+Debrechim. 
+Pag.
+ 21
+
+
+Dotis. 
+Pag.
+ 48
+
+
+Drave. 
+Pag.
+ 78
+
+
+
+
+
+
+
+
+E.
+
+
+
+EMblem upon the Re∣lief of
+ Vienna. 
+Pag.
+ 121
+
+
+Emperors of the
+ Turks. 
+Pag.
+ 146
+
+
+Esperies. 
+Pag.
+ 71
+
+
+Epitaph of the Emperor
+ Probus. 
+Pag.
+ 72
+
+
+Of
+ Ovid. 
+Pag.
+ 50
+
+
+Of
+ Louis II. 
+King of
+ Hungary. 
+Pag.
+ 100
+
+
+Of
+ Count Serini. 
+Pag.
+ 67
+
+
+Esseck 
+its
+ Bridge. 
+Pag.
+ 61
+
+
+Estates of
+ Hungary. 
+Pag.
+ 84
+
+
+
+
+
+
+
+
+F.
+
+
+
+FIleck. 
+Pag.
+ 16
+
+
+Freistadt. 
+Pag.
+ 28
+
+
+Funs-kirchen. 
+Pag.
+ 86
+
+
+
+
+
+
+
+
+G.
+
+
+
+GIula. 
+Pag.
+ 22
+
+
+Gran. 
+Pag.
+ 51. 79
+
+
+Gutta. 
+Pag.
+ 2
+
+
+
+
+
+
+
+
+H.
+
+
+
+HAdwan. 
+Pag.
+ 3
+
+
+Hern-grundt. 
+Pag.
+ 3
+
+
+Hungary. 
+Pag.
+ 1. 3
+
+
+
+
+
+
+
+
+J.
+
+
+
+JAvarin. 
+Pag.
+ 5
+
+
+Ibrahim. 
+Pag.
+ 160
+
+
+John III. 
+King of
+ Po∣land. 
+Pag.
+ 105
+
+
+His Elegy. Pag.
+ 114
+
+
+His Letter upon the Deli∣verance of
+ Vienna. 
+Pag.
+ 10
+
+
+
+
+
+
+
+
+K.
+
+
+
+KIngs, look their pr
+∣per Names. Pag. 
+8
+
+
+
+
+
+
+
+
+L.
+
+
+
+LEopold a Town 
+Pag.
+ 28
+
+
+Leopold, 
+the Emperor and his Elegy. Pag.
+ 167
+
+
+Lepanto. 
+Pag.
+ 149
+
+
+Louis, II. 
+King of
+ Hun∣gary 
+his Death. Pag.
+ 98
+
+
+
+
+
+
+
+
+M.
+
+
+
+MAhomet III. 
+Pag.
+ 152
+
+
+
+
+Mahomet IV. 
+Pag.
+ 161
+
+
+Maros. 
+Pag.
+ 35
+
+
+Matthias Corvin 
+King of
+ Hungary. 
+Pag.
+ 93
+
+
+Medal of the Deliver∣ance of
+ Vienna. 
+Pag.
+ 113
+
+
+Metroviza. 
+Pag.
+ 71
+
+
+Mongatz. 
+Pag.
+ 24
+
+
+Mustapha Sultan. 
+Pag.
+ 154
+
+
+
+
+
+
+
+
+N.
+
+
+
+NEwheusel. 
+Pag.
+ 15
+
+
+Newsol. 
+Pag.
+ 29
+
+
+Nitria. 
+Pag.
+ 14
+
+
+Nobility of
+ Hungary 
+vid.
+ Palatine.
+
+
+Nobility
+ Palatine 
+of
+ Hun∣gary. 
+Pag.
+ 62
+
+
+Novigrad. 
+Pag.
+ 15
+
+
+
+
+
+
+
+
+O.
+
+
+
+ONoth. 
+Pag.
+ 21
+
+
+Osman. 
+Pag.
+ 155
+
+
+
+
+
+
+
+
+P.
+
+
+
+PApa. 
+Pag.
+ 49
+
+
+Palatines 
+of
+ Hunga∣ry. 
+Pag.
+ 62, 89
+
+
+Pest, 
+Pag.
+ 35.
+
+
+Petronel. 
+Pag.
+ 60
+
+
+Presbourg. 
+Pag.
+ 12
+
+
+Princes that assisted at the Relief of
+ Vien∣na. 
+Pag.
+ 118
+
+
+
+
+
+
+
+
+Q.
+
+
+
+QƲalities and Titles Ʋsurped by the
+ Turkish 
+Emperours. Pag.
+ 146
+
+
+
+
+
+
+
+
+R.
+
+
+
+RAab. 
+Pag.
+ 55. 77
+
+
+Rivers of
+ Hunga∣ry. 
+Pag.
+ 73
+
+
+
+
+
+
+
+
+S.
+
+
+
+SAbaria. 
+Pag.
+ 79
+
+
+Satwar. 
+Pag.
+ 49
+
+
+Satmar, 
+see
+ Zarmar.
+
+
+Save. 
+Pag.
+ 78
+
+
+Sarnowitz. 
+Pag.
+ 29
+
+
+Servizza. 
+Pag.
+ 80
+
+
+Schemnitz. 
+Pag.
+ 33
+
+
+Schinta, 
+Pag.
+ 27
+
+
+Schut, 
+an Isle. Pag.
+ 54
+
+
+Siget. 
+Pag.
+ 61
+
+
+Sirmium, 
+see
+ Cirmium.
+
+
+Solyman. 
+Pag.
+ 146
+
+
+St.
+ Martins-bourg. 
+Pag.
+ 48
+
+
+Standard of the
+ Turks. 
+Pag.
+ 117
+
+
+
+
+
+
+
+
+T.
+
+
+
+TAta. 
+Pag.
+
+
+Temeswar 
+Pag.
+ 24
+
+
+Teckely, 
+Count, his De∣feat near
+ Presbourg.
+
+
+
+
+His Imprisonment at
+ Wa∣radin. 
+Pag.
+ 26
+
+
+Tibiscus. 
+Pag.
+ 76
+
+
+Tirnau. 
+Pag.
+ 21
+
+
+Transilvania 
+and its Princes.
+
+
+Tokay. 
+Pag.
+ 20
+
+
+Topolchan. 
+Pag.
+ 28
+
+
+Tortoise. 
+Pag.
+ 59
+
+
+Trenschin. 
+Pag.
+ 29
+
+
+Treaty of Alliance be∣twixt the Emperour and King of
+ Poland. 
+Pag.
+ 118
+
+
+
+
+
+
+
+
+V.
+
+
+
+VAccia. 
+Pag.
+ 15
+
+
+Vesprim. 
+Pag.
+ 48
+
+
+Vice-grad. 
+Pag.
+ 46
+
+
+Vienna 
+Succoured and Relieved. Pag.
+ 105
+
+
+Vizovichitz. 
+Pag.
+ 34
+
+
+Ungwar. 
+Pag.
+ 20
+
+
+
+
+
+
+
+
+W.
+
+
+
+WAlpo. 
+Pag.
+ 70. 80
+
+
+Waradin. 
+Pag.
+ 25
+
+
+Waag. 
+Pag.
+ 79
+
+
+
+
+
+
+
+
+Z.
+
+
+
+Zaravas. 
+Pag.
+ 23
+
+
+Zatmar. 
+Ibid.
+
+
+Zelim. 
+Pag.
+ 148
+
+
+Zolnock. 
+Pag.
+ 22
+
+
+
+
+
+
+
+
+
+
+
+
+There is lately Printed for 
+Hen. Rhodes,
+ next door to the 
+Swan Tavern,
+ near 
+Brides-Lane
+ in 
+Fleet-Street;
+ the fol∣lowing Books.
+
+
+THe Comical History of the States and Empires of the Worlds of the Moon and Sun: Writ∣ten in 
+French,
+ by 
+Cyrano Bergerac,
+ newly done into 
+English
+ in 
+Octavo.
+
+
+The History of Monastical Conventions, and Military Institutions with a Survey of the Court of 
+Rome.
+ Or a description of the Religions and Military Orders in 
+Europe, Asia
+ and 
+Africa,
+ for above twelve hundred years, being a brief Ac∣count of their Institution, Confirmation, Rules, Habits, and manner of Living, the Qualification of their Institutors, and the time of their re∣spective Institutions, extending to either Sex, 
+&c.
+ Together with a Survey of the Court of 
+Rome,
+ &c. in all the Great Offices, and Officers Ecclesiastical and Civil dependant thereon: As also the Ceremonies of the Consistories, Con∣clave and those that have been used in the Cre∣ation of Cardinals; Election of the High-Bishop or Pope, and his Triumphant Coronation, Pro∣cession, and that of his taking Possession of the 
+Lateran
+ Church in 
+Rome;
+ with what is observ∣ed in his Sickness, and the manner of Solem∣nizing his Funeral Obsequies; with many o∣ther things worthy of Note, according to what has been recorded by Candid Authors of divers Nations, and faithfully Collected by 
+J. S.
+ price bound one shilling.
+
+
+The Strange and Prodigious Relations, Cu∣stoms, and Manners of divers Nations. Con∣taining;
+
+ 
+First,
+ the Ridiculous Rites, and Cere∣monies of the Heathens, in the Worship of their several Deities. 
+Secondly,
+ the various Changes of the 
+Jewish
+ Religion, and the State it is now in: With a full Relation of the Apparitions, that foretold the fall of 
+Jerusalem;
+ as also of the dreadful Famine, wherein a Woman Roasted and Eat her own Child; with the Circumstances of the Final Destruction of that Famous City, un∣der 
+Titus. Thirdly,
+ The Rise and Growth of 
+Ma∣hometanism,
+ giving an Account of the Doctrine of the 
+Turkish Alcoran. viz.
+ Their Command∣ments, and Strange Pilgrimage to 
+Mecca,
+ &c. With the Life of that Grand Impostor, 
+Maho∣met;
+ as also Remarks on the Life of 
+Scanderbeg,
+ with the many Victories he gain'd over the 
+Turks. Fourthly,
+ the Schisms, and Heresies in the Chri∣stian Church: Being an Account of those Grand Hereticks, the 
+Adamites, Mugletonians,
+ &c. and all intermingled with Pleasant Relations of the Fantastical Rites, both of the Antients and Mo∣derns, in the Celebration of their Marriages, and Solemnization of their Funerals: Faithful∣ly Collected from Ancient and Modern Authors, and adorned with divers Pictures, of several re∣markable Passages therein; by 
+R. D.
+ price bound one Shilling.
+
+
+Historical, and Political Observations on the Present State of 
+Turky;
+ describing the Policy, Religion, Manners, and Military Discipline of the 
+Turks;
+ with an Account of all the Battles, Seiges, and other Remarkable Transactions and Revolutions which have happened, from the be∣ginning of the 
+Ottoman
+ Empire, to this Present Grand 
+Seignior.
+ To which is added his Life, containing all the material Occurrences, that happened during his Reign; together with the
+
+ Present State of 
+Hungary,
+ and History of the Wars, Price bound 1. 
+s.
+
+
+Conversations on several Subjects, written in 
+French
+ by 
+M. de Scudery,
+ and done into 
+English,
+ by 
+Ferrand Spence.
+
+
+The 
+London
+ Jilt, or the Politick Whore, where∣in is shewed all the Artifices and Stratagems, which the Ladies of Pleasure make use of, for the Intriguing and Decoying of Men: Interwo∣ven with several pleasant Stories of the Misses ingenious Performances, in two Parts.
+
+
+The School of Recreation; or the Gentle∣man's Tutor, to those most Ingenious Exercises, of Hunting, Racing, Hawking, Riding, Cock-Fighting, Fowling, Fishing, Shooting, Bowling, Tennis, Ringing, Billiards, price bound one Shilling.
+
+
+Coffee-House Jests, Refined and Enlarged, by the Author of the 
+Oxford
+ Jests, the Fourth Edi∣tion, with large Additions, price bound one Shilling.
+
+
+Wit's Cabinet, or a Campanion for Young∣men and Ladies: Containing the whole Art of Wooing, and making Love; with the best Com∣plemental Letters, Elegant Epistles, Amorous Addresses, and Answers, in a most Pleasant and Ingenious strain, with the newest Songs, Sung at Court, and both Theatres. The School of 
+Bac∣chus,
+ or the whole Art of Drinking, taught by a New, and most Learned Method. The Inter∣pretation of all sorts of Dreams. The Art of Chiromancy, and Palmistry. The several sorts of Cosmeticks, for Clearing, and Beautifying the Face, and taking away all Freckles, Mor∣phews, Tetters, Ring-worms, and preserving the Complexion; together with the way of making all sorts of Perfumes and Sweet-Waters.
+
+ The use of Mettals, and Precious Stones, and the way to Counterfeit them. Several of the choicest Secrets of Art and Nature. Ge∣neral Rules for Gentile Behaviour of Young∣men and Ladies, in all Companies. Several sorts of News, from divers Parts, very Jocose and Pleasant, price bound one Shilling.
+
+
+The Christian's Guide to Devotion, with Rules and Directions for a Holy Life; as also Meditati∣ons and Prayers, by 
+S. Smith,
+ the Second Editi∣on, price bound 1 
+s.
+
+
+The whole Duty of a Communicant; being Rules and Directions, for the Worthy Receiv∣ing the most Holy Sacrament of the Lord's Sup∣per, by the Reverend Father in God 
+John Gau∣den,
+ late Lord Bishop of 
+Exeter:
+ The Second Edition, with Additions out of that Reverend Prelate's Original Copies, price bound 1 
+s.
+
+
+The History of 
+Kara Mustapha,
+ the late Grand 
+Visier,
+ being a faithful Account of the Rise, and several Degrees of his Fortune; his Amours in the 
+Seraglio,
+ his Exploits, the true Cause of his undertaking the Siege of 
+Vienna,
+ together with the Particulars of his Death. Originally Written in 
+French,
+ and Faithfully Translated into 
+Eng∣lish
+ by 
+F. Philo,
+ price bound 1 
+s.
+
+
+The 
+Serasquier Bassa,
+ or an Historical Novel of the times, containing all that passed at the Siege of 
+Buda,
+ out of 
+French,
+ price bound one shilling.
+
+
+THE END.
+
+
+
+
+
+
+
+
+
+
+

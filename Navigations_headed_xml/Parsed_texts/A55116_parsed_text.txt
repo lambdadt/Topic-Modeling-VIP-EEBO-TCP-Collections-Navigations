@@ -1,0 +1,604 @@
+The Pleasant and delightful history of Captain Hind wherein is set forth a more full and perfect relation of his several exploits ...
+Approx. 26KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2016-02 (EEBO-TCP Phase 2).
+A55116
+
+
+
+
+Wing P2529A
+
+
+
+ESTC R28155
+
+
+
+
+
+ocm 10440411
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The Pleasant and delightful history of Captain Hind wherein is set forth a more full and perfect relation of his several exploits ...
+8 p. : ill.  
+
+
+London :
+
+
+Printed for George Horton,
+
+
+1651.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Hind, James, d. 1652.
+Adventure and adventurers --  Biography.
+2013-12 
+SPi Global
+Keyed and coded from ProQuest page images 
+2014-06 
+Colm MacCrossan 
+Sampled and proofread 
+2014-06 
+Colm MacCrossan
+Text and markup reviewed and edited 
+2015-03 
+pfs
+Batch review (QC) and XML conversion 
+
+
+
+
+
+
+P2529A
+
+
+R28155
+
+
+10440411
+
+
+45021
+
+
+
+
+
+
+
+
+
+
+
+
+The Pleasant and Delightful HISTORY OF Captain Hind: Wherein is set forth a more full and perfect Relation of his several Exploits, Stratagems, Robberies, and Progress, both in 
+Eng∣land, Ireland, Scotland,
+ and 
+Holland:
+ the like never heard of throughout all Ages. Together with his Letter to the King of 
+Scots:
+ And the manner of his life and carriage: Further shewing, How he rob'd a 
+Gentleman
+ in 
+Gloucestershire
+ by laughing: how he rob'd old 
+Peny-Father
+ the Excise-man: how he ro'd a 
+Gentleman
+ of 15 pounds, by laying a Cloak-bag in the high-way: and how he neatly cozened a Lawyer of his Watch.
+
+
+Likewise, divers other remarkable passages; in relation to his proceedings, 
+full of mirth;
+ and a discovery of his strange and unparalleld Escapes.
+
+
+Published according to Order.
+
+
+
+
+depiction of scenes from the adventures of Captain James Hind: right, a male figure in cavalier dress holding up a sword; left, a group of male figures with swords and pike or spear, in the background a city in flames; top, a male figure with a sword and a female figure or girl standing; bottom, a male figure leaning over a kneeling female figure
+
+
+
+
+London,
+ Printed for GEORGE HORTON, 1651.
+
+
+
+
+
+
+
+
+
+
+
+
+The most pleasant and delightfull History of Captain 
+Iames Hind;
+ and a full 
+Relation
+ of all his strange Exploits and Robberies.
+
+
+
+
+How 
+Hind
+ being left alone, and most of his Crue disperst by a 
+Hue-and Cry,
+ not having his own horse, and in distress for Money, rob'd five Gentlemen as they were riding to a Wedding; and how he was taken prisoner.
+
+
+HIND
+ having intelligence of a great Feast made by a Countrey Gentleman, where were many Gentlemen to meet, who lived some 4, or 6, or 10. miles off the place appointed, there being a wedding, takes his horse in the morning, and coasting the Countrey, meets with a Gentleman and his man riding towards the foresaid house, bids them 
+stand,
+ and without much dispute the Gentleman delivers him 20 li. in gold, think∣ing it better to 
+scape with a whole skin then lose his money, and be beaten to boot.
+ 
+ they were parted comes to his view an ancient Penifather, with 
+ Heir, who one would not have thought would have parted with their money so quietly: 
+Hind
+ knowing 'twas no time to dally, bids them 
+stand,
+ sets his pistol to the brest of the young Gallant; the old man being struck with a pannick fear, cries out, 
+Save his life, and take his Money,
+ which was quickly done, together with his Sword; and then it came to the old mans turn to deliver, 
+who was as ready to give, as he to ask:
+ their pockets be∣ing both emptied; 
+Hind
+ threw the young Gallant his sword again; and bad him learn to make better use of it, 
+and draw it as occasion was offered.
+ But the old m
+, willing to save the credit of his son, resolved to make no words of it, and the Gentleman before (being robbed) had taken the same resolution also, that the Ladies should not laugh at their hard fortune. 
+Hind
+ immedi∣atly taking another rode, meets another Gentleman riding to the same hous and he resolving to make his forenoons work worth his labour, bids him 
+stand,
+ the Gentleman drew, 
+Hind
+ showed him his pistol; 
+You may thank that for your prize
+ (quoth the Gentleman) 
+your sword should not have won my mony.
+ At which gallantry 
+Hind
+ was wel pleased, and gave him 5 of his 15 pieces back again. By this time 
+Hind
+ thought his mornings work was over, it
+
+ growing towards dinner time intended to march towards his Comradoes, who were disperst by a 
+Hue-and-Cry,
+ which followed them 3 dayes before for another Robbery: and having not his own horse under him, thought it not best to stay too long thereabouts: having no sooner taken this resoluti∣on, but he espies another young Gentleman (supposed to be a younger bro∣ther) upon a good Gelding rides that way; and being full of confidence, re∣solved to take his money and be gone, bids him 
+Stand,
+ at which words the Gentleman dismounts, and draws his sword, quoth 
+Hind, Shall I be troubled more with thee, then all that be gone before? Since thou art so gallant, thou shalt have fair play for thy money:
+ puts up his Pistol, dismounts also, and draws his sword: and having made a close or two, neither being wounded, 
+Hind
+ would as willingly have been rid of his Gamester, as the Gentleman would have been of him; But ere they could agree on the matter, came riding an old Gentleman with a surly Serving-man, who knew the engaged Gentle∣man, and was quickly off his horse with his sword drawn, quoth 
+Hind, We are two fair Gamesters, we need no third man:
+ Yes always, quoth the Serving-man, 
+at in-and-in, which I suppose is your sport;
+ With that the 
+Gentleman
+ made a close with 
+Hind,
+ & quickly the Serving-man had his hand in 
+Hinds
+ pocket, but drew forth nought but his pistol, at which he yielded himself prisoner.
+
+
+
+
+
+
+2.
+ How 
+Hinde,
+ after he was taken prisoner by the last Gentleman and Serving man, was car∣ried to Dinner with them, where he met withall those he had robbed that morning; and af∣ter much pleasant discourse gave them the slip with a good Gelding worth 
+50
+ pounds.
+
+
+HInde
+ being taken Prisoner by the young Gentleman and Serving-man, thought it good to go quietly with them, that so he might be the better able to make an es∣cape when he saw occasion; and said, 
+Sir, I am now your Prisoner pray let me know whi∣ther you are riding,
+ Quoth he, but to a Gentlemans house about two miles off, to dine with some friends, whither I intend you shall march; quoth 
+Hinde, I beleeve there be some Gentlemen gone before will be glad to see me.
+ You shall be civilly used, quoth the Gentleman, and dine with us, and then shall I deliver you to the Justice. They being come to the house, Dinner being set, the Master of the house saluted 
+Hinde,
+ and bad him welcom, as the young Gentlemans friend, and caused him to sit downe at Table; 
+Hinde
+ takes a glass of wine in his hand, and drinks to all the Company, especially to those of his acquaintance (as he called them) whom he had robbed in the morning: quoth the old Penifather, 
+Couldst thou not be content with so good a breakefast but must thou come and affront my son and me at Dinner?
+ At which words the whole businesse was under∣stood, and the one said, he was robbed of so much, and another of so much and all ac∣knowledged what they had lost. 
+I thank ye all Gentlemen,
+ quoth Hinde, 
+for my break∣fast; but I am most engaged to this Gentleman, for he would not let me passe till he brought me to a plentifull Dinner.
+ Much mirth past at the Table, and 
+Hinde
+ fitted them with very good discourse for the day; That pleased the company so well, that each man endeavour∣ed to shew him what favour they could; so that after Dinner they took him out into the Court, where the Master of the House had a gallant young Gelding never backt be∣fore that day, which war very unruly, and had thrown two or three Riders; quoth
+
+ 
+Hinde,
+ if it please you Gentlemen to give me leave, I 
+shall bring this Gelding to a pace i∣n a quarter of an hour;
+ There being a high wall round the yeard, none mistrusted his in∣tention, he mounts the Gelding with the Masters leave, and was commended by all the Gentlemen for a very good horseman, having sufficiently chased and madded the metta
+some Beast, and spying a little broken place in the wall, with a full carier leapt the Gelding over, and turning about, said 
+I thank you all Gentlemen for my Breakfast and Diner, but
+ I 
+must sup above fortie miles off this kight.
+ So the Clark lost his labour in making his 
+Mittimus,
+ and his Master a Gelding worth fifty pounds.
+
+
+
+
+
+
+3
+ How 
+Hinde
+ cozened an 
+Inne-keeper,
+ by pretending himself to be some great Lord to the va∣lue of threescore pounds.
+
+
+THere is no game comes rmiss, but 
+Hinde
+ hath skill in it, in his low estate he hath his conceits, and now he is a pretended Lord, here he shall shew you how he sends some of his Comradoes in the habit of Serving men to take up a Lodging for their Ma∣ster in an Inn, telling that ee was a great Lord, and was desirous to lye there about some businesse, but withall they told him he must have extraordinary fare, as Rabbits and Chickens, and all other dainties, no Butchers meat would go down with him, and to co∣lour the businesse, he sent him two great Iron bound Chests, with strong locks, and mai∣led with corys, and gave order they should be put in the best room in the House, as if there had been some rich businesse in it: So when the Lodging was fitted, the next day comes in 
+Hinde
+ like a great Lord, or 
+Don of Spaine,
+ and was weleomed by the Host with a great deal of respect and honor, nothing was omitted that might any way give him content, And thus he continued for some certaine time; for he went out upon his Rob∣bery, and came in again in his Coach, and none suspected or mistrusted; and when he thought he had laine there long enough, for feare of discovery he took an occasion to burrow threescore pounds of his Host, pretending some extraordinary businesse; the credulous Host beleeves him, and lends it him, he having (as he thought) such good good security; But the Bird being now slegged, it is time to take wing and be gone,) 
+Hinde
+ goes out in the morning in his Coach, but was too w
+se to come any more there; he is expected at night; but no Lord comes, his Lordship was gone another progresse; he stayes a week, and appeares not, a Moneth expires and he is not seen. At last the Host begins to be jealous, and mistrusts, That 
+all is not Gold that glisters;
+ He now be∣gins to think, ther,s some knavery; and (to be short) calls a Constable, and he sits ready to take an Inventory of the goods in the Chests; The two great Chests are unmailed, or uncorded, the Locks are broken open; which being done; alas then his grief appears; For in stead of rich treasure, he finds nothing but two Chests full of stones and old rub∣bish cram'd together.
+
+
+
+
+
+
+4
+ How 
+Hinde
+ cozened a Merchant in 
+Holland
+ of 
+300
+ Crowns, by giving a counterfeit Chain for a pledge.
+
+
+THis jovial Gamster, 
+Hinde,
+ being in 
+Holland,
+ having spent his mony, casts his wits about how to recrute himself, and you know good Workmen never want their toos: You may remember I told you how he served the Inn keeper, just almost in the same manner he beguiles the Dutchmen; he goes after the fashion of a Gallant, the better to set a glosse upon his knavery; he hath his man to wait upon him, and by his gallant garb insinuates into a rich Merchants acquaintance, makes the World beleeve he hath brought the wealth of the Indies with him, he pretends he hath great wealth, and happy were he that could be acquainted with him, for it is the nature of the Dutchmen to strike sail for their own profit, to offer any kindnesse where they perceive they may
+
+ be any way a gainer. Amongst the rest, a Merchant of no mean quality perceiving his deportment; invites him to his house; this Gudgeon with little intreaty quickly swal∣lowes the Bait, and accepts his proffer: when come to his house, the Merchant enter∣tains him with a great deal of civility. 
+Hind
+ pretends to send one of his men to his two Chests which were aboard of a ship in the Key, for some money, which made the Mer∣chant say, Sir, 
+I much wonder you being a stranger, dare trust your Wealth in such a place; if you please Sir, my house shall be at your pleasure.
+ But 
+Hind
+ takes an occasion upon dis∣course to pull out of a Box a Chain of pure Gold before the Merchant, which he much admiring said, Sir, you need not want money so long as you have this to engage. 
+Hind
+ replyed, I should be loath to engage it but upon necessity; which I am now driven to. For although I have money, yet I cannot command it, because I must pay it presently upon a Bill of Exchange.
+
+
+
+
+
+
+How 
+Hind
+ escaped being closely followed with a Hue and Cry for a great Robbery that he had done in the habit of a Countrey Grasier.
+
+
+HInd
+ having done a great robbery in 
+Darby-shire,
+ and thinking himself secure, betook himself to an Inn, which are as Sanctuaries to robbers; and staying there somewhat longer then his time, he was pursued into the Town by some Horsemen; he knowing the matter, got his Horse out of the stable, and took a back way, having on a gray Coat in the habit of a Grasier: After he had been sometime gone, the puriuers had intelli∣gence which way he went, his horse being almost weary, they came within sight of him, and perceived him to take into a field where were some Horses at grasse, in which he no sooner came but he pulled off his Saddle and Bridle, and threw them into a Ditch, with his Sword & Pistoll, and turn'd up his Horse to grasse, pull'd off his own Coat, and turn'd it, which was black within, and with a Priests girdle he had in his pocket girt it to him, taking a little Book out of his pocket, and walking under a hedge, as if he had been in study for a Sermon: this was no sooner done, but his pursuers came to the place, seeing as they thought a Divine in meditation, curteously desired of him, 
+if he saw any man come riding that way;
+ Yes quoth 
+Hind, with much speed in a gray Coat, and the colour of his Horse was much like that yonder you see at grasse,
+ pointing to his own Horse. 
+He was the man quoth they pray which way did he take? he took the Hedge quoth Hid,
+ I suppose if you ride hard, you may take him ere he comes to the next Town; they all gave him thanks, and with much speed hasted the way he directed them, when they were gone, 
+Hind
+ laughed at their credulity, and taking his Horse, sadled him again, and rode his way.
+
+
+
+
+
+
+How 
+Hind
+ robbed a Gentleman of his Watch on the high way,
+
+
+HInd,
+ as his custome was, coasting the Countrey, being never out of his way meets with a Gentleman; quoth 
+Hind,
+ pray Sir, how far ride you this way? the Gentle∣man answered to 
+Coven
+ry,
+ I shall rejoyce in your Company, quoth 
+Hind,
+ I thank you Sir said the Gentleman, 
+for there is some danger in this Rode, for seldom a week passes but one or other is rob'd near this place, but the best on't is, I have no money to loose, if I can keep my Watch I care not, I have been twice or thrice in danger of loosing it already. Hind
+ hear∣ing that the Gentleman had no money, thought it best to take what he could get, and look for some other Companion. I pray Sir, quoth he, 
+What time of the day think you it is
+ by your Watch? that you shall know presently quoth the Gentleman and looking on the same, said it's neer eleven? pray let me see quoth 
+Hind?
+ the Gentleman gave him the Waech into his hand, it's true indeed quoth 
+Hind;
+ and putting the VVatch into his pocket; said I should have been 10 miles offe 
+, and you must mend your pact if you 
+ 
+ook his 
+ the Gentleman, 
+
+
+
+
+
+
+
+
+How 
+Hind
+ and his Myrmidons robbed a Company of 
+Tories
+ in 
+Ireland.
+
+
+VVHen 
+Hind
+ was in his progress in 
+Ireland,
+ he would sometimes scout out, and lurk about for a prey, with the rest of his Comra∣does, and by chance he met 2. or 3. 
+Tories,
+ who had got a prize of money and plunder, and were returning to their Fastues, or quarters, but they had not so good luck with it as they expected, for 
+Hind
+ and his Myrmidons fall into them, and make them believe they were of their profession, as in∣deed they were, but in another way; but one of the 
+Tories
+ had a jealous mind that 
+Hind
+ was not a true Brother; whereupon he asked him what he was: 
+What am I,
+ quoth Hind? 
+A Brother of the Blade, and that thou shalt know before we part; therefore deliver, or beleeve it, this sword shall speak other Language then you expect.
+ The Gentlemen were much amazed at this unexpected answer: They asked him what he meant? 
+What do I mean? I mean to try a touch whether or no that money you have shall be yours or ours;
+ and to't they went; but 
+Hind
+ so playd his Game, that he made them be glad to be rid of him upon such conditions as he liked, and they disliked, which was, to leave their money behind them, and go home by the weeping-cross, and cry, 
+O hone, O hone.
+
+
+
+
+
+
+How 
+Hind
+ having lost his horse, robbed a Countreyman in 
+Gloucester∣shire,
+ by laughing.
+
+
+HInd upon a time
+ having lost his Horse, 
+meeting with a
+ Countrey-man in 
+Gloucester-shire;
+ the Countrey-man being a pretty nimble fellow, got away from him: but 
+Hind
+ he as cunning, seeing he could not over∣take him, fell a laughing heartily, which made the Countrey-fellow return, thinking him to be some old acquaintance of his grown out of remem∣brance, that in jest had pursuid him, returned back towards him; still 
+Hind
+ laughed at his seeming acquaintance, till the fellow came within danger, that he surprized him, and took 10 l. away from him, but gave him 20 s. again, and told him, 
+Believe me not when I laugh again.
+
+
+
+
+
+
+How 
+Hind
+ robbed a 
+Butcher
+ in 
+York-shire,
+ by drawing him from his Company by discourse, and keeping pace with his horse.
+
+
+HInd
+ coming into 
+Yorkshire
+ in the West-riding, met with a Company of 
+Butchers,
+ which were going to a Fair to buy some Cattel; he hear∣ing them discourse of their business, and what each party had to bestow, he begins to take acquaintance of the chiefest of them, and telling him he was of the same fraternity, and in that he lied not, for he had been a 
+Butcher,
+ and therefore could discourse exactly of their profession; so cunningly did he disguise his knavery, and in his discourse being not mistrusted, he trotted pretty hard before the rest; the 
+Butcher
+ whom he singled out, strived to keep pace with him to hold discourse with him, till 
+Hind
+ seeing his oppor∣tunity, and being a pretty way from the Company, said to the Butcher,
+
+ 
+Friend, I must require you to deliver your purse;
+ the Butcher deny'd: he presently presents his Pistol before him, which startled the 
+Butcher,
+ and made him deliver his money unto him, the sum being 80 l. and so sent the 
+Butcher
+ to his fellows again.
+
+
+
+
+
+
+How 
+Hind
+ in the habit of a Serving-man, robbed a Traveller of 
+15
+ l. by laying a Cloak-bag in the high-way.
+
+
+ALL Professors are some more excellent in the Art then another, and this 
+Hind
+ he is in his profession: as sometimes he went in the habit of a Gentleman of great fortunes, sometimes in poor habit, and sometimes in a Serving-mans habit: It fortuned, that lying in wait for some booty, sent out one of his gang that laid a Cloak-bag in the high-way, where Tra∣vellers must of necessity come by, where one coming by, seeing the Cloak-bag lie in the way, lighted form his horse, and went to take up the Cloak-bag: presently 
+Hind
+ steps to him, and takes and robs him of 15 l. this he did in the habit of a Serving-man.
+
+
+
+
+
+
+How 
+Hind
+ put a trick upon a Dutch Mountebank in 
+Holland.
+
+
+NOw 
+Hind
+ being in 
+Holland,
+ and wanting money, being in a strange Countrey, he had not that command as he had in 
+England,
+ and to rob in the high-way as in 
+England,
+ hearing of a rich 
+Mountebank
+ that went about quacking of it, how he went never without store of money, his name was 
+Henrick van Veldes,
+ he was something fortunate in Cures, therefore by every one desired: this Mountebank going to visit his sick patients in divers parts of the City, having received divers sums of money, for his particular Cures, was watched by this 
+Hind,
+ and as he passed through by a by-street, he runs to him as in great haste, and salutes him in a kind man∣ner, thus: Sir, I have heard much of your renown in Cures of dangerous consequence, and since it is my happyness to meet with you, I live not far from this place, if you please to go along with me to my house, I have a wife much troubled with a Flux in her Belly for these 14. dayes, and you by your experience may do her much good, if you please to give her a vi∣sit; I humbly request you to go along with me, and what content you de∣sire, I shall willingly satisfie. Well, he goes with 
+Hind
+ to his Lodging, and having lockt the door upon him, he takes in one hand a Pistol, in the other a great empty purse, and furiously looking upon him, he said, Sir, 
+here is my wife,
+ meaning the empty purse, 
+she hath been a long time trou∣bled with the Flux in her belly, and you are the onely man that can onely remedy and find out a means to cure this Disease; else I my self, by the help of this pistoll, am resolved to remedy it.
+ This Mountebank seeing himself thus cunningly & suddenly surprised, began suddenly to cry out, but was presently silenced by the sight of the pistol, was fain to let go his own purse to cure that purse which had the Flux; but according to his wonted charity, seeing the man in
+
+ this trembling condition, he restored him some part of his money again, promised to convey him to his Lodging, and did with his pistol cockt, for fear of an out cry, and in the midway left him and his lodging both toge∣ther.
+
+
+
+
+
+
+How 
+Hind
+ and his Comrades robbed a Company of Theeves of an hundred pounds.
+
+
+THere was a certain company of mad Blades, having spent their patri∣mony, the next work they take in hand is, 
+God dam them, they would go take a purse too, to maintain them in their luxurious courses,
+ and combined to∣gether to take the next opportunity: So it was the ill fortune of a Gentle∣man in Lincolnshire to be surprised by these gallants of all his money; when they had their booty they went out of that Country, and came to an Inn where 
+Hind
+ used to be; to there they were very frolick and merry; and 
+Hind
+ observing their actions, with the rest of his Companions way-laid them, and at the foot of an hill bid them 
+Stand, and deliver:
+ The Youngsters were much startled at it, and cry out, 
+Why we are your friends:
+ What Theeves fall out? We will fall in, saith 
+Hind,
+ and so fell upon them, took all their money; and so left them 
+and crost the Countrey.
+
+
+
+
+
+
+How Hind cozened an Inn-keeper in Oxfordshire.
+
+
+HInd
+ had many wifts, when put to a pinch, he sent some of his Comrades in the ha∣bit of serving-men to take up lodging for their Master in an Inne, telling the Inne-keeper, there was a great Lord to lie there about some businesse for some time, and wished him to provide the best cheere could be devised, for he cared not for Butchers meat; and to colour the businesse, he sent two great iron Chests bounds and corded a∣bout, as if some rich Treasure were in them, and gave order they should be set in the best room in the house; so when the lodging was fitted, the next day came in 
+Hind
+ like a great Lord, or Don of 
+Spain,
+ in his Coach, attended by two Lacquaies,, and two Ser∣ving-men, having extraordinary respect from the Master of the house, and so continu∣ed for a certaine time, going in and out upon his robberies, but (having been there a∣bout a moneth, paying for what he had) the Host mistrusted nothing, he coming in and out in his Coach in that manner: 
+Hind
+ took an occasion to borrow threescore pounds of his Host, pretending some extraordinary businesse, and goes out in the morning in his Coach, but came in no more: his Host thought he had been gone into the Coun∣trey and would returne againe, and consequently mistrusted not, because he conceived he had so good a pledge: but after he had been about a moneth absent, he made bold to open the chests, wherein was nothing but stones and brick-bats; So 
+Hind
+ had royall entertainment, and money too boot.
+
+
+
+
+
+
+How 
+Hind
+ cheated a Lawyer of his Watch.
+
+
+HInd
+ meeting with a Lawyer in a Tavern neer the road, fell into company, and were ve∣ry merry together, 
+Hind
+ perceiving the Lawyer had a Watch in his pocket (by the key and string hanging out) made bold with it, which the Lawyer soon after missed, and inquired after; whereupon 
+Hind
+ restored it to him again with this Poetical Complement.
+
+
+A Watch in Tavern lost? Oh, that's a crime:
+
+
+See how in drinking men do lose their time.
+
+
+The string hang out, and you forget to lock it,
+
+
+And so the Watch did slip out of your pocket.
+
+
+If you would keep your Watch, thus must you do,
+
+
+Pocket your Watch, but watch your Pocket too:
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

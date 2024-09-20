@@ -1,0 +1,569 @@
+A co[m]mendation of the adue[n]terus viage of the wurthy Captain. M. Thomas Stutely Esquyer and others, towards the land called Terra florida
+Seall, Robert.
+Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2008-09 (EEBO-TCP Phase 1).
+A11841
+
+
+
+
+STC 22139
+
+
+
+ESTC S121844
+
+
+
+
+
+99857006
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A co[m]mendation of the adue[n]terus viage of the wurthy Captain. M. Thomas Stutely Esquyer and others, towards the land called Terra florida
+Seall, Robert.
+1 sheet ([1] p.)   
+
+
+Imprinted at Londo[n] :
+
+
+At the long shop adioyning vnto Saint Mildreds Churche in the Pultrie, by Iohn Alde,
+
+
+[1563]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Stucley, Thomas, 1525?-1578 --  Poetry --  Early works to 1800.
+Florida --  Discovery and exploration --  England --  Poetry --  Early works to 1800.
+2007-08
+TCP
+Assigned for keying and markup
+2007-08
+Aptara
+Keyed and coded from ProQuest page images
+2007-09
+Emma (Leeson) Huber
+Sampled and proofread
+2007-09
+Emma (Leeson) Huber
+Text and markup reviewed and edited
+2008-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+22139
+
+
+99857006
+
+
+22665
+
+
+
+
+
+
+
+
+
+
+
+
+¶A Cōmendation of the aduēterus viage of
+the wurthy Captain. M. Thomas Stutely Esquyer and others,
+towards the Land called Terra florida.
+
+
+
+
+IF Fortunes force procure,
+
+
+The valiant noble hart:
+
+
+In trauail, pain & daūgers great,
+
+
+In warres to haue his part.
+
+
+
+
+
+
+If losse of goods insue,
+
+
+Through valiant enterprise:
+
+
+Or for slaknes, or the foresight,
+
+
+Of diligent aduise.
+
+
+
+
+
+
+Yet of his wurthy praise,
+
+
+I can not speak tomiche:
+
+
+Who ventreth bothe his goods and life,
+
+
+His Contrey to enriche.
+
+
+
+
+
+
+The worldly wise doo muse,
+
+
+And also doo invay:
+
+
+At noble harts when that their welths,
+
+
+Doo fall vnto decay.
+
+
+
+
+
+
+As now of late I knew,
+
+
+And saw the euidence:
+
+
+Of one whose part it was to shew,
+
+
+The like experience.
+
+
+
+
+
+
+A noble hart in deed,
+
+
+And wurthy great renowne:
+
+
+Whose fortune was not to remain,
+
+
+In Cittie nor in Towne.
+
+
+
+
+
+
+A yung Eneas bolde,
+
+
+With hart and courage stout:
+
+
+Whose enterprise was only pight,
+
+
+Straunge things to bring about.
+
+
+
+
+
+
+And though that all men seemd,
+
+
+His dooings to deride:
+
+
+Yet this his fact he would not leue,
+
+
+Nor throwe it so a side.
+
+
+
+
+
+
+But stil he dooth procure,
+
+
+With boldned hart and minde:
+
+
+That thing whiche erst he had assayd,
+
+
+By trauail now to finde.
+
+
+
+
+
+
+Into a land vnknowne,
+
+
+To win hym wurthy fame:
+
+
+As exequies and memory,
+
+
+Of his moste noble name.
+
+
+
+
+
+
+Whiche if it fall his lot,
+
+
+With fortunes helping hand:
+
+
+He may wel make a law hing stock,
+
+
+Of them whiche him withstand.
+
+
+
+
+
+
+Same terme it Stolida,
+
+
+And Sordida it name:
+
+
+And to be plain they doo it mock,
+
+
+As at a foolishe game.
+
+
+
+
+
+
+If reasons sence be cause,
+
+
+Of this forespoken talke:
+
+
+Or fayned folly be the ground,
+
+
+Why mennes tungs thus doo walke.
+
+
+
+
+
+
+Then might it seem to me,
+
+
+The Frenches labour lost:
+
+
+Their careful pain and trauail eke,
+
+
+That they therein haue tost.
+
+
+
+
+
+
+The cronicles also,
+
+
+Whiche only seem as trew:
+
+
+And writ by them that of that place,
+
+
+Before did take the vew.
+
+
+
+
+
+
+The spaniards eke doo shew,
+
+
+And verify the same:
+
+
+To be described as a thing,
+
+
+Deseruing suche a name.
+
+
+
+
+
+
+The Portingales doo say,
+
+
+The crownacles be iust:
+
+
+And all that trauaild haue that coste:
+
+
+The same confes it must.
+
+
+
+
+
+
+If that in times before,
+
+
+Through talkes men haue refraind:
+
+
+Whiche for the loue of trauail sore,
+
+
+Their harts haue long been paind.
+
+
+
+
+
+
+Columbus as I re
+d,
+
+
+The space of many yeeres:
+
+
+Was counted as vnwise also,
+
+
+As in writers appeeres.
+
+
+
+
+
+
+His ernest sute denied,
+
+
+Yet in the finall ende:
+
+
+His wurds & deeds did seem at length,
+
+
+On reason to depend.
+
+
+
+
+
+
+The like assay in hand,
+
+
+He did at last procure:
+
+
+Whose life and lucky viages,
+
+
+Good fortune did assure.
+
+
+
+
+
+
+At thend in sauety home,
+
+
+At lenght he did retourn:
+
+
+And quenched all their mocking harts
+
+
+Whiche erst did seem to burn.
+
+
+
+
+
+
+For fire of force must needs,
+
+
+Declare his burning heat:
+
+
+Though for a time ī smothering smoke
+
+
+It seemes it self to beat.
+
+
+
+
+
+
+So talk of tungs may not,
+
+
+By smothering through be tame:
+
+
+But bursting out at length wil turn,
+
+
+Into a firye flame.
+
+
+
+
+
+
+And then the mallice gon,
+
+
+The fire falleth down:
+
+
+And quenched quite as by this man,
+
+
+Whiche was of great renowne.
+
+
+
+
+
+
+Now Stuetley hoice thy sail,
+
+
+Thy wisshed land to finde:
+
+
+And neuer doo regard vain talke,
+
+
+For wurds they are but winde.
+
+
+
+
+
+
+And in reproof of all.
+
+
+I wil not once refrain:
+
+
+With prayer for to wish that thou,
+
+
+Maist safely come again.
+
+
+
+
+
+
+And that sum frute at length,
+
+
+By trauail thou maist finde:
+
+
+With riches for to satisfy,
+
+
+Thy manly modest minde.
+
+
+
+
+Finis.
+
+
+{quod} Robert Seall.
+
+
+
+
+
+
+
+
+
+
+¶Imprinted at Londō at the long Shop
+adioyning vnto Saint Mildreds Churche in the Pultrie,
+by Iohn Alde.
+
+
+
+
+
+
+
+
+

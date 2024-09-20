@@ -1,0 +1,375 @@
+The last terrible tempestious windes and weather Truely relating many lamentable ship-wracks, with drowning of many people, on the coasts of England, Scotland, France and Ireland: with the Iles of Wight, Garsey & Iarsey. Shewing also, many great mis-fortunes, that haue lately hapned on land, by reason of the windes and rayne, in diuers places of this kingdome.
+Approx. 17 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A15572
+
+
+
+
+STC 25840
+
+
+
+ESTC S120109
+
+
+
+
+
+99855309
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The last terrible tempestious windes and weather Truely relating many lamentable ship-wracks, with drowning of many people, on the coasts of England, Scotland, France and Ireland: with the Iles of Wight, Garsey & Iarsey. Shewing also, many great mis-fortunes, that haue lately hapned on land, by reason of the windes and rayne, in diuers places of this kingdome.
+[24] p.   
+
+
+Imprinted at London :
+
+
+[By Edward Allde and John Beale] for Ios: Hunt and are to be sold by Iohn Wright,
+
+
+1613.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Storms --  England --  Early works to 1800.
+Storms --  Early works to 1800.
+2013-08
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Olivia Bottum
+Sampled and proofread
+2013-11
+Olivia Bottum
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+25840
+
+
+S120109
+
+
+99855309
+
+
+20796
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The last terrible Tempesti∣ous windes and weather.
+
+
+Truely Relating many Lamentable Ship-wracks, with drowning of many people, on the Coasts of England, Scotland, France and Ireland: with the Iles of Wight, Garsey & Iarsey.
+
+
+Shewing also, many great mis-fortunes, that haue lately hapned on Land, by reason of the windes and rayne, in diuers places of this Kingdome.
+
+
+
+
+
+
+Imprinted at London for 
+Ios: Hunt
+ and are to be sold by 
+Iohn Wright,
+ 1613.
+
+
+
+
+
+
+
+
+
+
+To the Reader.
+
+
+REader, I do here present vnto thee, & to thy vn∣derstanding (if thou hast any) some part of the lamentable losses, & vnrecouerable mischances that haue happened by occasion of these late blust∣ring stormes of winde, and an innumerable deale of rayne, the which a great many thousands haue too true cause to beleeue, because they are sharers in the misfortunes that this outragious weather hath caused. Now if thou hast sustained no losse thy selfe, perhaps thou wilt not beleeue these things to be true that I haue written: but if thou wilt or doest beleeue, then pray to God that it will please him to giue them patience that are loosers, and humilitie that are winners, and giue God thankes that he hath so blest thee that thou hast no share in these mis∣haps. But if thou wilt not beleeue, goe and looke, or else remaine still in thy vnbeleife.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A BRIEFE RELATION of the great losses both by Sea and Land, by reason of the late 
+great Tempests.
+
+
+S
+Vch and so great is the inna∣ted hereditary peruersenes of miserable mankinds na∣turall inclination, that though we infallibly know that God is infinite, and his waies past finding out: yea though wee generally confesse him to bee the Mighty, Eternall, euerlasting, inscrutable, incomprehēsible Iehouah, in whose hands are all things past, present and future. Though (I say) we confesse and professe an externall be∣leefe that God can and will punish obsti∣nate and stiffe-necked sinners in the vp∣rightnesse
+
+ of his confounding Iustice; yet we presuming (because it is said his mer∣cie is ouer all his workes) so much vpon his mercie, that we are altogether for∣getfull of his Iustice; So that for all notwithstanding our knowledge, our confession and profession, wee liue in A∣theisme, Epicurisme, and in so many sun∣dry sorts of hydra-headed scisme, that if it be rightly vnderstood, wee spend our times in this vnconscionable world little better then in bruite Barbarisme: for I am verily perswaded that God had neuer fewer trew seruants, nor more profes∣sors then are in these daies, and surely it is to bee feared when God hath least, the Diuel hath most. And wee are so lulled and rockt asleepe in the secureles cradle of sensual security, by the (Prince of this World) the Diuell and his two neere kinsmen the worlde and the flesh, that we (as it were) in spight of the Eternall God, tread and trample his sacred lawes
+
+ and sanctified Testimonies vnder our prophane, vnhallowed, & rebellious feet, and with a high hand, and an aspiring hart, with millions of varieties of trans∣gressions, we seem to batter the glorious frame of Heauen, with thundering shot of our abhominable hell hatchd impie∣ties. These outragious Enormities dai∣ly prouoking our most iust God to powre forth the consuming vials of his incen∣sed heauie Indignation, vpon all the misgouerned sonnes of sinfull men. For as God is infinite in his mercie, so is hee infinite in his Iustice; and as our trans∣gressions are numberles, so are the seue∣rall rods and punishments vncountable that God vses to inflict vpon vs, some∣times by weake meanes to accomplish great things, and confound the mighty; and sometimes by elementall causes, as fire, aire, water, and earth, hee shewes his vniuersall power in his iust confoun∣ding offenders; and sometimes by vna∣uoyded
+
+ infections of plagues and pesti∣lencious feuers, and many thousand mi∣serable maladies. And I thinke I need not doubt but many ther be that knowes and remembers the last mortality of this land, when in one yeere there died, one hundred and odde thousands in 
+London.
+ And as concerning what hath happened by fire, Saint 
+Edmundsbury,
+ and 
+Tiberton
+ in Deuonshire, and many other places in 
+England,
+ to their great griefes too truely can testifie, and what greeuous deluges. what outragious inundations, what vnresistable ouerflowings of mercilesse waters we haue had, nor man, nor histo∣rie recording the like (since the generall flood,) wherein many hundreds of acres of pasture and erable land, was (in little space as it were) turnd into a maine Oce∣an, that the fishes (the inhabitants of the sea) floating in their new made regi∣ments, did feede on the drowned carka∣ses of men, women, children, and beasts.
+
+ What sterility and bainenesse of our fruitfull mother earth wee haue had, through the anger of God, withhol∣ding the raine, and shutting the win∣dowes of Heauen, (that the sencelesse ground hath gaped to Heauen for reliefe, when wee our selues haue scarce opened our mouthes to desire Gods fauour) it is sufficiently knowne to all estates & ages. What hurts, damages, and irrecouerable losses and hinderances men haue sustai∣ned by tempestuous winds, both on land and sea, where on the land, steeples, hou∣ses, chimneyes, trees, and diuers other things that were for the necessarie vse of all sorts of people, hath beene vtter∣lie subuerted and throwne downe, to the vtter vndoing of some, and to the great impouerishing of manie. Be∣sides to leaue the land, and to recapitu∣lat what great & manifold harmes hath bin vpon the sea, the outragious windes making it altogether vnnauigable.
+
+ Of the which to write in euery particular were a world of worke: but all these a∣foresaid grieuous calamities, we must all confesse and acknowledge, to be the true tokens that our mercifull God is high∣ly offended with vs; and almost the third part of the people in this kingdome, doe and wil euer remember some one or other of these precedent afflictions, some by losse of friends by death, and some by losse of goods, by fier, water, or other meanes; so that there is not, nor hath not beene, (nor I doubt will not be) any day, night, houre, or minute, wherein God hath not, doth not, or wil not powre down his ven∣geance by one meanes or other, in one place or another vpon impenetrable vn∣repenting perfidious people.
+
+
+But leauing this perambulation or te∣dious trauell to demonstrate that which hath been before diuulged to the publike view of the world, I doe now intend to shew thee, good Reader (if thou beest so)
+
+ what incomparable harmes, and neuer to be regained losse hath happened by oc∣casion of these late tempest 
+s windes: and though I haue not knowledge of al the hurts that are done, yet I know too much, and I with with 
+ my heart, that this which I meane to write were no∣thing but fiction, but yet assure thy selfe thou hadst better beleeue me then to tra∣uell to disproue me (as the prouerbe saies) for I my selfe am sure that the most part of what I write is true on mine owne knowledge, and the rest I haue gathered by relation from many husbandies wid∣dowes, fatherlesse sonnes, and soules fa∣thers and mothers, masterlesse seruants, and masters that haue lost their seruāts from many good and substantiall Mer∣chants, whose lamētable losses haue too too much impouerisht their former e∣states, the vnconscionable al-deuowring Sea, being needlesly made rich, with their sometimes hopeful aduētures. But to the purpose.
+
+
+
+
+Some certain daies before Christmas (by the outragious blustering tempestu∣ous wind and weather) a very faire and tall ship, called the Mary of 
+Albrogh,
+ comming from 
+Burdeux
+ with one hundred and twenty tunnes of French wine, 
+ master 
+Edmunds
+ being master of her, was by force of weather driuen vpon the coast of 
+France,
+ neere a place called Saint 
+Iohns,
+ not farre from the famous and ancient City of 
+Bullen,
+ most miserably cast away, where was a great losse of ship & goods: but God bee praised all the men were sa∣ued except one.
+
+
+About the same time there came a ship of 
+Dartmouth
+ from 
+Marseles,
+ laden with oyles, and cotten wools, which was vp∣on the same coast, and neere the same place cast away, where the ship was torn in peeces, & the goods sunke in the seas: but God in his mercy saued all the men, to doe their countrey more fortunate ser∣uice hereafter (I hope.)
+
+
+
+
+Another (
+) being called the Patience, who had been heere once this 
+ter from 
+Burde
+x,
+ and was bound thither againe, was cast away 
+ sunk in the riuer of 
+Thames
+ a little below 
+Grauesend,
+ at 
+ a place called 
+Shoo∣berie Nasse,
+ the masters name of hir was 
+Iohn Loue.
+
+
+Another great ship of 
+London
+ called the 
+Hermit,
+ of the burden of seuenscore tuns or thereabouts, being bownd from 
+Lon∣don
+ into 
+Cornwall
+ for ti
+, the owner of her being in her, whose name was master 
+Goodlad,
+ a man sufficiently knowne for his credit and sufficiencie in Nauigation, and one Master 
+Wolfe
+ being with him as master of the said ship, hauing certain passengers abord with them; they were all most miserably drowned in the brinish waues of the merciles sea, and the ship beaten in peeces against the hard re∣morceles rockes, where the wind & seas did driue the liueles corses vpon the sands
+
+ where as it is 
+, was a woman, who with a young childe of hers was drowned in the company, who was takē vp on the shore with her childe in her armes: for being the naturall li∣uing mother of it, the shewed being dead (in spight of death) a good pattern of af∣fectionate and motherly loue.
+
+
+A shippe belonging to a towne in 
+Corn∣wall
+ called 
+L
+o,
+ of the burden of threescore run, laden with salt fish, was cast away and shake in the West part of 
+England
+ at a place called 
+Scilla,
+ or neere thereabouts, on the 2
+. of December last, 1612.
+
+
+A little Barke of 
+Fawmouth
+ of some fiue and thirty tun, was beaten on the 
+Ile of Wight
+ and cast away, the same day afore∣saide.
+
+
+And it is reported for certainty, that vpon all the shores and sea sands along the coast of 
+Pickardy
+ in 
+France
+ neere 
+Cal∣lice,
+ and so along towardes the afore∣saide (place of Saint 
+Iohns
+) doe floate
+
+ and he 
+ 
+he s
+ innumerable mul∣titudes of drowne carkases, some say more, and some lesse, but it is crediblie in formed that eleuen 
+ twelue hundred 
+ the least.
+
+
+Moreouer the tide b
+ate belonging to 
+Greene Hith
+ in 
+Kent,
+ was by force of wea∣ther sunk, and three passengers drownd, and much goodes lost on the 30. of De∣cember last.
+
+
+To speake of the harmes in particu∣lar that is done amongst poore water mens boates and 
+ (betweene 
+Graue send
+ and 
+Windsor
+) were a tedious peece of work, but this I know, that ma∣ny of them are much hindered by the losse and splitting of their boates and all of them generally haue had a worser time of it then the great frost.
+
+
+I omit to speak in particular of diuers persōs; that are reported to lie scattered & drawned on the coasts of this kingdome in diuers and sundry places, & all alongst
+
+ the coasts of 
+France
+ 
+ th
+ L
+ Coun∣treyes, with 
+Ireland, Scotland,
+ and the Iles adiacent: all which as soone as I can get true information of, I will cause to bee published. Besides I speake not of in∣numerable damages, by the sinking of certaine cole-ships, being bound from 
+Newcastle
+ to 
+London,
+ al which I wil here∣after diuulge. And now leauing the sea, let vs treat a little of the lād harmes that are done now of late by these great windes.
+
+
+At the old swan in 
+Thames
+ streete neere 
+London
+ Bridge on Christmas euen was the house of one Master 
+Pyts
+ a silke dier, violently blowne downe, and in the fall did breake the roofe and tiles of another house that was ouer against it, and in the same parish in Katherine wheele al∣ley was a chimney blowne downe of one Master 
+Baits,
+ which brake down the cop of one 
+Henry Gossons
+ house a Stationer, and it fell with such a violence in the
+
+ night, that it beat through the roofe and a garret, and into a middle chamber: but God be praised it hurt no body.
+
+
+In 
+Byshopsgate
+ streete ouer against the Kings head, neere the gate, was the top of a bakers house blowne downe, his wife and he being in bed, and the maine beame of the house brake, and fell downe on the testor of their bed, and it did no more hurt, but scar them: besides chur∣ches, houses, windmils, and diuers other buildings, some blowne downe, some much defaced, which wil not be repaired without excessiue charges.
+
+
+And by reason of the great store of raine, which hath falne the high-waies are so ouerflowne, that in many places both horse and men haue beene forced to swimme in the very rode way, by which meanes the City of 
+London
+ cannot be ser∣ued with such prouision of victuals as di∣uers people were wont to bring in out of the countrey.
+
+
+
+
+Then let vs consider with our selues, in what dangerous estates wee are in when the Almighty is offended with vs, and let vs turn to the Lord through har∣ty repentance, and earnest desire of a∣mendment, and then (no doubt but God in his mercy will turne his fauourable countenance towards vs. For it is neuer too late to amend, and therefore in the feare of the Lord, let euerie one mend one: and that the fame may be accompli∣shed, I hartely desire of God for Christs sake to giue all true Christians vpright and new hearts, for Newyeeres gifts.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+THese things heereafter following were rela∣ted to me by Certaine Saylers and Countrey people, since the first were printed: and as for the truth of them I beleeue them my selfe, but I haue no authority to inforce other mens faiths, and therefore I leaue them to censure as they please.
+
+
+AS two men were Riding out in the North Contry together (being both brothers, which I know and can produce if need require) by a violent blast of winde they were ouerthrowne, and after they were risen againe, (for the space of an houre) one of them was stri∣ken blinde, but afterward his sight came to him againe.
+
+
+At a place cald 
+Layton
+ in Kent (two or three miles from 
+Greenewich
+) by a furious tempestuous storme of winde and wea∣ther,
+
+ a faire house of one Maister 
+Winters
+ was blowne downe, and in the fall, a youth of the age of 15. yeares was cri∣pled.
+
+
+These and many other fearefull and terrible iudgements God hath powred downe vpon vs, as Rods and scourges for our obstinate, wilfull, and rebellious liuing: for we (like Oxen or brute beasts, fat our selues in sinne against the day of slaughter:) & (like foolish schoole-boyes) neuer feare the Rod before wee feele it: let vs then consider our owne miserable estates how we are altogether wicked, and therfore iustly punished by that God who is altogether good, how though our faultes be as countles as the sands of the sea, or the Starres of Heauen, yet God hath as many seuerall sortes of plagues as man hath Crimes to deserue them: but the Lord in the midst of his iudgements remembers mercy, or else we should all be confounded in his heauy
+
+ displeasure: and therefore let vs thank∣fully prayse God for his mercy, that we are not cast headlong to the pitte of per∣petuall Perdition, according to our de∣serts and merits. From the which, the Lord God of his exceeding and super-abounding mercy, for his deerely beloued Sonne Iesus Christs sake to deliuer vs. To whome with the Father and the holy Ghost, three distinct persons, and one Eternall, inuisible, infinite, and Im∣mortall God, be duely rendred (of men and Angels) all Honor, Glory, praise, power, maiesty, might, and domini∣on, now and for euermore Amen.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

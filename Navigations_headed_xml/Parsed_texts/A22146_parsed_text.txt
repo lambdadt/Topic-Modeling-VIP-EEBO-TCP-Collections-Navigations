@@ -1,0 +1,150 @@
+By the King. A proclamation for restoring the ancient Merchants Aduenturers to their former trade and priuiledges
+Proclamations. 1617-08-12
+England and Wales. Sovereign (1603-1625 : James I)
+Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A22146
+
+
+
+
+STC 8555
+
+
+
+ESTC S100784
+
+
+
+
+
+99836613
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the King. A proclamation for restoring the ancient Merchants Aduenturers to their former trade and priuiledges
+Proclamations. 1617-08-12
+England and Wales. Sovereign (1603-1625 : James I)
+James I, King of England, 1566-1625.
+[2] sheets   
+
+
+[Imprinted at London :
+
+
+By Robert Barker, printer to the Kings most excellent Maiestie,
+
+
+Anno M.DC.XVII. [1617]]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Company of Merchant Adventurers in England --  Law and legislation.
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-09
+Colm MacCrossan
+Sampled and proofread
+2013-09
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+8555
+
+
+S100784
+
+
+99836613
+
+
+897
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blazon or coat of arms of the British royal family encircled by the order of the garter and topped by a rose and a thistle
+
+
+HONI SOIT QVI MAY Y PENSE
+
+
+ ❧ 
+By the King.
+ ❧ A Proclamation for restoring the ancient Merchants Aduenturers to their former Trade and Priuiledges.
+
+
+W
+Hereas heretofore Wee declared Our desires to haue
+ brought to passe as a principall worke of Our times, the Manu∣factures of Dying and Dressing of Broad-cloath within this Realme, and to that end did publish Our seuerall Proclamations, the one 23. 
+Iulij Anno
+ 12. of Our Reigne, the other 2. 
+Decembr.
+ fol∣lowing, for the incouragement of such of Our Subiects as then vndertooke to set vp and manage the said Trade; But finding that time discouereth many inhabilities, which cannot at first be seene, and being willing to haue it knowne to all Our louing Subiects, that We intend not to insist and stay longer vpon specious and faire shewes, which produce not the fruit Our acti∣ons doe euer aime at, which is the generall good of this Our State and Kingdome: Where∣fore perceiuing that the former grounds proposed to Vs, by the Vndertakers of that worke, consisted more in hopes then in effects; and finding the worke it selfe to bee too great to bee brought to passe in any short time, by reason of the many difficulties accompanying the same, and that as the State of Trade now stands, there will be greater losse in the Cloth-making of the Kingdome, then gaine in the Dying and Dressing thereof, which Wee may not suffer, the commoditie of Broad-cloth being one of the principall Dowries of this Our State, and which hath brought great wealth and honour to the same; And hauing the experience of many ages to ground Our selues vpon, that the ancient Company of the Merchants Ad∣uenturers haue euer managed their Trade, as with profite to the Common wealth, so with much praise to their Company, in taking off and venting the Cloathes of this Kingdome, whereby they deserue both grace and encouragement from Vs. Therefore no longer to withdraw Our countenance from them, but to quicken and giue a new life vnto them, Wee doe hereby signifie and declare, that We haue already restored and giuen backe vnto them, all and euery their Charters, any wise touching their Incorporation, forme of gouernment, and Trade, or any Powers, Licences, Authorities, or priuiledges concerning the same; And them haue and doe hereby settle and redintigrate in their former estate and degree to all purposes: Willing it to be knowne that none of the Charters of the said Company, were euer by Vs an∣nihilated, or by Law auoyded, but onely suspended and sequestred, till our further pleasure
+
+ knowne. And therefore we do by these presents declare, constitute, and ordaine, That the said Company of the Merchants Aduenturers shall and may from henceforth practize, and put in execution all and euery their Powers, Licences, Authorities, Priuiledges and forme of go∣uernment contained in all or any their Charters; and all vsages, holding of Courts, mee∣tings, assemblies, and all other proceedings by vertue of them or any of them, together with all the dependances, either in the parts beyond the Seas, or here within the Kingdome.
+
+
+And further, We doe hereby intimate & declare, letting it to be knowen to all forraine Prin∣ces, and States, in whose Dominions, the said Merchants Aduenturers now haue, or here∣after shall haue any recourse in the exercise of their Trade: That (notwithstanding any for∣mer signification of Our pleasure otherwise) We haue againe fully, and really enabled them to maintaine, hold, possesse, and enioy all and euery their former Immunities, Rights, Powers, and Priuiledges in any forraine parts beyond the Seas, with free libertie & power as heretofore, to deale, contract, and agree with any Prince, State, or City in Germany, or the Low-countries, for and touching any further, or other priuiledges to be had and obtained in those parts touching their Trade: Hereby giuing, granting, and allowing, vnto the said Merchants Aduenturers, from time to time, free liberty and choice to make and appoint such and so many places of their residence in forraine parts, as to them shall seeme conueni∣ent; And those at their pleasure to change and remooue, as shall and may stand best with their commoditie and profite. And, that the said Merchants Aduenturers, may henceforth goe on and exercise their said Trade, with better confidence and encouragement, which is best effected by remouing and discharging all impediments: Wee doe by these presents straightly prohibit, forbid, constitute, and ordaine, That from henceforth no Interloper, nor other person or persons, not free of the said Company, presume in any wise to meddle, or intromit directly, or indirectly in the Trade, or Priuiledges of the said Company, vpon paine of Our high Indignation, and such other paines, and penalties, as by the Charters of the said Com∣pany, or any of them are or shall be prouided for transgres
+rs in that kind. Which that it may haue the better effect, Wee doe hereby straightly charge and command all Maiors, Shiriffes, Bailiffs, Constables; especially all Customers and Searchers, and other Officers of Our Customes, aswell in the Port of London, as in all other Ports of this Kingdome; That they be aiding and assisting to the said Company, and the Officers thereof in the execution of their said Charters, and that they nor any of them in their seueral places, passe out any goods or Merchandizes into any the parts of Germanie, or the Low-countries, nor into any other parts beyond the Seas, where the said Company now haue, or hereafter shall haue any priui∣ledges granted vnto them contrary to the true meaning of their said Charters, vpon paine of Our displeasure, and the losse of his or their Offices that shall offend therein.
+
+
+Giuen at Our Court at Ashton
+ 
+the
+ 12. 
+of August in the fifteenth yeere of Our Reigne of England, France and Ireland, and of Scotland the one and fiftieth.
+
+
+God saue the King.
+
+
+
+
+
+
+
+
+
+
+¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. ANNO M.DC.XVII.
+
+
+
+
+
+
+
+
+

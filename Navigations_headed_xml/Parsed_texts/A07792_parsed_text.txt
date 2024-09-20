@@ -1,0 +1,2684 @@
+New-England. Or A briefe enarration of the ayre, earth, water, fish and fowles of that country With a description of the natures, orders, habits, and religion of the natiues; in Latine and English verse.
+Morrell, William, fl. 1625.
+Approx. 46 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2004-03 (EEBO-TCP Phase 1).
+A07792
+
+
+
+
+STC 18169
+
+
+
+ESTC S110054
+
+
+
+
+
+99845672
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+New-England. Or A briefe enarration of the ayre, earth, water, fish and fowles of that country With a description of the natures, orders, habits, and religion of the natiues; in Latine and English verse.
+Morrell, William, fl. 1625.
+[6], 24, [2] p.   
+
+
+London :
+
+
+Imprinted by I. D[awson],
+
+
+1625.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+New England --  Description and travel --  Poetry --  Early works to 1800.
+2003-04
+TCP
+Assigned for keying and markup
+2003-05
+Aptara
+Keyed and coded from ProQuest page images
+2004-01
+Judith Siefring
+Sampled and proofread
+2004-01
+Judith Siefring
+Text and markup reviewed and edited
+2004-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18169
+
+
+99845672
+
+
+10588
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New-England.
+
+OR
+
+A BRIEFE
+ENARRATION
+OF THE AYRE,
+Earth, Water, Fish and
+Fowles of that Country. WITH
+A DESCRIPTION
+of the Natures, Orders, Habits,
+and Religion of the 
+Natiues;
+IN
+
+Latine and English Verse.
+
+
+Sat brevè, si sat benè.
+
+
+LONDON,
+
+Imprinted by 
+I. D.
+
+1625.
+
+
+
+
+
+
+
+
+
+
+TO
+THE RIGHT
+HONOVRABLE
+THE LORDS, AND THE
+Right Worshipfull Knights and
+Gentlemen; Adventurers for
+NEVV-ENGLAND.
+
+
+W
+Hat your favourable im∣ployments
+haue taught
+me to obserue, I presume
+here briefly to relate I
+hope it will be accepta∣ble,
+because innocent,
+though nothing excel∣lent.
+
+Vera, non mira cam,
+ assured that with your
+more acurate judgements. 
+Plus valebit vera oratio
+quam carminis candida & maxime compta in singulos pe∣des
+commensuratio.
+ Censure at the least would be
+my best sentence, if I should answer such ser∣vice
+with a 
+NIHIL DICIT.
+ VVhen in
+contempt of Envy, I may present your Coun∣cell
+
+
+with an 
+OMNE BENE,
+ at least, 
+Certâ
+spe boni,
+ if the three noble Mistresses of Monar∣chies,
+
+Pietas, Pecunia,
+ and 
+Potentia,
+ royally vn∣dertake
+and resolutely continue constant fa∣vourers
+to their well ordered and sweetly s
+i∣tuated
+
+Colonies.
+ Without these, at least the two
+latter (I suppose vnder favour) the 
+Spanyard
+ and
+
+Hollander
+ had 
+d Graecas callendas
+ raysed to such
+sweet tones their westerne and easterne flou∣rishing
+Plantations. But 
+illorum postpono mea ser
+a
+ludo.
+ The keys of Kingdomes, judicious States∣men
+are best able to open and explicate these
+closets and secrets of state. I may admire, but
+scarce without offence obserue such princely
+attempts and royall secrets. Yet giue me leaue
+to you worthy favourers of 
+Colonies,
+ as in armes
+and architecture to be your remembrancer,
+first to accompt, and then to accomplish: so
+power and abilitie shall crowne your procee∣dings
+with happie perfections. Beyond these
+I presume nothing, onely wishing every per∣son
+in his severall sphere such happie motion
+as may crowne him with immortall perfec∣tion.
+
+
+Your Honors and Worships servant, late Preacher with the
+Right Wor: Cap: 
+Rob: Gorge
+ late Governour of 
+New-England.
+WILLIAM MORRELL.
+
+
+
+
+
+
+
+
+VNDERSTANDING READER;
+
+
+VVHen my melancholly leasures first conceived these
+rude heroiks, my consciou
+ 
+Muse
+ censured them 
+
+tender-sighted to be admitted the common lig
+
+Induced by some ki
+de friends, who are truely stu∣dious
+of the publiqu
+ good, I was vnwilli
+gly willing to adve
+ure
+them the publique censure, desirous, I ingeniously confesse: (and so I
+professe my selfe ever) in my best endevours, to further such royall
+and religious imployments: if my po
+re iudgement can ass
+redly ob∣serue
+p
+tie to be one prime end of plantation, and the vnder-taking
+probable to prosper. If (Gentle 
+Reader
+) these lyne
+ please the
+,
+pervse and vse vs gently: if not, 
+Parce vati.
+ You know that 
+Ex
+quó-libet ligno non fit M
+curius.
+ Besides, error in Poefi
+ is
+lesse blemish than in Historie, Experienc
+ cannot 
+ ignorant,
+much lesse innocent, hav
+ gsee
+e and suffered. I should delude o∣thers
+
+vanâ spe,
+ or 
+fal
+o gaudio.
+ What can be expected from false
+Relations, but vnhappie proceedings, to the best intended, and most
+hopefull Colonies. So that want of provisions, and right informati∣on,
+begets in the distract
+ planter n
+thing but mutinies, fearefull
+execrations, and sometimes miserable interitures. But of all such
+perchance hereafter. These were at this time beyond my intent. I
+onely non and ever desire that my 
+est incense may for ever waite vp∣on
+all truely zealous and religious planters and adventurers, who
+seri
+sly endevour the dilat
+ug of Christs kingdo
+, in the propaga∣ting
+of the Go
+pell, and so advise
+ly vndertake so weightie and so
+worthie a Worke, as that they and theirs may paralell these wor∣thies
+of the world in all externall, internall, and eternall abundances.
+Farewell with this 
+ 
+Mem
+ 
+
+without an equiv
+lent abilitie, produce nothing but losse, 
+,
+oppro
+ries, and imperfectio
+s.
+
+
+Thine if thy owne,
+
+W. M.
+
+
+
+
+
+
+
+
+¶Lectori.
+
+
+Candide si placidum dederis Philomuse Camoenae
+
+
+Intuitum: trifti dulce levamen erit.
+
+
+Optima mellifluis modulari carmina nervis
+
+
+Illud Apollineis cantibus euge melos.
+
+
+Mellea coeleste est effundere carmina munus,
+
+
+Frustrà de sicco pumice quaeris aquam,
+
+
+Dicito musa probè, brevitèr, simul, ordine, perge:
+
+
+Gloria summa 
+ibi dicere vera: Vale.
+
+
+Gul: M.
+
+Perlege: pars vltima, prima.
+
+
+
+
+
+
+
+
+
+
+
+
+¶NOVA ANGLIA.
+
+
+HActenùs ignotam populis ego carmine primus,
+
+
+Te Nova, de veteri cui contigit Anglia nomen,
+
+
+Aggredior trepidus pingui celebrare Minervâ,
+
+
+Fer mihi numen opem, cupienti singula plectro
+
+
+Pandere veridico, quae nuper vidimus ipsi:
+
+
+Vt brevitèr vere{que}, sonent modulamina nostra,
+
+
+Temperiem coeli, vim terrae, munera ponti,
+
+
+Et varios gentis mores, velamina, cultus.
+
+
+Anglia faelici meritò Nova nomine gaudens,
+
+
+Saevos nativi mores pertaesa Coloni,
+
+
+Indigni penitùs populi tellure feraci,
+
+
+Maesta superfusis attollit fletibus ora,
+
+
+Antiquos precibus flectens ardentibu
+ Angl
+s,
+
+
+Numinis aeterni faelicem lumine gentem
+
+
+Efficere: aeternis quae nunc peritura tenebris.
+
+
+Gratum opus hoc Indis, dignum{que} pijs oput Anglis,
+
+
+Angelicae quibus est naturae nomen in vmbra:
+
+
+Caelica vt extremis dispergant semina terris.
+
+
+Est locus occiduo procul hinc spatiosus in orbe,
+
+
+Plurima regna tenens, populis{que} incognitus ipsis:
+
+
+Faelix frugiferis sulcis, simul aequore faelix:
+
+
+Praedis perdives varijs, & flumine lives,
+
+
+Axe satis calidus, rigido{que} a frigore tutus.
+
+
+Proximus aethereo socius volitabilis igni
+
+
+Aer, natali saliens levitate; calore
+
+
+Temperie{que} satis faelicibus, humidus ante
+
+
+Omnia principia, innatâ virtute coactus
+
+
+Sistere diffi
+ilè in propri
+ regione, volenti
+
+
+Alterius motu penetrans loca, inania complens
+
+
+Vi tenuj: foeae regio quae proximae terrae
+
+
+Solis ab igne, poli motu, terrae{que} vaporum,
+
+
+Vnde{que} attractu calet hinc, hinc humida restat,
+
+
+Hinc fit temperies: fit & hâc Nova terra beata:
+
+
+Est aliquandò tamèn rapidis subiecta procellis,
+
+
+Quae sceleri subito{que} solum{que} salum{que} minantur,
+
+
+Flamine corripere, & terras diffundere caelis:
+
+
+Mox tamèn Aeolio compressis carcere ventis
+
+
+Omnia continuò remanent sub sidere tuta.
+
+
+Indè suis vicibus luctantes murmure venti
+
+
+Qua data porta ruunt, quatientes turbine terras.
+
+
+Magna pare
+s tellus, reram communis a
+umna,
+
+
+Frigida sicca gravis subsidens vallibus imis,
+
+
+Montibus extendens nemerosa cacumina celsis
+
+
+Longiùs intuitu nautis pergrata: feraci
+
+
+Irriguo{que} solo l
+tanti messibus aequis
+
+
+Optima frugiferis mandantes semina suleis.
+
+
+Agricolis quam terra ferax, quae grata ministrat
+
+
+Assiduis alimenta viris: nullo{que} serenti
+
+
+Dulcia d
+t variae naturae mora nuces{que}
+
+
+Dissimi
+les, placidas tumidas{que} in vitibus vuas
+
+
+Innumeris, mixtas redolentes floribus herbas
+
+
+Multigenis, morbo loesos medicare potentes
+
+
+Artus, radices similis virtutis amaenas.
+
+
+Dimine gramineo nux subterranea suavis
+
+
+Serpit humi, tenui
+ flavo sub cortice, pingui
+
+
+Et placido nucleo nivei candoris ab intra,
+
+
+Melliflua parcos hilarans dulcedine g
+ustus,
+
+
+Donec in aestivum Phoebus conscenderit axem.
+
+
+His nupeis lautè versutus vescitur Indus:
+
+
+His exempta fames segnis nostratibus omnis
+
+
+Dulcibus his vires revocantur victibus almae.
+
+
+Arboribus dives vernantibus, est quo{que} tellus
+
+
+Cedris, & fagis, Iuglandibus & Iovis altâ
+
+
+Arbore, fraxineâ, gummosis pinibus, alnis,
+
+
+Iuniperis, multis{que} alijs tum gramine & herbis,
+
+
+Pascua quae prebent animalibus, vndè fugaces
+
+
+Pinguescunt cervi, vulpes vrsi{que} lupi{que}
+
+
+Linces, & fibri, musci, lutra{que} politae
+
+
+Pellibus eximij pretij, volucres{que} saporis
+
+
+Perplacidi variae, pelli{que} grues{que} palumbes,
+
+
+Megulus & Phasianus, anas, cignus Iovis ales,
+
+
+Penelopes{que}, columbae, perdix, accipitres{que},
+
+
+Et capitolij aves variae tum carne saporâ,
+
+
+Tum pennis placidè decorantibu
+ arte canautas:
+
+
+Equibus ornatu capitis, fit plumula digna
+
+
+Vertice sublimi, quibus ad renovanda levanda,
+
+
+Languida perplacidum completur membra cubile.
+
+
+Intima frugiferae vix cognita viscera terrae
+
+
+Praetereo: artifices gremium serutentur opimum.
+
+
+Dulce solum caelum{que} vides en terra serenis,
+
+
+Perspicuis, placidis, levibus, liquidis{que} beata
+
+
+Fontibus, & fluvijs facili quaerentibus Eurum▪
+
+
+Motu, praecipiti cursu post flumina nimbos▪
+
+
+In mare decurrunt stagnis{que} paludibus Indis,
+
+
+Aucupio placidis benè, piscatu{que} colonis.
+
+
+Grata solum, caelum{que} viris alimonia praebent.
+
+
+Devia quam dives regio haec? benedicta sereno
+
+
+Aere, faecundis glebis, faelicibus vndis.
+
+
+Prospera tranquillus contingit littora portus
+
+
+Altus, apertus, vbi valeant se condere naves▪
+
+
+I
+vitis. ventis, securae, rupe & arenâ▪
+
+
+Aequora multiplices proebent tranquilla marina
+
+
+Temporibus solitis praedas utentibus hamis:
+
+
+Ha
+ices, fagros, scombros cancros{que} locustas,
+
+
+Ostrea curvatis conchis, conchas{que} trigones
+
+
+Cete eti
+ rhombos, sargos, cum squatina asellos.
+
+
+His n
+ves vastas o
+erat piscator honestus:
+
+
+His mercator opes cumulat venerabilis almas,
+
+
+His pius ampla satis faciat sibi lucra colonus:
+
+
+Deni{que} divitibus quibus intima cura suorum
+
+
+Divitie & pietas, licet hisce beare colonos.
+
+
+Digna viris patria endignis, vbi maenia digna.
+
+
+Principibus claris facilè est fabricare columnis
+
+
+Exce
+s, cheu nunc tota cupidinis antrum.
+
+
+Sunt etenim populi minimi sermonis, & oris
+
+
+, risus{que} parùm savi{que} saperbi,
+
+
+Constricto nodis hirsuto crine sinistro,
+
+
+Imparibus formis tondentes ordine villos,
+
+
+Mollia magnanimae peragentes otia gentes,
+
+
+Arte sagittiferâ pollentes, cursibus, armis
+
+
+Astutae, recto, robusto corpore & alto,
+
+
+Pellibus indu
+tae cervinis, frigora contra
+
+
+Aspera, cum placeant conversis flamina pelles
+
+
+Obvia ut impellant, c
+lefacto pelle lacerto
+
+
+Dextro, quo facilis sit flexile sumere 
+ornu,
+
+
+Omnia ut extinguant subitò in surgentia, & ipsos
+
+
+Salvos desendant, inducto tergore corpus
+
+
+Villoso, levitèr miris se singula formis
+
+
+Texta ligant, molles cingunt genitalia pelles,
+
+
+Grande femur caligae cervinae cura{que} longa
+
+
+Exornant, plantas conservat calceus aptus,
+
+
+Hos taemen exutos curant aliundè reversi
+
+
+Depositos{que} suosealamos, arcu
+{que} sonantes,
+
+
+Fessa{que} constrato sua stramine membra soluti
+
+
+Tectis instar harae, dextrè loca verna petentes,
+
+
+Adveniente hiemis g
+aciali tempore saev
+,
+
+
+In{que} suam patriam redeuntes sole benign
+
+
+Calfaciente leves artus fervore, revisa
+
+
+Vt pereant inimica, solo{que} nocentia, frugem
+
+
+Det{que} solum solitam, rutilis dant ignibus arva.
+
+
+Horum non
+ulli regali nomine gaudent,
+
+
+Et consorte tori prognatâ sanguine tali,
+
+
+Regibus undè pari fuerit virtute propago,
+
+
+Rectores faciens regali prole parentes:
+
+
+Inferiore sibi capientes stirpe maritas,
+
+
+Progeniem timidam credunt, cordis{que} socordis
+
+
+Nec solij, sceptrive sui fore posse capacem.
+
+
+Rex tenet imperium, p
+nas & pramia cunctis
+
+
+Constituit, dat iura; senes, viduas{que} pupillos
+
+
+Et miseros curat, peregrinos molitèr omnes
+
+
+Excipit hospitio semper, tamen indè (tributi
+
+
+N
+mine) primitias rerum partem{que} priorem,
+
+
+Ven
+tu captae praedae capit, at{que} requirit.
+
+
+Cingitur obsequio regis plebs omnis, & ultrò
+
+
+Arma capit, forti{que} facit sua pralia dextrâ
+
+
+Pallida lethiferis, faciens praecordia telis
+
+
+Hostium, & expugnans sceleratis fata sagittis.
+
+
+Insupèr 
+rnavit quorum Bellona cor
+llâ
+
+
+Tempera, praesidio, vitâ, virtute virili,
+
+
+Regibus incedunt comites tutamine certo.
+
+
+His reges capiunt consultis cautiùs arma;
+
+
+C
+utiùs exactis faciunt his fadera bellis:
+
+
+Eloquijs horum concedere regibus omnis
+
+
+Subsidium, quodcun{que} valet, plebs alma movetur,
+
+
+Mundi acie tantùm semel vndè profecta reversâ.
+
+
+Nec priùs excerce
+ crudelia paruulus arma,
+
+
+Qu
+ patiens armorum vt sit sibi pectus, amaram
+
+
+Herbis compositam 
+eramaris sorbiat vndam,
+
+
+Vs{que} in sanguineum vertatur lympha colorem,
+
+
+Vndi{que} sanguinea ex vomitu rebibenda tenellis.
+
+
+Vs{que} va
+ent m
+ribus: sic fit natura parata
+
+
+Omnia dura pati: puer haec cui potio grata▪
+
+
+ctore fit valido cuncta expugnare pericl
+.
+
+
+Magnanimis medici comites virtute periti
+
+
+Artibus 
+mpericis, diro contamine, tactu,
+
+
+Fi
+tu, sudore, & percusso pectore palmis
+
+
+Duritèr expassis proprio, pallentia eorum
+
+
+Corpora resti
+unt facili medicamine sana:
+
+
+Vu
+ner
+ sanandi si nulla potentia verbis,
+
+
+Artibus out herbis, confestim spiritus illi
+,
+
+
+Impius humanâ specie respondet iniquis
+
+
+Reddidit iratus Deus artus morte solutos
+
+
+Moribus: undè dolor nullis medicabilis herbis.
+
+
+Deni{que} sunt populi fungentes munere iusso,
+
+
+Instar servorum, quacun{que} subire parati
+
+
+Ardua, consilijs subiecti, foemina, fumus,
+
+
+Indicus ad certos inhibetur, & omnibus annos.
+
+
+Poste
+ liberior concessa potentia cunctis,
+
+
+Connubio multas sibi coniunxisse maritas:
+
+
+Ditior est plures nuptas qui duxerit omnis,
+
+
+Viribus, & natis: nati quia summa parentum
+
+
+Gaudia, descessus quorum (nam mortis hiatu
+
+
+Compressos lachrimis decorant) longo{que} gravi{que}
+
+
+Commemorant luctu, tumulis{que} cadivera mandant.
+
+
+A genibus subrecta cavis pallentia cuncta;
+
+
+ opibus tumulis, Titanis ad ortus,
+
+
+Attollunt facies, ad quem post tempora longa
+
+
+Venturos credunt omnes, vbi praemia digna
+
+
+Imposita accipient, fuerint{que} salutis ad hortos
+
+
+Elysios vecti, miranda{que} gaudia, summis
+
+
+Exornata bonis: haec spes post funera gentis.
+
+
+Est alia vtilitas, multis vxoribus arva,
+
+
+Valdè onerata tenent Cerea
+ibus, omnis eorum
+
+
+Nocte die{que} cib
+ gaudet quasi natus vt omnes
+
+
+Illicò consumat fruges, su
+ grana{que} (Marte
+
+
+Aripiente man
+ penetrantia tela) minutis,
+
+
+Abdita speluncis tutis, & ab hostibus, hoste
+
+
+Decedente suo subitò repetenda reponit.
+
+
+Artibus Hybernus pr
+duxit temporis olim.
+
+
+Multum Marte, levis, virsutus, durus, inermis,
+
+
+Difficilè edomitus done
+ secreta latebant
+
+
+Iudicia, at{que} doli taciti: fit & arte supers
+s.
+
+
+Saepiùs hac Indus, victoris victor & ingens,
+
+
+Faemina praetereà vultu plerum{que} ven
+sto,
+
+
+Multos irridens risus, linguam{que} loquacem;
+
+
+Iudicio{que} gravi, genio placido{que} virili
+
+
+Pectore, perrecta corpus per & omne statur
+
+
+Nervis conexâ validis, manibus{que} tenellis,
+
+
+Pollice pergracili, digitis faelicitèr altis.
+
+
+Inclita diversis faciendo est gramine corbes
+
+
+Contextos formis, vario{que} colore tapetum.
+
+
+Stramine compositum tenui, miris{que} figuris.
+
+
+His decor eximius color est contrarius albo:
+
+
+Ortibus vndè suis per totum candidus artus
+
+
+Et piceo facies est 
+bfucata colore.
+
+
+Consuetudo tamen populis his faemina vt omnis,
+
+
+Omnia perficiat duri mandata laboris:
+
+
+Arva fodit manibus, committit semina terris,
+
+
+Vt{que} seges crescit levibus fulcitur ab illa,
+
+
+Continuò terris, segitem sarrit{que} resarit,
+
+
+Tergore portat onus, victum{que} labore paratum,
+
+
+Et brevitèr peragit mulier conamine prompto,
+
+
+Omnia ad humanam spectantia munera vitam.
+
+
+Hinc Anglos Indi stolidos dixere maritos,
+
+
+Cum videant operis ferventes omnibus illos,
+
+
+Attamèn uxores omnem deducere vitam
+
+
+Molli, vel nullo fungendi munere dextrâ.
+
+
+Quamlibet ob noxam manet altâ mente reposta
+
+
+Invidia & dirum gelido sub pectore vulnus.
+
+
+Vndè fugit sceleri pede fortia fortis in arma
+
+
+Hostis, & indè sui laetans fit sponsa cubilis.
+
+
+Praeda satis faelix; hinc victa iniuria mentis,
+
+
+Deni{que} cuiusdam cultores numinis omnes
+
+
+Sunt, cui primitias reddunt, quoties{que} necesse▪
+
+
+Fortia discruciat miserabile pectora, luctu
+
+
+Acri{que} horrendis clamoribus aethera complent.
+
+
+Omnia principio fecisse agnoscitur illis,
+
+
+Vnum principium, primos crevisse parentes,
+
+
+Vnum terrarum dominum, consorte; duobus
+
+
+His mortale genus divam sumpsisse figuram:
+
+
+Quorum progenies illi, quo{que} stirpe racemi.
+
+
+Insupèr hunc dominum dominis posuisse creatis,
+
+
+Optima iustitiae sacrae praecepta docenda,
+
+
+Sacro perpetuis aetatibus omnia iussu.
+
+
+Hactenùs est omnis longaevae litera genti
+
+
+Vix audita, viris penitus{que} incognita cunctis.
+
+
+Fas, non quid fasti: falsum non, faedera curant:
+
+
+Lumine naturae summi sunt iuris amantes
+
+
+Promissi{que} dati; tanti sunt faedera genti.
+
+
+Nulla fides populis tamèn est capiente sagittas▪
+
+
+Marte feras, fueris 
+isi saevis fortior armis.
+
+
+Litera cuncta licet latet hos, modulamina quaedam
+
+
+Fistulae disparibus cala
+s facit, est & agrestis
+
+
+Musica vocis ijs, minimè iucundi, sonoris
+
+
+Obtusis{que} sonis ob
+ectans pectora, sensus,
+
+
+At{que} suas aures, artis sublimis inanes.
+
+
+Omnes, praesertim multos provectus in annos,
+
+
+Indus, quid coeli, cursus, quid sidera, vires
+
+
+Sunt, benè concipiunt animis, coelum{que} futurum:
+
+
+Quâ mihi notitiâ latet, aut quo numine certo.
+
+
+Festa tamen gens nulla nisi Cerealia servat:
+
+
+Genti nulla dies sancto discrimine nota:
+
+
+Annus & ignotus, notus tamen est bene mensis,
+
+
+Nam sua lunari distinguunt tempora motu,
+
+
+Non quot Phoebus habet cursus, sed quot sua coniux
+
+
+Expletos vicibus convertat Cinthia cursus:
+
+
+Noctibus enumerant sua tempora, nulla diebus,
+
+
+Mos{que} dijs Indis est inservire duobus,
+
+
+Quorum mollis, amans, bona dans, inimica repellens.
+
+
+Vnus, amore bonum venerantur: at invidus alter
+
+
+Dires effundens cum turbine, fulgura, nimbos,
+
+
+Afficiens{que} malis varijs, morbis{que} nefandis,
+
+
+Et violentis: hunc gelidà formidine adorant.
+
+
+Naturae gens luce suae sublimia tentat,
+
+
+Agnoscens praecepta dei pia singula summi,
+
+
+Excepto de ducendis vxoribus vno,
+
+
+Affectis etenim morbis vxoribus 
+llis,
+
+
+Vel gravidis, alijs opus est vxoribus illis.
+
+
+Heù quam dissimilis naturae, gratia vera,
+
+
+Humina & ratio. Sublimia gratia vitae
+
+
+Aspicit aeternae fidei bonitate potita:
+
+
+Enervata suis ratio at virtutibus aequis.
+
+
+Illi nulla manet verae scintilla salutis,
+
+
+Talia quis fando lachrimas non fundit amaras,
+
+
+Divinae lucis, virtutis vis{que} capacem
+
+
+Gentem▪ coelestis, verae pietatis inanem.
+
+
+Flebilis ardentes mitti Phlegetontis in undas.
+
+
+Aspicis effigiem terrae, levis aetheris, vndae:
+
+
+Aspicis antiquae mores, v
+lamina, gentis:
+
+
+Aspicis optatos, hilarantia littora, portus:
+
+
+Aspicis his modicum faelicitèr (Ente faventi
+
+
+Caelesti caeptis) laetantia singula votum.
+
+
+Si mea Barbaricae prosint conamina genti:
+
+
+Si valet Angli
+nis inco
+pta placere poesis:
+
+
+Et sibi perfaciles hac reddere gente potentes,
+
+
+Assiduos{que} pios sibi persuadere Colonos:
+
+
+Si doceat primi vitam victum{que} parentis
+
+
+Angli si fuerint Indis exempla beatè
+
+
+Vivendi, capiant quibus ardua limina coeli:
+
+
+Omnia succedunt votis: modulamina spero
+
+
+Haec mea sublimis fuerint praesagia regni.
+
+
+
+
+
+
+
+
+
+
+New-England
+ so nam'd by your Princely 
+Grace,
+
+
+Dread Soveraigne,
+ now, most humbly sues to see
+
+
+Your 
+Royall Highnes
+ in your 
+Regall
+ place,
+
+
+Wishing 
+your Grace
+ all peace, blisse, soveraignty,
+
+
+Trusting 
+your Goodnesse
+ will her state and fame
+
+
+Support, w
+ch
+ 
+goodnesse
+ once vouchsaf'd her
+name.
+
+
+
+
+
+
+
+
+If thou 
+Apollo
+ holdst thy Scepter 
+orth,
+
+
+To these 
+ numbers that's thy 
+Royall
+ worth.
+
+
+Vaine is all search in these to search that vaine,
+
+
+Whose stately style is great 
+Apolloes
+ straine.
+
+
+Minerva
+ ne're distil'd into my 
+Muse
+
+
+He
+ sacred droppes, my pume
+se wants all iuce.
+
+
+My 
+Muse
+ is plaine con cise her fam's to tell
+
+
+In truth, and method. Loue, or leaue: Farewell.
+
+
+
+
+
+
+
+
+
+
+NEVV-ENGLNAD.
+
+
+F'Eare not poore Muse, 'cause first to sing her fame,
+
+
+That's yet scarce known, vnlesse by Map or name;
+
+
+A Grand-childe to earths Paradize is borne,
+
+
+Well lim'd, well nerv'd, 
+aire, rich, sweete, yet forlorne.
+
+
+Thou blest director so direct my V
+rse,
+
+
+That it may winne her people, friends commerce;
+
+
+Whils
+ her sweet ayre, rich soile, blest Seas, my penne
+
+
+Shall blaze, and tell the natures of her men.
+
+
+New-England,
+ happie in her new true stile,
+
+
+Wearie of her cause she's to sad exile
+
+
+Expos'd by her's vnworthy of her Land,
+
+
+Intreates with teare
+ 
+Great Brittaine
+ to command
+
+
+Her Empire, and to make her know the time,
+
+
+Whose act and knowledge onely makes divine.
+
+
+A Royall worke well worthy 
+Englands
+ King,
+
+
+These Natiues to true truth and grace to bring.
+
+
+A Noble worke for all these Noble Peares
+
+
+Which guide this State in their superiour spheres.
+
+
+You holy 
+Aarons
+ let your Sensors nere
+
+
+Cease burning, till these men 
+Iehovah
+ feare.
+
+
+Westward a thousand leagues a spatious land,
+
+
+Is made vnknowne to them that it command.
+
+
+Of fruit
+ull mould, and no lesse fruitlesse maine
+
+
+Inrich with springs and prey high-land and plaine.
+
+
+The light well tempred, humid ayre, whose breath
+
+
+Fils full all concaues betwixt heaven and earth,
+
+
+So that the Region of the ayre is blest
+
+
+With what Earths mortals wish to be possest.
+
+
+Great 
+Titan
+ dartes on her his heavenly rayes,
+
+
+Whereby extreames he quells, and overswaye
+.
+
+
+Bl
+st is this ayre with what the ayre can blesse;
+
+
+Yet frequent ghusts doe much this place distresse▪
+
+
+Here vnseene ghusts doe instant on-set giue,
+
+
+As heaven and earth they would together driue.
+
+
+An instant power doth surprize their rage,
+
+
+In their vast prison, and their force asswage.
+
+
+Thus in exchange a day or two is spent,
+
+
+In smiles and frownes: in great yet no content.
+
+
+The earth grand-parent to all things on earth,
+
+
+Cold, dry, and heavie, and the next beneath
+
+
+The ayre by Natures arme with low discents,
+
+
+Is as it were intrencht; againe ascents
+
+
+Mount vp to heaven by 
+Ioues
+ omnipotence,
+
+
+Whose looming greenesse ioyes the Sea-mans sence.
+
+
+Invites him to a land if he can see,
+
+
+Worthy the Thrones of stately soveraigntie.
+
+
+The fruitfull and well watered earth doth glad
+
+
+All hearts; when 
+Flora's
+ with her spangles clad,
+
+
+And yeelds an hundred fold for one,
+
+
+To feede the Bee and to invite the drone.
+
+
+O happie Planter if you knew the height
+
+
+Of Planters honours where ther's such delight;
+
+
+There Natures bounties though not planted are,
+
+
+Great store and sorts of berries great and faire:
+
+
+The Filberd, Cherry, and the fruitfull Vine,
+
+
+Which cheares the heart and makes it more divine.
+
+
+Earths spangled beauties pleasing smell and sight;
+
+
+Objects for gallant choyce and chiefe delight.
+
+
+A ground-Nut there runnes on a grassie threed,
+
+
+Along the shallow earth, as in a bed,
+
+
+Yealow without, thin, filmd, sweete, lilly white,
+
+
+Of strength to feede and cheare the appetite.
+
+
+From these our natures may haue great content,
+
+
+And good subsistance when our meanes is spent.
+
+
+With these the Natiues doe their strength maintaine
+
+
+The Winter season, which time they retaine
+
+
+Their pleasant vertue, but if once the Spring
+
+
+Returne, they are not worth the gathering.
+
+
+All ore that Maine the Vernant trees abound,
+
+
+Where Cedar, Cypres, Spruce, and Beech are found.
+
+
+Ash, Oake, and Wal-nut, Pines and Iunipere;
+
+
+The Hasel, Palme, and hundred more are there.
+
+
+Ther's grasse and hearbs contenting man and beast,
+
+
+On which both Deare, and Beares, and Wolnes do feast.
+
+
+Foxes both gray and blacke, (though blacke I never
+
+
+Beheld,) with Museats, Lynces, Otter, Bever;
+
+
+With many other which I here omit,
+
+
+Fit for to warme vs, and to feede vs fit.
+
+
+The Fowles that in those Bayes and Harbours 
+eede,
+
+
+Though in their seasons they doe els-where breede,
+
+
+Are Swans and Geese, Herne, Phesants, Duck & Crane,
+
+
+Culvers and Divers all along the Maine:
+
+
+The Turtle, Eagle, Partridge, and the Quaile,
+
+
+Knot, Plover, Pigeons, which doe never faile,
+
+
+Till Sommers heate commands them to retire,
+
+
+And Winters cold begets their old desire.
+
+
+With these sweete dainties man is sweetly fed,
+
+
+With these rich feathers Ladies plume their head;
+
+
+Here's flesh and feathers both for vse and ease,
+
+
+To feede, adorne, and rest thee if thou please.
+
+
+The treasures got, on earth, by 
+Titans
+ beames,
+
+
+They best may search that haue best art and meanes.
+
+
+The ayre and earth if good, are blessings rare,
+
+
+But when with these the waters blessed are,
+
+
+The place is compleat, here each pleasant spring,
+
+
+Is like those fountaines where the 
+Muses
+ sing.
+
+
+The easie channels gliding to the East,
+
+
+Vnlesse oreflowed, then post to be releast,
+
+
+The Ponds and places where the waters stay,
+
+
+Content the Fowler with all pleasant prey.
+
+
+Thus ayre and earth and water giue content,
+
+
+And highly honour this rich Continent.
+
+
+As Nature hath this Soile blest, so each port
+
+
+Abounds with blisse, abounding all report.
+
+
+The carefull Naucleare may a-farre discry
+
+
+The land by smell, ast loomes below the skie.
+
+
+The prudent Master there his Ship may more,
+
+
+Past winde and weather, then his God adore,
+
+
+Man forth each Shalop with three men to Sea,
+
+
+Which oft returne with wondrous store of prey;
+
+
+As Oysters, Cra-fish, Crab, and Lobsters great,
+
+
+In great abundance when the Seaes retreate:
+
+
+Tort
+ise, and Herring, Turbut, Hacke and Base,
+
+
+With other small fish, and fresh bleeding Place;
+
+
+The mightie Whale doth in these Harbours lye,
+
+
+Whose Oyle the carefull Merchant deare will buy.
+
+
+Besides all these and others in this Maine:
+
+
+The costly Codd doth march with his rich traine:
+
+
+With which the Sea-man fraughts his merry Ship:
+
+
+With which the Merchant doth much riches get:
+
+
+With which Plantations richly may subsist,
+
+
+And pay their Merchants debt and interest▪
+
+
+Thus ayre and earth, both land and Sea yeelds store
+
+
+Of Natures dainties both to rich and poore;
+
+
+To whom if heavens a holy 
+Vice-roy
+ giue,
+
+
+The state and people may most richly liue:
+
+
+And there erect a 
+Pyramy
+ of estate,
+
+
+Which onely sinne and Heaven can ruinate.
+
+
+Let deepe discretion this great worke attend,
+
+
+What's well begun forth' most part well doth end:
+
+
+So may our people peace and plentie finde,
+
+
+And kill the Dragon that would kill mankinde.
+
+
+Those well seene Natiues in gra
+e Natures hests,
+
+
+All close designes conceale in their deepe brests:
+
+
+What strange attempts so ere they doe intend,
+
+
+Are fairely vsherd in, till their last ende.
+
+
+Their well advised talke evenly conveyes
+
+
+Their acts to their intents, and nere displayes
+
+
+Their secret proiects, by high words or light,
+
+
+Till they conclude their end by fraud or might.
+
+
+No former friendship they in minde retaine,
+
+
+If you offend once, or your loue detaine:
+
+
+They're wondrous cruell, strangely base and vile,
+
+
+Quickly displeasd, and hardly reconcild;
+
+
+Stately and great, as read in Rules of state:
+
+
+Incensd, not caring what they perpetrate.
+
+
+Whose hayre is cut with greeces, yet a locke
+
+
+Is left; the left side bound vp in a knott:
+
+
+Their males small labour but great pleasure know,
+
+
+Who nimbly and expertly draw the bow;
+
+
+Traind vp to suffer cruell heate and cold,
+
+
+Or what attempt so ere may make them bold;
+
+
+Of body straight, tall, strong, mantled in skin
+
+
+Of Deare or Bever, with the hayre-side in:
+
+
+An Otter skin their right armes doth keepe warme,
+
+
+To keepe them fit for vse, and free from harme▪
+
+
+A Girdle set with formes of birds or beasts,
+
+
+Begirts their waste, which gently giues them'ease.
+
+
+Each one doth modestly binde vp his shame,
+
+
+And Deare-skin Start-vps reach vp to the same;
+
+
+A kinde of 
+Pinsen
+ keeps their feete from cold,
+
+
+Which after travels they put off, vp-fold,
+
+
+Themselues they warme, their vngirt limbes they rest
+
+
+In straw, and houses, like to sties: distrest
+
+
+With Winters cruell blasts, a hotter clime
+
+
+They quickly march to, when that extreame time
+
+
+Is over, then contented they retire
+
+
+To their old homes, burning vp all with fire.
+
+
+Thus they their ground from all things quickly cleare,
+
+
+And make it apt great store of Corne to beare.
+
+
+Each people hath his orders, state, and head,
+
+
+By which they'r rul'd, taught, ordered, and lead.
+
+
+The first is by discent their Lord and King,
+
+
+Pleas'd in his name likewise and governing:
+
+
+The consort of his bed must be of blood
+
+
+Coequall, when an of-spring comes as good,
+
+
+And highly bred in all high parts of state,
+
+
+As their Commanders of whom they'rs prognate.
+
+
+If they vnequall loues at hymens hand
+
+
+Should take, that vulgar seede would nere command
+
+
+In such high dread, great state and deepe decrees
+
+
+Their Kingdomes, as their Kings of high degrees:
+
+
+Their Kings giue lawes, rewards to those they giue,
+
+
+That in good order, and high service liue.
+
+
+The aged Widow and the Orphanes all,
+
+
+Their Kings maintaine, and strangers when they call,
+
+
+They entertaine with kinde salute for which,
+
+
+In homage, they haue part of what's most rich.
+
+
+These heads are guarded with their stoutest men,
+
+
+By whose advice and skill, how, where, and when,
+
+
+They enterprize all acts of consequence,
+
+
+Whether offensiue or for safe defence.
+
+
+These Potents doe invite all once a yeare,
+
+
+To giue a kinde of tribute to their peere.
+
+
+And here obserue thou how each childe is traind,
+
+
+To make him fit for Armes he is constraind
+
+
+To drinke a potion made of hearbs most bitter,
+
+
+Till turnd to blood with casting, whence he's fitter,
+
+
+Induring that to vnder-goe the worst
+
+
+Of hard attempts, or what may hurt him most.
+
+
+The next in order are their well seene men
+
+
+In herbes▪ and rootes, and plants, for medicen,
+
+
+With which by touch, with clamors, teares, and sweat,
+
+
+With their curst Magicke, as themselues they beat,
+
+
+They quickly ease: but when they cannot saue,
+
+
+But are by death surprizd, then with the graue
+
+
+The divell tells them he could not dispence;
+
+
+For God hath kild them for some great offence.
+
+
+The lowest people are as servants are,
+
+
+Which doe themselues for each command prepare:
+
+
+They may not marry nor Tobacco vse,
+
+
+Tell certaine yeares, least they themselues abuse.
+
+
+At which yeares to each one is granted leaue,
+
+
+A wife, or two, or more, for to receiue;
+
+
+By having many wiues, two things they haue,
+
+
+First, children, which before all things to saue
+
+
+They covet, 'cause by them their Kingdomes fild,
+
+
+When as by fate or Armes their liues are spild.
+
+
+Whose death as all that dye they sore lament,
+
+
+And fill the skies with cryes: impatient
+
+
+Of nothing more then pale and fearefull death,
+
+
+Which old and young bereaues of vitall breath;
+
+
+Their dead wrapt vp in Mats to th' graue they giue,
+
+
+Vpright from th knees, with goods whilst they did liue,
+
+
+Which they best lou'd: their eyes turn'd to the East,
+
+
+To which after much time, to be releast
+
+
+They all must March, where all shall all things haue
+
+
+That heart can wish, or they themselues can craue.
+
+
+A second profit which by many wiues
+
+
+They haue, is Corne, the staffe of all their liues.
+
+
+All are great eaters, he's most rich whose bed
+
+
+Affords him children, profit, pleasure, bread.
+
+
+But if fierce 
+Mars,
+ begins his bow to bend,
+
+
+Each King stands on his guard, seekes to defend
+
+
+Himselfe, and his, and therefore hides his graine
+
+
+In earths close concaues, to be fetch'd againe
+
+
+If he survives: thus saving of himselfe,
+
+
+He acts much mischiefe, and retains his wealth.
+
+
+By this deepe wyle, the 
+Irish
+ long withstood
+
+
+The 
+English
+ power, whilst they kept their food,
+
+
+Their strength of life their Corne; that lost, they long
+
+
+Could not withstand this Nation, wise, stout, strong.
+
+
+By this one Art, these Natiues ost surviue
+
+
+Their great'st opponents, and in honour thriue.
+
+
+Besides, their women, which for th'most part are
+
+
+Of comely formes, not blacke, nor very faire:
+
+
+Whose beautie is a beauteous blacke laid on
+
+
+Their paler cheeke, which they most doat vpon.
+
+
+For they by Nature are both faire and white,
+
+
+Inricht with gracefull presence, and delight;
+
+
+Deriding laughter, and all pratling, and
+
+
+Of sober aspect, grast with gra
+e command:
+
+
+Of man-like courage, statu
+e tall and straight,
+
+
+Well neru'd, with hands and fingers small and right.
+
+
+Their slender finger
+ on a grassie twyne,
+
+
+Make well form'd Baskets wrought with art and lyne;
+
+
+A kinde of Arras, or Straw-hangings, wrought
+
+
+With divers formes, and colours, all about.
+
+
+These gentle pleasures, their fine fingers fit,
+
+
+Which Nature seem'd to frame rather to sit.
+
+
+Rare Stories, Princes, people, Kingdomes, Towers,
+
+
+In curious finger-worke, or Parchment flowers:
+
+
+Yet are these hands to labours all intent,
+
+
+And what so ere without doores, giue content.
+
+
+These hands doe digge the earth, and in it lay
+
+
+Their faire choyce Corne, and take the weeds away
+
+
+As they doe grow, raysing with earth each hill,
+
+
+As 
+Ceres
+ prospers to support it still.
+
+
+Thus all worke-women doe, whilst men in play,
+
+
+In hunting, Armes, and pleasures, end the day.
+
+
+The 
+Indians
+ whilst our 
+Englishmen
+ they see
+
+
+In all things servile exercisd to be:
+
+
+And all our women freed, from labour all
+
+
+Vnlesse what's easie: vs much fooles they call,
+
+
+'Cause men doe all things; but our women liue
+
+
+In that content which God to man did giue:
+
+
+Each female likewise long reteines deepe wrath,
+
+
+And s nere appeas'd till wrongs reveng'd shee hath:
+
+
+For they when forraigne Princes Armes vp take
+
+
+Against their Leige, quickly themselues betake
+
+
+To th'adverse Armie, where they're entertaind
+
+
+With kinde salutes, and presently are daign'de
+
+
+Worthy faire 
+Hymens
+ favours: thus offence
+
+
+Obtaines by them an equall recompence.
+
+
+Lastly, though they no lynes, nor Altars know,
+
+
+Yet to an vnknowne God these people bow;
+
+
+All feare some God, some God they worship all,
+
+
+On whom in trouble and distresse they call;
+
+
+To whom of all things they giue sacrifice,
+
+
+Filling the ayre with her shrill shrikes and cries.
+
+
+The knowledge of this God they say they haue
+
+
+From their forefathers, wondrous wise and graue;
+
+
+Who told them of one God, which did create
+
+
+All things at first, himselfe though increate:
+
+
+He our first parents made, yet made but two,
+
+
+One man one woman, from which stocke did grow
+
+
+Royall mankinde, of whom they also came
+
+
+And tooke beginning, being, forme and frame:
+
+
+Who gaue them holy lawes, for aye to last,
+
+
+Which each must teach his childe till time be past:
+
+
+Their grosse fed bodies yet no Letters know,
+
+
+No bonds nor bills they value, but their vow.
+
+
+Thus without Arts bright lampe, by Natures eye,
+
+
+They keepe iust promise, and loue equitie.
+
+
+But if once discord his fierce ensigne weare,
+
+
+Expect no promise vnle'st be for feare:
+
+
+And, though these men no Letters know, yet their
+
+
+Pans
+ harsher numbers we may some where heare:
+
+
+And vocall odes which vs affect with griefe;
+
+
+Though to their mindes perchance they giue reliefe.
+
+
+Besides these rude insights in Natures brest,
+
+
+Each man by some meanes is with sence possest
+
+
+Of heavens great lights, bright starres and influence,
+
+
+But chiefely those of great experince:
+
+
+Yet they no feasts (that I can learne) obserue,
+
+
+Besides their 
+Ceres,
+ which do'th them preserue.
+
+
+No dayes by them descernd from other dayes,
+
+
+For holy certaine service kept alwayes.
+
+
+Yet they when extreame heate doth kill their Corne,
+
+
+Afflict themselues some dayes, as men forelorne.
+
+
+Their times they count not by the yeare as we,
+
+
+But by the Moone their times distingui'sht be.
+
+
+Not by bright 
+Phoebus,
+ or his glorious light,
+
+
+But by his 
+Phoebe
+ and her shadowed night.
+
+
+They now accustom'd are two Gods to serue,
+
+
+One good, which giues all good, and doth preserue;
+
+
+This they for loue adore: the other bad,
+
+
+Which hurts and wounds, yet they for feare are glad
+
+
+To worship him: see here a people who
+
+
+Are full of knowledge, yet doe nothing know
+
+
+Of God aright; yet say his Lawes are good
+
+
+All, except one, whereby their will's withstood.
+
+
+In having many wiues, if they but one
+
+
+Must haue, what must they doe when they haue none.
+
+
+O how farre short comes Nature of true grace,
+
+
+Grace sees God here; hereafter face to face:
+
+
+But Nature quite en
+ru'd of all such right,
+
+
+Reteines not one poore sparcle of true light.
+
+
+And now what soule dissolues not into teares,
+
+
+That hell must haue ten thousand thousand heires,
+
+
+Which haue no true light of that truth divine,
+
+
+Or sacred wisedome of th' Eternall Trine.
+
+
+O blessed 
+England
+ farre beyond all sence,
+
+
+That knowes and loues this Trines omnipotence.
+
+
+In briefe survey here water, earth, and ayre,
+
+
+A
+ people proud and what their orders are.
+
+
+The fragrant flowers, and the Vernant Groues,
+
+
+The merry Shores, and Storme-a
+ranting Coues.
+
+
+In briefe, a briefe of what may make man blest,
+
+
+If man's content abroad can be possest.
+
+
+If these poore lines may winne this Country loue,
+
+
+Or kinde compassion in the 
+English
+ moue;
+
+
+Perswade our mightie and renowned State,
+
+
+This pore-blinde people to comiserate;
+
+
+Or painefull men to this good Land invite,
+
+
+Whose holy workes these Natiues may inlight:
+
+
+If Heavens graunt these, to see here built I trust;
+
+
+An 
+English
+ Kingdome from this 
+Indian
+ dust.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+EXcuse this 
+Postscript,
+ perchance more profitable than
+the 
+Prescript.
+ It may be a necessary Caveat for many
+who too familiarly doe 
+Serò sapere.
+ The discreet artifi∣cer
+is not onely happie to vnderstand what may f
+yrely and
+infallibly further his duly considered designes and determi∣nations:
+but to discover and remoue what obstacle soever
+may oppose his well-advised purposes, and probable conclusi∣ons.
+I therefore, desiring that every man may be a 
+Prome∣thius,
+
+not an 
+Epimethius,
+ haue here vnderwritten such
+im
+ediments as I haue observed wonderfully offensiue to all
+Plantations; 
+Quae prodesse qu
+ant & delectare legen∣tem.
+
+
+First therefore I conceiue that far distance of plantations
+produce many inconveniences and disabilities of planters,
+when as severall Colonies consist but of 
+, or thirtie,
+or about that number, which in a vast vncommanded Conti∣nent,
+makes them liable to many and miserable exigents,
+which weakens all vnion, and leaues them difficultly to be
+assisted against a potent or daily enemy, and dangerously to
+be commanded; when as some one Bay well fortified would
+maintaine and inrich some thousands of persons, if it be
+planted with men, able, ingenious, and laborious, being well
+furnished with all provisions and necessaries for plantati∣ons.
+Besides, 
+f one Bay be well peopled, its easily defended,
+surveyed, disciplined, and commanded, be the seasons never
+so vnseasonable, and all their Forces in few houres readie in
+Armes, either offensiuely to pursue, or defensiuely to subsist
+convenient numbers ever at sea, and sufficient ever at
+home for all service, intelligence and discoverie.
+
+
+Secondly, Ignorance of seasons, servants, situation, want
+of people, provisions, supplies, with 
+ courage and
+patience, in and against all opposition, 
+ and affliction.
+
+
+
+Vincit patientia durum.
+ Fishermen, manuall artificers,
+e
+geners, and good fowlers are excellent servants, and onely
+fit for plantations. Let not Gentlemen or Citizens once ima∣gine
+that I preiudize their reputations, for I speake no word
+beyond truth, for they are too high, or not patient of such ser∣vice:
+though they may be very necessary for Martiall disci∣pline,
+or excellent, (if pious) for example to the seditious
+and inconsiderate multitude.
+
+
+Boats with all their furniture, as sayles, hookes, and lines,
+and other appendences, afford the painefull planter both va∣rietie
+of comfort, and a sufficient competent, and an happie e∣state.
+Good mastiues are singular defences to plantations, in
+the terrifying or pursuing of the light-footed Natiues. Hogs
+and Goats are easie, present, and abundant profit, living and
+feeding on the Ile-lands almost without any care or cost.
+
+
+Plantations cannot possibly, profitably subsist without chat∣tels
+and boats, which are the onely meanes for surveying and
+conveying both our persons and provisions to the well advi∣sed
+scituation. Without these, plantations may with much
+patience, and well fortified resolution indure but difficultly,
+though with much time flourish and contentedly subsist. For
+when men are landed vpon an vnknowne shore, per adven∣ture
+weake in number and naturall powers, for want of boats'
+and carriages; are compelled to stay where they are first lan∣ded,
+having no meanes to remoue themselues or their goods,
+be the place never so fruitlesse or inconvenient for planting,
+building houses, boats, or stages, or the harbours never so vn∣fit
+for fishing, fowling, or mooring their boats. Of all which,
+and many other things necessary for plantation, I purpose to
+enforme thee hereafter. Wishing thee in the 
+interim
+ all fur∣therance,
+all fortunatenesse.
+
+
+Farewell.
+
+
+
+
+
+
+
+
+
+
+

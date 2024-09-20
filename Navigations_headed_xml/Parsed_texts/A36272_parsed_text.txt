@@ -1,0 +1,1038 @@
+A sermon preached before the King, Aug. 14, 1666 being the day of thanksgiving for the late victory at sea / by J. Dolben ...
+Dolben, John, 1625-1686.
+Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A36272
+
+
+
+
+Wing D1833
+
+
+
+ESTC R15031
+
+
+
+
+
+ocm 12542660
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A sermon preached before the King, Aug. 14, 1666 being the day of thanksgiving for the late victory at sea / by J. Dolben ...
+Dolben, John, 1625-1686.
+XXXII p.   
+
+
+London :
+
+
+Printed for Timothy Garthwait,
+
+
+1666.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Anglo-Dutch War, 1664-1667 --  Sermons.
+Sermons, English.
+2013-08
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Enrique Valdive
+Sampled and proofread
+2013-10
+Enrique Valdive
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+D1833
+
+
+R15031
+
+
+12542660
+
+
+62993
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A SERMON PREACHED BEFORE THE KING, 
+Aug.
+ 14. 1666. Being the Day of Thanksgiving for the late VICTORY at Sea.
+
+
+By
+ J. Dolben, 
+D. D.
+ DEAN of 
+WESTMINSTER,
+ and Clerk of the Closet.
+
+
+Printed by His
+ MAJESTIES 
+especial Command.
+
+
+
+
+woodcut of a ship
+
+
+
+
+London,
+ Printed for 
+Timothy Garthwait,
+ 1666.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Psal. 18. Ver. 1, 2, 3.
+
+
+1. 
+I will love thee, O Lord my strength.
+
+
+2. 
+The Lord is my
+ Rock, 
+and my
+ For∣tress, 
+and my
+ Deliverer, 
+my
+ God, 
+my
+ strength, 
+in whom I will
+ trust; 
+my
+ Buckler, 
+the Horn of my
+ Sal∣vation, 
+and my high
+ Tower.
+
+
+3. 
+I will call upon the Lord, who is worthy to be
+ Praised, 
+so shall I be
+ saved 
+from mine
+ Enemies.
+
+
+
+
+AMong the Laws of the 
+Roman
+ Tri∣umphs, as some were very Bloudy and Barbarous, so others were wise and worthy our Imitation. In all those ostenta∣tions of their Glory, there was ever a mix∣ture of Religion, such as it was; a ceremonious and pompous application to their imaginary
+
+Deities,
+ 
+Ut ob res bene gestas Diis immortalibus honos habeatur sibique Triumphanti urbem invehi liceat,
+ was the form of their Petition who sued for that honour. 
+Idolatry
+ (the great Mother of 
+Athe∣isme
+) was not able to extirpate the natural Conviction which every one hath in himself of an Almighty Power governing the Uni∣verse. But it kept a room; even in those mens Breasts who were so full of themselves, that they expected to be adored by the rest of Mankind. That Triumphant 
+Dictator,
+ who lorded it over the Lords of the world, before whose Axes 
+Consuls
+ and 
+Pretors
+ trembled, while he trod proudly on the necks of Captive Kings, and dragg'd them chained like slaves after his Chariot, would at the same time fall down before a Captive Stock or Stone; 
+lower
+ his 
+Rods
+ and 
+Lawrels;
+ Prostrating himself with all the Ensigns of his Power and Honour, to a rotten deformed 
+Idol
+ which he had brought home in a Cart. This was another Triumph in and over their Triumphs, a victory of Re∣ligion over Infidelity in its greatest strength and exaltation; for though the Devil did so far debauch the understandings of reasonable Creatures, as to make them worship him in∣stead of God; yet while some worship was practised, and they chose rather to adore a ri∣diculous abominable Deity then none; Even
+
+by these Prophane sacrilegious Rites, the Prin∣ciple of a 
+God
+ was kept alive and warm in the minds of men; for a 
+Handle
+ whereby 
+in ful∣ness of time,
+ Christ and his holy Doctrine took hold on a lost World, and pull'd them back to the service of the True God. Another thing I observe which will be more to our present purpose; They admitted not a 
+General
+ to tri∣umph, unless he had finished the design upon which he was imployed,
+ and so broken the enemy that he might bring his army home with him, leaving the 
+Province
+ quiet to his Successor. But upon any considerable suc∣cess they would make solemn and publick 
+sup∣plications
+ to all their Gods and Goddesses, in the name of their absent Commander, that he might by their favour perfect the Conquest which he had already happily began or ad∣vanced. This is 
+our
+ case. We are not yet rea∣dy for a 
+Triumph,
+ but have matter enough for Supplications and Thanksgivings. Our Ene∣mies are not subdued, but by Gods help they are in good measure broken and defeated; Our Noble 
+Consuls
+ are not yet sailing homeward with Lawrels on their 
+stems,
+ but they are very conveniently 
+posted
+ on the Enemies Coast, as Pregnant instances to 
+them
+ of one 
+victory
+ already obtained, and hopeful 
+Pledges
+ to 
+us
+ of another to follow. And therefore although our joy
+
+be bounded and circumscribed, to keep us modest, and sober, and humble; yet have we not onely ground sufficient, but many high obligations that our Thanksgivings be hearty, and zealous, and universal; full of Devotion and sense of our Duty to God; expressed by ardent Love to his Goodness, Trust and affi∣ance in his Mercy, worshipping his Majesty by constant Prayers and Praises: the onely means to bless and consecrate our past suc∣cesses, and to procure his assistance in our fu∣ture undertakings. All which (that I may not seem to teach a Christian Congregation onely by 
+Heathen
+ examples) you will find re∣commended to your imitation in the Practice of 
+David
+ upon a like occasion. So the Title en∣forms us, both here, and 2 
+Sam.
+ 22.
+
+
+The Text look two ways, 
+Backward
+ upon all the Mercies and Deliverances which God had bestowed upon 
+David,
+ which he acknow∣ledgeth in the many glorious Titles ascribed to God, in the first and second Verse, My 
+Strength,
+ my 
+Rock,
+ and my 
+Fortress,
+ and my 
+Deliverer;
+ my 
+God,
+ my 
+Buckler,
+ and the 
+Horn
+ of my Salvation, and my High 
+Tower.
+
+
+Forward,
+ in the returns of Duty, to which he engageth himself: Of 
+Love,
+ vers. 1. 
+Trust,
+ vers. 2. 
+Praise
+ and 
+Prayer,
+ vers. 3. Upon all which he] grounds to himself a firm Hope
+
+of being saved from his Enemies; 
+So shall I be saved from mine Enemies.
+
+
+I begin with 
+Davids
+ acknowledgment of Gods mercies, expressed in the Titles of 
+Strength, Rock, Fortress, &c.
+ Of all these words I shall not need to speak Particularly, they be∣ing but so many 
+Synonymous
+ Phrases, signify∣ing one and the same thing, That God had often with great Demonstrations of his Power and favour succour'd, and saved 
+David.
+ Where∣fore the Greek Translaters have chosen rather to deliver the mind and intention of the Psal∣mist in plain words, then to render literally the metaphors of the original. Yet must we not take this meerly for the exuberance of a 
+Poetical
+ style, much less can we imagine 
+Da∣vid
+ to be guilty of that 
+Battology,
+ and those 
+vain repetitions
+ in his Devotions which our Sa∣viour condemns in the 
+Heathens,
+ Matth. 6.7. It was their practice to worship Vanity with Vanity, heaping in their Prayers a multitude of empty insignificant names upon their vain and more insignificant Deities. But this ex∣aggeration in 
+Davids Hymn
+ flows from the a∣bundance of a devout and grateful heart, la∣bouring to empty and discharge its fulness, strugling with 
+Human
+ infirmity the narrowness of our Conceptions, and the poverty and bar∣renness
+
+of Speech, and endeavouring by any means to intimate, if not express those trans∣ports and extasies which possessed his soul up∣on the contemplation of Gods Majesty and Goodness. Besides (as the 
+Title
+ both here, and 1 
+Sam.
+ 22 directed to observe before) this 
+Hymn
+ was made in commemoration of all the great things God had done for 
+David,
+ and so 
+many
+ various mercies could not be compre∣hended under any 
+one
+ Notion: His 
+dangers
+ and distresses had been so numerous, and both in their kind and circumstance so 
+different,
+ and 
+Gods
+ ways of 
+vindicating
+ his servant so 
+unlike
+ one another; sometimes by 
+warning
+ him of trea∣cherous designs, that he might avoid or coun∣terwork them; sometimes by 
+defeating
+ dange∣rous Councels, and turning pernicious wis∣dom to folly; By 
+diverting
+ his Enemies, By defending him against their force, or by ena∣bling him to 
+overcome
+ it. And as so many and so different things could not be put together in one 
+stanza
+ of a 
+Psalm,
+ otherwise then in gene∣ral terms, so 
+David
+ could not satisfie himself but by crowding in all the general words and 
+Appellatives
+ which plain or figurative speech afforded,
+ accompanying doubtless every se∣veral word with a proper distinct act of Devo∣tion, a new heat and flame of love and zeal; so that all together (like the 
+Milky way
+) they
+
+seem one Celestial fire, but are many.
+
+
+That we may see how well such a full acknowledgment would become us, how well all these Names and Titles attributed by 
+David
+ to God would sound in our mouths, if we would ascribe them with 
+Davids
+ Devotion and Affection; Give me leave to look back, not so far as he does, to the 
+whole life
+ of a Man, but to that new 
+Epocha
+ of our lives, the new Birth and 
+Restauration
+ of all things to us. Me∣thinks that should be remembred every 
+Thanks∣giving-day,
+ without which we should never have had any Thanksgiving day at all. Consi∣der then in what condition we were this time 
+seven years,
+ when the last 
+Effort
+ we could make, or Project for the recovery of our Country, was miserably defeated; Shall I say by the Trea∣chery of some, the folly and cowardize of o∣thers, or rather by the good Providence of God? who designed to shew us the vanity of all our contrivances, and the impossibility of our being saved by any other means, then the miraculous interposition of his help, and there∣by make us humble enough for such a De∣liverance. You cannot but remember, That we did not then draw our Breath, otherwise then 
+Precariously,
+ and at the mercy of impotent 
+Fanatical,
+ and now enraged Tyrants, from whose 
+Principles,
+ as well as malice, nothing
+
+was to be expected but Robberies, Massacres and Desolations; private mischiefs and pub∣lick Ruine. Men that could not possibly agree to establish themselves, and besides that they conspired to undo all but themselves; their very disagreement (had they designed nothing towards it) must necessarily have de∣stroyed the Nation.
+
+
+Who would have expected, that through this black Cloud, a comfortable light, and day of Salvation, should dawne and break upon us within a few Months? Who durst hope, or almost Pray, (in so deep a despair) that out of this horrid 
+Chaos,
+ a World of Beau∣ty and Order should arise so soon, and we be surprised (as in a dream) with a perfect re∣scue from all we feared, and a quiet enjoy∣ment of whatsoever we could wish? This was clearly the 
+Work
+ of 
+God,
+ and God alone; a meer miracle of Mercy, wrought in despight of so much actual 
+force
+ at home, so much 
+Councel
+ of all States and Princes abroad, and the yet more dangerous oppositions of our own 
+Provocations,
+ perversly and insolently contending against Gods goodness, and ma∣king it far more reasonable for us to look for a 
+hand upon the Wall,
+ writing a visible inrever∣sible sentence of extirpation, then secretly and powerfully working our deliverance behind
+
+it. And therefore were there nothing else in our case, we must confess that this alone hath filled all the expressions of 
+David
+ in my Text, and we shall think our selves bound for ever to celebrate our Good God as our 
+Refuge and Defence, our Deliverer, the Horn of our Salvation, and our High Tower, &c.
+
+
+TO come close and home to our present bu∣siness; When the impudent injustice of our 
+Neighbours
+ made this 
+War
+ necessary, we soon saw we should be engaged to contend with the most powerful enemies in the World, without the assistance of any friend; And, perhaps this little world of ours, were it una∣nimous and entire, vigorously exerting all its force, might be able to defend it self against so much of the greater. But we are full of 
+Ca∣price,
+ and humorous Emulations and 
+Piques,
+ which trouble and discountenance, and worse things which hinder and obstruct Publick En∣terprises. The infirmities of some, and the wickedness of others weaken our hands, and make us little more then 
+half
+ our selves: 
+One
+ sort do no good, and 
+others
+ all the harm they can. So desperately mad are they,
+ that like 
+Ap∣pius
+ his Legions, they would rather be destroy∣ed by any Enemy, then live to see their 
+Prince
+ have the honour of saving and defending them.
+
+
+
+
+These things shame us, and disadvantage our Cause; but they exalt the Glory of God, and make his help afforded us more conspicu∣ous: For notwithstanding all this, He gave us the 
+last year
+ a glorious 
+Victory,
+ which brought forth good fruit and great effects. And 
+this
+ year he hath not been wanting to us. In the 
+First
+ Fight he brought us off without disho∣nour, nay, perhaps with more honour (the circumstances of the Battle considered) then a 
+full
+ Victory could have challenged, had we been evenly matched. And your Enemies Beha∣viour 
+then
+ will teach you how to value the Vi∣ctory you have 
+now.
+ Lord! how did they in∣sult and brave it all over 
+Europe?
+ How un∣able were they to govern themselves, when they pretended to have mastered 
+us?
+ If 
+Bonefires
+ and 
+Dutch
+ Wit, 
+French
+ Brags, and some 
+English
+ Despondence could have conquer'd us, we had been utterly undone. But now behold how the 
+Scene
+ is changed; we have seen our Con∣querors fairly beaten; and they who lately told the World that the 
+narrow Seas
+ were be∣come as subject to them as their own 
+Ditches,
+ and talked, as if like 
+Xerxes,
+ they would bri∣dle and fetter the Captive Ocean, are shame∣fully fled like him broken and shatter'd through 
+those
+ very Seas, and left them to the possession of their ancient rightful owners.
+
+And now their countenance is alter'd with their fortune: Heretofore they were like the 
+Grecian Wrastler,
+ who being thrown, would spring up nimbly from the ground, and con∣fidently aver, that he had given his adversary the fall. Now they are more ingenuous and modest, but not more quiet; their Rants and Huffs are exercised among themselves: And having by a calm escaped an imminent ruine at Sea, they are shaken by Tempests and Storms at Land; Revilings and accusations fly like 
+Broadsides
+ among their great Captains, and the 
+wise
+ men cannot make the 
+valiant
+ ones agree which of them contributed most to their be∣ing beaten. That all this hath been done for us, and in a time while the devouring 
+Pesti∣lence
+ rageth in our bowels, and kills far more at home, then our Enemies can abroad; That the spreading Contagion, which hath seized all quarters of our Land, hath been restrained from hindring our great business, either in the 
+Fleet,
+ the 
+Court,
+ or this 
+City,
+ is of the won∣derful goodness of God, who though he will chastise, will not destroy us, though he take us into his 
+own
+ hand to correct us for our a∣mendment, yet suffers us not to 
+fall into the hands of Man,
+ but both in Judgment and Mer∣cy approves himself our 
+Strength,
+ our 
+Deliverer,
+ the 
+horn
+ of our 
+Salvation,
+ and our 
+high Tower;
+
+
+and all this, to try us by one experiment more, whether when we have found him as good to us as he was to 
+David,
+ we will be as thankful to him as 
+David
+ was; 
+Love
+ him, 
+Trust
+ in him, 
+Praise
+ him, and 
+Pray
+ to him.
+
+
+1. 
+Love him.
+
+
+VVHo can do other then love God, in whom he lives, and moves, and hath his Being? How can we refrain loving that Infinite Wisdom, and Power, and Good∣ness, which hath made the Universe, and wonderfully disposed it in a beautiful Harmo∣ny, and mutual correspondence, and doth so sweetly govern, and carefully sustain all the parts of it? Beside 
+David
+ knew 
+Love
+ to be the sum of Gods Law, and the 
+Compendium
+ of mans Duty to him, and could not be a 
+Man after Gods own heart
+ without doing this before, and then what new thing doth he promise in my Text? Further, To love God for his Be∣nefits onely, is but to love our selves, and our own conveniences; to love him as we do fair weather, and sweet air; as we love meat, drink, and sleep; And the insincerity of such a love would be sure to appear upon the tryal which Satan desired to put on 
+Job:
+ While 
+God maketh a hedg about its, and blesseth all that we have,
+
+
+perphas we shall love him; But if 
+he put forth his hand, and take all we have,
+ our Love being grounded on no other Principle, will go away with our goods, and we shall be in danger of 
+Cursing him to his face.
+
+
+We are to love God for his own 
+Excel∣lencies;
+ We are to love him because he 
+re∣quires
+ it; and the more, Because having a just Right and Power to exact from us the most painful hard services: He is so gracious, as to demand no more, but that we love him; that we be not so much his 
+Servants,
+ as his 
+Friends.
+ This is our standing ordinary Duty; Indeed, this is all we can perform; We can do no more then love God; That is both the Perfection of our Obedience here▪ and shall be of our Happiness in Heaven. But yet this love is capable of degrees; The 
+affection
+ may and must be at sometimes, and on some occa∣casions more intense then at others, and the 
+acts
+ more lively and vigorous, when our hearts are impregnated, and our services called forth by signal extraordinary demonstrations as in∣stances of Gods love to us. We ought ever to love God with all our 
+Souls.
+ that is, 
+heartily
+ and 
+entirely;
+ yet this hinders not, but that the love which was always 
+true,
+ and void of Hy∣pocrisie, proceeding (as S. 
+Paul
+ derives it) out of a 
+pure heart,
+ 
+and a good conscience, and faith un∣feigned,
+
+
+may now be more ardent then usual. That the fire which was alive in the 
+Embers
+ be∣fore, may now burn out, and flame with a 
+Seraphick
+ heat and brightness, when God hath descended thus to stir it up, to invite, and court, and even ravish our affections with the abundance of his favours. This 
+David
+ inti∣mates in the very Text; For though we have it onely, I 
+will love,
+ yet the Original expres∣sion signifies, I will 
+ardently
+ or affectionately love thee: 
+ out of my 
+Bowels,
+ or from the bottom of my heart will I love thee,
+ and so some of the best 
+Translations
+ render it.
+
+
+Well then, if this be the Scale and Standard of our Duty in this behalf, that our Love ought to rise in proportion to the Benefits we receive; As our Saviour indeed sets it in the 
+Gospel,
+ where he tells us, that the most ob∣liged person 
+will love most;
+ and were it not so, there could be no such sin as 
+Ingratitude
+ in the World; that odious inhumane Crime would lose all the ground and reason both of its guilt and shame. Then it will presently be evident to all men, how much we of 
+this
+ Nation ought to love God, who hath so a∣bounded in his favours to us. But how much we do love him is hard to say; for the expres∣sions of our affection are very untoward: L
+ke the Course and rude 
+Caresses
+ of 
+Russian
+ Hus∣bands
+
+to their Wives; our kindness looks much more like to 
+Anger
+ and ill nature, then Love. If to disobey, dishonour, injure, and affront, to do every thing that will displease God, and 
+grieve
+ his 
+Holy Spirit,
+ be Love; then we love him extreamly.
+
+
+But if there be any Truth, in what Com∣mon Sense, and the Uniform Voice of Man∣kind affirm of 
+Love,
+ That it is an active vigo∣rous Principle, working 
+mightily
+ in the hearts of Men, Provoking, and even constraining them to do every thing which may be agree∣able to those they Love, and accordingly hath produced wonderful, Prodigious effects in Hu∣mane Friendships. If the Holy Scriptures and Histories of Times truly Christian, deceive us not, in representing the sincere Love of God, as an affection which can neither be 
+dissembled,
+ nor 
+suppressed,
+ being always cheerfully and in∣defatigably employ'd in his service. If it de∣voureth 
+Difficulties,
+ casteth out
+ 
+Fear,
+ Ren∣dreth 
+Labour
+ easie and desireable, delighting not onely in the 
+sweat
+ of its Brows, but in the most 
+Bloudy Agonies
+ and 
+Conflicts;
+ breaking through the Briars and Thorns of an accursed World, and the many flaming swords which Satan draws against it; making it self a Paradise, and Heaven upon Earth, in the doing Gods Will, in walking with, and
+ 
+dwelling
+ in him: For
+
+which reason Love is called, The
+ 
+fulfilling
+ of the 
+ 
+Law;
+ The keeping God's 
+ 
+Com∣mandments;
+ That whereon all the Law and the Prophets 
+ 
+depend;
+ The 
+ 
+knowing
+ God, and being 
+known
+ of him: The 
+ 
+Root
+ and 
+Ground
+ of Religion, and the choicest, most ex∣cellent 
+ 
+F
+uit
+ of the 
+Spirit.
+
+
+If this be the true Character of that Divine Vertue (as indeed these are the Lineaments and Features by which it was most eminently discernible, in the unparallell'd Example of our dear Lord and Saviour, and in the first Copies taken from thence, the Primitive Mar∣tyrs and Confessors) Then may something like to it be found in our Fancies, our Dis∣courses or Professions, but not the least sha∣dow of it appears in our Lives and Conversa∣tions. Unhappy Nation that we are! for whom the essences of things, and the Defini∣tion of Duty must be quite changed, ere we can pretend to that disposition towards God, which Nature dictates, and the bare apprehen∣sion of a Deity exacts! I am not willing to utter words of ill 
+Omen
+ this day; but thus much I cannot refrain from saying, That had God expressed his kindness to us, no otherwise then we have done our returns of Love to Him, we had not now been here.
+
+
+
+
+Surely 
+David
+ lov'd God at another rate; else we should not have found him in one Psalm 
+panting
+ and 
+languishing
+ after him like an em∣boss'd spent Dear;
+ Grieved and afflicted for being kept from his presence;
+ Languishing and fainting, with desire to get into his Tem∣ple; burnt up, and devour'd with Zeal for it in others. Not onely his Book of Psalms, but his whole life could not otherwise have been so full of jealousie for God's Honour, Delight in his Commands, and every thing that may express a Will knit and united to that of God (as the 
+Chaldee
+ hath it here) which is the true and proper effect of Love.
+
+
+Indeed 
+David
+ could not without such a love of God, have perform'd well those acts of Pi∣ety and Devotion which he promiseth in my Text; Could not Trust in him, Praise him, or Pray to him acceptably, with hope to be sa∣ved from his Enemies. Nor can we (how∣ever our Fancies and Dreams of Religion de∣ceive us) and therefore must be sure to take it along with us throughout▪ And first to help us, and give us ground and foundation for our Trust in God; the next thing in my Text.
+
+
+TRust, we know is an act of Friendship, and the greatest fruit it yields, Mutual Confi∣dence, springing naturally from Mutual Affecti∣on.
+
+I can safely rely upon that Person whom I therefore love, because I esteem him so good, that he will not fail any just expectation, and whose affection to me is my double Pledg that he will surely answer mine. But if I doubt either of these two things, Love and Trust vanish to∣gether; so that we must both love God, and be∣lieve that he loves us, before we can Trust in him: For though God's Goodness be Infinite, and have wonderfully abounded to us, yet being free in its exercise, it will be presumption and folly, not trust, to expect any thing further from him but according to the methods of his Wisdom revealed unto us in his Promises, and he hath promised his favours onely to those that love him; And if we love him, then shall we Trust in him, both with a 
+steady
+ and 
+humble
+ Confidence: Not murmuring when we want the success we expect, nor growing insolent when we have it. Love will not suf∣fer us to suspect his Goodness if every event come not up to our wishes; Nor censure his Wisdom, though sometimes we discern not the reason of his Providence: Much less shall we justle him out of his Throne, and put in for our share in governing the World, setting up a Counter-Deity of our own Coun∣cel and Force. These are generally the two great faults of men in our Condition; Not
+
+submitting to the Wisdom and Goodness of God; And relying too much upon the Arm of Flesh▪ And have we never been guilty of either of them? Have we never quarrelled and grum∣bled if there were a ship less taken then we had predestined in our Fancy? Any thing fallen out otherwise then we had set it down in the Gallery, or the Coffee-house? Do we not in the computation of our strength for the War, make false Musters, passing our own Force and Courage twice over upon the Rolls, and leaving God quite out? Imagine our selves sufficient Deliverers and Saviours to our selves, and forgetting that God is our 
+Strength, The Rock of our Defence, and the Horn of our Sal∣vation.
+ I fear something of this may have been the Provocation which hath mov'd God to Discipline us with his own Sword, the Plague, at home, while he saves us from that of the Enemy abroad. Lately to shew us dan∣ger in an unequal Encounter, and even now to check our Victory, and snatch much of its fruit out of our hands when we were just grasping it, and seem'd to our selves almost possess'd of a full and final Conquest: And this hath he done, not by animating our droop∣ing Enemies with new Courage, or strength∣ning their feeble hands with fresh force and activity; but meerly by withholding the
+
+Breath of his Wind, that we may be convinced upon how Particular and constant attendance of Providence upon us, our felicity depends; which if it be suspended but for one moment, we presently falter; if the influence of God's Power and Goodness (that soul of our affairs) do not exert it self in every instance, immedi∣ately our nerves are relaxed, and our spirits damp'd, and we begin to languish without strength or motion. This being duly consi∣dered, I hope will engage us not onely to Love God more ardently, and Trust in him more en∣tirely and firmly, but doing both, to Praise and Pray to him more affectionately, That so we may both now and always be safe from our Enemies. 
+I will call upon the Lord, who is worthy to be praised; So shall I, &c.
+
+
+I fear there is not so much of my time left, as of my Subject; Wherefore I will join these two Duties of 
+Prayer
+ and 
+Praise
+ in my Exhortation, as the 
+Chaldee
+ and 
+Greek
+ do in the Text it self, who read both of them; 
+Praising I will Pray:
+ And they cannot be more joint and united in any Expression, then they are in their own natures, 
+Praise
+ being one, and the most noble Part of Prayer, that which is most peculiarly and eminently the Worship of God; For though when we Petition him for the Benefits we desire; or against the Evils
+
+we fear▪ we do tacitly and by consequence ac∣knowledg both his Power and his Goodness, yet do we more expresly and directy Honour and Glorifie God, when our souls are pour'd out in cheerful Hallelujah's, hearty and joyful celebrations of his holy Name, who is the Lord 
+Blessed for ever. Whoso offereth me Thanks,
+ and Praise, he
+ 
+Honoureth
+ me, saith 
+David;
+ and how much 
+David
+ thought so, appears by this that all his Psalmes are so full of those ob∣lations, as in the Original they are justly cal∣led, 
+The Book of Praises:
+ And why are not our lives as full of them too? We mistake our selves, if we think this Duty confined to great Festivals and solemn Thanksgivings, to de∣pend upon our Calendars, or the Kings Pro∣clamations; Holy 
+Job,
+ in the depth of his sor∣rows, and the midst of his great distresses, when he had at once lost both his Wealth, and his Children, all the supports and comforts of this life, Even upon the Dunghil
+ 
+Blesseth the Name of the Lord his God, who had both given, and taken away;
+ To teach us, that we can never be in a condition so wretched and uncomforta∣ble, wherein we may not find somewhat, for which we ought to Praise God, and adore and magnifie his goodness towards us; not onely although we be afflicted and cast down, but even because we are so.
+
+
+
+
+Would we allow our selves some time to meditate seriously on the incomprehensible Ex∣cellencies of the Divine Nature; To consider how all God's Attributes have been employed and exercised for our Good, To understand what it was at first to be created out of no∣thing, and put into a capacity of hapiness; What need we had of Mercy, and how unwor∣thy we were of it, when by a foolish Disobe∣dience we had obliged and confined our selves to endless wo; and then at what a rate our Re∣demption was procured; That by the Bloud of Christ, not onely Pardon, but Eternal Hap∣piness was purchased for us; Would we recol∣lect the several instances of God's Care and Pro∣vidence in the preservation of our lives, and all our worldly concernments; but especially the continual endeavours of his Grace and Ho∣ly Spirit, to conduct us safe to the enjoyment of that Blessedness which his Infinite Wis∣dom and Goodness have prepared for us: Such Reflections as these (would we suffer them to settle and fix upon us) must needs fill our souls with the 
+Love
+ of God, and our mouths with his 
+Praises:
+ This would kindle in us a zealous Concern and Passion for the Glory of God, and we should apprehend no happiness upon Earth, but in the promo∣ting his honour among men; Our hearts
+
+would be like 
+Altars
+ of Incense, with a per∣petual Heavenly fire burning on them, and sending up continually our Eucharistial obla∣tions, that odour of sweet smell made of holy Oyl and fragrant Spices, Love and Joy in the Lord, and the Cloud of this Incense would co∣ver the 
+Mercy Seat;
+ The assistant Angels would (as the 
+Jews
+ say) go up in this Cloud to offer our Lauds unto God, and bring back from him Grace, and Peace, and Salvation in returns unto us. 'Tis for want of this (because we are such strangers to God and our selves) that the life of every Christian is not a continual Eucharist; That we come so seldom, and with such coldness and Indevotion, to join with the Church Militant in her Sacrifice of Praise, the Holy 
+Communion,
+ that great peculiar instance of our Religion, wherein Christ hath commanded us to continue a perpetual thank∣ful remembrance of all God's Mercies, and particularly of his Death (which comprehends them all) and there to connect our poor Pray∣ers to his powerful eternal intercessions, that so both our Petitions and Praises may be ac∣ceptable to God. 'Tis for want of this that the Children of God are so unwilling to have their Conversation in Heaven, to join and commu∣nicate in this Honourable, delectable Duty of Praising God with the Church Triumphant,
+
+where Saints and Angels incessantly Praise God, having nothing to ask or beg of him, but in behalf of us. We deceive our selves grosly and dangerously, while we think we can be Religious without Praising God often, and heartily, and cheerfully, in Private as well as Publick. Alas! our loud and clamorous Pray∣ers, how many or importunate soever they be, separate from this, are but Hypocritical Devo∣tions, terminated in our own interests, not in God, or his Glory: And our Prayers would be as few as our Praises, but that the love of the world and our selves, which damps the love of God in our hearts, and suffers us not to delight and rejoice in Praising him; some∣times prompts us to call on him, to fly to his help in distress; make us look up (like the 
+Jews
+ in the Wilderness) when we feel our selves 
+stung.
+ And this strange fire on the Al∣tar, looks like the True, burns and blazeth for a while, and makes us think our selves ve∣ry Religious, when alas! we are onely very fore, or very fearful, and our 
+necessities
+ and 
+distresses
+ are devout, not we. I need not Press that fur∣ther, whereof every one hath a sufficient con∣viction in this, that while our case is thus, De∣votion comes upon us onely by 
+catches
+ and 
+starts,
+ and even as in an 
+Ague,
+ we have as many 
+cold Fits as hot.
+ When the violence of that im∣pulse
+
+pulse which warm'd us, is spent, we freeze a∣gain, when the Calamity or terror which put us into a hasty fermentation is taken off, im∣mediately we settle upon our lees; VVhen he 
+kills
+ us, 
+then we seek him;
+ we turn early and en∣quire after God, when we remember that 
+God
+ is our 
+strength,
+ and the most High God is our 
+Redeemer;
+ but as soon as the 
+Judgment
+ is re∣moved, and we have swallowed and 
+digested
+ the 
+Mercy,
+ we turn back and tempt the Holy One of 
+Israel;
+ VVe think no more of his 
+Hand,
+ and of the Day wherein he 
+delivered us
+ from 
+our Enemies:
+ VVhereas were a habit of Reli∣gion firmly setled in us, rooted and grounded on the love of God, and conscience of our Duty, it would be both Permanent and Uni∣form in all its exercises, VVe should not think to use God onely as a Property or Conveni∣ence, but adore the Majesty of our Almighty Soveraign Lord, and delight as much to Praise him for the Benefits we have received, as to re∣ceive any new ones from his hand! VVhat then shall I say? Shall I reproach a Christian Congregation, by exhorting them to love God? I am ashamed to do that, and I have said enough already, (if any thing be enough) by telling you, that without Loving God, you 
+ought
+ not to 
+Trust
+ in him, you cannot 
+Praise
+ or Pray to him; your Praises will be but 
+Flatteries,
+ and
+
+your Prayers 
+indignities
+ and 
+affronts.
+ Shall I desire you to be more frequent, and more zea∣lous in your Praises? Sure I need not request you (if you mean to go to Heaven) to practice that beforehand here, which must there be your onely Employment; to beseech you not to think that a trouble now, which then will be your Happiness and Glory: I will rather tell you, that God needs none of all these things from you; Your Love does not 
+benefit,
+ nor your Praises 
+exalt
+ him; 
+He
+ is the same Omni∣potent Majesty, Infinitely happy in Himself, whether you depend on his Protection, and beg your daily Bread and all other good things at his hands; or whether neglecting both those Duties, you live as 
+without God
+ in the 
+World:
+ But 
+He
+ is pleased, when you 
+love
+ and 
+honour
+ him, because he is delighted in the obedience of his Creature; and nothing is so agreeable to him, as that we should give him those 
+oc∣casions
+ to 
+love us,
+ and do 
+us good:
+ which if you thus qualifie your selves to receive his favour, I can assure you he will do, as the Prophet 
+Da∣vid
+ here assures himself. Upon these Terms we shall be safe from our Enemies. 
+So shall I, &c.
+
+
+SO 
+shall I be safe,
+ otherwise 
+I shall not:
+ VVe cannot promise our selves to be safe by our own strength, For were it never so great, it may
+
+be 
+matched and exceeded;
+ And were we never so much Masters of our 
+Enemies,
+ we are not Ma∣sters of 
+Occasion;
+ We may, and have been o∣bliged to fight upon 
+disadvantage;
+ We are not Commanders of the 
+Seas,
+ nor of the 
+Winds,
+ which God keeps in his 
+Treasure.
+ Last year they were helpful to us, They were otherwise this year. And if we cannot protect our selves, Who shall protect us? I have heard, that one of our ene∣mies hath said with 
+contempt
+ and 
+scorne
+ enough, We have no Friend 
+But God! Does he make such But's?
+ I pardon his 
+raillery,
+ and heartily embrace the good 
+Omen
+ of it. If we have no Friend but God, then we have him, and if he be our Friend, I am sure we need not fear what man can do against us. Neither they, we have so oft conflicted with, nor they who hover fur∣ther off, expecting an opportunity to fall upon us when we are 
+sore,
+ can be able to do us harm. He is too much a Coward, that dreads any Enemy, when he hath Omnipotence it self to 
+second
+ him. But he is more a fool who may have such a 
+Se∣cond
+ and 
+Patron,
+ and yet will be so far want∣ing to himself, as not to procure his favour and assistance; Especially, when the terms upon which it is to be had, are so easie, nay so desire∣able, that the 
+Condition
+ of acquiring it is more valuable then the 
+thing
+ it self, it being a far greater happiness to 
+love
+ and 
+serve
+ God as we ought, then
+
+to be secured by him from all the harm this world can do.
+
+
+For my part, it shall suffice me that I have brought the business 
+home,
+ and laid it at your own doors. I dare say there is no Person in this Con∣gregation, who wisheth not all safety to his 
+Coun∣trey, Honor
+ to the 
+King
+ and 
+Victory
+ to his 
+Armes.
+ You must therefore think it an advantage to be directed how your selves may have the satisfacti∣on to bear a part in the atchieving all this, which you do (and are so much concerned to) wish. I will presently take of that regreat which your gallantry hath raised in many of your thoughts, for your being detained by employment, or a∣ny other circumstance of your Conditions, from shewing your courage, and gaining a share in the honor of the late 
+Engagements. Courage!
+ break off your 
+Sins
+ by 
+Repentance,
+ live a 
+Christian, devout, holy life and pray earnestly
+ for Gods gracious favor and succour, so shall you serve the King as con∣siderably as any 
+Volontier
+ in the Fleet. Here is a Project to raise an 
+Army easily, speedily,
+ without 
+charge
+ or 
+trouble,
+ and such a one as could I see formed, I should be so much tempted to despise all our Enemies: No 
+Age
+ or 
+Sex
+ but are fit to be listed in it. The impotent 
+Old man
+ on his 
+Couch,
+ the 
+Lady
+ in her 
+Closet,
+ the 
+Sick
+ and 
+Weak
+ upon their 
+Beds,
+ without 
+Danger
+ or 
+Fatigue
+ at 
+Sea,
+ every one in their own station, where infirmity
+
+or tenderness hath ranked them, may fight and be certainly 
+victorious.
+ Whoever can but morti∣fie a 
+Lust, forsake a Sin;
+ kindle an ardent 
+love
+ to God in his heart, shed a 
+Tear,
+ send up a 
+Prayer,
+ a 
+sigh or groan
+ to Heaven; may thereby with∣out any other Artillery 
+reach
+ and 
+gall
+ the 
+Enemy
+ at what distance soever. By the secret invisible influence of your Devotion, you may streng∣then the hearts and hands of your Friends. While your hearts are right with God, and you hold up 
+pure hands in Prayer
+ (like 
+Moses
+ in the Mount) theirs will be victorious in Battail. But then remember that though, when 
+Moses
+ his hands were up, 
+Josua
+ prevaild, yet when they were set down, 
+Amalek
+ prevail'd. Success va∣ried and shifted from the 
+People
+ and 
+Army
+ and 
+Cause of God,
+ to the 
+accursed Nations
+ whom he had vowed to 
+destroy,
+ upon every 
+intermission of Mo∣ses Prayer.
+ And therefore unless we think Gods honour more concerned in our affairs, then in theirs whom he had chosen and promised, and avow'd to all the world that he would give them the spoils and inheritance of their Enemies. Unless we think our adversaries more accursed then those whom God had 
+sworn
+ to have 
+War
+ with for 
+ever,
+ whom he had 
+devoted
+ to 
+ruine
+ and 
+extirpation;
+ We cannot hope to prosper and pre∣vail upon other Terms then 
+Josuah
+ did. And truly you are too unkind, if while your Coun∣try-men
+
+fight
+ for you, you will not Pray for them; While they patiently endure 
+Toil, Sick∣ness, Wounds,
+ nay, 
+lose
+ their 
+Lives,
+ you will not 
+amend
+ yours, will not do so delightful, so pro∣profitable a thing, as to 
+love
+ and 
+serve God,
+ both for 
+their sakes
+ and 
+your own,
+ to procure 
+Peace
+ and 
+safety
+ in this 
+World;
+ and eternal 
+Happiness
+ in that to come. Which God grant us all for the merits of Jesus Christ our Lord.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

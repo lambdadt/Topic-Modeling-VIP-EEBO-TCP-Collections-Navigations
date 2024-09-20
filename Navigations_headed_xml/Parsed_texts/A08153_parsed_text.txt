@@ -1,0 +1,514 @@
+The certaine and true newes, from all the parts of Germany and Poland to this present 29. of October, 1621. Published by authoritie.
+Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-04 (EEBO-TCP Phase 2).
+A08153
+
+
+
+
+STC 18507.35C
+
+
+
+ESTC S119029
+
+
+
+
+
+99854236
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The certaine and true newes, from all the parts of Germany and Poland to this present 29. of October, 1621. Published by authoritie.
+[2], 8 p.   
+
+
+London :
+
+
+Printed by F. K[ingston] for B. D[ownes] and are to bee sold by William Lee, at his shop in Fleetstreet, at the golden Bucke, neere Serieants Inne,
+
+
+1621.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Thirty Years' War, 1618-1648 --  Early works to 1800.
+2009-05
+TCP
+Assigned for keying and markup
+2009-06
+SPi Global
+Keyed and coded from ProQuest page images
+2009-07
+Scott Lepisto
+Sampled and proofread
+2009-07
+Scott Lepisto
+Text and markup reviewed and edited
+2009-09
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18507.35C
+
+
+99854236
+
+
+19645
+
+
+
+
+
+
+
+
+
+
+
+
+THE CERTAINE AND TRVE NEWES, FROM ALL 
+THE PARTS OF
+ GERMANY AND POLAND, 
+TO THIS PRESENT
+ 29. 
+of October,
+ 1621.
+
+
+Published by Authoritie.
+
+
+LONDON Printed by F. K. for B. D. and are to bee sold by 
+William Lee,
+ at his Shop in Fleetstreet, 
+at the golden Buck
+, neere Serieants Inne.
+ 1621.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Hungary, Octob. 
+28. 1621.
+
+
+I
+N 
+Hungary,
+ affaires goe not very well for 
+Bethelem Gabor,
+ and the Marquesse of 
+Iagen∣dorff,
+ are already in 
+Morauia,
+ and make themselues Ma∣sters of the field, winning one place after another with great speedinesse: yet neuer∣thelesse the treaty of 
+Niclausburgh
+ goeth forward.
+
+
+The accord betweene the Duke of 
+Bauaria
+ and Count 
+Mansfield
+ is broken off, wherefore the Duke of 
+Bauaria
+ followeth him foot by foot.
+
+
+They in 
+Franckendale
+ behaue themselues very braue and manfully, and if other places had done the like, it would not haue beene in the 
+Palatinate
+ as it is.
+
+
+Euen now, I haue newes, that Count 
+Mansfield
+ is ariued at a place called 
+Necker,
+ within foure miles of 
+Heydelberg:
+ and it is thought that 
+Franck∣endale
+ will bee aided or succoured by him, next Munday or Tuesday.
+
+
+At 
+Newenmarik,
+ the Iesuites and Capuchines preach openly in the Castle, and Parish Chur∣ches.
+
+
+From Pr
+staw in Silesia, the
+ 17 
+of Octob.
+ 1621.
+
+
+Although the purposed Diet in 
+Silesia
+ vvas de∣ferred by the Lords and States of the Countrey: yet is it appointed againe by the Emperour and Duke of 
+Saxony,
+ that it shall be kept, and begin ere October be finished, because all manner of prepa∣ration belonging thereunto is in a readinesse, and already set forward.
+
+
+The Marquesse of 
+Iagendorff
+ was in 
+Silesia
+ with 20000. taking one place after another, and so went into 
+Morauia
+ to the Prince of 
+Trāsiluania,
+ to whom came 10000. of 
+Walachia,
+ who spoile and burne all they meet withall, so that it is reported, that these forces together, are very neere 50000. I meane 
+Be∣thelem Gabors,
+ and the Marquesse of 
+Iagendorff.
+
+
+Glaty
+ is not as yet taken, but holds out still.
+
+
+Out of 
+Poland,
+ newes is come, that there were slaine in the last conflict betweene them and the 
+Turkes,
+ 20000. 
+Polonians,
+ and at least 40000. 
+Turks
+ and 
+Tartars.
+
+
+It is also certaine, that the Marquesse of 
+Bran∣denburg
+ ariued in the end of September last, at 
+Warschan
+ in 
+Poland,
+ whom the King of 
+Poland
+ met, with 500. 
+Heiduckens,
+ and many horsemen, and so the said Marquesse very shortly after receiued the feoud of the King.
+
+
+Out of 
+Prussia
+ the newes is, that the King of 
+Swe∣den
+ hath taken in 
+Riga,
+ or 
+Rigwe,
+ and that the King of 
+Poland
+ is gone for certaine, as resolued to meete with the 
+Turkes
+ armie.
+
+
+In 
+Silesia,
+ it is likely it will be very dangerous to liue and continue, and therefore many of them are
+
+
+about to buy land in the Country of 
+Brandenburg,
+ fearing it will fall out very ill with them in their owne Countrey.
+
+
+The Lord of 
+Do
+n
+ is come vnto 
+Iagendorff,
+ with 3. Companies of foot, and 4. peeces of Artillery, and so put a Garrison the rein, from whence he went vn∣to 
+Trappaw,
+ and tooke with him the Ordnance that were in 
+Iagendorff,
+ getting a great bootie by the way.
+
+
+In 
+Morauia
+ there is like to be an vprore, and the 
+Wallachiens
+ will fall directly to the Marquesse, wherupon they suspect the Marquesse in the vpper 
+Silesia,
+ who would march thorow their Countrey with 8000. 
+Hungars
+ and 6000. 
+Dutch,
+ which hath caused a great feare amongst the Souldiers on all sides.
+
+
+From Vienna,
+ 25. 
+Octob.
+ 1621.
+
+
+After that Captaine 
+Reuber,
+ contrary to his oath, had surrendered vp the Towne of 
+Scalitz, Bethelem Gabor
+ went forward with his forces all along 
+Mo∣rauia,
+ and as soone as the Souldiers which lay in 
+Strafnitz
+ perceiued his comming, they made them∣selues masters ouer their Captaines and Comman∣ders, hurting and wounding some of them, especi∣ally one of 
+Haugenitz
+ very sore, because he would not yeeld vnto them, and afterwards they threw him out at a window.
+
+
+Thus when they had bound all their Captaines and Commanders, they deliuered them and the Castle vp vnto 
+Bethelem Gabor,
+ who would haue put them all to the sword; but by the meanes of the Marquesse of 
+Iagendorff
+ they were saued: yet a
+
+
+great feare was raised in the Countrey by this meanes, that the treaty of 
+Niclaus
+urgh
+ should haue beene deferred: but since there ariued 9000. 
+Silesians
+ in 
+Morauia,
+ it is begun.
+
+
+In the meane time, the 
+Hungarians
+ did set vpon 
+Holl
+schaw,
+ the Lord Cantilar of 
+Bohemia,
+ and the Lord Generall, with their followers, and tooke a∣way from them what they had: notwithstanding, the Earle of 
+Emerid, Titzio,
+ and fiue other 
+Hunga∣rian
+ Lords are come vnto the Treatie, and shall (no question) haue what the whole country can afford.
+
+
+Three dayes agoe there was put in prison heere, an 
+Italian,
+ called 
+Cro
+la,
+ with his sonne and seruants, for coyning certaine pieces of money, amounting to the value of a thousand pound.
+
+
+Bethelem Gabor
+ and the Marquesse of 
+Iagendorff,
+ haue taken in most places on this side the Marsh, and our forces haue likewise taken in the best quar∣ters on the other side all along, till you come to 
+Randisch,
+ where they meane to remaine on both sides, vntill a Treaty of peace is concluded.
+
+
+The 
+Bu
+lean
+ forces doe daily great hurt, conti∣nuing burning and spoiling the Countrey heerea∣bout 
+Newstadt:
+ and although the chiefe places are beset with Souldiers, as 
+Hanbach, Prugg, Alten∣burgh, Eisenstad,
+ and 
+Newstadt,
+ yet they dare not venter vpon the enemy, either for feare of discom∣fiture, or leauing their Townes naked.
+
+
+Since our forces left the 
+Schutt
+ and 
+Thombia,
+ and went into 
+Morauia,
+ they haue indured great scarci∣tie, and still want necessary prouision: for the Soul∣diers liuing by prouant, and getting none, could
+
+
+neither passe thorow, nor trauell any longer, inso∣much that many horses died for want of prouen∣der, and as many Souldiers for want of victuals, so that they are not able to resist the enemy: besides, the sicknesse & dearth which is increased amongst them, doth trouble & affright them more & more.
+
+
+Out of Prage,
+ 27. 
+of Octob.
+ 1621.
+
+
+They in 
+Tabor
+ doe hitherto hold out, and haue only 50. very expert in shooting, so that none dare shew themselues before it: all the forces which are heereabouts, were brought together, being about 4000. foot, and 600. horse, who should haue giuen an assault vpon the Towne, but finding themselues too weake, they desisted: whereupon they determi∣ned to vndermine it: wherein likewise they failed, by reason of the situation vpon a stony and hard ground.
+
+
+The Prince of 
+Lichtenstein
+ cannot as yet goe for∣wards with his regiment of foot, and 500. horse, because all the men which can be mustered, are brought before 
+Tabor.
+ Likewise the Dukes forces goe not forward, but lye heere and there on the high wayes side, robbing and stealing from all they meet: and although the Duke of 
+Saxony
+ hath beene called vpon diuers times by the Emperor to march with his Army into 
+Morauia:
+ yet for any thing we heare, he is not so much as a going.
+
+
+The 
+Hungarians
+ all this while are falne very strong into 
+Morauia,
+ doing very much hurt, and al∣though the 
+Imperials
+ follow them, to intercept their outrage, yet are they too weake to doe any good vpon them.
+
+
+The Prince of 
+Lichtenstein
+ went yesterday in the forenoone with a few toward 
+Rundis,
+ where the Arch-duke 
+Charles
+ is to meet him.
+
+
+From Neurenbergh, Octob.
+ 26. 1621.
+
+
+On Sunday last, there passed by vs 
+Monsieur Tilly
+ with 66. companies of foot, 44. troopes of horse, 9. Peeces of Ordnance, 1500. waines, and 5000. horse∣men, all which went presently to 
+Furth,
+ where they pitched their Campe and resolued to remaine.
+
+
+Hitherto they haue had prouision sent vnto them from hence; they did much hurt by the way, and terrified all the Countrey: Whether he followed with this Army after the Count of 
+Mansfield,
+ who then lay at 
+Rottenbergh,
+ is vncertaine, because they suddenly incamped, as (belike) vnderstanding of a new Treaty betweene the Duke of 
+Bauaria
+ and the Count 
+Mansfield.
+
+
+From the Palatinate, the
+ 26. 
+of Octob.
+ 1621.
+
+
+The 
+Ritterschaft
+ lieth as yet at 
+Neckerhansen,
+ and thereabouts.
+
+
+The enemy before 
+Franckendale,
+ hath got the halfe moone by 
+Raldenlech
+ already, and they haue beene vpon the wall at 
+Franckendale,
+ but were for∣ced to a retreat by the valour of the defendants▪ they looke daily for Count 
+Mansfield,
+ who as it is thought, will quarter himselfe about 
+Masbach,
+ and then no doubt, as soone as he comes, 
+Franckendale
+ will be aided and releeued.
+
+
+Last Friday there was a skirmish betwixt the 
+Spaniards
+ and Captaine 
+Obertrant,
+ who carried away with him three Peeces of Ordnance, leauing the fourth in the lurch: all these he took from them very brauely.
+
+
+At 
+Manhaime
+ the enemy would haue taken the Ship-bridge avvay, but they vvere beaten backe a∣gaine vvith no small losse.
+
+
+Last Saterday the enemy made another strong assault vpon the Sconce before 
+Franckendale,
+ vvherein the 
+English
+ lay, but vvere beaten off a∣gaine vvith the losse of 700. men, vvhereof some of them stucke so fast in the marish, that they vvere there cut in pieces. There is a rumor that the Earle of 
+Nederysenburgh
+ vvas slaine vvith a Peece of Ordnance: some say he vvas but hurt: but it is sure, that certaine chiefe Captaines vvere slaine in that assault. About midnight they made another as∣sault vpon the halfe Moone, and tooke it vvith tvvo Peeces of Ordnance, tvvo tunne of povvder, vvith certaine clothes: but ere they could goe quite a∣way, all was recouered, and they lost againe many men, besides 300. that were wounded. There were found dead of the 
+English
+ some 80. but it is vncer∣taine how many they brought into the Towne with them. Their hope is now in Count 
+Mansfield:
+ for they haue sent the enemy word, they haue nothing for them but powder and shot: in which, they were as good as their words, as it should seeme: for newes came presently againe, that they haue beaten the 
+Spaniards
+ once more from the wall of 
+Franck∣endale.
+
+
+From the Palatinate, the
+ 30. 
+of October.
+ 1621.
+
+
+That the Count 
+Mansfield
+ marching day and night, is come into the 
+Palatinate,
+ his forces being 16000. hath ioyned himselfe with Sir 
+Horacio Vere.
+
+
+Spinola
+ hearing of it, made toward them with his forces: they perceiuing him willing to fight, ioyned battell with him, slaying 3000. of his men; and following him so long as day-light lasted, kil∣led many of them in the flight.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

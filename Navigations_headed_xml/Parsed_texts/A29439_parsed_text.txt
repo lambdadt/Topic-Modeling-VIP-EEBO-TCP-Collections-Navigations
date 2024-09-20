@@ -1,0 +1,413 @@
+A brief description of the province of Carolina on the coasts of Floreda, and more perticularly of a new-plantation begun by the English at Cape-Feare, on that river now by them called Charles-River, the 29th of May, 1664 wherein is set forth the healthfulness of the air, the fertility of the Earth and waters, and the great pleasure and profit will accrue to those that shall go thither to enjoy the same : also, directions and advice to such as shall go thither whether on their own accompts, or to serve under another, together with a most accurate map of the whole province.
+Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-04 (EEBO-TCP Phase 2).
+A29439
+
+
+
+
+Wing B4571
+
+
+
+ESTC R6714
+
+
+
+
+
+ocm 11612799
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A brief description of the province of Carolina on the coasts of Floreda, and more perticularly of a new-plantation begun by the English at Cape-Feare, on that river now by them called Charles-River, the 29th of May, 1664 wherein is set forth the healthfulness of the air, the fertility of the Earth and waters, and the great pleasure and profit will accrue to those that shall go thither to enjoy the same : also, directions and advice to such as shall go thither whether on their own accompts, or to serve under another, together with a most accurate map of the whole province.
+[2], 10 p. : folded map ; 23 cm. 
+
+
+London :
+
+
+Printed for Robert Horne,
+
+
+1666.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+North Carolina --  Description and travel.
+2009-09
+TCP
+Assigned for keying and markup
+2009-09
+SPi Global
+Keyed and coded from ProQuest page images
+2009-10
+Mona Logarbo
+Sampled and proofread
+2009-10
+Mona Logarbo
+Text and markup reviewed and edited
+2010-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+B4571
+
+
+11612799
+
+
+47906
+
+
+
+
+
+
+
+
+
+
+
+
+A Brief DESCRIPTION OF The Province OF CAROLINA 
+On the
+ COASTS 
+of
+ FLOREDA. AND More perticularly of a 
+New-Plantation
+ begun by the 
+ENGLISH
+ at 
+Cape-Feare,
+ on that River now by them called 
+Charles-River,
+ the 29
+th
+ of 
+May.
+ 1664.
+
+
+Wherein is set forth
+ The 
+Healthfulness
+ of the 
+Air;
+ the 
+Fertility
+ of the 
+Earth,
+ and 
+Waters;
+ and the great 
+Pleasure
+ and 
+Profit
+ will accrue to those that shall go thither to enjoy the same.
+
+
+Also,
+ Directions and advice to such as shall go thither whether on their own accompts, or to serve under another.
+
+
+Together with
+ A most accurate MAP of the whole 
+PROVINCE.
+
+
+London,
+ Printed for 
+Robert Horne
+ in the first Court of 
+Gresham-Colledge
+ neer 
+Bishopsgate-street,
+ 1666.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAROLINA
+
+
+CAROLINA described
+
+
+map of the Carolina coast
+
+
+
+
+
+
+
+
+
+
+A Brief DESCRIPTION OF 
+The
+ PROVINCE of 
+CAROLINA,
+ &c.
+
+
+CAROLINA
+ is a fair and spacious Province on the Continent of 
+America:
+ so called in honour of His Sacred Majesty that now is, 
+Charles the Second,
+ whom God preserve; and His Majesty hath been pleas'd to grant the same to certain Honourable Persons, who in order to the speedy planting of the same, have granted di∣vers privileges and advantages to such as shall transport themselves and Servants in convenient time; This Pro∣vince lying so neer 
+Virginia,
+ and yet more Southward, enjoys the fertility and advantages thereof; and yet is so far distant, as to be freed from the inconstancy of the Weather, which is a great cause of the unhealthfulness thereof; also, being in the latitude of the 
+Barmoodoes
+ may expect the like healthfulness which it hath hitherto en∣joy'd, and doubtless there is no Plantation that ever the 
+English
+ went upon, in all respects so good as this: for though 
+Barmoodoes
+ be wonderful healthy and fruitful, yet is it but a Prison to the Inhabitants, who are much
+
+streightned for want of room, and therefore many of them are come to 
+Carolina,
+ and more intend to follow. There is seated in this Province two Colonies already, one on the River 
+Roanoak
+ (now called 
+Albemarle
+ River) and borders on 
+Virginia;
+ the Other at 
+Cape Feare,
+ two Degrees more Southerly; of which follows a more perti∣cular Description.
+
+
+This Province of 
+Carolina
+ is situate on the main Con∣tinent of 
+America,
+ between the degrees of 30. and 36. and hath on the North the South part of 
+Virginia;
+ on the South is bounded by the 30 degree of Latitude not yet fully discovered; on the East is 
+Mare Atlanticum,
+ part of the great Ocean; and on the West the wealthy South Sea is its Confines.
+
+
+
+
+The perticular Description of 
+Cape-Feare.
+
+
+IN the midst of this fertile Province, in the Latitude of 34 degrees, there is a Colony of 
+English
+ seated, who Landed there the 29 of 
+May, Anno
+ 1664. and are in all about 800 persons, who have overcome all the diffi∣culties that attend the first attempts, and have cleered the way for those that come after, who will find good houses to be in whilst their own are in building; good forts to secure them from their enemies; and many things brought from other parts there increasing to their no small advantage. The entrance into the River, now called 
+Cape-Feare
+ River, the situation of the Cape, and trending of the Land, is plainly laid down to the eye in the Map annexed. The River is barred at the entrance,
+
+but there is a Channel close abord the Cape that will con∣vey in safety a ship of 300 Tons, and as soon as a ship is over the Bar, the River is 5 or 6 fathom deep for a 100 miles from the Sea; this Bar is a great security to the Colony against a forreign Invasion, the channel be∣ing hard to find by those that have not experience of it, and yet safe enough to those that know it.
+
+
+
+
+
+
+The Earth, Water, and Air.
+
+
+THe Land is of divers sorts as in all Countryes of the world, that which lyes neer the Sea, is sandy and barren, but beareth many tall Trees, which make good timber for several uses; and this sandy ground is by ex∣perienced men thought to be one cause of the healthful∣ness of the place: but up the River about 20 or 30 mile, where they have made a Town, called 
+Charles
+-Town, there is plenty of as rich ground as any in the world; It is a blackish mold upon a red sand, and under that a clay, but in some places is rich ground of a grayer colour, they have made Brick of the Clay, which proves very good; and Lime they have also for building. The whole Coun∣try consists of stately Woods, Groves, Marshes and Meadows; it abounds with variety of as brave Okes as Eye can behold, great Bodies tall and streight from 60 to 80 foot, before there be any Boughs, which with the little under-wood makes the Woods very commodious to travel in, either on Horse-back or a foot. In the barren sandy ground grow most stately 
+Pines,
+ white and red 
+Cedars, Ash, Birch, Holly, Chesnut,
+ and 
+Walnut-trees
+
+
+of great growth and very plentiful: There are many sorts of fruit Trees, as 
+Vines, Medlaas, Peach, Wild Cherries, Mulbury-Trees,
+ and the 
+Silk-worm
+ breed∣ing naturally on them, with many other Trees for Fruit and for Building, for Perfume and for Me∣dicine, for which the 
+English
+ have no name; also se∣veral sorts of Dying Stuff, which may prove of great advantage; The Woods are stored with Deer and Wild Turkeys, of a great magnitude, weighing many times above 50 
+l.
+ a piece, and of a more pleasant tast than in 
+England,
+ being in their proper climate; other sorts of Beasts in the Woods that are good for food; and also Fowls, whose names are not known to them. This is what they found naturally upon the place; but they have brought with them most sorts of seeds and roots of the 
+Barbadoes
+ which thrive very well, and they have 
+Potatoes,
+ and the other Roots and Herbs of 
+Barbadoes
+ growing and thriving with them; as also from 
+Virginia, Barmoodoes,
+ and 
+New-England,
+ what they could afford: They have 
+Indico, Tobacco
+ very good, and 
+Cotton-wool; Lime-trees, Orange, Lemon,
+ and other Fruit-Trees they brought thrive exceed∣ingly: They have two Crops of 
+Indian
+-Corn in one year, and great increase every Crop; 
+Apples, Pears,
+ and other 
+English
+ fruit, grow there out of the plan∣ted Kernels: The Marshes and Meadows are very large from 1500 to 3000 Acres, and upwards, and are excellent food for Cattle, and will bear any Grain be∣ing prepared; some Cattle both great and small, which live well all the Winter, and keep their fat without Fodder; Hogs find so much Mast and other Food
+
+in the Woods, that they want no other care than a Swine-herd to keep them from running wild. The Meadows are very proper for 
+Rice, Rape-seed, Lin∣seed,
+ &c. and may many of them be made to over∣flow at pleasure with a small charge. Here are as brave Rivers as any in the World, stored with great abundance of 
+Sturgeon, Salmon, Basse, Plaice, Trout,
+ and 
+Lpanish Mackrill;
+ with many other most pleasant sorts of Fish, both flat and round, for which the 
+English
+ Tongue hath no name. Also in the little Win∣ter they have abundance of 
+Wild Geese, Ducks, Teals, Widgeons,
+ and many other pleasant fowl; and (as is said before) the Rivers are very deep and naviga∣ble above 100 miles up; also there are wholsome Springs and Rivulets. Last of all, the Air comes to be considered, which is not the least considerable to the well being of a Plantation, for without a whol∣som Air all other considerations avail nothing; and this is it which makes this Place so desireable, being seated in the most temperate Clime, where the neigh∣bour-hood of the glorious Light of Heaven brings many advantages, and his convenient distance secures them from the Inconvenience of his scortching beams. The Summer is not too hot, and the Winter is very short and moderate, best agreeing with 
+English
+ Con∣stitutions. 
+Cape-Feare
+ lyes about 34 degrees from the Equator, the Nights nor Days are so long when at longest as in 
+England,
+ by somewhat above two hours. A remarkable Instance of the Healthfulness of the Place, is, That at the first setting down of the Colo∣ny, when they had no house nor harbour, but wrought
+
+hard all day, in preparing Wood to build, and lay in the open Air all night, yet not one of them was ill, but continued well all the time; they Sympa∣thize most with the 
+Barmoodoes,
+ which is the health∣fullest spot in the World, and yet the last year they had a Feaver and Ague that troubled them much, which also was at 
+Cape-Feare,
+ but was not dangerous to any that took care of themselves, and had things convenient. This place had been aimed at many years since. Sir 
+Walter Rawleigh
+ had a design to have plan∣ted it. Those of the 
+Barmoodoes,
+ whose Habitations are too streight for them, have with longing desire waited for the discovery of this place that is neer their own Latitude, where they may expect the same healthfulness they do now enjoy, which is now per∣fected as to the first Settlement, and wants nothing but a diligent prosecution of so noble an Enterprize.
+
+
+If therefore any industrious and ingenious persons shall be willing to pertake of the Felicites of this Country, let them imbrace the first opportunity, that they may obtain the greater advantages.
+
+
+
+
+
+
+The chief of the Privileges are as follows.
+
+
+First, There is full and free Liberty of Conscience granted to all, so that no man is to be molested or called in question for matters of Religious Concern; but every one to be obedient to the Civil Govern∣ment, worshipping God after their own way.
+
+
+
+Secondly, There is freedom from Custom for all 
+Wine, Silk, Raisins, Currance, Oyl, Olives,
+ and 
+Al∣monds,
+ that shall be raised in the Province for 7. years, after 4 Ton of any of those commodities shall be imported in one Bottom.
+
+
+Thirdly, Every Free-man and Free-woman that transport themselves and Servants by the 25 of 
+March
+ next, being 1667. shall have for Himself, Wife, Children, and Men-servants, for each 100 Acres of Land for him and his Heirs for ever, and for every Woman-servant and Slave 50 Acres, paying at most ½
+d. per acre, per annum,
+ in lieu of all demands, to the Lords Proprietors: Provided always, That every Man be armed with a good Musquet full bore, 10 
+l.
+ Powder, and 20 
+l.
+ of Bullet, and six Months Pro∣vision for all, to serve them whilst they raise Provi∣sion in that Countrey.
+
+
+Fourthly, Every Man-Servant at the expiration of their time, is to have of the Country a 100 Acres of Land to him and his heirs for ever, paying only ½
+d. per Acre, per annum,
+ and the Women 50. Acres of Land on the same conditions; their Masters also are to al∣low them two Suits of Apparrel and Tools such as he is best able to work with, according to the Custom of the Countrey.
+
+
+Fifthly, They are to have a Governour and Coun∣cil appointed from among themselves, to see the Laws of the Assembly put in due execution; but the Go∣vernour
+
+is to rule but 3 years, and then learn to obey; also he hath no power to lay any Tax, or make or abrogate any Law, without the Consent of the Colony in their Assembly.
+
+
+Sixthly, They are to choose annually from among themselves, a certain Number of Men, according to their divisions, which constitute the General Assem∣bly with the Governour and his Council, and have the sole power of Making Laws, and Laying Taxes for the common good when need shall require.
+
+
+These are the chief and Fundamental Privileges, but the Right Honourable Lords Proprietors have pro∣mised (and it is their Interest so to do) to be ready to grant what other Privileges may be found advan∣tageous for the good, of the Colony.
+
+
+Is there therefore any younger Brother who is born of Gentile blood, and whose Spirit is elevated above the common sort, and yet the hard usage of our Country hath not allowed suitable fortune; he will not surely be afraid to leave his Native Soil to ad∣vance his Fortunes equal to his Blood and Spirit, and so he will avoid those unlawful ways too many of our young Gentlemen take to maintain themselves ac∣cording to their high education, having but small E∣states; here, with a few Servants and a small Stock a great Estate may be raised, although his Birth have not entituled him to any of the Land of his Ance∣stors, yet his Industry may supply him so, as to make him the head of as famous a family.
+
+
+
+Such as are here tormented with much care how to get worth to gain a Livelyhood, or that with their labour can hardly get a comfortable subsistance, shall do well to go to this place, where any man what-ever, that is but willing to take moderate pains, may be assured of a most comfortable subsistance, and be in a way to raise his fortunes far beyond what he could ever hope for in 
+England.
+ Let no man be troubled at the thoughts of being a Servant for 4 or 5 year, for I can assure you, that many men give mony with their children to serve 7 years, to take more pains and fare nothing so well as the Servants in this Plantation will do. Then it is to be conside∣red, that so soon as he is out of his time, he hath Land, and Tools, and Clothes given him, and is in a way of advancement. Therefore all Artificers, as 
+Carpenters, Wheel-rights, Joyners, Coopers, Bricklayers, Smiths,
+ or diligent Husbandmen and Labourers, that are willing to advance their fortunes, and live in a most pleasant healthful and fruitful Country, where Artificers are of high esteem, and used with all Ci∣vility and Courtesie imaginable, may take notice, that
+
+
+There is an opportunity offers now by the 
+Virginia
+ Fleet, from whence 
+Cape Feare
+ is but 3 or 4 days sail, and then a small Stock carried to 
+Virginia
+ will purchase provisions at a far easier rate than to carry them from hence; also the freight of the said Pro∣visions will be saved, and be more fresh, and there wanteth not conveyance from 
+Virginia
+ thither.
+
+
+If any Maid or single Woman have a desire to go over, they will think themselves in the Golden Age,
+
+when Men paid a Dowry for their Wives; for if they be but Civil, and under 50 years of Age, some honest Man or other, will purchase them for their Wives.
+
+
+Those that desire further advice, or Servants that would be entertained, let them repair to Mr. 
+Matthew Wilkinson, Ironmonger,
+ at the Sign of the 
+Three Fea∣thers
+ in 
+Bishopsgate-street,
+ where they may be inform∣ed when the Ships will be ready, and what they must carry with them.
+
+
+Thus much was convenient to be written at pre∣sent, but a more ample Relation is intended to be published in due time.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+

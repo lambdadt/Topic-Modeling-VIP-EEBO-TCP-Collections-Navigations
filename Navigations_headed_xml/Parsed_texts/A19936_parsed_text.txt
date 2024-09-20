@@ -1,0 +1,1666 @@
+A true relation of the travailes and most miserable captiuitie of William Dauies, barber-surgion of London, vnder the Duke of Florence VVherein is truly set downe the manner of his taking, the long time of his slauierie, and meanes of his deliuerie, after eight yeeres, and ten moneths captiuitie in the gallies. Discouering many manye landes, ilandes, riuers, cities, and townes, of the Christians and infidels, the condition of the people, and the manner of their countrey: with many more strange things, as in the booke is briefely and plainely expressed. By William Dauies, barber-surgion of London, and borne in the citie of Hereford.
+Davies, William, barber-surgion of London.
+Approx. 82 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2005-12 (EEBO-TCP Phase 1).
+A19936
+
+
+
+
+STC 6365
+
+
+
+ESTC S109386
+
+
+
+
+
+99845034
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A true relation of the travailes and most miserable captiuitie of William Dauies, barber-surgion of London, vnder the Duke of Florence VVherein is truly set downe the manner of his taking, the long time of his slauierie, and meanes of his deliuerie, after eight yeeres, and ten moneths captiuitie in the gallies. Discouering many manye landes, ilandes, riuers, cities, and townes, of the Christians and infidels, the condition of the people, and the manner of their countrey: with many more strange things, as in the booke is briefely and plainely expressed. By William Dauies, barber-surgion of London, and borne in the citie of Hereford.
+Davies, William, barber-surgion of London.
+[40] p.   
+
+
+London :
+
+
+Printed [by Thomas Snodham] for Nicholas Bourne, and are to be sold at the south-entrance of the Royall Exchange,
+
+
+1614.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Voyages and travels --  Early works to 1800.
+2005-06
+TCP
+Assigned for keying and markup
+2005-06
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2005-07
+Haley Pierson
+Sampled and proofread
+2005-07
+Haley Pierson
+Text and markup reviewed and edited
+2005-10
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+6365
+
+
+99845034
+
+
+9909
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRVE RELATION OF THE TRAVAILES and most miserable Captiuitie of 
+William Dauies,
+ Barber-Surgion of London, 
+vnder the Duke of
+ FLORENCH.
+
+
+VVherein is truly set downe the manner of his 
+taking, the long time of his slauerie, and meanes
+ of his deliuerie, after eight yeeres, and ten moneths Captiuitie in the Gallies.
+
+
+Discouering many mayne Landes, Ilandes, 
+Riuers, Cities, and townes, of the Christians and
+ Infidels, the condition of the people, and the manner of their Countrey: with many more strange things, as in the Booke is briefely and plainely expressed.
+
+
+By 
+William Dauies,
+ Barber-Surgion of 
+London,
+ and borne in the Citie of 
+Hereford.
+
+
+LONDON:
+ Printed for 
+Nicholas Bourne,
+ and are to be sold at the South-entrance of the Royall Exchange▪ 1614.
+
+
+
+
+
+
+
+
+
+
+A Table of all those places that he hath 
+beene at, and in, since his departure, Alphabetically composed.
+ viz.
+
+
+
+
+A
+
+
+A
+Lexandria,
+ A Citie in Turkie.
+
+
+Argier,
+ A Citie in Barbary.
+
+
+Alegant,
+ A Citie in Spayn
+.
+
+
+A
+a
+ A Riuer in the West Indies.
+
+
+Ar
+no
+h
+,
+ A Riuer in the West Indies.
+
+
+
+
+
+
+B
+
+
+BRaats,
+ In the Mayne, a mayne land of the Turkes.
+
+
+Bizert,
+ A towne in Barbary.
+
+
+Bona,
+ A towne in Barbary.
+
+
+Baye,
+ A towne in Brazile.
+
+
+Budgie,
+ A towne in Barbary.
+
+
+
+
+
+
+C
+
+
+CIci
+ia,
+ A famous Iland of the Spaniards.
+
+
+Can
+se,
+ A famous Iland of the Venetians▪
+
+
+Cipris,
+ A famous Iland of the Turkes.
+
+
+Cirrigo,
+ An Iland of the Venetians.
+
+
+Christiana,
+ An Iland of the Greekes.
+
+
+Corrune,
+ A towne of the Turkes.
+
+
+Corphou,
+ A Citie of the Venetians.
+
+
+Corsigo,
+ An Iland of the Genowes.
+
+
+Callary,
+ A Citie vpon Sardina.
+
+
+Carthageine,
+ A towne in Spayne.
+
+
+Cales,
+ A Citie of the Spaniards.
+
+
+Corues,
+ An Iland of the Spaniards.
+
+
+
+
+
+
+
+
+D
+
+
+DEnei,
+ A towne in Castillia.
+
+
+
+
+
+
+F
+
+
+FLorence,
+ A famous Citie of the great Dukes.
+
+
+Famagosta,
+ A Citie vpon Cyprus.
+
+
+Fernandobuck,
+ A towne in Brazyle.
+
+
+Fi
+lk,
+ An Iland of the Spaniards.
+
+
+Floures,
+ An Iland of the Spaniards.
+
+
+
+
+
+
+G
+
+
+GOodz
+,
+ An Iland inhabited by Greekes.
+
+
+Genowey,
+ A famous Citie in Italy.
+
+
+Grand Maligo.
+ A Citie in Spayne.
+
+
+G
+ne,
+ A Riuer in the West Indies.
+
+
+Gratiose,
+ An Iland of the Spaniards.
+
+
+
+
+
+
+I
+
+
+IO
+a,
+ An Iland of the Turkes.
+
+
+Iuersey,
+ An Iland of the Spaniards.
+
+
+Iublatore,
+ A towne of the Spaniards.
+
+
+
+
+
+
+L
+
+
+LIlbo,
+ An Iland gouerned by Spaniards and Italians.
+
+
+Lisbor
+e,
+ A famous Citie in Portugall.
+
+
+Luca,
+ A Citie in Tuskanie.
+
+
+Ligorne,
+ A famous Citie of the Duke of Florence.
+
+
+
+
+
+
+M
+
+
+MAlta,
+ A famous Iland.
+
+
+M
+ntua,
+ A famous Citie in Italy.
+
+
+M
+aona,
+ A towne in Turkie.
+
+
+Maluedra,
+ A towne in Castile.
+
+
+Mayorke,
+ An Iland of the Spaniards.
+
+
+M
+ork,
+ An Iland of the Spaniards▪
+
+
+Massegant,
+ A Towne in Barbary.
+
+
+
+
+
+Muggadore,
+ An Iland in Barbary.
+
+
+Muria,
+ An Iland in the West Indies.
+
+
+
+
+
+
+N
+
+
+NAples,
+ A famous Citie in Calabria.
+
+
+Naueyrne,
+ A towne of the Turkes.
+
+
+
+
+
+
+P
+
+
+PAlerma,
+ A famous Citie in Sicillia.
+
+
+Petras,
+ A Citie in Turkie.
+
+
+Portercula,
+ A strong towne of the Spaniards.
+
+
+Pume-bien,
+ A towne of the Spaniards.
+
+
+Peza,
+ A Citie in Tuskany.
+
+
+Porta Richo,
+ An Iland in the West Indies.
+
+
+Portaferare,
+ A strange towne of the Duke of Florence.
+
+
+Porta longe,
+ A towne of the Spaniards.
+
+
+
+
+
+
+R
+
+
+ROme,
+ The chiefe Citie of the Pope.
+
+
+Regi,
+ A towne in Calabria.
+
+
+
+
+
+
+S
+
+
+STrumbula,
+ A burning Iland.
+
+
+Sapientia,
+ An Iland of the Turkes.
+
+
+Salerna,
+ A towne in Calabria.
+
+
+Syppa de Vecchia,
+ An ancient Citie.
+
+
+Sardina,
+ A famous Iland of the Spaniards.
+
+
+St. Maries,
+ An Iland of the Spaniards.
+
+
+St. Lucas,
+ A Citie of the Spaniards.
+
+
+Sapphi
+,
+ A towne in Barbary.
+
+
+Sancta Cruce,
+ A towne in Barbary.
+
+
+Santa Lucia,
+ An Iland of the Spaniards.
+
+
+Santa Martyne,
+ An Iland of the Spaniards.
+
+
+St. Michaels,
+ An Iland of the Spaniards.
+
+
+Scanderune,
+ In the bottome of the straits, gouerned by Turkes.
+
+
+St. Georgis,
+ An Iland of the Spaniards.
+
+
+Scena,
+ A Citie in Tuskany.
+
+
+
+
+
+
+
+
+T
+
+
+THe 
+Rhodes,
+ held by the Turkes.
+
+
+The 
+Strauales,
+ And Iland inhabited by Greekes.
+
+
+Tarrant,
+ A Towne in Calabria.
+
+
+The 
+Geta
+ A towne of the Popes.
+
+
+Tunis,
+ A great Citie in Barbary.
+
+
+Tit
+an,
+ A towne in Barbarie.
+
+
+Tangere,
+ A Towne in Barbary.
+
+
+The Riuer of 
+Amazons
+ in the West Indies.
+
+
+Trnidado,
+ An Iland of the West Indies.
+
+
+Teneriefe,
+ An Iland of the Spaniards.
+
+
+The 
+Grand Canaries,
+ inhabited by Spaniards.
+
+
+
+
+
+
+V
+
+
+VAlentia,
+ A famous Citie in Castile.
+
+
+Uize Maligo,
+ A towne in Spayne.
+
+
+Ualdeny,
+ A towne in Brachademayne.
+
+
+
+
+
+
+W
+
+
+VVIapocho,
+ A Riuer in the West Indies.
+
+
+
+
+
+
+Z
+
+
+ZAnt,
+ An Iland of the Venetians.
+
+
+Zumbula,
+ An Iland of the Turkes.
+
+
+
+
+
+
+HEere in this Table haue I not spoken of 
+France,
+ nor of any part of the Low-Countries, neither of 
+Ireland,
+ in all which places I haue beene, nor yet of 
+England,
+ the Garden of the world, because I count it a folly to tell the Master of the house the con∣dition of the Seruants, for euery man by naturall reason can dis∣couer his owne home.
+
+
+Now haue I thought it fit out of the former Table to select twelue principall places, in discouery whereof I shall not omit as occasion is offered to speake of the rest, and how I came to e∣uery place, with the names of Ships and Gallies, with the owners, and Masters, and how many leagues each of these twelue places are from 
+England.
+
+
+
+
+
+
+
+
+FOr proofe of what I haue herein written, concerning my slauery and thraldome, I haue procured, though not without some cost and more trauell, sixe of the chiefest masters of ships of 
+London,
+ who see me, and relieued me often during my thraldome, to subscribe their hands hereunto, as also the hands of diuers Masters and Sur∣gions of other places in England, whose names follow, 
+viz.
+
+
+
+
+Robert Thorneton.
+
+
+Master of the good ship called the 
+Royall Marchant
+ of London.
+
+
+Thomas Gardiner.
+
+
+Master of the good ship called the 
+Triumph
+ of London.
+
+
+Robert Bradshaw.
+
+
+Master of the good ship called the 
+William
+ and 
+Thomas
+ of London.
+
+
+Thomas Rickman.
+
+
+Master of the good ship called the 
+Mary Anne
+ of London.
+
+
+Iames Dauies.
+
+
+Master of the good ship called the 
+Isaak
+ of London.
+
+
+George Millard.
+
+
+Master of the good ship called the 
+May-flowre
+ of London.
+
+
+Denis Dauies.
+
+
+Barber Surgion of London.
+
+
+Thomas Rousley.
+
+
+Barber Surgion of London.
+
+
+Charles Hearne.
+
+
+Barber Surgion of Bristow.
+
+
+Richard W
+ight.
+
+
+Barber Surgion of Plymouth.
+
+
+Walter Mathew.
+
+
+Owner of the good ship called the 
+Mathewes farme
+ of Plymouth.
+
+
+Richard Rowe.
+
+
+Owner of the good ship called the 
+Por∣tion
+ of 
+Milbrook,
+ in the countie of Cornwell.
+
+
+
+
+Many others moe as well Noble men, Knights, Gentlemen, as owners, Masters, and Surgions did see, and can witnesse my slauery, whose hands lik
+wise I might easily haue procured, but that con
+e∣ring the businesse to be of no great importance, I held it needlesse to trouble either them or my selfe any further, and these present wit∣nesses are sufficient.
+
+
+
+
+
+
+
+
+
+
+The twelue principall places are thus 
+distinguished.
+ VIZ.
+
+
+
+
+Three Cities, and three Ilands of the Christians, and three Cities, and three Ilands of the Infidels.
+
+
+
+
+
+
+The Christians be, the Pope, the Spaniards, and the Italian,
+
+
+The infidels be, the Turke, the Moore, and the Indian.
+
+
+
+
+
+
+The Names of the twelue places▪
+
+
+1 
+CIuita de Vecchia,
+ A Citie of the Popes.
+
+
+2 
+Argeir,
+ A Citie of the Turkes.
+
+
+3 
+Tunys,
+ A great Citie of the Moores.
+
+
+4 
+Ligorne,
+ A Citie of the Italians.
+
+
+5 
+Naples,
+ A famous Citie of the Spaniards.
+
+
+6 The Riuer of the 
+Amazons
+ in the West Indies.
+
+
+7 
+Malta,
+ an Iland of the Popes, very famous.
+
+
+8 
+Cyprus,
+ A famous Iland of the Turkes.
+
+
+9 
+S
+l
+ia,
+ A famous Iland of the Spaniards.
+
+
+10 
+Muggadore,
+ An Iland of the Moores.
+
+
+11 
+Candy,
+ A famous Iland of the Italians.
+
+
+12 
+Morria,
+ An Iland of the Indians.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Trauailes and miserable Capti∣uitie of 
+William Dauies,
+ Barber-Sur∣gion of LONDON.
+
+
+I
+ Departed out of 
+England
+ the 28. of 
+Ianuarie 1597.
+ in the good ship named the 
+Francis
+ of Saltash, in the countie of of 
+Cornwell,
+ Master 
+Tyball Geare,
+ Owner, and 
+William Lewellyn,
+ Master of her, being laden with Fish, and He∣rings, and such like commodities, then bound for the 
+Strayts
+ and to arriue at 
+Ciuita de Vecchia
+ to the will and plea∣sure of God: where we arriued the sixt day of 
+March
+ insuing, whose description followeth by me 
+William Dauies
+ Barber-Surgion of 
+London,
+ and borne in the Citie of 
+Heriford.
+
+
+
+
+I. The Description of 
+Ciuita de Vecchia.
+
+
+CIuita de Vecchia
+ is an ancient Citie of the Popes, lying
+ in low ground, a dayes iourney from 
+Rome
+ by land, this City lieth close vpon the Sea, very strongly fortified, and plan∣ted with Ordinance, to the East side a strong Castle, or Fort: And also the like vpon the West side, in this place the Popes Gallies lie, and shipping. For there is a harbour, and fayre mould for their safetie. For the Pope hath no other place for Ships or Gallies but 
+Rome,
+ and there none will come vp but small Barkes, and Boates, and such like, by reason of the shal∣lownesse of the Riuer. In this 
+Ciuita de Vecchia
+ are altoge∣ther
+
+
+
+
+Romanes, wholly professing the Romish Religion, saying directly that the Pope is God an earth, and that he can forgiue any sinne whatsoeuer being committed, which makes the most part of them, or all, runne desperately into most deadly sinnes.
+
+
+For very Murther they hold it no great sinne, being commit∣ted, receiuing of the Popes pardon, or else getting into some Monasterie where they may be confessed, and absolued, where∣by no Law can take hold of them at their comming forth, be∣ing apt and readie within a wéeke, or fortnight after to commit the like Murther, then receiuing the like pardon, or absolution, as before they had done: and thus many bloodie minded men continue their life-time, for it is an easie matter for a man to haue his aduersarie kild, or poysoned for money, although his executioner neuer sée him till such time as he committeth this bloudie déed, being hired by another.
+
+
+Also in this Countrey their women are very lewde and wicked, for euen in that ancient Citie of Rome, there are many thousands of lewd liuing women that pay monethly vnto the Pope for the sinnefull vse of their wicked bodies: some pay sixe Crownes a moneth, and so from sixe Crownes to one, for they are rated according to their outward shew, and for the no
+-payment of this monethly pay, they shall haue their goods strained and carried out of their houses, or chambers, by the Popes officers, and kept from them till such time as satisfaction is made to the Pope. So it is lawfull for any man to vse any of these women as his owne wife, neither shall he be molested or troubled, or otherwise indangered, so he escape secret occasions of danger, for this woman will be as dutifull vnto him as his seruant, alwaies attending his plea∣sure for his diet or any thing else belonging vnto him: he gi∣uing her content with his purse; but she not receiuing content may as lawfully arrest him, and cast him into prison till such time as she doth receiue satisfaction, being recouered by Law: for they hold their liuings by the Pope.
+
+
+Now as I haue spoken of two deadly sinnes wherein they excéed, so will I speake of one thing wherein some of them are to be commended, that is this. If there be any Christian, of
+
+
+
+
+what Nation soeuer, poore and in distresse, making his case knowne, and asking for Christs sake, he shall be relieued, with all those necessaries whereof he is destitute, as apparrell, meat, and drinke, and some money, though it be but little: if he be sicke, then shall he be put into an Hospitall, where he shall be cho
+sely attended vpon, hauing good lodging, dai
+tie diet, and comfortable Phisicke for the r
+storing of his health, whether he be Papist or Protestant: but if he be a Papist, he shall be the better vsed, and if he be a Protestant they will vse all meanes they can to conuert him, but force him to nothing at all. In these Countries it is dangerous for an Englishman being a Protestant to speake any thing against the Pope, or his Religion, especially vnto another Englishman that is a Papist, yet this English Papist will séeke all the meanes pos∣sible to intrappe the Protestant, and will speake ill words of himselfe, to draw him to the like, but when he hath made him vtter the secrets of his heart, then will he make it knowne, and more then the Protestant spake, to some chiefe man of a Church, by whom he shall be forced to alter his Religion, or to be burned, or put in some secret prison where he shall be starued to death, and this is the manner and fashion in all Countries of Christendome within the Popes Jurisdiction, not onely of the treacherie of the English Papists, but also of the other deadly sinnes which I touched before, as their mur∣ther and adultry: and in like manner of their generall com∣passion, to a distressed Christian. What I haue héere writ∣ten, I speake not of heare-say, nor by imaignation, but directly haue séene, and of mine owne knowledge you may speake it, being too long a time amongst them, against my will.
+
+
+
+
+
+
+II. The Description and discouery of 
+Argeir.
+
+
+ARgeir,
+ is a maruellous strong Citie, and gouerned by the
+ Turk, lying vpon the side of an vpright hill, close vpon the Sea, this Citie is very strongly fortified with Castels, Forts,
+
+
+
+
+and platformes, with great store of Ordinance planted about it, also there are many Gallies belonging to this place, which doe much offend the Christians, in taking of their ships, 
+Tar∣tanes
+ and 
+Satties,
+ and other small vessels, making all the Chri∣stians that they take slaues, & selling of them in their markets like horses: for according to age and strength they are prised. This Citie is gouerned by a King, being vassall to the great Turke. Also there are great store of Janizaries in it, to the number of 20. or 30000. at one time: these Ianizaries are chiefe Souldiers, and gouerned by a Dane, which is a generall vn∣der the great Turke. These Turks are goodly people of par∣son, and of a very faire complexion, but very villains in minde, for they are altogether Sodomites, and doe all things contra∣rie to a Christian. For they doe neuer lye in a bed, nor féede vpon a Table; yet their féeding and diet is very plentifull, their bedding and apparrell is very neat and costly, the manner of their lodging is thus: There is a very faire table in a roome, about thrée yards in breadth, and as many in length standing in height one yard from the ground, and thereon they vse to spread a double quilt very costly with many curious Cushions, in stead of Pillowes, whereon he lieth downe in his shirt, and linnen britches onely, without any other couering, by reason of the heat of the countrey. Also in the same roome he hath ano∣ther Table laid after the same fashion very richly, whereon his wiues doe lie, but she that likes him best, he will take to ac∣company him for the night. A Turke may haue as many wiues as he pleaseth, so he be able to buy them, and by the number of his wiues, most commonly his substance is knowne, for the richer he is, the more wiues he hath, the poorer the fewer: yet neuer married to none of them, but onely the first, but maintai∣ning of them all. It is very dangerous for a Christian to be found in the company of any Turkes woman, for being found together, he shall be forced to turne Turke, or else be put to death, and the said woman also shall be put into a sacke, which being made fast, she shall be flung into the Sea, whether they commit the sinne or not. These Turkes are very zealous in their religion, acknowledging God; and 
+Mahomet
+ a soliciter
+
+
+
+
+for their sinnes. A Turke will kéepe his word if he sweares by his head, putting his hand vpon his forehead. In this coun∣trey there is great store of gold and rich Marchants; the man∣ner of their Churches and comming to Prayer is thus. The Church is very faire within, with many hundreds of Lampes burning therein, all matted vnder foote, without any kinde of picture, or seats, also most of them doe pray vpon Beads. In the morning on the top of the Church they hang out a white flag, and in the after noone a blew one for a signe of their com∣ming to Church, then goeth eight or tenne of them on the very top of the Church, and crie with a loud voice. 
+Volla, volla hamdrulla
+ and 
+shalla,
+ that is to say God, God, helpe vs at thy pleasure, and this is their ordinary warning to come to Church, as we vse Bels in Christendome, for they abhorre the ringing of Bels, being contrary to their Prophets command.
+
+
+A Turke chooseth his first wife after this maner. He neuer séeth his wife till she come to the Church to be maried, for the match is made by their friends, neither is a Turkish womans face to be séene, because their faces are continually couered going through the stréets, both young and old: neither shall a man∣childe after he is tenne yeeres old euer sée his mother. A Turke is Circumcised after this manner. The better Gen∣tleman he is, the longer he stayes afore he be Circumcised, but the time being come, then is he put vpon a very faire white horse, being very costly attired, and before him goeth two, or three hundreth by two and two in purple coates, bearing waxe candles in their hands, and after them followeth a great ma∣ny playing on diffused Instruments making of a great noise, then followeth a Bull couered with very faire Arras, and his hornes gilded, and next rideth he that shall be Circumcised, with all his friends following, and thus he rideth to the place of Circumcision, where they cut off the foresa
+ne of his yard, naming of him 
+Morat, Shebane,
+ or 
+Hosan,
+ or some such like name: then will they take the Bull, and turne his head to to the East-ward, then cut his throat, saying, this day wee haue done a good déed, then they cut the Bull in yeeces, and di∣stribute it among his friends, and kindred, and so they re∣turne
+
+
+
+
+home where they doe feast with great ioy.
+
+
+The manner of a Christian turning Turke, is thus. He is put vpon a horse with his face towards the tayle, and a Bow and an Arrow in his hand, then the picture of Christ is car∣ried before him with his feete vpwards, at the which he drawes his Bow with the Arrow therein, and thus he rideth to the place of Circumcision, cursing his father that begate him, and and his mother that bore him, his Country, and all his kindred: then comming to the place of Circumcision, he is Circumcised, receiuing a name, & denying his Christian name, so that euer after he is called a 
+Runagado,
+ that is, a Christian denying Christ and turned Turke: of which sort there are more in Turkie and Barbary then of naturall Turkes. The manner of their iudgement for offending of the Law touching death, eyther for theft or murther, is thus: within foure houres after he is taken, he is condemned by certaine chiefe Souldiers, and presently put to death after this manner, 
+viz.
+ ganshed, s
+aked or beat to death. Their ganshing is after this manner: He sitteth vpon a wall, being fiue fadomes high, within two fadomes of the top of the wall, right vnder the place where he sits, is a strong Iron hooke fastned, being very sharpe, then is he thrust off the wall vpon this hooke with some part of his bodie, and there he hangeth sometimes two or thrée daies before he dieth. Staking to death is thus: Around péece of wood thrée yards long, and as big as a mans leg, being sharpe at one end, is ta∣ken and driuen in at the fundament of the offender, and out at his shoulder, and so they let him lie till he be dead, which some∣times will not be in a day or two. The manner of beating to death is thus: They take the offender, and lay him down vpon his backe, being naked, and with two double ropes, two seuerall men, one on the one side, and the other on the other side of him, beate on his belly till he is dead. But these deaths are very seldome vsed, because they are so fearefull to the offen∣ders, yet I haue séene them all executed.
+
+
+
+
+
+
+
+
+III. The Description and discouery of 
+Tunys.
+
+
+TVnys
+ is a great Citie in 
+Barbary,
+ inhabited by Moores,
+ and some Turkes and Jewes. This City is spacious, and lieth in low ground, eight miles from the Sea: there be∣longs to this Citie a verie fayre Castle, named the 
+Galletta:
+ This Castle is very strong of Ord
+ance, and gouerned by Turkes: betwixt the Citie and this Castle lyeth the ancient Citie of 
+Carthage,
+ sunke, by the report of all the Inhabitants thereabouts: but this did I sée my selfe going vp to 
+Tunys
+ in a Boate, the foundation of many houses for the space of foure or fiue miles, the water being very cleare, and in depth a fa∣dome and a halfe.
+
+
+The Moores of this Countrey are altogether in Religion like to the Turkes, and also in habite: they are verie light of foote, and gallant horsemen: they cannot indure Hogs flesh, nor the drinking of Wine, for they drinke water altogether, except it be sometimes 
+Aqua-vitae.
+ The manner of their liuing in the Countrey is thus: They will goe fiue or sixe hun∣dred together, Men, Women, and Children, with their Cam∣mels, Asses, and Shéepe, together with all their Poultrie, vn∣der the side of a Mountaine, where euery man pitcheth his Tent, liuing euery man to himselfe, hauing his Wife and Chil∣dren about him, with his Seruants and Cattell, thus many Tents are pitched together, to the bignesse of a little Towne, continuing there till such time as their Cattell haue eaten vp the grasse, and then being able to stay there no longer, they remooue to another place, where they liue as before they had done: and thus they doe spend their liues. By reason the Countrey is continually hotte, their féeding is plentifull, but their apparrell poore and bare, neyther haue they any, but what they buy with the increase of their Cattell, carrying them often to the Townes, Cities, and Market places néere, where they haue sale for them. These
+
+
+
+
+Moores are very ingenious people, cunning and treacherous.
+
+
+Now leaue we 
+Tunys
+ in the same Ship that I came out of 
+England
+ in, named the 
+Francis
+ of Sal
+ash, being bound to 
+Syo
+ within the Arches of 
+Archipelago,
+ and fraighted with Tur∣kish goods by Turkes, and some Turks aboord with vs, for wée traded as well with the Turke as the Christian: but we had not sailed aboue foure leagues out of our Port in the night season, but that we were most fiercely set vpon by sixe of the Duke of 
+Florence
+ his Gallies, (who being in continuall warre with the Turke, tooke vs as a Turkish prize) which spit fire like diue
+s, to our great discomfort, but at length couraging of our selues in Gods mercies, we continued fight with them, to the losse of many a mans life of each fide, but all in vaine for vs, for they were fortie for one of vs, and our Sip torne downe to the water with their Ordinance, our mayne Mast, and mis∣sen Mast, shot by the boord, the 
+e end of the Mast with all the sayles lying in the Sea, the other end aboord: thus were we taken, and stript euery man starke naked, and then were we distributed, some into one Gallie, and some into another▪ where we had as many Irons knocked vpon vs, and more, than then we were able to beare. Our Ship presently sent to 
+Ligorne,
+ being mended as well as they could, but we in the Gallies, continued a moneth before we came thither, to the losse of many of our liues: but at length comming thither▪ as ma∣ny of vs as were left aliue were thus intertained. We w
+re all shauen both head and beard, and euery man had giuen him a red coate, and a red cap, telling of vs that the Duke had made vs all Slaues, to our great woe and griefe: where I continued eight yéeres and ten moneths in this slauerie, as in the next discouerie shall be truly spoken of.
+
+
+
+
+
+
+IIII. The Description and discouery of 
+Ligorne.
+
+
+LIgorne
+ is a Citie of the Duke of 
+Florence,
+ and lyeth in low
+ ground, hauing many towers without it, standing in the
+
+
+
+
+Sea, also to this Towne doth belong a wilde road, and two very faire moulds for the safetie of the Dukes Gallies. In the entrance of these moulds is a very strong Castle with great store of Ordnance planted: also the Towne is very strongly fortified, for it is the chiefe garrison of the great Dukes, where is continually great store of Souldiers in pay. Which Souldiers are alwaies imployed in his shipping or Gallies, wherewith he doth more offend the Turke then all Christen∣dome, for they doe take Gallies and Carmizals and Brigan∣téens, and Townes of the Turkes and Moores: possessing of Men, Women, and Children, and selling them in Markets, like to Horses, Cowes, or Shéepe, reseruing the strongest for his owne flauery: In this place I liued eight yéeres, and ten moneths: thrée yéeres of this time I liued in this manner, from Sunne rising to Sunne set, chained in a Cart like a horse, re∣ceiuing more blowes then any Cart-horse in England, our diet being Bread and Water, and not so much Bread in thrée daies as we might haue eaten at once, thus we were vsed to goe fortie or fiftie Carts together, being all slaues: our la∣ding would be Sand, or Lyme, or Bricke, or some such like, and to draw it whither the Officers appointed vs, for their buildings. These Italians are very deceitfull people, for when they laugh in a mans face, they will séeke to kill him, yet they are very cowards being naturall Italians: their wo∣men are altogether wicked and lewde. Thrée yéeres being spent in this manner: all we English▪men were called as ma∣ny as were left aliue, making choise of the ablest of vs to goe into the Gallies, of which I was one chosen, then did my mise∣rie increase many-fold, for then I was made a Gally▪slaue to row at an Oare, where our former diet lessened▪ but blowes increased, to the losse of many of our liues. We were shauen Head and Beard euery eight or tenth day, being alwaies na∣ked, but onely a payre of linnen bréeches and chaines conti∣nually. In this time I was at the taking of many a Towne and Gally of the Turkes, though sore against my will, sée∣ing of many Cities, Ilands, and mayne Lands in the time of my slauerie, where I continued sixe yéeres a Gally-slaue,
+
+
+
+
+finding in all this time much comfort and reliefe from En∣glish Marchants that were Protestants, and also from ma∣ny English Masters and owners of Ships. But from En∣glish men being Papists none at all. The miserie of the Gal∣lies doth surpasse any mans iudgement or imagination, ney∣ther would any man thinke that such torture, or torment were vsed in the world, but onely they that féele it, the extrea∣mitie of miserie causeth many a slaue to kill themselues, or else séeke to kill their Officers; but we were not suffered to haue so much as a knife about vs, yea if we had gotten one by any extraordinarie meanes, and offered any violence to any Offi∣cer, we should presently haue lost our nose and eares, and recei∣ued a hundred blowes en our bare backe, and a hundred on our belly with a double rope, or a Buls pis
+e, continuing a slaue still: But I intreated the Almightie God to grant me grace that I might indure it patiently, that féeling that extreamitie in bodie in this world, how farre would the torments of hell haue surpassed and excéeded it, if I had in this my earthly tor∣ture béene accessary to mine owne death, as many were. But at length God of his great goodnesse and mercy, deliuered me (according to my hope) in this manner. The great Duke fit∣ted a ship▪ a Tartane and a 
+Frigot,
+ being very well appointed and victualled, dispesing of them into the West Indies, and chiefe∣ly for the Kiuer of the 
+Amazons,
+ appointing Captaine 
+Robert Thornton,
+ an Englishman to be chiefe Commaunder of the Ship, the 
+Tartane
+ and the 
+Frigot:
+ so likewise was euery other Officer appointed by the Duke himselfe; insomuch as spea∣king of the placing of a Phisition, a Surgion, and a Surgions mate, Captaine 
+Thornton
+ standing by, said, your Highnesse may doe well to deliuer a poore Englishman that hath con∣tinued a great while in your Gallies: hée is well experimanted in P
+sicka, and Surgery, by reason of his long practise both by Sea an Land: he is hardned to the Sea, and able to dis∣charge the place better then the thrée before mentioned: for in the Gallies he doth your Highnes but the labour of one slaue: whereupon the Duke demaunded my name. Captaine 
+Thorn∣ton
+ answered, and said, 
+William Dauies:
+ whereto the Duke
+
+
+
+
+replied, I haue often béene spoken to for that fellow, whose liberty now I giue vpon thy good report, 
+Thornton,
+ but yet I doubt his vsage hath béene so hard in my Countrey, that as soone as hée is out of chaynes, he will giue me the slip and not goe the voyage into the In
+ies with thée. But if he can giue fiue hundred Crownes securitie to goe the voyage, hée shall be released presently out of chaynes: neyther shall hée want any thing that is needfull for the voyage, 
+or the good of all the Company, or for his owne bodie, and this let him vn∣derstand as soone as may be: which newes came within two dayes vnto me, to my great reioycing & comfort, but as soone as I heard it, I sodainly sate down, being at my ol
+ profession, car∣rying of durt, and stone, and such like in a basket, and would worke no longer, neyther suffer the slaue to worke that was chayned vnto mée, but as soone as I was espied, one of the Masters of the worke came to mée, and said thou Lutheran Dogge: Why workest thou not? and with that strake me with a Cudgell, whereto the slaue that was chayned with me, replied. The Duke hath giuen him his libertie: then said hée that had stroken mée, Master, I beseech you forgiue mée, and excuse my rashnesse, doubting that I should haue re∣membred his former courtesies being at libertie. And with∣in a short time after Captaine 
+Thorneton
+ came from 
+Flo∣rence
+ to 
+Ligorne,
+ where I was, who then tolde mee the Dukes disposition to the full, and vpon what securitie I should be deliuered: which securitie I did sodainely procure by an English Marchant, whose name was Maister 
+Wil∣liam Mellyn,
+ of 
+Bristow,
+ who passed his Band for fiue hun∣dred Crownes to the Duke, for the performance of the voy∣age by mée: Whereupon I was sodainely released out of chaynes, to my great reioycing, giuing God thankes for his blessings. Then was I presently well apparrelled by Cap∣taine 
+Thorneton,
+ and this Marchant, wanting nothing whereof I was destitute: But within two or three dayes after I was sent for, by the great Duke, to come vnto him to 
+Archemeyne,
+ where then hée continued, whither so∣daynely I repayred, and comming to the Dukes presence,
+
+
+
+
+doing my dutie, he said vnto me, be of good comfort I haue gi∣uen thée grace, with thy liberty, neyther shalt thou want any thing for the fitting of thy voyage, or néedful for thy owne bo∣die, therefore speake boldly, and demaund any thing that shall be necessary, and I will haue thée well fitted: for the great Duke of 
+Florence
+ wants no money. Then he demaunded of me further what I was in mine owne Countrey, whither I was a Gentleman or no. I answered his highnesse I was: then he asked me how? I told him my father was a Gentle∣man, and for my part I had serued my Quéene by Lano and by Sea, against the aduersaries of my Quéene and Coun∣trey, and had lost mine owne bloud, and spilt my enemies bloud: and next that I was a Gentleman by Art. Then the Duke answered and said: Thou art a worthy fellow, for thou hast indured much miserie in this world. But tell me, quoth hée, with what substance of wealth camest thou out of thy Countrey: I answered with two purses full: Full said hée, of what? I said of Siluer and Gold, which I lost when I was taken by his Highnes Gallies, and the other full of Patience, which doth continue full still: Then said the Duke to one that stoode by, giue him a hundred Crownes to spend to strengthen himselfe, and bring himselfe to courage; thus did the Duke take delight in discoursing with me, in respect I spake the I∣talian tongue very perfectly, for I bought it déere, with many a droppe of my bloud, in the time of my slauerie. Then receiuing this hundred Crownes, which the Duke had giuen me, I left his Court, comming presently to 
+Ligorne,
+ where the Ship lay, indeauoring of my selfe, by my labour, and industrie, for the fitting of all things necessary for the good of the Uoyage, vpon the Dukes charge, besides this hundred Crownes: for they were giuen mée to spend at my owne pleasure, which I did, to the comfort of many English-men that lay in chaines, that were taken with mée: they wanted neyther meate nor drinke as long as my money lasted, as many of them as were left a∣liue, for of seuen and thirtie of vs that were taken at the first, there remayned then but thirtéene, whereof tenne continued in chaines, and two were deliuered with me. By this time
+
+
+
+
+all things were prepared and made readie for the performance of our pretended Uoyage, now being bound to serue in the good Ship called the 
+Santa Lucia,
+ with a Frigot, and a Tartane, well victualled, and well manned, and chiefely bound to the Ri∣uer of 
+Amazones,
+ with other seuerall Riuers, the which the Duke would haue inhabited, hoping for great store of gaine of Gold, but the Countries did affoord no such thing, as here∣after shall be spoken of. Upon this Uoyage we were foure∣téene moneths, making little gaine, or benefit for the Duke, for there was nothing to be gained. Now are we homewards bound, and recouering the straits againe, & being within three or foure dayes sayle of our owne Port, 
+Ligorne:
+ in the night season we met with an English Pirate, who would haue ta∣ken vs, but was not able, yet held vs fight all the whole night, and kild vs a man, and hurt other two: whereof one was an Englishman, who died within two dayes after we recouered 
+Ligorne,
+ and being dead I went to the Captaine and demaun∣ded of him where he should be buried, but he 
+ad him goe aske of one father 
+Sherwood
+ an Englishman, so he told mée that if he were a Romane Catholike they would burie him in the Church, but if he were not, I should bury him out in the fields: But yet for my better assurance I went and asked of the Fri∣ers of the 
+Misericordia,
+ who also gaue their aduise, and coun∣sell that he should be buried in the fields, because he was no Romane Catholike, whereupon I buried him in this man∣ner.
+
+
+I intreated the company of many Englishmen that were Protestants to helpe me to shroud him, and also to accompany me to the burying of him, which they did in this manner. We put him vpon a Beare, being shrowded with a couering ouer him, and carried by foure men, many Englishmen that were Protestants followed him, bearing euery man a branch of Rosemary in his hand to the place where we buried him, rea∣ding Prayers ouer him after the English manner. His name that was buried was 
+Erasmus Lucas,
+ and borne in 
+Southwarke
+ néere vnto 
+London.
+ Two daies being spent after his buriall, & was sought for by an Italian Fryer, who finding of me, de∣maunded
+
+
+
+
+of me my name, which presently I told him, then he replied, thou art he that I looke for, for thou hast buried a good Christian, and a Romane Catholike out in the fields, like to a Dog and a Lutheran as thou art thy selfe: therefore I charge thée in the Dukes name to goe along with mée, which command I durst not denie, but went with him, where he brought me be∣fore thrée or foure aged Friers of the Inquisition, & they asked of me whether I were that Lutheran that buried a good Chri∣stian in the fields, for he was a Romane Catholike, and confest, and receiued the Sacrament like to a good Christian, and there∣fore thou shalt be burned, for thou hast done contrary to the Law of 
+Rome.
+ I answered that I had buried a good Christian, but not a Romane Catholike, neither was he confest, nor re∣ceiued the Sacrament: they replied, if this be not true which thou hast said thou shalt surely die for it. Therefore take him, and put him into the secret, whither vnto I was brought, which is a prison in this manner: Many double doores being o∣pened, I passed through two or thrée outward prisons then comming to the doore of the secret, whereinto I was thrust, it was so darke that I could sée no part of my body, then féeling round about me with my hands, I found it to be very short in length, & lesse in breadth, but of height I know not how high, because I could neither sée nor féele the top. In this place I was almost ouer shoes in the filth of other men that had died there before, who neuer liued aboue eight or ten daies there at the most: Then wrapping one arme within another, and leaning against the wall, calling to minde 
+Iobs
+ miseries and 
+Daniels
+ afflictions amidst the Lions, and incouraging my selfe in Gods mercy, sung a Psalme very chéerefully to the praise and glory of God, wherein I was greatly comforted. Then did I draw off my shoes and stockings, & with my bare féete swept all the trash and filth into one corner. In this manner I liued fortie houres before any sléepe possest me, and then being desirous of sléepe, I sate downe and leaned my head against the wall, and slept very soundly, being altogether comforted with a liuely hope in the Almighty God, that he would deliuer me (according to my trust) as he had done before. And when most extreames
+
+
+
+
+would oppresse me, then would I be most ioyfull, finding al∣waies an inward motion, saying, be of good comfort, the Lord will deliuer thée: In this manner I liued sixtéene daies, my food being bread & water, and my lodging vpon the cold stones, and being yet aliue, they held it a miracle that I should liue there so long, saying, this Lutherane hath a Lions heart, for we ne∣uer knew any to liue aboue ten daies, wherfore let vs haue him forth to be examined. Then was I brought before the high In∣quisitioner, who demanded of me, whether he that I buried had receiued the Sacrament & confest, according to the Romane or∣der or no, I answered no; he was a good Christian, but receiued not the Sacrament, nor was not confest, after the order of 
+Rome:
+ then he said that he was, by a Frier of the 
+Mesericordia,
+ & there∣fore thou shalt be burned. Then I intreated that I might but speake, and he said speake on: then I asked them this, whether the Frier that confest him could speak any English or no, he an∣swered that he could speake none: then tell me quoth I, how an Italian Frier (can confesse an Englishman speaking no En∣glish, nor the Englishman speaking no Italian, nor other lan∣guage but his mother tongue? for you know wel there must be no interpreter in confession, & if the Sacrament were ministred vnto him, the house where he died can iustifie it. Then the Inqui∣sitioner hearing this, scratched his head, saying, this fellow hath spoken the truth, wherfore take him and put him out into a large prison, whether I was brought, where I liued ten wéeks being well, and often relieued by English Protestants, who reioyced much to see me aliue. These malicious Friers, there reason wherefore they sought my life was, because they would haue the dead mans pay to themsel
+es, which if he had béene a Roman Catholik had bin their due, & in respect he was not, they mist of the pay, & of their wicked pretence against me, (God I giue him thanks) by reason I could speak the Italian tongue, for if I had had an interpreter in this, though my cause was iust, yet I had surely died. Ten wéeks being spent in this prison, it was the fortune of one 
+M. Richard Row
+ of 
+Milbrooke,
+ in the countie of 
+Cornwel,
+ to ariue at 
+Ligorne,
+ in the good ship called the 
+Portion
+ he being owner & Marchant of the said ship, & one day comming
+
+
+
+
+to the Prison grate demaunded of me what Countrey-man I was, I told him I was borne in the Citie of 
+Hereford.
+ He as∣ked my name: I answered 
+William Dauies.
+ Said he, know you one Master 
+Dauies
+ in 
+Plymmouth.
+ I said I was an vnfortu∣nate brother of his. With that he was very sorely grieued, in respect he knew my brother very well, and loued him directly, and told me if all the meanes that he could vse could deliuer me, he would: therefore said hée, thinke with your selfe, how I may deliuer you, and I will be backe againe with you with∣in these two or thrée houres: whereupon he deliuered me sixe Crownes, and bid me spare for no money, for he knew my brother would repay it againe: then leauing me, I sate downe and leaned my head vpon my hand, setting my elbow vpon my knée, intreating my Almightie God, to shew me some direct course whereby I should be deliuered. Then presently came in∣to my head, to send for a Frenchman, in whose house I had al∣waies layne before, who presently came vnto me, vnto whom I imparted my minde, telling of him that if he would faine a matter of debt against me, I would giue him ten Crownes for his labour, though I ought him nothing: but he answered and said it was dangerous, for it was a Gally-matter, but I vewed it should neuer be made knowne by me: Whereupon he gaue consent, and went to the Gouernour and told him, that in the Prison where debters are, there is an Englishman who oweth me money, and we were agréed, then said the Com∣missarie if thou art content, let him pay the charge of the house, and be gone: which charge I paid presently, and was fréed, de∣parting away with the Frenchman, and brought him to Master 
+Hunts
+ house, the English Counsell, where I gaue him his tenne Crownes. So leauing one another, I went pre∣sently aboord of Master 
+Rowes
+ Ship, being then bound for Naples, vnto which place wée came, whose description fol∣loweth.
+
+
+
+
+
+
+
+
+V. The Description and discouery of 
+Naples.
+
+
+NAples
+ is a famous and most worthy Citie very spatious,
+ standing close vpon the Sea, meruailous strongly forti∣fied and planted with Ordnance, in many seuerall Castles, Bulwarks, Forts, and such like: Also to this Citie doth belong many Gallies, and very good shipping, and continually great store of shipping rides before it, this Citie lies in the Land of 
+Calabria,
+ and is gouerned by a 
+Vice-Roy,
+ vnder the King of 
+Spayne:
+ also there are many Souldiers in Garrison, being all Spaniards. The King of 
+Spayne
+ maintaynes many P
+nti
+∣ners there. In this Citie they speake seuerall Christian lan∣guages, because there are of all Nations in Christendome but principally Italians, and Spanyards. The Neopolitans are very proud, and of a leftie spirit, being for the most part very rich, and costly attired, and most commonly well furnished in∣wardly with their Countrey disease. They are altogether Pa∣pists, and their women very audacious, especially in the sin∣full vse of their bodies, by reason they haue as well their par∣don as priuiledge from 
+Rome.
+ In this Citie it is verie dan∣gerous to walke by night, for a man may sodainly be kild for the cloathes on his backe, whither hée be poore or rich. In this place are alwaies great store of Marchants and Lidgers of seuerall Countries, as specially English, Dutch, Greekes, Italians, Uenetians, French, Spaniard, Jew, with many other Christian Nations. The chiefe commoditie that these Mer∣chants deale in, is 
+aw▪ Silke, or Silke wrought, eyther into Sattens, Taffities, Grograms, and diuers other silke stuffes, Silke stockings, Laces of all sorts, & Garters of seuerall sorts. In this place I haue béene diuers times, and neuer found any thing note-worthy, but onely one, which was this. A mine vnderneath a great Mountaine about a mile or thereabouts in length. This vault was digged by the industrie of men for a passage from the Citie to an Iland called 
+N
+ta,
+ where all
+
+
+
+
+shipping doth stop before they come to the Citie; The reason wherefore this passage was inuented, is because the mountaine ouer it is so sléepe that there was no passage ouer it, except they would goe twentie miles about, but now Coaches, Wagons Carts, horse or foote may passe as smoothly through as in a plaine way, continually hanging within it great store of Lampes: this vault is in height about fiue fadame, and foure in breadth, it is named the Grout, & by common report one 
+Virgil
+ a learned man was the Author of it, whose Tombe is aloft in each end of it, hauing a Lampe hanging continually before it: Through this place I haue oft and many times passed: and therefore vpon my owne knowledge I can assure what I haue written.
+
+
+
+
+
+
+V. The Description and discouery of the Riuer of 
+Amazons.
+
+
+THe Riuer of the 
+Amazons
+ lieth in the highest part of the
+ West Indies, beyond the Equinoctiall line; to fall with this Riuer fortie leagues from Land you shall haue eight, sixe, and seauen fadome water, and you shall sée the Sea change to a ruddie colour, the water shall grow fresh, by these signes you may run in boldly your course, and comming néere the Riuers mouth, the depth of your water shall increase, then you shall make discouery of the trées before the land, by reason the land is very low, and not higher in one place then another thrée 
+oote, being at a spring tide almost all ouer flowne, God knowes how many hundred leagues. It flowes much water there with a very forcible tide. In this Riuer I continued ten wéekes, seeing the fashion of the people and countrey there: This Countrey is a together full of woods, with all sorts of wilde beasts, as Lions, Beares, Wolues, Leopards, Baboones, 
+range Bores, Apes, Monkies, Martyns, Sanguins, Mar∣mosets with diuers other strange beasts: also these woods are 
+ull of wilde-fowle of all sorts, and Parats more plentifull then Pigeons in 
+England,
+ and as good meat, for I haue often
+
+
+
+
+eaten of them. Also this Countrey is very full of Riuers, ha∣uing a King ouer euery Riuer. In this place is continuall tem∣pests as lightning, thunder, and rayne, and so extreame, that it continues most commonly sixtéene or eightéene houres i
+ foure and twentie. There are many standing 
+ters in this Countrey, which be full of Aligators, 
+G
+es,
+ with many other seuerall water Serpents, and great store of fresh fish, of strange fashions. This Countrey is full of Muskitas, which is a small Fl
+e, which much offends a stranger comming newly into the Countrey. The manner, fashion, and na∣ture of the people is this: They are altogether naked, both men and women, hauing not so much as one three
+ about them to co∣uer any part of their nakednesse, the man taketh a round Cane as big as a penny candle, and two inches in length, through the which he puls the fore-skin of his yard, tying the skin with a péece of the rinde of a tree about the bignesse of a small packe∣thréed, then making of it fast about his middle, he continueth thus till he haue occasion to vse him. In each eare he weareth a Réed or Cane, which he bores through it, about the bignesse of a Swans quill, and in length halfe an inch, and the like through the midst of the lower lip: also at the bridge of the nose he hangs in a Reed a small glasse Bead or Button, which hanging direct∣ly afore his mouth, flies too and fro still as he speaks, wherein he takes great pride and pleasure. He weares his hayre long, be∣ing rounded below to the nether part of his eare, and cut short, or rather as I iudged pluckt bald on the crowne like a Frier. But their women vse no fashion at all to set forth themselues, but starke naked as they were borne, with haire long of their heads, also their breasts hang very low, by reason they are ne∣uer laced or braced vy: they do vse to annoynt their bodies, both men and women, with a kinde of red earth, because the 
+Muski∣tas
+ or Flies shal not offend them. These people are very inge∣nious, craftie▪ and treacherous, very light of foote, and good Bowemen, whose like I haue neuer seene, for they doe ordinarily kill their owne foode, as Beasts, Fowle, and Fish, the manner of their Bow and Arrowes is this. The Bow is about two yards in length, the Arrow seauen foot. His
+
+
+
+
+Bowe is made of Brazill wood very curious, his string of the rinde of a Trée, lying close to the Bow, without any bent, his Arrow made of a Réed, and the head of it is a fish bone, hée kils a beast in this manner: standing behinde a Trée, hée takes his marke at the beast, and wounding him, he followes him like a Bloud-hound till he fall, oftentimes seconding his shoote: then for any fowle be he neuer so little, he neuer misses him: as for the first, he walkes by the water side, and when he hath spied a fish in the water, he presently strikes him with his Arrow, and sodainly throwing downe his Bow, he leaps into the water, swimming to his Arrow which he drawes a-land with the fish fastned to it, then hauing each kild his owne sood, as well flesh, and fowle, as fish, they méet together, to the num∣ber of fiftie or si
+tie in a company, then make a fire after this fashion: They take two stickes of wood, rubbing one hard a∣gainst another, till such time as they be fired, then making of a great fire euery man is his owne Cooke to broyle that which he hath gotten, and thus they féede without Bread or Salt, or any kinde of drinke but Water and Tobacco, neither doe they know what it meanes: In these Countries we could finde nei∣ther Gold nor Siluer Dare, but great store of Hennes. For I haue bought a couple for a Jewes Harpe, when they would refuse ten shillings in mo
+ey. This Countrey is full of deli∣cious fruit, as 
+ynes, Plantins, Euaues, and Potato rootes, of which fruits and rootes I would haue bought a mans bur∣then for a glasse Button or Bead. The manner of their lod∣ging is this: they haue a kinde of net made of the rinde of a Tree which they 
+ll 
+Haem
+c,
+ being thrée fadome in length, and two in breadth▪ and gathered at both ends at length, then fastning eyther end to a Trée, to the full length about a yard and halfe from the ground, when he hath desire to sléepe, hée créepes vnto it The King of euery Riuer is knowne by this manner. He wear
+s vpon his head a Crowne of Parats fea∣thers, of seue
+al
+ 
+o
+s, hauing eyther about his middle, or about his necke 
+ chaine of Lyons teeth or clawes, or of some other strange 
+a
+, hauing a woo
+en sword in his hand, and hereby is he knowne to be the King: Oftentimes one King
+
+
+
+
+warres against another in their Canowes, which are Boats cut out of a whole Trée, and sometimes taking one another the Conquerers eates the Captines. By this time ten wéeks were spent, and being homewards bound, but not the same way that we came, for we sayled vnto the Riuer before the winde, because it blowes there continually one way, which forces all ships that come thither to returns by a con∣trary way.
+
+
+
+
+
+
+VII. The Description and discouery of 
+Malta.
+
+
+MAlta
+ is a small Iland, very famous, hauing two Cities
+ vpon it called 
+Terra-noua,
+ and 
+Terra-vecha
+ being s
+ituate very néere one another. This Iland is gouerned by a great Master, who acknowledgeth no Superiour vpon earth, but the Pope to be Supreame head of the Church. The great Master liues in 
+Terra-noua,
+ which is a great Citie, lying close vpon the Sea, marueilous strongly fortified and planted with Ordnance the like is not in Christendom, for the Turke hath oftentimes sought to take it, with two or thrée hundred sayle of Gallies at a time, but yet was neuer able to take any part of it. To this Iland doth there belong Gallies, though they be but few, to the number of sixe or eight sayle, and also shipping, where∣with they doe much offend the Turke, taking of them very often, and making them slaues: In this Iland they hold the Romish Religion, both men and women, their women are al∣together lasciuious and lewdly giuen, but there men are vali∣ant, Gentlemen, and worthy men at armes: they are of all Nations of Christendome, speaking generally all languages, also they haue an ancient order of Knighthood, sworne by the Crosse of Saint 
+Iohn,
+ which is a forked white Crosse which they weare vpon their breasts to be knowne to be C
+u
+liers and Knights of 
+Malta.
+ The manner of their▪ Oath of Knight∣hood is this: that they shall neuer marry, by reason they shall neuer haue Children legitimate: for there are many Lords
+
+
+
+
+and Noble men sent thither by their Uncles to be Knighted, because they shall neuer marry, whereby after his death his lands shall come to his Uncles issue, yet they are suffered to haue as many whores as they will. Another part of their oath is this. A Knight of 
+Malta
+ is sworne not to stand in place where two, thrée, or foure are vpon one in fight, but to take the weaker part, & to fight to the last. They are all of bold courage, being to the number of fiue thousand or there abouts, in 
+Malta
+ and other Christian places: another part of their oaths is this, by Land or Sea, whether it be in ship or Gally, they are sworne to incounter their aduersaries, though they be thrée to one, and neuer to yéeld or slip away, for they are sworne to fight it to the last mans death: The which oath they performe very cou∣ragiously, for they are Gentlemen of very great respect, ney∣ther will they euer fall out amongst themselues, being forbid∣den by another part of their oath. As for their maintenance, the poorer sort haue a pention from the great master, which maintains him very gallant, and the richer sort liue vpon their owne charge. One thing there is strange in that Iland, those that are borne without the cities speak altogether the 
+Morisco
+ tongue, being altogether like Moores. This Iland is very plen∣tifull and fruitful of all things, especially, Wine, Corne, Fish, Flesh, and Fruits. These Knights are very mercifull, hauing their aduersaries prostrate, greatly regarding their Oath.
+
+
+
+
+
+
+VIII. The Description and discouery of 
+Cyprus.
+
+
+CYprus
+ is a famous Iland of the Turks, hauing two Cities
+ and many Townes vpon it; The chiefest Citie vpon it is 
+Famagosta:
+ this Citie lies close vpon the Sea, in low ground, being very strongly fortified & walled about, and gouerned by Turkes, holding their owne Religion, belieuing and confessing God the Father, and their Prophet 
+Mahomet,
+ doing all things contrary to a Christian, yet though they doe not acknowledge Christ to be the Son of God, and a God, yet they say he is the
+
+
+
+
+breath of God, and by the Jewes put to death, but they doe not beléeue that he is risen again. They hate a Jew aboue any nati∣on euen as they do the diuel, neither do they care to kill him, no more then they doe a dog, oftentimes killing them in the very stréets vpon the least occasion, if it be but for touching his gar∣ment as he passeth by him: yet their liues many Jewes in all parts of the Turkes dominions, but in this manner. They will suffer neither man, woman, nor childe to plucke vp their shoes on their héele, if they be Jewes, but goe alwaies slipsh
+d and barelegd, wearing a blacke cap vpon his head, and carrying of a buckram sack vpon his shoulders empty, to shew that he is a Jew, & a slaue to the world. In this Iland of 
+Cyprus,
+ without the Cities and Towns, the Countrey is inhabited by Greeks, liuing vassals to the Turks, paying to the Turke the tenth of all that they possesse, euen to the tenth of their children, if they amount to that number, and that tenth childe is Cir∣cumciled and made a Turke, receiuing an 
+Osper
+ a day from the great Turke for the first yéers, and for the second two, and for the third thrée, 
+per diem,
+ and so his pay increaseth an 
+Osper
+ yéerely as he groweth in yéeres, for he is chosen from his in∣fancy to be a Souldier of the great Turkes, and so shall all his male children receiue the like pay, and be Souldiers to the Turke: their garments being welt
+d about the necke with a welt of purple silk, wherby they are known from others. This 
+Osper
+ is the eleueuth of a shilling English. So that at twentie yéeres of age he serues in the field, his pay being worth ninteen pence a day, and so increasing with his yeeres. This Iland of 
+Cyprus
+ is very fruitfull, hauing great store of silke wo
+mes, which yéeldeth them abundance of Silke. Also this Iland yéelds great store of fruits of all sorts, and store of Cattell of all sorts: Thrée sorts of Beasts this Iland yeeldes, which differ farre from ours in England, that is to say, a 
+Bu
+∣fella
+ differs from an Ore, their Cammels from our Hor∣ses, and their Sheepe from ours. The 
+Bu
+fella
+ is a Beast after the manner of an Ore, but that hée is bigger, and not so high, nor so long as the tallest of our Oxen, yet one of them is as strong as thrée of our Oxen, for two
+
+
+
+
+of them doe the labour of sixe Oxen: their hornes are flat, and at mid-day when they vse to rest them, they take them, and turne them into a water, where they will stand for the space of two houres couered quite ouer the backes in water, then will they yoke them and worke them as fresh till night, as they did in the Morning, without any bayting at all. Their Cammels is a meruailous tall beast, hauing a necke twise as long as a Horse, and a great bunch growing about the middle of his backe, as bigge as a pecke, hée is clouen footed, and his tayle little, and for his strength he will carry as much on his backe as foure horses, and continue with his carri∣age on his backe thréescore houres without meat or rest. I haue séene foure thousand of them laden at one time with Merchandise going a very slow pace, and nothing so fast as a Carriers horse, yet will they continue that pace two dayes and two nights together, without any eating or drinking: and when they doe rest and féede, it is but slender and verie little, in this manner: when they come to their resting place they lye downe with their lading vpon their backes. Then the Moores or Turkes, put a Ball made of Date stones bea∣ten, into euery one of their mouthes, the pouder of the stones being compounded with Linséede Oyle, and the white of Egges, which makes the Balls as hard as Stones, and thus they will liue and continue their trauaile sixtéene dayes and nights together, receiuing the said rest and reliefe at e∣uery two dayes end. Their Shéepe are twise as bigge as ours in 
+England,
+ but in all fashions like our Shéepe, except the tayle, for their tayles are meruailous great, broad, and thicke, being very fat, for I haue weighed many of their tayles flayed from the Butchers, and they haue waighed ten, eleuen, and twelue pound waight, and throughout all 
+Barbarie
+ and 
+Turkie,
+ they haue plenty of these beasts, and also all kind of beasts that we haue in 
+England.
+ There liue many Gréekes in all parts throughout the Turkes Dominions, but in great bondage and pouertie: they are good Christians, abhorring the Idolatry of 
+Rome,
+ and obseruing the same computation for Christmasse and other festiuals, that we doe in 
+England.
+
+
+
+
+
+Also there are Jewes in all parts of Turkie and Barbary, and all parts of Christendome, England excepted: yet though they be thus dispersed throughout most parts of the world, li∣uing in extreame slauery, yet shall you not see one Jew begge his bread. One thing I haue greatly maruelled at, that a Jew is respected more in Christendome, then with the Turks: for the Turks (as you haue heard) detests him aboue any Nation, tying him to a notable and knowne marke, or manner of apparrell, and yeelding him no Law or right, eyther against Turke or Christian: whereas, contrarywise, in Christen∣dome, he is tyed to no manner of weare, but may goe in what shape he lists: and for Law, by reason of his wealth, hee shall sooner haue right done to him then a Christian: wherefore in my minde, the Turke greatly in this condemnes the Po∣pish Christian: for it is an ordinary saying with them, tha
+ if a Jew had put 
+Mahomet
+ to death, nay, but touched the hem of his garment violently, they would not haue left one of the race of them aliue, nor yet any thing, or building vnraced, that might procure their memory. But in Christendome they are suffered to build Sinagogues, and to vse their Religion pub∣likely. But I beseech the Almightie God that this our Land of England may neuer be defiled, eyther by Pope, Turke, or Jew.
+
+
+
+
+
+
+IX. The Description and discouery of 
+Sicillia.
+
+
+SIcillia
+ is a famous Iland of the Spaniards, hauing many
+ worthie Cities vpon it. This Iland is in bignesse seauen hundred miles about, very fruitfull, and plentifull of all things, as Silke, Flesh, and Fish, Corne, Wine, and Oyle, with great store of Fruit. This Iland is gouerned by a 
+Vizeroy,
+ vnder the king of Spaine: his chiefs abiding is at 
+Palerm
+,
+ or 
+Mercina,
+ two famous Cittes, but his chiefest residence is at 
+Palerma.
+ This City lyeth in low ground, hauing a Moun∣taine néere it, called 
+Monta Pellagrune.
+ This Citie is very
+
+
+
+
+populous, being rich of Marchandize and wealthy Marchants. At this Citie I haue beene very often in the time of my sla∣
+te in the Dukes Gallies. Also, néere this Citie there is a Towne called 
+Trappany,
+ in which Towne there is a Mona∣starie, wherein they affirme that the Pillar of Salt that 
+Lots
+ Wise was turned vnto, comming out of 
+Sodome
+ is. They professe the Romish Religion through out this Iland both men and Women, speaking the Italian tongue generally, as many as be borne in the Iland, and are called 
+Sicillianes. Mer∣cina
+ being another famous Citie, lyeth close vpon the Sea, and is scituated vpon high ground, vnder the foote of a great Mountayne. This City is strongly fortified and planted with O
+nce: also there is great store of Gallies and Shipping belonging to this place, which doth much offend the Turke, 
+t chiefely they are employed in Marchandiye. This high Mountayne that hangs ouer the Citie is called 
+Mungebella,
+ and standeth in the East-part of this Iland, the top of it bur∣ning continually both night and day, and by reason of the fiercenesse of the fire, hath consumed many Uillages. The rea∣son of this fire is a Brimstone, or a Sulphure Mine, which be∣ing high, is (as all men imagine) set a fire by the heate of the Sunne, as the Iland 
+Strambula
+ is, which continually burneth: and many other high places more that I haue séene, as Mount Aetna, the pike of 
+Teneriffe
+ a Southward Iland, and many others, &c.
+
+
+Unto this Citie 
+Mercina
+ belongs a straight entrance by Sea, commonly called the 
+ale of 
+Mercina
+ it lyeth betwixt the Land of 
+Sicillia
+ and 
+Calabria,
+ very dangerous to passe through for any Ship, except they are very well experimented. For my part I know this place well, being often there in the 
+me of my slauerie.
+
+
+
+
+
+
+X. The Description and discouery of 
+ggadore.
+
+
+MVggadore
+ is an Iland of the Moores, and lyeth néere the
+ Lan
+ o
+ 
+arbary,
+ without the Straights, not farre from
+
+
+
+
+the Lands of the Kings of 
+Fesse
+ and 
+Morrocco.
+ Th
+s Il
+nd is not inhabited, but very barren, being all Rocks by the 
+ side, and very smoothe on the to
+, and full of bushes, 
+ Pidgions doe b
+eede in great store: we held it nothing 
+ 
+ sixe or eight in company together into the Iland, and 
+ 
+ the space of thrée houres, twentie dozens of Pidgions 
+ with vs. Betwixt the Maine and this Iland there is very good riding for a Shippe. Also, the Moores will bring out 
+ the Maine Land such Uictuals as they haue to re
+e o
+r wants, as Mutton, Beefe, 
+c. The Moores of this Countr
+ are very deceitfull and trecherous: their cloathing is but very naked and thinne, for they weare but one slat of thin
+ F
+an
+ wherewith they couer their brests, backs and p
+u
+e parts and as for their armes, legs, and thighes, they 
+e na
+ed of them: the sayd Garment, or piece of Flane
+l, they call 
+ Barnoose. In this Countrey of 
+Barbary
+ there is great store of Sugar-canes, and Sugar made, as they in 
+Braz
+e.
+ Some∣times in this Countrey there is Amber-grease found, but the cunning of the Moores makes a great deale counterfaite. I came to this Iland in a Carnell of 
+Plymouth,
+ Master 
+Edward Decon
+ of the saide Towne being Master of her: Moores com∣ming oftentimes aboord of vs, where they were kindly enter∣tayned; but they returned our kindnesse in this manner▪ Set∣ting of the chiefest, with many more of them ashorem our Boate, wherein sixe English men rowed them ashore▪ they being all a Land, our Boat was aground, then one of our men stept out of the Boat, vp to the knées in water, and by strength would haue set the Boate off from the Land, which as 
+oone as they espyed him out of the Boate, they tooke h
+d of him▪ and drew him a Land, where they cut all his cloathes off his backe, and deuided them in péeces amongst them, carrying the man starke naked vp into the Countrey, saying tha
+e should neuer haue him againe except they had twentie French Crownes for his ransome, which newes the Boace brought presently aboord, (which being in vaine to st
+e with them 
+ée gaue them, and receiued the man naked, hauing no fur∣ther dealing with them.
+
+
+
+
+
+
+
+
+XI. The Description and discouery of 
+Candy.
+
+
+CAndy
+ is a famous Iland of the 
+Venetians,
+ very fruitfull,
+ yeelding great store of Wine and Oyle, and all other things plentifull. This Iland is very high and long, poynting East and West: the North-side of it very pleasant, with great store of Gardens and Uineyards, and such like: but ve∣ry barren to the Southward-side, with great Rocks, Cliffs, and Mountaynes, which part is inhabited by poore Gréekes: and also there are many small Ilands vnder these Cliffs, inhabited likewise by Gréekes, as 
+Christiana
+ and 
+Godza,
+ with others more. These Gréekes liue all together in bondage to the Uenetians. The North-side of this Iland is inhabited by Italians, and some Jewes. There are two very fayre Ci∣ties: 
+(viz.) Candia,
+ and 
+Acony,
+ these Cities are inhabited most with Uenetians, strongly fortified and planted with Ordnance. These Cities lye right against the entring of the Arches of 
+Appellican,
+ which goeth to 
+Constantinople,
+ where the Great Turke continues, receiuing tribute of the Duke of 
+Venice
+ for this Iland, and other parts, for the Uenetian is tributary to the Great Turke. Also the Great Turke kéepes him in subiection by Land and Sea, neither dare the Uenetian ioyne their forces with any Christian, at any time whenso∣euer a Fléete of Gallies and Shipps is set forth against the Turke, yet the Duke of Uenice hath twise as many Gallies as any Christian Prince whatsoeuer, which he doth employ, some of them in Marchandize, hauing continuall trading both with Christian and Turke, and some of his Gallies continually lieth about the entring of the Gulph of 
+Venice,
+ about the Iland of 
+Zant
+ and 
+Saphlany,
+ and the small Iland of the 
+Stra∣uales,
+ and néere about 
+Madona:
+ these parts doe they defend from any Christian men of warre, or Christian Gallies, or eyther Gallies or Briggantéens of the Turkes that shall ap∣proach néere vnto these parts, in the manner and fashion of
+
+
+
+
+men of Warre: and oftentimes the sayd Gallies doe take both Christian and Turke, making Slaues of the men, or else chop∣ping off of their heads; for it is lawfull for him so to doe, by the conclusion betwixt Him, the Christian, and Turke, taking them within twentie leagues compasse of the entrance of his Gulph, but not in any other part of the Sea, without the said compasse.
+
+
+
+
+
+
+XII. The Description of 
+Morria.
+
+
+MOrria
+ is a small low Iland, lying in the Riuer of 
+Ama∣zones,
+ the highest part of the West Indies. This I∣land is altogether inhabited by Women, hauing no Man∣kinde amongst them: they goe altogether naked, vsing Bow and Arrowes for the killing of their owne foode: the hayre of their heads is long, and their Brests hang low: and whereas many here in England doe imagine that they haue the right Brest seared, or cut off, it is no such matter as now▪ what hath béene in times past I know not: for this of mine owne know∣ledge, I haue seene fortie, fiftie, or threescore of them together, each of them bearing Bow and Arrowes in their hands, going along by the Sea-side; and when they espyed a Fish, they shoote at it, and strike it, and so throwing downe their Bowes, they leap into the water after their Arrowes, and bring the Fish aland, fastned to the Arrow: and 
+o in all other things as well the dressing of their meate, as their lodging and cu∣stomes, they resemble and imitate the Indians of the Riuer of 
+Amazons,
+ as you heard before in that discourse. But some 
+ these Women doe vse to beare their Children vpon their backs, in this manner: They take a yeere of the unde of 
+ Trée, and with the one end thereof they fasten the Childes hunmes, and about the arme-pits and shoulders with the o∣ther, and so hang him on their backs like a Tinkers Budger, and cast vp the brest to him ouer the shoulder. The reason wherefore this Iland is inhabited by Women onely, 
+s this
+
+
+
+
+One Moneth in the yéere, the Men from each side of the Maine Land comes in their Canowes, ouer to the Iland, euery Man matching himselfe with a Woman, liuing there a Mo∣neth: and what men Children they finde there, they carry a∣way with them; and the Woman Children they leaue behinde with the Mothers. And this is their vse once a yéere, where∣by this Iland is altogether inhabited by Women. There is one thing more to be wondred at, that I haue also séene, that is to say, very good Oysters and Muskles growing vpon trées, for I haue eaten my part of many an hundred of them. And for your better vnderstanding how they grow, you shall know that the Trées stand néere the Sea side, and at euery full tyde the bowes hang into the Sea a fadome, or a fadome and a halfe, so that when the tyde goeth out, they are found hanging in great clusters vpon the branches, like Barnacles to the side of a ship, and at the comming in of the tyde, they receiue their moysture.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+The Conclusion of the Booke: to the Reader.
+
+
+THus farre (gentle Reader) I thought good, out of my slender capacitie, to acquaint thée with a briefe and plaine discourse of my Trauell, which though it be rude, as comming from a barren brayne, which professeth nothing lesse then lear∣ning: yet assure thy selfe it containes vndoubted truth, being no more then I haue séene, knowne, and to my griefe and pe∣rill felt. And if any, as well or better acquainted with these Parts, or any of them, whereof I make mention, disliking the rudenesse of my stile, will vndertake to refine it, hée giues me no discontent, so he derogate not from the truth thereof. And whereas I made promise in the beginning of this Trea∣tise, in these twelue discourses, to touch or speake something of the rest of the places, specified in the Table, I haue partly performed it: but to haue written of them at large, would haue béene but friuolous and superfluous, partly because they are places of no extraordinary note, but specially because they doe in most, or all things, agrée with the Countries to which they are annexed, and tributaries, or vassalls: as the Ilands tributary to the Spaniards, follow their manner of gouern∣ment, customes, and orders. The Turkish tributaries imi∣tate them in most things: and so you may iudge of the rest, according as they are seuerally distinguished. And so much may suffice to cléere that doubt. Now the reasons that vrged me to publish this Booke are manifold, but chiefly three: The first was, to keepe in record, and make knowne my owne mi∣sery, lest with the forgetfull Butler in Pharaos Prison, who being deliuered forgat his promise made to 
+Ioseph.
+ that fore∣told his deliuery: so I (such is infirmitie and frailtie of hu∣mane nature) might (cheaked with worldly prosperitie for∣get my mercifull and mightie Deliuerer. The second was, that others (warned by my misery) might shun the like. The last and chiefest reason was, to glorifie God, especially heere in England, which aboue all earthly Countries and Nations is most bound to extend and set forth his glory. For what
+
+
+
+
+Christian, reading but the extreame thraldome and punish∣ment he hath inflicted vpon the Jewes, euen to this houre, be∣ing a Nation he had once selected to himselfe from amongst all the Nations of the earth. Or the present misery of the Gréekes, who once were Monarches of the Earth, and one of the chie∣fest Churches of Christendome, being the first fruits of the Gentiles, whose extreame bondage is now lamentable, yet not with the Israelites, sacrificing their children to Idols, but forced to giue as well the tenth of their children, as of their substance to that monstrous 
+Mahumetan
+ Idoll the Turke. Or who, duly pondering the blindnesse and obstinacie of the Spaniards, Pope, and Italians, with the horrible and absurd sinnes that God hath giuen them ouer to: Or who, séeing the Infidelitie of the simple 
+Indian
+ (well may I call him sim∣ple, because his errour grows more of want of true knowledge then obstinacie) who worships the creature, being ignorant of the Almightie Creator? What English heart (I say) duly pondering these things in generall, or any one of these things in particular, can otherwise choose but falling downe on his bended knées, yéeld God immortall and innumerable thanks and prayse-giuing, not onely for electing him aboue all other Nations of the Earth, to the true and perfect knowledge of his blessed Gospell, but also for preseruing him so long from so many miseries and wretched thral∣domes, whereunto most Nations of the Earth are subiect?
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

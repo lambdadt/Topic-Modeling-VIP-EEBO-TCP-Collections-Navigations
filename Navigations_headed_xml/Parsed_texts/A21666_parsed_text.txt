@@ -1,0 +1,149 @@
+By the Quene. Where the auncient entercourse of marchaundizes betwixt our countries and the lowe countries of the kyng of Spayne our good brother, hath ben of late interrupted by sundrye prohibitions made in the sayde lowe countries ...
+Proclamations. 1564-03-23
+England and Wales. Sovereign (1558-1603 : Elizabeth I)
+Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A21666
+
+
+
+
+STC 7972
+
+
+
+ESTC S112195
+
+
+
+
+
+99847453
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the Quene. Where the auncient entercourse of marchaundizes betwixt our countries and the lowe countries of the kyng of Spayne our good brother, hath ben of late interrupted by sundrye prohibitions made in the sayde lowe countries ...
+Proclamations. 1564-03-23
+England and Wales. Sovereign (1558-1603 : Elizabeth I)
+2 sheets   
+
+
+[London] :
+
+
+Imprinted by Richard Iugge and Iohn Cawood, Printers to the Quenes Maiestie,
+
+
+[1564]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Restraint of trade --  Netherlands --  Early works to 1800.
+Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.
+Great Britain --  Commerce --  Netherlands --  Early works to 1800.
+Netherlands --  Commerce --  Great Britain --  Early works to 1800.
+England --  Proclamations --  Early works to 1800.
+2013-07
+TCP
+Assigned for keying and markup
+2013-08
+SPi Global
+Keyed and coded from ProQuest page images
+2013-09
+Colm MacCrossan
+Sampled and proofread
+2013-09
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+7972
+
+
+S112195
+
+
+99847453
+
+
+12489
+
+
+
+
+
+
+
+
+
+
+
+
+¶ By the Quene,
+
+
+W
+Here the auncient entercourse of marchaundizes betwixt our Countries and the lowe Countries of the kyng of Spayne our good brother, hath ben of late interrupted by sundrye prohibitions made in the sayde lowe Countries, aswell agaynst the carying of the commodities of our Realme into those par∣ties, as for the bryngyng certeyne commodities of those lowe Countries, and many other, through the same into this our Realme, wherby at the beginning such hyndraunce appeared lykely to ensue to the subiectes on both partes, as it was motioned and thought mete by vs both that a metyng and dyet should be deuised and accorded within some conuenient tyme, for the redresse of suche matters as were pretended to be the causes of the sayd prohibitions. And nowe by proces of tyme it is become manifest that although the foresaid prohibitions were of theyr owne nature hurtfull to the subiectes on both parti
+s, so as therof depended an expectation of a redresse for both our subiectes: yet the vsage and maner of execution of the same prohibitions, on the other syde, do nowe directly and notoriously benefite and enriche only the subiectes and inhabitauntes of the said lowe Countries, and directly and notoriously hurt & iniurie our proper subiectes, not only by the playne stoppyng and restraynyng of our marchauntes from theyr aun∣cient trade accustomed into those Countries: but by the continuall hauntyng into our Realme of them only of the lowe Countrie, and by stuffyng and burdenyng our Realme with all superfluous and vnnedefull wares euen contrary to theyr owne prohibitions, and consequently by carying away the treasure & monyes out of our Realme. For although by generall wordes of their prohibitions, the wollen clothes of our Realme are vtterly forbydden to be brought thyther, vpon a pretence of infection, and lykewyse other commodities wherevpon our handycraftes people shoulde labour, be strayghtly forbydden to be brought hither by any per∣son out of the sayde lowe Countries: Notwithstanding it is well knowen, that the greater part of those com∣modities, come originally from hygh Almayne and other Remote Countries, and haue as it were but theyr passage through those lowe Countries, yet a great number of people of the same lowe Countries, eyther as contempnyng theyr owne prohibitions, or hauyng by speciall labour some secrete licences, do dayly carry, as they haue all this sommer also vsed to do, all such clothes, without any scruple of infection, as they can by any meanes with fauour, and sometyme without knowledge of officers, obteyne to be transported out of our Realme, and lykewyse ceasse not to bryng great quantities of all kynde of wares, and specially suche as are most superfluous into this our Realme, returnyng for the same, as experience doth proue, monyes and plate from hence in all the secretest maner that they can. Whervpon although we haue borne herewith very long, yet nowe we are necessaryly compelled to prouide spedye remedye for our louyng subiectes, accordyng to the naturall care whiche we are bounde to haue of the publique estate of our sayde subiectes, in matters so manifestly sought to vndo them. For the reliefe wherof, we are also daily sued vnto by the company of our marchantes aduenturers, who haue not shipped any clothes out of this Realme, as they were accustomed, into those lowe Countries, by the space of these thirtene monethes, being therby sore charged with y
+e
+ com∣modities remaynyng vpon their handes: That although vpon long expectation of some common order to be taken betwixt vs and the counsell of our good brother rulyng for hym in the sayd lowe Countries, they haue to their great charges, remayned without trading any kinde of marchaundizes, eyther into, or out of those Countries: yet it myght please vs to haue compassion of them, and to permit them with our fauour, and without further delay, to cary their clothes which were shipped fiue monethes passed, into some other places and countries mete for them, consideryng they see nother libertie, nor suertie to resort into the low Countries, as they were accustomed. And further, that this vnordinate vsage of the Marchauntes of the
+
+ Lowe Countries 
+ permitted to be continued in our Countries, by the
+ 
+ entent to ouerthrowe and impoueryshe all other 
+ vpon this vrgent necessitie, fyrste licenced our sayde Marchauntes, 
+ any other conuenient place where they shall thinke best, being out of these lowe Countries as we backe 
+ but theyr commodities shall for theyr proper values and estimate, be desired in very many places. And next, we do ordeyne and strayghtly charge and cōmaunde, that vntyll these late great disorders and interruptions of the entercourse by these prohibitions, and specially by the notable parciall misvsage therof shalbe refourmed and repayred (wherevnto for our parte we are so wyllyng as we wyl refuse no reasonable meanes) no maner commoditie, wares, or marchaundizes, growing, wrought, or prouided in the sayd lowe Countries, or cōmyng through the same, shalbe from the publication hereof, by any maner of person, transported from the sayde lowe Countries, hyther into this our Realme, or into any Port or Creke therof, vpon payne of forfaiture of the same, the one halfe therof to vs, and the other to any person that shall geue due information therof eyther to our priuie counsell, or into our Exchequer, as other informations are geuen, within two monethes after the offence committed agaynste this our Procla∣mation.
+
+
+Yeuen at our Castle of Wyndsor 
+the .xxiii. day of March 
+.1563.
+ in the sixte yere of our raigne.
+
+
+God saue the Quene.
+
+
+
+
+
+
+
+
+
+
+¶ Imprinted by Richard Iugge and Iohn Cawood, Printers to the Quenes Maiestie.
+
+
+
+
+Cum priuilegio Regiae Maiestatis.
+
+
+
+
+
+
+
+
+
+
+

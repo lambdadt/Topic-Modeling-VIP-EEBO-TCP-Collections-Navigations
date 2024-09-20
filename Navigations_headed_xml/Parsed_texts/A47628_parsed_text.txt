@@ -1,0 +1,4149 @@
+Three diatribes or discourses first of travel, or a guide for travellers into forein [sic] parts, secondly, of money or coyns, thirdly, of measuring of the distance betwixt place and place / by Edward Leigh, Esq. ...
+Three diatribes or discourses
+Leigh, Edward, 1602-1671.
+Approx. 123 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-12 (EEBO-TCP Phase 2).
+A47628
+
+
+
+
+Wing L1010
+
+
+
+ESTC R12004
+
+
+
+
+
+ocm 12254498
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Three diatribes or discourses first of travel, or a guide for travellers into forein [sic] parts, secondly, of money or coyns, thirdly, of measuring of the distance betwixt place and place / by Edward Leigh, Esq. ...
+Three diatribes or discourses
+Leigh, Edward, 1602-1671.
+[17], 87 p.   
+
+
+London :
+
+
+Printed for William Whitwood ...,
+
+
+1671.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Travel --  Early works to 1800.
+Money --  Early works to 1800.
+Distances --  Measurement.
+Distances --  Early works to 1800.
+2009-09
+TCP
+Assigned for keying and markup
+2009-09
+SPi Global
+Keyed and coded from ProQuest page images
+2010-10
+Leah Yurasek
+Sampled and proofread
+2010-10
+Leah Yurasek
+Text and markup reviewed and edited
+2011-06
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+L1010
+
+
+12254498
+
+
+57294
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THREE DIATRIBES OR DISCOURSES.
+
+
+
+
+First of 
+Travel,
+ Or a 
+Guide
+ for 
+Travellers
+ into Forein Parts.
+
+
+Secondly, Of 
+Money
+ or 
+Coyns.
+
+
+Thirdly, Of 
+Measuring
+ of the Distance betwixt 
+Place
+ and 
+Place.
+
+
+
+
+By 
+Edward Leigh
+ 
+Esq
+ and Mr. of 
+Arts
+ of 
+Magdalene-Hall
+ in 
+Oxford.
+
+
+Teucri vox apud Ciceronem 
+Tuscul. quaest. 
+l. 5,
+
+
+Socrates, 
+cum rogaretur, Cujatem se esse diceret,
+ Munda∣num, 
+inquit, totius enim mundi seincolam, & civem ar∣bitrabatur.
+
+
+Cicero 
+ibid.
+
+
+LONDON,
+ Printed for 
+William Whitwood,
+ at the sign of the Golden Bell in 
+Duck-Lane,
+ near 
+Smithfield.
+ 1671.
+
+
+
+
+
+
+
+
+
+
+The Epistle DEDICATORY.
+
+
+To his deservedly Honoured Friend 
+Francis Willughbie,
+ 
+Esq
+
+
+SIr, Since I have had the happiness to be known to you, (my Habitation being not far distant from yours) I have found so much Candour and Civility in you, that I thought I needed not to seek further for a person, to whom I should dedicate this little Tract of Travel and Coyns, you having Travelled into the most famous Coun∣tries
+
+of 
+Europe,
+
+
+ and (being inquisitive after all Curiosi∣ties) also improved your tra∣vel both to the acquiring and knowledge of Coyns, and ma∣ny other rarities, some of which you were pleased for∣merly to shew me and others, and have (for the better com∣pleting of this Treatise) com∣municated to me several Ob∣servations, about Forein coyns especially. I would our Gen∣try generally were more stu∣dious, and would spend their time as profitably as you and
+
+some others do. That would confirm what Mr. 
+Burton
+ in his Melancholly
+
+ observes of some of our 
+English
+ Gentry, that they are excellently well learned, like those 
+Fuggeri
+ in 
+Germany, Du Bartas, Du∣plessis, Sadael
+ in 
+France, Pi∣cus Mirandula, Scottus, Ba∣rottus
+ in 
+Italy.
+ There is an Honourable Gentleman
+
+ now of the Royal Society, (whereof you are likewise a worthy Member) who hath Travelled abroad to good purpose, and by his Philosophical
+
+ Expe∣riments and other useful Trea∣tises, hath much honoured the Nation. I may here relate, what I have heard from a very
+
+worthy Divine; that he never knew a Family, wherein the Men and Women both, were of so obliging a Carriage, and of such great abilities. There is also a learned Knight and Baronet
+
+ of this Parliament (mentioned among the Bene∣factors to the 
+Polyglott Bible
+) who hath written Critical notes in Latine on the New Testament. I shall onely adde this, that it may seem strange for me to publish a Discourse of Money, who (when I had the honour to be a Member of the House of Commons) was alwaies silent when that Sub∣ject came into debate,
+
+
+Sir,
+ 
+Your Affectionate Friend to serve you
+ Edward Leigh.
+
+
+
+
+
+
+
+
+TO THE Candid READER.
+
+
+REader, It is said of 
+Ulysses, Qui mores hominum multorum vidit, & urbes, Horat. De Arte Poetica.
+ Yet I would not have thee read my Discourse of Travel, 
+Peregrinante animo.
+ The Commodity which comes to humane Societies, by the Tra∣vells of prudent, pious, and well governed persons, is very great. The Apostles, the Dis∣ciples of Christ, and also their Disciples, and many others, have gon through a great part
+
+of the World to convert the 
+Gentiles.
+ So if a Voyage be un∣dertaken to know the rites and customes of several places, and the forms of Cities, as the 
+Ro∣man Decemviri
+ were sent to 
+Greece,
+ that they might know the Laws of that Countrey, and especially 
+Solons. Pythagoras, Plato, Apollonius
+ did go into divers Countries to increase their knowledge. 
+Diodorus Si∣culus
+ & 
+Strabo
+ Travelled into several parts of the World, that they might be acquainted with the History and Scituation of those places. 
+Pausanias
+
+
+ 
+com∣passed Greece, Arrianus,
+ the
+
+Euxine Sea,
+ and 
+Cluverius
+ Travelled into many Countries of 
+Europe,
+ that they might more exactly describe those parts. The knowledge of Lan∣guages hath incited many to Travel; 
+Vossius
+
+
+ instanceth in 
+Jacobus Golius
+ (that famous 
+Arabist
+) who not satisfied with the instruction of 
+Thomas Er∣pinus
+ in the Arabick 
+Lan∣guage,
+
+
+ went first into 
+Mouri∣tania,
+ and being chosen Succes∣sor to 
+Erpenius
+ in his place af∣ter
+
+his death, he took a long Voyage into 
+Syria,
+ and there staid till he had perfected his skill in that Language. I may very well here mention, our worthy professor of the 
+He∣brew
+ and 
+Arabick
+ Tongues in 
+Oxford, Dr. Edward Pocock,
+ who was long abroad at 
+Alep∣po,
+ and other places on the same account. Where he so de∣meaned himself, that he was very much respected by the Na∣tives, and chosen for an Ʋmpire amongst them, to compremise such differences as fell out there. The learned works he hath published, give ample Testimony of the skil he attain∣ed in the Arabick, especially by
+
+that long Voyage. The Jesuits themselves and others write much, how industrious the Je∣suits were in the propagation of the Christian Faith, and how they have sown the seed of sa∣ving truth in 
+China
+ or else∣where.
+
+
+Mr. 
+Baxter
+ in the 
+2d.
+ part of his last Book of Christiani∣ty, 
+c. 14. p. 488.
+ saith, The at∣tempts of the Jesuits in 
+Congo, Japon
+ and 
+China
+ were a very noble work, and so were the 
+Portugal
+ Kings encourage∣ments: but two things spoiled their success.
+
+
+First, That when they took down the Heathens Images, they set them up others in their
+
+stead; and made them think that the main difference was, but whose Image they should worship.
+
+
+Secondly, But especially, that they made them see, that while they pretended to promote Re∣ligion, and to save their souls, they came to promote their own wealth, or the Popes Domini∣on, and to bring their Kings under a Forein power.
+
+
+The honest attempts of Mr. 
+Eliots
+ in 
+New-England,
+ is much more agreeable to the A∣postles way,
+
+ and maketh more serious spiritual Christians.
+
+
+Justus Heurnius
+ (son to 
+John Heurnius
+ the learned Physician) left the study of
+
+Physick, and wholly gave him∣self to the study of Divinity, that thereby he might be the better inabled to promote the Conversion of the Indians, and taking an Evangelical Em∣bassie to the Indies, he there abode above 
+14
+ Years, preach∣ing to the Indians in their Mo∣ther Tongue, Catechising them, and admonishing them pri∣vately, and by his singular in∣nocensie,
+
+ humility and mode∣sty, and daily fervent devotion, and great charity to the poor; He endeavoured to propagate the Kingdome hf Christ among them.
+
+
+
+
+The Pilgrimages
+
+ of the Turks to 
+Meccha,
+ and of the Papists to 
+Loretto
+ are vain, we need not to travel for to find God.
+
+
+I have joyned these three Discourses together, since in that of Money and Measuring, I write of the Forein Coyns and Measures, and so hoping, that they may be all useful to the Traveller, I remain
+
+
+Thy Hearty Well-willer, 
+Edward Leigh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Diatribe OF TRAVEL.
+
+
+By 
+Edward Leigh
+ Esq;
+
+
+Psal. 107.23, 24.
+
+
+They that go down to the Sea in Ships, that do business in great waters:
+
+
+These see the works of the Lord: and his wonders in the deep.
+
+
+Patri est, Ubicunque est bene.
+
+
+Printed in the Year, MDCLXXI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A DIATRIBE OF Travel.
+
+
+T
+Ravel in the Younger sort, is a part of Edu∣cation; in the Elder, a part of Experience. Sir 
+Francis Bacon's Essays.
+
+
+There is no Map like the view of the Coun∣try; One journey will shew a man more then any Description can. He that sear∣cheth Forreign Nations is becoming a
+
+Gentleman of the World. 
+Felthams Re∣solves of Travel.
+
+
+Many Travellers returning to their own home, bring back only some vain Garbs and Fashions, and are leavened with the ill Customes and Manners of the Countries they passed thorough. 
+Vagari, Lustrare, disquirere qui vis potest, pauci indigare, discere, id est, vere perigrinari.
+ Lip
+i 
+Epistola ad
+ Lanoium 
+de Peregrina∣tione Italica.
+
+
+ I think it most requisite and fit, that none should Travel without leave of the State, or Publick Council; and at their return should be accounta∣ble to the State and Publick Council of their Travels, and the advantages they have made: Dr. 
+Hall
+ in his First Decade of Epistles, Epistle 8th, giving advice to the Earl of 
+Essex
+ for his Travel, saith, There is nothing can quit the labour and cost of Travel, but the gain of Wisdom; when young Nobles came to take their leaves of our late King 
+Charles,
+ before they Travelled into Forreign parts; He thus councelled them; My Lord, keep alwaies the best Company, and be sure never to be idle.
+
+
+Alsted
+ in his 
+Systema Mnemonicum, l.
+ 4. 
+De Geographia, Zeilerus
+ before
+
+his Itenerary of 
+Spain
+ and 
+Portugal
+ Monsieur 
+de Sorbiere
+ in his 
+Lettres & Discours Lettre
+ 85. Mr. 
+Palmer
+ in his 
+Traveller,
+ part second, and Sir 
+Francis Bacon
+ in his 
+Essays,
+ give directions to Tra∣vellers, and shew what things are fit to be observed by them.
+
+
+Neugebavarus
+ and 
+Loyzius
+ have writ∣ten in Latine 
+'De Peregrinatione.
+
+
+
+
+Dr. 
+Hall
+ hath written in English of Travelling, his Tract is stiled, 
+Quo vadis.
+ Sir 
+Balthasar Gerbier
+ hath 
+Subsidium Pe∣regrinantibus.
+
+
+Mr. 
+Howell
+ hath put out instructions for forreign Travel.
+
+
+Mr. 
+Palmer
+ also hath written an Essay of the means how to make our Travels into forreign Countries profitable and honourable; he dedicated it to Prince 
+Henry.
+
+
+Jones
+ hath put out instructions for Travellers.
+
+
+The Merchant proposeth to himself 
+bonum utile
+ in his Travel, and brings
+
+home exotick Commodities, as Wine, Fruit, Spices, Metals, precious Stones, Silk, and such like, serving both for use and luxury.
+
+
+Impiger extremos Currit mercatas ad Indos,
+ Horat. 
+Epist,
+ 1. 
+lib.
+ 1.
+
+
+The dissolute rich young Gentleman, 
+bonum jucundum;
+ The well-bred Gen∣tleman; 
+bonum honestum,
+ or honor, that he may accomplish himself for the service of his
+
+ Country.
+
+
+In such a one going to Travel, there is required.
+
+
+First, A competent age, that he be a∣bove 18 or 20 years old, although the years of 14 or 15 are more proper
+
+for learning the true accent of any Lan∣guage, and all exercises belonging to the body.
+
+
+Secondly, That he hath the Latine Tongue, and some skill in the Liberal Sciences.
+
+
+Thirdly,
+
+ That he be skilful in Ar∣chitecture, able so well to Limn or Paint; as to take in paper the Scituation of a Castle or a City; or the Platform of a Fortification.
+
+
+Fourthly, That he be well grounded in the true Religion, lest he be seduced and perverted. 
+Gal.
+ 4.1. 
+O foolish Gala∣tians, who hath bewitched you, that you should not obey the truth, Galli a peregri∣nando nomen habent;
+ For 
+Vuallen
+ in the Teutonick Tongue, signifies 
+peregrinari,
+ alluding therefore to this Etymoligy: He chides the 
+Galatians
+ for their wandering in Religion, 
+q. d.
+ You like Travellers, of∣ten change your Opinions about the Do∣ctrine of Truth. I know a Noble Per∣son
+
+who being in 
+France
+ well acquainted with a Popish Gentleman, once when the other left him, he wisht that he were as good a 
+Hugonot
+ as himself; the other im∣mediately after sent him a Defence of their Religion, to which he replyed, and shewed the same unto me: I more disliked the Popish Religion when 
+I
+ was in 
+France
+ then before, and more esteemed the Pro∣testants, since at 
+Nants,
+ and some pla∣ces, there were scarce any French Prote∣stants.
+
+
+Fifthly, He should be first well ac∣quainted with his own Country, before he go abroad; as to the places and Go∣vernment.
+
+
+If any came heretofore to the Lords of the Council for a License to Travel; the old Lord Treasurer 
+Burleigh,
+ would first examine him of 
+England;
+ if he found him ignorant, he would bid him stay at home, and know his own Country first.
+
+
+Sixthly, It were of use to inform him∣self (before he undertakes his Voyage,) by the best Chorographical and Geogra∣phical Map of the Scituation of the coun∣try he goes to, both in it self and Rela∣tively to the Universe, to compare the 
+Vetus & Hodierna Regio,
+ and to carry
+
+with him the Republicks of the Nations to which he goes; and a Map of every Country he intends to travel thorough.
+
+
+Seventhly, Before his Voyage,
+
+ He should make his peace with God, Re∣ceive the Lords Supper, satisfie his Cre∣ditors if he be in debt; Pray earnestly to God to prosper him in his Voyage, and to keep him from danger, and if he be 
+sui juris,
+ he should make his last will, and wisely order all his affairs, since ma∣ny that go far abroad, return not home.
+
+
+
+
+In the Survey of a Countrey, these things are observable.
+
+
+First,
+
+ The Name and its derivation, the Latitude and Longitude of the place, the Temperature of the Climate, the goodness or barrenness of the Ground, the populousness or scarcity of the Peo∣ple, the limits of the Countrey, how it is bounded by Sea or Land, or both, the Commodities, Natural, Artificial, the
+
+Dis-commodities, either Imperfections or Wants, the Manners, Shape, Lan∣guage and Attire of the People, their Building, their Havens and Harbours, the Religion and Government, the History of the Countrey and Families.
+
+
+2. The Courts of
+
+ Princes are to be seen and observed, especially when they give audience to Embassadors, the Courts of Justice whiles they sit and hear Causes, and so of Consistories Ec∣clesiastick, the Churches and Monuments therein, the Walls and Fortifications, of Cities and Towns, Antiquities and Ruines, Libraries, Colledges, Disputati∣ons and Lectures where they are, Ship∣ing and Navies, Houses and Gardens of State and pleasure near great Cities; Armories, Arsenals, Magazines, Ex∣changes, Burses, Ware-houses; Exer∣cises of Horsemanship, Fencing, Train∣ing of Soldiers, and the like; Treasuries
+
+of Jewels and Robes, Cabinets, and rare Inventions.
+
+
+Aubertus Miraeus
+ in the Life of 
+Lipsius,
+ saith, that when he came first to 
+Rome,
+ he spent all his time (when he was at leisure) in viewing the stones and antient places, and other rarities there, and spent his time in the Popes Vatican Library, in comparing together the Ma∣nuscripts of 
+Seneca, Tacitus, Plautus, Propertius,
+ and other Antients. He view∣ed also other famous Libraries publick and private.
+
+
+Thirdly, The choice Herbs
+
+ and Plants, Beasts, Birds, Fishes, and Insects proper to that Country, are to be taken notice of; Minerals, Metals, Stones, and Earths; their Proverbs also should be observed, in which much of the wisdom of a Nation is found.
+
+
+Fourthly, Learned men, and such as have abilities in any kind, are worthy to be known, and the best Books there, are to be inquired after. Men that Travel
+
+must be very cautious both of their speech and demeanour; The 
+Italian
+ Pro∣verb saith, For a man to travel safely thorough the world, 
+It behoveth him to have a Faulcons Eye, an Asses Ears, a Monkies Face, Merchants Words, a Camels Back, a Hogs Mouth, and Deers Feet.
+
+
+Sir 
+Henry Wotton
+ in his Letters, men∣tions twice the answer that was given him by 
+Alberto Scipioni,
+ when he beg'd his advice, how he might carry himself securely at
+
+ 
+Rome, Signor Arrigomio
+ (says he) 
+Pensieri Stretti, Et il viso Sci∣olto, Your thoughts close, and your Coun∣tenance loose, will go safely over the whole world.
+
+
+
+
+Fifthly,
+
+ Make choice of the best pla∣ces for attaining of the Language, as 
+Valladolid
+ for the 
+Spanish, Orleans,
+ or 
+Blois
+ for the 
+French, Florence
+ or 
+Sienna
+ for the 
+Italian, Lipsick
+ or 
+Heidelberg
+ for the 
+High-Dutch
+ Tongues: in these places the best Language is spoken.
+
+
+Abraham Ortelius
+ in his 
+Itinerari∣um Belgiae,
+ perswades Travellers to note, and observe what they see most memora∣ble; 
+Peregrinationes nostrae futurae nobis erunt longe gratiores, si una cum itineri∣bus animadvertamus, & annotemus in Chartis, si quid observatione dignum oc∣currerit.
+
+
+What profit Travelling brings to an Architect, 
+Vitruvius
+ shews, what to a Souldier, 
+Vegetius,
+ what to a Limner or Statuary, the Horses of 
+Phidias
+
+
+ and 
+Praxiteles
+ made by art, witness; Mer∣chandise is almost maintained by Travel; How much are Cosmography, Topo∣graphy and Astronomy, improved and furthered by Travel.
+
+
+Change of Air by Travelling, after one is used unto it, is good: And there∣fore
+
+great Travellers have been long liv'd: The Countries which have been observed, to produce long livers, are these; 
+Arcadia, Aetolia, India,
+ on this side 
+Ganges, Brasil, Topropane, Bitain, Ireland,
+ with the Islands of the 
+Arcades,
+ and 
+Hebrides,
+ Sir 
+Francis Bacon's
+ History of Life and Death.
+
+
+How much may the art of Navigation further the spreading of the Gospel!
+
+ 
+Dan.
+ 12.4. 
+Many shall run to and fro, and knowledge shall be increased,
+ that is, say some Expositors by Travelling to and fro, as the 
+Waldenses
+ to learn and propagate the Truth, knowledge shall
+
+be multiplied in the earth in the last time. The same word is used, 
+Numb.
+ 11.8. Of the Children of 
+Israel
+ going about to gather Manna, and of the Devils go∣ing to and fro, 
+Job.
+ 1. and 7. Manifest∣ly intimating, saith, Sir 
+Francis Bacon, De Augmentis Scientiarum l.
+ 2. 
+c.
+ 10. 
+Et Nov. Org. l.
+ 1. 
+Aphor.
+ 93. that God would so order it by his providence, that the passing through the world (which is now fulfilled by so many far Navigati∣ons) and the increasing of Sciences should fall into the same age.
+
+
+Orbis terrarum factus est hac no∣stra aetate, mirum in modum faenestra∣tus atque patens Baconus De Augmentis Scientiarum, l.
+ 2. 
+c.
+ 10. 
+Nostris tempo∣ribus & novi orbis partes complures, & veteris orbis extrema undique innotescunt.
+ Baconus Nov. Org. l. 1. Aphor. 72.
+
+
+In the 
+Philosophical Conferences
+ of the 
+Virtuosi
+ of 
+France
+ Conference 87. It is determined whether Travel be necessary to an ingenuous man. He saith there, if you except Embassies,
+
+ in which the good of the State drowns all other considera
+i∣ons, those that would Travel must be
+
+young and strong, rich and well borne, to get any good by their Travells.
+
+
+La Moth le Vair
+ in his 
+Opuscules Lettre
+ 6.
+
+ Speaks of the profit of 
+Voyages,
+ and Lettre 7. of the unprofitableness of them, he saith in the sixth Letter, that Travelling is the best School for life, in several respects: The French say 
+Ʋn ho∣neste homme, Est un homme meste,
+ an ho∣nest or wise man is a mixt man, that is, one who hath somthing in him, in point of knowledge of all Nations.
+
+
+Charles
+ the fifth made Nine Voyages,
+
+ into 
+Germany,
+ Six into 
+Spain,
+ Seven in∣to 
+Italy,
+ four into 
+France,
+ Ten into the 
+Low-Countries,
+ Two into 
+England,
+ as many into 
+Affrica,
+ he also passed the 
+Ocean
+ and 
+Mediterranean
+ Seas eleven times.
+
+
+
+
+The Emperour 
+Hadrian
+ travelled o∣ver a great part of the world,
+
+ and with his Head bare, though it was cold and wet, and so fell into a deadly dsease; whence the Verses of 
+Florus
+ the Poet, whom 
+Salmasius
+ (in his notes on 
+Aelius Spartianus
+) thinks to be the Historian, who elegantly wrote the Epitome of the 
+Roman
+ affairs and lived under 
+Hadrian.
+
+
+
+
+Ego nolo Caesar esse,
+
+
+Ambulare per Britannos,
+
+
+Scythicas pati pruinas.
+
+
+
+
+
+
+I
+ will in no wise 
+Caesar
+ be,
+
+
+To walk along in 
+Britainie,
+
+
+The 
+Scythick
+ frosts to feel and see.
+
+
+
+
+
+
+
+
+
+
+To which the Emperour answered in the like strain
+
+
+
+
+Ego nolo Florus esse,
+
+
+Ambulare per tabernas,
+
+
+Latitare per popinas,
+
+
+Culices pati rotundos.
+
+
+
+
+
+
+And 
+I
+ will never 
+Florus
+ be,
+
+
+To walk from shop to shop, as he,
+
+
+To lurk in Taverns secretly,
+
+
+And there to feel the 
+Rome
+-wine fly
+
+
+
+
+But (saith 
+Stuckius
+) how many Chri∣stian Princes and Nobles are now to be found,
+
+ more like 
+Florus
+ than the Empe∣rour 
+Adrian?
+
+
+They that have written the Iteneraries of the Apostles,
+
+ have observed that St. 
+Paul
+ Travel'd much farther, than either St. 
+Peter
+ or St. 
+John,
+ as they have de∣scribed the circuite; and 
+Purchas
+ both Divines, of which last, Dr. 
+Casaubon
+ of Credulity and Incredulity, part first,
+
+saith, a book of very good worth with them that know the right use, and more valued abroad, than it is at home by ma∣ny. Of the Navigation of the 
+French
+ into 
+America, Johannes Lerius
+ hath writ∣ten well of the
+
+ 
+Navigations
+ of the 
+Por∣tugals
+ and 
+Spaniards,
+ See 
+Guicciardines
+ History of 
+Italy, lib.
+ 6. Of those of the 
+English, Hackluit
+ speaks sufficiently. Of the profit which comes to men by 
+Na∣vigations,
+ see 
+Fourniers Hydrography, l.
+ 4. 
+c.
+ 9. and of the Faith enlarged and amplified by means of Navigation: See the same book, chap. 6. There are also the 
+Navigations
+ and 
+Voyages
+ of 
+Leyis Vertomannus,
+ and 
+Cadamusti Navigatio ad terras ignotas,
+ of whom 
+Peter Mar∣tyr
+ saith, in the seventh Chapter of his second 
+Decade,
+ that he stole certain An notations out of the three first Chapters of his first 
+Decade,
+ written to Cardinal 
+Ascanius
+ and 
+Acimboldus,
+ supposing that he would never have published the same.
+
+
+
+
+Dr. 
+Casaubon
+ (in his first part of Cre∣dulity and Incredulity, in things Natural, Civil and Divine) saith, I have (as all men, I think have, that are any thing curious) read several relations of all the known parts of the world, written by men of several Nations and Professi∣ons, Learned and Unlearned, in divers Languages; by men of several ages, an∣cient and late.
+
+
+There are divers 
+Hodaeporica Voyages,
+ and Itineraries, Antient, Modern, in Prose, Verse, in Latin, French, English.
+
+
+ 
+Benjamin Tidelensis,
+ his Itinerary. He was a Jew, and travelled over a great part of the world. 
+Ecchellensis
+ in his Pre∣face to his 
+Historia Arabum
+ seems to slight him: 
+Constantine l'Empereur
+ (who hath publisht notes upon him) saith, in his 
+Dissertat. Ad Lectorem. Cum judicio legen∣dum hoc itinerarium, nec auctori in om∣nibus habenda fides, praesertim ubi suorum conditionem ac statum extollit: plurima tamen notatu digna passim occurrunt, ut quae de locorum distantiis aliisque annotat.
+
+
+There is 
+Cotovici Itinerarium Hiero∣solymitanum & Syriacum.
+
+
+Busbequii
+
+ Itinerarium Constantino∣politanum
+
+& Amasianum.
+
+
+Douza de Itinere Constantinopolitano.
+
+
+Furerii Itenerarium Aegypti, Arabiae,
+ &c.
+
+
+Antoninus
+ his
+
+ Itinerary (if it be his) for both 
+Thuanus
+ and 
+Vossius De Histori∣cis Latinis, l.
+ 3. 
+c.
+ 2. and others, seem to question it, with Mr. 
+Burtons Commen∣tary.
+
+
+There are 
+Les Fameux Voyages De Pietro De le Valle Surnomme Illustre Voyageur
+ in three Quartoes. His Travels into 
+East-India,
+ and 
+Arabia Deserta,
+ are Translated into 
+English
+ by 
+Havers,
+ and so I think are the other in three Quar∣toes.
+
+
+Voyage d'Orient du Philippe Carme Dechause Sieur de Loyer,
+ his Relation 
+de voyage de Levant De la Haie
+ of the 
+Levant,
+ and also 
+Blunts voyage
+ into the 
+Levant.
+ Divers Voyages du 
+P. Alexandre De Rhodes.
+
+
+Voyages
+ du 
+Seigneur
+ de 
+Villamont
+ in three Books.
+
+
+
+
+Voyage de la terre Sainte.
+
+
+Voyage
+ du 
+Duc
+ de 
+Rohan en Italie, Alemagne, Pays has uni, Angleterre & Escosse.
+
+
+Jo. Hugenvans Linschotens
+ Discourse of Voyages into the 
+East
+ and 
+West-Indies,
+ whom Mr. 
+Boyle
+
+
+ stiles the sober rela∣ter of his Voyages.
+
+
+Sir 
+Francis Drakes
+ Voyages. 
+Thuanus
+ calls our
+
+ 
+Drake, Celeberrimus universi orbis lustrator. Paulus Venetus
+ hath writ∣ten both an 
+Itinerary,
+ and three Books, 
+de Religionibus Orientalibus.
+
+
+Some think him somewhat fabulous for what he reports of 
+Quinsay.
+
+
+ Dr. 
+Heylin
+ in his 
+Cosmography
+ in 
+Madagas∣car
+ one of the 
+Afracan Isles,
+ for what he relates of the Bird called 
+Ruck,
+ of such
+
+incredible strength and bi
+ness, that it could snatch up an Elephant, as easily as a Kite doth a Chicken.
+
+
+Mr. 
+Burton
+ in his 
+Melancholy,
+ part 2. Sect. 2. 
+Member
+ 3. 
+p.
+ 244. saith, 
+I
+ would censure all 
+Plinies, Solinus, Strabo's, Sir John Mandevils, Olaus Magnus, Marcus Polus,
+ lies.
+
+
+Apollo
+ said to the Author of the 
+Chi∣na History,
+ that he should reduce the immense Metropolitan City of so many Kingdoms, inhabited by many millions of men to some credible measure; and particularly, that he should bring the Palace of that King, which he had affirm∣ed to be many miles long, to such a form, as 
+Vitruvius
+ should not laugh at him for it; saying, that if that building were so great as he had described it to be, the Halls must needs be half a mile long, and the Chambers little less; which if it were true, the whole Academy of Ar∣chitects had reason to say, that to bring the meat but to the Table, the servants of so great a King must ride Post. 
+Bocca∣lini
+ his 
+Advertisements
+
+
+ from 
+Per∣nassus. Century
+ 2d. 16th. 
+Advertisement.
+
+
+
+
+Yet Mr. 
+Boyle
+ in his experiments touching Cold, 
+Title
+ 19. saith of him, a writer not always half so fabulous as many think him, and 
+Scickard
+ in his 
+Ta∣rich. p.
+ 185. saith, 
+Marcus Polus Vene∣tus, Minime vanus author, Cujus Nar∣rata pridem incredibilia, quotidie magis magisque verificantur.
+
+
+There is 
+Relation du Voyage de Mus∣covie,
+
+ Tartarie & de Perse du Sieur Ole∣arius Secretaire de Duc de Holstein.
+ Both the Author and Book are commended by 
+Bochart
+ in his late learned Treatise 
+de A∣nimalibus Scripturae.
+ It is now translated into English. Mr. 
+Boyle
+ stiles him the Applauded Writer 
+Olearius.
+ In his 
+Ex∣perimental History of Colours, Experiment
+ 9. He stiles him the Judicious 
+Olearius,
+ who was twice imployed as a publick Minister.
+
+
+There is the world surveighed, or 
+Vincent le Blanck
+'s 
+Travels;
+ He spent fifty years making ten or twelve Voy∣ages almost through all the parts of the World. Mr. 
+Boyle
+ calls him that Ram∣bler about the world.
+
+
+
+
+There are also 
+Morysons
+ Travels, 
+George Sandy
+'s Travels, and Sir 
+Edwine Sandes
+ his Relation of the State of Re∣ligion in the Western parts of the world, both very good.
+
+
+Biddulph
+'s Travels.
+
+
+Herbet
+'s Travels.
+
+
+Monsieur de Monfart
+'s Travels.
+
+
+The 
+Preacher
+'s Travels.
+
+
+Coriat
+'s Crudities.
+
+
+Lithgow
+'s Travels.
+
+
+Ferdinand Mendez a Pinto
+'s Travels; who five times suffered Shipwrack, was sixteen times sold, and thirteen times made a slave, and spent one and twenty years in Travelling.
+
+
+Sir 
+John Mandevil
+'s Travels.
+
+
+He Travelled thirty three, thirty four years, say some.
+
+
+He was in 
+Scythia,
+ the greater and less, 
+Armenia, Egypt,
+ both 
+Lybia
+'s, 
+Arabia, Syria, Media, Mesopotamia, Persia, Chaldaea, Greece, Illyricum, Tartary,
+ and divers other Kingdoms of the world.
+
+
+He committed his whole Travel of thirty three years to writing, in three di∣vers Tongues, 
+English, French
+ and 
+La∣tine. Purchas
+ his 
+Pilgrimage. part
+ 3. 
+l.
+ 3. 
+c.
+ 6. out of 
+Baleus.
+
+
+
+
+Joannes Mandevile, Non minimam Consecutus est laudem describendo regiones, vel opere de re medica.
+ Vossius 
+'De
+ Hist. 
+Lat. l.
+ 3. 
+ca.
+ 2.
+
+
+B.
+
+ 
+Ʋsher,
+ speaking of 
+Cloughte Kil∣ti in Cork,
+ saith, 
+In quo fundamenta con∣spiciuntur amplissimae domus, quam no∣bilis illius
+ Johannes Magnavillani (
+sive de
+ Mandevile 34. 
+annorum peregrinatione notissimi) fuisse tradunt accolae.
+
+
+Quibus relationibus olim fides nulla∣tenus fuit adhibita,
+ Spizelius 
+de re itera∣ria Sinensium,
+ sect. 2.
+
+
+Yet Sir 
+Walter Raleigh
+ in his 
+History of the World,
+ part 4. l. 4. c. 2. sect. 21. and Dr. 
+Heylin
+ in his 
+Cosmography
+ (as he somewhat improperly
+
+ stiles his great Folio) speaking of 
+India,
+ p. 882. shew, how he was honoured abroad, and how many of his relations (though esteemed fabulous by some) were since confirm∣ed by the 
+Portugals.
+
+
+
+
+Daviti
+ in his book entitled, 
+Le Monde,
+ Mentions 
+Malherbe
+ for a great Travel∣ler, spending twenty seven years in di∣vers Voyages almost through all the parts of the World.
+
+
+Purchas
+ in his second part of his 
+Pil∣grims, l.
+ 10. 
+c.
+ 1. Speaks of 
+Damian a Goes,
+ a 
+Portugal,
+ who did see, speak, and was conversant with all the Kings, Prin∣ces, Nobles, and chief Cities of all Chri∣stendome, in the space of twenty two years.
+
+
+Mr. 
+Greaves
+ in his 
+Pyramidographia,
+ Mentions the Travels of 
+Monsieur de Breves
+ Embassador at 
+Constantinople, les Voyages de Monsieur de Breves,
+ which I have purchased from 
+France.
+
+
+Alexandre de Rhodes,
+ in the third part of his 
+Voyages, ch.
+ 13. Speaks of 
+Monsieur de Boulaye,
+ which hath pub∣lished, 
+Ʋn tres beau liure de ses voyages, ou il faut voir ec autant de fidelite,
+
+ que de nettete d'esprit, la, Conduite qu' il a monstree sans des Royaumes si differents.
+
+
+
+
+He hath travelled over (saith he) the greatest part of 
+Europe, Asia,
+ and 
+Afri∣ca.
+ I have seen that 
+French
+ Book also.
+
+
+There is 
+Alex. Geraldini Itinerarium ad regiones sub Aquinoctiali,
+ in sixteen Books.
+
+
+There are also Relations of Divers Curious Voyages by 
+Monsieur Thevenot,
+
+
+ in three 
+Tomes,
+ and 
+Relation Du voyage, de l'Eveque de Breyte, per la Turquie, la Perse, les Indes, &c. jusques au Royaume de Siam, & autres lieux par
+ M. 
+de Bour∣ges, Prestre, &c.
+ Both mentioned in the Philosophical Transactions. I have mu∣stered up these several Itineraries and Voyages, both because I have perused most, if not all of them, (except the two last) when I was about my great book of Geography, though it be not yet printed. And because I suppose Travel∣lers may hereby furnish themselves with the best writers of those parts of the world, whether they intend to go, ei∣ther to instruct them about those places before they go, or to carry with them: Who ever since the beginning of things and men, hath been so often by royal imployment sent Embassador to so many Princes so distant in place so different
+
+in rites, as Sir 
+Robert Sherlie!
+
+
+ Two 
+Em∣perours, Rodolph
+ and 
+Ferdinand,
+ two 
+Popes, Clement
+ and 
+Paul,
+ twice the 
+King
+ of 
+Spain,
+ twice the 
+Polonian,
+ the 
+Mus∣covite
+ also, have given him Audience. And twice also (though not the least for a born subject to be Embassador to his Soveraign) his Majesty hath heard his Embassage from the remote 
+Persian. Pur∣chas
+ his 
+Pilgrims,
+ part 2. l. 10. c. 10.
+
+
+Dr. 
+Nicholas Wotton
+ (Uncle to Sir 
+Henry Wotton
+) was Privy-Counceller to four successive Soveraignes, Viz. King 
+Henry
+ the 8th. 
+Edward
+ the 6th. Queen 
+Mary,
+ Queen 
+Elizabeth.
+ He was nine times Embassadour for the Crown of 
+England,
+ to the Emperour, the Kings of 
+France
+ and 
+Spain,
+ and other Princes. 
+Camdens Hist.
+ of 
+Q. Elizabeth.
+
+
+Some have instanced in several 
+English
+ Embassadours, how well they have ac∣quitted themselves; but I shall single out one as very deserving.
+
+
+
+Sir 
+Thomas Rowe,
+ after many Ambas∣sages to almost all the Princes, and States in Christendome; (all which were man∣aged
+
+with admirable Dexterity, Success and Satisfaction) was last of all Ambas∣sador Extraordinary to 
+Ferdinand
+ the third, 
+Emperour of Germany;
+ who gave him this Character, 
+I have met with ma∣ny Gallant Persons of many Nations, but I scarce ever met with an Ambassador till
+ now.
+
+
+Bishop 
+Bedell
+ was Chaplain to Sir 
+Henry Wotton
+ at 
+Venice.
+ Dr. 
+Featly,
+ to Sir 
+Thomas Edmonds
+ in 
+France.
+ Dr. 
+John Burgesse,
+ to Sir 
+Horatio Vere,
+ in 
+Germany.
+
+
+Mr. 
+Boyle
+ in his Preface to his Expe∣riments, touching Cold, commends Captain 
+James
+ his Voyages, it being scarce, and not to be met with, in 
+Purchas
+'s 
+Tomes
+ (having been written some years after they were finished) and his Voy∣ages published by the last Kings com∣mand;
+
+ He being bred in the University, and acquainted with the Mathematicks.
+
+
+He commends also Mr. 
+Ligon
+ of the 
+Barbado's,
+
+
+ and stiles him ingenious Mr. 
+Ligon,
+
+
+But enough (if not too much) of this.
+
+
+Geographers, who write of the four parts of the Earth, are as large in 
+Europe,
+ as in the other three, 
+Asia, Africa,
+ and 
+America,
+ To which one part, all learn∣ing
+
+seemeth now to be in a manner con∣fined; which within this hundred, or two hundred years, hath produced so many able men of all professions; Di∣vines, Lawyers, Physicians, and Philo∣sophers; Papists and Protestants.
+
+
+Bolton
+ in his 
+Nero Caesar.
+ c. 29. sect. 1. speaking of ancient 
+Rome,
+ saith, The wonder of the feat did not grow from the greatness only, but from the innumera∣ble ornaments of publick, and private works, erected for use, delight, and glo∣ry, dispersed over all the fourteen wards, or regions thereof. 
+Temples, Forums, Li∣braries, Therms, Aquaducts, Theaters, Amphitheaters, Circi, Porticus, Ar∣ches, Columns, Statues, Palaces,
+ and the rest, whose bare names scarce remain∣ing, do fill up Volums with their invento∣ries.
+
+
+The best Circuit a Traveller can take, is to go through 
+Holland
+ towards 
+Ger∣many,
+ thereby to satisfie his curiosity by degrees, for 
+Germany
+ will afford more satisfaction than the 
+Low-Countries; France
+ more then 
+Germany, Italy
+ more then 
+France,
+ Gerbiers 
+subsidium Pere∣grinantibus.
+
+
+
+
+Paris, Rome,
+ and 
+Constantinople,
+ are the Court of the World; 
+Venice Gene∣va,
+ and 
+Lisbon,
+ the City; 
+Provence, An∣daluzia,
+ and 
+Italy
+ the Garden, 
+Africk,
+ and 
+America,
+ the Desart and Wilder∣ness.
+
+
+Flecknoes
+ Relation of twenty years Travels, Letter 22.
+
+
+Johnson
+ in his Relation of the most famous Kingdoms. 
+l.
+ 1. of Travel, ad∣viseth a Traveller to take heed of the Pride of 
+Spain,
+
+
+ the Poyson of 
+Italy,
+ the Treason of 
+France,
+ and the drink of 
+Flanders.
+
+
+Those who have a desire to travel to 
+Jerusalem
+ should take heed to themselves; that they make no Shipwrack of Con∣science, for if they come not well com∣mended, or well monyed, or both, there is no being for them, except they par∣take with them in their Idolatrous Ser∣vices. 
+Purchas
+ his 
+Pilgrimage,
+ part 2. l. 8. ch. 9.
+
+
+
+
+Lud. Bartema
+ Relates, that they that Travel over the 
+Desarts
+ of 
+Arabia,
+ which are all covered with light and fleeting Sands, so that no Track can ever be found, do make certain boxes of wood, which they place on Camels backs, and shut themselves in them, to keep them from the Sands, and by the help of the Load-stone, like the Marriners Compass, they steer their Course over the vast and uncouth Desarts.
+
+
+The 
+Latine,
+ the 
+French,
+ the 
+Sclavo∣nick,
+ and the 
+Arabian
+ Tongue, are known in many places, For 
+Africa; Leo
+
+
+ is the best, for the 
+Levant; Blunt
+ is a good book to take with thee thither, and some others 
+I
+ have before-named; for 
+Italie, Scotti & Capugnani Itinerarium Italiae, & Raimunds Mercurio Italico,
+ will be useful; for 
+France, Dallingtons View of France,
+ and Mr. 
+Evelins
+ little book, for the Polity or Government; for 
+Holland, Colnitzius,
+ for 
+Germany Zeiler.
+
+
+
+
+Sir 
+Benjamin Ruddierd
+ (whose dis∣course and speeches were full of Apo∣thegmes) was wont to say, 
+France
+ was a good Country to ride through,
+
+ 
+Italy
+ a good Country to look upon, 
+Spain
+ a good Country to understand, but 
+England
+ a good Country to live in.
+
+
+So wishing the Traveller a prospe∣rous Voyage, There cast Anchor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Diatribe OF MONY OR COYN.
+
+
+Printed in the Year, MDCLXXI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A DIATRIBE OF MONY Or COYN.
+
+
+C
+Oyn
+ seemeth to come from the 
+French, Coin,
+ a 
+Corner;
+ because the ancientest sort of 
+Coyn,
+ was cornered and not round.
+
+
+
+
+Cowells Intepreter.
+
+
+Coyning of Money is a special right
+
+and Prerogative of Soveraigne
+
+ Majesty, Mony is as the sinews and strength of a state, so the life and soul of Commerce.
+
+
+Mony, Commonly is the mean for all Commodities, and answereth to all, 
+Ec∣cles.
+ 10.19. Yet the 
+Spaniards
+ Com∣ing into the 
+West-Indies,
+ had many Com∣modities of the Country which they needed, brought unto them by the In∣habitants; to whom, when they offered them Money, goodly pieces of Gold Coyn, the 
+Indians
+ taking the Mony, would put it into their Mouths, and spit it out to the 
+Spaniards
+ again, signifying, that they could not eat it, or make use of it; and therefore would not part with their Commodities for Money, unless they had such other Commodities as would serve their use.
+
+
+That Money hath been anciently used in a way of Commerce, we may see 
+Gen.
+ 33.19. And the most ancient was the
+
+purest Gold. Medals are certain pieces of Money dispersed at the Coronation of Kings. They call them commonly 
+Me∣dallias,
+ in the Italian, Spanish, and French Languages, (saith 
+Antoninus Augustinus, De veterum numismatum Antiquitate
+) from the Latine word 
+Metalla,
+ since those three Languages had their Original from the Latine.
+
+
+Pope Gregory
+ the 13th after he had received tidings in the Consistory of the 
+Massacres
+ in 
+France,
+
+
+ one thousand five hundred and seventy two, went to the Church that night to give thanks, made 
+Bonfires,
+ and gloried in the bloody feats of those 
+Emissaries,
+ having a 
+Coyn
+ with his 
+own Face
+ on one side, and an 
+Angel
+ on the other; with a 
+Cross
+ in one hand, and a 
+Sword
+ in the other, with this Motto, 
+Hugonothorum Strages.
+
+
+
+
+Lewis
+ the 12th of 
+France,
+ a moderate Prince, when his Realm was interdicted by 
+Pope Julius
+ the second, caused Coyn to be stamped with his own image,
+
+ with this superscription,
+
+ 
+Perdam Nomen Ba∣bylonis.
+
+
+In 
+Athens
+ the Tower excelled,
+
+ in which there was a Temple to 
+Minerva. Juleus Pollux
+ writes, that the 
+Attick te∣tradrachme
+ was stamped with the face of 
+Minerva,
+ and he might have added with the 
+Noctua
+ on the reverse. Mr. 
+Greaves
+ of the 
+Denarius. Hugh Broughton
+ said, it was portended by his Arms, that he should be a 
+Grecian,
+ for he gave the house 
+Athens.
+
+
+There is a Medal in 
+Oxford
+ made upon the sinking of the Spanish ships in 88.
+
+ with a Navy on one side and a Rock on the other. See 
+Cambdens Annals.
+
+
+
+
+The 
+Lydians
+ first invented Gold and Silver Money, 
+Janus
+ Brass Money.
+
+
+Gutherius
+
+
+ out of 
+Isidore,
+ saith three things are required in Money; the Metal, the Figure, and the Weight; 
+Gold
+ is the most excellent of all Metals, saith 
+Georgi∣us Agricola.
+ Gold hath 
+Greatness of Weight, Closeness of Parts, Fixation, Pliantness,
+ or 
+Softness, Immunity
+ from 
+Rust, Colour
+ or 
+Tincture
+ of 
+Yellow.
+
+
+Sir 
+Francis Bacon
+'s 
+Natural History,
+ Centuary 4. Experiment 328.
+
+
+Martiall
+ calls Gold, Yellow Mony.
+
+ 
+Has nisi de flaxa loculos implere moneta. Non decet, argentum vilia ligna ferant.
+ Silver is next to it, it is not consumed in the fire. It is more ductile than any other metal except Gold. Its white co∣lour is delightful.
+
+
+
+
+Yet 
+Budaeus De Contemptu Rerum Fortuitorum l.
+ 3. saith well, 
+At Ʋsu subla∣to quid tandem aurum & argentum aliis praestat metallis,
+
+
+Diligent inquiring into Coyns,
+
+ is one great piece of antiquity; by the know∣ledge of which (as other ways) we may come to understand the right wri∣ting of several words.
+
+
+Heliogabalus,
+ or 
+Algebalus
+ rather, as he was stiled of old, as 
+Egnatius (Notis ad Caesares)
+ proves out of some old Coyns.
+
+
+Leonardus Aretinus,
+ in the fourth Book of his Epistles, describing his journy from
+
+Rome
+ to 
+Constance,
+ saith, when he en∣quired of some Citizens there, of the an∣tiquity and original of 
+Constance, nemo adhuc mihi occurrit, qui vel avi sui nomen & memoriam ne dum urbi tenere vide∣retur.
+ Yet by diligent searching, he found a Marble Table Containing ancient let∣ters, by which it appears, that this Ci∣ty took its name from 
+Constantius
+ the Father of 
+Constantine,
+ being called 
+Vi∣tudura.
+
+
+There is much learned pleasure in the Contemplation of the several figures stamped on each side of these Attique Coyns. Would you see the true and un∣doubted models of their 
+Temples, Altars, Deities, Columns, Gates, Arches, A∣quaeducts, Bridges, Sacrifices, Vessels, Sellae Curules, Ensignes
+ and 
+Standards, Naval
+ and 
+Mural Crowns, Amphithea∣ters, Circi, Bathes, Chariots, Tro∣phies, Ancilia,
+ and a thousand things more. Repair to the old Coyns and you shall find them. 
+Peachams Compleat Gentleman,
+ ch. 12.
+
+
+There is a twofold Inscription of Coyns, 
+obversa
+ and 
+aversa.
+
+
+Vide Seldenum De Jure Naturali.
+ l. 6, c. 17.
+
+
+
+
+I have heard of some men,
+
+ (but heard it onely) who by the bare handling and smelling, would judge better of old Coyns (which is a great trade beyond the Seas, and concerning which, many Books are written) than others, not al∣together strangers unto them, could by the sight.
+
+
+The general names for Money among the 
+Romans
+ are three,
+
+ 
+Moneta, Numus, Pecunia.
+
+
+First, 
+Moneta
+ (whence the 
+French Monnoye
+) 
+à Monendo,
+ because it sheweth us the Author, the Value and the time.
+
+
+Numisma, quasi Nomisma à nomini∣bus scilicet & effigiebus principum quae ei imprimebantur,
+ Isidorus 
+dici putat.
+ Wa∣serus 
+De
+ Antiquis Numis Hebraeorum, Chaldaeorum 
+&
+ Syrorum 
+c.
+ 11.
+
+
+Secondly, 
+Numus,
+ or 
+Nummus
+ ra∣ther, saith 
+Vossius,
+ a 
+Numa,
+ saith 
+An∣gelo Cretor,
+ it hath rather a Greek Ori∣ginal,
+
+ from the Law, because
+
+it is a Legitimate and publick price. 
+No∣misma
+ and 
+Numus
+ (saith 
+Martinius
+) seem to be of the same Original.
+
+
+Thirdly, 
+Pecunia,
+ either from the Images of
+
+ Cattel stamped upon it, or from their skin out of which mony was Coyned.
+
+
+Gen.
+ 33.19. 
+For an hundred pieces of money,
+ the 
+Greek
+ and 
+Chaldee
+ translate it, a hundred Lambs. Others think they were 
+pieces of money,
+ on which the ima∣ges of Lambs were stamped. So in 
+Jos.
+ 24.32. 
+Job
+ 42.11. 
+Ainsworth, Vide Me∣neru in loc. & Brerewood De Ponderibus, &c.
+
+
+The Mony currant in 
+Attica
+ was com∣monly stamped with an Oxe, whence came the By-word. 
+Bos in Lingua,
+
+
+ ap∣plied to such Lawyers as were bribed to say nothing in their Clients cause, not much unlike to which was the Proverb rising from the Coyn of 
+Aegina,
+ (an Isle adjoyning) stamped with the figure of a 
+Snail, viz. Virtutem & sapientiam vin∣cant. Testudines.
+
+
+
+
+The Names of the Brass Money among the 
+Romans
+ were,
+
+
+
+As
+
+
+Quadrans
+
+
+Sextans
+
+
+Triens
+
+
+
+
+Of the Silver.
+
+
+
+
+Denarius
+
+
+Quinarius
+
+
+Sestertius.
+
+
+
+
+Of the Gold.
+
+
+Aureus
+
+ sive Solidus,
+ it was valued with the 
+Romans
+ at 25 
+Denaries.
+
+
+As
+ or 
+assis,
+ is a little piece of mony, whose baseness grew into a Proverb. 
+Omnes unius aestimemus assis,
+
+
+Aes
+ is also used for Money, because the first Money amongst the 
+Romans
+ was made of Brass, whence 
+aerarium
+ also for
+
+a Treasury. 
+Tam aeris quam argenti no∣minibus in sermone latino pecunia indica∣tur.
+ Camerarius.
+
+
+Servius Tullius
+ First Coyned Money at 
+Rome,
+ as 
+Pliny
+ witnesseth, 
+l.
+ 33. 
+c.
+ 3. This was of 
+Brass.
+
+
+ They used this till the 5th year before the first Punick war. Then 
+Silver
+ Money was first Coyned, which is called 
+Denarius, quia valeret decem li∣bras aeris.
+ The 
+Golden
+ Money was Coyn'd at 
+Rome,
+ forty two years after the Silver Money was used, as 
+Pliny
+ shews in the place before-named, 62. saith 
+Lipsius.
+ The price and esteem of Gold was different among the 
+Greci∣ans
+ and 
+Romans,
+ among the 
+Grecians
+ Golden Money was changed for ten of Silver, among the 
+Romans
+ for twelve and a half; often it was much more e∣steemed. 
+Vossius De Philiologia Christi∣aniae.
+ l. 6. c, 35. 
+Meursius
+ hath put out 
+Denarius Pythagoricus opusculum pereru∣ditum, ac mihi eo gratius quod inscripse∣rit nomini nostro
+ Vossius, 
+ibid.
+ l. 8. c. 3.
+
+
+
+
+Amongst the ancient Hebrews Chal∣deans and Syrians,
+
+ the most usual money was the 
+Siclus
+ or 
+Shekel,
+ among the La∣tines the cheif and usual kinds of Silver money were 
+Denarius
+ and
+
+ 
+Sestertius,
+ among the Grecians, 
+Drachma, Mina, Talentum.
+
+
+A 
+Shekel
+ (coming from 
+Shakal,
+ he weighed, from whence our English 
+Skole
+ and 
+Skale
+ to weigh with, is derived) is by interpretation a 
+weight,
+ as being the most common in payments, in which they used to weigh their money, 
+Gen.
+ 23.16. 
+Jer.
+ 32.9. The Chaldee calleth a Shekel 
+Silgna,
+ and 
+Selang
+ (from whence our English shilling seemeth to be bor∣rowed) and the quantity of the common shekel differd not much from our shilling, as the shekel of the Sanctuary was about two shillings., 
+Answ.
+ on 
+Gen.
+ 20.16. See him on 
+Exod.
+ 33.13.
+
+
+
+
+A shekel is about the weight of an English half Crown,
+
+ 
+Valet pro inde She∣kel de nostro.
+ 2 s. 6 d. 
+Brerewood de Ponde∣ribus & Pretiis veterum nummorum.
+ c. 1.
+
+
+Exod.
+ 30.13.
+
+ The Gerah is held to have been about a penny half penny, and by that estimate, the shekel was two shillings six pence, and half the shekel fifteen pence.
+
+
+It is the ancientest of all the monies the Scripture mentions,
+
+ the weight of it is almost four Spanish Reals, or four Roman Julii,
+
+
+A Roman Julio
+
+ or; a Spanish Royal, is about 7 pence English, a piece of eight called so, because equal to eight Royals is about 4 
+s.
+ 6 
+d.
+ English, so that 
+Ains∣worth
+ seems to be mistaken.
+
+
+
+
+Graeci pecuniarum summas num era∣bant drachmis, ut
+ Judaea 
+siclis, & Ro∣mani sestertiis,
+ Brerewood 
+De Ponderi∣bus & Pretiis veterum nummorum.
+
+
+Mr. 
+Greaves
+ in his 
+Denarius,
+
+
+ would have the thirty pieces of Silver, which were given to 
+Judas,
+ as the reward of his treason, to be thirty shekels, that be∣ing less then fifteen of our ordinary Crowns.
+
+
+We find in 
+Exodus
+ (saith he) the price of a servant to have been thirty shekels. 
+Gassendus De vita Peireskii,
+ saith as much, and so doth Dr. 
+Hamon
+ on 
+Matth.
+ 26.15. 
+Mr. Greaves,
+ there also saith, the distinction of a double shekel, the one sacred equal to the tetradrachme, the o∣ther prophane weighing the didrachme: that used in the Sanctuary, this in Civil Commerce, is without any solid foun∣dation in the writ, and without any pro∣bability
+
+of reason, that in any wise State, the Prince and people should have one sort of Coyn, and the Priests should have another, and that this of the Sanctuary should be in a double proportion to the other, and yet that both should concur in the same name, 
+Rivet.
+ on 
+Exod.
+ 30.13. goes the same way and gives four reasons to prove that the shekel was but one.
+
+
+Matth.
+ 22.20. The 
+tribute Money
+ or 
+Denarius,
+ that was to be paid to 
+Cae∣sar
+ by way of tribute, had on it, saith 
+Occo,
+ the picture or image of 
+Caesar,
+ and in it these Letters written, 
+Caesar Augu∣stus,
+ such a year after the taking of 
+Ju∣daea,
+ Dr. 
+Hammond in loc.
+
+
+Denarius
+ may be considered in a dou∣ble respect, either as 
+nummus,
+
+
+ or as 
+pon∣dus:
+ In the first acception, the valuation of it in civil affairs is remarkable, in the later, the gravity and ponderousness: The 
+Denarius
+ was a Silver Coyn in use amongst the 
+Romans,
+ passing at the first institution for 
+Dena aera
+ or ten 
+Asses.
+ whence the name: The Dutch esteem it at six Stivers, or a 
+shilling.
+
+
+
+
+The 
+Assis
+ was a brass Coyn weigh∣ing a pound.
+
+ The 
+denarius
+ had an im∣press upon it of the figure X. denoting the decussis, or number of the 
+Asses.
+
+
+Denarius
+ as 
+Pondus
+ was either 
+Consu∣laris,
+
+
+ made under the government of the City by the 
+Consuls,
+ or 
+Caesareus,
+ under the 
+Caesars,
+ somtimes there is the Effi∣gies of the 
+Consuls,
+ and somtimes of the Emperour on it. 
+Denarius
+ is of as great moment for the Discovery of weights, as the 
+Roman foot
+ for the 
+Measures.
+
+
+It weigheth of our Money seven pence, or seven pence half peny, and was the pay of the Roman Soldiers, and the wages of a Day-labourer, 
+Matth.
+ 20.9.
+
+
+The 
+Athenian
+ Drachma (the pay of their Souldiers) by account both of Mer∣chants and Physicians weighed alike, and was of one value
+
+
+
+
+Sestertius
+ signifies two and a half,
+
+ as the vulgar note also importeth H s. or joyned H. s. that is, 
+duo & semis,
+ two and a half, 'tis meant alwaies of so ma∣ny 
+asses,
+ four 
+Sestertii
+ are equivalent to a 
+denarius.
+ Sir 
+Henry Savil
+ on 
+Tacitus,
+ and Mr. 
+Greaves
+ of the 
+Denarius.
+
+
+Every 
+Sestertium
+ was valued at seven pound sixteen shillings three pence.
+
+
+As the 
+Sestertius
+ according to 
+Arrun∣tius,
+ was 
+olim dupondius & semis,
+ anci∣ently 
+two pounds of brass and an half;
+ so the 
+Sestertius pes,
+ was two foot and an half. Mr. 
+Greaves
+ his Discourse of the Roman Foot.
+
+
+As the 
+Ʋnity
+ in respect of Numbers, or the 
+Sestertius
+ in Discourses 
+de re num∣maria:
+ So is the 
+Denarius
+ for weights, a fit rise or beginning, from whence the
+
+rest may be deduced. Mr. 
+Greaves
+ of the 
+Denarius.
+
+
+The 
+Drachma
+ as 
+Nummus,
+ was a sil∣ver Coyn in use amongst the Athenians,
+
+ and so it was the measure of things vendible, as all Coyns are, and as 
+pon∣dus,
+ it was the measure of their gravity and weight. Mr. 
+Greaves
+ of the 
+Dena∣rius.
+
+
+Dilher
+ in the first 
+Tome
+ of his Acade∣mical Disputations, reckons up eight kinds of 
+Drachmae;
+ See 
+Beza Schmi∣dius,
+ and Dr. 
+Hammond
+ on 
+Matth.
+ 17.27.
+
+
+Gellius, Noct. Attic. lib.
+ 1. 
+chap.
+ 8. saith that 
+Demosthenes
+ went privately un∣to 
+Lais,
+ and desired to lie with her; but she demanding 10000 
+drachmae
+ of him for one nights lodging with her; he re∣fused, saying, He would not buy Re∣pentance at so dear a rate; This was 
+Lais,
+ the Daughter; for there were two of that name, the mother and
+
+ daugh∣ter: both beautiful and infamous strum∣pets, as 
+Palmerius ad Pausaniae Corin∣thiaca
+ sheweth.
+
+
+
+
+The 
+Attick
+
+
+ or 
+Mina,
+ Contain∣ed a hundred Drachmes in weight, as it is clear out of 
+Pliny, Pollux,
+ and others; some derive it from the Hebrew
+
+,
+
+ to number, the word is used 
+Ezek.
+ 45.12. and rendred 
+Maneh.
+
+
+Snellius De Re Nummaria
+ saith, it is manifest by the testimonies of Come∣dians, that there was a double Talent in use among the Athenians, a greater and a lesser.
+
+
+A
+ Talent is the greatest weight which was in use,
+
+ every Talent was a twelve pounds weight; it weighed three thousand Shekels, and every Shekel three hundred and twenty grains of Barley. An Hebrew Talent in Silver, is of our mo∣ney three hundred seventy and five pounds. In Gold, four thousand five hundred pounds.
+
+
+
+
+1 
+Chron.
+ 22.14.
+
+ 
+Now behold in my po∣verty I have prepared for the house of the Lord an hundred thousand Talents of Gold, and a thousand thousand Talents of Silver.
+ Some compute it to be above thirty three thousand Cart-loads of silver, allowing six thousand pound sterling to every Cart-load, and seventy millions of French Crowns of Gold. See Sir 
+Walter Rawleigh
+ his History of the World, part 2. 
+ch.
+ 17. §. 9.
+
+
+1 
+Kings
+ 9.14.
+
+ The Jews had two Ta∣lents, the one sacred, the other common. The sacred was in weight and worth, as much more as the common. The sacred in Gold was reputed to be three thousand seven hundred and fifty pound in value; the common, one thousand eight hundred seventy and five pounds sterling. Dr. 
+Gouge in loc.
+
+
+Edward Brerewood
+ heretofore Profes∣sor of 
+Astronomy
+ in 
+Gresham-Colledge
+ in 
+London,
+ hath published a learned Book, 
+De Ponderibus & Pretiis Veterum Nummorum, eorumque cum recentioribus Collatione,
+ which is in the 
+Apparatus
+ of the 
+Polyglot Bible.
+
+
+
+
+Waserus
+ hath written so fully and ex∣actly of the ancien Coyns of the 
+He∣brews, Chaldees,
+ and 
+Syrians,
+ that there needs not to be said more of that Argu∣ment.
+
+
+Budaeus
+
+
+ in his Books 
+de Asse,
+ or the Breviary Collected out of him, with the Annotations of 
+Philip Melanchthon,
+ and 
+Joachim Camerarius,
+ are the best for the Greek and Latine Coyns.
+
+
+Antonius Augustinus
+ a man very a∣curate in Coyns, as appears by his Dia∣logues. Mr. 
+Greaves
+ of the 
+Denarius.
+
+
+Marquardus Freherus,
+ hath put forth a learned Discourse of paying tribute, where he speaks somewhat of Roman Coyns. Mr. 
+Selden De Jure Naturali ac
+
+Gentium. l.
+ 2. 
+c.
+ 8. calls it 
+Eruditissima ac gravissima De Numismate census à Pharisaeis inquestionem vocato Disserta∣tio.
+
+
+Mr. 
+Greaves
+ hath written learnedly of this subject in his discourse of the 
+Dena∣rius.
+
+
+The Roman Emperours Gold, Silver, and Copper Coyn, (with their Images and Inscriptions) are in the custody of that learned Knight, and my worthy Friend, Sir 
+John Cotten,
+ as I have heard.
+
+
+It's pitty that Sir 
+Simonds D' Eus
+ my great friend, had not published somthing this way, he having spent so much time in this study, and having purchased so many several Coyns of all sorts.
+
+
+There are some other Gentlemen that have a good Collection of Coyns; There are Coyns with 
+Lazius, l.
+ 3. 
+Commen. Reipub. Romanae, c.
+ 12. whose inscription is
+
+ 
+Salas Publica Demps. in Rosin. An∣tiquit. Rom. lib.
+ 1.
+
+
+
+
+There are two requisites (saith 
+Demp∣ster
+) that Money pass, 
+proba materia, & vultus Imperatoris ei impressus.
+
+
+False money (saith He in 
+Rosin An∣tiq. Rom. l.
+ 7. 
+c.
+ 31.) was forbidden by the Roman Laws, and the Crime is call∣ed 
+peculatus. Charles
+ the Great had a shop in his Palace for the Coyning of Money, that it might be more diligently coyned.
+
+
+Camden
+ in his 
+Britaine
+ saith, 
+Nicolaus Fabricius de Peiresc.
+ of 
+France,
+ was very skilfull in antiquities, and old me∣dals or pieces of money.
+
+
+He saith there also that many pieces of Roman money are every
+
+ where found among us in the ruines of Cities and Towns subverted, in Treasure-Cof∣fers, or vaults hidden in that age, as also in Funeral-pots and Pitchers.
+
+
+About thirty five years since,
+
+ not far from 
+Dunstable
+ many pieces of silver
+
+were taken up, which the plow had thrown upon the edge of the Furrough: Being examined, they were found to be silver with the impression of 
+Caesar
+ on them. Mr. 
+Selden
+ much valued them for their Antiquity, some of them having been stamped (as he said) above nine hundred, and some a thousand years. Mr. 
+Peachams Worth of a Peny.
+
+
+I have been informed, that some Me∣dals have been dig'd up at 
+Shawell
+ in 
+Lei∣cester-shire,
+ the Town where I was born and also at 
+Braunston.
+
+
+It is a great question, saith 
+Georgius Agricola,
+ whether pure or mixt money be more profitable for Countries and States.
+
+
+Peacham
+ in his 
+Complete Gentleman,
+
+
+ c. 19. of Travels, saith, the Spanish Coyns are the best of 
+Europe.
+
+
+Howell
+ in his 
+Dodonars Grove,
+ or 
+Vocal Forrest, part
+ 2. 
+Walk
+ 4. 
+p.
+ 44. saith, 
+Drui∣na
+ (by which I suppose he means 
+Eng∣land
+) is renowned abroad to have her
+
+Kings Face and Arms drawn in the purest sort of Minerals, and the generally best currant Coyns in the world.
+
+
+Queen 
+Elizabeth
+ caused all such base monies as were Coyned by any of her Predecessors,
+
+ to be reduced to a lesser value, and to be brought into her Ma∣jesties Mint, for which she gave them money of the purest silver, such as passed commonly by the name of Easter∣ling or Sterling money,
+
+ since which time, no base money hath been Coyned in 
+England,
+ but only of pure Gold and Silver, to pass for current in the same; save that of late times, in relation to the Necessity of poor people, a permission hath been given to the Coyning of Far∣things, which no man can be forced to accept in satisfaction of a Rent or Debt.
+
+
+
+
+In all other States of the Christian World, there are several sorts of Copper money, as current with them for pub∣lick uses, as the purest metal,
+
+
+Queen 
+Elizabeth
+ supplyed the King of 
+Navarre
+ in his straits, with twenty two thousand pounds of 
+English
+ money in Gold, (a sum of Gold Coyn so great, as he professed he had never seen together before) and sent him Arms and four thousand men, under the Command of 
+Peregrine
+ Lord 
+Willoughbey.
+
+
+Camdens Annals
+ of 
+Queen Elizabeth.
+ 4th Book, 
+Anno
+ 1589. 
+the
+ 32d of her Reign.
+
+
+Sterlings are used in 
+England, Scotland
+ and 
+Ireland.
+
+
+That name of Sterling began in time of 
+Hen.
+ II. and had its original of name from some Esterling, making that kind of money, which hath its Essence in par∣ticular weight and fineness; not of the Starling Bird, as some, nor of Sterling in 
+Scotland
+ under 
+Edw.
+ 1. as others ab∣surdly; for in Records much more anci∣ent I have read the express name 
+Ster∣lingorum. Mr. Selden
+ on the 17th song, of 
+Draytons Poly-olbion.
+
+
+
+
+Sterling
+ is a proper Epithete for mo∣ney currant within the Realm.
+
+ A certain pure Coyn stamped first of all by the Esterlings here in 
+England.
+
+
+
+
+
+
+Cowells Interpreter.
+
+
+Esterling money, now called Sterling, not from 
+Striveling
+ in 
+Scotland,
+ nor from a Star, which some dreamed to be Coyn∣ed thereon. 
+Camdens Remains.
+
+
+That denomination came from the 
+Germans,
+ of their Easterly dwelling, termed by English men Esterlings, whom 
+John,
+ King of 
+England
+ first sent to re∣duce the silver to the due fineness and pu∣rity. 
+Camdens Britain.
+ in 
+Scotland.
+
+
+There is one 
+Thomas Hylles
+ that put out the Art of Vulgar arithmetick 1600. who hath 
+p.
+ 262. A Table of the names and values of the most usual Gold Coyns in Christendome, and begins with our own Country Gold. He mentions the Rose Noble, or Royal, Half Rose No∣ble, Old Noble, Half Old Noble,
+
+George Noble, Half George Noble, Angel, Half Angel, Old Crown. K. H. Base Crown K. H. Half Crown. Sove∣raigne of K. H. other Sou. of all sorts, Double Soveraign, Great Soveraign, Half Soveraigne. Unicorn of 
+Scotland. Scottish
+ Crown.
+
+
+There is for
+
+ Gold.
+
+
+
+
+
+
+The 
+Carolus
+ or 
+Piece
+
+
+20 
+s
+
+
+
+
+
+
+And the 
+Ginie Pieces,
+
+
+22 
+s
+
+
+
+
+
+
+The 
+Angel
+
+
+10 & 11 
+s
+
+
+
+
+
+
+And 
+Crown
+
+
+5 
+s.
+ & 5 
+s.
+ 6 
+d.
+ and 2 
+s.
+ 9 
+d.
+
+
+
+
+
+
+For Silver.
+
+
+
+
+
+
+The 
+Crown
+
+
+5 
+s.
+
+
+
+
+
+
+Half 
+Crown
+
+
+2 
+s.
+ 6 
+d.
+
+
+
+
+
+
+Thirteen pence half penny.
+
+
+ 
+
+
+
+
+
+
+Half and quarter that and
+
+
+4 
+d. ob.
+
+
+
+
+
+
+Shilling
+
+
+12 
+d.
+
+
+
+
+
+
+ 
+
+
+9 
+d.
+
+
+
+
+
+
+ 
+
+
+6 
+d.
+
+
+
+
+
+
+Groat
+
+
+4 
+d.
+
+
+
+
+
+
+
+
+Three Pence
+
+
+3 
+d.
+
+
+
+
+
+
+Two Pence
+
+
+2 
+d.
+
+
+
+
+
+
+Penny
+
+
+
+1 
+d.
+
+
+
+
+
+
+Half-Penny
+
+
+ob.
+
+
+
+
+
+
+Here in England that which was sold about an hundred years agone for ten Groats, which then weighed and ounce, now since the discovery of the Indies, can hardly be bought for ten shillings of our current Money, or two ounces of the same goodness and weight.
+
+
+Sir 
+Henry Savill
+ on a Place in 
+Poly∣bius.
+
+
+In the Low-Countries and Germany, the usual Coyns in Gold are Duckats, and double Duckats, the Duckats are called Hungars at 
+Venice,
+ and are worth nine shillings English.
+
+
+In the Low-Countries the usual silver pieces are Ducatoons equal to ten Dutch shillings, or sixty stivers; Paracoons e∣qual forty eight stivers, or eight Dutch shillings; Shillings equal to six stivers. But the States money is a little under this value, stiver, in brass, the fourth part of stivers pieces.
+
+
+
+
+In 
+Germany
+ the most Common pieces in silver are Dollars, Copsticks, and half Copsticks, equal just to our shillings and six-pences,
+
+ and there is abundance of our shillings and sixpences which pass under that name.
+
+
+This word Copstick comes from 
+Ca∣put,
+ as the Italian Teston from 
+Testa.
+ Kreutzers, so called from the Mark of the Cross. Weiss-penny equal to two Kreutzers. Grasse equal to three Kreut∣zers; ten Weiss-pennies are equal to five Copsticks, Guilders equal to three Cop∣sticks, and half Guilders, a Weiss-pen∣ny a White Penny in Dutch, these lesser peices are of a mixt metal.
+
+
+The 
+German Dollars
+ furnisht all the Mints of 
+Europe,
+
+
+ before the Mines of 
+Mexico
+ and 
+Potosi
+ were discovered in 
+America.
+
+
+
+
+There were the Latine, Attick, and Greek pounds.
+
+
+Libra. Numaria
+ or pound,
+
+ took its name from the weight, because it weigh∣ed in times past a 
+Trojane
+ pound, that is, twelve Ounces. Thence the 
+Saxon punde,
+ and the 
+English pound.
+
+
+The pound sterling in 
+Britain
+ (saith 
+Angelo Crator De Monetis
+ c. 1.) is e∣steemed ten 
+Brabantine Florenes,
+ or four 
+Spanish
+ Dollars.
+
+
+In 
+Spain
+ for Gold
+
+ Pistolls, and half Pistolls, and double Pistolls. In Silver, the common pieces there, are a piece of eight, a half piece of eight, a quarter piece of eight, a half quarter piece of eight, and a piece that is but a sixteenth part of a piece of the Royal eight.
+
+
+In 
+France
+ for Gold, the common pieces are the Lewis, equal (not many years since) to eleven Livers, the half Lewis half so much. The Escud' or now about six Livers,. For Silver the Escue equal to three Livers, the thirty, fif∣teen,
+
+and five Sous pieces. The Quart D'Escu (because the fourth part of the Escud' or) equal to one Liver. Mixt me∣tal, the Souse and the Souse Marque. For Brass the Denier and the Lyard e∣equal to two Deniers, at first stamp'd for three Deniers.
+
+
+Johnson
+ adviseth Travellers if they car∣ry over money with them, that it be in double Pistolets or French Crowns of weight, by these (saith he) He is sure to sustain losse in no place, and in 
+Italy
+ to gain above twelve pence in the pound.
+
+
+Bizantines
+ or 
+Bezants,
+
+
+ as coyned at 
+Constantinople,
+ somtimes called 
+Bizanti∣um,
+ and not at 
+Besanson
+ in 
+Burgundy,
+ plates of Gold are called 
+Bezantes;
+ and in the Court of 
+England
+ where a great piece of Gold valued at fifteen pound, which the King offereth upon high Festi∣vall days is yet called a 
+Bizantine,
+ which anciently was a piece of Gold Coyned by the Emperours of 
+Constantinople, Cam∣dens Remains of money;
+ in his 
+Britannia
+ in 
+Middlesex,
+ He speaks of 
+Bizantines
+ of Silver vallued at two shillings antient∣ly.
+
+
+
+
+Lar
+ is a Coyn much used in the East, both in 
+Persia
+ and the East-Indies. There is one of them to be seen within the Gal∣lery above the publick Library in 
+Ox∣ford
+
+
+The 
+Asper
+ in 
+Turkie
+ is worth a Peny,
+
+ and often mentioned, one of which I have seen.
+
+
+In 
+Italy
+ at 
+Venice,
+ for Gold there is the 
+Chequeen
+ equal to seventeen 
+Livers,
+ the 
+Ducat
+ for silver, a 
+Scudo
+ which by a 
+Bando, anno
+ 1663 was rated at nine 
+Li∣vers
+ six 
+Sous,
+ one half, one quarter, and the eighth part of a 
+Scudo,
+ a 
+Ducaton.
+
+
+For brass 
+Soldo,
+ and half 
+Soldo,
+ and 
+Sol∣dino,
+ also a 
+Denier. Genoa,
+ for 
+Gold,
+ double 
+Pistolls, Pistolls.
+ The 
+Pistoll
+ is called 
+Doppio
+ or 
+Dobla,
+ the double 
+Pi∣stoll Doblone.
+
+
+The silver pieces there are a 
+Croison
+ or 
+Scudo.
+
+
+For Brass D'
+otto
+ pieces equal to eight 
+Deniers, de Quatro
+ equal to four 
+Deni∣ers
+ and the 
+Deniers.
+
+
+At 
+Florence
+ for silver, the 
+Scudo
+ equal to ten 
+Julios,
+ the 
+Teston
+ equal to three 
+Julios
+ (so called from having a Head up∣on it which is in 
+Italian Testa
+) 
+Julios,
+ half 
+Julios,
+ and 
+Quarto Julio
+ pieces, the
+
+Grats
+ equal to five 
+Quatrins.
+
+
+In Brass the 
+Quatrin
+ equall to the third part of a 
+Soldo.
+
+
+In the Popes Territories, in silver a 
+Scudo
+ equal to ten 
+Julios,
+ a 
+Teston, Julio,
+ half a 
+Julio
+ and a quarter of a 
+Julio,
+
+
+At 
+Banonia Bajocks,
+
+
+ and two 
+Ba∣jocks
+ pieces of a mixt metal.
+
+
+Naples,
+ in silver, 
+Carolines
+ equal to 
+ulios,
+ but not altogether so good, two 
+Caroline
+ pieces.
+
+
+In Brass 
+Granos, Publicas
+ equal to one and a half of a 
+Grano.
+
+
+There are pieces of Gold called 
+Flo∣rentini,
+ or 
+Floreni Florens,
+ because first coyned in the City of 
+Florence,
+ and ha∣ving the shape of the flower of the 
+Lilly
+ in one side, and of 
+John Baptist
+ in the o∣ther, it is called in 
+Italian, Florino. Vossius de Vitiis Sermonis, l
+ 3. 
+c.
+ 12. saith, that the 
+French
+ had also in times past its 
+Florene,
+ thence called 
+Franc
+ saith he, A 
+Franc
+ is
+
+one shilling six pence in 
+England,
+ so is a 
+Livre
+ saith he, and the 
+English
+ also of the best Gold, thence called
+
+ 
+Noble.
+
+
+There were also the 
+Rhenish Florens
+ first coyned by the four 
+Electors
+ at 
+Rhene,
+ that of 
+Mentz, Trevers, Colen,
+ and the 
+Palatine,
+ after used by others, somthing inferiour to those first.
+
+
+The pieces of Gold called 
+Ducats
+ were first coyned by the 
+Venetians
+ and those of 
+Genoa.
+
+
+There are (saith 
+Georgius Agricola
+) the 
+Hungarian, Venetian,
+
+ Spanish
+ and 
+Turkish Ducats.
+
+
+Artiabalipa
+ King of 
+Peru
+ payed for his ransom ten millions three hundred twen∣ty six thousand 
+Ducats
+ in Gold. 
+Du mi∣roir des Francois Liure premier.
+
+
+The 
+Turkish Sultanie
+ is of the same Standard, firmness, and value, with the 
+Hungarian Duckat.
+
+
+
+
+The 
+Venetian Chequeen,
+ in 
+England
+ 9 
+s.
+ 6 
+d.
+ the 
+Barbary Duckat,
+ the 
+Egyp∣tian
+ and 
+Turkish Erif,
+ are almost all of the same pureness in respect of the Gold,
+
+ and not differing above a grain in the weight.
+
+
+The old 
+Denarius,
+
+ Drachma Dutch
+ shilling, 
+Spanish Reall Roman Julios
+ or 
+Paulos,
+ are neer of an equal value; The 
+French Escu
+ or silver 
+Crown,
+ the 
+Spanish Piice
+ of 
+eight,
+ the 
+German Dollar,
+ the 
+Low-Dutch Patacon
+ are of an equal va∣lue.
+
+
+Mr. 
+Broughton
+ saith, he asked a sim∣ple Mariner which had been in the 
+West-Indies,
+ what they called Gold there, he said 
+Cethem,
+ just the Scripture term.
+
+
+Broughtons Epistle
+ to the 
+Require
+ or 
+Consent
+ to the grounds of 
+Divinity studies.
+
+
+Their currant money in the 
+West-In∣dies
+ is of the fruites of certain trees like our 
+Almonds,
+ which they call 
+Cachoas. Pet. Mart.
+ first 
+Decade,
+ ch. 4.
+
+
+The Coyns of the 
+West-Indies
+ are 
+Wampon Peague,
+ (the sixth part of a penny with us) which goes by number, and 
+Ronokco
+ which goes by weight.
+
+
+In the 
+East-Indies
+ the 
+Rupihes
+ of 
+Ro∣pees
+ of divers values and 
+Mah Mudies.
+
+
+
+
+They have in the 
+West-Indies
+ also a Golden Coyn which they call a 
+Castellan,
+ it exceedeth the 
+Ducaet,
+ it is commonly a third part called 
+Pesus
+
+
+The Coyn or 
+Bullion
+ brought to the 
+East-Indies
+ from any place, is presently melted and refined, and the 
+Moguls
+ stamp (which is his Name and Titles in 
+Persian
+ Characters) put upon it. The Coyn there is more pure than in any o∣ther part of the world, being made of pure silver, without any Allay.
+
+
+Sir 
+Thomas Roes
+ Voyage into the 
+East-Indies.
+
+
+Madines
+ are the small silver Money currant in 
+Egypt.
+
+
+
+
+Mr. 
+Greaves
+ in his 
+Denarius,
+ saith at his being in 
+Egypt,
+ five 
+Madines
+ passed for a 
+Dollar: Sands
+ in his Travels saith forty.
+
+
+Most Countries (saith Mr. 
+Greaves
+) use the same weights for 
+Silks, Gold
+ and 
+Silver.
+
+
+
+
+The 
+Persians
+ loved shooting so well,
+
+ that they set an 
+Archer
+ on the reverse of their Coyn of Gold, which was of great value. The King of 
+Persia
+ being offend∣ed at 
+Agesilaus,
+ gave the 
+Athenians
+ ten thousand pieces of this great Coyn of Gold of theirs, and so corrupted them; which thing when 
+Agesilaus
+ understood, he said merrily, but yet truly, 
+That he was driven away with ten thousand Bow∣men,
+ (meaning the
+r Coyn of Gold with an 
+Archer
+ on it) 
+and how should he a poor man be able to withstand so many Archers.
+ See 
+Plutarch
+ in 
+Agesilaus.
+
+
+The 
+Muscovites
+ have but one kind of money which they call 
+Copeca,
+ fifty of which make a 
+Crown,
+ 'tis of 
+Silver
+ of an Oval figure, and so small, that the va∣lue of two 
+Crowns
+ will searce bear the bulk of four pence in French 
+Deniers;
+ that which they call 
+Muscofske
+ is the fourth part of a 
+Copeca, Poluske
+ is the half, an 
+Alim
+ is three pence, a 
+Grifna
+ is ten, a 
+Rouble
+ a hundred, but these are not to be had of one piece.
+
+
+
+
+Relation of three Embassies by the Earl of 
+Carlisle, p.
+ 68.
+
+
+Many Coyns resemble the 
+Dragon
+ with the title of 
+Health.
+ This most vigi∣lant Creature is a Type of 
+Aesculapius.
+ Vigilance is necessary for a Physitian.
+
+
+It were worthy the inquiry of some studious persons, how the custome came up of dividing money into pounds, shil∣lings and pence, which is used in most places of 
+Europe.
+ A 
+Liver
+ or pound, say some, is every where equal to twenty 
+so∣lidi, soldi sous
+ or shillings, a shilling is e∣qual to twelve of the modern 
+Denarii
+ or pence, but the value of the Livers is ve∣ry different in 
+France.
+ a Liver is about 1 
+s.
+ 6 
+d. English,
+ in 
+Flanders
+ a Liver is e∣qual to 11 
+s.
+ 3 
+d. English;
+ in 
+Venice
+ a Liver is about seven pence half peny, at 
+Genoa
+ a Liver is about one shilling 
+English,
+ at 
+Turin
+ a Liver is about one shilling three pence, at 
+Ligorn
+ a Liver is 9 
+d.
+ at 
+Millain
+ a Liver is 10 
+d.
+ in the Popes Country a Liver is 13 
+d.
+ at 
+Naples
+ 12 
+d.
+ in the Popes Territories in 
+Catalonia
+ a Liver is about 3 
+s.
+ 6 
+d.
+ in 
+Valentia
+ a Liver is about 5 
+s.
+ in 
+Castile
+ and 
+Granada
+ not long since, a Liver was 2 
+s.
+ 6 
+d.
+ in 
+Scot∣land
+ a pound is equal to 1 
+s.
+ 8 
+d.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Diatribe OF MEASURING OF THE DISTANCE Betwixt PLACE and PLACE.
+
+
+Printed in the Year, MDCLXXI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A DIATRIBE OF MEASURING, &c.
+
+
+G
+Eometry is an Art of Measuring well.
+
+
+The several
+
+ Nations of the World do not more differ in their Languages, then in the various kinds and proportions of their Measures.
+
+
+
+
+That the Foot was the most received and usual measure amongst rhe 
+Romans,
+
+
+ as the 
+Cubit
+ amongst the 
+Jews,
+ is a thing not controverted by any. Mr. 
+Greaves
+ of the 
+Roman Foot.
+ As the 
+Denarius
+ con∣tained sixteen 
+Asses,
+ so the 
+Foot
+ contain∣ed sixteen 
+Digitos.
+
+
+The 
+Roman Milliare
+ contains 
+Mille p
+ssus
+ as the very name imports,
+
+ and eve∣ry 
+p
+ssus
+ consists also of five 
+Feet,
+ as 
+Co∣lumelia
+ and 
+Isidorus
+ expressly tell us. Mr. 
+Greaves
+ of the 
+Roman Foot.
+
+
+The Sun according to the Mathemati∣cal Computation, every hour, and that in respect of the Earth onely, by this course absolves two hundred twenty and five miles, in the day and night, and in respect of the earth, it runs over five thousand four hundred miles. How great then will its course be in respect of its Orbe.
+
+
+
+
+The Phylosophers are of opinion that the Earth, together with the Sea,
+
+ do contain in compass or circuit six thousand three hundred Dutch miles.
+
+
+The 
+Romans
+ used to Measure out the distance betwixt one place and another,
+
+ by thousands of Paces, which they call 
+Milliaria,
+ Miles; and whereas there was placed at each Miles end, a stone, or pillar, the word 
+Lapis
+ came to be used to signifie a Mile, as 
+ad Decimum lapidem positaurbs,
+ a City ten Miles off.
+
+
+Ad Lapidem Torquatus habet praetoria quartum, Mart. Epig. l.
+ 10. 
+Epig.
+ 79.
+
+
+Whence grew also the usual Phrase, 
+Ad tertium quartum quintum ab urbe la∣pidem,
+ for three, four or five miles from the City.
+
+
+Sir 
+Henry Savill
+ in his notes on the first Book of 
+Tacitus
+ his 
+History,
+ where he also observes; that as there were 
+mil∣liaria
+
+laepidea,
+ Little pillars of stone e∣rected by order from 
+C. Gracchus
+ at the end of every mile; so there was 
+Millia∣rium aureum,
+ a Golden pillar set up by 
+Augustus;
+ so called because from thence began the account of Miles.
+
+
+There are still in the 
+Appian
+ way se∣veral 
+Columnae
+ or 
+Lapides Milliarii,
+ standing,
+
+ whereby the 
+Romans
+ divided and distinguished their Miles, which occa∣sioned those phrases, 
+ad primum, ad quartum, ad centesimum lapidem.
+
+
+Mr. 
+Greaves,
+ Among the divers Mea∣sures which Geographers use to shew the dimension of the Earth,
+
+ the most usual are these.
+
+
+
+
+First, A Geometrical 
+pace
+ which is five 
+feet.
+
+
+Secondly, A 
+Furlong
+ which is 125 
+paces,
+ or 625 
+feet.
+
+
+Thirdly, A 
+Mile
+ which is eight 
+furlongs,
+ or a thousand 
+paces.
+
+
+Fourthly, A 
+League
+ which is 2 
+Miles
+ in the quantity of 
+Measures,
+ we go from a Barley Corn to a Finger breadth, from a Finger breadth to an inch; from an inch to a hand breadth; from an hand breadth to a span; from a span to a foot; from a foot to a pace, and so forth to a pearch, a furlong, a leque, a mile.
+
+
+Keckerman
+ in his 
+Systeme
+ of 
+Geogra∣phy. l.
+ 1. 
+c.
+ 4. saith, the general instru∣ments of measure are either lesser, a Bar∣ly Corn, a Finger, a Palm, a Foot; or greater, a Pace, a Furlong, a Mile. He saith, the Pace is either simple two Feet and a half, or Geometricall, five Feet.
+
+
+The Sabbath-days journey, 
+Acts
+ 1.12. was the space of two thousand paces, that is, half a 
+German
+ mile. 
+Victorinus Strigelius in loc.
+
+
+There are 
+Mensurae applicationis,
+ as a span, a cubit, a yard.
+
+
+Et mensurae Capacitatis,
+ either of things liquide, a Pint, Quart, Pottle,
+
+Gallon, Firkin, Barrel, Hogshead, Pipe, Tunne, or things dry; a Peck, Bushel, Quarters.
+
+
+The 
+Greeks
+ did mete out the distances of places by 
+Stadia
+
+
+ or 
+Furlongs;
+ one 
+Stadium
+ doth contain 125 
+paces;
+ hence eight 
+Stadia
+ make one 
+Roman
+ mile, that is, one thousand 
+paces.
+ Mr. 
+Greaves
+ saith seven 
+Greek Stadia
+ and a half, make a 
+Roman
+ mile.
+
+
+Furlong
+
+ quasi
+ a Furrow long, a Fur∣row, 
+hoc est quod longitudinem sulci deter∣minatur,
+ a 125 paces.
+
+
+An Acre mentioned, 1 
+Sam.
+ 14.14. and 
+Esa.
+ 1.10. 
+Jugerum est quantum ju∣gum bonum uno die potest ex arare. Peter Martyr
+ in 1 
+Sam.
+ 14. An Acre is so much land, as a couple of Oxen are able to Plow in one day. Among the 
+Ro∣mans,
+
+
+it was esteemed to be 240 Foot in length, and a 120 in breadth. See 
+Plin. Nat. Hist.
+ l. 18. c. 3.
+
+
+The 
+Persians
+ made use of their kind of measure called 
+Parasanga,
+
+
+ and by them at this day 
+Farsach,
+ whereof each did contain 30 
+Stadia,
+ 4 miles, saith 
+L'Em∣pereur
+ in his Notes on 
+Benjamins Itine∣rary.
+
+
+See of it in Mr. 
+Greaves
+ his Epistle to Mr. 
+Selden
+ before his Discourse of the 
+Roman Foot
+ and 
+Denarius. Musladinus Sadus
+ calls them 
+Farseng,
+ the 
+Arabians Fersach,
+ and the 
+Latines Parasanga. Gen∣tius;
+ Whence the 
+Latines
+ use that Phrase, 
+Multis parasangis superare.
+
+
+Among the 
+Greeks
+ and 
+Romans
+ for measuring, the 
+Perch
+ was in use, as in these times in 
+Europe,
+ among the 
+Egyp∣tians, Arabians
+ and 
+Persians,
+ the 
+Para∣sanga
+ and 
+Schoenus,
+ Among the 
+He∣brews
+ the 
+Kane
+ or 
+Reed, Angelo Crator.
+
+
+
+
+Now a days the name of Mile is most used by the 
+Italians, Germans, Danes, Norweigians, Sweeds, English, Scots.
+
+
+Keckerman
+ in the book and chapter before quoted, saith, a mile is either proper, containing a 1000 paces, which being alwaies used in 
+Italy,
+ is called 
+Ita∣lian,
+ or improper, either a league or a 
+German
+ mile: A league (saith he) is either old, that is, a proper mile and a half, or new, (which they call a 
+French
+ mile) two proper miles. Four 
+German
+ mile is either common 4000 paces, or great, 5 thousand paces.
+
+
+The 
+Spaniards
+ and 
+French
+ met out their distance of places by 
+Leagues,
+
+ Leu∣cae
+ or 
+Leugae,
+ which are of a different length, as the miles in other Nations, 
+Peter Martyr
+ in his 
+Decades
+ saith, a league contains four miles by Sea, and but three by Land. From 
+Spain
+ to 
+Hi∣spaniola
+ is a 1200 leagues.
+
+
+The 
+Russians
+ or 
+Muscovites
+ reckon their distances of places by a certain
+
+space which they in their native tongue call 
+Vorest.
+
+
+Purchas
+ in his 
+Pilgrims
+ speaks of the 
+Cose
+ among the 
+Chinois
+ and 
+East-Indians.
+ The 
+Course
+ or 
+Cose,
+ saith he, is a mile and a half, somtimes two miles; most 
+English
+ Mathematicians accord with the 
+Italians,
+ and reckon 60 miles to a degree. The 
+Gothick
+ and 
+Sweedish
+ mile is 5 or 6 
+Italian
+ miles, somtimes 8. The Common 
+English
+
+
+ mile makes one and a half 
+Ita∣lian; Villamont
+ saith, that a 
+French
+ league contains two 
+Italian
+ miles.
+
+
+The common 
+German
+ mile being for the most part in plain makes more then 3 
+English
+ or 5 
+Italian
+ miles; but in some places the solitude and the ascent of mountains make the miles of 
+Germany
+ seem much longer; one Dutch mile and a half makes a mile of 
+Switzerland.
+ The miles of 
+Switzerland
+ being over conti∣nual mountains are so long, as the pas∣sengers distinguish their Journy more by the spaces of hours, then by the distances or numbers of miles. The miles of 
+Bohe∣mia
+ and 
+Moravia
+ are no less tedious, and though the length of the 
+Switzers
+ and 
+Bohemian
+ miles may in part be attribu∣ted to the climbing of the mountains and
+
+bad way, yet no such reason can be gi∣ven for the miles of 
+Moravia,
+ which countrey is either a plane, or full of little pleasant Hills, and the ways fair, and the Country well inhabited.
+
+
+The 
+Low-Country
+ miles are of a mid∣dle length between the 
+German
+ and 
+French
+ miles, among which the miles of 
+Holland
+ and 
+Freezeland
+ are longer than the rest.
+
+
+The mile of 
+Denmark
+ is somewhat longer then 3 
+English
+ miles, and answer∣eth to the common 
+German
+ mile.
+
+
+The miles of 
+Poland
+ generally are like the miles of 
+Denmark.
+
+
+The 
+Turks
+ at this day have no distin∣ction of their ways by miles, nor days by hours.
+
+
+
+Ychan
+ is a kind of measure among those of 
+China,
+ the journy of one day.
+
+
+A 
+Cubit
+ is the length of a mans arme from his Elbow to the top of his middle finger, it contains 
+six hand breadths,
+ or a 
+foot and an half.
+
+
+It was the most common measure in dimensions of length, breadth, height and depth among the 
+Jews, Gen.
+ 6.15. 
+Exod.
+ 25.10.
+
+
+
+
+Some say the Cubits were of 2 sorts,
+
+ the Civil or common Cubit, consisting of one foot and an half six hand breadths, 24 finger breadths, and eighteen thumb breadths; and the sacred or holy Cubit, that consisted of an hand breadth, or 4 fingers more then that other, 
+Ezek.
+ 40.5. and 43.13, 
+Vide L'Empereur praefat. ad Cod. Middoth.
+
+
+Mr. 
+Ley
+ on 
+Gen.
+ 5.15. mentions 3 sorts of Cubits.
+
+
+1. The Common Cubit containing 5 palms of 4 fingers breadth.
+
+
+2. The Cubit of the Sanctuary one palm more, 
+Ezek.
+ 40.5.
+
+
+3. The Geometrical Cubit, 6 times as great as the common Cubit. See him on 
+Gen,
+ 20.16. and on 
+Deut.
+ 3.11. and 
+Dutch Annotat.
+ on 
+Gen.
+ 6.15.
+
+
+Epephanus
+ hath written 
+De Mensuris.
+ And 
+Casper Wolphius
+ hath put out an Al∣phabetital Enumeration of the famous men, who have written of the doctrine of weights and measures.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1414 @@
+Information and direction to such persons as are inclined to America, more especially those related to the province of Pensilvania
+Penn, William, 1644-1718.
+Approx. 31 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2007-01 (EEBO-TCP Phase 1).
+A54152
+
+
+
+
+Wing P1303
+
+
+
+ESTC R18824
+
+
+
+
+
+ocm 13048345
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Information and direction to such persons as are inclined to America, more especially those related to the province of Pensilvania
+Penn, William, 1644-1718.
+8 p.   
+
+
+[London? :
+
+
+s.n.],
+
+
+Reprinted in the year, 1686.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Pennsylvania --  Description and travel.
+Pennsylvania --  Emigration and immigration.
+2005-07
+TCP
+Assigned for keying and markup
+2006-01
+SPi Global
+Keyed and coded from ProQuest page images
+2006-05
+Judith Siefring
+Sampled and proofread
+2006-05
+Judith Siefring
+Text and markup reviewed and edited
+2006-09
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+P1303
+
+
+13048345
+
+
+96944
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFORMATION AND DIRECTION TO Such Persons as are Inclined TO AMERICA, More Especially Those Related to the Province OF PENSILVANIA.
+
+
+Re-printed in the Year, 1686
+
+
+
+
+
+
+
+
+
+
+
+
+Information and Direction to such Persons as are inclined to 
+America,
+ &c:
+
+
+THat the value and improvement of 
+Estates
+ in our Parts of 
+America,
+ may yet appear with further cleaness Assurance of Enquirers, I propose to speak my own Knowledg, and the observation of others, as particularly as I can; which I shall comprise under these Heads.
+
+
+I. 
+The advance that is upon Money and Goods.
+
+
+II. 
+The Advance that is upon Labour, be it of Handicrafts or others.
+
+
+III. 
+The Advance that is upon Land.
+
+
+IV. 
+The Charge of Transporting a Family, and fitting a Plantation.
+
+
+V. 
+The Way the Poorer sort may be Transported, and Seated, with Advantage to the Rich that help them.
+
+
+VI. 
+The easier and better provision that is to be made there for posterity, especially by those that are not of great Substance.
+
+
+VII. 
+What Ʋtensels and Goods are fitting to carry for Ʋse or Profit.
+
+
+For the first, Such 
+Money
+ as may be carried, as pieces of eight, advances 
+Thirty,
+ and 
+Goods
+ at least 
+Fifty per cent.
+ Say I have 100 
+l. sterl.
+ If I am but six in Family, I will pay my Passage with the advance upon my money, and find my hundred pounds good in the Country at last. Upon 
+Goods,
+ well bought and sorted, there is more pro∣fit: but some money is very requisit for Trade sake; for we find it gives Goods a better Market; so that considering the great quantity of Goods already carried, it were not amiss at present, if one half were in 
+Money,
+ and the other in 
+Goods.
+
+
+Thus in General. But it particularly encourages Merchants, because the profit by 
+advance,
+ is seldom less then 50 
+l. sterl. per cent,
+ which is very considerable; and we have already got some things for returns, as 
+Skins, Furs, Whale-Oyle, Tobacco,
+ &c.
+
+
+II. For 
+Labour,
+ be it of 
+Handicrafts,
+ or 
+Others,
+ there is a considerable Encourage∣ment by advance of price, to what is here, because the Goods manufactured there ad∣vance equal to those the Merchant sells, and where Provision is at least as cheap, and there is such additional gain, to the first gain of Handicrafts here (of whom the Mer∣chant buys) the 
+American Handicraft must have an extraordinary time of it.
+ The like may be said of 
+Ʋnder Labourers
+ for some time, untill the Country be better repleni∣shed with people.
+
+
+III. The 
+Advance
+ upon 
+Land
+ is Encouraging, which will be best apprehended by an English understanding, in a comparison with the Lands of 
+England,
+ that he is fa∣miliarly acquainted with.
+
+
+If 500 Acres of 
+unclear'd
+ Land there, indifferently chosen, will keep as many 
+Milch Cowes,
+ or 
+fat as many Bullocks
+ for the Market in Summer, as 50 Acres of impro∣ved Land in 
+England,
+ as chosen aforesaid, can do; then by computing the value of the Summers Grass of such fifty Acres of Land here, we shall the better find the va∣lue of 500 Acres of Land in 
+America
+; for within that compass, the same quantity of Cattle may be well kept. Admit this then, that the Summers Grass of 50 Acres of middling Land in 
+England,
+ is worth 15 
+l.,
+ I conceive that makes 20 
+l.,
+ which is the price of the Inheritance of the 500 Acres, no dear Purchass. The cost to go thither
+
+
+is no Objection, because it is paid by the 
+Advance
+ that is upon the Money and Goods at the rate aforesaid. If the hazard of the Seas be objected, we see that the 
+five hun∣dreth
+ Ship using those parts, does not miscarry, and the Risk is run for themselves on∣ly. However, except in Winter, passages are pleasant, as well as safe.
+
+
+But this Comparison draws an Objection upon us that must be obviated. 
+What be∣comes of your stock in the Winter
+? I say our 
+Woods
+ usually keep them for the Market till 
+December,
+ and unless it be a more then ordinary Winter (which is observed to hap∣pen but once in four or five Years) or that they are young Stock, or Cattel big with Young, they mostly shift for themselves. But if Fodder be wanted, we have a supply by 
+Hay,
+ we mow in the 
+Marshes
+ and 
+Woods,
+ or the 
+Straw
+ of the English Grain we use, or the 
+Tops
+ and 
+Stalks
+ of Indian Corn, and sometimes that it self; a Thing 
+hearty, and easily ras'd,
+ and is good to fat as well as keep, and answers to 
+Oats, Pease, Beanes
+ and and 
+Fetches
+ here, tho we have of them also.
+
+
+This Scheam of 
+Grazing
+ and keeping of Stock, may inform Inquirers what the Woods and unbroken Lands of those Countrys in some sort will do, in proportion to Lands here, allowing equally for Care and Fodder on both sides.
+
+
+To be short, the produce of Wild Land there in this respect, is within less than ten to one, of what our cleared Land is here, and the purchase here, is an hundred to one Dearer, which must needs make 
+American Lands
+ no hard 
+Bargain
+ to the Purchasers.
+
+
+Now for clearing our 
+Wood-lands
+ in order to corn; the difficulty is not so great as is imagined; our 
+Trees,
+ being not so thick, or not so burdensome, but that four hands, in four months time, may easily clear five and twenty Acres for the Plow; which, at 15 d. English 
+per
+ Day, for each hand comes to 
+twenty five shillings per Acre.
+ The encrease of which, is with less then half the seed, at least equal to the improv'd Land of 
+England.
+ Add to this, the 
+ten pence
+ which buys the fee of an Acre unclear'd and an Acre of Land, producing the like quantity with English Ground, shall cost 1 l. 5 s. 10 d. which at eight years purchase, ought to yield three shillings two pence three farthings 
+per Annum.
+ Now, where it brings an increase equal to Land of ten shillings 
+per Annum
+ in 
+England,
+ and what it produces, yields not, at present, a less value, the advantage is almost four to one, which I conceive is no inconsiderable ad∣vance.
+
+
+Having given this general 
+account
+ of Lands in those parts of 
+America,
+ which for 
+Variety
+ of 
+Earth,
+ and 
+Number
+ of 
+Fountains,
+ falls not short, in my Opinion, of any Country I have seen in 
+Europe
+; I shall in the next place, for their help and Direction that intend thither.
+
+
+IV. First, 
+Set down the Charge of Transporting an ordinary Family.
+
+
+Secondly, 
+The Method and Charge of their setling a Plantation when there,
+ vvhich vvill serve for all Ranks, proportion still considered. I vvill suppose my self vvorth but one hundred Pounds.
+
+
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+For my Self, Wife, and tvvo Men Servants at 5 pound per head, and one Child of ten years old, 50 s. (for to that age Children pay no more)
+
+
+22
+
+
+10
+
+
+00
+
+
+
+
+
+
+For a Tunn of Goods, each a Chest gratis,
+
+
+02
+
+
+00
+
+
+00
+
+
+
+
+
+
+For the Ship Doctor, per head 2 
+s
+ 6 
+d.
+
+
+00
+
+
+12
+
+
+06
+
+
+
+
+
+
+For 4 Gallons of Brandy and 24 pounds of Suger for the Voyage.
+
+
+01
+
+
+00
+
+
+00
+
+
+
+
+
+
+For Cloaths for my Servants, each 6 Shirts, 2 Wastcoats a Summer and a Winter Suite, one Hat, 2 pair of Shooes, Stokins and Drawers.
+
+
+12
+
+
+00
+
+
+00
+
+
+
+
+
+
+ 
+
+
+38
+
+
+02
+
+
+06
+
+
+
+
+
+
+When it pleases God vve are vvel arrived vvhich I suppose to be about the first of 
+October,
+ the first thing is to get a 
+Lodging
+ in some Tovvn or Village at hand, for my Family and there stay one Week, and take something for our health, refresh our selves and advise vvhere to settle, if my Land be not already fixt: This done, I take my tvvo men and go to my Lot, vvhich is, say 
+five hundred Acres.
+ I lodg them at the next Village, or House to the place, and then go to felling of Trees, proper for a first House, vvhich vvill very vvel serve for the presented occasion, and aftervvards be a good out House, till plenty vvill allovv me to build a Better.
+
+
+To build then an house of thirty foot long and eighteen foot broad, vvith a Par∣tition neer the middle, and an other to divide one end of the House into tvvo small Rooms, there must be eight Trees of about sixteen Inches square, and cut off, to 
+Posts
+ of about fifteen foot long, vvhich the house must stand upon, and four pieces, tvvo of thirty foot long, and two of eighteen foot long for 
+Plates,
+ vvhich must lie upon the top of those Posts, the vvhole length and bredth of the House, for the 
+Gists
+ to rest upon. There must be ten 
+Gists
+ of tvventy foot long, to bear the Loft, and tvvo false 
+Places
+ of thirty foot long to lie upon the end of the 
+Gists
+ for the 
+Rafters
+ to be fixed upon twelve pair of 
+ of about tvventy foot, to bear the Roof of the House, vvith several other smal pieces; as 
+Wind-beams, Braces, Studs,
+ &c, vvhich are made out of the Waste Timber. For covering the House, Ends▪ and sides, and for the loft, vve use 
+Clabboard,
+ vvhich is 
+Rived Feather-edg
+,
+ of five foot and a half long, t
+at vvell dravvn, lyes close and smooth: The lodging Room may be lined vvith the same, and fil
+'d up betvveen, vvhich is very Warm, These houses usually endure ten years vvithout Re∣pair.
+
+
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+For the Carpenters vvork for such an House, I and my Servants assisting him, together vvith his Diet.
+
+
+07
+
+
+00
+
+
+00
+
+
+
+
+
+
+For a Barn of the same Building and Dimentions.
+
+
+05
+
+
+00
+
+
+00
+
+
+
+
+
+
+For Nailes, and other things to finish both
+
+
+03
+
+
+10
+
+
+00
+
+
+
+
+
+
+The lovver flour is the 
+Ground,
+ the upper 
+Clabbord
+: This may seem a mean vvay of Building, but 'tis sufficient and safest for ordinary beginners. 'Tis true, some of our folks have exceeded much even in Villages; but hovv vvise they vvere in it, is the Question: An ordinary House, and a good Stock, is the Planters Wisdom; Else, some of our Neighbouring Provinces, improv'd by persons, vvhom necessity had made ingenious and provident, had not succeeded so vvell as they have done. Hovvbeit, if better are desired, people may have them sutable to their abilities.
+
+
+This House may be finished by the middle of 
+November,
+ the Barn by the 
+Spring,
+ but there being little use for it, till the next fall, it may be built at leasure, and the Winter imploy'd to clear Land; or the Spring, by vvhich time, they may easily have clear'd fifteen Acres.
+
+
+The Spring come a stock must be bought.
+
+
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+For three Milch Covvs and Calves by their sides.
+
+
+10
+
+
+00
+
+
+00
+
+
+
+
+
+
+For a Yoke of Oxen,
+
+
+08
+
+
+00
+
+
+00
+
+
+
+
+
+
+For a Breeding Mare,
+
+
+05
+
+
+00
+
+
+00
+
+
+
+
+
+
+For tvvo Young Sovvs and a Boar,
+
+
+01
+
+
+10
+
+
+00
+
+
+
+
+
+
+ 
+
+
+24
+
+
+10
+
+
+00
+
+
+
+
+
+
+H
+re vv
+ll fitly 
+me in our Years Provision.
+
+
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+To each person of the 
+ 
+ Bushels of Indian Corn at 2 s. per Bushel, and 5 Bushels of English Wheat at 3 s. 6 d. per Bushel, vvhich comes for five persons to.
+
+
+08
+
+
+07
+
+
+06
+
+
+
+
+
+
+For tvvo Barrels of Molasses, for Beer.
+
+
+03
+
+
+00
+
+
+00
+
+
+
+
+
+
+For Beef and Pork, at a 120 pounds per head, and 2 d. per pound
+
+
+05
+
+
+00
+
+
+00
+
+
+
+
+
+
+For 5 Gall. of Spirits, at 2 s. per Gall.
+
+
+00
+
+
+10
+
+
+00
+
+
+
+
+
+
+ 
+
+
+16
+
+
+07
+
+
+06
+
+
+
+
+
+
+I fall novv to the Land I have clear'd to Plant, upon vvhich, vvith Gods ordinary Providence, a Crop may be thus made of divers Grain, 
+viz.
+
+
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+The three Working hands may Plant and tend, especially vvith a little help of the Woman and Boy 20000 Indian Corn Hills▪ vvhich gene∣rally make about 400 Bushels, vvhich at 2 
+s. per
+ Bushel coms to
+
+
+40
+
+
+00
+
+
+00
+
+
+
+
+
+
+They may sovv eight Acres; half vvith Summer Wheat, and half vvith Oats, vvhich computing at 15 Bushels per Acre, there vvill be 120 Bushels of both, and Oats at 2 
+s.
+ per Bushel, and Wheat at 3 
+s.
+ 6 
+d.
+ per Bushel, come to.
+
+
+16
+
+
+10
+
+
+00
+
+
+
+
+
+
+To Indian Pease
+
+
+01
+
+
+10
+
+
+00
+
+
+
+
+
+
+To Gallavances and Patatoes (a tollerable encrease)
+
+
+01
+
+
+10
+
+
+00
+
+
+
+
+
+
+ 
+
+
+59
+
+
+10
+
+
+00
+
+
+
+
+
+
+By this time the Year is brought about, and 
+October
+ is come again. Let us see novv vvhat vve are Worth.
+
+
+
+
+Planter Debitor.
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+TO Passage and Cloaths for my Servants, being part of my first Principle.
+
+
+38
+
+
+02
+
+
+06
+
+
+
+
+
+
+To tvvo months Lodging till an house be built
+
+
+01
+
+
+00
+
+
+00
+
+
+
+
+
+
+To an House and Barn
+
+
+15
+
+
+10
+
+
+00
+
+
+
+
+
+
+To Provisions for one Year for the Family
+
+
+16
+
+
+17
+
+
+06
+
+
+
+
+
+
+To a Stock in Covvs, Oxen, Svvine and a Mare.
+
+
+24
+
+
+10
+
+
+00
+
+
+
+
+
+
+ 
+
+
+96
+
+
+00
+
+
+00
+
+
+
+
+
+
+Rest Due
+
+
+04
+
+
+00
+
+
+00
+
+
+
+
+
+
+ 
+
+
+100
+
+
+00
+
+
+00
+
+
+
+
+
+
+
+
+Per Contr. 
+Creditor
+
+
+
+
+ 
+
+
+l.
+
+
+s.
+
+
+d.
+
+
+
+
+
+
+By the remaining part of my 100 pounds
+
+
+04
+
+
+00
+
+
+00
+
+
+
+
+
+
+To the advance of five and twenty per Cent. upon thirty pounds worth of goods to bring them to the 
+sterling
+ value of money
+
+
+07
+
+
+10
+
+
+00
+
+
+
+
+
+
+By an House and Barn worth together with the assistance the Carpen∣ter had
+
+
+30
+
+
+00
+
+
+00
+
+
+
+
+
+
+By 15 Acres of Land Clear'd
+
+
+18
+
+
+15
+
+
+00
+
+
+
+
+
+
+By Corn and Grain, being the produce of this years Crop
+
+
+59
+
+
+10
+
+
+00
+
+
+
+
+
+
+By the stock, as good as when Bought,
+
+
+24
+
+
+10
+
+
+00
+
+
+
+
+
+
+144
+
+
+05
+
+
+00
+
+
+
+
+
+
+With the overplus of the Grain I have, to what I want, I furnish my self the en∣suing Year with two Barrels of Molosses, two of meat, and two of Fish, to save my young stock; and proceed to clear more Land for 
+Indian Corn
+ and 
+Oates,
+ and Imploy the other Land to 
+English Wheat
+ and 
+Barley
+: A 
+Garden Plat,
+ next the House, and an Acre in an 
+Orchard,
+ follow of course. And thus I end with my settlement of a Plan∣tation, leaving the 
+Planter
+ to live by his industry and encrease, and make what he can of the rest of his five hundred Acres, and that for the sake of this very settlement, is in reputation worth, 
+three times more then it was.
+
+
+For those that have greater abilities, and aim at better settlements, they have the means in their own Hands, and the People of the Country skill enough to answer their desires, be it in fine 
+Timber
+ or very good 
+Brick
+ Buildings. But for the 
+Poorer
+ sort, that either can but just transport themselves, or that are not well able of them∣selves to do that, I shall for the encouragement of such, as well as of those that shall assist them, propose my former Methods somewhat better explain'd.
+
+
+V. The way the Poorer sort may be transported, with advantage to the Rich that help them, is thus;
+
+
+In the first place, there are such as are able to transport, themselves and Families, but are unable to build or stock themselves when they are there; others that have not enough to transport themselves and Families, and such will come under a diffe∣rent Consideration.
+
+
+The first of these may be entertained in this manner, Say I have 5000 Acres I will settle 
+Ten Families
+ upon them, in way of Village, and build each an house, an out-house for Cattle, furnish every Family with stock; as four 
+Cows,
+ two 
+Sows,
+ a couple of 
+Mares,
+ and a yoke of 
+Oxen,
+ with a Town 
+Porse, Bull and Boar
+; I find them with Tools, and give each their first Ground-seed. They shall continue Seven Years, or more, as we agree at 
+half encrease,
+ being bound to leave the Houses in repair, and a 
+Garden
+ and 
+Orchard,
+ I paying for the Trees, and at least 
+twenty Acres
+ of Land within 
+Fence,
+ and 
+improved
+ to Corn and Grass: The charge will come to about 
+sixty
+ pounds English for each Family: At the seven years end, the Improvement Will be worth, as things go now, 120 
+l.
+ besides the value of the 
+encrease
+ of the Stock, which may be near as much more, allowing for casualities; especially, if the People are honest and careful, or a man be upon the spot himself, or have an Overseer sometimes to inspect them. The charge in the whole is 832 
+l.
+ And the value of stock and improvements 24
+0 
+l.
+ I think I have been modest in my computation. These 
+Farms
+ are aftewards fit for 
+Leases
+ at full Reat, or how else the Owner shall please to dispose of them. Also the People will by this time be skilled in the Country, and well provided to set∣tle themselves with stock upon their own Land, which shall be a thousand Acres their 
+Land-lord
+ will give them, which is own hundred to each Family, in some part of his five thousand Acres, they only paying for the same ten shillings yearly, which is a shilling for each Family.
+
+
+The advantage of this way; is chiefly to those that go, for as the benefit seems greater, so is the hazard, by loss or embezlement of stock, unless one were present, or a dilligent and honest Overseer there: But those that design going, and have money, and aim to live with most Ease, cannot do better; for the half encrease of the stock and labour of those Families will supply them with Provisions; so that they need not toyl, in a way, they are perhaps unacquainted with, for their accommodations of life. And if half encrease be thought a way too uncertain, it may be brought to a certain value, by paying a yearly Rent for suck stock as aforesaid.
+
+
+The other sort of 
+poor people
+ my be very beneficially transported upon these terms:
+
+
+Say I have 5000 
+Acres
+ I should settle as before, I will give to each Family 100 
+Acres,
+ which in the whole makes 1000; and to each Family 
+thirty pounds
+ English, half in hand, and half there, which in the whole comes to 300 
+l.
+ After four years are expir∣ed, in which time they may be easie, & in a good condition, they shall each of them pay five pounds, 
+and so yearly for ever, as a Fee-Farm rent
+; vvhich in the vvhole comes to 50 
+l.
+ a Year. Thus a man that, buys 5000 
+Acres
+ may secure and settle his 40000 by gift of one, and in a vvay, that hazard and interest allovved for, amounts to at least ten 
+per cent.
+ upon Land security; besistes the value it puts upon the rest of the 5000 
+Acres,
+ vvhich vvill be, for that reason, really vvorth three times as much as before. In these Families I propose that there be at least 
+two working hands
+ besides the 
+wife,
+ vvhether son or servant; and that they oblige vvhat they carry; and for further security bind themselves as servants for some time, that they vvill settle the said Land accordingly, and vvhen they are once seated, their improvements are 
+security
+ enough for the Rent.
+
+
+There is yet another expedient, & that is, give to 
+ten Families
+ 1000 
+Acres
+ for ever, at a 
+small acknowledgment,
+ and settle them in vvay of Village, as before; by their seat∣ing thus, the Land taken up is secured from others, because the 
+method
+ of the Coun∣try is ansvvered, and the value such a settlement gives to the rest reserved, is not in∣considerable; I mean, the 4000 
+Acres
+; especially that vvhich is 
+Contiguous
+: For their 
+Children
+ vvhen grovvn up, and Handicrafts vvill soon covet to fix next them, and such after settlements beginning at an 
+Improved Rent in Fee, or for long Leases, on small Acknowledgments, and good Improvements,
+ must advance the vvhole considerably. I conceive any of these methods to issue in a sufficient advantage to adventurers, and they all give good encouragement to feeble and poor Families. Novv I knovv some think this looks a little hard upon the People that are to pay the said Rent, the thing that is most contrary to my inclinations, as vvell as design in making this proposal. But I am of another mind; for in 
+Ireland,
+ money bears the Interest of 
+ten per cent
+: Thirty pounds then, will deserve three pounds a Year, three Years Interest makes 9 
+l.
+ The 100 Acres surveyed ct Patented are worth 8 
+l.
+ at least, for that is one of the lowest prises Parchasers sell again at. The Interest of this 8 
+l.
+ for three Years at 
+ten per cent,
+ is 
+Eight and forty shillings
+; there is also three shillings for three years rent. Novv put the thirty, the nine, the eight, and the tvvo pounds eight shillings, and the three shillings together, and there vvill be 
+forty nine pounds eleven shillings,
+ vvhich vvants but nine shillings of 
+fifty pounds,
+ and you advance no more then money does in 
+Ire∣land,
+ that is neerer home, and an improv'd Country▪ to vvhich add, the hazard that is Run, in this vvay, above a double Bond for the payment of the fifty pounds in 
+Ire∣land
+; for the ship perish, my money is gone, if the man or vvorking hands Dye, I have a Charge instead of a Revenue that vvill follovv me; vvhich plainly evidences that the proposition is not grievous, but reasonable and charitable too, and especially vvhen vve Consider that Sixty five Days out of the Year, at eighteen pence by Day, vvill, vvithin half a Crovvn, pay the Rent, and as he has 
+three Hundred
+ to himself. Nor is this all, he is come to a Country vvhere Lands is cheap, and does Rise, and vvhere those that have hands cannot but live, and in a vvay too, not subject to the Contingiences & decays of Trades; for as belovv the ground none can fall, so here eve∣ry one falls upon his ovvn; vvhich brings me to the Sixth Particular, about the bene∣fit these Countries bring to 
+Posterity.
+
+
+VI. 
+There is an easier and better provision to be made there for posterity, especially of such as are not of great substance.
+ I never thought, but mere Trades vvould do as vvell here as there, but vvhen People have gain'd something here by their ingenuity and Toyl say
+
+
+
+000 
+l.
+ hovv much Land vvill that buy here, and hovv much income vvill that fetch; perhaps 50 
+l. per Ann.
+ on Bond, or 40 in Land, vvhich at ten shillings by the 
+Acre,
+ comes to fourscore 
+Acres.
+ This, to bring up five Children, 
+Feed, Cloath, School,
+ and 
+Portion them,
+ vvill be very scanty; but then, vvhat vvill this do to Estate their Chil∣dren, and so forvvard.
+
+
+Novv in 
+America,
+ a thousand Pounds discreetly laid out, is an Exchequer to a fami∣ly. I vvill suppose I have one hundred Pounds in Land, vvhich contains 3000 Acres. This I stock, to half increase, for 360 
+l.
+ upon this half increase I live vvell, till my Children are of age. By this time at least, the Tennants Term is up, and I place my Children in those Tenements, vvith a proportion of stock, vvithout Portions or Rents to pay: Each has 500 Acres, besides my five hundred after my decease. If each of them have five Children, there is an hundred Acres a piece for them, besides the 500 Acres I leave them; and if any take to Trades, the rest have the more Land. By this time, an hundred Acres may be reasonably presum'd to be vvorth as much as a 1000 vvas in their Fathers time, and it must advance yet: All improv'd Countries teach us this. Novv this is a vvay of putting people into the natural Channal of life to vvit, 
+Agriculture,
+ and of Adjourning care for posterity to the Fourth Generation. Let it be remembred that there is but 360 
+l.
+ expended of the 1000 
+l.
+ so that to carry me and my Family, and settle us in some proportion to our degree, as also to Traffick and encrease portions, there rests 640 
+l.
+ Novv if a 1000 
+l.
+ in 
+Europe,
+ cannot have so natural an increase, free of those Contingences that other means of life are sub∣ject to, I conceive 
+America
+ somevvhat a better place for the good of Posterity, especi∣ally of such as are not vvealthy, or have many Children, that they vvould nor should too unequally live and be provided for.
+
+
+VII. Novv as to vvhat Utensels and Goods are fittest to carry for use and profit, I say, in general, all things relating to 
+Apparrel, Building, Houshouldstuff, Husbandry, fowling
+ and 
+Fishing:
+ but for Particulars, 
+English Woollen,
+ and 
+German Linnen,
+ as ordi∣nary 
+broad-Clothes, Kereseys, Searges, Norwich-Stuffs,
+ some 
+Duffels, Cottons
+ & 
+Stroud-waters,
+ for the Natives, and 
+White
+ and 
+Blew
+ Ozenburgs, 
+Shoes,
+ and 
+Stockins, Buttons, Silk, Threed, Iron ware,
+ especially 
+Felling Axes, Hows, Indian Hows, Saws, Frows, Drawing-Knives, Nailes,
+ but of 6. 
+d.
+ and 8. 
+d.
+ a treble quantity, because they use them for shingling, or covering of Houses. 
+Powder
+ and 
+Lead
+ are often vvanted for the 
+Woods,
+ in Winter, for Water Fovvl that are very numerous. There are lesser things that vvill be convenient to carry; but being trivial in themselves, and vvhat People 
+ hardly miss to think upon; I shall close this Information and direction vvith my usual Caution, and good Wishes. Let none be Hasty or Presumptuous. The even humble Temper vvill best endure the difference of the Change either vvay. A Wilderness must vvant some things improv'd Countries do enjoy; but Time and La∣bour vvill reprize, vvhere Industry sooner makes an Inheritance. And tho vve have not the Ornaments of Life, vve vvant not the Conveniences; and if their Cost vvere put in Ballance vvith their Benefit, the World vvould be greatly debtor on Account. If then vve have less of Art, vve have more of Nature; and the Works of God are 
+ objects for meditation and Delight; then the Inventions of men. In vain do vve admire the First and Simpler Ages of the World, and stile them Golden, vvhile vve object against 
+America's Rusticity
+ and 
+Solitude.
+
+
+I vvill say no more, but if 
+Jacob
+ dvvelt in Tents, and Herds and Flocks vvere his Re∣venue, a Life like his should be no stop vvith those that love his Plainness and Inte∣grity. I beseech God it may be so vvith them that go, and I am sure they vvill not have much Reason to repent their Change.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

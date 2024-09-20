@@ -1,0 +1,239 @@
+A Full and true account of the beseiging and taking of Carrickfergus by the Duke of Schomberg as also a relation of what has lately pass'd in the islands of Antego, Mevis, and Monteserrat, in the West-Indies, where Their Majesties have beensolemnly proclaim'd: in a letter from Chester of August the  31st.
+Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A40561
+
+
+
+
+Wing F2302A
+
+
+
+ESTC R9520
+
+
+
+
+
+ocm 13744877
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Full and true account of the beseiging and taking of Carrickfergus by the Duke of Schomberg as also a relation of what has lately pass'd in the islands of Antego, Mevis, and Monteserrat, in the West-Indies, where Their Majesties have beensolemnly proclaim'd: in a letter from Chester of August the  31st.
+1 sheet (2 p.)   
+
+
+London :
+
+
+Printed for Richard Baldwin ...,
+
+
+1689.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.
+Carrickfergus (Northern Ireland) --  History --  Siege, 1689.
+West Indies --  History --  17th century.
+Broadsides --  England --  London --  17th century
+2012-08
+TCP
+Assigned for keying and markup
+2012-08
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2012-09
+Judith Siefring
+Sampled and proofread
+2012-09
+Judith Siefring
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+F2302A
+
+
+R9520
+
+
+13744877
+
+
+101696
+
+
+
+
+
+
+
+
+
+
+
+
+A Full and True ACCOUNT Of the Besieging and Taking of CARRICK FERGUS BY THE DUKE of 
+SCHOMBERG;
+ As also a RELATION Of what has lately pass'd in the Islands of ANTEGO, MEVIS, and MONTESERRAT in the 
+West-Indies:
+ Where Their MAJESTIES have been Solemnly Proclaim'd.
+
+
+
+
+Licensed and Entered according to Order.
+
+
+
+
+
+
+In a Letter from
+ Chester 
+of
+ August 
+the
+ 31st.
+
+
+THE 
+Irish
+ finding that they had not gain'd much Reputation by their Actions in the Field, or by being valiant and successful in the taking of Towns, were resolved at last to try what they could do in keeping of Towns committed to their Care and Courage: 
+Carrick fergus
+ was the place where they thought sit, in some measure, to retrieve their Credit and Reputation: But when our Frigats at Sea, and Land Forces at Land had appeared before it, and made such Breaches in the Walls, and Destruction in the Town, by their Guns and Bombs, they judged in safest for them to Capitulate and Surrender; which they did on 
+Wednesday
+ last. The Garrison consisted of near Two thousand Men, and though at the first Summons sent them by the Duke of 
+Schom∣berg,
+ they were so stout as to refuse to hearken to any Conditions of Surren∣der, yet their Courage not continuing long, they accepted of the Terms of Marching out with Colours flying Arms, and Drums beating, 
+&c.
+ and to go to 
+Charlemont.
+ But such was the ill nature of the Rabble, that they fell upon
+
+ them in their March, and disarm'd them. The Town has been so misera∣bly defaced by the continual playing of the Bombs for Five Days together, that it looks like a dismal heap of ruine. Sir 
+Henry Ingolsby
+ is made Go∣vernour of the Town and Castle: A great deal of Arms, Ammunition, and Provisions of all sorts, was found in the Town. This has cleared the 
+North,
+ for the most part, of any considerable Party of the 
+Irish:
+ many come in dayly to the General. The Ships come last Night to 
+High-lake,
+ assure us of the Arrival of the Four Regiments of Horse into the 
+Bay
+ of 
+Carrick-fer∣gus;
+ who were turning in into the 
+Lake
+ on 
+Wednesday,
+ as the Ships that are arrived here were turning out from thence.
+
+
+Neither is it in 
+Scotland
+ and 
+Ireland
+ only, where Success does so constantly attend their Majesties Affairs, but even the 
+West-Indies
+ afford us variety of Examples of Zeal for his Majesties Service: For the Blossom of 
+London
+ coming from 
+Antego,
+ in 
+June
+ last, and arrived here two days ago, brings the News, that Sr. 
+Nathaniel Johnston
+ not finding it safe for him to continue longer upon those Islands, whereof he had the Government committed to him in the late Reign, is gone to 
+Carolina,
+ and that the Inhabitants of 
+Mevis
+ and other Islands had constituted Major General 
+Codrington
+ Governour in his room; That the 
+Irish
+ Planters and Inhabitants of 
+Montserat
+ had declared for the late King, and appeared in a Body of Seven or Eight hundred Men for that Interest, but that Colonel 
+Blakeston,
+ the Governour of the said Island had raised what 
+English
+ men he could, to the number of Two hun∣dred, with which he was resolved to attack them: But the 
+Irish
+ no sooner saw him appear with that unequal number of 
+English,
+ and to march to∣wards them, but they all offered to lay down their Arms, and upon Arti∣cles promised to disperse; at which instant of time a Reinforcement of an Hundred and fifty Men arrived from 
+Antego
+ and seized the chief of the 
+Irish,
+ brought them up Prisoners to 
+Antego,
+ and solemnly Proclaim'd King 
+William
+ and Queen 
+Mary,
+ with all possible Demonstrations of Joy and Gladness. The new Governour 
+Codrington
+ hath sent an Hundred Men from 
+Mevis
+ to St. 
+Christopher
+'s to strengthen the 
+English
+ Interest in that Island.
+
+
+Lord 
+Hewets,
+ and Colonel 
+Villers
+ Regiments of Horse are to embark with the first fair Wind for 
+Ireland
+ to joyn the Duke of 
+Schomberg.
+
+
+
+
+
+
+
+
+
+
+
+
+LONDON,
+ Printed for 
+Richard Baldwin
+ near the 
+Black-Bull
+ in the 
+Old-Baily.
+ MDCLXXXIX.
+
+
+
+
+
+
+
+
+

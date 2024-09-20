@@ -1,0 +1,3026 @@
+[A briefe cronicle and perfect rehearsall of all the memorable actions hapned not onelie in the Low Countries, but also in Germanie, Italy, Fraunce, Spaine, England, Turkie, and other countries since the yeare of our Lord 1500 to this present yeare 1598.]
+Approx. 64 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2013-12 (EEBO-TCP Phase 2).
+A08067
+
+
+
+
+STC 18433
+
+
+
+ESTC S119983
+
+
+
+
+
+99855187
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+[A briefe cronicle and perfect rehearsall of all the memorable actions hapned not onelie in the Low Countries, but also in Germanie, Italy, Fraunce, Spaine, England, Turkie, and other countries since the yeare of our Lord 1500 to this present yeare 1598.]
+[72] p.   
+
+
+[London :
+
+
+[J. Windet for] J. Wolfe,
+
+
+1598]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Europe --  History --  Early works to 1800.
+2012-06
+TCP
+Assigned for keying and markup
+2012-07
+SPi Global
+Keyed and coded from ProQuest page images
+2012-08
+Ali Jakobson
+Sampled and proofread
+2012-08
+Ali Jakobson
+Text and markup reviewed and edited
+2013-02
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18433
+
+
+s119983
+
+
+99855187
+
+
+20663
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A BRIEFE 
+CRONICLE, and perfect rehear∣sall
+ of all the me∣morable actions hap∣ned not onelie in the low-Countries, but also in 
+Ger∣manie, Ita
+y, Fraunce, Spaine, England, Turkie, and other
+ Countries since the yeare of our Lord. 1500. to this present yeare 
+
+
+AT LONDON, Printed by 
+ohn Wol
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A BRIEFE CHRONICLE AND perfect rehearsall of all the memorable actions happened not only in the Low-Countries, but also in Germanie, Italie, Fraunce, Spaine, England, Turkey, and other Countries, since the yeare of our Lord 1500. to this present yeare 1598.
+
+
+ 
+I
+N this yeare vppon the 
+25.
+ day of the moneth of Fe∣bruarie, the Emperour 
+Charles
+ the fift was borne in the towne of 
+Gaunt
+ in Flaunders, and in the same yere about the beginning of Sommer in 
+Germany,
+ and 
+Luke-land,
+ there sell Crosses of 
+i∣
+ers colours 
+u
+ of the 
+ vpō 
+ c
+the
+.
+
+
+
+
+ This yeare there was so great a death in 
+Germany,
+ that the common speech among them was, that all those on whom the bloody Crosses fell the yeare before should die, & at the same time there fell such a Haile by 
+Vitupord
+ in 
+Brabrant,
+ as the like was neuer seene, for the haile stones were as big as any Tennis ball.
+
+
+ This yeare about the last of Iu∣lie in the afternoone, all the Towne of 
+Herderwicke
+ was burnt in the space of three houres, so that there remained but three or foure houses, by the which fire there were smothe∣red aboue 
+1500
+ men, and al that was within the houses kurnt.
+
+
+The same yeare there were 
+200.
+ houses burnt in 
+Gorcum,
+ and at 
+Belle
+ in 
+Flaunders 500
+ houses.
+
+
+ This yeare died 
+Isabell
+ Queene of 
+Spaine.
+
+
+ About the beginning of Ianua∣rie
+
+preparation, was made to bring king 
+Phillip
+ and his wife into 
+Spaine.
+
+
+The same yeare when king 
+Phillip
+ was gone into 
+Spaine,
+ the Gelders began againe to war vppon 
+Holland
+ and 
+Brabrant.
+
+
+The same yeare about the 
+27.
+ of September, died 
+Phillip
+ King of 
+Spaine,
+ and 
+Granado
+ presently after his Coronation.
+
+
+ The Towne of 
+Tienen
+ was ta∣ken by those of Gelder, with the aide of certaine Frenchmen, which was done vpon Saint 
+Michaels
+ day, and 
+Turnholt
+ spoyled.
+
+
+ The 
+8.
+ of September there arri∣ued two ships at 
+Teruere
+ in 
+Zealand,
+ that came fro the 
+Canaries,
+ being the first ships that euer sailed out of 
+Zea∣land
+ into 
+Spaine,
+ or the Islands, they were laden with 
+Canarie
+ Sugars, the ships went to 
+Antwarpe,
+ & there offered the Suger to be sold for two
+
+blankes a pound, but they could not sell it for so much.
+
+
+The same yeare the Prince 
+Charles
+ with the Emperour 
+Maximilian
+ his Grandfather, made his entrye into 
+Gaunt.
+
+
+ On the xiiij. of October, there was an Earthquake in the Cittie of 
+Constantinople
+ that continued for the space of 
+18
+ dayes, so that the walles of the Citie, and all the houses vpon the Sea side fell downe, and the sea rose so high that it flowed ouer the walles of the Towne, and drowned aboue 
+14000.
+ men.
+
+
+ There happened wars betweene 
+Hans
+ King of 
+Denmarke,
+ and the Townes of 
+Holland, zealand,
+ & 
+Freze∣land,
+ against certaine Townes lying vppon the sea: as, 
+Lubecke, Rostocke,
+ and their adherents, which continu∣ed for the space of two yeares.
+
+
+ The Emperour 
+Maximilian
+ held
+
+a Parliament of the states of 
+Germa∣nie
+ at 
+Ausberg,
+ where there was 
+ mā brought before him, that was so great that he eate a whole Calfe and a Sheepe raw at one meale, and yet was not suffized.
+
+
+ There was such a Frost for the space of nine weekes, that in many places men went on foote vpon the salt water.
+
+
+ This yeare 
+Henry
+ the right King of England, landed at 
+Callis
+ with a great power of men, & from thence entered into the frontiers of 
+Flaun∣ders,
+ to make warre against the king of 
+Fraunce,
+ and at that time hee tooke 
+Turwin
+ & 
+Turney
+ and built a Castle in 
+Turney.
+
+
+ In the moneth of Ianuarie at 
+Wittenberge
+ in 
+Saxonie
+ there was three Sunnes seene in the aire, and in each Sunne a bloody sworde, the eleauenth of the same moneth, ware
+
+three Moones likewise seene.
+
+
+The 
+7.
+ of March, there were two raine bowes seene in the aire that stood backe to backe.
+
+
+The same yeare in 
+Layden
+ there was a Child borne without a heade, with eyes & mouth in the brest, the armes and handes sticking close by the sides, and beneath it was round without legges or feet.
+
+
+ The first of Ianuarie died 
+Loys
+ the eleueuth King of 
+Fraunce.
+
+
+The same yeare vppon satterday after candlemas day, Prince 
+Charles
+ entred into 
+Andwarpe,
+ and the next day after hee was inuested Duke of 
+Brabrant,
+ & receiued homage of al the 
+17
+ Prouinces.
+
+
+ The 
+20.
+ of October the order of the Golden Fleece was holden by Prince 
+Charles
+ at 
+Brussels,
+ and 
+Leenuerden
+ was besieged by the Guelders.
+
+
+
+
+ The same yeare 
+Charles
+ Duke of 
+Austria
+ went into 
+Spaine,
+ there to bee Crowned king.
+
+
+The same yeare the Frost was so great at 
+Anwarpe
+ that they went on foote ouer the Riuer of Scheld, & people roade with Horse, and wa∣gons ouer the water into 
+Brabrant.
+
+
+ Prince 
+Charles
+ was crowned King of 
+Spaine,
+ within the towne of 
+Valedolet,
+ and by 
+Vento
+ about 
+1200.
+ souldiers were slaine, that were na∣med the Blacke company, the same yeare likewise there was an accorde made betweene 
+Brabrant
+ & 
+Flanders,
+ & 
+Asperen
+ was won from the Gel∣ders.
+
+
+ The 
+12
+ of Ianuarie died 
+Maximi∣lian
+ the Emperour, Grandfather to 
+Charles
+ King of 
+Spaine.
+ The same yere in the month of February 
+Fran∣cis de Valois
+ King of 
+France,
+ bought the towne of 
+Tourney,
+ of 
+Henry
+ king
+
+of 
+England,
+ for a great summe of mo∣ney.
+
+
+The same yeare wheate was sold for 
+12.
+ stiuers, and Rie for 
+9.
+ stiuers the quarter.
+
+
+ This yeare vpon the 
+23.
+ of Octo∣ber 
+Charles
+ King of 
+Spaine
+ was elec∣ted Emperour, and at 
+Acen
+ in 
+Ger∣manie
+ hee receaued the Imperiall Crowne with great triumph.
+
+
+The same yeare in the moneth of October there was three hundred houses burnt in 
+Romerswald.
+
+
+ The Emperour 
+Charles
+ in pre∣sence of the King of 
+Denmarke,
+ laide the first stone of the foundation of the new quier of our Ladies church in 
+Andwerpe,
+ and spread the morter with a trowell.
+
+
+The same yeare vppon the 
+19.
+ of Nouember, there was 
+70.
+ parishes in 
+Holland
+ ouerflowne and drowned by force of the water that entred in∣to
+
+the land, and in the same moneth the Towne of 
+Turney
+ was besieged by the Emperour, and vpon Saint 
+Andrewes
+ day it was taken, since which time it hath bin holden vnder the king of 
+Spaines
+ subiection.
+
+
+ The Island of 
+Rodes
+ was wonne by the Turke, and while it was be∣sieged, there rose a muteny in 
+And∣warpe,
+ the people saying that the ba∣kers were the cause of the dearth of corne, which as then was verye deare, the like did the women of 
+Ma∣chelen
+ and 
+Brussels
+ against their Ba∣kers.
+
+
+The same yeare in the moneth of Aprill, by 
+Egmont
+ in 
+Holland
+ there was a Fish taken, being of 
+80.
+ foote long, & in greatnes correspondent, whereof they made 
+160.
+ barrels of Fish besides the in trailes.
+
+
+The same yeare vpon Palmeson∣sonday, at 
+Konlen,
+ there were 
+2.
+ chil∣dren
+
+borne that cloue fast together, hauing two Heades, two Armes, and two feete, maiden Children, but dead borne. Vpon Saint 
+Andrewes
+ day the same yere a shippers wife o
+ 
+Moerbeke
+ baked a loafe of breade o
+ pure wheate, and when she drewe i
+ out of the Ouen, it was as blacke as pitch.
+
+
+ This yere in the month of March there was so great a storme of thun∣der & lightning, that there fel haile∣stones as big as hennes egges, and of diuers colours.
+
+
+The same yeare 
+Rodes
+ was againe wonne from the Turkes.
+
+
+ This yeare there was 
+5.
+ thou∣sand houses burnt in the towne of 
+Troy
+ in 
+Champania.
+
+
+ This yeare during the besieging of 
+Pauia,
+ there rose great trouble in 
+Germanie
+ for preaching of the Gos∣pell by 
+Martin Luther.
+
+
+
+
+The same yeare the Emperour 
+Charles
+ married the king of 
+Portin∣gales
+ Daughter in the Towne of 
+Ci∣uill
+ in 
+Spayne.
+
+
+ This yeare vppon the 
+25
+ of Fe∣bruarie happened the fearefull and cruel battaile before 
+Pauia,
+ betweene the Emperour 
+Charles
+ and 
+Francis
+ king of 
+Fraunce,
+ wherin the king of 
+Fraunce
+ was taken prisoner.
+
+
+ This yeare vppon the seauenth of May 
+Phillip
+ eldest son to 
+Charles,
+ the Emperour was borne at 
+Vale∣dolet
+ in 
+Spaine.
+
+
+The same yeare the citie of Rome was besieged and taken by the Em∣perour 
+Charles,
+ & the Pope taken prisoner, and in scaling the walles the Duke of 
+Burbon
+ was slaine.
+
+
+ This yere vpon the 
+6.
+ of March 
+1500. Guelders
+ and many Citizens of 
+Vtrecht,
+ robbed and spoyled the Towne of 
+Hage
+ in 
+Holland.
+
+
+
+
+This yeare the Ilande 
+Peru
+ was first found out.
+
+
+The same yeare vppon the first o
+ Iune, the Bishop of 
+Vtrecht
+ took
+ the towne of 
+Vtrecht
+ from the 
+Guel¦ders,
+ slaying and imprisoning al
+ the Captaines and souldiers, drow¦ning two Prebends, and beheadin
+ two Citizens.
+
+
+ This yeare in the moneth of Iu¦lie, the Frenchmen bearing, th
+ imperiall armes by subtiltie, took
+ the towne of 
+Myllan.
+
+
+The same yeare the Turke besie¦ged 
+Vienna
+ with an Armie of tw
+ hundreth and fiftie thousand men.
+
+
+The same yeare vppon Michael¦mas day in the Euening, there die
+ many people of the sweating sick¦nes in 
+Anwarpe.
+
+
+ This yeare vppon the two 
+ F
+bruary the 
+ 
+Charles
+ was crowned king of 
+¦bardie,
+
+
+within the towne of 
+Bononia,
+ where the Emperour kissed the Popes foote.
+
+
+The same yeare vpon the twentie foure of March, the first stone of the foundation of the Court of Parlia∣ment at 
+Machelen
+ was laide, which before was holden in the Pallace.
+
+
+The same yeare vppon the fift of Nouember, foure hundred & foure Parishes were drowned in the low-Countries.
+
+
+ This yeare the Emperour came to 
+Collen,
+ where 
+Ferdinand
+ his Bro∣ther was crowned king of 
+Romains.
+
+
+The same yeare in the moneth of August, about Saint 
+Laurence
+ day, there was a Comet or Blazing star seene in the Low-Countries.
+
+
+The same yeare and moneth, there was a fish taken vpon the Sea side in 
+Holland,
+ of sixtie eight 
+ lo
+g, 
+, the 
+
+
+being thirteene foote broad.
+
+
+The same yeare there happened an Earthquake in 
+Portingale,
+ that cōtinued for the space of eight daies, wherby 
+1050.
+ houses within 
+Lisbon
+ fell downe. This earthquake hap∣pened sometimes seauen or eight times a day, which made the Citi∣zens for feare to leaue the towne, & lie in the open fields.
+
+
+ A woman in 
+Germanie
+ (beeing great with child) killed her husband in the night time, and eate vp his left side with the arme, the rest of the dead body she boyled and kept it to eate.
+
+
+The same yeare ouer the towne of 
+Munster
+ in 
+Westfalie,
+ there was a man all armed seene in the aire.
+
+
+ This yeare 
+Henry
+ the eight king of England repudiated his wife 
+Ka∣therin,
+ daughter of 
+Ferdinand
+ king of 
+Spaine,
+ and married his second wife
+
+called 
+Anne
+ of 
+Bullen.
+
+
+The same yeare 
+Charles
+ Duke of 
+Guelderland,
+ with fiue thousand men ouerthrew the power of the Earle of East 
+Freesland,
+ beeing of fifteene thousand men.
+
+
+The same yere vpon the sixt of Oc∣tober about twelue of the clocke at night, our Lady Church in 
+Andwarp
+ was burnt.
+
+
+The same yeare the Towne of 
+Bre∣da
+ was increased and made greater, by Henry Earle of 
+Nassau,
+ who like∣wise founded the Castle.
+
+
+ This yeare vpon our Lady euen in the month of March, there assem∣bled great numbers of men & wo∣men, both of 
+Holland
+ and 
+Zealand,
+ cal∣led Anabaptists, that ment to passe through 
+Harlame
+ to goe to 
+Munster
+ but at blacke water they were taken and most of them burnt & punished.
+
+
+The same yeare vpon 
+Mary Mag∣dalens
+
+
+day, there was more then one thousand houses burnt in 
+Breda.
+
+
+The same yeare 
+Iohn van Layden,
+ principall of the Anabaptists, with his company tooke the Towne of 
+Munster,
+ driuing out the Bishop and all the spiritualty: but beeing besie∣ged by the Emperours troupe, and constraind by hunger, it was wonne from him. 
+Iohn Van Layden
+ with his associates were executed.
+
+
+The same yeare, the towne 
+Cler∣uaus
+ in 
+France
+ was spoyled with thunder, and in three houres cleane burnt.
+
+
+The same yere the towne of 
+Mon∣talbon
+ in 
+France,
+ was in three houres space cleane burnt & consumed with fire.
+
+
+The same yeare the Anabaptists ranne naked through the towne of 
+Amsterdam,
+ and made great vprore.
+
+
+ This yeare the Emperour with
+
+a great Armie sayled into 
+Africa:
+ where he draue the Barbarians out of the towne of 
+Tunis,
+ and restored 
+Muleasses
+ to his kingdome againe.
+
+
+The same yeare a Gentleman be∣ing aliue suncke into the earth, be∣cause hee would not sell corne to the poore people at a reasonable price.
+
+
+This yeare Henry the eight King of 
+England,
+ in despight of the Pope (because he would not consent to the deuorce of Queene 
+Katherin
+) permit∣ted 
+Luthers
+ doctrine in 
+England.
+
+
+ This yeare vppon the ninth of May the towne of 
+Delft
+ was burned and consumed with fire in the space of three houres. The same yere died 
+Erasmus
+ of 
+Roterdam.
+
+
+ This yere 
+Francis
+ king of 
+France
+ with fifty thousand men tooke the towne of 
+Hedding,
+
+
+The same yeare and moneth the Earle of 
+Buren
+ burnt the townes of
+
+Saint 
+Paul
+ and 
+Mutterell,
+ & besieged 
+Turwin.
+
+
+ This yeare 
+Henry
+ King of 
+Eng∣land,
+ suppressed diuers Abbies and Cloysters in England, keeping all their lands to himselfe.
+
+
+ This yeare vppon the second of May 
+Isabell
+ Queene of 
+Spaine,
+ and Empresse and Daughter to the king of 
+Portingale
+ died at 
+Toledo
+ in 
+Spaine.
+
+
+ This yeare the Emperour came out of 
+Spaine,
+ and at 
+Gaunt
+ hee pu∣nished diuers rebels, and therein made a goodly Castle.
+
+
+The same yere the Summer was so hote, that the Riuer of 
+Rhiin
+ in some places was dried vp, so that men past ouer it on foote, the like did the Riuer of 
+Seine
+ in 
+Fraunce,
+ and the Figges in 
+Flanders
+ were as ripe vppon the trees, as if they had come out of 
+Spayne.
+
+
+
+
+ This yeare vppon the twentie foure of Iune, warres were againe proclaimed betweene the Emperour and the King of 
+France.
+
+
+The same yeare in the moneth of Iulie vpon Saint 
+Iames
+ day, 
+Martin Van Rosse,
+ with great number of sol∣diers came before 
+Andwarpe,
+ and thought to haue surpressed the towne, hee burnt all the Milles in Saint 
+Willebordes
+ field, and from thence he went into 
+Lukeland,
+ where he was forced with shame to retire.
+
+
+The same yeare the Emperours Souldiers tooke 
+Deuentre
+ and other townes from the Duke of 
+Guelder
+
+
+The same yeare in 
+Germanie
+ after a raine, there fell great numbers of Grashoppers, which did great hurt to the fruits of the earth.
+
+
+ This yeare the Emperour 
+Charles,
+ made 
+Phillip
+ his Son King of 
+Spaine,
+ and married him with
+
+Mary
+ the King of Portingales daughter.
+
+
+The same yeare the Emperour came out of 
+Spaine
+ and went into 
+Guelderland,
+ where vpon the eight of August he besieged 
+Dueren,
+ and willed them to yeelde it vnto him, but the townes men said that they feared not a Haddocke eater: which not long after the Emperour made them dearely to rue, and at the same time 
+Amersford
+ was taken by the 
+Guelders.
+
+
+ This yeare the Scots through∣out all the Neatherland were pro∣claimed enemies to the Emperour.
+
+
+ This yere 
+Charles,
+ eldest Sonne to 
+Phillip
+ king of 
+Spaine,
+ was borne in 
+Valedolet
+ in 
+Spaine.
+
+
+ This yere the Emperour made warre against the Duke of 
+Saxon,
+ & the Lantgraue of 
+Hessen.
+
+
+The same yeare the Castle of
+
+Blākerhooke by 
+Rammekens
+ in 
+Wal∣cheren
+ was made.
+
+
+The same yeare vpon the eight of August, a lightning falling in the towne of 
+Mechelen,
+ blew vp a towre full of Gunpowder, and therwith slew at the least 
+1800.
+ men, without any other hurt.
+
+
+ This yeare vppon the twentie foure of Aprill the Emperour tooke the Duke of 
+Saxon
+ prisoner, and o∣uerthrew his armie.
+
+
+ This yere the Emperour came into 
+Brabant,
+ bringing with him the Duke of 
+Saxon,
+ and 
+Phillip Lantgraue
+ of 
+Hessen
+ prisoners.
+
+
+ This yere 
+Phillip
+ king of 
+Spaine
+ came out of 
+Spaine
+ into the Low-Countries, where hee was inuested with the gouerment thereof.
+
+
+The same yeare about the thirteen of October, 
+Phillip
+ king of 
+Spaine
+ made his entry into 
+Gaunt,
+ and not
+
+long after into 
+Anwarpe.
+
+
+The same yeare the next day after whitsonday, 
+Katherine Demedices
+ was Crowned Queene of 
+France,
+ within the towne of Saint 
+Dennis.
+
+
+ This yeare the Christians won 
+Africa
+ from the Turks and Moores, and then the passage from 
+Brussels
+ was begun to be digged.
+
+
+The same yeare vpon the twentie two of October, the Emperour be∣sieged 
+Metz.
+
+
+This yeare the 
+Lantgraue
+ of 
+Hes∣sen
+ was discharged of his imprison∣ment, 
+ and set at libertie.
+
+
+ This yeare the Emperours Ac∣mie tooke the towne of 
+Turwin
+ which they spoyled, and rased the walles to the ground.
+
+
+The same yeare the Emperour tooke the towne of 
+Hedding.
+
+
+ This yere 
+Phillip
+ king of 
+Spaine,
+ went into 
+England
+ to marrie 
+Marie
+
+
+Queene of 
+England.
+
+
+ This yeare died 
+Iane
+ Queene of 
+Spaine,
+ mother to y
+e
+ Emperor 
+Charles.
+
+
+ This yeare king 
+Phillip
+ held his first feast of the order of the Golden Fleece in 
+Andwarpe.
+
+
+The same yere vpon the eighteene of Februarie died 
+Martin Luther.
+
+
+The same yeare there was a Co∣met seene, that continued for the space of fourteene dayes, betokening (as some iudged) the warres which at that time began in the low coun∣tries.
+
+
+The same yeare peace was pro∣claimed betweene 
+Phillip
+ King of 
+Spaine,
+ and 
+Henry
+ king of 
+France,
+ and the same yere vpon the seauenteenth of September, the Emperour de∣parted out of the Low Countries, to goe into 
+Spaine.
+
+
+ This yere vpon twelfe euen, the Frenchmen thought by treason to
+
+haue taken the towne of 
+Doway,
+ but they fayled of their purpose.
+
+
+The same yeare 
+Phillip
+ King of 
+Spaine
+ with an army of Neatherlan∣ders, besieged the towne of Saint 
+Quintins,
+ where the greatest part of the nobilitie of 
+France
+ came to raise the siege: but they were almost all taken and slaine, & vpon the twenty fiue of August after the towne was taken.
+
+
+The same yere was a great dearth: for at 
+Andwarp
+ Rie was sold for viii, guilders, and wheat for xii. guilders the bushell.
+
+
+ This yeare 
+Ferdinand
+ King of 
+Hungarie
+ and 
+Bohemia
+ was elected Emperour.
+
+
+The same yeare the Frenchmen made a road into 
+Flaunders,
+ where they robbed and burnt 
+Dunkerke.
+
+
+The same yere vpon the fifteenth day of Iulie, 
+Dunkerke
+ was wonne
+
+againe from the Frenchmen, and all that were founde therein slaine and murthered.
+
+
+The same yeare vpon the twenty one of September, the Emperour 
+Charles
+ died in 
+Spaine,
+ and vpon the eighteene of October, about 
+28.
+ dayes after the death of the Empe∣rour died 
+Mary
+ his Sister.
+
+
+The same yere vpon the thirteene of December the Emperours Fune∣rall was celebrated within 
+Brussels.
+
+
+ This yeare vpon the third of A∣prill, peace was determined at 
+Cam∣braye
+ between 
+Phillip
+ king of 
+Spaine,
+ and the French king, and king 
+Phil∣lip
+ married the eldest Daughter of 
+Henry
+ King of 
+France,
+ and each of them redeliuered such townes as they held by force.
+
+
+The same yeare at the mariage of king 
+Phillip
+ with the French Kings daughter, 
+Henry
+ king of 
+France
+ run∣ning
+
+at tilt, was by a splinter 
+Monsieur Mongomries
+ Launce thr
+ into the eye, wherof vpon the twe
+¦tie of Iuly after he died.
+
+
+The same yeare vpon the twen
+ nine of Iuly, King 
+Phillip
+ celebrat
+ the order of the Golden Fleece the towne of 
+Gaunt.
+
+
+The same yeare the Dutchesse 
+ 
+Parma
+ entred into the Neathe
+¦lands for regent thereof.
+
+
+The same yeare the Scots bega
+ to professe the Religion, and to lea
+ Papistrie.
+
+
+ This yeare in the month of I
+¦nuarie, king 
+Phillip
+ married 
+Eliz
+¦beth de Valois,
+ daughter to 
+Henry
+ t
+ second king of 
+France
+ in the tow
+ of 
+Guarda la Iura
+ in 
+Spaine.
+
+
+The same yeare vppon the twent
+ sixe of Februarie, the first stone of t
+ foundation of the new towne hou
+ of 
+Andwarpe
+ was laid.
+
+
+
+
+ This yere was the first time that shippes sayled in the newe Riuer of 
+Brussels.
+
+
+The same yeare diuers Bishops were newly erected in certaine townes in the Neatherlands.
+
+
+The same yere the prince of 
+Conde
+ with diuers souldiers called Huge∣nets, took certain townes in 
+France:
+ which hee did, by reason of certaine controuersies that happened among the Nobilitie, touching the obserua∣tion of an edict of peace, made in the behalfe of the religion.
+
+
+ This yeare the Duke of 
+Guise
+ in the name of 
+Charles
+ king of 
+France,
+ tooke the Citie of 
+Roane,
+ and execu∣ted diuers of the Citizens.
+
+
+ This yeare in the month of May ouer the towne of 
+Callis,
+ there was seene in the aire, two men armed, & all bloody to the knees, each of them bearing a shielde in his left hande,
+
+whereof the one had a Crosse, the o∣ther a Lyon in it, and after them fol∣lowed two women apparelled in white.
+
+
+The same yere eight hundred hou∣ses were burnt within the towne o
+ 
+Poperin
+ in 
+Flaunders.
+
+
+The same yeare there was so grea
+ a plague in 
+England,
+ that in 
+Londo
+ there died eighteene hundred men i
+ one weeke.
+
+
+This yere vpon the seuenteenth of May died 
+Iohn Caluin.
+ 
+
+
+This yeare the Riuer of 
+Shelde
+ frose so hard, 
+ that the people solde wine and beere vppon the riuer be∣fore 
+Andwarpe.
+
+
+This yeare vppon the fift of A∣prill, 
+ the Nobilitie and Gentlemen of the Low Countries presented a petition to the Dutchesse of 
+Parma,
+ requesting the moderation of all placarts published touching Reli∣gion.
+
+Vpon the fourth of Iuly Re∣ligion began openly to bee preached in the Low Countries.
+
+
+The same yeare vpon the twentie of August Images in 
+Andwarpe
+ and other places were throwne downe.
+
+
+This yeare those of the Religi∣on, 
+ stoode armed vppon the Mare∣brug, and the Papists at the bruge foot, one readie to set vpon the other, but by the Prince of 
+Oranges
+ means they were pacified.
+
+
+The one and twentie of Aprill the Prince of 
+Orange
+ hauing had intelli∣gence what was determined in 
+Spaine
+ touching the Low countries, and hauing aduertised the Earle of 
+Egmont
+ thereof, hee went into 
+Ger∣manie.
+
+
+The twenty two of August y
+e
+ Duke 
+D'Alua
+ with great triumph (althogh vnworthie) was receiued into 
+Brus∣sels.
+
+
+
+
+The same yeare vpon the ninth of September, the Earles of 
+Fgmont
+ & 
+Horne
+ were committed to prison by the Duke of 
+Alua,
+ and kept in the Castle of 
+Gaunt.
+
+
+The seauenteenth of October, the Castle of 
+Andwarpe
+ was begun to be made.
+
+
+The last of December, the Dut∣chesse of 
+Parma
+ departed out of the Low Countries, and presently after the Duke of 
+Alua,
+ imprisoned diuers of the people that were of the Religi∣on, and such as had borne armes.
+
+
+This yeare in Easter Holidaies the Earle 
+Lodwicke
+ tooke the house of 
+Weden
+ in 
+Freeseland
+ and 
+Dam,
+ in the which enterprise, the Earle of 
+Arenberch
+ and diuers 
+Spaniards
+ were ouerthrowne.
+
+
+The first of Iulie the Duke of 
+Al∣ua
+ caused the two Lordes of 
+Baten∣borch,
+ and sixteene gentlemen more
+
+to be beheaded.
+
+
+The second of Iuly the Duke of 
+Alua
+ sent his forces into 
+Freesland
+ a∣gainst the Earle 
+Lodwicke
+ that stay∣ed for him, but because the Dutch Souldiers would not fight, he was forced to saue himselfe, and swam through the riuer of 
+Embdze.
+
+
+The fift of Iulie the Duke of 
+Alua
+ caused the Earles of 
+Egmont
+ & 
+Horne
+ to be beheaded in the towne of 
+Brus∣sels.
+
+
+The tenth of September, the Earle of 
+Bueren
+ was taken in 
+Louen,
+ & con∣ueied into 
+Spaine.
+
+
+In the moneth of October the Prince of 
+Orange
+ passed the Riuer of the 
+Mase
+ at 
+Stochem
+ with certaine Dutch forces, but the Dutchmen when they should fight, asking for mony, were the cause that hee could not fight with the enemie, whervp∣pon
+
+he went into 
+France,
+ to ayde the 
+Hugonots.
+
+
+This yeare vpon the thirteenth of march, 
+ the Prince of 
+Conde
+ being taken prisoner, was trayterouslie shot into the body by 
+Montesquion.
+
+
+This yeare vpon the sixteenth of Iuly, 
+ the Duk of 
+Alua
+ published a generall pardon within the towne of 
+Andwarpe.
+
+
+The twentie fiue of September, 
+Anna
+ of 
+Austria
+ took shipping in 
+Zea∣land
+ to sayle into 
+Spaine.
+
+
+This moneth 
+Ladron
+ gouernour of 
+Valencia,
+ was by his Souldiers committed Prisoner, because they would haue the pay of nyne compa∣nies of souldiers, the mony where of he had played at dice, which he pro∣mised them to satisfie, and to the same end he gotte diuers of them to 
+And∣warpe,
+ where he committed and exe∣cuted
+
+at least two & forty of the prin∣cipall mutiners.
+
+
+This yere 
+Harmon Ruyter
+ tooke the Castle of 
+Loeuestein,
+ 
+ which the 
+Spaniardes
+ not long after tooke from him againe, and hanged both him, & all his companie.
+
+
+In the moneth of December, the mony that the Duke of 
+Alua
+ should haue receaued out of 
+Spaine
+ was ta∣ken by the Queene of 
+Englands
+ ships and carrried into 
+England.
+
+
+This yeare in the moneth of Fe∣bruarie, 
+ the Duke of 
+Alua
+ sought to haue a tribute of the tenth penny, but he could not obtaine it.
+
+
+The first of Aprill, the 
+Brill
+ was taken by 
+Lumine,
+ and not long after 
+Flushing
+ and 
+Enchuysen
+ yeelded to the Prince of 
+Orange
+ against the Duke of 
+Alua.
+
+
+
+
+The ninth of Aprill, 
+Bossu
+ with certaine 
+Spaniards,
+ desired to passe through 
+Roterdam,
+ where traiterou∣sly he murthered diuers Burgers, & tooke in 
+Delfeshauen.
+
+
+The twentie foure of May, Earle 
+Lodowicke
+ tooke 
+Bergen
+ in 
+Henegon,
+ which the Duke of 
+Alua
+ presently be∣sieged, and tooke 
+Bergen
+ & 
+Valechyn
+ againe.
+
+
+In August the Prince of 
+Conde
+ with his armie beeing at 
+Duesborge
+ passed ouer the Rhein and tooke 
+Ru∣ermonde,
+ & 
+Lennen
+ by composition, & 
+Mechelen
+ yeelded of it selfe, that done, he went to 
+Bergen Henegon
+ to help the Earle 
+Lodowick,
+ but by rea∣son of the great murther in 
+France,
+ hee could no helpe his Brother, and so passed through 
+Mechelen
+ into 
+Holland.
+
+
+The second of September, the
+
+Earle 
+Lodowick
+ by composition yeel∣ded the towne of 
+Bergen
+ to the Duke of 
+Alua,
+ vppon condition that hee should bee conuaied safelie vnto the borders of 
+Germanie,
+ which was performed.
+
+
+The second of October 
+Mechelen
+ was forcibly taken & spoyled, wher∣in many Burgers were murthred, & women and maides deflowred, be∣cause they receaued the Prince of 
+O∣range
+ into the towne.
+
+
+The twenty of October 
+Monsieur Dragon
+ passed his men through the water at 
+Southberland
+ towards 
+Der∣gosen.
+
+
+The thirteenth of Nouember, the 
+Spaniards
+ tooke 
+Zutphen,
+ where they vsed the Burgers very cruelly.
+
+
+The twentie of Nouember 
+Don Fredericke
+ entred into 
+Narden,
+ where contrary to his faith and promise he
+
+murthered diuers of the Burgers, & burnt the towne.
+
+
+ This yeare 
+Don Fredericke
+ came before 
+Harlem.
+
+
+The twentie three of Aprill 
+Sancy Dauila
+ Captaine of the castle in 
+And∣warpe,
+ with a great armie of ships, came before 
+Flushing,
+ where hee & all his shippes were takē by the 
+Flushin∣ghers.
+
+
+The thirteenth of Iulie, 
+Harlem
+ yeelded to the 
+Spaniards,
+ committing themselues to the Kinges mercy, which they did for want of victuals.
+
+
+The fourth of October the Castle of 
+Ramekins
+ in 
+Zealand
+ yeelded to the Prince of 
+Orange,
+ and not long after 
+Gertrudenberg
+ was taken by 
+Poyet,
+ Liefetenant to the Prince.
+
+
+The eight of October, the 
+Spaniards
+ besieged 
+Alcmar,
+ but by reason of the water they were forced to leaue it.
+
+
+
+
+The twelfth of October, the Earle of 
+Bossu
+ with a great Nauy of ships came before 
+Enchehusen:
+ where hee was taken, & sent prisoner to 
+Horne.
+
+
+In December the Duke of 
+Alua
+ went into 
+Spaine.
+
+
+ This yeare the King of 
+Spayne
+ sent 
+Don Loys de requesentie
+ (Com∣mander of Saint 
+Iacobs
+ order, and of the house of the Dukes of 
+Cosa
+) into the Low Countries to bee Go∣uernour, he thought to haue raysed the Princes siege before 
+Midleborow,
+ but the twenty foure of Ianuarie af∣ter, his mē were ouerthrown at 
+Ber∣gen.
+ The sixt of Februarie 
+Monsieur Dragon
+ Gouernour of 
+Midleburge
+ yeelded vp the towne to the Prince of 
+Orange.
+
+
+The fift of Aprill, the Commaunder published a generall pardon within the towne of 
+Brussels.
+
+
+
+
+The twentie foure of Aprill, the 
+Spaniards
+ ouerthrew the Princes ar∣mie at 
+Mokerheye,
+ their Generall be∣ing Duke 
+Christopher
+ son to the 
+Pal∣sgraue
+ of 
+Rhein,
+ Earle 
+Lodowicke,
+ and Earle 
+Henry
+ of 
+Nassawe,
+ who were neuer found eyther dead or a liue.
+
+
+The twenty sixe of Aprill, the 
+Spa∣niards
+ in 
+Andwarpe
+ cried, 
+fuere, fuere, Viliacoes,
+ because they would bee paid.
+
+
+The xxvj. of May, the 
+Spaniardes
+ came again before 
+Leyden,
+ and besie∣ged it, where before it they made 
+22.
+ Bulwarkes.
+
+
+At the same time the Princes sol∣diers with certaine ships came be∣fore 
+Andwarpe,
+ and there tooke cer∣taine ships in the sight of the Com∣mander.
+
+
+The third of October, the towne of 
+Leyden
+ was miraculously relee∣ued,
+
+and the siege raysed by meanes of Captaine 
+Boyset
+ with a Fleete of ships, that entered into it bywater.
+
+
+In December, an assemblye was holden at 
+Breda,
+ betweene the Commaunder and the Prince and States of 
+Holland
+ and 
+Zealand,
+ to make a peace.
+
+
+ This yeare the towne and castle of 
+Bueren
+ was by the Gouernour thereof deliuered vnto the 
+Spaniards.
+
+
+The same yeare 
+Bomell
+ was besie∣ged the whole summer long.
+
+
+The twelfth of Iulie, the Prince of 
+Orange
+ maried 
+Charlote
+ daughter to 
+Monsieur de Monpensier
+ within the towne of 
+Brill.
+
+
+The twelfth of August 
+Shooneho∣uen
+ was by composition yeelded to the enemie.
+
+
+The twentie eight of August 
+Old-water
+ was forcibly taken by the 
+Spa∣niards,
+
+
+& many of the Burgers mur∣thered.
+
+
+The eight of September, the 
+Spaniards
+ besieged 
+Wert,
+ & not long after it yeelded vp.
+
+
+The twenty eight of September the 
+Spaniardes
+ passed the waters at Saint 
+Anneslant, Duyuelant,
+ and 
+Phil∣lipslant,
+ where 
+Boyset
+ was slaine, there they tooke the fort of 
+Bonnuene
+ and besieged 
+Zuriczee.
+
+
+ This yeare the twentie of Fe∣bruarie, the Princes souldiers tooke 
+Krimpen.
+
+
+The fift of march the Commander died in 
+Brussels.
+
+
+In May the 
+Spaniardes
+ tooke 
+Zu∣riczee,
+ and not long after they left 
+Zealand,
+ and went to 
+Aelst,
+ and tooke the towne.
+
+
+The twentie three of September, 
+Monsieur de Hesse
+ Gouernor of 
+Brus∣sels,
+
+
+and the Lorde-
+Glunes
+ with the aide of the Burgers, tooke the prin∣cipallest of the states, being in coun∣cell within 
+Brussels.
+
+
+The twentie of October the 
+Spani∣ardes
+ tooke 
+Mastricke,
+ by meanes of the Dutch Souldiers that lay in it, wherin they robbed, spoyled, & mur∣thered without mercy.
+
+
+The same day 
+Don Iohn de Austria,
+ came to 
+Lutzenburgh,
+ and was sent by the King of 
+Spaine
+ to bee Gouer∣nour in the Low Countries.
+
+
+The fourth of Nouember, was the furie of 
+Andwarpe,
+ which was done by the 
+Spaniards,
+ that issued out of the Castle into the towne, wherin they slew about 
+9500.
+ men Burgers, and Souldiers, 
+4000.
+ drowned with the Earle of 
+Ouersteine,
+ burnt sixe hun∣dred houses, and ransomed the Bur∣gers.
+
+
+
+
+The eight of Nouember, peace was made at 
+Gaunt
+ betwene the Prince, & the States of 
+Holland
+ and 
+Zealand,
+ & the 
+Spaniards.
+
+
+The fift of Nouember, the towne of 
+Valencia,
+ caused the Dutch Soul∣diers to depart out of the towne, and by appointment the 
+Spaniardes
+ deli∣uered vp the Castle.
+
+
+The ninth of Nouember the Earle of 
+Krulx
+ Gouernor of 
+Flanders,
+ besie∣ged the Castle of 
+Gaunt,
+ which the 
+Spaniards
+ yeelded by composition.
+
+
+ This yeare vppon the eighteene of Februarie, those of 
+Vtrecht
+ besie∣ged the Castle, and compelled the 
+Spaniards
+ to yeeld it to 
+Bossu.
+
+
+The twentie seauen of February, the peace agreed vppon with 
+Don Iohn,
+ was proclaimed in 
+Andwarpe.
+
+
+The twentie of March the 
+Spani∣ards
+ went out of the Castle of 
+And∣warpe,
+
+
+& the Prince of 
+Chima
+ kept it.
+
+
+Vppon May day, 
+Don Iohn
+ was with great honor receaued into 
+Brus∣sels.
+
+
+The eleauenth of Iuly, 
+Don Iohn
+ went to 
+Mechelen,
+ where hee sent for the Dutch Captaines of that towne, and of the towne and Castle of 
+And∣warpe,
+ and commanded them to keep the townes for him. He sent likewise for the Prince of 
+Chima,
+ and in his place sent 
+Monsieur Tourlon,
+ & from thence he went to 
+Namen.
+
+
+The second of Iuly, betweene 
+Sa∣fimghen,
+ and 
+Hefimghen,
+ there was a Fish taken of fiftie right foot long, & fortie foote thicke.
+
+
+The twenty nine of Iuly, 
+Don Iohn
+ took the Castle of 
+Namen,
+ which was the cause of a new warre.
+
+
+The first of August, 
+Tourlon
+ was taken in the Castle of 
+Andwarpe,
+ and
+
+his Souldiers driuen out, who with the high Dutchmen tooke the new towne, and there insconsed them∣selues.
+
+
+The twentie eight of August, 
+Mon∣sieur de Bours
+ diliuered the castle vn∣to the Burgers that broke it downe on the side that ioineth to the towne.
+
+
+The twenty eight of September. the Prince of 
+Orange
+ entred into 
+Andwarpe,
+ and the 
+22.
+ he road to 
+Brus∣sels,
+ and the 
+24.
+ hee was chosen Go∣uernour.
+
+
+The eighteene of October, those of 
+Gaunt
+ tooke the Duke of 
+Aerschot
+ prisoner, to get their priueledges a∣gaine.
+
+
+The same time also they tooke the Bishops of 
+Ipre,
+ and of 
+Brugges,
+ the Lord of 
+Rassingen Campany,
+ and the chiefe Baylie of 
+Ipre
+ and 
+Cortricke.
+
+
+The twentie one of Nouember,
+
+Duke 
+Mathias
+ entred into the Low-Countries to be their Gouernour.
+
+
+The seauenth of December 
+Don Iohn
+ with his souldiers, were pro∣claimed enemies to the King.
+
+
+ This yeare vpon the eighteene of Ianuarie, Duke 
+Mathias
+ was sworne Gouernor within the town of 
+Brussels.
+
+
+The last of Ianuarie, the riters of 
+Don Iohn de Austria
+ ouerthrewe the States troupes hard by 
+Namen,
+ and tooke 
+Giblon, Leuuen, Aerschot, Tenen, Diest,
+ and 
+Sichem.
+
+
+The eight of Februarie, 
+Amster∣dam
+ agreed with the States of 
+Hol∣land.
+
+
+The twentie two of Aprill, the pa∣cification of 
+Gaunt
+ was published & sworne in 
+Andwarpe,
+ and the Iesuits refusing to doe it, were by ship sent out of the towne.
+
+
+
+
+The twentie of Iulie the Dutch souldiers that lay in Campe, yeelded vp the towne that was besieged by the Earle of 
+Rennenburg,
+ that held it for the States.
+
+
+The first of August, the 
+Spaniardes
+ set vppon the States Souldiers by 
+Rymenant, Bossu
+ beeing their beadle: where 
+Don Iohn
+ lost many of his men.
+
+
+The twenty foure of September, certain 
+Wallons
+ mutined vnder pre∣tence of their pay, and by the help of 
+Montigny
+ made warre vppon 
+Gaunt.
+
+
+The same yeare the Gospell was openly preached throughout 
+Brabant
+ and 
+Flaunders.
+
+
+The first of October, 
+Don Iohn de Austria,
+ died of the plague, and in his place entred the Prince of 
+Parma.
+
+
+The ninteenth of Nouember, the Earle of 
+Renuenburg
+ had the towne
+
+Deuenter
+ deliuered vnto him by com∣position
+
+
+ This yeare in the month of Ia∣nuarie, the Prince of 
+Parma
+ took the Castle of 
+Weert,
+ and then came to∣wards 
+Andwarpe,
+ and so to 
+Mastricht.
+
+
+About the same time the Commis∣sories of the States met at 
+Kenlen,
+ to intreat of peace.
+
+
+The twenty nine of Iuly, the 
+Spa∣niardes
+ tooke 
+Mastricht
+ by assault, and entred it by force.
+
+
+The twenty of October Captaine 
+La Noue
+ tooke 
+Meen
+ againe, with the Castles of 
+Halewin
+ and 
+Waerwick.
+
+
+ This yere vpon the twenty sca∣uen of Februarie, the Earle of 
+Eg∣mont
+ took 
+Cortright
+ for the 
+Spaniards.
+
+
+In Aprill 
+Mechelen
+ was taken a∣gaine for the States, by 
+Monsieur Temple.
+
+
+The seuenteene of Iuly, the 
+Spani∣ards
+
+
+tooke 
+Delfe
+ Ile, and 
+Cowerden.
+
+
+ Vpon the fourteene of Februa∣rie, in the towne of 
+Steenwicke,
+ was releeued by the Lord of 
+Nieuenort,
+ & Coronell 
+Norris,
+ where many 
+Spani∣ards
+ were slaine.
+
+
+The twenty three of Iune, 
+Breda
+ by meanes of 
+Fresin
+ that lay prisoner in the Castle was betraied and deli∣uered to the 
+Spaniards.
+
+
+The xviii. of August, the towne of 
+Cambray
+ was deliuered by the Duke of 
+Alenson,
+ which the Prince of 
+Par∣ma
+ had besieged.
+
+
+The seauenth of September 
+End∣houen
+ was taken, and not long after taken againe from the 
+Spaniards.
+
+
+The fourth of October, the Prince of 
+Parma
+ tooke 
+Dornicke
+ by composi∣tion, after hee had many times assal∣ted it.
+
+
+The twentie nine of October,
+
+Duke 
+Mathias
+ went out of the Low-Countries.
+
+
+ This yeare vpon the ninteene of Februarie, the Duke 
+Alenson
+ by ship at riued in 
+Andwarpe,
+ and the twenty two of the same moneth, hee was sworne Gouernour of the Countrie of the States.
+
+
+The eighteene of March the Prince of 
+Conde
+ was shotte into the heade within the towne of 
+Andwarpe
+ by one 
+Iohn Iauregni.
+
+
+The ninteene of Aprill the Prince of 
+Parma
+ besieged 
+Andenard,
+ & tooke it for want of aide.
+
+
+The twentie three of Aprill 
+Monsie∣our de Tion, Tempel,
+ and 
+Monsieour de la Guard
+ tooke 
+Aelst.
+
+
+The eleauenth of Iulie, 
+Nicholas Zalcedo
+ thought to haue slaine the Duke of 
+Alenson,
+ but hee was taken and brought to 
+Paris,
+ where vppon
+
+the twentie two of October, he was torne in peeces by foure horses.
+
+
+The second of August, the Scots that lay in 
+Liere
+ betraied the towne, and deliuered it to the Prince of 
+Parma.
+
+
+The fifteene of August the Duke 
+Alenson
+ was receiued into the town of 
+Gaunt
+ as Earle of 
+Flaunders.
+
+
+The xxiii. of September, 
+Lo∣chem
+ was deliuered by the Earle of 
+Hollocke,
+ wherin were three Earles.
+
+
+The same moneth the Prince of 
+Parma
+ tooke 
+Nieuenhouen.
+
+
+ This yeare the seuenteene of Ia∣nuarie, the French furie happened in 
+Andwarpe,
+ where the Duke 
+Alenson
+ vnder pretence of a muster meant to haue betraied it, in the which enter∣prise he lost fifteene hundred French∣men, besides hurt men & prisoners, and but 
+83.
+ Burgers slaine,
+
+
+The thirteenth of Februarie, the
+
+new Burse of 
+Andwarpe
+ was burnt.
+
+
+In August the Spaniards tooke 
+Dixmuyden,
+ and in December they besieged 
+Ipre.
+
+
+The twenty foure of October, the Spaniards tooke 
+Sas
+ by 
+Gent.
+
+
+The thirteenth of October, the baylie of 
+Wast
+ deliuered the land of 
+Wast
+ to the Spaniards, and they of 
+Andwarpe
+ cut the Diches.
+
+
+ In this yere in the month of Fe∣bruarie, 
+Aelst
+ was deliuered to the Prince of 
+Parma.
+
+
+The twelfth of April the Prince of 
+Parma
+ tooke 
+Ipre.
+
+
+The tenth of Inne, the Prince of 
+Parma
+ besieged the sconce of 
+Lillo,
+ but hee was forced to leaue it with shame.
+
+
+The tenth of Iuly, the Prince of 
+Parma
+ tooke 
+Liefekins hooke.
+
+
+The same day the Prince of 
+Orange
+
+
+was slaine in 
+Delf
+ by one 
+Balthazer Gerrats,
+ the same month the States lost 
+Herentales.
+
+
+The sixteene of August, 
+Dermond
+ was deliuered to the Prince of 
+Par∣ma.
+
+
+The twentic six of September, the towne of 
+Gaunt
+ for want of victnals yeelded to the Prince of 
+Parma.
+
+
+ This yeare Graue 
+Holocke
+ tooke 
+Hertogenbosh,
+ but hec was forced to leane it againe with some losse of his men.
+
+
+The same yeare vppon Saint 
+Mat∣thews
+ euening, the bridge by 
+Calco
+ was fully finished.
+
+
+The tenth of March, 
+Brussels
+ for want of victuals agreed with the Prince of 
+Parma.
+
+
+The fourth of Aprill the ships that were set on fire, and sent by them of 
+Andwarpe
+ to fire the bridge, entred
+
+vnder it and did much hurt.
+
+
+The same time the 
+Hollanders,
+ and 
+Zealanders
+ took in 
+Liefskins hooke,
+ S. 
+Annes hooke,
+ and 
+Venten.
+
+
+The seauenteene of Iuly, the towne of 
+Mechelen
+ for want of vic∣tuals yeelded to the Prince of 
+Parma.
+
+
+The tenth of August an agreement was made betweene 
+England
+ and the Low Countries.
+
+
+The eleuenth of August the Prince of 
+Parma
+ receaued the Golden Fleece at the bridge of 
+Calloo
+ on 
+Brabant
+ side.
+
+
+The twenty seauen of August the Prince of 
+Parma
+ entred into 
+And∣warpe.
+
+
+The second of September the bridge was broken.
+
+
+The ninth of Nouember, the Di∣ches of the Castle of 
+Andwarpe
+ were digged againe.
+
+
+
+
+ This yeare about the beginning thereof the Earle of 
+Lecester
+ came in∣to 
+Holland,
+ and the sixt of Februarie after was proclaimed Gouernour.
+
+
+The sixt of Iune the towne of 
+Graue
+ by composition yeelded to the Prince of 
+Parma.
+
+
+The twenty nine of Iune he tooke 
+Venlo
+ likewise by composition.
+
+
+The sixteene of Iuly the English∣men tooke 
+Axel
+ in 
+Flaunders.
+
+
+The seuenteene of Iuly the Prince of 
+Parma
+ besieged the towne of 
+Nuse,
+ and the xxvj. of the same, hee tooke it by assault.
+
+
+The tenth of December, at 
+Limer
+ a village lying by 
+Tienen
+ there rained blood vpon the Ise, in a gentlemans Orchard, and it fell so hot, that there with the Ise hissed, as if one had thrust a pipe of Lead into it, & sunke at the least a foot deepe into the Ise.
+
+
+
+
+ This yere vpon the xvij. of Ia∣nuarie, the Frenchmen traiterously yeelded vp the Castle of 
+Woud
+ by 
+Bergen.
+
+
+The same month the towne of 
+De∣uenter
+ was betraied to the 
+Spaniard,
+ by Sir 
+Edward Stanley.
+
+
+The fourth of Iuly the towne of 
+Gelder
+ was betraied by a Scot cal∣led 
+Patron.
+
+
+The last of Iulie, Rye was solde in 
+Andwarpe
+ for twelne Guilders, & wheat for fifteene guilders the quar∣ter.
+
+
+The ninth of August the towne of 
+Sluce
+ yeelded to the Prince of 
+Parma,
+ after he had shot 
+16000
+ Cannon shot at the towne.
+
+
+The same yere died 
+Augustus Lant∣graue
+ of 
+Saxon.
+
+
+ This yere the Queene of Scots was beheaded in 
+England.
+
+
+
+
+Not long before that, the Earle of 
+Lecester
+ returned againe into the low Countries.
+
+
+The same yeare hapned the trouble before 
+Medenblicke.
+
+
+The same time the Lord of 
+Buck∣hurst
+ came into the Low Countries in the Queene of 
+Englands
+ behalfe.
+
+
+The same yeare in Iune the Earle of 
+Hollocke
+ tooke the house of 
+Loon,
+ & the Sconce of 
+Enghelen
+ in the water that goeth to 
+Bosch,
+ where 
+Houtepen
+ was slaine, and died at 
+Hertogen∣bushe.
+
+
+The sixt of Iuly there was con∣tētion in 
+Vtrecht
+ betweene the Earle of 
+Newenare,
+ and the Magistrates & Burgers.
+
+
+About August & September, there was much talking of peace, where∣vpon the Queene of 
+England
+ sent her Ambassadors out of 
+England
+ into
+
+Flanders,
+ at the request of the Prince of 
+Parma,
+ but it was all but treason.
+
+
+The twenty six of October, at 
+Lay∣den
+ were executed 
+Iaques Valmar. Cos∣mo de Pescarenges,
+ & 
+Nicholas Mauld,
+ and some for the same cause banished out of the towne.
+
+
+The twentie three of December, 
+Shenk
+ tooke 
+Bon.
+
+
+About this time the Prince of 
+Par∣ma
+ prepared diuers ships and flatte bottomed boates, at 
+Andwarpe,
+ and at 
+Dunkerke,
+ which did little profit or aide to the Spanish Fleet.
+
+
+The xxvij. of Februarie, 
+1588.
+ a woman in 
+Dort
+ was deliuered of iiij. men children at a birth, that were all liuing and christned, their names be∣ing, 
+Abraham, Isaac, Iacob
+ and 
+Samuel.
+
+
+The tenth of March, 
+Gertruden∣berge
+ fell in a muteny.
+
+
+The xij. of Aprill, the Earle of 
+Le∣cester
+
+
+was discharged of his gouernmēt by open placart. About this time died the king of 
+Denmarke.
+
+
+The twentie eight of Aprill, a woman in 
+Dort
+ was deliuered of three children at one birth, and christned, 
+Abraham, Sa∣ra
+ and 
+Susanna.
+
+
+About the middle of May, the Prince of 
+Parma
+ thought to haue put out of 
+Dunkerke
+ with a great Fleet of Ships, but the 
+Hollanders
+ kept him in.
+
+
+At the same time the Queene of 
+Eng∣land
+ prepared her Nauy in a readines, & made great preparation for the wars, although in the meane time a peace was intreated of.
+
+
+The thirteenth of May, a great Ar∣mie of Spanish ships set out of 
+Lisbon
+ for 
+Gronie,
+ whereof the like had ne∣uer bin heard of, which was the Fleete that meant to haue done great hurt to 
+England
+ and the Low Countries, but
+
+God mercifully deliuered vs out of their hands.
+
+
+In Iuly the muteny at 
+Gertruden∣berge
+ was appeased.
+
+
+The xiiij. of September the Earle of 
+Lec ester
+ died in 
+England.
+
+
+The same moneth Sir 
+Thomas Can∣dish
+ an English Gentleman came out of 
+Indie
+ with a ship laden with gold and siluer, hauing sayled round about the world.
+
+
+The vij. of October, there was great mutenie in 
+Vtrecht,
+ where Captaine 
+Clarehagen
+ was stabbed, but died not of that wound.
+
+
+About this time the Prince of 
+Parma
+ besieged 
+Bergen vp Zome,
+ and went from it againe, not without both losse and shame.
+
+
+About this time Sir 
+Martin Shenk
+ made a Sconce aboue the towne 
+Bom∣mell
+ vpon 
+Voorne.
+
+
+
+
+The xix. of Nouember, the Prince of 
+Parma
+ departed from 
+Bergen
+ vpon 
+Zone,
+ after hee had besieged it for the space of sixe weekes.
+
+
+The xxv. of September, 
+Bon
+ was deliuered vp to the Prince of 
+Parma.
+
+
+In October the Earle of 
+Mansfelt
+ besieged 
+Watchtendour,
+ and the xx. of December, hee agreed with the soul∣diers that they should issue out all armed, with Ensignes displayed.
+
+
+The thirteenth of December, the Duke of 
+Guise
+ was slain by the king of 
+France,
+ which the 
+Guisart
+ meant to haue done to him, and the next daie the Cardinall of 
+Guise
+ his Brother was likewise slaine.
+
+
+ This yeare 
+Gertrudenberge
+ was besieged by the States, & long bat∣tered, but in the end they left it off, & the Souldiers within it solde the towne for fifteene moneths pay vn∣to
+
+the Prince of 
+Parma,
+ which they deliuered vpon the tenth of Aprill.
+
+
+The thirteenth of Aprill the Prince of 
+Parma
+ tooke the house of 
+Lobben,
+ but within three dayes after hee lost it againe.
+
+
+The seuenteene of May, the Spa∣niard tooke the sconce of 
+Deeueren
+ by 
+Heusden.
+
+
+The twentie two of May, the Prince of 
+Parma
+ tooke the house of 
+Hemart.
+
+
+The twenty fiue of Iune he tooke the house of 
+Blienbeeke.
+
+
+The sixteene of Iuly he tooke the houses of 
+Proyen
+ & 
+Brakel,
+ but now are left againe, and cleane burnt with the Dorpe.
+
+
+The fifteene of Iuly the Prince of 
+Parma
+ besieged 
+Heusden,
+ and from thence hee went with shame enough into 
+France.
+
+
+
+
+The first of August, 
+Henry
+ the third King of 
+France
+ was murthered by a Frier.
+
+
+The eleauenth of August, Sir 
+Mar∣tin Shenke
+ was drowned by 
+Nimme∣gen,
+ thinking to haue taken the towne.
+
+
+The twentie foure of August, the enemie tooke the house of 
+Heel
+ in 
+Bo∣melsweert.
+
+
+ This yeare vppon the fourth of March, Graue 
+Maurice
+ tooke the towne of 
+Breda,
+ by meanes of a ship of turfes wherin were about 
+70.
+ mē their leader beeing Captaine 
+Argier
+ of 
+Lambrecht.
+
+
+The xxvij. of September 
+Hemert
+ was yeelded to Graue 
+Maurice.
+
+
+The third of October hee likewise tooke the house of 
+Heel.
+
+
+The xxix, of October 
+Steenberghen
+ was yeelded to the States.
+
+
+
+
+The same yeare in the moneth of March, Graue 
+Charles
+ came before the Sconce of 
+Seuenbergen
+ with a great force thinking to take it, but with shame and losse of almost 
+1000
+ men, he was constrained to leaue it.
+
+
+ In 
+Paris
+ victuals were so deare, that it was compared to the destruc∣tion of 
+Ierusalem,
+ for a townesman therein constrained by hunger, hung his wife and children, which done he set a bill vpon his own breast, wher∣in he wrote the cause of that action, & then hanged himselfe, for at that time within the towne they eate Horses, Asses, Dogges, Cats, Rats, & Vine leaues, a pound of butter was solde for two Crownes, and an Egge for twelue solx, and great numbers died for hunger.
+
+
+The same yeare vppon the twen∣ty sixe of May, 
+Sutphen
+ was besieged
+
+and deliuered into the handes of Graue 
+Maurice.
+
+
+The thirty one of May, 
+Deuenter
+ was besieged, and after it had receaued 
+3700
+ shotte against it, they yeelded it vnto the States.
+
+
+The twentie eight of Iune, Graue 
+Maurice
+ went before 
+Delffile
+ with three and thirtie great peeces, and the second of Iuly it was yeelded vnto him.
+
+
+The fift of Iuly, hee came before the Sconce of 
+Opslach,
+ and with 
+160.
+ shot battered it, which was yeelded to the States.
+
+
+Vpon the seauenth of Iuly the soul∣diers therein issuing disarmed.
+
+
+The next day Graue 
+Maurice
+ went to the Sconce of 
+Immentil,
+ and after 
+36.
+ shot at the same, they yeelded it vnto him vpon the eleauenth of Iuly.
+
+
+The twenty foure of the same month fiue Cornets of horse of the Prince of
+
+Parmas
+ troupes were ouerthrowne in 
+Betue,
+ wherof one was the Prince of 
+Parmas
+ Guard.
+
+
+The twenty sixe and twenty seuen of Iuly, the Prince of 
+Parma
+ left the Sconce of 
+Knodseburg.
+
+
+The xix. of September Graue 
+Maurice
+ desieged 
+Hulst,
+ which the xxv. of the same month yeelded vnto him.
+
+
+The xiiij. of October 
+Kimmeghen
+ was belieged, and th xxii. of the same month yeelded to Graue 
+Maurice.
+
+
+This yere 
+Steenwicke
+ yeelded vn∣to Graue 
+Maurice,
+ 
+ vppon the fift of Iuly.
+
+
+The xxjj. of September, 
+Couerden
+ yeelded to the States.
+
+
+This yeare vppon the xxviij. of March, 
+ Graue 
+Maurice
+ with a great power went to besiege 
+Gertruden∣berge,
+ and the vij. of Aprill the enemy yelded vp the 
+Steelhofes
+ Sconce, by
+
+composition.
+
+
+The xxiiij. of Iune, the Bulwarke was takē by force by Captaine 
+Haen
+ and 
+Buury,
+ whereby the towne was forced to yeelde to Graue 
+Maurice,
+ who let the souldiers issue out with their armes, but no colours.
+
+
+The xiiij. and xxj. of May, Graue 
+Maurice
+ w
+t
+ 
+120.
+ companies of foote, & xxvj. Cornets of horsemen departed from 
+Swool
+ to releeue 
+Couerden,
+ which had bin besieged for the space of sixe months together, by the Earle 
+Harman
+ and 
+Verdugo,
+ but hearing of the states forces, they left their forts, and departed, and so the towne was deliuered.
+
+
+The xxij. of Iuly, Graue 
+Maurice
+ tooke the towne of 
+Gronning.
+
+
+This yeare vppon the xxviij. of March, 
+ about nine of the clocke a
+ night the diche by 
+Gorcum
+ by a high
+
+water brake through, and ranne vn∣der the Papendrecht.
+
+
+The xxiij. of Iuly, they began to digge without the spuyport of 
+Dort,
+ to enlarge the towne.
+
+
+The eleauenth of August foure & fortie Dunkerkers and Spaniards, were hanged by 
+Roterdam.
+
+
+The 
+2
+ of September, Earle 
+Phillip
+ of 
+Nassau
+ passed at 
+Ramsburg
+ ouer the 
+Lip
+ with fiue hundred men, where with other Earles hee fought most valiantly with 
+Monsieur Dragons
+ re∣giment, in which sight, the said Earle 
+Phillip,
+ and the yong Earle of 
+Solmes
+ were slaine, yet 
+Dragon
+ lost thrice as many men as Graue 
+Maurice
+ did.
+
+
+This yeare the seauenteene of A∣prill 
+Albertus
+ Cardinall of 
+Austria
+ wan 
+Callis
+ from the French King. 
+
+
+The thirtie of Iulie, the English∣men with certaine 
+Holland,
+ and 
+Zea∣lands
+
+
+ships by force took the town of 
+Cadyz Malis
+ in 
+Spaine,
+ which they spoiled, pilled, and burnt, bringing great treasure from thence.
+
+
+The sixteene of Iuly, there was a Comet or blazing starre seene in the Low Countries.
+
+
+The seuenteene of August the Car∣dinal tooke 
+Hulst
+ in 
+Flanders
+ by com∣position after he had lost 
+6000.
+ of his best souldiers before the towne.
+
+
+This yeare vppon the twentie foure of Ianuarie, 
+ Graue 
+Maurice
+ w
+t
+ sixe thousand men, met the enemy at 
+Tuelsheheyde
+ by 
+Turenhoult,
+ where he set vppon them, being a great num∣ber, who beeing aduertised of his comming fled away, whome he fol∣lowed, and hauing ouertaken them, he slew of them to the number of two thousand men, among the which, their Generall the Earle of 
+Ferrara
+
+
+was one.
+
+
+The eleauenth of March the towne of 
+Amyens
+ in 
+France
+ was by treason de∣liuered to the Cardinall for the King of 
+Spaine.
+
+
+The nineteene of August the towne of 
+Renisberg
+ by composition was yeel∣ded to the States.
+
+
+The twentie foure of August the 
+Cam∣mille
+ Sconce yeelded to Graue 
+Maurice.
+
+
+The second of September the towne of 
+Meurs
+ yeelded by composition vnto Graue 
+Maurice.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

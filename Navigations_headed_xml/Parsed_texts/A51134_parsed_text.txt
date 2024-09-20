@@ -1,0 +1,218 @@
+Whereas there is an accurate account and description of Ireland designed to be made publick in the English Atlas undertaken by Moses Pitt of London, and in order thereto, some gentlemen in Dublin have agreed to meet weekly for reviewing such an account, as shall from time to time come from under the pen of Mr. William Molyneux, as also to bring in some materials to the said description; this is earnestly to entreat all persons that they would be pleased freely to communicate their answers to these following quæries, or any of them, directing them to Mr. William Molyneux nigh Ormonds Gate in Dublin, or to any other of their acquaintance in Dublin that may communicate to them the said Mr. Molyneux, not forgetting to specifie in their letters the place of their habitation that they may be again written to if occasion requires.
+Molyneux, William, 1656-1698.
+Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-05 (EEBO-TCP Phase 1).
+A51134
+
+
+
+
+Wing M2407
+
+
+
+ESTC R214213
+
+
+
+
+
+99826419
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Whereas there is an accurate account and description of Ireland designed to be made publick in the English Atlas undertaken by Moses Pitt of London, and in order thereto, some gentlemen in Dublin have agreed to meet weekly for reviewing such an account, as shall from time to time come from under the pen of Mr. William Molyneux, as also to bring in some materials to the said description; this is earnestly to entreat all persons that they would be pleased freely to communicate their answers to these following quæries, or any of them, directing them to Mr. William Molyneux nigh Ormonds Gate in Dublin, or to any other of their acquaintance in Dublin that may communicate to them the said Mr. Molyneux, not forgetting to specifie in their letters the place of their habitation that they may be again written to if occasion requires.
+Molyneux, William, 1656-1698.
+1 sheet ([1] p.)   
+
+
+[Dublin :
+
+
+s.n.,
+
+
+1682]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Ireland --  Description and travels --  To 1700.
+2002-12
+TCP
+Assigned for keying and markup
+2003-01
+SPi Global
+Keyed and coded from ProQuest page images
+2003-02
+Mona Logarbo
+Sampled and proofread
+2003-02
+Mona Logarbo
+Text and markup reviewed and edited
+2003-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+M2407
+
+
+99826419
+
+
+30822
+
+
+
+
+
+
+
+
+
+
+
+
+WHereas there is an accurate Account and Description of 
+IRELAND
+ designed to be made Publick in the 
+English Atlas
+ undertaken by 
+Moses Pitt
+ of 
+London,
+ and in Order thereto▪ some Gentlemen in 
+Dublin
+ have agreed to meet weekly for reviewing such an Account, as shall from time to time come from under the Pen of Mr. 
+William Molyneux,
+ as also to bring in some Materials to the said Description; This is earnestly to entreat all Persons that they would be pleased freely to communicate their Answers to these following Quaeries, or any of them, Directing them to Mr. 
+William Molyneux
+ nigh 
+Ormonds Gate
+ in 
+Dublin,
+ or to any other of their Acquaintance in 
+Dublin
+ that may Commu∣nicate to them the said Mr. 
+Molyneux,
+ not forgetting to specifie in their Letters the place of their Habitation that they may be again written to if Occasion requires.
+
+
+
+
+Quaeries to which Answers are Desired for the Illustration of that part of the 
+English At∣las
+ relating to 
+Ireland.
+
+
+1 THe nature of the Soyl of the County, or place, and the Chief Product thereof.
+
+
+2 What Plants, Animals, Fruits, Mettals, or other Natural Productions there are peculiar to the Place, and how Order'd?
+
+
+3 What Springs, and Rivers, or Loughs, with the various Properties there∣of, as whether Medicinal, how replenish'd with Fish, whether Navi∣gable, Rapid, or Slow, 
+&c.
+
+
+4 What Curiosities of Art, or Nature, or Antiquity are or have bin found there?
+
+
+5 What Ports for Shipping, and their Description, and what Moon causes High Water?
+
+
+6 What great Battels have been there fought, or any other Memorable Action, or Accident?
+
+
+7 What peculiar Customs, Manners, or Dispositions the Inhabitants of each County, or Town have among them?
+
+
+8 How each County is Inhabited, thickly or thinly?
+
+
+9 What Places give, or formerly have given Title to any Noble-man; as also what Antient Seats of Noble Families are to be met with?
+
+
+10 What Towns of Note in the County, and especially Towns Corporate?
+
+
+11 The names of such Towns both Antique and Modern, 
+English
+ and 
+Irish,
+ and why so called?
+
+
+12 The Magistracy of Towns Corporate, and when Incorporated, and by whom built, with their return of Parliament Men?
+
+
+13 Trade of the Town, with the number of Houses, and Inhabitants, and man∣ner of Buildings.
+
+
+14 What Publick, or Antique Buildings?
+
+
+15 What Synods have been held there, what Monasteries, Cathedral, or other Churches are or have been there, and from what Saint named?
+
+
+16 In what Bishoprick each County or any part thereof is?
+
+
+
+
+
+
+
+
+
+
+
+
+This Paper may be had 
+Gratis
+ at the Shop of Mr. 
+Dudley Davis
+ Bookseller over against the 
+Rose Tavern
+ in 
+Castle-street, Dublin
+; Where is to be sold The Antient Usage in bearing Ensigns of Honour as are called Arms, with a Catalogue of the Present Nobility and Baronets of 
+England, Scotland,
+ and 
+Ireland
+▪ By Sir 
+William Dugdale
+ Knight, Garter Principle King at Arms. And by 
+Moses Pitt
+ at the 
+Angel
+ in St. 
+Pauls
+ Church-yard 
+London.
+
+
+It's Desired that Answers to these Queries may be given as to any other Country whatso∣ever.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,839 @@
+[The Jest of Sir Gawaine]
+Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A01564
+
+
+
+
+STC 11691A.3
+
+
+
+ESTC S2682
+
+
+
+
+
+ocm 24496328
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+[The Jest of Sir Gawaine]
+[4+] leaves.   
+
+
+[London] :
+
+
+Imprynted at London in Fletestrete at the sygne of Saynt Iohan euaugelyst [sic], by me Iohan Butler,
+
+
+[1528?]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+2014-01
+TCP
+Assigned for keying and markup
+2014-01
+SPi Global
+Keyed and coded from ProQuest page images
+2014-02
+Anne Simpson
+Sampled and proofread
+2014-02
+Anne Simpson
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+11691A.3
+
+
+S2682
+
+
+24496328
+
+
+27733
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ shall I wete yf he be a man
+
+
+o haue good daye
+
+
+e to the pauyl yon he rode
+
+
+we the mayden as she stode
+
+
+ was her brother gaye
+
+
+yght she sayd here cometh one
+
+
+he harde hym to ouer gone
+
+
+ now and se
+
+
+ 
+ wyll dure in fyght
+
+
+unte ye sawe neuer a better knyght
+
+
+ shall fynde hym sykerly
+
+
+ now my brother fyr Brandles
+
+
+arrefull flye ywys
+
+
+ you shall fynde
+
+
+e 
+ pastynge lyke a knyght
+
+
+ede ye shall fynde hym wyght
+
+
+er this lynde
+
+
+y
+ 
+a wayne he is full lyke
+
+
+ 
+ and to stryke
+
+
+ handes a man
+
+
+t or now this yeres thre
+
+
+e lyke a man to be
+
+
+d by saynt Iohan
+
+
+y
+ Brandles the knyght gay
+
+
+ hyghe and thus gan say
+
+
+e thou the cheuelere
+
+
+ hast he sayd on hyght
+
+
+ the wyll I fyght
+
+
+me thou shalte lere
+
+
+ done 
+e dyshououre grete
+
+
+ not now amendement gete
+
+
+
+
+Let me make amendes and you maye
+
+
+Or thou begyn this werke
+
+
+Syr and I haue ought mysdone
+
+
+Tell me and it shall he amended soone
+
+
+All gentylnesse to fulfyll
+
+
+I haue ben bestad today full fore
+
+
+Shame it were to preue me ony more
+
+
+But here I am at your wyll
+
+
+I wys quod Brandles that is sothe
+
+
+But I must nedes holde myne othe
+
+
+Thou hast done so yll
+
+
+My fader and my brederne thou hast beten bothe
+
+
+To accorde I were therof full lothe
+
+
+My worshyp to fulfyll
+
+
+Now sayd Gawayne syth it is so
+
+
+I must nedes me dryue therto
+
+
+This daye god lende me grace
+
+
+For my swerde shall do none aduantage
+
+
+Let vs se how well we can autrage
+
+
+If I may dure ought in this trace
+
+
+Gramer
+y sayd Brandles in good faye
+
+
+Now shall you se me make good playe
+
+
+Of knyghthode thou hast no pere
+
+
+I am ryght glad that thou hast myght
+
+
+But sory I am that we wante daye lyght
+
+
+But amended is mychere
+
+
+They fought togyder these knyghtes good
+
+
+Thrugh the haburgeons ranne the reed blood
+
+
+That pyte it was tose
+
+
+They fought togyder with suche yre
+
+
+That after fl
+med out the f
+
+
+
+
+e boughe in his hande he dyde brynge
+
+
+ge on a Ioly coursere
+
+
+se was trapped in reed veluet
+
+
+uches of golde theron was set
+
+
+ghthode he had nopere
+
+
+is horse was armed before
+
+
+ed and the brest and no more
+
+
+fyne stele
+
+
+e was armed passynge sure
+
+
+ that wolde strokes endure
+
+
+ 
+e proued ryght we
+e
+
+
+yght bare on his heed a pomell 
+aye
+
+
+ge on his horse stertynge out of y
+e
+ waye
+
+
+s he came aboute
+
+
+ he had that was of renowne
+
+
+ thee in a blacke fawcowne
+
+
+e was of syluer without
+
+
+ his hande a spere he bare
+
+
+ stronge and longe I make you ware
+
+
+ trusty tree
+
+
+ was an heed theron of stele wrought
+
+
+este that myght be made or bought
+
+
+ell assayed had be
+
+
+ of pleasaunce a ke
+che yf honge
+
+
+ it was more than thre elles longe
+
+
+dred all with golde
+
+
+ as a knyght of large and lengthe
+
+
+oued well of moche strengthe
+
+
+ hym who so wolde
+
+
+ of golde also he had on
+
+
+
+
+She hath caused to daye moche shame parde
+
+
+It is pyte she hath her syght
+
+
+Syr knyght sayd syr Gawayne haue good daye
+
+
+For on fote I haue a longe waye
+
+
+n horse were me wonder dere
+
+
+Somtyme good horses I haue good wone
+
+
+But now on fote nedes must I gone
+
+
+God in hast amende my chere
+
+
+Syr Gawayne was armed passynge heuy
+
+
+On fote myght he not endure truely
+
+
+His knyfe he toke in honde
+
+
+His armoure good he cut hym fro
+
+
+Elles on fore myght he not go
+
+
+Thus with care was he bonde
+
+
+¶ Leue we now syr Gawayne in wo
+
+
+And speke we more of syr Brandles tho
+
+
+Whan he with his syster met
+
+
+He sayd fye on the harlot stronge
+
+
+It is pyte that thou lyuest so longe
+
+
+Strypes harde I wyll the set
+
+
+And bete the bothe backe and syde
+
+
+And than wolde he not abyde
+
+
+But to his fader streyte he wente
+
+
+Than he axed hym how he fared
+
+
+He sayd sone for the haue I cared
+
+
+I wende that thou haddest ben shente
+
+
+Brandles fayd I haue bete my systere
+
+
+And the knyght I made hym swere
+
+
+ we mete agayne
+
+
+ togyder fyght
+
+
+
+
+Tyll at the laste they wanted lyght
+
+
+They wyst not what to done
+
+
+Than sayd syr Brandles that knyght so gaye
+
+
+Syr knyght we wante lyght of the daye
+
+
+Therfore I make my mone
+
+
+If we fyght thus in the derke togyder
+
+
+Thrugh myshap the one myght fle the other
+
+
+And therfore by myne assente
+
+
+Let vs swere on our swerdes bothe
+
+
+Where that we mete for lefe or lothe
+
+
+If that we mete in presente
+
+
+And neuer leue the batayle tyll the one be slayne
+
+
+I assent me therto than sayd Gawayne
+
+
+And ye wyll that it so be
+
+
+Thus sayd syr Brandles I maye none other do
+
+
+For suche promyse I made my fader vnto
+
+
+Therfore this othe make we
+
+
+I wote that there is no stroke y
+t
+ thou gyuest me
+
+
+But I haue quyt it sykerly
+
+
+And thou arte not in my det
+
+
+Full large of lyuerye thou arte syr knyght
+
+
+Neuer none dyde preue so well my myght
+
+
+We ben euen as we met
+
+
+Let vs make an othe on our swerdes here
+
+
+In what place we mete ferre or nere
+
+
+Euen there as eyther other may fynde
+
+
+Euen so we shall do the batayle vtterly
+
+
+I holde sayd Gawayne by mylde mary
+
+
+And thus we make an ende
+
+
+S
+r Gamayne take 
+ his swerde than
+
+
+
+
+Whan he all sawe he sayd alas
+
+
+This is euyll tydyngr
+
+
+Whan he sawe his fader all blody
+
+
+And his .ii. bretherne hurte full sykerly
+
+
+Alas sayd Brandles than
+
+
+Who hath done you suche a dyspyte
+
+
+Tell me in hast that I may hym quyte
+
+
+For myne herte is wo begone
+
+
+Then sayd the fader sone I shall the tell
+
+
+All this hathe done a knyght full fell
+
+
+And layne by thy syster also
+
+
+He bet me fyrste and sythe them all
+
+
+And made vs swere that we ne shall
+
+
+This day do hym no wo
+
+
+Now quod Brandles this is ylle come
+
+
+I ensure you by my holy dome
+
+
+I shall proue his myght
+
+
+Were he as stronge as Sampson was
+
+
+In faty he shall I neuer frome hympas
+
+
+Tyll the one of vs to dethe be dyght
+
+
+Ye loue Brendles thou shalte not so
+
+
+Though he haue done wronge let hymg
+
+
+The knyght is passynge sure
+
+
+I wyll not for more than I wyll sayne
+
+
+Se the syr Brandles there slayne
+
+
+For I warrante the he wyll endure
+
+
+The knyght is stronge and well fyght
+
+
+And whan he hath in his hande a man
+
+
+He wyll do hym no yl
+
+
+But 
+entyll wordes speke agayne
+
+
+
+
+And eche of them helped other
+
+
+As well as they myght go
+
+
+Than the lady gate her awaye
+
+
+They sawe her neuer after that daye
+
+
+She wente wandrynge to and fro
+
+
+Also syr Gawayne in his party
+
+
+On fote he wente full weryly
+
+
+Tyll he to the courte came home
+
+
+All his aduenture he shewed the kynge
+
+
+That with those .iiii. knyghtes he had fyghtyng
+
+
+And eche after other alone
+
+
+After that tyme they neuer met more
+
+
+Full glad were these partyes therfore
+
+
+So was there made the ende
+
+
+I praye god gyue vs all good reste
+
+
+And those that haue harde this lytell geste
+
+
+And in hye heuen for to be dwellynge
+
+
+And that we all vpon domes daye
+
+
+Come to the blysse that lasteth a ye
+
+
+Where we maye here the aungelles synge
+
+
+
+
+
+
+¶ Imprynted at London in Fletestrete at the sygne of saynt Iohan euaugelyst
+ by me Iohan Butler.
+
+
+
+
+
+
+
+
+Of knyghthode thou haste no felowe
+
+
+On my faythe I ensure the
+
+
+Nowe quod Gawayne let hym be
+
+
+And syr knyght make one othe to me
+
+
+That this daye thou do me no greue
+
+
+And thou shalte passe from me all quyte
+
+
+Where as is nowe thy moost delyte
+
+
+Without ony more reprefe
+
+
+Syr Terry sayd therto I graunte
+
+
+Fare well nowe god be thy warraunte
+
+
+Full mekely he wente on fote
+
+
+He lefte neuer tyll he came there
+
+
+Where his fader and syr Gyamoure were
+
+
+That carefull hertes had god wote
+
+
+Than spake syr Gyamoure his yongest bro
+
+
+Syr thou hast goten as we haue and none
+
+
+That knewe I well it sholde so be
+
+
+By god sayd syr Terry so nowe it is
+
+
+He is a deuyll forsothe Iwys
+
+
+And that is preued on me
+
+
+Ye quod syr Gylberde that erle olde
+
+
+He is a knyght bothe stronge and bolde
+
+
+And fortune is his frende
+
+
+My d
+ughters loue he clene wan
+
+
+Therfore I dare well saye he is a man
+
+
+And mykell worse than I wende
+
+
+As they thre stode thus talk ynge
+
+
+They herde a man full lowde synge
+
+
+That all the wode ronge
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1394 @@
+The capitulations and articles of peace betweene the Majestie of the King of England, Scotland, France, & Ireland, &c., and the Sultan of the Ottoman Empire as they have beene augmented, & altered in the times of every embassadour : and as now lately in the city of Adrianople in the month of January 1661 they have beene augmented, renewed, & amplifyed with diverse additionall articles, & priviledges, which serve towards the maintenance of a well grounded peace, &  securities of the trade, & trafficke of His Majesties subjects in the Levant by His Excellency Heneage Earle of VVinchilsea Embassadour Extraordinary from His Majestie Charles the Second, King of Great Brittaine, France, & Ireland to Sulton Mahomet Han the Most Puissant Prince, & Emperour of the Turkes : set forth, and published by Paul Ricaut, Esquire, Secretary to his Excellencie the Lord Embassadour.
+Treaties, etc. Turkey, 1662 Jan.
+England and Wales.
+Approx. 67 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A32195
+
+
+
+
+Wing C2930
+
+
+
+ESTC R8505
+
+
+
+
+
+ocm 12924360
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The capitulations and articles of peace betweene the Majestie of the King of England, Scotland, France, & Ireland, &c., and the Sultan of the Ottoman Empire as they have beene augmented, & altered in the times of every embassadour : and as now lately in the city of Adrianople in the month of January 1661 they have beene augmented, renewed, & amplifyed with diverse additionall articles, & priviledges, which serve towards the maintenance of a well grounded peace, &  securities of the trade, & trafficke of His Majesties subjects in the Levant by His Excellency Heneage Earle of VVinchilsea Embassadour Extraordinary from His Majestie Charles the Second, King of Great Brittaine, France, & Ireland to Sulton Mahomet Han the Most Puissant Prince, & Emperour of the Turkes : set forth, and published by Paul Ricaut, Esquire, Secretary to his Excellencie the Lord Embassadour.
+Treaties, etc. Turkey, 1662 Jan.
+England and Wales.
+Turkey. Treaties, etc. England and Wales, 1662 Jan.
+[2], 5-21 p.   
+
+
+Printed at Constantinople :
+
+
+by Abraham Gabai ...,
+
+
+1663.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Great Britain --  Commerce --  Turkey.
+Turkey --  Commerce --  Great Britain.
+2013-08
+TCP
+Assigned for keying and markup
+2013-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-11
+Enrique Valdive
+Sampled and proofread
+2013-11
+Enrique Valdive
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+C2930
+
+
+R8505
+
+
+12924360
+
+
+95442
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE CAPITVLATIONS AND ARTICLES Of peace betvveene the MAIESTIE of the KING OF EN∣GLAND, SCOTLAND, FRANCE, & IRELAND &c. And the SVLTAN of the OTTOMAN EMPIRE, as they haue beene augmented, & altered in the times of euery Embassadour: And as novv lately in the City of Adrianople in the month of Ianuary 1661 they haue beene augmented, renevved, & amplifyed vvith diuerse additionall articles, & priuiledges, vvhich serue tovvards the maintenance of a vvell grounded Peace, 
+ securitie of the trade, & trafficke of his Maiesties subiects in the Leuant, by his Excellency HENEAGE EARLE OF VVINCHILSEA Embassadour Extraordinary from his MAIESTIE CHARLES THE SECOND KING OF GREAT BRITTAINE, FRANCE, & IRELAND to SVLTAN MAHOMET HAN the Most Puislant PRINCE, & EMPEROVR of the TVRKES.
+
+
+Set forth, & Published by PAVL RICAVT Esquire Secretary to his Exc llencie the Lord Embassadour.
+
+
+Licensed by his EXCELLENCIES speciall Order.
+
+
+Printed at CONSTANTINOPLE by Abraham Gabai chaf nahat. in the yeare of our Lord 1663.
+
+
+
+
+
+
+
+
+
+
+THE EPISTLE DEDICATORY TO THE RIGHT VVORSP.
+LL
+ S
+R
+ ANDREVV RICCARD GOVERNOVR, THE DEPVTIE, & ASSISTANTS OF THE COMPANIE OF MERCHANTS TRADING IN THE LEVANT SEAS.
+
+
+RIGHT VVORSP.
+LL
+ S
+R
+ & S
+RS
+
+
+Hauing beene often sollicited by the Consuls of the seuerall Factories in Tur
+y, & by other priuate merchants my esteemed friends, for true coppies of the Capitulations, vvee haue vvith the Grand Sig. as they vvere last renevved, & enlarged vvith aduantagious additions, & priuiledges by his Excellencie the Earle of vvinchilsea Our present Lord Ambassadour; I apprehen∣ded that printing some coppies thereof, vvould excuse mee from a greater paines, then transcribing so many vvould bee, as might satisfy my friends, & vvould serue for a good light, & information to euery member concerned in the Leuant trade, of the true extent of the articles vvee hold vvith the Turkish Empire, that so they may neither omit to take those aduantages in their trade, vvhich Our Capitulations allovv, nor ignorantly con∣fiding to vvhat vvas neuer granted, & agreed, runne into those errours, vvhich your com̄on purse hath so often been forced to rectify, & repaire.
+
+
+These Capitulations, or articles of peace first opened our traffick vvith the Turkes in the Reign of Queene Elizabeth, about 80 yeares past, & since haue beene explained, & enlarged in the time of allmost euery Ambassadour vvith such alterations, as the state of affaires, & the abuses, & iniquitie of the times suggested: And yet all the uigilance, & caution of the many vvise, & resolute Mi∣nisters,
+
+ that haue acted in his Embasse, could neuer (nor neuer vvill) bee able to prouide those prudent remedies, that may bee proofe, & a guard impregnable against the pretences, & uiolence o
+ the Turkish auarice. The present 
+mbassadour, my most estee∣med Lord (vvhom I haue the honour to serue as Secretary of his ovv
+, & the af
+aires of your Right VVorshipfull societie) hath contributed an affectuall addition to this vvorke, vvhich by a
+uice, & information from all the Factories in Turky of their respectiue agreiuances, is as amply co
+firmed, as the hand, & authoritie of the Emperour, & lavv of nations can establish: to vvhich proposalls tendered by the merc
+ants, the vvarre then hot vvith Algier, occasioned his Excellencie to insert o
+her cau∣tions, against the pyracies of Barbarie, vvhen at Adrianople hee encountred the messengers, that broug
+ complaints of the assault his Maies
+ies Fleet against the Capi
+latio
+, & Articles of peace had made upon the Gra
+d Signors to vv
+e of Algier, to vvhich al∣legations, his 
+xcellencie made those prudent rep
+ies, that neither the priuiledge of their Sect, nor their late presents, nor relation as subiects, could prevaile to afford them matter of fauour, or counten
+nce: And at hovv easy, & cheap a rate your threa
+ned es
+ates vvere then protected, the accounts sen
+ you home vvill iustify: & the inconsiderable Auances that haue happened since his arriuall, are a testimonie of the great vvisdome, & care of his Excellency; That if it please God, to con inue the same successe to him, in the remainde
+ of his time, bles
+ed vvith the present flo
+rishing estate of your trade, his returne may bee celebrated vvi
+h the same, & glory of the most happy, & fortunate of Embassadours.
+
+
+These Capitulations being thus compleated, to vvhich nothing can at present, bee thought or, to make more, perfect, 
+or no oppress
+on imaginable, vvhich 
+eet
+ not a prohibition herein, untill the ma
+itious inuention of the Turkes (vvhich is ingenious in nothing but in matters of their intere
+) espy some unarmed part, in vvhich to vv
+rd Vs: It is the vvi
+dome, 
+igilance, & reso u
+ion of the Embas adour to maintaine them in reuerence, & obseruation: in vvhich that course, & method is to bee taken, as is not practised in the Courts of Christendome, & is of that different forme, in matte
+ & proceeding, as vvill render an experi∣enced Minister in the treaties of other countries a Nouice in this, untill ti
+e & conuersa
+ion hath instructed him in a nevv science & unacq
+inted Maximes of State, & policie.
+
+
+The Capitulations the Grand Sig.
+r
+ giues to us, & other Christians tha
+ t
+ff ck vvith 
+im, are (in my opinion) of an other nature & forme, then articles of peace are usuall to bee betvveene tvvo
+
+ nations; for hee requires no counterpart from his Maiestie, vvhe∣reby to oblige him to performe the 
+ame conditions vvith him∣self, but as if hee needed, & expected nothing from the English conferres on them seuerall Imperiall im̄unities, & priuiledges, as his Charter, & Acts of grace, vvithout demand of any returnes vvhich hee accounts as a diminution to his all containing Maiesty to bee needfull, or vvanting of. And this p
+ide, is 
+o naturall to the Turkes, & so necessary to bee flattered by those, vvho vvould maintaine the intercourse of peace, & trafficke vvi h them, that it is no meane Art to knovv vv
+ll, how to nourish, & d
+lly vvi
+h their barbarous humour. But it is beyond, I must confesse, my capacitie, to bee more, then superficially acquainted vvith these mysteries, it is for my Lord, to bee Master, & profoundly uersed in them; vvho knovves the times, both to threaten, & to flatter, & vvhen vvith resolute vvords, or soft speeches to dispearse, & calme those stormes, vvhich vvee vvho liue, under the arbitrary vvill of Tyrants, doe often foresee, & yet dissolue, before the fury reach, & arriue you. This is the care, & study of his Excel∣lencie, vvho hath many times occasion to bee more tender of your safetie, then his ovvne, & to interpose himself, & his, betvveene you, & the barbarous rage. And vvhen I, vvho am one of the meanest of those concerned in your interest, 
+an bee of seruice, & 
+se to the publick benefit of the Right vvors∣hipfull societie, I shall thinke my life too meane a sacrifice to o
+fer to you; for hauing receiued so many obligations from your vvorships & testimonies of your bountie, I iudge my self for euer bound to subscribe my self.
+
+
+Right VVorshipfull
+
+
+Your VVorships most faithfull & most deuoted Seruant PAVL RICAVT
+
+
+
+
+
+
+
+
+THE PRINTER TO THE READER. 
+
+
+COVRTEOVS READER
+
+
+If in perusing these follovving Capitulations you find some fevv letters misplaced, or the letter VV not so neatly formed, as vvere to bee vvished, attribute the fault neither to the Printer, nor Correctour: for the presse at Constantinople being but sildo∣me employed, is not furnished vvith the uarietie of those letters, vvhich are only propper to northern languages, amongst vvhich the VV is of speciall use; to supply vvhich defect, I haue beene forced to imitate that letter as vvell as I could beyond my ovvne art, & profession. And if any other letters are let slip, it vvas in time of the Correctours urgent auocation to other employments vvhich permitted him not to bee so accurate, & attentiue here∣unto as hee desired. And so hoping you vvill pardon, vvhat slight errours you may possibly meet vvith herein I remaine.
+
+
+Yours at Com̄and ABRAHAM GABAI Chaf Nabat
+
+
+
+
+
+
+
+
+
+
+
+
+ACCORDING TO My IMPERIALL COMMAND LET IT BEE OBSERVED, & LET NO ACT BEE PER∣MITTED CONTRARIE HEREVNTO.
+
+
+MAHOMET
+
+
+The Command Of This Sublime, & Lofty, & Imperiall Signa∣ture Preserued, & Exalted By Diuine Prouidence, vvhose Triumph And Glorie is renovvned through all the vvorld:
+
+
+By the fauour of the Nourisher of all things, & mercy & grace o
+ the Mercifull, I that am the povverfull Lord of Lords of the vvorld vvhose name is formidable upon earth Giu
+r of all Crovvnes of the Vniuerse, Sultan MAHOMET Han Son
+e of Sultan IBRAHIM Han, Sonne of Sultan AHMET Han, Sonne of Sultan MAHOMET Han, Sonne of Sultan MVRAT Han, Son
+e of Sultan SE
+IM Han, Sonne of Sultan SVLIMAN Han, Sonne of Sultan SELIM Han.
+
+
+To the glorious amongst the Great Princes of Iesus reuerenced by the high Potentates of the people of the Messiah Sole Direc∣tour of the Inportant a faires of the nazarene Nation, Lord 
+f the limits of decencie, & honour of greatnesse, & 
+ame, Charles the Second King of England, & Scotland, that is of 
+reat Brittai∣ne, France, & Ireland, vvhose end, & enterprises may the Omni∣po
+ent God conclud
+ vvith blisse, & fauour vvith the ill
+i∣nation of his holy vvill.
+
+
+
+
+In times past the Queene of the aforesaid Kingdomes, sent diuer∣se of her esteemed Gentlemen & persons of qualitie, vvith letters & shipps, to this Imperiall High Port (the refuge of the Princes of the vvorld, & the retreat of the Kings of the vvhole Vniuerse) in the happy times of famous memorie of my Ancestours, novv pla∣ced in Paradise, vvhose soules bee replenished vvith deuine mercy vvhich Gentlemen & presents vvere gratefully accepted, ma
+ing declaration, & offering in the name of the said Queene an entire good peace & pure friendship, & demanding that their subiects might haue leaue to come from England into our Ports our said Ancestours of happy memory did then grant their Imperial licen∣ce, & gaue into the hands of the English nation diuerse especiall & Imperiall Comands, to the end that they might safely, & secu∣rely come, & goe into these dominions, & in coming or returni∣ng either by land, or Sea, in their vvay, & passage, that they sho∣uld of no man bee molested, or hindered. After vvhich time in the dayes of our Grand father Sultan MAHOMETH an of famous memorie (unto vvhose soule bee granted diuine absolution) it being anevv desired that the subiects, merchants, & theit Inter∣preters might freely, & securely come, merchandize, & negotia∣te through all the parts of this Imperiall dominion, & that such capitulations, & other priuiledges, & Imperiall comands, as had beene granted unto 
+he nation of the Kings, & Princes in peace, & amitie, vvith this High Port, as France, Venice, Poland & others, might also bee granted to the subiects of the said Queene, & all others coming under the English banner In confirmation of vvhich request, vvere giuen, & confirmed by our Ancestours of famous memory the Imperiall Capitulations, & priuiledges succeeding to say It is comanded &c.
+
+
+
+
+I
+
+
+First that the said Nation, & the English merchants, & any other nation, or merchants vvhich are or shall come under the English banner, & protection, vvith their ships small, & great merchan∣dize, faculties, & all other their goods, may allvvayes passe safe in our seas, & f
+eely & in all securitie may come, & goe into any part of the Imperiall limits of our dominions in such sort that neither any of the nation, their goods, & faculties shall receiue any hinderance, or molestation from any person vvhatsoeuer.
+
+
+
+
+
+
+II
+
+
+The said nation shall, & may in like manner freely, & securely come, & goe by land through all the imperiall limits of our do∣minions, so that neither to their persons, beasts goodes, or faculties, shall any trouble, or impediment bee giuen, nor any iniurie bee done unto them but they shall allvvayes at their ovvne pleasures safely, & securely traffick in all parts of our dominions.
+
+
+
+
+
+
+
+
+III
+
+
+And if it happen that any of the said nation coming into our dominions by land, or passing into any other country shall bee stayed, or arrested by any of our ministers such persons shall bee set free, & at libertie, & aftervvards shall receiue no hinde∣rance in his iourny.
+
+
+
+
+
+
+IIII
+
+
+All English ships, or uessells, small, or great shall, & may at any time safely, & securely come, & harbour in any of the scales, & ports of our dominions, & likevvise may from thence depart at their pleasure vvithout the detention or hinderance of any man.
+
+
+
+
+
+
+V
+
+
+And if it shall happen that any English Vessell great, or small, fall into any misfortune, danger of sea, or any other necessitie, all the Vessells as vvell Imperiall, as belonging to priuate men that shall bee neere, or present, as also all others that in habit the seas, thall giue them help, & succour, & being come into our Ports or scales they shall freely stay in them as long as they please, & for their mony prouide for them of all necessaries, & prouision, & may take vvater vvithout the let, or hinderance of any man
+
+
+
+
+
+
+VI
+
+
+And if it shall happen that any of their shipps shall haue suffered shipvvracke, or beene broken, or in distresse, shall bee cast Vpon any coast of our dominions In vvhich case all Beglarbeggs, Caddees Gouernours, ministers, & other our slaues, shal giue them all assistance, succour, & help; & vvhatsoeuer goods, & fa∣culties shall bee saued, or recouered in the said ships shall b
+e re∣stored to the English & if they shall bee informed that any part of their goods, & faculties shall bee stoalen, or taken avvay, our said ministers vvith all diligence shal make sufficient search, & examination to find out, & recouer the goods, & restore them to the English.
+
+
+
+
+
+
+VII
+
+
+T
+ English merchants, Interpreters brokers & all other subiects of that nation, vvhether by sea or land may freely, & safely come, & goe in all the Ports of our dominions, or returning into their ovvne contreyj all our Beglerbeges, ministers, Gouer∣nours, & others officers, Captaines by sea of ships, & others vvhom soeuer our slaues, & subiects, vvee comand, that none of them doe, or shall lay hands upon their persons, or faculties, or upon any pretence shall doe them any hinderance or iniurie.
+
+
+
+
+
+
+VIII
+
+
+If any English man either for his ovvne debt, or for suretie: ship shall absent himself, or make escape avvay, or shall bee ban∣kerupt the creditour shall only pretend his debt upon his ovvne debtor, & not of any other English; And if the Creditour haue not authentique Hoget or bill of suretieship made by an English
+
+ man, hee shall not pretend his debt of any other English man.
+
+
+
+
+
+
+VIIII
+
+
+In all causes, businesses, & occasions, vvhich shall occurre betvve∣ene the said nation, their merchants, Interpreters, & brokers, or seruants, & any other vvhat soeuer, that is to say, In selling, or buying in paying, or receiuing, in giuing, or taking securitie, or pledge, debt, or credit, & all other such things vvhich appertaine to the ministers of the lavv, & iustice, they may allvvayes (if they please) in such occasions goe to the Caddee, vvho is the Iudge of the lavv, & there make a Hoget or publicke authentique Act vvith vvitnesse, & register the same, & take a coppie of the same to keep by them, to the end that if in the future any difference, or pretence thall arise be
+vveene the said parties, they may both haue a recourse to the said Hoget, & Act. And vvhen the pretence shall bee conformable to the tenour of the Hoge registred, then it shall bee accordingly thereunto obserued: And if the Plain∣tiffe hath not in his hands any such au
+henticke Hoget, but only bri
+geth partiall vvittnesse, vvhich makes cauills, or p
+etences our ministers shall not giue eare to them, but obserue the vvritten authentique Hoget.
+
+
+
+
+
+
+X
+
+
+And if any one vvithin our dominions shall accuse any English man to haue done him vvrong & shall therefore raise any preten∣ce Vpon him, by Violent or partial vvittnesse, our ministers shall not giue eare Vnto them, nor accept them, but the cause shall bee aduised to the Embassad. or Consul Resident of the English nation, to the end that the businesse may bee decided vvith his knovvledge, & in his presence, that the English may allvvayes haue recourse to their defence, & protection.
+
+
+
+
+
+
+XI
+
+
+If any English man hauing comitted an offence shall make his escape, or absent himself, no other Englishman not being pled∣ge, shall bee taken, or molested for him.
+
+
+
+
+
+
+XII
+
+
+All Englishmen, or subiects of England, vvhich shall bee found slaues in our state, or shall bee demanded by the Embassadour, or Consul, the cause shall bee duly examined, & such persons as are fo
+nd, truly to bee subiects of England, shall bee set free, & deliuered to the Embassadour, or consul.
+
+
+
+
+
+
+XIII
+
+
+All English men, & all other subiects of the crovvne of England, vvhich shall 
+ell, or reside in ou
+ dominions, vvhether they bee married, o single 
+y buy, sell, & trafficke, & of them shall no harach or head m
+, bee demanded.
+
+
+
+
+
+
+XIIII
+
+
+The English Emba
+sadour, Resident, In Aleppo, Alexandria,
+
+ Tripoli of Suria, or Tunis, Algier, Tripoli of Barbarie, in Smyrna, the ports of Caire, or any other parts of our dominions, may at their pleasure establish their Consuls, & in like manner remo∣
+e them, or change, & appoint others in their places, & none of our ministers, shall oppose, or refuse to accept them.
+
+
+
+
+
+
+XV
+
+
+In all causes concerning, lavv & iustice betvveene the English na∣tion, & any other, in the absence of their Interpreters, the Iudges, nor any other of our ministers, shall not proceed to giue sentence.
+
+
+
+
+
+
+XVI
+
+
+If 
+heir happen any controuersie amongst themselues, the deci∣sion thereof, shall bee vvholy left to their ov
+ne Embassadour or Consul, according to their ovvne right, & lavves & vvith no such causes our ministers shall in
+ermedle.
+
+
+
+
+
+
+XVII
+
+
+Our Armada of gallies, ships, or a
+y other uessells of our Empire. VVhich a sea meet, or find any English ship they shall not doe them, nor suffer to bee done to them the least iniurie, or trouble nor shall they stay them, demand, pretend, or take any thing from them, but shall salu
+e, & shevv good, & mutuall friend ship the one to the other vvithout of
+ence.
+
+
+
+
+
+
+XVIII
+
+
+All these particular Priuiledges, & Capitulations, vvhich in for∣mer times haue beene granted to the french, Venetians, or any other Christian nation. VVhose King is in peace, & friendship vvith this Port in like manner the same vvere granted, & giuen to the said English nation, to the end that in time to come, the tenour of this our imperiall Capitulations may bee allvvayes obserued by all men & that none may in any manner upon any pretence presume to contradict, or uiolate it.
+
+
+
+
+
+
+XIX
+
+
+If the pyrates or I euerts vvho i
+fest the seas vvith their frega∣tes, shall bee found to haue ta
+en any 
+nglish ues
+ell, or to haue robbed, or spoyled their goods, & facul
+ies, also if it shall bee found, that in any of our dominions, any shall haue uiolently taken goods of any English man our ministers shall vvith all diligence seeke out such Offendours, & seuerely punish them, & cause that all such goods, ships, monyes, & vvhatsoeuer hath beene taken vvay fr
+m the E
+glish nation, shall bee presently, iustly & absolutely restored to them
+
+
+
+
+
+
+XX
+
+
+All our Beglerbeges, Beges, Captaines, masters of Imperiall ships, & other priuate Iudges, Gouernours, Cu
+tomers, 
+armers & all our ministers, subiects, & s
+aues, shal allvvayes, obey & 
+eep the t
+ou
+ of these our 
+vvoa
+e Capitulations, & shall vvith all obseruance, respect the friendship, & good correspon∣dence,
+
+ established on both parties, euery one in particular taking especiall care, not to com̄it any Act contrary thereunto And as long as the said Queene of England according to this present agreement of sincere friendeship, & good corrspon∣dence shall shevv herself, & remaine vvith Vs, in peace, friend¦ship, & league, firme, constant, & sincere, vvee doe promise also on our parts reciprocally, that this peace, frindship Articles Capitulations, & correspondence in the fore vvritten forme shall bee for euer of Vs maintained, obserued, & respected, & of no man any part thereof shall bee contradicted, or infringed all vvhich aboue mentioned Articles of peace, & friendship vvere concluded, signed, & an Imperiall Capitulation granted & confirmed by our Ancestors of happy memorie.
+
+
+Since vvhich time his Ma.
+tie
+ of England Iames deceased in the time of our Grand father of happy memorie Sultan ACHMET Han hauing sent unto our Imperiall throne, is Embassadours, letters, & presents vvhich vvere most acceptable, And desired that the all∣ready contracted peace, & friendship, & good correspondence ma∣de vvith our Grand fathers, & the Capitulations, Articles, And pri∣uiledges aboue vvritten, should bee againe ratifyed, & the said peace, & friendship renevved, Farther requesting that certaine Articles uery necessarie should to the same Capitulations bee added, The desire of his Maiestie being declared in the Imperiall presence of our said Gran father Sultan ACHMET Han, vvas presentlie granted: And hee gaue expresse com̄and, and order that the said peace, & friendship should bee renevved, & fortifyed & the antient Capitulations, & priuiledges confirmed, & that the nevv desired articles should bee inserted, & added to the Imperiall Capitulations. Granting farther to the English nation all those Articles & farther priuiledges vvhich vvere giuen, & vvritten in any Capitulations vvith other nations, Potentates or Kings in peace, & amitie vvith this Imperiall Port: & by this Imperiall com̄and bee gaue order that these his Imperiall com̄ands, should bee obeyed of all men, & the tenour of them dulie obserued The articles vvhich then were granted, & added to the Capitulations vvere these follovving.
+
+
+
+
+
+
+XXI
+
+
+That our Ministers shall not demand, or take of the said English Nation any costume, or other duties of all the dollars, che∣queens, they or any under their banner, shall bring in, or trans∣port from place to place, or carry out of our dominions, & that nether Beglerbeges, Beyes, Caddees Treasurers, Mint Masters, or other, shall take, & demand, either dollars, or chequeens from the said nation to change them into small aspres, nor shall giue, or doe them any uiolence or trouble there upon.
+
+
+
+
+
+
+
+
+XXII
+
+
+The English Nation, & all those that come Vnder their banner, their Vessells small, & great, shall & may nauigate, traffick, buy sell, & abide in all parts of our Dominions, & excepting Armes, Gun povvder, & other such prohibited com̄odities, they may loa∣de, & carry avvay in their ships vvhatsoeuer of our merchan∣dizes at their ovvne pleasure, vvithout the impeachment or trouble of any man, & their ships, & Vessells may come safelie, & securelie to anchor at all times, & traffick at all times in euerie part of our dominions, & vvith their monie buy Victualls & all other things vvithout any contradiction, or hin∣derance of any man.
+
+
+
+
+
+
+XXIII
+
+
+And if any difference, shall happen vvith any of the said English Nation, by suite in lavv, or any other controuersie, the Caddees, or any other ministers of our Iustice, shall not heare, nor decide the cause, untill the Embassadour, Consul, or Dru∣ggerman of the said nation shall bee present.
+
+
+
+
+
+
+XXIIII
+
+
+All difference, or suites of lavv depending vvith the said nation vvhich shall exceed the ualue of 4000 aspers, shall allvvayes bee heard, & decided at our Imperiall Port.
+
+
+
+
+
+
+XXV
+
+
+The English Nations Consul, or Resident in any port of our dominions being established by the Embassadour Resident for the English Nation, our ministers shall haue no povver to impri∣son or examine, or seale up their houses, nor to dismisse or displace them from their charge, & office, but in case of any difference, or suite vvith the Consul, there shall bee made a certificate to the Imperiall Port, to the end that the Embassadour may protect, & ansvver for them.
+
+
+
+
+
+
+XXVI
+
+
+VVhen any Englishman, or other under their banner shall die in our dominions, vvith their goods or faculties, or any thing that belonged unto them our Escheators. Caddees, or other minis∣ters upon pretence they are goods of the dead vvithout any ovvner, shall not medle, take, or seize any part thereof but they shall allvvayes bee consigned, & remaining to such other English, as the deceasd shall by his testament assigne, & if hee died intestate, then the English Consul shall take, & receiue his faculties, & goods, & if there bee no Consul, the English Resident there shall take the possession, & in case there bee neither Consul, nor English, the said goods & faculties vvhatsoeuer shall bee receiued into the Custodie of the Caddee of that place, & hauing aduised the english Embassadour there of the said caddee shall resigne all the said goods, Vnto such persons as the
+
+ Embassadour shall send vvith com̄ission to receiue them.
+
+
+
+
+
+
+XXVII
+
+
+All these Priuiledges, & other liberties granted to the English Nation, & those vvho come Vnder their protection by diuerse Imperiall com̄ands vvhether before, or after the date of these Imperial Capitulations, shall bee allvvayes obeyed, & obser∣ued, & shall allvvayes bee understood, & interpreted in fauour of the English nation, according to the tenour, & true con∣tents thereof.
+
+
+
+
+
+
+XXVIII
+
+
+Neither the Officer called the Cassam or gatherer of the Caddees duties in case of death, nor the Caddee shall pretend, or take of the said English nation, any kind of tenths, or Casmetts or fee of diuision.
+
+
+
+
+
+
+X VIIII
+
+
+The Embassadour of the King of England, or Consul residing in our dominions, shall & may take into their seruice any Ianizary, or Interpreter at their ovvne charge, & choice & no Ianizatie nor other our slaues, shall put them selues or intermedle vvith their seruice against their liking, or consent.
+
+
+
+
+
+
+XXX
+
+
+The Embassadour of his Ma.
+tie
+ of England, & Consul, & the English Nation residing in our Empire, 
+or the use of their ovvne persons & famili
+s making must, or vvine in their ovvne houses, none of our ministers, Caddees, or Ianizaries, shall molest, or hinder them, or demand any duties, or mony, or doe them any uiolence, or impediment.
+
+
+
+
+
+
+XXXI
+
+
+In the Port of Constantinople Aleppo Alexandria, Scio Smirna, & in other parts of our domi
+ions, the E
+glish merchants hauing pa
+ the custome of their merchandize 
+ccording to the teno
+r of the Imperiall Capitula ions, no man shall molest, or t
+ouble, or take from them any thing more & vvhatsoeuer merchandize shall bee loaden Vpon their ships, & brought in our dominions, & landed at any Scale, they being desirous to lade it againe, & to transport it to any other Scale, or Port, the same goods arri∣uing in the second place, & Scale, & being there unladen, neither the Customer, nor Farmers, nor any other our officers sh
+ll pretend, or take againe any Cus
+omes, or Gabells of the said merchandize, that th said nation may allvvayes freely, & securely trade, & follovv their businesse.
+
+
+
+
+
+
+XXXII
+
+
+Neither of the English Nation, nor of any tr
+ding under their ba
+ner, there shall not bee demanded nor gathered one 
+ er, nor any mo 
+ in the name of imposition 
+asiapie, or co
+si∣tions for flesh for the Ianizaries.
+
+
+
+
+
+
+
+
+XXXIII
+
+
+There having beene in times past a di ference betvv
+ene the Embassadour of the Queene of England & the 
+re
+ch Embassa∣dour both Resident in our Port about the merch
+nts of the Dutch nation both vvhich Embassadours sent their petitions to our Imperiall stirrup: And made request, that the said Dutch me
+∣chants coming into our dominions s
+ould p
+se un
+er their banner; vvhich request of both Embassa
+ours vv
+s granted under our Imperiall Seal; not vvith
+tan
+ing Si
+n B
+l
+ t
+e Sonne of Cigala Captaine of the Sea, novv 
+e
+sed, as Admirall & practised in marittime cases, hauing a
+uise
+ the Imperiall 
+iestie that it vvas fit, & conuenient, that the Dutch nation s
+o
+ld bee assigned to the protection of the Amb
+ssa
+our of E
+gla
+d, & that it should bee so vvritten in their Capitulations vvhich opinion b
+i
+g by all the Viziers 
+pproued; by expresse or
+er, & Imperiall aut
+oritie it vv
+s co
+̄anded that the D
+ch merch
+nts of the Prouinces of Holland, Zeland, Freezelan
+, & Geld
+rl
+d, Tha
+is, the merchan
+s of those 4 Prouinces trading in our dominions, shall allvvayes come under the b
+nner of the Queene of England as all other Eng
+i
+h doe, & that of all the goods, & merchandize vvhich th
+y shall, or doe import or export, to & from our domi∣nion, in their Vessells, they sh
+ll pay the duties of Consulage, & all other du
+ies to the Embassadour o
+ Consul of the Queene of England; And that neuer hereafter th
+ french Embassadour or Co
+sul sh
+ll insinuate, nor intermedle herein, & ac
+ordingly It vv
+s com̄anded; that for the time to come, it should bee ruled & obserued according to this present Capitulation,
+
+
+After vvhich there being arriued an other Ambassadour at this HighPort sent from the king of 
+ngland vvith letters, & presents, vvhich vve
+e most acceptable, the said Ambass
+dour did make re∣que
+t that certaine other necessarie articles should bee added, & vvritten in the Imperiall Capitulations; of vvhich the first vv
+s; As in times past, in the dayes of one of our forefathers of famous memorie Sultan Soliman Han, there vvas gran
+ed a ce
+taine Capi∣tulation, & priuiledge, that the m
+chants of the spanish nation Portugall, Ancona, Ciuilla, Florence, Cat
+l
+nia, & all sorts of Dutchmen, & other merchant strangers, might safely, & securely goe, & come through all the places of our dominions, & trade, & tra
+fick, granting unto them Moreouer, that in any part of our Empire th
+y might e
+ta
+lish their Co
+suls; But it being that eu
+ry nation apart vv
+s not able to d
+fray the 
+harges, & m
+i
+tenance of a Co
+sul; It vv
+s then left to their vvill, & ch
+ice to 
+ome un
+er the banner of such A
+a
+sa
+our or Consul as 
+ like 
+e
+ Prouided that it vv
+re an Ambassa
+o
+r, or Co
+l of a King in peace, & amitie vvith our High Fort upon vvhich
+
+ Grant, & other priuiledges giuen them, there vvere often gran∣ted diuerse Imperiall com̄ands, & constitutions, being so desired by merchant strangers, vvho of their ovvne vvill elected to trade under the banner, & protection of the Embassadour, & Consul of the King of England. And vvhilest in all Scales, & Ports in these parts they had refuge to the banner, & protection of the English Consuls It seemeth, that the French Ambassadour by some meanes hauing a nevv gotten into their Capitulations, that the said merchant strangers should come under their banner, did endeauour to force them in all Scales to their protection; for vvhich cause the controuersie vvas againe renevved & referred to our Diuan, or Great Councell vvhich after a due examination & a nevv election permited to the vvill, & choice of the said merchants, they againe did desire to bee under the protection of the Ambassadour of the King of England, notvvithstanding it being made knovvne to the Imperiall Port that as yet the french Embassadour did not desire to molest the said merchants, nor to force them under his protection, the first Article vvritten in the french Capitulations, that the merchants strangers should come under their protection, vvas by the Imperiall com̄and made Void & annulled; And to the end that according to the antient custo∣me of the said merchant strangers they should allvvayes come under the banner, & protection of the Ambassadour, or Consuls of England; & that neuer, hereafter they should bee uexed, or tro∣ubled by the french Embassadour in this point The said Embassa∣dours of his Maiestie of England hauing desired that this parti∣cular should bee vvritten, & enrouled in this nevv Imperiall Ca∣pitulationj this present article vvas accordingly inserted, & by the Imperiall authoritie It is com̄anded, That for euer in time to come, merchants of the said Princes, in the mentioned forme, & according to this Imperiall com̄and in their hand, shall allvvayes bee under the banner, & protection of the Embassadour, & Consuls of England.
+
+
+
+
+
+
+XXXIIII
+
+
+There shall neuer bee permitted, or granted any Imperiall co∣m̄ands, contrary to the tenour, & articles of this Imperiall co∣m̄and, or Capitulations, nor in preiudice of this our peace & amitie, but in such occasion the cause shall first bee certifyed to the Ambassadour of England residing at the Port, to the end, that bee may ansvver, & obiect any scandalous action or other pretence, vvhich might infringe the peace, & league.
+
+
+
+
+
+
+XXXV
+
+
+The English merchants of all the merchandize, vvhich they shall bring, or transport in their ships hauing paid the custome, they shall also pay the right of Consulage to the English Ambassa∣dour, or Consul.
+
+
+
+
+
+
+
+
+XXXVI
+
+
+The Eng
+ish merchants, & all under their banner, s
+all & may safely throughout our dominion, trade, buy, sell, (except only com̄odities prohibited) all sorts of merchandize; likevvise either by land, or sea, they may goe, & traffick, or by the vvay of the riuer Tanais in Moscouia or by Ru
+sia, & from thence may bring their merchandize into our Empire, also to, & from Persia, they may goe, & trade, & through all that part nevvly by Vs con∣quered, & through those confine
+, vvithout the impediment, or molestation of any of our ministers, & they shall pay the custome & other duties of that country, & nothing more.
+
+
+
+
+
+
+XXXVII
+
+
+The English merchants, & all under their banner shall & may safely, & freely trade, & negotiate in Aleppo, Cairo, Scio, Smirna & in all parts of our dominions, & according to our antient custo∣mes of all their merchandize, they shall pay three in the hund∣red for custome, & nothing more.
+
+
+
+
+
+
+XXXVIII
+
+
+The English ships vvhich shall come to this our city of Constanti∣nople if by fortune of seas, or ill vveather, they shall bee forced to Co f
+, or to such like Port; as long as the English vvill not unla
+e & tell their ovvne merchandize, & goods, no man shall enforce them, nor gi
+e them any trouble, or annoyance, but in all places of danger, the Caddees, or other of our mini
+ters, shall al
+vvayes protect, & defend the said English ships, men, & goods, that no damage may come u
+to them, & vvith thir mony may buy uictualls, & other necessaries; & desiring also vvith their mony to hire carts, or uessells, vvhich before vvere not hired by a
+y other, to transport their goods from place to place, no man shall doe them any hinderance, or trouble vvhat soeuer.
+
+
+
+
+
+
+XXXIX
+
+
+The English Nation of all the merchandize vvhich in their ships shall bee brought to Constantinople or to any other part of our dominions vvhich they shall not desire of thir ovvne accord to land, or sell, of such goods there shall not bee demanded; or tak
+n any custome at arriuall at any Port, & hauing landed their 
+er∣chandize, & paid their customes, & other duties, they may quietly & safely depart vvith out the mole
+tation of any man.
+
+
+
+
+
+
+XXXX
+
+
+In regard English ships coming into our dominions, doe use often times to touch in some part of Africa, & there take in Pilgrims, & Mahometan passengers to transport them to Alexan∣dria, & arriuing at that Port, It seemeth that the Customers, & other officers, doe prete
+d to take custome of all goo
+s, vvhich are found in t
+eir ships before the merchants are vvillin
+ to la
+d any; by occasion of vvhich molestation they haue forbo
+e to
+
+ transport any pilgrims. And in like manner, their ships vvhich come to Constantinople & carry diuerse merchandize, to tran∣sport part thereof to other places, the customers, & Farmours vvould enforce to land, & pretend to take custome thereof. VVherefore vvee doe com̄and, that all the English ships vvhich vvith their merchandize shall come into this Port of Constanti∣nople, Alexand
+ia, Tripoli of Suria, Scanderoone, or into any 
+ort vvhatsoeuer of our Empire according to use, they shall pay only custome of such goods, vvhich vvith their ovvne vvill they shall designe to sell, & such other merchandize, as they dis∣charge not from their ships vvillingly our customer shall not demand, nor take custome, nor other duties, but they may tran∣sport them vvhether soeuer they please.
+
+
+
+
+
+
+XXXXI
+
+
+And if it shall happen, That any of the said English Nation, or any under their banner shall com̄it man slaughter, bloudshed, or any other like offence; or that there shall happen any cause appertaining to the lavv, or Iustice, untill the Embassadour or Consul shall bee present, to examine the cause, the Iudges, nor other ministers, shall not decide nor giue any sentence, but such controuersie shall allvvayes bee declared in the presence of the Embassadour, or Consul to the end, that no man bee Iudged, or condemned contrary to the lavv, & the capitulations.
+
+
+
+
+
+
+XXXXII
+
+
+VVhereas it is vvritten, in the Imperiall Capitulations, that the goods landed out of any English ship, vvhich shall come into our dominions, & pay custome ought also to pay the dutie of Consulage, to the English Embassadour, or Consul. it seemeth That diuerse Mabometan merchants, Sciots, & other merchants in peace, & amitie vvith this Imperiall Port, & other merchant strangers doe deny, & refuse to pay the right of consulage. VVherefore, It is com̄anded, that all the merchandize vvhich shall bee laden upon their ships, & haue paid custome bee they goods of vvhomsoeuer, according to antient Imperiall Capitula∣tions, they shall pay the right of Consulage to the Embassadour or Consul of England vvithout any contradiction.
+
+
+
+
+
+
+XXXXIII
+
+
+That English merchants vvhich trade at Aleppo, & those under their banner of all the silke vvhich they shall buy, & lade upon their ships, shall pay the custome, & other duties, as the french, & Venetian merchants doe pay, & not one asper, or farthing more.
+
+
+
+
+
+
+XXXXIIII
+
+
+As the Embassadours of the King of England vvhich shall bee Resident in this Imperiall Court are the Representatiues, & Comissioners of the person of his Maiestie so the Interpreters are
+
+ to bee esteemed the Com̄issioners of the Embassadour, Therefore for such matter as the Interpreters shall translate or speake in the name, or by the order of the Ambassadour; it being found that that vvhich they haue translated, to bee according to the vvill, & order of the Embassadour, or Consul, they shall bee all∣vvayes free, from any imputation, or punishment. And in case they shall com̄it any offence, our ministers shall not put any of the said Interpreters in prison, nor beat them vvithout knovv∣ledge of the Ambassadour, or Consul; in case any of the English Interpreters shall die, if hee bee an Englishman, all his goods, or faculties shall bee possessed by the Ambassadour, or Consul of England, but if bee shall bee a subiect of our dominion, they shall bee consigned to his next heire, & hauing no heire, they shall bee taken into our Exchequor. And as in this particular so also in all other the aboue mentioned articles, & priuiledges granted by our forefathers of happy memorie, It is expressely com̄anded & Ordained, That all our slaues shall euer obey, & obserue this Imperiall Capitulation & that the peace, & amitie shall bee res∣pected & maintained, vvithout any uiolation vvhatsoeuer.
+
+
+
+
+
+
+XXXXV
+
+
+Since vvhich time of our fore fathers of famous memorie, & the gran
+ of these aboue mentioned Capitulations, articles, & estab∣lishment of peace, & amitie, the said King of England hauing in the time of our grand father of happy memorie Sultan Mahomet Han sent one, his vvell desired Ambassadour a person of qualitie to this high Port, to confirme this peace, articles & Capitula∣tions vvhich Embassadour did declare, that often times there vvere to diuerse persons Imperiall com̄ands granted, subrepti∣tiously procured contrary to the tenour, & articles of the Impe∣riall capitulations; vvhich being vvithout our knovvledge pre∣sented to our Iudges, and Gouernours, & the da
+es of such co∣m̄ands being more fresh then those of our Imperiall Capitula∣ions: the Iudges, & ministers doe put in execution the priuate com̄ands preiuditial & contrary to these Imperiall. To the end therefore, that for the time to come, such commands shall not bee accepted of any, but that the imperiall Capitulations might bee allvvayes obserued, & maintained, according to the sincere meaning; the said Ambassadour demonstrating the sinceritie of his Maiestie & his request herein to our Imperiall knovvledge, vvhich vvas most acceptable; in conformitie thereuto it vvas ex∣pressely ordered; That all such com̄ands vvhich allready haue beene, or shall hereafter bee granted, vvhich are, or shal bee repugnant to the tenour of this Imperiall Capitulation, vvhat∣soeuer such commands sh
+ll bee vv
+en presented before our Caddees, or other ministers, should neuer bee accepted, or put into execution, but that allvvayes the tenour of the Imperiall
+
+ Capitulations shall bee obserued; And vvhosoeuer shall present such com̄and contrary to the Capitulations, they shall bee taken from him, & in no vvise bee of any force, or ualiditie. In vvhich time also on the part of our said Grand father all the aboue vvrit∣ten Priuiledges, Articles, & Capitulations, vvere accepted, & rati∣fyed, & the peace, amitie, & good correspondence antiently con∣tracted vvas a nevv of him confirmed & established.
+
+
+
+
+
+
+XXXXVI
+
+
+In the time of the inauguration of Sultan OSMAN Han in the Imperiall, & high throne, the King of England did againe send a famous, & noble Geentleman, his Embassadour, vvith letters, & presents vvhich vvere most acceptable. And the said Ambassadour desiring in the name of his King, & Lord, that the antient Capitulation, articles, & contracts granted in the dayes of our forefathers should bee of him renevved, & confirmed, & the antient peace, & amitie, anevv fortifyed, & established, vvhich his request vvas to the said Sultan Osman most acceptable. And the antient Capitulations, articles, Priuiledges, herein vvritten, & confirmed, & the long since contracted peace, & amitie by him promised, & accepted.
+
+
+
+
+
+
+XXXXVII
+
+
+After vvhom in like manner, in the dayes of Sultan OSMAN Han the King of England hauing againe sent unto this high Port his Ambassadour the Excellent, & honnourable, sr THOMAS Roe Knight vvith his letters, & presents, vvhich vvere most aceptable; & proffering in the name of the King his Lord, all good termes of friend ship, & good correspondence? And des∣iring that the antient Capitulations, & all the articles from his Ancestours, & from himself formerly granted to the English na∣tion might bee anevv confirmed, & the peace, & league long since betvveene both parties contracted, & ratifyed; & that some other articles uery necessary might bee added to the Imperiall Capitulations, & diuerse others allready granted might bee rene∣vved, amended, & in a better forme explained, vvhich his request & demand vvas uery acceptable unto him; & in conformitie the∣reunto, the antient Imperiall Capitulations, & all the articles, & other priuiledges in them often confirmed, & the peace, ami∣tie, & good corrspondence contracted, in the times of his Ances∣ters, Grand father, & father, & himself confirmed, vvere againe by Sultan OSMAN then ratifyed, established, promised, & accep∣ted, vvhereupon by him there vvas expresse com̄and giuen, that for the time to come, the 
+enour of his renevved Capitulations should bee of euery one obserued, & that all men should bee ca∣refull, & respectfull to thē said peace, & friende ship established, & contracted on both partes, & that no man should presume to uiolate, or to doe any act contrary thereunto vvhich Emabssadour
+
+ did often declare that the Caddees, & other of our ministers, in many places, & prouinces, contrary to the Imperiall Capitulations & vvill of the Imperiall Maiestie haue imposed, & laid diuerse taxes, burdens, & monies upon the said English Nation, & those under their banner, for vvhich cause as it is aboue declared, it being found necessary to make additions of some nevv articles in the said Imperiall Capitulation, of vvhich the said Ambassadour made declaration in vvriting, & presented the same to the Impe∣rial presence; The said Sultan OSMAN Han vvith his Imperiall hand, & seale did presently giue expresse order, & com̄and, that in the time to come, all those articles, & priuiledges vvhich vvere allready in the Imperiall Capitulations, & those articles vvhich novv are there in by our order nevvly added shall bee of all our subiects, & slaues duely obeyd, & obserued according to the sincere meaning of this our Imperiall Capitulations.
+
+
+
+
+
+
+XXXXVIII
+
+
+In as much as it is publickly knovvne, That certaine pyrates of Tunis, & Algier, contrary to our Imperiall Capitulations, mind, & vvill, doe take, & rob in the seas, the ships merchandize & men, subiects to his Maiestie of England, & of other Kings, & states in league vvith this our Imperiall Port, to the great Dama∣ge, & iniurie of the said English Nation, vvee doe com̄and & by the
+e presents vvee doe ordaine, that seuerall Imperiall com∣mands bee giuen, for the entire restitution of all goods, & mer∣chandize to the English Nation so taken avvay, And that all such English as haue beene taken, & made slaues, or imprisoned by the said pyrates shall bee im̄ediately set free. And after the date of this our Imperiall Capitulations; If it shall bee knovvne, that the said Pyrates, of Tunis, & Algier, shall rob them againe, & shall use, & continue their outrages, & vvill not restore their goods, & men, vvee doe com̄and that the said pyrates, bee not receiued into any Port of our dominions, especially into the Scales of Tunis, Algier, Modon, or Coron. Our Beglerbegs, & other minsters, shall not suffer them to enter, nor barbour, nor receiue them, but the Beglerbeges, Caddees, or other ministers shall persecute, banish, & punish them.
+
+
+
+
+
+
+XXXXVIIII
+
+
+Being informed that in our dominions many of our Customers, & other officers in Aleppo contrary to the Imperial Capitulations under colour of taking custome, & rest upon silke of the English merchants, haue uiolently taken from the said merchants agreat sum of mony. And vvhereas in the Imperiall Capitulations, it is vvritten that for silke vvhich the English shall buy in Aleppo, they shall pay as the french, & Venetian merchants doe, & no more; Notvvithstanding the said customers, besides the tvvo & half per cent for custome & Rest haue taken from that nation
+
+ a great sum̄ of mony lately under name of Rest vvherefore vvee com̄and that this bussinesse shall dee examined, & that the said mony bee restored back, & for the time to come, the antient custome may dee kept; And that this nation shall only pay, as the French, & Venetian doe, & that neuer bee taken one asper by name of s
+ch imposition.
+
+
+
+
+
+
+L
+
+
+VVhereas the English merchants resident in Galata, ordenarily buy diuerse goods, & merchandize before they can la ie, or send them avvay upon their ships, & doe pay unto the customers, the custome of the said goods, receiuing a bill, or acquittance to haue paid the same, & after carry the same merchandize to their ovvne vvare houses: In the meane time before they can load, & 
+end avvay the said goods; It happens, that either the customer dies, or is remoued from his charge & the nevv customers vvill not accept of the said acquittances, but pretend an other custome troubling, & molesting of them many vvayes. VVherefore vvee doe com̄and, that of all the merchandize vvhich they shall buy, it appearing really that bee hath paid once his custome, the cus∣tomer shall 
+ccept of the said acquittances, & shall not demand of the merchant a second custome.
+
+
+
+
+
+
+LI
+
+
+It being usuall to buy in Angora, Chamblets, Mohaires, silkes & other sorts of merchandize vvhich they transport to Constanti∣nople, & other places of our dominions, & pay their customes, taking acquittances for the same, & so put the goods into their ovvne vvare houses; And after being desirous to ship them avvay, the customers doe demand againe the custome, There fore for the time to come vvhen the said merchants shall desire to lade such goods; & it bee true that they haue allready paid their custome of such merchandize, they shall not demand any second or nevv customes Prouided that the said merchants doe not min∣gle their goods, vvhich haue not paid custome vvith those vvhich haue allready paid custome.
+
+
+
+
+
+
+LII
+
+
+The English merchants of all the merchandize vvhich they shall bring into our dominions, & of the merchandize vvhich they car∣ry out of our dominions, as silke, chamblets, & other goods, haui¦ng paid the custome, & not sold the goods unto an other; And be∣ing aftervvards to ship it avvay for Scio, Smyrna, or any other Sca∣le, & the said goods there ariuing, the customers, & officers shall allvvayes accept of their aquittances, vvhich they haue in their hands, & shall not take other custome of their merchandize.
+
+
+
+
+
+
+LIII
+
+
+The English merchants of all the com̄odities vvhich they shall bring to constantinople or to any other Port of our dominions, &
+
+ of all such as they shall transport, the Mestaragi of Galata & Constantinople shall take their Mestaria or Brokidge according to the antient ca
+o, & 
+ance, that is of such merchandize, as of old custome, vvas vvont to pay it, or such they shall only take Mes
+aria, but of s
+ch merchandize as vvas not antiently accusto∣med to pay it shall not bee taken 
+aria contrarie to the 
+ntient cannon. Farther upon the Engli
+h merchandize, there shall not bee made, or laid any impositions, or other causes, Nor from the said nation shall not bee taken one a
+r, more, vvhich shall bee contrary to the antient ca
+no
+, 
+nd accustomed 
+sance.
+
+
+
+
+
+
+LIIII
+
+
+The English Nation shall, & may freely come in to all the Ports of our do
+inions to 
+egoti
+ & bring in clo
+, Kersie, sp
+ce, tinne, lead, & all other merchandize, & no 
+ shall doe 
+m any 
+i derance, or 
+olestation, In 
+ke 
+er except only goods prohibited, they shall & may b
+y, & 
+port all so
+ of merchandize vvithout the prohibition, or mo
+e
+tation of 
+y man; & the customers, & other 
+, the said nation 
+ing pai
+ their custome according to this Imperiall Capitulation, & 
+he antient use, shall not demand o
+ them any 
+ing more. In the time of the happy memorie of my 
+n
+le 
+an 
+ Han, the King of England sent his Em
+dour Sir 
+ uis
+e 
+ovv Baronet vvith his pr
+sent & letter, vvh
+ vvas 
+eiued 
+ 
+ood part; & the time of his Em
+e 
+ei
+g expi
+ed, Sir Thomas Bendis
+ arriued to resid
+ at the Port vvith hi
+ present, & co
+rte∣ous letter, the vvhich vv
+ in l
+ke manner vv
+ll accepted and the said Embassadour hauing tend
+red t
+e Imperi
+ll Capi
+ula¦tion, formerly granted, that accordi g to the anti
+nt Cannon they might bee renevved, It is 
+er 
+y againe com̄anded that all the points, & particular Articles, therein bee obserued, & maintained.
+
+
+
+
+
+
+LV
+
+
+And because contrary to the sence, & tenure of them the ships of 
+h
+ 
+nglish mer
+s before they arr
+ at th
+ S
+al
+ 
+enerall Officers did goe upon them & uiolently force out of 
+e 
+ips the goods of the m
+rchants, taking avvay the choi
+e of them vvithout 
+; 
+or the Price, or making any account vvith the ovvners
+
+
+
+
+
+
+LVI
+
+
+And farthermore the said m
+ chants hauing once payed the custome for their goods at the 
+ & 
+i
+g 
+rous to 
+port the 
+e good, 
+ an 
+h
+r 
+ customers di
+ & d
+i
+e them, u
+ill 
+ r
+iue other second 
+.
+
+
+
+
+
+
+LVII
+
+
+And vvher
+ in the Imperiall C
+p
+tu
+ is 
+xpres
+ that
+
+ in all the differences, & suites vvith the English Nation our Ma∣gistrates are not to heare nor decide the cause, unlesse their Em∣bas
+our or Consul bee there present. Of late our Iudges vvitho∣ut t
+e Knovvledge of their Embassadour haue condemned, im∣prisoned, 
+ taken presents from the English Nation vvhich is a great vvrong done to them.
+
+
+
+
+
+
+LVIII
+
+
+Also vvhereas in the Imperiall Capitulations, it is ordered, that the Customers shall not take any custome for such gold, & dol∣lars as by the English Nation shall bee brought in, or carried out of Our Imperiall Dominions, & that the merchants are to giue only three percent, for the custome of t
+eir goods, & no more; the Customers notvvithstanding doe pre
+end to take custome for their 
+equeens, & dollars; & to take more custome then their due for their ravv silkes, vvhich they buy, & of the goods vvhich they land at Scanderoone to carry up to Aleppo, they demand six per cento; vvhich uniust exactions haue beene heretofore rectifyed, & redressed vvith an expresse Hatte sheriffe. But being novv againe informed, that the said 
+nglish merchants, are as before vvronged, by reason that the Customers doe ualue, & estimate the goods of the English merchants more then they are vvor
+h; & though the Customers are to haue bu
+ three percent yet by an ouer ualuation of the goods they take from them six per cent. And the seruants of the Custome house under pretence of small duties, and expences vvrongfully take great sum̄es of mo
+y from them. And a greater number of vvaiters being put aboard the English ships, then heretofore haue beene used, the charges thereof are a great expence to the merchants, & masters of ships that sustaine it. To all vvhich, vvee being requested for a redresse, doe Com̄and, that vvhen the Customers doe set great ualues upon their goods, th merchant offering to them accor∣ding to the rate of three per cent in specie of the same goods, the Customers shall not refuse but accept the same. And being desired by the English Embassadour that the bone specifyed abuses, & iniustice should bee rectifyed vvee Doe Com̄and, that contrary to the Imperiall Capitulations the English merchants bee neither in the foregoing particulars, nor in any other manner troubled nor their priuiledges uniustly infringed.
+
+
+The Embassadour of the King of Great Brittaine sir Heneage 
+inch Knight, Farle of VVinchilsea, Viscount Maidston, Baron Fit
+her∣bert of 
+a
+vvell, Lord of the Royall Mannour of vvye, & I Leiue∣tenant of the Coun
+ie of Kent, & Citty of Canterburie, vvhose end may it terminate vvi
+h blisse: did a
+riue vvith his presents, and vvi∣th all sinceritie, & aff
+ction vvas accompanied vvith letters amply expressing the good friendship, & correspondence; & that aboue
+
+ said Embassadour hath presented the Capitulations that they might bee renevved according to the Cannon And that 
+o
+e Ar∣ticles of great consideration vvhich vvere before in the 
+apitu∣lations may bee more punctually ob
+erued, the said 
+ a
+ adour did de
+ire that they might bee againe renevved, & more 
+ ainly expressed in the Imperiall Capitulations His request vvas graci¦ously accepted; one of vvhich points is this.
+
+
+
+
+
+
+LIX
+
+
+That the gallies, & other uessells of the Imperiall Fleet departing the dominions of the Grand Signor, & meeting on the s
+a vvith the ships of England, they shall in no vvise giue them mo∣lestation, nor detaine them in their uoyage, nor take from them any thing vvhatsoeuer, but ought a
+lvvayes to shovv to one & other good friendship, vvithout doing the least damage,. And it being thus dec ared in the Imperiall Capitulations, the B
+yes and Captaines, vvho saile upon the Seas, & those of Algier, T
+ is, & Tripoli meeting English ships vvhich saile from one Port to an other ought not 
+o take from them any mony, or goods u
+on pretence that their ships transport enemies goods, & there u
+on search them, & vvith this colour molest, & de
+aine them from prosecution of their uoyage, so that only at the mouth of the castles, & in the Ports vvhere the searchers belonging to the cus∣tomes usual y come aboard, their goods shall bee examined, but on the Sea, they shall bee lyable to no farther search or inquisition.
+
+
+
+
+
+
+LX
+
+
+And contrary to the Articles of the Imperiall Capitulations, the goods of the English Nation ought to receiue no molestation 
+auing once paid the Custome, nor shall the customers deny to giue the 
+eschere, or certificate that the custome is 
+aid for, upon complaint hereof, vvee strictly com̄and that the a
+oresaid Cu
+o∣mers doe not deferre im̄ediately upon demand to giue the Teschere or certificate,
+
+
+
+
+
+
+LXI
+
+
+And the custome being once paid of any sort of merchandize not sold in that Port, vvhich is to bee transported to an other Scale, entire credit shall bee giuen to the Teschere & a second custome shall not bee so much as farther pretended
+
+
+
+
+
+
+LXII
+
+
+In Aleppo, Cairo, & other parts of the Imperiall Dominions, the English merchants, & their seruants may freely, & frankly trade, & for all their goods, & merchandize pay only three per cento according to the former custome, & the Imperiall Capi∣tulations, vvhether the goods bee brought by sea, or by land. And though the Customers, & Farmers upon the arriuall o
+ the goods at the Scale to giue molestation, & trouble 
+o th
+ English
+
+ Nation, pretend: that the goods of the grovvth, & manufacture of E
+land ought only to pay three per cent, but goods brought from Ve
+ice, & other places are obliged to pay more, & vvith this colour & pretence occasion suites, & troubles to the English vvherefore in this point let the Imperiall Capitulations bee obserued as in former times, & Our officers ought in no vvise to permit the contrary hereunto.
+
+
+
+
+
+
+LXIII
+
+
+An Englishman becoming indebted, or hauing made himself pledge for an other, vvho is either failed, or runne avvay; the debt ought to bee demanded of the debtour; And if the Creditor haue no Hoge
+, that such an o
+e according to the lavv hath made himself pledge, & securitie; the debt shall not bee demanded of the other; vvhich Article is allready declared in the capitulations.
+
+
+
+
+
+
+LXIIII
+
+
+VVhereas some times an Englishman liuing in a country to free himself from a debt dravves a 
+ill of Exchange upon an other Englishman vvho hath no ef
+ects of his in his handes, & the person to vvhom the mo
+y is paya
+le being a man of povver, & authori∣tie, brings 
+i
+ 
+ill, & 
+ntrary to the lavv, & the Capitulations d
+ands, & forces payment of the bill, in vv
+ich case the mer∣chant accepting the bill, shall bee obliged to satisfy it, but not accepting of it, hee shall bee lyable to no farther trouble.
+
+
+
+
+
+
+LXV
+
+
+And the Interpreters of the 
+b
+s
+adour of England being free by the Articles, declared in the 
+i
+t 
+apitulations of all Angaria, or taxes; by uertue also of 
+is prese
+t article, vvhen any of the said In
+erp
+eters die, their goods, or estate shall not bee subiect to the Cassam, but shall bee deuided amongst the creditours, & 
+eires.
+
+
+
+
+
+
+LXVI
+
+
+And the King of England being a true friend to this Our happy Port To his Em
+s
+a
+ur vvho re
+ here ten Ser
+nts of vvhat nation soeuer shall bee allovved f ee from Harach or taxes, or moles
+ation of any man.
+
+
+
+
+
+
+LXVII
+
+
+An Englishman tur
+ing Mahometan, & hauing good
+, or estate in hi
+ 
+a
+d
+ 
+el
+gi
+ to his English 
+rincipalls, t
+se goods or estate s
+ 
+ee deliuered into the hands of the 
+bas
+dour, or Consul tha
+ they may conuey, & make them good to the true ovvners.
+
+
+Let all the forementioned Articles bee punctually obserued: And th
+ said 
+as
+adour des
+ring 
+at th
+se additions s
+ould bee i
+serted in the I
+peria
+l Capit
+ti
+ns, his re
+ vvas gracio∣usly receiued; & 
+he Imperiall Capi
+u
+tions vvhic
+ vvere for∣merly giuen are renevved, & conioyned vvith these 
+resent.
+
+ And according to Our Imperiall Signature let this Imperiall Capi∣tul
+tion bee againe granted. And VVEE COMMAND, that vvhi∣les: this present King of England CHARLES the Second, vvhose end terminate in blisse, & happinesse; doth in the same manner, as in the times of my deceased progenitors conserue the like friendly & faithfull correspondence: I doe Accept, & PROMISE to obser
+e, & 
+ccording to my promise, & oath, I Svveare, & Promise by that One God, Creatour of Heauen, & Earth & of all the Creatures, that contrary to these present Capitulations, no breach, nor uiolence shall bee offered either by mee, or mine but shall bee obserued by all.
+
+
+
+
+In the Imperiall City of ADRIANOPLE VVritten
+
+at the end of the Moone of Zemasiel Vlla in the yeare 1072. VVhich is in the month of Ianuary 1661.
+
+
+FINIS
+
+
+
+
+
+
+
+
+

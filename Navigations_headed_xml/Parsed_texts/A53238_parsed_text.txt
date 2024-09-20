@@ -1,0 +1,265 @@
+Queries in order to the description of Britannia
+Ogilby, John, 1600-1676.
+Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2009-03 (EEBO-TCP Phase 1).
+A53238
+
+
+
+
+Wing O180A
+
+
+
+ESTC R218657
+
+
+
+
+
+99830230
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Queries in order to the description of Britannia
+Ogilby, John, 1600-1676.
+1 sheet ([1] p.)   
+
+
+[London :
+
+
+s.n.],
+
+
+1673.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Great Britain --  Description and travel --  Early works to 1800.
+2007-12
+TCP
+Assigned for keying and markup
+2008-02
+SPi Global
+Keyed and coded from ProQuest page images
+2008-03
+Mona Logarbo
+Sampled and proofread
+2008-03
+Mona Logarbo
+Text and markup reviewed and edited
+2008-09
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+O180A
+
+
+99830230
+
+
+34680
+
+
+
+
+
+
+
+
+
+
+
+
+QUERIES In Order to the Description of BRITANNIA.
+
+
+WHEREAS 
+John Ogilby
+ 
+Esq
+ His Majesties 
+Cosmographer,
+ being Authoriz'd by His Majesty to make an 
+Actual Survey
+ of His Majesties Kingdom of 
+England
+ and Dominion of 
+Wales,
+ in order to the Compiling 
+An Historical and Geographical Description
+ thereof, more Accurate than what∣ever has been heretofore done, in a fair large Volume, sold 
+BRITANNIA
+: accompanied with another Volume of all the Principal ROADS of 
+England,
+ ichnographically describ
+d in Copper Sculptures. And being sensible that the Well-performance hereof will render it a Work highly grateful to the Publick, his Re∣quest is, That the Nobility and Gentry, and all other Ingenious Persons, would be pleas'd to return him, to his House in 
+White-Eryers, London,
+ such Remarques of the Country or Places of their Residence, or what other they may be acquainted with, as shall happen within the Verge of these following 
+Queries.
+
+
+
+
+1. Cities, 
+their Antiquity, Government, Privileges, Commerce,
+ &c.
+
+
+2. Towns Corporate, Market-Towns, Fair Towns, Villages, 
+and
+ Hamlets, &c.
+
+
+3. Houses 
+of
+ Nobility 
+and
+ Gentry, 
+with the ancient as well as present Possessors.
+
+
+4. Castles, Churches, Chappels, Schools, Colleges, Hospitals, 
+and other
+ Publick Buildings, &c.
+
+
+5. Mills, Beacons, Bridges, Crosses, Towers, Pyramids.
+
+
+6. Chaces, Forests, Woods, Groves, Parks, Warrens, Commons, Heaths, &c.
+
+
+7. Mountains, Valleys, Dikes, Rivers, Brooks, Water-works, Sluces, Ponds, Meres, &c.
+
+
+8. Springs, Wells, Baths, 
+Cold and Hot
+ Waters, 
+Medicinal, Aluminous, Bituminous, Nitrous, Petrifying,
+ &c.
+
+
+9. Works 
+and
+ Mines 
+of
+ Gold, Silver, Copper, Lend, Black-lead, Tin, Iron, Salt, Salt-petre, Allom, Coperas, Gems, Precious Stones, Glass, Crystal, Marble, Alabaster, Plaister, Fullers-Earth, Ochre, Tobacco-pipe Clay, Potters Clay, Lime, Chalk, Marl, Freestone, Milstone, Grindstone, Whetstone.
+
+
+10. Precincts 
+of Diocesses,
+ Bounds 
+and
+ Limits 
+of Counties, Hundreds, and Parishes, Peculiars, and Privi∣leg'd places.
+
+
+11. Roman Ways 
+and
+ Stations, Coins 
+and
+ Monuments, 
+and other Antiquities.
+
+
+12. Extaordinary 
+Accidents, Calamities,
+ and 
+Casualties.
+
+
+13. Peculiar 
+Customs
+ and 
+Manners.
+
+
+14. Decay'd Places, 
+whether Cities, Towns, Castles, Monasteries, Abbies, or other Houses of Note.
+
+
+15. Vaults, Caves, Caverns, Holes, Hollows, Subterranean Passages, 
+or other Rarities.
+
+
+16. Places of Birth, Education, Habitation, and Sepulture of 
+Eminent Persons.
+
+
+17. Improvements 
+in
+ Husbandry, Mechanicks, Manufactures, &c.
+
+
+18. Extraordinary 
+Productions
+ of 
+Cattel, Fowl, Fruit, Plants, Herbs,
+ or other Animals or Vegetables.
+
+
+19. What Part of the Country is 
+Arable, Pasture, Meadow, Woods,
+ and 
+Champain.
+
+
+20. On the Sea-coasts, 
+Ports, Harbors, Havens, Creeks, Peels, Peers, Watch Towers, Land-marks, Light-houses, Sands, Sholes, Islands, Eits,
+ &c.
+
+
+21. Productions of the Sea-coasts, of 
+Fish, Shell-fish, Amber, Jet, Coral, Herbs,
+ &c.
+
+
+22. Extraordinary or Irregular 
+Ebbings
+ or 
+Flowings
+ of the Sea, &c.
+
+
+
+
+To such Ingenious Persons as shall be more Eminently Instrumental herein, either by themselves or others, the Author will make Honorable Returns of Books, and carefully discharge whatever necessary Expences shall appear to have been laid out in this Concern.
+
+
+And to whom Money shall be more acceptable, the Author promises such Wages and Allowances as may handsomly correspond their Pains; Always presuming, That nothing will be impos'd upon him, without suffici∣ent Authority for its Assertion; Truth being the main of his Design in all his Collections.
+
+
+From the Office in 
+White-Fryers,
+ London 
+Anno
+ 1573
+.
+
+
+T.O.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,380 @@
+New-England vindicated from the unjust aspersions cast on the former government there, by some late considerations, pretending to shew, that the charters in those Colonies were taken from them on account of their destroying the manufactures and navigation of England.
+Mather, Increase, 1639-1723.
+Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A50219
+
+
+
+
+Wing M1233
+
+
+
+ESTC R217669
+
+
+
+
+
+99829324
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+New-England vindicated from the unjust aspersions cast on the former government there, by some late considerations, pretending to shew, that the charters in those Colonies were taken from them on account of their destroying the manufactures and navigation of England.
+Mather, Increase, 1639-1723.
+6, [2] p.   
+
+
+[London :
+
+
+s.n.,
+
+
+1689]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+New England --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.
+Massachusetts --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.
+2013-10
+TCP
+Assigned for keying and markup
+2013-10
+SPi Global
+Keyed and coded from ProQuest page images
+2013-12
+Kate Allen
+Sampled and proofread
+2013-12
+Kate Allen
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+M1233
+
+
+R217669
+
+
+99829324
+
+
+33761
+
+
+
+
+
+
+
+
+
+
+
+
+New-England VINDICATED, From the 
+Ʋnjust Aspersions
+ cast on the former 
+Government
+ there, by some late 
+CONSIDERATIONS,
+ Pretending to Shew, 
+That the
+ Charters 
+in those Colonies were Taken from them on Account of their Destroying the
+ Manufactures 
+and
+ Navigation 
+of
+ England.
+
+
+WE shall pretermit what the 
+Considerators
+ have in their 
+Scandalous Libel
+ related concerning other Plantations, and only take notice of what concerns 
+New-England.
+ And in the first place they affirm,
+
+
+That hundreds of Ships have been Employed to transport thence Tobacco, Sugars, Wooll and other Materials for Manufactures, into
+ France, Holland; 
+and to import thence into
+ New-England, 
+Lin∣nen, Woollen and all other Manufactures.
+
+
+This at first View will appear a great Untruth to all that know 
+New-England;
+ for that Countrey can hardly expend the Goods that are yearly Exported from hence thither, the Num∣ber of the People considered; nor have they any other way to vend so great a quantity of Goods as such a Number of Ships must necessarily Import: Nor have they Commodities
+
+
+
+
+
+
+
+to Export fit for those parts, nor could they (all things con∣sidered) purchase Goods thence on so easie terms as they may have them from 
+England.
+ And they have made a 
+Law against Exporting of Wooll,
+ not having a twentieth part of what is necessary for their own Use. The most of their Shipping is employed in transporting Lumber, Horses and Provisions to 
+Jamaica, Barbados,
+ and the 
+Caribbee Islands,
+ without which those Islands cannot well subsist: And many Vessels are built there upon Account of Merchants in 
+London,
+ sent home, and by them often sold or employed here: And to prevent Illegal practi∣ces, they made in the Year 1663. a Law, That 
+the Act of Na∣vigation
+ should be strictly observed; and their Governours have been carefull to see it Executed, and are yearly Sworn so to doe; nor can it be proved, that the least Breach of it was ever allowed by the Government, which is not to be bla∣med for the private Transgressions of some few particular per∣sons.
+
+
+As for what the 
+Considerators
+ report, concerning the Manner of Vacating the Charter of the 
+Massachusets
+ Colony, the Mat∣ter is by them fallaciously represented. When a 
+Quo War∣ranto
+ was in the Year 1683. issued out against them, with the Notification thereof: By the then Kings Order were sent over one hundred Copies of the proceedings against the Charter of 
+London,
+ and two hundred Copies of a Declaration, to be dispersed among the People in 
+New-England,
+ discharging the Inhabitants from all Rates and Contributions towards the Ex∣pence of the said Suit, and enjoyning those particular Per∣sons mentioned in the 
+Quo Warranto,
+ to make their Defence at their own particular Charge, without any help by a publick Stock.
+
+
+Nevertheless the Governour and Company appointed an Attorney to Answer to the 
+Quo Warranto
+ in the Court of 
+Kings Bench;
+ where it was let fall, and a new Suit Began by 
+Scire Facias
+ in Court of 
+Chancery,
+ and Judgment entred against them for Default in not Appearing: Whereas, considering the Remoteness of 
+New-England
+ from 
+Westminster,
+ it was im∣possible for them to Appear in the time allowed, and so by a Surprize their Charter was taken from them.
+
+
+As to what is objected about 
+Coyning,
+ many Goldsmiths in
+
+London
+ can testifie, that the Money coyned in 
+New-England
+ is as good as that of 
+England,
+ and not of a 
+baser Allay,
+ (as is suggested.) It was formerly customary for private Persons in 
+England
+ to Coyn Farthings for their own Use, and the Coyning in 
+Massachusets
+ Colony was little more than that, and with Design to prevent the great Injuries Merchants and others sustained by base 
+Spanish
+ Money: And the Mint was set up in 1652. when there was no King in 
+England,
+ but the Go∣vernment out of Course; and when the ancient Government of 
+England
+ was resettled, and the Kings mind to the contra∣ry signified to them, they resolved to comply therewith, though many wayes disadvantageous to themselves. Was not the Value of Coyn altered in 
+Pensilvania?
+ Did not the Lord 
+Baltimore
+ in 
+Maryland,
+ Coyn Money with his own Image on one side, and his Coat of Arms on the other? Did not the 
+East-India
+ Company? But when they understood ther Error, they petitioned the King for liberty of Coynage, and pardon of what was past, and it was granted them? Why then should 
+New-England
+ be esteemed more criminal than other Planta∣tions?
+
+
+The 
+Considerators
+ go on, and complain, That in 
+New-Eng∣land
+ they have 
+Imposed Taxes upon Shipping and the Manufactures of
+ England 
+coming into those parts.
+ There hath been 
+none
+ Im∣posed on Shipping but 
+Powder-Money,
+ and not half so much as is done in the other Plantations, nor any upon the Manu∣factures of 
+England
+ particularly, but only one penny upon Twenty shillings Value of all Merchandizes whatsoever, as on all other Estates in the Countrey; and since Charters were taken from them, the same and more hath been levied by the present Governour, besides six times the Fees upon Shipping more than was paid formerly: All which hath been done by him without any consent of the People, or their Represen∣tatives, which the former Government never practised.
+
+
+Whereas it is maliciously insinuated, That the 
+Massachusets
+ have Imposed an Oath of Fidelity to their Common-wealth, we shall only in Answer Insert the Copy of the Oath, as it is in their printed Law-book.
+
+
+
+
+
+
+The OATH.
+
+
+WHereas I
+ [A. B.] 
+am an Inhabitant within this Juris∣diction, considering how I stand Obliged to the Kings Ma∣jesty, his Heirs and Successors, by our Charter and the Government Established thereby: Do Swear accordingly by the great and dread∣ful Name of the Ever-living God, that I will bear Faith and true Allegiance to our Sovereign Lord the King, his Heirs and Succes∣sors; and that I will be True and Faithfull to this Government, and accordingly yield Assistance thereunto, with my Person and Estate, as in Equity I am bound.
+
+
+And will also truly endeavour to Maintain and Preserve all the Liberties and Priviledges thereof, Submitting my self unto the whol∣som Laws made and established by the same.
+
+
+And farther, That I will not Plot or Practise any evil against it, or consent to any that shall so do; but will timely discover and reveal the same to Lawful Authority now here Established, for the speedy preventing thereof. So help me God in our Lord Jesus Christ.
+
+
+
+
+Nor know we that they have (as is asserted) 
+Encroached upon their Neighbouring Colonies in a hostile manner,
+ except it be meant of their Assisting with Voluntiers when King 
+Charles
+ the Second sent to take 
+Monhatas,
+ now called 
+New-York;
+ or of their Concurrence in taking from the 
+French,
+ S. 
+Johns, Pe∣nobscot, Port Royal,
+ which were put into the hands of those that were then in Power in 
+England.
+
+
+Nor have they (as is alledged) 
+Affronted the Commissioners of King
+ Charles 
+the Second;
+ whose Commission (as to the legal part of it, not by them duly observed) was in some particu∣lars Illegal and Arbitrary, and Empowred them to 
+Hear and determine all Causes
+ (not by Law, but) 
+according to their sound Discretion;
+ which could not be submitted to by the 
+Massa∣chusets,
+ without giving up at once their Charter and Privi∣ledges.
+
+
+Neither have they 
+made Laws against all Opinions in Religion, excepting those of the Congregational Churches, and more especially against the Church of
+ England. It must be acknowledged, that there have been some severe and unjustifiable Laws there, in
+
+matters 
+ long since sensible; yet what is here affirmed, is untrue; for 
+Presbyterians
+ have equal Encouragement with those of the 
+Con∣gregational perswasion:
+ Nor are there any 
+Laws against the Church of
+ England, as is falsly and malitiously pretended. Let them prove if they can, that any number of Men inclined to worship God, in the way of the Church of 
+England,
+ were denyed by the Government in 
+New-England
+ liberty so to do. The Magi∣strates there have often professed, that they would not hinder any that were so principled from practising what they did most approve of.
+
+
+As for their 
+Treating ill the Captains of the Kings Ships for de∣siring Permission to recruit themselves with Men and Victuals; and as to entertaining of Pirats:
+ These things are like the former. If any Commanders of Ships have behaved themselves Insolently, and violated the Laws of God and the Land, it became the Government to testifie against them; but malice it self cannot deny, that the People of 
+New-England
+ have been extreamly Ci∣vil to Strangers, and especially to such as the King hath put any mark of Honour upon; and they have sometimes relieved, and that 
+Gratis,
+ the Kings Ships distressed through want of Provision: And if any 
+Pirats
+ have been entertained, it hath been because they were not known to be such; for they made a particular Law against Piracy, agreeable to the Law of 
+Eng∣land,
+ on account whereof some have been there Executed.
+
+
+The 
+Considerators
+ tell us, that the People of 
+New-England
+ are 
+free from all Taxes, and Contribute nothing to the Crown, nor their own Protection or Support:
+ Whereas they are no more free than other Plantations, for they pay Customs in the Plantations for the Goods they fetch thence into 
+New-England;
+ and when those Goods are brought into 
+England,
+ they pay the same a second time; so that they Contribute not a little to the Crown. Before the change of their Government, they never did put the Crown to a penny Charge for their Protection or Support: but since that, have been very chargeable, and less beneficial to the Crown.
+
+
+It is strange, that the Considerators should have the Impu∣dence to publish to the World, 
+That the People of New-England in General, are better satisfied with the present Government there, and do not
+
+
+
+
+among whom there is not one known Papist, excepting some now in Government there.
+
+
+All the Charters of 
+New-England,
+ one only excepted, are still in force; there having been no Judgment against them, nor Surrender of them made or Recorded; and by their Char∣ters they have Power to choose their own Governours and Ma∣gistrates, as much as any Towns Corporate, or Cities here in 
+England,
+ have Power to choose their own Maior and Al∣dermen. Besides, must those Colonies in 
+New-England,
+ be the only ones excepted from Indempnity, and all other Corpora∣tions supposed to have been without fault? And must they alone remain sorrowful for the loss of what is so valuable to them? who at their own vast Charges, and great Hazards sub∣dued a Wilderness, and with the loss of many hundreds of their Lives, have maintained and defended it, to the enlargment of the Kings Dominions; hoping, as in Reason they might, that their Posterity should enjoy the benefit thereof? So that to deprive them of their Charters, is to deal more hardly, than to do the like with any Bodies Politick in 
+England.
+
+
+As to the other Pamphlet newly come forth, called, 
+An Abstract of Laws in
+ New-England, 
+not agreeable with the Laws of
+ England: The first Law they take notice of, is a Fiction of their own, the rest were most of them long since repealed; yea, all that were inconvenient, or esteemed repugnant to the Laws of 
+England;
+ and the 
+Considerators
+ (whom we must needs suppose to be the Au∣thors of the Abstract) if ever they read the 
+New-England
+ Laws, could not be ignorant that the Word 
+Common-wealth,
+ so much complain'd of, was repealed and obliterated, and the Word 
+Jurisdiction
+ inserted instead of it.
+
+
+As for the Remarks which they make thereon, they are no∣thing else but the Ebullitions of a spiteful Spirit, and so noto∣riously false, as that we think it not worth the while to recite, much less to refute them.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

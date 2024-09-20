@@ -1,0 +1,721 @@
+Good nevves from Alsasia and the Palatinate, the fift of Iune The abstract of three seuerall letters, the one sent from Elsas in Alsatia, where Leopold vsed to keepe his court, the other from Hagenaw which was besieged by him the last from Franke-fort, containing the King of Bohemia's pursute of his victory obtained against the Emperours forces vnder Leopoldus. Afterwards the marching of the Kings forces vnder Count Mansfield, towards the Landtgraue of Darmestats country, with the abstract of another letter sent from the land of Hessen, relating the aduentures which happened to the Duke Christian of Brunswicke in his iourney towards the Palatinate. The late proceedings in the Low-countries, France, and diuers other parts in Germanie.
+Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A08157
+
+
+
+
+STC 18507.51
+
+
+
+STC 538
+
+
+
+ESTC S104393
+
+
+
+
+
+99840131
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Good nevves from Alsasia and the Palatinate, the fift of Iune The abstract of three seuerall letters, the one sent from Elsas in Alsatia, where Leopold vsed to keepe his court, the other from Hagenaw which was besieged by him the last from Franke-fort, containing the King of Bohemia's pursute of his victory obtained against the Emperours forces vnder Leopoldus. Afterwards the marching of the Kings forces vnder Count Mansfield, towards the Landtgraue of Darmestats country, with the abstract of another letter sent from the land of Hessen, relating the aduentures which happened to the Duke Christian of Brunswicke in his iourney towards the Palatinate. The late proceedings in the Low-countries, France, and diuers other parts in Germanie.
+[2], 18, [2] p.   
+
+
+At London :
+
+
+Printed by B[ernard] A[lsop] for Nicholas Bourne, and Thomas Archer, and are to be solde at the Exchange, and in Popes Head-pallace,
+
+
+1622.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Thirty Years' War, 1618-1648 --  Early works to 1800.
+Germany --  History --  1618-1648 --  Early works to 1800.
+2012-09
+TCP
+Assigned for keying and markup
+2012-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-03
+Geremy Carnes
+Sampled and proofread
+2013-03
+Geremy Carnes
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18507.51
+
+
+S104393
+
+
+99840131
+
+
+4603
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GOOD NEVVES FROM ALSASIA AND THE PALATI∣nate, the fift of Iune.
+
+
+THE ABSTRACT OF THREE SEVE∣rall letters, the one sent from 
+Elsas
+ in 
+Alsatia,
+ where 
+Leopold
+ vsed to keepe his Court, the other from 
+Hagenaw
+ which was besieged by him the last from 
+Franke-fort,
+ con∣taining the King of 
+Bohemias
+ pursute of his Victory obtained against the Emperours forces vn∣der 
+Leopoldus.
+
+
+AFTERWARDS THE MARCHING OF THE Kings forces vnder Count Mansfield, towards the Landtgraue of Darmestats Country, with the Abstract of another letter sent from the Land of Hessen, relating the aduen∣tures which hath happened to the Duke Christian of Brunswicke in his iourney towards the Pala∣tinate.
+
+
+The late proceedings in the Low-countries, France, and diuers other parts in Germanie.
+
+
+At London printed by 
+E. A.
+ for 
+Nicholas Bourne,
+ and 
+Thomas Archer,
+ and are to be solde at the Exchange, and in Popes Head-pallace. 1622.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AN ABSTRACT OVT OF LETTERS WRITTEN FROM ELSAS AND STRABVRGH, bearing date of the 22. of May. 1622.
+
+
+T
+He Towne of Hagenaw being strongly besiege by the Arch Duke 
+Leopoldus,
+ and vpon the 16. of May, all the sconces about it taken by him, but yet with great losse of many of his men, presently there∣upon he sent certaine messengers to Strasburgh, who for the taking in of the Towne made sute vnto them to send him some prouision for the same, hoping vpon the 17. of May, to take it; and for that it is the Imperi∣all chamber, the sayd Arch Duke doubted not, but that the Counsell of the Citie of Strasburgh, would not spare to stretch out their meanes to helpe him, where vpon the sayd Counsell taking no speedy resolution, but rather for a while consulted what they should doe, sent some powder, bullets, and prouant vnto him. But not long after, newes was brought that 
+Fredericke
+ King of 
+Bohemia,
+ and the Earle of Mansfield with their Ar∣mie were not farre from Hagenaw, and that 1000. cra∣baten most cuirassers, that were sent by the Arch Duke to stop Mansfields passage, were set vpon and fought with all by 
+Colonell Ouertront,
+ in which fight 500. of them were slaine, many taken prisoners, and the rest scattered and dispersed abroad. And vpon the 17. day of May in the euening, some of them that fled, got to 
+Leopoldus
+ Campe, and certified him thereof, counsel∣ling him to make preparation to fly away, whereupon
+
+he presently set fire on his Tents, and so went away, leauing the Towne at libertie againe. But the Earle of Mansfield, with all speede and diligence with 10000. men, followed him, and as many of his souldiers as he could get, he slew, and dispersing 
+Leopoldus
+ Armie tooke from him great store of powder, bullets, pillage: and some prouant.
+
+
+And vpon the 18. and 19. of May the sayd Earle of Mansfield pursuing the chase, marched further towards Trusenheim, where 
+Leopoldus
+ souldiers had cast vp a sconse vpon the Rhin, and had fortified the same, wher∣in many of the sayd souldiers had saued themselues, to the number of 2000. men, and had prepared boates ready, if they were assailed, to set them ouer the Rhin, but Mansfield enclosed them round about, and cut∣ting of the boates, and carrying them away, gaue them an alarme, and entring in vpon them, slew them all, and therein found great store of bootie, of the which euery souldier was suffered to take whatsoeuer he could for himselfe.
+
+
+After that vpon the 20. of May many of Mansfields souldiers marched along by Strasburgh, to ouerrun all the Countrie of Elsas, and all those places that 
+Leopol∣dus
+ had taken in, which put 
+Leopoldus
+ souldiers in such a feare that they knew not where to stay, nor to hide themselues, and if it had not beene for a bridge that was broken downe, whereby 
+Colonell Ouertr
+nt
+ came halfe an houre to late, he had taken 
+Leopoldus
+ himselfe, the King of Bohemia went personally to goe into Strasburgh, from whence 
+Leopoldus
+ messengers much grieued, road hastily away, and what soeuer they had obtained of the Towne, Mansfield had the most part thereof.
+
+
+Touching the Marquis of 
+Doerlach
+ his ouerthrow
+
+was not so great, as it was thought to haue beene, who with the first is to enter into the field againe with ten thousand men. It is sayd, that the Duke of 
+Bauaria
+ wrote vnto him, to make good his losses, and to giue him all againe that was taken from him, if hee would leaue the field, and discharge his souldiers; but hee roundly and roughly refused to doe so, and for answer sent him word, that he hoped by Armes to recouer his losses againe.
+
+
+Letters of the 21. also certifie, That after 
+Leopoldus
+ Colonels and Souldiers vnderstood, that 
+Mansfields
+ Armie still marched vpward, and behaued themselues so valiantly, and with such courage against them, they would not stay for him, but retired in flight to 
+Elsas, Sabren, Moltheim
+ and 
+Dacksteim;
+ but their carriage, waggons and women, were all left behinde them, which 
+Mansfield
+ set vpon, and ransacking them, tooke many chaines of gold and jewells from them, but did no hurt to the women, but tooke their quarter from them, and there stayed.
+
+
+Other Letters of the 22. certifie, That the same day six cornets of 
+Leopoldus
+ horsemen came to 
+Mitle∣hinsbergen,
+ that had conuoyed their Colonell 
+Mor∣der,
+ but as then hee was not personally with them: men wondered that 
+Mansfield
+ had not set on them, they said, that in the space of three dayes, they had neyther eaten nor seene any bread, and that they had saued themselues heere and there in the woods, and for a time got fother from the said Towne, and after that went to 
+Strasburgh,
+ being not farre from thence, where staying about the length of a great peece of Or∣dinance shot, without the Towne, they sent a Trum∣pet to offer their seruice vnto them, but the magistrates thanked them, and made them answere, that they had
+
+no need of horsemen, whereupon they intreated the Magistrates, that they might be permitted (if any of 
+Mansfields
+ colonells were in the Towne) to offer their seruice vnto them, and so to yeelde themselues vnto him, which they graunted. But Colonell 
+Ouertront
+ with his brother and cousen that then were there, hea∣ring thereof, rode presently vnto them, with cer∣taine horsemen, and entertaining them with a friend∣ly countenance, asked them why they would no more serue their Lord, they tolde him, that they had not receiued any money in twelue or eighteene moneths, as also, that their Colonell had left them, and that therefore they were discharged of their oathes, and prayed that they might bee entertained in 
+Mansfields
+ Army. The Duke of 
+Saxon
+ in the meane time came to disswade those horse, when they were on the poynt of changing their Spanish Cosaques, & so was taken pri∣soner: he is of the house of 
+Saxen, Lawenberg,
+ his grand∣father was he that was depriued of the Electorate; hee pretends himselfe to be no lawfull prisoner, hauing quitted a Regiment hee had in 
+Hungarie,
+ about seuen moneths since, that hee was at 
+Strasburgh,
+ in expec∣tation of being receiued into the French Kings seruice. That hee came out of the Port of 
+Strasburgh
+ to speake with a Captaine of his brothers Regiment, to reserue himselfe for 
+Fraunce
+ if the Regiment disbanded. His Brother is in 
+Bohemia,
+ where hee hath two other Re∣giments, one of horse and another of foote. But 
+O∣uertrant
+ alleadgeth that he is in 
+Leopoldus
+ seruice, and came out to disswade the Regiment from disbanding, and that hee clapt betweene him and the Port. The Duke saith within the Centrie, but without the Turne pike. What King 
+Fredericke
+ will doe with him, wee shall hereafter heare.
+
+
+
+
+The said 6 Coronets of horsmen said, that the next day, 5 Coronets of 
+Cratische
+ horse∣men, and a regiment of footemen more would also yeeld vnto 
+Mansfield,
+ and enter into pay with him. It is thought the whole army will rise and march towards 
+Elsus Sa∣beren, Moltisheim, Dacstein
+ and other places, for that the said townes haue want of Mu∣nition and prouant, because they were for∣ced to send it all to the campe before 
+Hage∣naw:
+ it is dangerous trauelling in these parts round about: and it is to be feared that all 
+Flsas
+ will yeeld, or forcibly be brought vn∣der King 
+Fredericks
+ command. The Arch∣duke 
+Leopoldus
+ saued himselfe in 
+Freiburge.
+
+
+Further, letters of the 22 of May certifie, that thereabouts they haue strengthened themselues with a few footmen that fled a∣way from 
+Hagenaw,
+ with 5 field peeces, and in great danger; for the Marquis of 
+Durlach
+ who with 7000 foote and 2000 horsemen is entred againe into the field, and hauing discharged and paid all his men, hath again entertained them in King 
+Fredericks
+ name.
+
+
+The relieuing and beating away of the army before 
+Hagenaw,
+ is confirmed by o∣ther
+
+letters: they vvithin the towne could not haue holden out aboue 2 dayes longer: the Archduke 
+Leopoldus
+ in his retraite lost a great peece of ordinance, 26 hundred weight of pou∣der, great store of munition, bullets & match, as also all his cariage, and 500 men that vvere slaine, the rest that saued themselues in the flight, went to 
+Litchtnaw,
+ and further vpvvard to 
+Wilsteden,
+ & are gone ouer the Rhine, & in the ditches about the suburbes, vvhile the gari∣son in 
+Hagenaw
+ valiantly defended themselues: many of 
+Leopoldus
+ souldiers vvere staine in the approch. And newes is now come that 
+Wase∣naw,
+ Colonell 
+Crats,
+ vvith 6 cornets of horse∣men & 2 regiments of footmen, haue left 
+Leo∣poldus,
+ & are falne to 
+Mansfields
+ side, and that foure cornets of horsemen more & a regiment of footmen vvould doe the like.
+
+
+
+
+
+
+An extract of a letter sent from Hagenaw, dated the 
+19
+ of May, 
+1622.
+
+
+The 17 of May the Earle of 
+Mansfield
+ came before 
+Hagenaw,
+ to release the towne from the siege that vvas laid about it by the Archduke 
+Leopoldus;
+ and therefore the said Archduke had
+
+beaten downe the bridge ouer the vvater to hinder the enemies approch; but they vvithin in the space of three houres repaired it againe: but vvhen the Archduke vnderstood of the enemies approch vvith so great forces, in the morning at 6 of the clocke he left the towne, & in great confusion fled away, leauing behind him 4000 loaues of bread & good store of vvine & all other prouision. 
+Mansfields
+ horse∣men set upon the 
+Leopoldians,
+ & kild all they could find, and tooke much booty from them, one vvaggon being laden full of bandoleers for peeces.
+
+
+The 18 of May 
+Mansfields
+ souldiers vvent to 
+Buswild
+ a mile from 
+Hagenaw,
+ vvherein vvas 60 souldiers that yeelded unto them, there they found all maner of munition & a great peece of Ordinance, some peeces of Ordinance were sunke, and 
+Mansfields
+ souldiers were before 
+Cotten,
+ & as it is said haue taken it, & pursued after 
+Leopoldus
+ souldiers, and some of the said 
+Leopoldus
+ souldiers themselues did robbe and ransacke many of his vvaggons, and tooke what they could cary away, the rest they left for 
+Mansfield.
+
+
+
+
+
+
+
+
+An extract out of a letter sent from Frankfor
+ the 
+29
+ of May, 
+1622.
+
+
+That which was last written touching the breaking vp of the siege before the towne of 
+Hagenaw,
+ and the ouerthrow of 
+Leopoldus,
+ is confirmed out of 
+Elsas
+ and 
+Strasburch,
+ after that the towne of 
+Hagenaw
+ vvas besieged by 
+Leo∣poldus
+ vvith an army of 12000 men horse and foote, and the same had by him bin battered eight dayes together: they vvithin issued so valiantly out, and fought so couragiously within, that before it an Italian Colonell and a Lieutenant Colonell, called 
+Fels
+ vvere taken prisoners, vvho vvere much fauoured by 
+Leo∣poldus,
+ and a 1000 men vvere slaine by them, as also the 1000 Crabaten that the said Arch∣duke sent to the towne of 
+Weissenburg
+ to take it, vvere also by the Earle of 
+Mansfield
+ most part slaine and dispersed, and yet dayly some of them are kild by the pesants.
+
+
+The King of 
+Bohemia
+ vvith the Earle of 
+Mansfield
+ and 15000 horse and foote coming to 
+Hagenaw,
+ the 
+Leopoldians
+ vvere already fled, leauing all their cariage and vvaggons vvith munition behind them, and here and there sa∣ued themselues, as they best could doe it: but
+
+the Colonels 
+Ouertr
+nt
+ and 
+M
+gen
+ 
+nderstan∣ding they vvere fled, presently followed after them vvith their horsemen, and kild many of them: vvhich pursuite continued for the space of three dayes till 
+Leopoldus
+ souldiers vvere dri∣uen further away: and in 
+Trusen hey
+i
+ vvood the said Earle of 
+Mansfield
+ enclosed 16 com∣panies of Italian horsemen that could not get out; how they sped, it is yet no
+ certainly knowne, but it is to be feared that few of them vvould escape avvay.
+
+
+At 
+Bisweyld
+ 60 of them also saued th
+∣selues in the castle; vvith those that vvere 
+Dutch
+ and 
+Netherlanders;
+ good quarter vvas holden, but the 
+Spaniards
+ and 
+Wallons
+ vvere all slaine, for amongst them they held no quarter: in that castle they found 460 vveight of powder, and at 
+Brunbt
+ 300 vveight of powder. Thus 
+Leo∣poldus
+ souldiers vvere scattered abroad, and those that vvere not slaine fell from him, as al∣ready many cornets of horse and footmen are entertained by 
+Mansfield,
+ and are entred into pay.
+
+
+It is saids that the Earl
+ of 
+Mansfield
+ lies round about 
+Spiers
+ again
+, to let the 
+Spaniards
+ that are comming thither from ioyning vvith
+
+the 
+Bauarians,
+ and to cut them off. It is confir∣med that the ouerthrow of the Marquis of 
+Durlach
+ was not so great as it was reported to be: the said Marquis in the beginning hauing had the victory against the 
+Spaniards,
+ but his gun pouder being fired, the 
+Spaniards
+ set up∣on him againe, yet 2 spanish Lords were ta∣ken prisoners by him, for whom 
+Monsieur Tilly
+ offered to release all his prisoners, but the Marquis would not, vnlesse hee would restore his Ordinance and munition also a∣gaine.
+
+
+
+
+
+
+An abstract of a letter written from Hessen the 
+22
+ of May, 
+1622.
+
+
+It is reported that the 
+Spaniards
+ and 
+Ba∣uarians
+ intending to set upon the towne of 
+Paderborme,
+ from whence the Duke of 
+Bruns∣wick
+ was gone; the said Duke thereupon re∣turned backe againe, and as vvee heare hath fought with them, where betweene them there was a great fight, wherein many on both sides were slaine, and that the Duke of 
+Brunswick
+ had the victorie, the certaintie whereof is daily expected: it is said y
+t
+ he is gone
+
+with certaine thousand men towards the 
+Pa∣latinate,
+ and hath left good garisons in 
+Lipstat
+ and 
+Soest.
+
+
+As also that upon the 16 of May the said Duke going from 
+Paterborm
+ with his army of 20000 men horse & foot marching to 
+Eisvelt,
+ and hauing made a bridge ouer the 
+Wesel
+ at 
+Hopsel,
+ the Earle 
+Stirom
+ with his horsemen ha∣uing the Rereward, being wartered at 
+Salts Cot∣ten,
+ the 
+Spaniards
+ & 
+Bauarians
+ the night before went thither and made an alarme, setting upon the Rereward, & thought to take their cariage; but the Duke presently relieuing them, kild some of the 
+Spaniards
+ and 
+Bauarians,
+ and tooke some prisoners. And since we heard that the Elector of 
+Colen
+ and the Baron of 
+Anholt
+ had an intent to set upon the Duke of 
+Brunswick
+ as he marched forward, and to that end sent 16 companies of horsemen and some foote to set upon his Rereward; Which the Duke under∣standing, turned back againe, and met with the enemy, hauing eight peeces of Ordinance with him, vvhereupon the enemie furiously set upon him; and he causing his greatest troupes vvith the peeces to retire, presently made a lane, and gaue fire to his Ordinance, and
+
+and therewith put his enemies in such a feare, that they fled away, vvhom he o
+ all sides pur∣sued, and slue three cornets of horse, and eight companies of their footmen, vvhich done he followed on his victorie.
+
+
+And now vve are certified that the said Duke of 
+Brunswick
+ hath bin at 
+Hildesheim
+ be∣longing to the Bishop of 
+Colen,
+ and hath gotten 2000 weeks Dollers of the Capiall, & as much from the 
+Iewes
+ there, for that they hauing taken vp the good mony in the country of 
+Brunswik,
+ caused such bad mony to be minted, that there∣by great complaints and hurt ensued. And af∣ter that the said Duke went to the stift Fulda, and it is said that he is there already, and cau∣seth the Abbot and the Capitoll to giue him a great summe of mony, from whence he in∣tends to go to the Bishopricke of 
+Wirtsburg
+ in 
+Frankenland,
+ and also to the Bishop of 
+Bamburg
+ and other to visit them.
+
+
+It is said that he left a strong garison in 
+Lip∣stat
+ before his d
+parture, being eleuen compa∣nies of horse and footmen, as also in the towne of 
+Ham,
+ these 2 townes are indifferent strong and vvell prouided of all things, so that in cer∣taine moneths they can want nothing.
+
+
+
+
+It is certified from 
+Veni
+e,
+ that in 
+Naples
+ the preparation for the Warre dayly goes for∣ward, and that they haue great want of pro∣uant, as also that there are Souldiers taken vp in the double Donne of 
+Millaine
+ that are to bee sent against those of 
+Valtolina,
+ and the Gri∣sons.
+
+
+They write from 
+Vienna
+ that the same day the Em∣perour rode to the meeting holden in Oldenburgh, wherein hee is to enter the 20. of May, and that the next Munday ensuing, the Propositions shall be pro∣pounded, and then those at Lepenburg and Newstadt shall cease, where the Spauschapper and the princi∣pallest Lords are altogether assembled. With the Em∣perour there went 12. Companies of Foot, and two Regiments of Horsmen. That 
+Bethlem Gabor
+ the Marquesse of Iagarensdorp and the Earle of Thurne and Hof-kirchen are yet at Grootwerden, and cause a great number of Souldiers to march out of Setenber∣ghen to Cassan.
+
+
+Also that the Emperours Generall, the Earle of Ni∣gromont with 
+Don Balthasar,
+ are appointed to goe from thence to the Emperours 
+d 
+Leopoldus
+ his Ar∣my in Elsas.
+
+
+That still they build vp the new Bulwarkes in Vien∣na, and it is said that the Suburbs that were last markt out shall be taken downe againe, and that on the o∣ther side of the Draw-bridge there shall bee a new
+
+Towne built, the ground being freely giuen to that vse.
+
+
+The last Letter from 
+Prague
+ makes mention, that the 1000. Horsemen taken vp by the Duke of Hol∣stein for the Emperour are come into the Gatser Crays, the Commissary of the Musters chiefe Lieu∣tenant is gone thither to muster to muster them, but they will take no other money but rickes Dollars and Golde, there are to goe to the lower Palatinate with the men of 
+Bechmans
+ Regiment, and 5. Companies of 
+Prene∣steines
+ Regiment.
+
+
+Likewise that the 
+Dampier
+ Horsemen, that serued at the beginning of the Warre, because that in long time they haue receiued no pay, quarter themselues at Pilgrimb in Bohemia.
+
+
+That in the Commincke Gratser Territories, there are 3000. Pesants (belonging to the Baron 
+Datsby
+) assembled together, who hauing nothing to liue on, nor no meanes left them to Plow and till the Coun∣trey, are resolutely determined to venture their liues, and to joyne with those that are the strongest, it is said that they were moued and stirred vp vnto that Com∣motion by the young Earle of Thurne, and it is certi∣fied, that not long since they haue pillaged and ran∣sackt the Countrey, 
+d all the wayes 5. myles round about, and haue carryed away all that they could get or come by, and it is reported that the olde Earle of Thurne with some thousands of Walachians, will march through Morauia to relieue his Sonne that is besieged in Glats.
+
+
+
+
+It is written from 
+Cullen,
+ that the day before the King of Bohemia's-departure, Being the 16. of May, there came an Ambassadour vnto him from 
+Bethlem Gab
+r,
+ as also from the Marquesse of Iagarensdorp, with Letters containing as it is thought, that hee would make no peace with the Emperour, but would continue the Warre still and holde with the King.
+
+
+That the Spaniards insconce themselues by Op∣penheim, and the Bauarians at Gilzerhoorn vpon the Necker, 2. myles aboue Heydelburgh.
+
+
+That there are some Galleons and Ships sent out of Spaine and Biscaine, but what they will doe it is not yet knowne.
+
+
+Out of 
+France
+ it is certified, that they of Rochell dayly bring Prizes and booties into the Towne and still strengthen themselues by water. That the King is in the Field with 3. Armies. It is said that Roane is be∣sieged, and that there is great speed made to besiege Rochell both by Water and by Land, but they of Ro∣chell make preparation to withstand it.
+
+
+It is also certified, that the King hath taken 
+Roane
+ by Composition, as also 
+Truingo,
+ and that they marched to St. 
+Foy.
+
+
+It is certified that the Ostenders at Sea, kept 2. and 2. together, and that the Holland
+s Ships follow them and haue driuen of them on ground in England, and we heare another of them is cast away.
+
+
+The Netherland Souldiers out of diuers parts are all march'd vpwards, and our Ships with Ordnance, Bridges, and other Munition are gone higher to and
+
+before Bommell.
+
+
+
+
+
+
+A Letter from Mainheim, dated the 
+24.
+ of May. 
+1622.
+
+
+MY last Letter was on the 14. of May, in which I gaue you to vnderstand of the Archduke 
+Leopoldus
+ his shamefull retreate from Hage∣naw and of his losse there of Munition especially. The King and Count 
+Mansfield
+ marched downe againe to 
+Spires,
+ there the Marquesse of Baden met them, whereupon Consultation it was concluded, that the King & Count 
+Mansfield
+ should passe ouer the Rhine and Necker before at this Towne as they did the day before yesterday, and will be this night in the Land of Darmestat, if God permit.
+
+
+And the Marquesse of 
+Baden
+ is passed the Rhine ye∣sterday as was agreed at Germersheim, and to mor∣row will repasse it heere againe with his Army, and follow the King: which seperation was a bolde and braue Aduenture, yet is like to speed well as such doe often in Warre, for 
+Don Gousa
+ hath sent 25. Coronets of Cauallery to Monsieur 
+Tilly,
+ who lyeth still about Heydelburgh as farr as we heare, and will not meddle with the Coun
+ 
+Mansfield
+ and the Marques of Baden, if they be once ioyned, seeing it appeares that 
+Cordou
+ will not stirre out of his Garrisons with his Infantry. But I would the Marques were with the King, hee for his person behaued himselfe exceeding brauely, as I heare since from the mouthes of his Enemies, and so
+
+did his two younger Sonnes also, who are now also with him, besides the losse of all his Baggage, Artille∣ry and Munition, his men flung away their Armes in their flight, but he hath furnished them againe, by dis∣arming his Subiects.
+
+
+The Duke of 
+Brunswicke
+ is on foot, and like to goe to Bauaria rather then come hither as I heare, and is feared by the way, he takes thorow the Land of 
+Algs∣field,
+ to spare which he hath bin offered 100. Thousand Dollers, but would haue 50. Thousand more. The Duke of 
+Bauaria
+ is going I heare to forme a Campe about 
+Dunaner
+ to resist him, and the Elector of 
+Saxon
+ is drawing his Forces together in 
+Turning,
+ to the same end also as it is thought, but hee will make his part good, vnlesse Monsieur 
+Tilly
+ goe from hence to helpe him, and if hee doe, the Priests and Shauelings and their helpers are like to goe to wracke.
+
+
+It is reported that the Towne of Collen before this, did ayde 
+Spinola
+ with 50. thousand Dollers, and that now also the Hollanders will haue asmuch of the same Towne, what will ensue thereof we shall heare.
+
+
+From Brussels it is certified, that the Earle of 
+Swat∣zenburgh
+ the Emperours Ambassadour is arriued there out of England, and yet stayes there, as also an Ambassadour out of England, and that they haue be∣gun to enter into a treaty. That the Countesse of 
+Bucquoy,
+ with her Sonne 
+Albertus,
+ and the Earle 
+Biglia
+ her Brother, were ready to depart from thence with 
+Don Iean Heruaert,
+ to goe to Vienna, and carry the Duke of Lichtenstein, and the Earle of Megen the Golden Fleece.
+
+
+
+
+From the East Countrey it is written, that the King of Denmarke, hath sent Ambassadours to the Empe∣rour and the Duke of Saxon, to bee a meanes to pro∣cure Peace to be made in the Empire, and that the Palatinate may be restored againe, In the meane time the said King takes vp a great number of Souldi∣ers in the Land of Holst, Denmarke, and o∣ther places, and 3. Pesants are forced to set out one Souldier.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

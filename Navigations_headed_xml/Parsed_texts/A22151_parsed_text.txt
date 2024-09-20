@@ -1,0 +1,190 @@
+By the lords of His Maiesties priuie councell whereas in diuers ports of this kingdome, the officers of the said ports doe exact a certaine pettie duety, commonly called head money ...
+England and Wales. Privy Council.
+Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-04 (EEBO-TCP Phase 2).
+A22151
+
+
+
+
+STC 8562
+
+
+
+ESTC S3727
+
+
+
+
+
+ocm 33150858
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+By the lords of His Maiesties priuie councell whereas in diuers ports of this kingdome, the officers of the said ports doe exact a certaine pettie duety, commonly called head money ...
+England and Wales. Privy Council.
+James I, King of England, 1566-1625.
+1 sheet ([1] p.).   
+
+
+Imprinted at London :
+
+
+By Bonham Norton, and Iohn Bill, Deputies and Assignes of Robert Barker, Printer to the Kings most Excellent Maiestie,
+
+
+An. Dom. M.DC.XVII [1617, i.e. 1618]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+International travel regulations --  Great Britain --  Early works to 1800.
+Great Britain --  Foreign relations --  France.
+Great Britain --  History --  James I, 1603-1625.
+Broadsides --  London (England) --  17th century.
+2008-08
+TCP
+Assigned for keying and markup
+2008-11
+SPi Global
+Keyed and coded from ProQuest page images
+2009-02
+Scott Lepisto
+Sampled and proofread
+2009-04
+SPi Global
+Rekeyed and resubmitted
+2010-03
+John Pas
+Sampled and proofread
+2010-03
+John Pas
+Text and markup reviewed and edited
+2010-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+8562
+
+
+33150858
+
+
+28786
+
+
+
+
+
+
+
+
+
+
+
+
+¶ By the Lords of His Maiesties Priuie Councell.
+
+
+W
+Hereas in diuers Ports of this Kingdome, the Officers of the said Ports doe exact a certaine pettie duety, commonly called 
+Head-money,
+ vpon euery Passenger, aswell at their going forth, as at their entrance into the King∣dome, which is now absolutely taken away and ablished, by a Treatie some few yeeres since made and concluded betwixt His Maiestie and the most 
+Christian French King,
+ that now is, both in these His Maiesties King∣domes, as also in the Realme of 
+France,
+ and all other Dominions belong∣ing to that Crowne, as concerning those of the English and French Na∣tion: These shall bee to let you knowe, that His Maiestie intending (as al∣waies hee hath done) really to obserue the said Treaty in that and all o∣ther Articles therein contained, hath giuen strait charge and com∣mandement, that no Officer, nor other person whomsoeuer, shall presume hereafter to exact or de∣mand the said 
+Head-money,
+ vpon any Subiects of His good Brother the most 
+Christian French King,
+ that shall haue occasion to passe at that Port, or any the members thereof, either at his going forth or landing, but that it may bee free for all such persons, of what condition or degree soeuer, against whome there shall bee no other particular cause of restraint to passe, as aforesaid, without the ex∣action of this or any duetie of the like nature whatsoeuer. To which His Maiesties Royall plea∣sure and expresse commandement; Wee doe in his Highnesse name straitly charge and command you and euery of you, whome it may concerne, to conforme your selues, that you doe not henceforth demaund, or suffer to be demaunded the said pretended duetie, commonly called 
+Head-money,
+ nor a∣ny thing in the nature or Lieu thereof, as you will answere the contrary at your perill, and as you will auoid His Maiesties high displeasure.
+
+
+Giuen at the Court at 
+Whit
+hall
+ 
+the fifteenth of March, in the fifteenth yeere of His Maiesties Reigne of 
+England, France,
+ and 
+Ireland,
+ and of 
+Scotland
+ the one and fifty, 
+1617.
+
+
+To all Maiors, Portreeues, Customers, Comptrollers, Searchers of Ports, and all other His Maiesties Officers whom it may concerne, and to euery of them.
+
+
+
+
+G. Cant.
+
+
+Pembroke.
+
+
+Th. Edmonds.
+
+
+Fr. Bacon, 
+Canc.
+
+
+T. Arundell.
+
+
+Tho. Lake.
+
+
+T. Suffolke.
+
+
+Iames Hay.
+
+
+Iul. Caesar.
+
+
+Lenox.
+
+
+F. Cary.
+
+
+
+
+
+
+
+
+
+
+
+
+❧ Imprinted at London by Bonham Norton, and Iohn Bill, Deputies and Assignes of Robert Barker, Printer to the Kings most Excellent Maiestie. AN. DOM. M.DC.XVII.
+
+
+
+
+
+
+
+
+

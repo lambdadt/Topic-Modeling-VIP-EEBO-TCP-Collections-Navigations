@@ -1,0 +1,734 @@
+A pleasant description of the fortunate ilandes, called the Ilands of Canaria vvith their straunge fruits and commodities. Verie delectable to read, to the praise of God. Composed by the poore pilgrime.
+Nicholas, Thomas, b. ca. 1532.
+Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-12 (EEBO-TCP Phase 2).
+A17891
+
+
+
+
+STC 4557
+
+
+
+ESTC S112725
+
+
+
+
+
+99847970
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A pleasant description of the fortunate ilandes, called the Ilands of Canaria vvith their straunge fruits and commodities. Verie delectable to read, to the praise of God. Composed by the poore pilgrime.
+Nicholas, Thomas, b. ca. 1532.
+[24] p.   
+
+
+Imprinted at London :
+
+
+By Thomas East,
+
+
+1583.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Canary Islands --  Description and travel --  Early works to 1800.
+2010-06
+TCP
+Assigned for keying and markup
+2010-07
+SPi Global
+Keyed and coded from ProQuest page images
+2010-08
+Olivia Bottum
+Sampled and proofread
+2010-08
+Olivia Bottum
+Text and markup reviewed and edited
+2011-06
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+4557
+
+
+99847970
+
+
+13041
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A PLEASANT description of the fortunate Ilandes, called the I∣lands of CANARIA, vvith their straunge fruits and commodities.
+
+
+VERIE DELECTA∣ble to read, to the praise of God.
+
+
+Composed by the
+ poore Pilgrime.
+
+
+¶Imprinted at London by Thomas East. 1583.
+
+
+
+
+
+
+
+
+
+
+¶ TO THE RIGHT WOR∣shipfull Master Ihon Woolley Esquire, one of the Secretaries to the Queenes 
+most excellent Maiestie.
+
+
+P
+Ore Pilgrimes vse, Right worshipfull sir, that after their wearie iournies, & re∣turne into their natiue soile, to communicate the troth, of anie thing worthie to be knowen and of them seene, among their es∣peciall friends which are learned, and also louers of such kinde of vocation. The holy scripture sheweth vs, that when the wise men called Magi, being led by a straunge starre, to the place where Christ our Sauior was borne, at which place the starre did not only staie, but also gaue a wonderful bright∣nes with shining beams, to assure them that there the Sauiour was. Vndoubtedly these men letted not to declare these maruailous things & visions, at their returne, as appea∣reth at this present, that in Aethiopia & the East Countries, are an infinite number of Christians▪ Likewise the Eunuch, messenger to the Queene of Candace, letted not to manifest in his Countrie, the miraculous things that he had seene in Ierusalem when
+
+
+Christ our Redeemer suffered the most bit∣ter death of the crosse. Nor yet the Queene of Sabba, kept in secret the wisdome of Sa∣lomon.
+
+
+But the cause Right worshipfull, that I tooke this little Pamphlet in hand, was tho∣rough the writing of Andrewe Theuet a Frenchman, who wrote of the Fortunate I∣landes by hearesay: But I poore Pilgrime maie call those Ilands infortunate: for there was I apprehended for an heretike and an open enimie to the Romish Churche, and there deteyned in that bloudie Inquisition, the space of fiue yeares, & now come home to offer this little worke to your worship, because your helping hand is alwaies ready to fauor and further anie vertuous or good attempt. Beseeching your worship to ac∣cept it, & to consider that poore Pilgrimes haue not any other thing to giue, & the Al∣mightie graunt your hearts desire.
+
+
+At commaundement: The
+ P.P.
+
+
+
+
+
+
+
+
+
+
+
+
+¶ A DESCRIPTI∣on 
+of the fortunate Ilandes,
+ now called the Ilandes of Canaria, with their perticular Com∣modities.
+
+
+P
+LATO
+ in his 
+Thimeo,
+ writeth, that about 750. yeres past, ther was a great Ilande lieng in the Ocean Sea, in Front of 
+Hercules
+ Pillers, which stood at that time in the Iland of 
+Cadez,
+ this Ilande was called 
+Atlantica,
+ which lande by Gods permission sonke, sauing certaine I∣lands which yet remaine called the Ilands of 
+Cabo Verde,
+ the Ilands of 
+Canaria,
+ and the Ilands of 
+Azores
+ and others.
+
+
+The opinion of 
+Plato
+ séemeth to be true, because the Coast of 
+Grunea
+ hath sands & shallowes lying out a great way into the maine Ocean, which agréeth as parcell appertayning to the other Ilandes be∣fore rehearsed. Some of the 
+Canaria
+ I∣lands as the Ile of 
+Fortauentura
+ by name, lyeth 50. leagues distaunt from the conti∣nent land of 
+Africa,
+ and the Ilands of 
+A∣zores
+ néere 300. leagues.
+
+
+The opinion of 
+Plato
+ shall serue for this purpose, to the which I remit me. Be∣cause mine intēt is, particularly to speak of the 
+Canaria
+ Ilands, which are seuen in number, wherein I dwelt the space of vij. yeares and more, because I finde such va∣rietie in sundry writers, & especially great vntrothes, in a booke called the new found worlde Antartike, set out by a French man called 
+Andrew Theuet,
+ the which his booke he dedicated to the Cardinall of 
+Sens,
+ keeper of the gteat seale of 
+Fraunce.
+
+
+It appeareth by the said booke that hée had read y
+e
+ works of sundrie philosophers, Astronomers, & Cosmographers, whose opi∣nions he gathered together. But touching his owne trauaile which hée affirmeth, I referre to the iudgement of the experient in our daies, and therefore for mine owne part I write of these 
+Canaria
+ Ilandes, as time hath taught me in manie yeares.
+
+
+
+
+The Iland of Canaria.
+
+
+THE Iland of 
+Canaria
+ is almost com∣parable in length to breadth, contey∣ning 12. leagues in length, touching the which as principall & the residue, the 
+Spa∣niards
+
+
+
+hold opinion, y
+t
+ they discouered it in their nauigation toward 
+America,
+ but the 
+Portingals
+ say, that their nation first found the said Ilandes, in their Nauigation to∣ward 
+Aethiopia
+ and East 
+India.
+
+
+But truth it is that the 
+Spaniards
+ first conquered these Ilands, with diuers Eng∣lish Gentlemen in their companie, whose descendents this present daie inioyeth thē. Some write that this Iland was named 
+Canaria
+ by meane of the number of dogs which there were found. As for example, 
+Andrew Theuet
+ saith, y
+e
+ one 
+Iuba
+ carryed two dogges from thence: but that opinion could I neuer learne by anie of the natu∣rall people of the Countrie, although I haue talked with many in my time, & with many of their children. For truth it is, that there were dogges, but such as are in all the Norwest lands, and some parte of y
+e
+ West 
+India,
+ which serued the people in stéed of shéepe for victuall. But of some of the conquerours of those Ilandes I haue heard say, that the reason why they were called 
+Canaria
+ Ilands, is, there groweth generally in them all, a foure square cane in great multitude together, which in tou∣ching them wil cast out a liquor as white
+
+
+as milke, which liquor is ranke poyson, and at the first entrie into these Ilandes, some of the discouerers were therewith poysoned: for many yeares after that con∣quest, the inhabitants began to plant both wine and Sugar, so that 
+Canaria
+ was not so called by Sugar canes.
+
+
+The people which first inhabited this lande were called 
+Canaries
+ by the conque∣rours, they were clothed in goate skinnes made like vnto a loose cassocke, they dwelt in caues in the Rockes, in great amitie & brotherly loue. They spake all one lan∣guage, their chiefe féeding was gelt dogs, goates, and goates milke, their bread was made of Barlie meale and Goats milke, called 
+Gofia,
+ which they vse at this daie, and thereof I haue eaten diuerse times, for it is accounted excéeding wholesome.
+
+
+Touching the originall of these people, some holde opinion, y
+t
+ the 
+Romanes
+ which dwelt in 
+Africa
+ exiled them thether, as well men as women, their tongues béeing cutte out of their heades, for blasphe∣mie against the Romane Gods. But how∣soeuer it were, their language was speci∣all, and not mixed with Romane spéech or Arabian.
+
+
+This Iland is now the principallest of all the rest, not in fertilitie, but by reason it is the seate of Iustice and gouernment of all the residue. This Ilande hath a speciall Gouernor for the Iland onely, yet notwithstanding there are thrée Iudges called Auditours, who are superiour Iud∣ges, and all in one iointly procéede as the Lord Chanceller of anie realme.
+
+
+To this Citie from all the other I∣lands come al such by appeale, as haue su∣stained any wrong, and these good Iudges doo remedie the same. The Citie is called 
+Ciuitas Palmarum,
+ it hath a beautifull Cathedrall Church, with all dignities therevnto pertaining. For the publike weale of the Iland ther are sundrie Alder∣men of great authoritie, who haue a coun∣sell house by themselues. The Citie is not onely beautifull, but the citizens curious and gallant in apparell. And after anie raine or foule weather a man maye goe cleane in Veluet slippers, because y
+e
+ ground is sandie, the aire verie temperate, without extreame heat or colde.
+
+
+They reape wheate in Februarie, and againe in Maie, which is excellent good, & maketh bread as white as snow. This I∣land
+
+
+hath in it other thrée faire townes, the one called 
+Telde,
+ and y
+e
+ second 
+Galder
+ the third 
+Guia.
+ It hath also 12. Sugar houses called 
+Iugenios,
+ in which they make great quantitie of good sugar.
+
+
+The manner of the growth of Sugar is in this sort, a good ground giueth soorth fruit nine times in 18. yéere. That is to saie, the first is called 
+Planta
+ which is laid a long in a vorrowe, so that the water of a sluce may come ouer euerie roote being co∣uered with earth: this roote bringeth forth sundrie canes, and so consequently all the rest. It groweth two yeares before the yéelding of profit, and not sixe monethes, as 
+Andrew Theuet
+ the French man wri∣teth.
+
+
+Then are they cut euen with the ground, and the tops and leaues called 
+Coholia
+ cut off, and the canes bound into bundels like faggets, & so are carried to the sugar house called 
+Iugenio,
+ where they are ground in a mill, and the iuyce thereof conuayed by conduct to a great vessell made for the purpose, where it is boyled till it waxe thicke, and then is it put into a fornaice or earthen pots of the moulde of a Sugar loafe, & then is it carryed to another house,
+
+
+called a purging house, where it is placed to purge the blacknes with a certain clay that is laid thereon. Of the remainder in the cauldron is made a second sort called 
+Escumas,
+ and of the purging liquor that droppeth from the white Sugar is made a third sort, and the remainder is called 
+Panela
+ or 
+Netas,
+ the refuse of all the purg∣ing is called 
+Remiel
+ or 
+Mallasses:
+ and ther∣of is made another sort called 
+Refinnado.
+
+
+When this first fruit is in this sorte gathered called 
+Planta,
+ then the Cane field where it grew, is burned ouer with Su∣gar straw to the stumps of the first canes, and being husbanded, watred & trimmed, at y
+e
+ end of other two yeres, it yéeldeth the second fruite called 
+Zoca.
+ The third fruite is called 
+Tercia Zoca,
+ the fourth 
+Quarta Zoca,
+ and so orderly the rest till age cau∣seth the olde Canes to be planted againe.
+
+
+This Iland hath singular good wine, especially in the towne of 
+Telde,
+ and sun∣drie sortes of good frutes, as Batata, Mel∣lons, peares, Apples, Orenges, Lemmons. Pomegranads, Figs, Peaches of diuerse sortes, and many other fruites: but especi∣allye the 
+Plantano
+ which groweth néere brooke sides, it is a trée that hath no Tim∣ber
+
+
+in it, but groweth directly vpward w
+t
+ y
+e
+ bodie hauing maruailous thick leaues, & euery leafe at the toppe of two yeardes long and almost halfe a yearde broade.
+
+
+The Trée neuer yéeldeth fruite but once, and then is cut down, in whose place springeth another, and so still continueth. The fruit groweth on a braunch, and eue∣rie trée yéeldeth two or thrée of those bran∣ches, which beareth some more and some lesse, as some 40. and some 30. the fruit is like a Cowcumber, and when it is ripe it is blacke, and in eating more delicate then anye conserue. This Ilande is suffici∣entlye prouided of Oxen Kine, Camelles, Goates, shéepe, Capons, Hens, Ducks, and Pidgeons, and great Partridges. Woode is the thing that most wanteth: and be∣cause I haue perticularly to deale of the other sixe Ilands, I leaue further inlarg∣ing of 
+Canaria,
+ which standeth in 27. de∣grées distant from the 
+Aequator.
+
+
+
+
+
+
+The Ile of Tenerif.
+
+
+THE Iland of 
+Tenerif
+ standeth in 27. degrées & a halfe, from the equator, & is distāt frō 
+Canaria
+ 12. leagues, Northward.
+
+
+This Ilande conteineth 17. leagues in length, and the land lyeth high in forme of a ridge of sowen lande in some parte of 
+England,
+ and in the middest of the sayde place standeth a round hill called 
+Pico De∣teythe,
+ scituated of this sort. The toppe of this pike conteineth of height directly vp∣ward 15. leagues and more, which is 45. English miles, out of the which often∣times procéedeth fire and brimstone, & may be about halfe a mile compasse: the sayde toppe is in forme or likenesse of a caldron. But within two miles of y
+e
+ top is nothing but ashes and pomish stones: yet beneath that two miles, is the colde region couered all the yeare with Snowe, and somewhat lower are mightie huge trées growing called 
+Vinatico
+ which is excéeding heauie, and will not rot in anie water, although it lye a thousand yéeres therein. Also there is a wood called 
+Barbusano,
+ of like vertue, with many Sauine trées and Pine trées. And beneath this sorts of trées are woods of Baie trées, of x. & 12. miles long, which is a pleasant thing to trauaile through, a∣mong y
+e
+ which are great numbers of small birdes, which sing excéeding swéete: but es∣pecially one sort that are verie little, and
+
+
+of coulour in all respects like a Swallow, sauing he hath a little blacke spot on his breast as broade as a pennie. He singeth more swéeter then all the rest, but if he be taken and imprisoned in a cage, he liueth but a small while. This Iland bringeth forth all sortes of fruites as 
+Canaria
+ doth, and also all the other Ilands in generall, bringeth forth shrubbes or brushes, out of the which issueth a iuyce as white as milke, which after a while that it hath come out waxeth thicke, and is excéeding good Birdlime, the bush is called 
+Taybay∣ba.
+ This Iland also bringeth forth another trée called 
+Drago,
+ which groweth on high among rockes, and by incission at the foote of the trée issueth out a liquor like bloud, & is a common drugge among Apothecaries. Of the wood of this trée are made targets greatly estéemed, because if anie sword or dagger hit thereon, they sticke so fast that it is hard plucking them out.
+
+
+This is the most fruitfullest Iland of all the rest for corne, and in that respect is a mother or nurse to al y
+e
+ others in time of néed. There groweth also a certaine mosse vpon the high rockes called 
+Orchel,
+ which is bought for Diars to die withall. There
+
+
+are 12. 
+Ingenios
+ called sugar houses, which make great quantitie of Sugar.
+
+
+There is also one league of grounde which stādeth betwéene two towns, y
+e
+ one called 
+Larotaua,
+ & the other 
+Rialeio,
+ which is thought that the like plot of ground is not in all the world. The reason is, that this one league of ground produceth swéet water out of the cliffes or rockie moun∣taines, corne of all sortes, fruites of all sortes, and excellent good silke, flaxe, waxe, and honnie, and verie good wines in abun∣dance, with great store of Sugar and fire woode. Out of this Iland is laden greate quantitie of wines for the west 
+India,
+ and other Countries. The best groweth on a hill side called the 
+Ramble.
+
+
+There is in that Iland a faire Citie, standing thrée leagues from the sea, néere vnto a lake called 
+Laguna,
+ wherin are two faire Parish Churches, there dwelleth the gouernour who ruleth al that Iland with iustice. There are also Aldermen for the publike weale, who buy their offices of the king: the most of the whole inhabitants of this Citie are Gentlemen, Merchants, and husband men.
+
+
+There are other foure Townes called
+
+
+
+Sancta Crux, Larotaua, Rialeio,
+ and 
+Gara∣chico?
+
+
+In this Iland before the conquest dwelt seauen kinges, who with all their people dwelt in caues, and were cloathed in goat skinnes, as the 
+Canaria
+ people were, and with such like order of dyet as they had. Their order of buriall was, that when a∣nie died, he was carried naked to a greate caue, where he was propped vp against the wall standing on his féete. But if he were of anie authoritie among them, then had hée a staffe in his hand, & a vessell of milke standing by him. I haue séene caues of 300. of these corps together, the flesh béeing dryed vp, the bodie remained as light as parchment. These people were called 
+Guā∣ches,
+ by naturall name they spake another language cleane contrarie to the 
+Canari∣ans,
+ and so consequētly euerie Iland spake a seuerall language. Note gentle Rea∣der that the Ilande of 
+Canaria,
+ the Ile of 
+Tenerif,
+ and the Ile of 
+Palme
+ appertaine to the King of 
+Spaine,
+ vnto whome they rent fiftie thousand Duckets yéerely for custome & other profits. All these Ilandes ioyntly are one Bishoprick, which rent to the Bishop is 12. thousand duckets yéerly,
+
+
+and this I conclude of the Ile of 
+Tenerif,
+ which standeth 27. degrées and a halfe, as I haue before declared.
+
+
+
+
+
+
+Gomera.
+
+
+THe Iland of 
+Gomera
+ standeth West∣ward from 
+Tenerif,
+ in distaunce sixe leagues: this is but a smal Iland contain∣ing 8. leagues in length. It is an Earle∣dome, and the Lord thereof is called, the Earle of 
+Gomera.
+ But in case of anie con∣trouersie the vassalls may appeale to the kings superiour Iudges which reside in 
+Canaria.
+
+
+This Iland hath one proper towne, cal∣led 
+Gomera,
+ which hath an excellent good port or harbor for ships, where oftentimes the India Fléete, take refreshing for their voyage.
+
+
+There is also sufficient graine and fruit for the maintenaunce of themselues.
+
+
+There is one 
+Iugenio
+ or Sugar house, with great plentie of wine and other sorts of fruits, as 
+Canaria
+ and 
+Tenerif
+ hath.
+
+
+This Iland yéeldeth no other commo∣ditie but onely Orchell, it standeth in 27. degrées distant from the Equator toward
+
+
+the pole Articke.
+
+
+
+
+
+
+The Ile of Palma.
+
+
+THe Ile of 
+Palma
+ standeth. 12. leagues, distaunt from thy Ile 
+Gomera
+ Nor∣westward. This Iland is fruitfull of wine and Sugar: it hath a proper Citie, called the Citie of 
+Palma,
+ where is great contraction for wines, which are laden for the West 
+India
+ & other places. This citie hath one faire Church, and a gouernour, & Aldermen to mainetaine and execute iu∣stice. It hath also another pretie Towne, called 
+S. Andrewes.
+ It hath also foure 
+In∣genios
+ which make excellent sugar, two of the which are called 
+Zauzes,
+ and the other two, 
+Tassacort.
+
+
+This Iland gathereth but little bread corne: but rather is thereof prouided from 
+Tenerif
+ and other places.
+
+
+Their best wines grow in a soile called the 
+Brenia,
+ where yéerely is gathered 12. thousand Buts of wine like vnto maulm∣sies. This Iland standeth round, and con∣taineth in circuit néere 25. leagues. It hath plentie of all sorts of fruits, as 
+Canaria
+ & 
+Tenerif
+ hath, it standeth in twentie sea∣uen
+
+
+degrées and a halfe.
+
+
+
+
+
+
+The Iland of Yron, called Hierro.
+
+
+THis Iland standeth 10. leagues distant from y
+e
+ Iland of 
+Palma
+ Weastward: it is but a little Ilande, which containeth sixe leagues in circuite, and hath but small peroblation. It appertayneth to the Earle of 
+Gomera.
+ The chiefest commo∣ditie of this Ilande is Goates flesh and Orchell. There is no Wine in all that I∣land, but onely one vineard that an Eng∣lish man of 
+Taunton
+ in the West Coun∣trie planted among rockes, his name was 
+Iohn Hill.
+
+
+This Iland hath no kinde of fresh wa∣ter but onely in the middle of the Ilande groweth a great trée with leaues lyke an Oliue trée, which hath a great sesterne at the foote of the said trée. This Trée conti∣nually is couered with clowdes, and by meane thereof, the leaues of the sayde Trée dooeth still droppe Water, verye swéete into the sayd Sesterne, which com∣meth to the sayd trée from the clowdes by attraction. And this water sufficeth the I∣land
+
+
+for all necessitie, as well the Cattell, as for the inhabitants. It standeth in 27. degrées.
+
+
+
+
+
+
+The Iland of Lanzerot.
+
+
+THe Ilande of 
+Lanzerot
+ standeth xviij. leagues distaunt from 
+Gran Canaria
+ Southeastward, the onely commoditie of this Iland, is Goats flesh and Orchell. It is an Earldome, & doth appertaine to 
+Don Augustine de Herrera,
+ w
+t
+ title of Earle of 
+Fortauentura
+ & 
+Lanzerot.
+ But the vassalls of these Earledomes, may in any cause of wrong, appeale to y
+e
+ Kings Iudges, which reside in 
+Canaria,
+ as I haue sayd before: because although the King hath reserued to himselfe but onely the thrée fruitfull I∣lands, called 
+Canaria, Tenerif,
+ & 
+Palma,
+ yet hée also reserued the rod of iustice to him∣selfe, because otherwise the vassals might bée euill intreated of their Lords.
+
+
+From this Iland is wéekly brought to 
+Canaria, Tenerif,
+ & 
+Palma,
+ boates laden w
+t
+ dried Goates flesh, called 
+Tussinetta,
+ which serueth in stéed of bacon, and is very good meate. This Iland standeth in 26. degrées and is in length 12. leagues.
+
+
+
+
+
+
+
+
+The Ile of Fortauentura.
+
+
+THE Ile of 
+Fortauentura
+ standeth 50. leagues distant from the Promontorie of 
+Cabo de Guer,
+ in the firme land of 
+Af∣frica,
+ and 24. leagues distant from 
+Canana
+ Eastward. This Iland doth appertaine to the Senior of 
+Lanzerot.
+ It is reasonable fruitfull of Wheate and Barly, and also of Kine, Goats, and Orchell: this Ile is 15. leagues long and 10. leagues broad on the North side. It hath a little Ilande about one league distant frō y
+e
+ maine Iland be∣twéene both of the which it is nauegable for anie ships, and is called 
+Graciosa.
+
+
+Both 
+Fortauentura
+ and 
+Lanzerot
+ haue verie little wine of the growth of those I∣lands. It standeth in 27. degrées.
+
+
+Thus much haue I written of these 7. Ilands by experiēce, because I was a dwel∣ler there as I haue sayd before, the space of seauen yeares, in the affaires of Master 
+Thomas Lock,
+ Master 
+Anthonie Hikman,
+ and Master 
+Casthin,
+ who in those dayes were worthie Merchants, and of great cre∣dit in the citie of 
+London.
+
+
+
+
+
+
+A description of the Iland of Madera.
+
+
+THE Iland of 
+Madera
+ standeth in 33. degrées distant from the equinoctinall line, and 70. leagues from the Ile of 
+Te∣nerif
+ Northeastward, & Southwest from 
+Hercules
+ pillers. This Iland was discoue∣red, conquered, & inhabited by y
+e
+ 
+Portingall
+ nation: it was first called y
+e
+ Iland of 
+Ma∣dera,
+ by reason of the great wildernesse of sundrie sorts of trées that there did grow, and yet dooth, as Ceder, Cipers, Vinatico, Barbuzano, Pine trées, and diuers others, and therefore the sayd Iland continueth still with the same name. Howbeit they hold opinion that betwéene the said Iland and the Ile of 
+Palma
+ is an Iland not yet discouered, which is the true Iland 
+Made∣ra
+ called S. 
+Brandon.
+ This Iland renteth a great sum of money to the king of 
+Por∣tingal
+ yéerely: it hath one faire citie called 
+Fouchall,
+ which hath a faire port or har∣bour for ships, and a strong Bulwarke, & a faire Cathedrall Church, with a Bishop & other dignities therevnto appertaining. There is also iustice and gouernment ac∣cording to the 
+Portingal
+ vse. But causes of appellation are remitted to y
+e
+ citie of 
+Lis∣borne
+ in 
+Portingal,
+ to the kings superiour Iudges there. This Iland hath another
+
+
+towne called 
+Machico,
+ which hath like∣wise a good rode for ships. There is also. 16 Sugar houses called 
+Ingenios,
+ which make excellent good Sugar.
+
+
+There is besides the gooly timber before declared, greate store of diuers sortes of fruites, as peares, apples, plummes, wilde dates, peaches of diuerse sortes, Mellons, Batatas, Oringes, Lemons, pomgranads, Cidrons, Figs, and all manner of garden hearbs. Ther are many Dragon trees, such as grow in y
+e
+ 
+Canaria
+ Ilands. But chiefly this land produceth great quantitie of sin∣gular good wines which are laden for ma∣nie places. On the North side of this land thrée leagues distant from the maine I∣land standeth another little Iland, called 
+Porto santo:
+ y
+e
+ people therof liueth by hus∣bandrie, for the Iland of 
+Madera
+ gathereth but little corne: but rather is thereof pro∣uided out of 
+Fraunce
+ and from the Iland of 
+Tenerif.
+ On the East side of the Ile of 
+Madera
+ sixe leagues distant standeth ano∣ther little Iland called the Desart, which produceth onely Orchell, and nourisheth a great number of Goates. For the prouisi∣on of the maine Iland, which may be 30. leagues in circuit, and the land is of great
+
+
+height where those trées grow. It is won∣der to sée the conueiance of the water to y
+e
+ 
+Ingenios
+ by mines through the moun∣taines.
+
+
+In the midde waie betwéene 
+Tenerif,
+ and the Iland of 
+Madera
+ standeth a little solitarie Iland called the 
+Saluages,
+ which may be about one league in compasse, which hath neither trée nor fruit, but onely foode for Goates.
+
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+
+
+

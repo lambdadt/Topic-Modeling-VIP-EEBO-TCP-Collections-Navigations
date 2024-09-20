@@ -1,0 +1,7965 @@
+The Royal voyage, or, The Irish expedition a tragicomedy, acted in the years 1689 and 90.
+Approx. 122 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A57800
+
+
+
+
+Wing R2157
+
+
+
+ESTC R35329
+
+
+
+
+
+ocm 15247561
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The Royal voyage, or, The Irish expedition a tragicomedy, acted in the years 1689 and 90.
+[6], 32 [i.e. 56] p.   
+
+
+London :
+
+
+Printed for Richard Baldwin ...,
+
+
+1690.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+2013-10
+TCP
+Assigned for keying and markup
+2013-11
+SPi Global
+Keyed and coded from ProQuest page images
+2013-12
+Enrique Valdive
+Sampled and proofread
+2013-12
+Enrique Valdive
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+R2157
+
+
+R35329
+
+
+15247561
+
+
+103279
+
+
+
+
+
+
+
+
+
+
+
+
+THE 
+Royal Voyage.
+ OR THE IRISH EXPEDITION: A Tragicomedy, 
+Acted in the Years
+ 1689 
+and
+ 90.
+
+
+—
+Regis ad Exemplum
+
+
+Claud.
+
+
+LONDON;
+ Printed for 
+Richard Baldwin,
+ in the 
+Old-Baley, A. D.
+ 1690.
+
+
+
+
+
+
+
+
+
+
+TO THE READER.
+
+
+NOT to cheat thee with a Preface instead of a Book, nor make this Brat of my own Brain such a Rickety Crea∣ture, as to have its Head bigger than all the rest of the Body, both middle and t'other end; I'll only dispatch a little ne∣cessary business, and then Gentlemen step in and take your Places: Or to be a little more Heroical, the Musick has played the last time, the Candles are all Snuffed, and the Curtain is just about to be drawn up.—Know ye, first and foremost, that the Name of this following Play relates to another part yet to come, which will more signally fill the Title; though this has enough of the 
+Royal Voyage
+ in it to make that good and proper in this, as well as the other. The 
+Con∣quest of Granada
+ is only begun in the first part, nay, no more than the Siege on't, yet the propriety of the Title none ever questioned to that part as well as the other.
+
+
+The next thing I'm to do you, to wit, is, that the 
+End
+ of this Play is chiefly to expose the Perfidious, Base, Cowardly, Bloody Na∣ture of the 
+Irish,
+ both in this and all past Ages, especially to give as lively a Scheme as will consist with what's past, so far of the worse than Heathenish Barbarities committed by them on their Peaceable British Neighbours, in that Bloody and Detestable Massacre and Rebellion of 
+Forty One,
+ which will make the Nation stink as long as there's one Bog or Bog-trotter left in it.
+
+
+Wherein, though every one knows this way of Writing al∣lows great Liberty; I protest 'twas impossible to invent more dread∣ful things than I found ready to my Hand; nay scarce could a single circumstance be any where added to set their Murders in a better
+
+Light,—the Instances themselves, as History gives 'em, being such glaring ones, that Hell-Fire itself could scarce make 'em brighter. Nor even here have I taken any thing for granted, though there's so much abundant Evidence of the truth of all here asserted, even from the acknowledgment of some more ingenuous among 'em, 
+Beling, Walsh,
+ &c. of their own Writers, and from the Pride and glory which others of them take in relating what then happened, instead of those few Hundred Thousands Murder'd, only wishing that All had gon the same way; but dropping that advantage, have confined my self even to the Chastness of an Historian, examining as the Reader will find, all the material Objections those wicked People can make to our Accusations, and all those thin Excuses where∣with they generally impose upon the Ignorant, and in vain en∣deavour to palliate their unheard of Inhumanities. I am confident I have herein done 'em Justice, and urged their Arguments as far and as home, perhaps closer, than any of them could have done for themselves. And if I have made one Exception from the general Rule, and introduced one Irishman amongst 'em all, brave and ho∣nest (as far as his Cause would let him be,) to foil the rest; if I have gone a little beyond the Pale, and left Truth behind me, 'tis a pardonable fault, and the more easily, because perhaps it mayn't be so common to err on the side of Good-nature. In his Character it's indeed designed to shew that there may possibly be some Individuals among 'em better than the rest of the Nation.—In that of all the rest, that if such a thing happens, 'tis but a chance, and won't often be brought into Example by the others. After all, let any Man take the pains but to read the Irish Histories, Foreigners as well as others, nay their own too, if he has any patience, into the bargain, and if he does not confess that I have not, nay cannot misrepresent the 
+Irish,
+ when I speak any thing ill of 'em, I'll be content to be sent over in∣to that blessed Island, and live there 'till I've forgot my Mother Tongue, and grow as Irish as 
+O Hanlan's,
+ &c) as their mannerly Proverb has it.)
+
+
+Tho on t'other side, so far is this piece from any Reflection on the British there, that one main end thereof is to give 'em their due En∣comiums, and just Honour.
+
+
+
+
+In order whereunto, the principal brave Actions performed by them at the wonder of the World, and confusion of their Enemies, under all apparent disadvantages imaginable, Treachery of some, Cowar∣dise of others, want of Necessaries, a numerous well-provided Ar∣my pressing against 'em, are not (as many as could be handsomly brought in here) neglected, tho' the Historical order, unnecessary here, perhaps not observed.
+
+
+For the manner in which those actions are introduced, 'tis done the most inoffensively that could be possibly contrived; —'tis out of choice that I have named no Persons, unless of the Enemies side. —As all shared in the Danger, so let 'em all in the Glory,—what∣ever parties there might then be, or are since, there shall be none in this Play, but 
+English
+ and 
+Irish.
+
+
+That the desirable work of their entire Conquest may soon be ac∣complished, which all 
+Europe
+ as well as 
+England
+ groans for, the Second part of this Drama really acted, and our glorious King 
+William
+ there conquering all our Enemies, I am sure every honest Man wishes as heartily as I do; — for those who hope the contrary, tho' their own Countries, 
+Europe
+'s, and Religion's implacable Enemies, I'd wish 'em no greater plague, than possessed with all the Rage, Ma∣lice, and defeated desperate Wickedness of an Irish-man, to stand by and see our great victorious Prince enter Triumphantly into his Royal City of 
+Dublin,
+ — which a few Weeks may in all fair pro∣bability produce, and a few more the 
+Second Part
+ of the 
+Royal Voyage,
+ or 
+Irish Expedition.
+
+
+
+
+
+
+
+
+DRAMATIS PERSONAE.
+
+
+
+
+Tyrconnel,
+
+
+Primate,
+
+
+Archbishop of
+ Cashel,
+
+
+Nugent,
+
+
+Neagle,
+
+
+Irish Lords,
+
+
+Hamilton,
+
+
+Macarty,
+
+
+Talbot,
+
+
+Butler,
+
+
+Clancarty,
+
+
+Macdonald,
+
+
+Irish Soldiers, Messengers, Officers,
+ &c.
+
+
+
+
+
+
+Governor of Inniskilling,
+
+
+Collonels, Souldiers,
+ &c.
+
+
+Governor of
+ Derry,
+
+
+Collonels, Souldiers,
+
+
+English Captains with Relief to
+ Derry,
+
+
+English General,
+
+
+Souldiers, Officers,
+ &c.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE ROYAL VOYAGE: OR, THE 
+Irish Expedition.
+
+
+
+
+
+
+ACT I. SCENE I. DUBLIN-
+Castle.
+
+
+[
+Enter
+ Tyrconnel, Nugent, Neagle, Mac-carty, Hamilton, 
+the titula Archbishop of
+ Cashell, 
+and Primate;
+ Irish 
+Lords.
+
+
+
+
+Tyrcon.
+
+
+THus far the 
+CAƲSE
+ has with Success been crown'd;
+
+
+And Great St. 
+Patrick
+ blest his sacred Ground;
+
+
+Has been his own lov'd Country-men's Defence,
+
+
+And chac'd the English Toads and Serpents hence.
+
+
+Again shall 
+Ireland
+ her old Name renew;
+
+
+'Tis now a 
+Land of Saints
+ and Heroes too;
+
+
+Th' 
+Asylum
+ long before design'd for those
+
+
+Sent into Exile by their faithless Foes;
+
+
+That safe, that happy Sanctuary, where
+
+
+By our great 
+Faith's Defenders
+ pious Care,
+
+
+The Church it self can now glad Refuge find,
+
+
+Leaving her cheated desperate Foes behind.
+
+
+Cash
+ Like 
+Arethusas
+'s Stream, her Fountain clear
+
+
+Dives under Earth, and Sea, and rises here:
+
+
+
+
+But never shall we her fair Spring restore,
+
+
+As pure and limpid as it was before,
+
+
+Unless we hollow the polluted Flood,
+
+
+And purge out Heretick-Stains with Hereticks Blood.
+
+
+
+
+
+
+Prim.
+
+
+The very thought does my chill Age renew,
+
+
+And almost make 
+Armagh
+ a Souldier too.
+
+
+O 
+Portendown!
+ that happy Day is past;
+
+
+Grief
+ stays too long, and 
+Pleasure
+ runs too fast:
+
+
+I saw, and 'twas a wisht, a welcome sight
+
+
+As e'er was shewn: By Heavens bright burning Light,
+
+
+I saw the wandring Flood new-blacken'd o'er,
+
+
+And shoals of Bodies washed down the shore,
+
+
+Whilst fresh Supplies still o'er the Breach were thrown,
+
+
+'Till there at last was hardly room to drown.
+
+
+
+
+
+
+Macar.
+
+
+And thinks your Grace this was a sight so proper,
+
+
+For one whose Character shou'd be Compassion,
+
+
+Pity, and Love, all like our mighty Maker?
+
+
+I, though long steel'd in Camps, and drench'd in War,
+
+
+To Execution us'd, and Blood, and Carnage,
+
+
+(Fatal Effects of necessary Cruelty)
+
+
+I
+ rather shou'd have wish'd to have given the Lives
+
+
+To all those Wretches, though at the expence
+
+
+Even of my own.
+
+
+
+
+
+
+Prim.
+
+
+—Are you a Catholick?
+
+
+
+
+
+
+Maccar.
+
+
+Yes, and will die one. —But cou'd 
+I
+ believe
+
+
+That my Religion taught the same that you do,
+
+
+I
+ rather wou'd turn Heretick, Turk, or Pagan,
+
+
+Than be so one hour longer.
+
+
+
+
+
+
+Prim.
+
+
+Scarce can the stupid Ignorance excuse you;
+
+
+A Heretick himself could say no more.
+
+
+Hath not the sacred 
+Lateran
+ Council made it
+
+
+An Article as needful to Salvation,
+
+
+As any of the 
+Creed,
+ That this curst Fry,
+
+
+Rebels to 
+Holy Church,
+ shou'd be destroy'd
+
+
+By Fire and Sword, or any other way,
+
+
+Where-e'er they'r found, like other Beasts of Prey?
+
+
+
+
+While that of 
+Constance
+ makes this other easie,
+
+
+And bids us keep no Faith with those that have none:
+
+
+A pious, necessary, useful, comfortable Doctrine!
+
+
+You are a Souldier—'Tis a Stratagem:
+
+
+Those still in War are lawful —And I'll tell you
+
+
+Once more, If this you know not, Sir, you'r guilty
+
+
+Of Ignorance inexcusable—. Why 'tis
+
+
+The very Cement of the 
+CAƲSE,
+ the 
+Blood,
+ the 
+Life
+
+
+Of 
+Holy Mother:
+ (Yet you are to learn
+
+
+Your Catechise.) —'Tis what her eldest Son
+
+
+Has practised many Years. See how he's blest,
+
+
+How all succeeds. and he speaks Fate in 
+Europe.
+
+
+If this you know, as how can you be ignorant
+
+
+Of what each Catholick, especially
+
+
+Each 
+IRISH
+-Man sucks with his first-drawn Milk.
+
+
+(Whoever here of all your Country-men,
+
+
+Besides that false Apostate Wretch 
+Clanrickard,
+
+
+Was guilty known, of such an easie Meanness)
+
+
+Repent, or else expect the 
+Church
+'s CURSE.
+
+
+The heavy Doom that waits; for by her Laws
+
+
+Your 
+ipso facto
+ Excommunicate.
+
+
+
+
+
+
+Tyrcon.
+
+
+My Lord, 'tis not a time for these Discourses:
+
+
+Though his weak Conscience cannot yet digest
+
+
+Such manly Food, we know he's firm to th' Cause;
+
+
+Brave! and wou'd freely lose a Life i'th' Quarrel:
+
+
+Rather let's 
+think,
+ and, with united Councels,
+
+
+Consider what we've done, and where we are.
+
+
+
+
+
+
+Nug.
+
+
+Think?
+ What have we to think of? First let's act;
+
+
+'Tis time enough to 
+think
+ when that is done:
+
+
+'Tis a plain 
+Imposition
+ on our Natives.
+
+
+To fall on such unnecessary Work:
+
+
+We have an Hundred Thousand Men in Arms;
+
+
+None but the wretched Relies of Rebellion,
+
+
+That dare withstand us here: Let's o'er to 
+England,
+
+
+That golden Land, where Palms and Laurels wait us,
+
+
+Delicious Murthers, and sweet Massacres:
+
+
+
+
+Hang, Drown, Stab, Burn, B
+oil, Eat, Damn
+ our proud Conquerors.
+
+
+
+
+
+
+Neag.
+
+
+That will do well; 'tis excellently motion'd;
+
+
+What brave 
+Milesan
+ wou'd not stake his Soul
+
+
+On the 
+Design?
+ But first let's clear our own,
+
+
+Ere we attempt on others Lands. Those Relies
+
+
+You talk of, are like Vipers Spawn, if not
+
+
+Crusht speedily, in time they'll grow too sturdy,
+
+
+And send their Venome hissing o'er the 
+Island:
+
+
+First send 
+fair Words, good Terms, sweet-honied Proffers,
+
+
+(Which we know how to keep) clear once the 
+North,
+
+
+Derry,
+ and 
+Inniskilling,
+ all's our own:
+
+
+Give 'em what Articles they please themselves,
+
+
+Promises cost not much; they may believe;
+
+
+The 
+English
+ all are kind-believing FOOLS,
+
+
+Or now had been our Masters: If this takes,
+
+
+We have our Men, and vain Expence of Blood,
+
+
+For better Purposes.
+
+
+
+
+
+
+1. 
+Irish Lord.
+
+
+Wou'd that were over;
+
+
+I'd be content, cou'd we secure our own;
+
+
+Nor ever much ambition'd Foreign Conquests:
+
+
+The 
+English
+ sooner 
+Cheated
+ are, than 
+Beaten;
+
+
+We must expect a formidable Army
+
+
+Shortly in our Bowels: Though their Hands
+
+
+Are raising long, they generally fall heavy.
+
+
+
+
+
+
+2. 
+Lord.
+
+
+My Lord, 
+I
+ must entirely join with you;
+
+
+We owe our 
+Safety
+ to their 
+Easiness:
+
+
+Had they not kindly thought we wou'd come over,
+
+
+And yield the Sword, entreating they'd accept
+
+
+That, and our Lives; we scarec had now been talking
+
+
+How we shou'd conquer them: And, to say truth,
+
+
+That was a Master-piece of 
+Irish
+ Cunning,
+
+
+To drill 'em on with Promises and Oaths
+
+
+Of free submission, when they'd please to take it,
+
+
+Till we were able to laugh at 'em, and
+
+
+Despise their Threatnings. 
+I
+ own 'twas justly managed,
+
+
+
+
+And very pleasantly was that fine Fool
+
+
+Entrapt, who promis'd 
+England
+ such Success,
+
+
+Such Mountains of Foreign Hopes from Secret Treaties,
+
+
+The end too crown'd the Work: When he perceiv'd
+
+
+We were not quite so good to keep our Words
+
+
+The Generous Fool dispatch'd himself for Shame,
+
+
+To be out-witted by an 
+Irish
+ Man:
+
+
+And heartily I wish, as any here,
+
+
+The Frolick would go round, till we possess'd
+
+
+Their Vacant Hives, without the toyl of Firing
+
+
+The Drones away; (tho' then we lost the Pleasure
+
+
+Of Killing, and the Lechery of Murder;)
+
+
+But Since they won't go on in a good Work,
+
+
+We must take Care to keep secure, by 
+force,
+
+
+What we by 
+Art
+ have won; First, clear those Garrisons;
+
+
+(Talk'd of, perhaps, more easily then done;)
+
+
+Secure the Country next from Rapparees,
+
+
+Who else will soon destroy the breed of Cattle,
+
+
+And bring a Famine, spite of all our plenty,
+
+
+That done, a Magazeen of Arms sufficient,
+
+
+Provision too, against what casually
+
+
+May happen, and that certain Desolation
+
+
+Armies and War bring with 'em; then we may
+
+
+Think on the other Projects.
+
+
+
+
+
+
+Prim.
+
+
+A Curse on this Luke-warmness, in the Cause,
+
+
+It ruines all; Was't not these Noble Lords,
+
+
+These Valiant Heroes, who (in Council) pressed
+
+
+To have the Prince Proclaim'd?
+
+
+
+
+
+
+1st. 
+L.
+
+
+Yes, and we judged,
+
+
+We then had Reason; had not first the King
+
+
+Both quitted 
+England,
+ and obliged his Subjects,
+
+
+Armies, Commanders, Officers and Garrisons,
+
+
+To yield to 
+Orange?
+ Did not a sure Friend
+
+
+(As some we still have there) send us a Pacquet,
+
+
+Advising this, and his departure following,
+
+
+
+
+We knew not where? Shou'd all have been exposed
+
+
+To a Head-strong, Wild, Ungovernable Rabble?
+
+
+
+
+
+
+Tyrc.
+
+
+No more my Lords, the Case is alter'd since,
+
+
+And we have Arms from 
+France,
+ whose generous Prince,
+
+
+Delight of all Mankind, with pious Care,
+
+
+Our Royal Refuge has welcom'd there:
+
+
+Strong Succours thence we wait, nor shall we fail,
+
+
+The Catholick Cause, with them, must needs prevail;
+
+
+The while, my Lords, we all must rest content,
+
+
+The Fate of War there's nothing can prevent;
+
+
+Disorders make the Souldiers brave and bold,
+
+
+You break him if too close the Reins you hold;
+
+
+Besides, our Troops on nothing else can live;
+
+
+But what our vanquish'd Slaves Estates can give;
+
+
+When they are humbled, and their stock brought low;
+
+
+For theirs, we need not doubt, the first will go,
+
+
+'Twill then, be time, my Lords! to think on you.
+
+
+Be you, and your Estates, our chiefest Care,
+
+
+On pain of Death they shall your Fields forbear;
+
+
+But first, the Northern Rebels let's subdue,
+
+
+At 
+Derry,
+ and at 
+Inniskilling
+ too;
+
+
+The First your Lot
+
+[to 
+Hamilt.
+]
+ The Second fall to you,
+
+[to 
+Mac.
+]
+
+
+
+
+
+
+Hamilt.
+
+
+My Lord I doubt not, speedily to give
+
+
+A better Account of them, then ere to 
+England
+
+
+Of my Wise Errand hither; nor was ought
+
+
+Lost, by my not returning, but my Word,
+
+
+A few loose Vows, perhap an Oath or Two,
+
+
+And Airy Honour pawn'd; let 'em make much on't,
+
+
+And seize those precious Pledges for my stay,
+
+
+While with this Sword, I th'Obligation pay;
+
+
+And hasten to my welcome Charge, away.
+
+
+
+
+Exit Hamilton.
+
+
+
+
+Mac.
+
+
+I cannot promise much, our Troops are raw,
+
+
+Have seen no Enemy, if Disciplin'd
+
+
+For a few Months, yet grown by their late Freedom
+
+
+Glaggard and Wild, Unruly, Careless, Vain;
+
+
+
+
+The Enemy Desperate, Numerous, Firm and Hearty,
+
+
+But what I can perform, in Act or Council,
+
+
+Whether by Expedition or Surprize,
+
+
+If they too heedless, as they often are;
+
+
+Or by fair fighting, if they stand the Field;
+
+
+Or formal Siege, if they still keep the Town,
+
+
+I will attempt, and do, if Fate play fair,
+
+
+Or leave my Life behind.
+
+
+
+
+
+
+Tyrcon.
+
+
+We know you Sir,
+
+
+Your Courage and your Conduct, take the best
+
+
+Of all our Troops; proceed, success attend you,
+
+
+While we go order your Dispatch, and send
+
+
+Once more to th' Rebels, if fair means avail,
+
+
+And save our Troubles, and their own Destruction.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+ACT. I. SCENE. II.
+
+
+[
+Enter
+ Irish Rabble, 
+Men, Woman and Children; the Men with Swords and Clubs, the Women with Skenes, the Children with wooden Swords and Knives. A
+ Piper 
+before 'em (as was their usual Custom) with a Prey of
+ Black and small Cattle, 
+which they had robbed the
+ English 
+of.
+)
+
+
+
+
+[1st 
+o'th' Rabble.
+]
+
+
+Rare times, by Saint 
+Patrick;
+ the best that 
+Ire∣land
+ ever saw, by my Soul Joy; why who wou'd be at the Trouble to raise and breed Cattle of their own, when the 
+Heretick Dogs
+ can do't to our Hands, without any pain?
+
+
+
+
+
+
+2. —
+
+
+Right Neighbour 
+Teague;
+ and besides they are all our 
+Te∣nants,
+ not we 
+Theirs;
+ for 
+I
+ heard 
+Father Dominick, our Priest,
+ make a Swear, that this was all our Country, Five Thousand Years before the 
+New-Moon
+ was made, and the 
+English
+ Thieves never came hither to rob us of our own till the next Year after the Flood was over.
+
+
+
+
+
+
+
+
+3. —
+
+
+Well, See what 'tis to have Learning; they must talk what they will, but if 
+I
+ know any thing, there's ne'r a Clergy, in Christendom to compare with the 
+Irish;
+ only the Truth is, they do lead a stray a Cheese, or a Flitch of Bacon, now and then; and sometimes the Bottle of 
+Ʋsquebagh
+ straggles after it. But all that's as easily forgiven as they do us, since they have so kindly prov'd the Lawfulness and Necessity of our plundering the 
+English,
+ their Snacks always reserved and reason good.
+
+
+
+
+
+
+4. —
+
+
+But to see how stubborn and impudent some of these Pro∣testant Devils are; 
+I
+ went to one of 'em that had been once my Ma∣ster, (tho' now the Case is alter'd), and bid him give me a Cow; the impudent Pascal denied it to my Face, which so much provok'd me, as well it might, 
+I
+ had stuck my Skene in his Guts, had not some other of his Crew hindred me. who are all since fled together, to the Northern Rebels, where 
+I
+ hope, shortly, to have the hanging of Two or Three Dozen of 'em.
+
+
+
+
+
+
+1. —
+
+
+They are e'n too kindly used, that makes 'em so malepert, what would they be Angels? Would they have more than their Lives? Unconscionable Dogs; their Brains deserved to be knock'd out if 'twere for no other Reason.
+
+
+
+
+
+
+2 —
+
+
+Ay, That's the only way, after all. Ah Neighbours! had you seen, but what 
+I
+ ha' seen; we have made some sport on't for∣merly, but now this Foolish pity spoils all. If you had but heard how the Hereticks yelp'd, when we burnt a Hundred of them in a House together. Oh! 
+I
+ cou'd have humour'd it to the Life then; but now 
+I
+ grow hoarse, and have almost forgot it; 
+I
+ remember there was one sprawling Brat, of a Year or Two Old, that the Mother on't, or some body, had thrust out to save its Life; but how we all laugh'd when one of our Company stuck it a top of his Pike, to see the little Bastard sprawl about with his Legs and Arms, till he pitch'd it over again into the Fire, and made an end on't.
+
+
+
+
+
+
+3. —
+
+
+What's that to the Invention of my Old Grand-Mother, rest her Soul, tho her Body was hang'd for't: My Father had ripp'd up Two or Three fat Persons Bellies, and the good saving Creature, finding they tallowed well, took out their Grease, and made Can∣dles of it: But never was a pleasanter sight, than to see how it dripp'd
+
+in the Candle-stick, as if they had been sweating at it in their Pul∣pit agen.
+
+
+
+
+
+
+5 —
+
+
+That was nothing neither, to what work we made with one of 'em; we ripp'd up his Belly, and tied one end of his small Guts to a Tree, driving him round till he had pull'd 'em all out, and then knock'd him o'th' Head, and with our common Farewel, tho' to good for 'em, sent his 
+Soul to the Devil.
+
+
+
+
+
+
+2. —
+
+
+Ha, ha, ha! That was pretty well; but I think our Town was even with you; we had kill'd about Twenty, or some such small Business, of 
+English
+ Whores, and afterwards finding one of their Brats, in a Cradle, bawling for Meat, took it out, and put it to the Breast of the dead Jade his Mother, bidding the young Bastard suck if't had any mind to't, and there left it for the Dogs to eat them to∣gether.
+
+
+
+
+
+
+4. —
+
+
+All in good time, we may yet serve 'em the same sawce. In the mean while, let's be reveng'd on any thing that belongs to their Country. Their Lubberly Breed of Black-Cattle here, what shall we do with 'em all? We'll find some way or other to torment, as well as get rid of 'em, and they'll have little Cause to complain, that are used as well as their Masters.
+
+
+
+
+
+
+2. —
+
+
+Let's serve 'em as we did the Fellow, I told you of, Tie 'em to a Stake, and cut off pieces of their Flesh alive; by this we shall have the double Pleasure of tormenting 'em, and seeing how finely they'll dance and roar to make us Musick.
+
+
+
+
+
+
+1. —
+
+
+By Saint 
+Pautrick,
+ but that be a very good way, Joy! Agreed; all Hands to work here. What, Do these hang an Arse, and pretend to be Refractory, as well as their Masters? There, — this is fast enough: Come, — First let's have a Song, and then fall on, at the Word of Gommand.
+
+
+
+
+[They Sing an 
+Irish
+ Song, Dancing round a fat 
+English
+ Ox, ti∣ed to a Stake; and as soon as that was over, fall all together upon it, cutting out pieces of them alive, and broiling it upon the Coals. In the mean while, a small Party of 
+English,
+ surprize, and fall upon 'em; on which, all the Rabble set up the 
+Irish
+ yell, and run away without striking a stroke.]
+
+
+
+
+
+
+1. 
+Englishman.
+
+
+A Soul-less heap of Animals! that Nobler Beast
+
+
+They here torment, has infinite more Valour,
+
+
+Than all their Rascal Nation, piled together.
+
+
+
+
+
+
+2. —
+
+
+Are these the Champions, these the Stil-Cow Heroes,
+
+
+Must Conquer 
+England?
+ Sure 'twould be a Problem
+
+
+Well worth resolving; How many of 'em
+
+
+Must go to killing one of us: I shou'd
+
+
+Be flatter'd to esteem my Self immortal,
+
+
+Had I a Lease of Life, till they cou'd take it.
+
+
+
+
+
+
+3. —
+
+
+Slaves! long-worn Slaves, and Ten times baffled Rebels,
+
+
+Were one poor 
+English-man
+ (design'd by Fate,
+
+
+By Courage, Earth, and Heaven it self their Master)
+
+
+Tied to a Post, as this poor Beast before us,
+
+
+Among a Thousand of those Cut-Throat Monsters
+
+
+Were but his Face uncover'd, cou'd they see him
+
+
+See but their Master, sure they scarce dar'd stab him.
+
+
+I question'd if the Cowards would not tremble,
+
+
+Until their bloody Baggonets forsook
+
+
+Their Guilty Hands.
+
+
+
+
+
+
+4. —
+
+
+No Sir, you are mistaken,
+
+
+Then is their very time; or then or never;
+
+
+Unless, when loaded with base Multitude;
+
+
+And rather press'd to Death, than fairly kill'd.
+
+
+They can't so much as Murder one of ours.
+
+
+O they are bold as Lions, rather Wolves,
+
+
+When they on helpless 
+Women
+ light, or 
+Children,
+
+
+Or Men unarm'd, helpless, and weak, as they.
+
+
+
+
+
+
+2. —
+
+
+But lest we meet, the Fate which oft has happen'd
+
+
+To our brave Countrymen, and fall a Prey,
+
+
+Born down and trodden with inglorious Numbers;
+
+
+Let's cut our way to 
+Derry,
+ for this part
+
+
+O'th' Country's all their own; but there 'tis said
+
+
+They stem the Fide, already shut the Gate
+
+
+Against their Troops.
+
+
+
+
+
+
+1. —
+
+
+Fair Fortune still attend 'em,
+
+
+And Crown their Courage with well purchased Lawrels,
+
+
+
+
+Whilst to their Succour, and our own we flie,
+
+
+And bravely conquer, or as bravely die.
+
+
+
+
+[Exeunt Omnes.]
+
+
+
+
+
+
+ACT I. SCENE III.
+
+
+Enter
+ Tyrconnel, 
+the
+ Primate, Cashel, Nugent, Neagle.
+
+
+
+
+Neag.
+
+
+How tame the harmless Sheep convey'd himself
+
+
+To a safe Prison! O 'twas a wise Message,
+
+
+To ask leave to bestow so large a Kingdom,
+
+
+Almost for less than asking. Thoughtless 
+Mountjoy,
+
+
+Whose Embassy, no doubt, is kindly taken;
+
+
+Thy self for more Magnificence and Grandeur,
+
+
+In highest State art lodg'd at the 
+Bastile.
+
+
+
+
+
+
+Tyrc.
+
+
+Chiefly to you we owe that piece of Policy,
+
+
+Nor shall it fail Reward: He need not fear
+
+
+A kind Reception, when so true a Friend
+
+
+As 
+Rice
+ goes with him; but we must have News,
+
+
+The Wind stands fair from 
+Brest,
+ and they must needs
+
+
+Be long ere this arriv'd.
+
+
+
+
+
+
+Cash.
+
+
+Sure the very Thoughts of our admired, adored, true Cath. K.
+
+
+Thus honouring this lov'd Country, with his Presence,
+
+
+Will make us all invincible.
+
+
+
+
+
+
+Prim.
+
+
+Then shall the Rebels know what 'tis to affront him;
+
+
+'Tis their turn now. The 
+English
+ are the Rebels,
+
+
+And we their Rightful, Loyal, conquering Masters.
+
+
+
+
+
+
+Tyrc.
+
+
+And have a Title that's uncontroverted,
+
+
+A Hundred Thousand Men besides the King;
+
+
+And who dares call him Rebel that has either
+
+
+Of these Two Glorious Helpers to his Cause?
+
+
+
+
+
+
+Cash.
+
+
+The very Name of one so much belov'd,
+
+
+So long desired by all our Country-men,
+
+
+
+
+And justly, for as much he honours them
+
+
+With his kind Thoughts,—his single Name wou'd do,
+
+
+Without an Army, and inspire new Courage
+
+
+If any wanted it—'twas he alone,
+
+
+Who thro' the last false dangerous Trimming Reign,
+
+
+Screen'd off the fury of the Rebels from us;
+
+
+Got that proud Heretick, imperious 
+Ormond,
+
+
+Oftner than once remov'd. 'Twas he who found
+
+
+The Treacherous 
+Essex,
+ who buoyed up the 
+English,
+
+
+And their decaying Interests against us.
+
+
+He found him out at last, spite of his Policy,
+
+
+And did reward him in due time and place.
+
+
+—But when kind Fate, or of her own accord;
+
+
+Or jogg'd by some Officious Catholick Hand,
+
+
+Broke 
+Charles
+ his Linsy-Woolsey Line of Life,
+
+
+When our bright Star ascended his Meridian,
+
+
+And shot his Beams from 
+London
+ to our Isle,
+
+
+What Loyal Face was seen without a smile?
+
+
+Scarce will our Joy, or Juster, be or more,
+
+
+When with his Royal Feet, he treads our Shore.
+
+
+
+
+
+
+Tyrc.
+
+
+Be it our Care, the while t' amuse the People,
+
+
+Persuade 'em he's arriv'd already her;
+
+
+This will affright the 
+English,
+ if they'd stir,
+
+
+And raise the Courage of our Country-men.
+
+
+Were we not Politicians, things exempt
+
+
+From the dull common road of Just and Right,
+
+
+In which the World drudge on; yet our Religion
+
+
+Permits, nay, does encourage such a Lye
+
+
+As serves the Church, and that no doubt's wrapt up
+
+
+Together, with our Cause, and stands or falls,
+
+
+As we do here.
+
+
+
+
+[Enter Servants.]
+ A Courier wants Admittance to your Excellency.
+
+
+
+
+Tyrcon.
+
+
+Go fetch him in.
+
+
+
+
+
+
+Courier.
+
+
+These from 
+Versailles,
+ my Lord, some few days since.
+
+
+
+
+[Delivers Letters.]
+ From the King's Royal Hand I did receive 'em.
+
+
+
+
+
+
+Tyrcon.
+
+
+Say, How was his Reception and Attendance
+
+
+In that great Court?
+
+
+
+
+
+
+Cour.
+
+
+Magnificent and Royal;
+
+
+Shou'd he return a 
+Conqueror
+ to 
+London,
+
+
+Scarce cou'd the Pomp be greater. Guards were sent
+
+
+To attend him on the Road; a fair Retinue
+
+
+Of young Nobility soon found to wait him:
+
+
+And when he came, we scarce knew which was King.
+
+
+
+
+
+
+Cash.
+
+
+were any Preparations going forward
+
+
+For his appearing here?
+
+
+
+
+
+
+Cour.
+
+
+All that was possible;
+
+
+And the Great 
+LEWIS
+ swore to all his Court,
+
+
+If any wou'd almost 
+Oblige
+ their Prince,
+
+
+'Twou'd be by waiting on the 
+ROYAL EXILE,
+
+
+Vent'ring their Lives on one joint Stock with HIS.
+
+
+A Squadron was equipp'd at 
+Brest,
+ as 
+I
+
+
+Came through the Harbour, all prepared, and ready
+
+
+To attend him thither.
+
+
+
+
+
+
+Tyrcon.
+
+
+His Letter speaks as much;
+
+Having read the Pacqu
+
+
+Ere this time he's embarked, the Wind stands fair;
+
+
+And large Supplies of Money, and of Men,
+
+
+Will with him soon be here, (if it were possible)
+
+
+To inspire more Life into our vigorous Cause.
+
+
+
+
+
+
+Nug.
+
+
+And shall we be too merciful and tender,
+
+
+And ruine all agen, as once before?
+
+
+
+
+
+
+Prim.
+
+
+Then we deserve to fall unpitied too,
+
+
+Pointed and laugh'd by each zealous Catholick,
+
+
+The Scorn of every Heretick in 
+Europe:
+
+
+No; had good Counsel been but follow'd, when
+
+
+We last appeared for the same noble Cause.
+
+
+Had those who safely then advised 
+Kill All.
+
+
+Been hearken'd to, we'd long ere this been Masters,
+
+
+And 
+Ireland
+ full as Catholick as 
+Spain.
+
+
+But O this easie, foolish, cruel Pity!
+
+
+This Ague of Mankind, far worse than Fear!
+
+
+This Palsie of the Soul, which makes it tremble,
+
+
+
+
+When ought that's Daring calls ir out to act!
+
+
+Others there were, forsooth, for gentler Methods
+
+
+For 
+Speeding;
+ none but such as die resist:
+
+
+And thus the Matter hung, 'till 'twas resolv'd
+
+
+All shou'd be left at liberty; Or kill,
+
+
+Or save alive, as Bravery or Weakness
+
+
+Shou'd prompt 'em; and we since have felt the Event;
+
+
+We did 
+Our Business
+ by not doing 
+Theirs:
+
+
+The safer wiser, much more Catholick Way,
+
+
+Had been on highest pain of 
+Church
+'s 
+Thunder,
+
+
+Incurring greater Excommunication
+
+
+As after; though too late we did at 
+James-Town,
+
+
+And soon blew Mighty 
+Ormond
+ from the Kingdom;
+
+
+Nor valu'd his Commission from his Master,
+
+
+Since both were Hereticks: On all the Pains
+
+
+Of this and t'other World, (for both do well together)
+
+
+To have forbid all Quarter; Children, Women,
+
+
+And all their cursed Brood one Sacrifice.
+
+
+We now have one Throw more; if that we lose,
+
+
+Farewel for ever.
+
+
+
+
+
+
+Neag.
+
+
+Stay for the Bear's Skin;
+
+
+Secure the 
+Dam,
+ or we ne'er get the 
+Cubs:
+
+
+Derry
+ and 
+Inniskilling
+ once our own,
+
+
+All is so; then we may have all our Wishes.
+
+
+(Enter Courier.)
+ Here comes a Face of News; let's have it speedily.
+
+
+
+
+
+
+Cour.
+
+
+The King is safely landed at 
+Kingsale,
+
+
+And comes directly hither: All the Country
+
+
+Roll after him: We ne'er cou'd want Arms,
+
+
+Had we none Listed.
+
+
+
+
+
+
+Tyrcon.
+
+
+Ring the Bells; let Bonfires,
+
+
+Illuminations, all the Expressions possible
+
+
+Of Joy be made; the Conduit fill with Claret,
+
+
+(Another Liquor, though of the same Colour
+
+
+Much nobler were) Draw up the the Guards in readiness;
+
+
+Let th' Aldermen be ready in their Robes.
+
+
+
+
+
+
+Cour.
+
+
+'Tis done already; all is freely done,
+
+
+
+
+And more, as I came by and told the News:
+
+
+For very Joy, the 
+English Dogs
+ are plunder'd
+
+
+Of all they have; their Houses Bonfires made;
+
+
+Well if they 'scape Themselves.
+
+
+
+
+
+
+Prim.
+
+
+'Tis rarely well—O this dear pious Rabble!
+
+
+Honest plain-hearted People! How I love 'em!
+
+
+My very Soul seems of a piece with theirs:
+
+
+Here's no Dissimulation; that I hate;
+
+
+No mincing o'er the Business; but plain-dealing,
+
+
+Without the curst Disguise of 
+Policy,
+
+
+The odious luke-warm Temper dresses in.
+
+
+
+
+
+
+Cour.
+
+
+As he in highest Pomp past through 
+Killkenny,
+
+
+The Elegant 
+Recorder
+ made a Speech,
+
+
+Which 
+Tully
+ could not mend; scarce equal it:
+
+
+I have a Copy here.
+
+
+
+
+
+
+Cash.
+
+
+Let's see it immediately.
+
+
+
+
+Cashel
+ Reads.
+
+
+
+
+May it please Your most sacred Majesty,
+
+
+If ever Rain was welcome to the thirsty Earth, the Sun to fro∣zen 
+Greenland,
+ or Bonny-clabber to the gaping Jaws of an hungry 
+Irish
+-man, your Majesty is welcome, trebly welcome, to this your LOYAL Kingdom. 'Twould be time vainly spent, to inform a Person so well read, so deeply skill'd in Books and History, as your Majesty, how many thousand thousand Years your Majesty's Royal Ancestors have Sway'd the Scepter of this 
+Blessed Island.
+ In the thirty three thousandth Year, it was precisely of 
+Plato
+'s great Circle, when your Progenitors first landed here, as we find atte∣sted in the most Authentick Chronicles of this our ancient Nation: Nor was it many Thousands after, ere we made a Descent into 
+Scotland,
+ routed the heretical Kirk there, planted by 
+Cain
+'s great Grandson, and establish'd the primitive Catholick Religion, which has remain'd unto this day, among the civil 
+Highlanders
+ there, as
+
+well as in this your no less Accomplished Kingdom. We must take leave to protest, We can hardly be sorry that the rebellious Here∣ticks of your Neighbour-Nation, have given us so splendid an oc∣casion of letting your Majesty see our Loyalty, and they feel our our Valour. Now is the time, or very near is it approaching, when your rebellious 
+Exeter,
+ your fanatical 
+Bristol,
+ your treache∣rous 
+York,
+ and your ungrateful 
+London,
+ and all the other little Hamlets there, shall fly before the conquering Arms of your Loyal 
+Dublin,
+ and ever-renowned 
+Kilkenny,
+ when in the midst of the loud Acclamations of the heroical 
+Irish,
+ and Curses of your grovling Rebels, we re-seat you in the ancient 
+Throne,
+ with as much Glory as ever you left it.
+
+
+
+
+Dixi.
+
+
+
+
+Prim.
+
+
+Who now dares say our Country-men are Blockheads?
+
+
+Here is a Speech almost worth Paradise.
+
+
+Turning to
+ Nugent.
+
+
+Scace that, my Lord, you spake at Council-
+Table,
+
+
+When one of our Embassadors at 
+London,
+
+
+So highly admired, that as 
+I
+ oft have heard,
+
+
+The very Boys, though Spawn of Hereticks,
+
+
+Ran by your Coach, and clapt you as you went;
+
+
+Scarce that cou'd this exceed.
+
+
+
+
+
+
+Nugent.
+
+
+My Lord 
+I
+ own it:
+
+
+And more, he has himself out-done, as well
+
+
+As we; and were it possible, done right
+
+
+Unto the great Occasion.
+
+
+
+
+
+
+Tyrcon.
+
+
+We've now to time to spend in such Discourses;
+
+
+The King himself in a few hours sees 
+Dublin:
+
+
+Each moment 
+I
+ expect a Post from the North;
+
+
+And cou'd we but present him with the News,
+
+
+As 
+I
+ much hope, that those two stubborn 
+Towns,
+
+
+Are in our hands, 'twou'd be a grateful Welcome.
+
+
+
+
+
+
+Nug.
+
+
+More grateful News that Messenger would tell,
+
+
+Who brought Advice,
+
+
+That they and all within 'em sunk to Hell.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACT II. SCENE I. 
+INNISKILLING.
+
+
+Enter the Governour, two Collonels, Captains,
+ &c.
+
+
+
+
+Governour.
+
+
+NOw for our Honour, Country, and our Lives,
+
+
+And more than all, the Protestant Religion.
+
+
+All beckon out the brave — this World and t'other,
+
+
+Courage and Nature, all that's dear and sacred,
+
+
+Both warrant and oblige Resistance here.
+
+
+Be Slaves to th' 
+Irish,
+ such as have been ours,
+
+
+Almost beyond the reach of Chronicle;
+
+
+So long 'till 'tis at last as much their Nature,
+
+
+As Falshood, Cowardice and Cruelty!
+
+
+So long, they 
+dare
+ not sure be otherwise;
+
+
+And 'twas indeed their choice, their backs were made for't,
+
+
+Their Souls just of a 
+size
+ and 
+bore
+ that spoke 'em
+
+
+What they have spoke themselves — yet when we found 'em,
+
+
+(Call'd over by themselves under our 
+Henry
+)
+
+
+Bruitishly base as Nature made or Hell
+
+
+Reform'd 'em, sunk in sins too black to name,
+
+
+Murders as common as Adulteries,
+
+
+Incests or Rapes — no sence of just or right,
+
+
+No Law, no Faith, no Truth, no Manners left.
+
+
+When thus we found 'em, only at first content
+
+
+With some few Castles there, we those reliev'd,
+
+
+Who begg'd our aid, and peaceably still liv'd,
+
+
+'Till what so fair we bought they'd have retain:
+
+
+With Treachery, Perj
+ry, Blood-shed, they began,
+
+
+Nor have degenerated — when our own Defence
+
+
+Forc'd us to Arms, when Strong bow, 
+Courcy, Lacy,
+
+
+(Only two mighty Names) i'th' Chance of War,
+
+
+Obtain'd whole Counties from 'em, or indeed
+
+
+
+
+From Wolves and Bogs, and Fastnesses and Woods;
+
+
+And our great 
+Henry
+ with a Royal Army
+
+
+The Conquest perfected — we found 'em savage,
+
+
+But left 'em Men — or wou'd at least have done it,
+
+
+Had they consented, as they feign'd to do.
+
+
+They flunk and ran, and truckled to their Conqu'ror,
+
+
+They kneel'd, and crouch'd, and fawn'd, and lickt his Feet.
+
+
+He gave 'em Life, and more, he gave 'em Laws,
+
+
+Redeem'd 'em from themselves and one another,
+
+
+Whose only rule before was Brutal Force,
+
+
+And when they all had sworn perpetual Fealty,
+
+
+Restor'd their Countrey better than before.
+
+
+
+
+
+
+1. 
+Coll.
+
+
+Oft have we read the Story, oft have wonder'd
+
+
+At this repeated Treachery and Blood;
+
+
+Until so oft repeated, 'twas no wonder
+
+
+They never injur'd us, but when we trusted
+
+
+To their good Nature, Vows, or slight-spun Oaths,
+
+
+Snapt easily as weak 
+Arachne
+'s thred.
+
+
+
+
+
+
+2. 
+Coll.
+
+
+'Tis hard that these at last must be our Masters —
+
+
+Nor shall they be, while we have Hands or Swords,
+
+
+Nay, Teeth or Nails — (weapons to fight with Beasts)
+
+
+O 'tis transporting Pleasure thus to dye,
+
+
+Rather than live Slaves to the insulting 
+Irish.
+
+
+
+
+
+
+Governour.
+
+
+Live Slaves to th' 
+Irish!
+ if some Angel bid us,
+
+
+I shou'd make bold to question his Commission;
+
+
+Whom by so many hundred Skirmishes,
+
+
+So many Battels and almost new Conquests,
+
+
+After their vain, their fruitless kind Rebellions,
+
+
+By which their Title they so justly lost
+
+
+To what remain'd— whom we so oft have broke,
+
+
+And trod their stubborn necks so oft in dust
+
+
+At vast expence of English Coin and Blood,
+
+
+Infinitely more than e're the Island's worth,
+
+
+— Yet still our fatal Goodness ruin'd all,
+
+
+Forgiving faster than they could offend,
+
+
+'Till now we feel our Kindness and their Gratitude,
+
+
+Almost too late —
+
+
+
+
+
+
+
+
+1 
+Coll.
+
+
+And yet 'tis not so strange for Brutes to act
+
+
+As Nature prompts 'em, bite, and snarl, and struggle,
+
+
+And gnaw their Chain — but that a 
+humane Creature,
+
+
+A 
+Man
+ should Brutifie so much,
+
+
+To learn their Manners, eat and drink like they,
+
+
+And yell, and rove, and sport, nay couple with 'em,
+
+
+Till they descend, and creep in the same manner;
+
+
+'Tis strange indeed — Yet thus and worse do those
+
+
+Who have so long bin conversant among 'em,
+
+
+'Till what by Meetings, Intermarriages
+
+
+And Gossippings, they grow as errand 
+Irish,
+
+
+Stark bruitish, mad, wild things as ever howl'd
+
+
+O're a dead Carkass — For the Wolves and they
+
+
+With the same Order, self-same Ceremony
+
+
+And Note, and Tune, over the Dead lament.
+
+
+
+
+
+
+Governour.
+
+
+What Death, what Punishment is equal to
+
+
+This Sin, this Crime, this worse than bestiality?
+
+
+— But 'tis too soon or late for such a Question,
+
+
+This one effort they make, and have pusht home,
+
+
+To clear the land of their not wish'd Instructors,
+
+
+And be as barbarous as they were before.
+
+
+If this they gain not, they are lost for ever,
+
+
+If this we gain, henceforth 'tis ours for ever.
+
+
+'Tis true, there's little left, but that's worth keeping.
+
+
+England
+ is still our own, and that brave Prince
+
+
+Who holds the Crown with strong and rightful hand,
+
+
+Will not forsake our Interest and his own.
+
+
+Then happy they who bravely stem the Wave,
+
+
+'Till he holds out his Hand our sinking Bark to save.
+
+
+
+
+
+
+2. 
+Coll.
+
+
+We shall have Storms — the Sea works hard and loud,
+
+
+The gathering Floods look big, and scowl along
+
+
+Rolling far off — from all hands we've advice
+
+
+Macarty
+ with the Flower of all their Forces
+
+
+Approaches hither, and has vow'd to lay
+
+
+His Bones here, or subdue us.
+
+
+
+
+
+
+Governour.
+
+
+That may be —
+
+
+For he has Honour, and 'tis not unlikely,
+
+
+
+
+He will do one or t'other — which o'th two
+
+
+Lies yet in Fates dark womb — Do Heaven its pleasure;
+
+
+Let's act like Men, and either live or dye so.
+
+
+
+
+
+
+2. 
+Coll.
+
+
+They say indeed that Gentleman you named
+
+
+Is a meer Prodigy of an 
+Irish
+ man,
+
+
+A stranger thing than Toad or Serpent were,
+
+
+That he's both brave and honest in despite
+
+
+Of his curst Country, and as curst Religion.
+
+
+And his good natural temper has workt out
+
+
+The Venom of 'em both — In brief he wants
+
+
+Only a better Cause and better Master:
+
+
+Grant him but that and better Souldiers too,
+
+
+I'd not desire a braver Enemy.
+
+
+
+
+
+
+Captain.
+ What e're he is, you'll have him quickly here,
+
+
+As o're the Neighbouring Hills I scowr'd this Morn,
+
+
+We saw some Troops, which sure cou'd be no other
+
+
+Than advanc'd Guards to his Army.
+
+
+
+
+
+
+Governour.
+
+
+When he please —
+
+
+We wou'd not willingly be unprepared
+
+
+Of kind reception for so great a Stranger.
+
+
+— Go draw your Forces up under the Walls,
+
+
+We'll meet, not wait 'em — Captain! be't your care
+
+
+With a smart flying Party to discover
+
+
+Once more what Face they bear, and of what number;
+
+
+(Thô that's the least, we'll fight 'em, thô a Million)
+
+
+Beware of Ambushes, the Graves o'th' 
+English,
+
+
+Which there have bury'd ten times more than e're
+
+
+They in fair Battle lost. — Each Man to his Charge.
+
+
+
+
+Exeunt Omnes
+
+
+
+
+
+
+
+
+ACT II. SCENE II. 
+MACARTY
+'s 
+Camp.
+
+
+Enter
+ Macarty, 
+Officers, Souldiers, — Exercising.
+
+
+
+
+Macarty.
+
+
+ARe these the Men design'd to conquer Kingdoms?
+
+
+The miserable Props of bleeding 
+Ireland:
+
+
+Simplicity and Cowardice mixt in
+
+
+Such just proportion, none knows which surpasses.
+
+
+Why must I blame my Countrey-men, yet why
+
+
+Do they deserve 't? — Were any Cause besides
+
+
+My King's concern'd, I'd never trust my self
+
+
+At the Head of 'em — These the best, cull'd Men!
+
+
+Sure they ne're handled Musquet, Pike or Sword
+
+
+Before this Expedition — Let's however
+
+
+See what we must expect — Serjeant, draw out
+
+
+A File or two, and exercise 'em here.
+
+
+The Officer draws 'em out, and after the other usu∣al words of Command, bids 'em
+
+
+Face to the Right!
+
+
+
+
+They all fall into Confusion, some facing one way, some t'other.
+
+
+
+
+Macarty.
+
+
+O stupid, worse than Beasts — I'll teach my Horse
+
+
+What is too high for them!
+
+
+Officer sets 'em in order agen, and then Commands.
+
+
+To the left!
+
+
+They fall into the same Confusion they were in before.
+
+
+
+
+
+
+Macarty.
+
+
+I never knew 'em constant but in Mischief,
+
+
+And there they never fail —
+
+
+Once more they are reduced, and the Word given.
+
+
+
+
+To the left about!
+
+
+They all throw down their Arms and run quite away.
+
+
+
+
+
+
+Macarty.
+
+
+There only did they not at all deceive
+
+
+My Expectations—Shall I rave or pity 'em?
+
+
+Are these fit men to face well-order'd Troops,
+
+
+Flesht with Success and a long Train of Victories?
+
+
+Well Gentlemen,—We must be Sacrific'd,
+
+
+And that's the worst—We die for a good Master,
+
+
+For such we ever ought to think our King;
+
+
+But yet I can't without regret resign
+
+
+A Life which might with yours have done some Service,
+
+
+If not Encumber'd with a useless Rabble
+
+
+Miscall'd an Army.
+
+
+
+
+
+
+1. 
+Officer.
+
+
+Twas perhaps chance,
+
+
+Those Raw, Rude-Fellows lately were drawn out,
+
+
+The others sure are better, — 'Tis impossible
+
+
+They shou'd be all so.
+
+
+
+
+
+
+Macarty.
+
+
+One and all I fear,
+
+
+However, order forth another Party,
+
+
+And see what they'll do.
+
+
+
+
+The Officer draws out others —Gives the words — They do all well enough till he bids 'em Fire, — one half never does it at all, the other one after another, and most of them wink, and shoot just in one anothers Faces, — at which concluding themselves kill'd, one part drops down, and t'other runs away.
+
+
+
+
+Macarty.
+
+
+The very Emblem of a Battle this!
+
+
+And this I expect — they n'ere shall cheat me more.
+
+
+
+
+
+
+2. 
+Officer.
+
+
+Tho' they are somewhat inexpert, my Lord,
+
+
+They may be brave and faithfull when they meet
+
+
+The Enemy — whom yet they never saw.
+
+
+There stands a little Castle not far off,
+
+
+Man'd by some fifty Foot — 'tis Old and Weak,
+
+
+They've little Ammunition — If on this
+
+
+We flesht 'em, t'wou'd do well, they'd rowze their Courage,
+
+
+Which yet has drowsie lain for want of Action.
+
+
+
+
+
+
+Macarty.
+
+
+Tho' but too easily I guess th' Event,
+
+
+I'll not forebode — and seeing fight we must,
+
+
+
+
+As good begin — Detach 500 Foot,
+
+
+A Company of Granadeers may joyn 'em;
+
+
+Sure those will carry't, or the Army won't.
+
+
+Mean time the rest to Council to resolve,
+
+
+How we must manage this unlucky business,
+
+
+And where to most advantage aly our Bones.
+
+
+Exeunt Omnes
+
+
+
+
+
+
+
+
+ACT II. SCENE III.
+
+
+Enter
+ 3 
+or
+ 4 
+Souldiers
+ — Mac-Shane, O Donnel, Teigue, 
+&c.
+
+
+
+
+Teigue.
+
+
+BY my Shoul now if ever poor 
+Teigue
+ saw the like in my Life. Why my Gossip ty'd a Red Ribon about my left hand that I might be sure to know it from my right,— and the Ugly-Dog Rogue of an 
+English
+ Serjeant bid me turn to the Right, and put me quite out.
+
+
+
+
+
+
+Mac-Shane.
+
+
+But was n't mine Stranger than that too?—may they maak haung upon my Mothers Son if I did did not turn the same way both times, and yet the Churl said I was right the first, and wrong the second time.
+
+
+
+
+
+
+O Donnel.
+
+
+And when he bid us Face about, I thought t'had bin to charge the Enemy — so daring not be out of my Ranks at such a dangerous time, ran back agen to the main Body whence I was drawn.
+
+
+
+
+
+
+Teigue.
+
+
+Upon my Shaulvaashion but so did we too — but had the Rebels bin coming in earnest — wee'd have cut the pittiful Rascals all to pieces. — So, so, — 
+Teigue
+ wou'd have ript up the Guts of the Hereticks. —
+
+
+Puls out his Sword and Fences in the Air.
+
+
+So he would have out his Head off. — and just so, —
+
+
+Clubs his Musquet.
+
+
+Just so when he cry for mercy — No 
+English
+ Dog you — I'll knock out your Brains.
+
+
+While they are Vaporing and Laughing, Enter the Detach∣ment that went to Storm the Castle, beat in by the
+ English,
+
+who Sally'd upon 'em.]
+
+
+
+
+
+
+Officer.
+
+
+They Fought like Devils, and Ours not like men;
+
+
+Like Women, nay a Child, an 
+English
+ Boy
+
+
+Might kill 'em had he but the strength, for they
+
+
+Make no resistance — once more if you're men
+
+
+Stand and save all — do but look back and see
+
+
+Your Enemy. —
+
+
+
+
+[
+The
+ English 
+Enter. The Officer and several Souldiers fall.
+ O Donnel 
+tumbles among the Slain, and pretends himself Dead.
+ Mac Shane 
+creeps into a Bush, and
+ Teigue 
+being the nimblest Footman, runs away (the
+ English 
+following the Chase,) and Re-enters breathless at the Generals Tent.
+
+
+Enter
+ Macarty, 
+Officers,
+ Teigue 
+looking fearfully over his Shoulder.
+ —
+
+
+
+
+Teigue.
+
+
+O Sir — my Lord—we're lost — St. 
+Patrick
+ save us!
+
+
+The Army — oh — the 
+English
+ Army.
+
+
+
+
+
+
+Macarty.
+
+
+VVhat of them Coward? are they more than men?
+
+
+
+
+
+
+Teigue.
+
+
+Than men Sir — O yes Sir — They have every one of 'em Eyes as big as Sawcers, and spit Fire like Dragons — twenty thousand, O they're here just at the Door, and I'm Dead.
+
+
+
+
+
+
+Macarty.
+
+
+VVhat are they come 
+Incognito?
+ — VVe must have seen or heard some News what ever 'tis.
+
+
+
+
+
+
+Captain.
+
+
+Go bid my Regiment advance.
+
+
+
+
+
+
+Captain.
+
+
+They're here — and even just there's the Enemy.
+
+
+
+
+Enter the
+ English, 
+beating in the
+ Irish —
+
+
+
+
+Macarty.
+
+
+Is this the dreadful Army? one poor Company!
+
+
+VVell-Charge 'em — See if they are all immortal.
+
+
+
+
+They Charge the
+ English, 
+who still Fighting retreat in good Order, till they regain their Fort.
+
+
+
+
+Macarty.
+
+
+Farewell Temper! 'Tis beyond the Patience
+
+
+Not only of a Souldier but a Saint
+
+
+Patrick
+ himself, of whom our holy Fryers
+
+
+Tell us such holy Lies, wou'd swear to see it;
+
+
+This half a-handfull to outbrave our Army!
+
+
+Come on, go off, beat, kill, do what they please! —
+
+
+
+
+O Fate — thou'st cheated me — sure I was mouldie,
+
+
+To lead such men as those who Conquer mine,
+
+
+Yes rather had I head one single Troop
+
+
+Of such as they, than all this Soulless rout!
+
+
+This Pageant of a War — this Pastbord Army,
+
+
+Scarce those in musty Arras wove look worse,
+
+
+Or stand more patient to be cut in pieces:
+
+
+No, there I wrong'd 'em first — they will not stand,
+
+
+So fast they run, that Death can scarce o'retake 'em,
+
+
+Almost outstrip a Bullet in his March,
+
+
+With Fate and Vengeance wing'd and red Destruction.
+
+
+VVhy must I bear so many thousand Deaths,
+
+
+Before the last kind true one gives me Ease,
+
+
+And sends this rage and shame a passage hence,
+
+
+Quite crusted round my heart — I'll stay no longer,
+
+
+If there's a Purgatory sure 'tis here,
+
+
+Quick, quick, I'll thro' it all and reach my Heaven,
+
+
+To the Officers.
+
+
+Go bid the Army March, if they'll obey you,
+
+
+Mistake not wilfully and run away,
+
+
+I'll be for 
+Inniskilling
+ or my Tomb;
+
+
+—Here call a 
+Drummer,
+ — Speed him quickly thither,
+
+
+Carry this Summons to the 
+Governour,
+
+
+Were not my Soveraigns Honour in't concern'd,
+
+
+Shame wou'd not let me make a proposition
+
+
+To such as those, to yield to such as ours.
+
+
+This will, unless I much mistake his temper,
+
+
+Quickly bring him, and Victory or Death,
+
+
+Either of which wou'd be so welcome now,
+
+
+I scarce know which to chuse.
+
+
+
+
+As the Drummer is going out, Enter one from the Out-Guards.
+
+
+
+
+Souldier.
+
+
+My Lord, we saw the Enemy advancing
+
+
+On yonder Hill, — and move so fast they must
+
+
+Be very soon upon us.
+
+
+
+
+
+
+Macarty.
+
+
+Labour saved —
+
+
+I see there's men of Honour and Civility.
+
+
+
+
+We've yet as much advantage as we'd wish for,
+
+
+There's not a better spot of Ground in 
+Europe
+
+
+To cool their Courage, — On this little rise
+
+
+We'll place our Canon, and our last Reserve.
+
+
+(Speaks to an Officer.)
+
+
+You 
+Colonel,
+ Take the Horse, and keep the Causway,
+
+
+Between the Bogs — And you the Foot dispose
+
+
+(Speaks to another.)
+
+
+On either Wing, — Thus planted if they will
+
+
+But hold their Swords before 'em, 'tis impossible
+
+
+To lose at least: — And when their Troops are tired,
+
+
+We may at pleasure fall upon and break 'em,
+
+
+And once bid fair for Fame. —
+
+
+[Exeunt Officers.]
+
+
+Tho' yet I hope not —
+
+
+Not hope it, — Yes, the man who bravely dies,
+
+
+In the discharge of whatsoever Post
+
+
+He's fix'd at, Fames his everlasting portion
+
+
+What e're he lose, then lets be all — 
+Macarty.
+
+
+— My Soul my thinks expands its self, and greatens
+
+
+With prospect of near Immortality.
+
+
+Look down you Holy Forms! who reign above
+
+
+Where no Contentions dwell, but those of Love.
+
+
+You Saints, you Heroes all, of whom we're told
+
+
+You flourish'd here, — And might perhaps of old!
+
+
+If 'ere 
+Macarty
+ did an act was base,
+
+
+Dart all your Thunders in his perjur'd Face;
+
+
+But if he Vertue and fair Fame pursu'd,
+
+
+And Ill n'ere chose, unless ith' shape of Good:
+
+
+If ne're, unless deceiv'd, his Sword was known
+
+
+To own a Cause which you wou'd blush to own;
+
+
+Then either aid him with success to day,
+
+
+Or take at once his Shame and Life away.
+
+
+His Soul, a Stranger there, a place provide
+
+
+Among those shining few who bravely dy'd;
+
+
+Open the Gates, and your kind arms prepare,
+
+
+They come, they come, you soon will find him there.
+
+
+
+
+Exit to the Battle.
+
+
+
+
+
+
+
+
+ACT II. SCENE IV.
+
+
+Both Armies, the
+ Irish 
+as before, the
+ English 
+advancing up to the Causway — the Canons play, Trumpets, Drums, Fifes sounding.
+
+
+
+
+Governour.
+
+
+THere's the Enemy! —
+
+
+
+
+
+
+Collonel.
+
+
+Enough — there needs no Word—
+
+
+The
+ English 
+fall on desperately at the Causway — the
+ Irish 
+receive 'em, and a warm dispute follows.
+
+
+Macarty 
+from the Hill.
+
+
+They stand! they stand! — Nor yet — nay then I'll hope —
+
+
+And if they run not, now e'ne beg their Pardon,
+
+
+And give my self the Lye — There is no way for Foot,
+
+
+Those Boggs are inaccessible — Let's bring
+
+
+The Canon once to bear, the Day's our own.
+
+
+Governour 
+to his Soldiers.
+
+
+How Gentlemen — not Conquer? These are 
+Irish,
+
+
+All errand 
+Irish
+ — whom as oft yo've baffled
+
+
+As seen — I know you'll beat, but what's the Reason
+
+
+You stay so long? — Charge home with the Pikes,
+
+
+Now — Now or Never —
+
+
+
+
+The Foot receive all the Enemy's Fire, and pass the Boggs to meet 'em, who on the
+ Inniskilling 
+Mens first Fire retreat in Disorder.
+
+
+
+
+Governour.
+
+
+St. 
+George!
+ we've past the Boggs — they run, they run,
+
+
+And these too bend —
+
+
+
+
+
+
+Macarty.
+
+
+A whole half-hour — 'tis fair,
+
+
+And more than I in Conscience cou'd expect.
+
+
+
+
+
+
+Collonel.
+
+
+I'll charge my self — the Battel totters,
+
+
+These may restor't —
+
+
+
+
+To a Collonel and Officers about him.
+
+
+
+
+Coll.
+
+
+We wait you with our Lives — if not too late,
+
+
+For the Horse break — and see my Lord — the Devils
+
+
+Come rolling on in Smoak, and Fire, and Blood,
+
+
+We yet may fly —
+
+
+
+
+
+
+Macarty.
+
+
+When dead if I get off
+
+
+That's soon enough — come follow you that Love
+
+
+Your King or me —
+
+
+
+
+
+
+They endeavour to rally the broken Army, the
+ English 
+come on, take the Cannon, and turn it on the
+ Irish; 
+some throw themselves into the Bogg, and are knockt on the Head there; others ask Quarter, and throw down their Arms,
+ &c.
+
+
+
+
+Macarty.
+
+
+Rally behind me — once — stand once — but 'till
+
+
+I've met the Torrent — and then run to Perdition —
+
+
+
+
+
+
+Coll.
+
+
+'Tis vain — they are as deaf as fighting Winds,
+
+
+A Drove of Sheep as soon will stop their running,
+
+
+When one leaps first — The Torrent bears us down,
+
+
+And hurrys us too with 'em to the Wood.
+
+
+All's lost — yet will your Lordship save your self?
+
+
+
+
+
+
+Macarty.
+
+
+For what — or where — this Army was my Life,
+
+
+My Spirits — my Blood — 'tis lost, and I'm dead with it,
+
+
+Let's turn and fall like what we've lived.
+
+
+
+
+
+
+Coll.
+
+
+We cannot, —
+
+
+Unless we over them or under pass;
+
+
+And see — already to the Wood we're born,
+
+
+Driven with the edge of the Multitude
+
+
+Out of the Tide of Death —
+
+
+
+
+
+
+Macarty.
+
+
+Then let's return to't,
+
+
+Now 'tis worth stemming — I have lived too long
+
+
+By half an hour.
+
+
+
+
+
+
+Officers.
+
+
+We'll follow and dye with you.
+
+
+
+
+They make up to a Party of the
+ Inniskilling-
+men, at whom
+ Macarty 
+discharges his Pistol, at which they all fire at him, and shoot him down; a Souldier comes up, and Clubs his Musquet to knock out his Brains.
+
+
+
+
+Macarty.
+
+
+They have done kindly, but thou'lt yet do better,
+
+
+Quick — kill me Villain — or I'll rise and kill thee.
+
+
+
+
+
+
+Irish Officers.
+
+
+Macarty!
+
+
+
+
+
+
+English Capt.
+
+
+Spare his Life! and 'tis a noble Pris'ner!
+
+
+Give him fair usage, thô you keep him safe.
+
+
+
+
+
+
+Macarty.
+
+
+O cruel Wretches — now I'll call you base
+
+
+Cowards — to take a shott and not return it.
+
+
+Loose my Arm — yet — you shall have t'other — No
+
+
+I need you not —
+
+
+
+
+Drops into a swound with his Wounds, they carry him off, and the Scene closes.
+
+
+
+
+
+
+
+
+
+
+
+
+ACT III. SCENE III. 
+LONDON-DERRY.
+
+
+Enter
+ Governour, 
+three
+ Collonels, Captains, 
+&c.
+
+
+
+
+Governour.
+
+
+'TWas a bold Act, but just and necessary,
+
+
+Which made us Masters of our Lives and 
+Derry.
+
+
+'Tis now too late to shrink, and who wou'd do't,
+
+
+Thô twere not so? We yet are strong enough,
+
+
+Althô almost on every side betray'd,
+
+
+Bandon, Dungannon,
+ quitted all and lost,
+
+
+Our Passes forc'd meerly for want of fighting,
+
+
+Relief refused, when half within our Walls.
+
+
+The 
+English
+ Troops, Provision, Ammunition,
+
+
+And all our most experienced Officers,
+
+
+All gone, and little left but Walls and Hearts,
+
+
+Yet hold they fast, and favour us kind Heaven,
+
+
+We need not yet despair — A happy riddance
+
+
+Of some we've made, whose Presence if still with us
+
+
+Had done more harm than good: We have Provisions,
+
+
+And while the Countrey's clear may yet bring more;
+
+
+A Garrison, strong, numerous, and vigorous;
+
+
+We've newly sent agen for aid to 
+England,
+
+
+If we succeed, History will record
+
+
+Our Actions louder than 
+Ostend
+ or 
+Troy;
+
+
+And if we fall, never a braver Cause,
+
+
+Nor can it more be worth the while to dye.
+
+
+
+
+
+
+1. 
+Collonel.
+
+
+The Enemy apace are drawing hither,
+
+
+Headed by 
+Hamilton,
+ who falsify'd
+
+
+His Word and Trust with 
+England
+ — they are numerous,
+
+
+But yet all 
+Irish,
+ save some Officers
+
+
+Sent o're from 
+France,
+ both Nations we have conquer'd,
+
+
+
+
+And may agen — unless by Famine press'd,
+
+
+More than the Enemy — which, to avoid,
+
+
+Twere necessary every private House
+
+
+Were searcht immediately, and all things brought
+
+
+To th' general Magazine, thence given out
+
+
+By just proportion as our number is.
+
+
+
+
+
+
+Governour.
+
+
+You Counsel well — about it instantly;
+
+
+But what's of more concern, if possible,
+
+
+Than that it self, — Let's all promote a Union
+
+
+In different Parties here — if that once break,
+
+
+We're lost inevitably, and become
+
+
+The scorn and triumph of our Enemies.
+
+
+What was't destroy'd the fam'd 
+Jerusalem,
+
+
+But Faction within, more deadly and more fatal
+
+
+Than all the 
+Roman
+ Army at the Gates?
+
+
+And batter'd down their Walls with more success
+
+
+Within, than did the Engines from abroad.
+
+
+
+
+
+
+2. 
+Coll.
+
+
+So well I hope our Interest is seen,
+
+
+That thô their Heads being gone, most left behind
+
+
+Seem little better than a Rabble now;
+
+
+Yet even they can 
+Feel
+ as well as others,
+
+
+Thô not much used to 
+think
+ — Besides we've Officers
+
+
+Remaining still behind, as brave as those
+
+
+Who quitted 
+Derry,
+ and as signaliz'd
+
+
+In bold Defence o'th' 
+English
+ Int'rest here;
+
+
+These have the Hearts of all the common sort,
+
+
+And both wou'd rather Dye, nay, Starve, than yield;
+
+
+They'd make it Death to 
+think
+ as well as 
+speak
+ on't,
+
+
+Cou'd one as well as t'other be discover'd.
+
+
+
+
+
+
+3. 
+Coll.
+
+
+Already their Fidelity we've try'd,
+
+
+And quickly shall their Valour, thô opprest
+
+
+With numbers at the Fords, and wanting all
+
+
+Was necessary for their own Defence:
+
+
+But now they're satisfy'd their Leaders are
+
+
+Firm as themselves, ready to share their danger.
+
+
+In a few hours we easily shall guess
+
+
+Their future Carriage, for the Enemy
+
+
+
+
+Comes on a pace, already part encampt
+
+
+Upon the neighb'ring Hills — the whole consists
+
+
+Of twenty-thousand men effectively;
+
+
+The 
+best
+ of 
+bad,
+ cull'd out of all the rest,
+
+
+Canon they have, and Bombs and Engineers,
+
+
+We must expect smart Entertainment with 'em.
+
+
+
+
+
+
+Governour.
+
+
+Let's to the Walls, and see what Face they bear,
+
+
+Tho' probaby we shortly may meet nearer.
+
+
+
+
+Exeunt omnes.
+
+
+
+
+
+
+SCENE II. 
+The
+ Irish 
+CAMP, — and General's Tent.
+
+
+Hamilton, Mamow, Pusignan, Clancarty, Butler, Fitz-gerald, 
+and other Officers.
+
+
+
+
+Hamilton.
+
+
+WHat mean these sturdy Rebels, that they yet
+
+
+Delay surrendring? Can they think to stand
+
+
+Our Royal Army? will those ragged Walls
+
+
+Which scarce will bear the shock of their own Canon,
+
+
+How then of ours, secure 'em from our Arms?
+
+
+
+
+
+
+Mamow.
+
+
+Begar me vill batter 'em down with 1, 2, 3, Potgun.
+
+
+Vat the Diable do they mean? do they not know
+
+
+My great Maistre send his Lieutenant General 
+Mamow
+
+
+To pull down all de Walls, and burn, kill, kill,
+
+
+De Man, Woman, and shucking Shild dat fight vid his
+
+
+Brother King of 
+England?
+
+
+
+
+
+
+Fitz-gerald.
+
+
+They only kindly stay 'till we attack 'em,
+
+
+That we may have the pleasure
+
+
+Of Military Execution on 'em;
+
+
+For 'tis impossible they shou'd sustain
+
+
+The least assault of such a puissant Army.
+
+
+
+
+
+
+Butler.
+
+
+Perhaps they question if we're yet in earnest;
+
+
+Were but a Battery rais'd, and some few Bombs
+
+
+Thrown in, 'twou'd make 'em tremble and submit,
+
+
+If not infatuated.
+
+
+
+
+
+
+Hamilton.
+
+
+The Experiment is quickly try'd upon 'em:
+
+
+Call th' Engineers, and let some shot be play'd
+
+
+
+
+Against the Market-house — perhaps 'twill stagger 'em,
+
+
+To see the Stones rattle about their Ears.
+
+
+
+
+
+
+Clancarty.
+
+
+A tedious way — and wer't not far more brave
+
+
+To scale it instantly, and put to th' Sword
+
+
+Whoe're resist? I'd be the first should lead 'em.
+
+
+
+
+
+
+Hamilton.
+
+
+My Lord, none e're could doubt 
+Clancarty
+'s Valour,
+
+
+But the Kings Subjects must not be exposed
+
+
+To causeless hazards — time enough for that
+
+
+If this succeed not — as I'd hope it may;
+
+
+— For see — already they set ope the Gates,
+
+
+And hurry in disorder hitherward;
+
+
+Their wisest way, to yield upon Discretion.
+
+
+
+
+
+
+Butler.
+
+
+They rather seem to bear the face of Men
+
+
+Desperately bent to ruine — see already
+
+
+They charge our careless Out-Guards, and have beat 'em
+
+
+Home to the Trenches.
+
+
+
+
+
+
+Hamilton.
+
+
+They are Impudent —
+
+
+But shall be cooler — To your Charges strait;
+
+
+Draw out a Party of Horse and face the Rebels;
+
+
+Remember 'tis the first Attempt, on that
+
+
+May very much of our Success depend.
+
+
+
+
+
+
+Fitz-girald.
+
+
+They've taken a long Sally from their Town,
+
+
+Nor shall return in hast —
+
+
+
+
+Exeunt omnes.
+
+
+Enter a Party of the
+ Derry men. 
+Collonels, Captains,
+ &c.
+
+
+
+
+Collonel.
+
+
+So — we begin to rouze 'em — who wou'd think
+
+
+To see how briskly they at first advance;
+
+
+They were resolv'd to play an 
+Irish
+-trick,
+
+
+And run away; but that 'tis the Beasts Nature,
+
+
+Since one o'th two must run, he'll be so civil
+
+
+To save the other side the Labour.
+
+
+
+
+Enter
+ Irish, Mamow, Fitz girald, 
+&c.
+
+
+
+
+Fitz-girald.
+
+
+Yield Rebels!
+
+
+
+
+
+
+Collonel.
+
+
+Yes! —
+
+
+
+
+Shoots him dead, the Parties joyn, the
+ English 
+beat the
+ Irish 
+off, and fight behind the Scenes.
+
+
+
+
+
+
+
+
+SCENE III. 
+Derry.
+
+
+Enter Governour; to him a Captain from the Field.
+
+
+
+
+Captain,
+
+
+'Twas a tough bout—, the 
+Irish
+ cheated us
+
+
+And fought awhile like men.
+
+
+
+
+
+
+Governour.
+
+
+We from the Walls
+
+
+Cou'd not distinctly see what happened there.
+
+
+
+
+
+
+Captain.
+
+
+From the brave Colonel I'm sent on purpose,
+
+
+Who charg'd i'th' head o'th' Horse to give account
+
+
+Of this days action—, who is now retired
+
+
+Under the Walls where still he'll face the Enemy.
+
+
+
+
+
+
+Governour.
+
+
+Cure my impatience quick, and let me hear't.
+
+
+
+
+
+
+Captain.
+
+
+He in two Squadrons first the Horse divides
+
+
+The Enemy did the same; they met us briskly,
+
+
+And head to head we fought, and breast to breast;
+
+
+No way appear'd but thro', or o're each other
+
+
+Each close t'his Friend, as close t'his Enemy,
+
+
+Two Iron Bodies hacking one another
+
+
+As Smiths on Anvils beat— while smoke and Fire
+
+
+And sparks as thick as theirs flew from each Helmet,
+
+
+Long thus we tugg'd till our impatient Colonel
+
+
+Grown angry beyond suffrance when they grew
+
+
+Unconscionably tedious e're they ran,
+
+
+With his broad Sword clove one o'th' foremost down
+
+
+Almost to th' Girdle-sted, then should'ring in
+
+
+Charg'd thro' the whole Brigade—, we follow'd him
+
+
+And glean'd the Deaths behind him. Twice he met
+
+
+And hand to hand grappled their bold Commander
+
+
+The 
+French Mamau,
+ who fought and curs'd as heartily
+
+
+As possible—, as oft agen was sundred
+
+
+By droves of either Party rushing in
+
+
+Betwixt their lifted Swords— the third wish'd time
+
+
+
+
+They met, and Monsieur at the first Encounter
+
+
+Fell dead, blaspheming on the dusty
+ plain
+
+
+And dying bit the ground—. His Brother came
+
+
+Madder than he and swore a quick Revenge
+
+
+Or else to follow him —, he had the last
+
+
+From the same hand, who sent him groveling after
+
+
+On the same spot, so soon, their Souls and blood
+
+
+Met as they parted, these upon the Sand,
+
+
+And those i'th' airy regions—. All the rest
+
+
+Were fairly following them—, till a new party
+
+
+Came from the Camp, who with their very weight
+
+
+Forc'd a Retreat—, they eagerly prest on
+
+
+And met their Fate behind, our Foot stood ready
+
+
+Who all the Ditches lined, and gave 'em such
+
+
+Warm Entertainment very few return'd
+
+
+To tell the News—. At least two hundred left
+
+
+Upon the spot, their Standard we have won
+
+
+And store of spoil, nor lost above some Ten
+
+
+In all the Action.
+
+
+
+
+
+
+Governour.
+
+
+Like true 
+Brittains
+ done
+
+
+—And see they here return loaden with spoils
+
+
+And fairly purchase Lawrels—. —Welcom here
+
+
+Enter from the Walls, the Colonel, Officers, Souldiers,
+ &c.
+
+
+Thrice welcom to my Breast! dread Sons of War
+
+
+My Heart beats quick, and something feels abroad
+
+
+Kin to its own—, 'twou'd fain get out and meet it
+
+
+O how I envy you so great an Action
+
+
+(Or were you any else shou'd envy you)
+
+
+You've let 'em know what they must look for from 
+Derry
+
+
+What Edge your Courages and Swords do bear.
+
+
+
+
+[
+Embraces the Colonel,
+ &c]
+
+
+
+
+Colonel.
+
+
+We've bid 'm welcom— somewhat heartily
+
+
+And as they like it, let 'em come agen
+
+
+Tho' they'l perhaps be wiser—.
+
+
+
+
+
+
+
+
+Governour.
+
+
+No they will not
+
+
+We certainly shall have 'em quickly with us
+
+
+Rashness and Cowardice make up their Nature,
+
+
+Prompt to attempt, mad, eager on destruction
+
+
+Like other Beasts they'l run on Sword and Fire.
+
+
+The Bores will stake themselves, hold but the Spear
+
+
+Direct against 'em—, but when once they feel
+
+
+The warm blood trickle down and stain the Earth
+
+
+Unlike a generous Beast, like Curs they whine
+
+
+Clap up their Tails and run, nor will they stop
+
+
+Till death reach them, or they some place of safety.
+
+
+—Howe're we are prepar'd—, fresh men to th' Walls
+
+
+I'le speed away, and others to the works:
+
+
+While all your honourable wounds are dress't,
+
+
+And you from your long Toyl and Labours rest.
+
+
+
+
+Exeunt omnes.
+
+
+
+
+
+
+SCENE IV. 
+The Irish Camp.
+
+
+Enter
+ Hamilton, Butler, Clancarty, Talbot, Nettervile, 
+&c.
+
+
+
+
+Hamilton.
+
+
+Well—, 'tis the chance of War— always unequal,
+
+
+Sometimes they must suffer—, but Revenge
+
+
+Sweet dear Revenge will soon set all things right
+
+
+And almost make 'em live agen— we must
+
+
+Repay their visit, home and speedily.
+
+
+
+
+
+
+Col. 
+Talbot.
+
+
+If there be God or Devil, let both stand Neuter
+
+
+Or side with Rebels now as oft before
+
+
+'Tis the same thing—, I neither fear their Anger
+
+
+Nor hope their Aid—, this sword and Arm's my God
+
+
+I have and do 
+Decree
+ to Conquer them.
+
+
+
+
+
+
+Hamilton.
+
+
+Still wicked Will! But yet he's resolute
+
+
+And firm to th' Cause—, small faults are soon pass't over.
+
+
+But we've no room for talk—, swift action calls
+
+
+The 
+English
+ will be here with strong Relief
+
+
+Unless we're speedy—, Let's with Expedition
+
+
+The Life of every noble Enterprize.
+
+
+
+
+Begin th' attaque upon their Lines, Works, Town.
+
+
+Last time they met you unprovided, now
+
+
+Prepar'd you come they ne're can think to stand.
+
+
+
+
+
+
+Butler,
+
+
+What men can do, resolved to beat or dye
+
+
+What Loyal Subjects against hated Rebels,
+
+
+And Catholicks against a faithless Crew
+
+
+Of cursed Heretical Dogs, we promise, swear,
+
+
+And Vow, ne're to return unless with Conquest.
+
+
+
+
+
+
+Hamilton,
+
+
+Success attend you, equal to your valour.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+SCENE. V. 
+Derry. The Walls.
+
+
+Governour, Several Captains, Officers,
+ &c.
+
+
+
+
+Govern.
+
+
+I find I took em right, the Camps in motion
+
+
+And some great thing in hand, see, there they come
+
+
+And swarm along as if they'd cover us,
+
+
+Three parties Horse, two other Foot appear.
+
+
+Captain; I need not order you to your charges
+
+
+Who are already eager to be there.
+
+
+
+
+
+
+1 
+Capt.
+
+
+The Feasts so good there needs small invita∣tion.
+
+
+Wer'e gone—
+
+
+
+
+Exeunt Omnes.
+
+
+Manent Governour and a Colonel.
+
+
+
+
+Govern.
+
+
+Hark— from the Irish Camp a dismal yell
+
+
+Loud as the Midnight Wolves when met in Troops
+
+
+To assault the Folds, their parties are come up,
+
+
+The Horse have top'd our Line, with loud Huzza's
+
+
+And Fagots all before 'em.
+
+
+
+
+
+
+Col.
+
+
+Trust their welcome.
+
+
+See, are our men behind hand in returns
+
+
+They scorn to keep the Forts, but meet them fairly
+
+
+Tho' theirs the disadvantage, on the Strand.
+
+
+See how they mow 'em! Sure they are grown hoarse
+
+
+We here no more Huzzah's. Pykes, Musquets, Scythes
+
+
+Have spoiled their Musick.— Into th
+ 
+Lough
+ they run,
+
+
+And by one Death another vainly shun.
+
+
+
+
+
+
+
+
+Governour.
+
+
+Who should that be that fights when all the rest
+
+
+Are broke and shatter'd—; I cou'd wish his Life
+
+
+He is so brave
+
+
+
+
+
+
+Colonel.
+
+
+Unless my Eyes mistake
+
+
+As easily they may at such a distance
+
+
+'Tis young 
+Montgarret
+—, see— his Horse is kill'd
+
+
+And he takes Quarter—, all his Party routed.
+
+
+
+
+
+
+Gov.
+
+
+'Tis well—, where are the rest—? ha— at what distance,
+
+
+How reverendly the Cowards gaze upon
+
+
+Their Fellows Fate—, the other two bold Squadrons
+
+
+Who with thick bellowings lately tore the Air
+
+
+Stand still as Statues.
+
+
+
+
+
+
+Colonel.
+
+
+But their Foot come on
+
+
+And warmly too—, those Granadeers fight well
+
+
+Ours bend a little—
+
+
+
+
+
+
+Gov.
+
+
+Haste your Regiment
+
+
+To their Relief.
+
+
+
+
+
+
+Colonel.
+
+
+The work is done without it
+
+
+They've beat 'em off—, and fire still on their Rear.
+
+
+—Ha! are they immortal— that none drop,
+
+
+With all our Shot?
+
+
+
+
+
+
+Gov.
+
+
+O! Pleasant Cowards—, see how witty Fear is!
+
+
+As they go off they bear the dead behind 'em
+
+
+Who do more service now than while alive
+
+
+And guard the rest from all our shot secure.
+
+
+—But ours return, and almost every man
+
+
+His Prisoner brings.
+
+
+
+
+Enter the
+ Derry 
+Men, with
+ Talbot, Nettervile, Butler, 
+&c. Prisoners.
+
+
+
+
+Governour.
+
+
+To the Prisoners.
+
+
+Gentlemen— 'tis the Fate of War—, we use not
+
+
+What e're your Countrymen return us for it,
+
+
+To violate our Word and Quarter given.
+
+
+—
+To the Captains,
+
+
+See they are lodg'd as handsomly as our
+
+
+Convenience and Security permits 'em.
+
+
+
+
+Exeunt omnes.
+
+
+
+
+
+
+
+
+SCENE. VI. 
+The Irish Camp.
+
+
+Enter An
+ Irish 
+Funeral, of one of their Commanders kill'd in the last Action. Tapers, Crosses, Dirges. Two fat Friars singing—, and praying for his Soul.
+
+
+
+
+Song by the Priests.
+
+
+
+
+1.
+
+
+REst thy Soul in Bliss dear Friend!
+
+
+Now beginning, n'ere to end:
+
+
+At Purgatory be not scar'd
+
+
+Its Flame shall never singe thy Beard.
+
+
+Mount to rights to Heav'n, nor stay
+
+
+To call at the Half-way-house by th'way.
+
+
+
+
+
+
+2.
+
+
+On thy Soul, while here below,
+
+
+If some little spots did grow:
+
+
+Murder, Perjury, or Rape
+
+
+Or some such other small Escape:
+
+
+By thy meritorious Fall
+
+
+Thou hast o're atton'd 'em all.
+
+
+
+
+
+
+3.
+
+
+Innocent as Child unborn
+
+
+On the golden wings of morn
+
+
+Mount to bliss, and pray for those
+
+
+Strugling with their faithless Foes:
+
+
+Aid thy Friends who thee adore
+
+
+As thou other Saints before.
+
+
+
+
+[
+They put him into the Grave, and the
+ Irish 
+kneel down by him, tear their Hair, throw up the Dirt, and lament his death with unsufferable Howlings, as their manner is, singing this Song over his Grave.
+]
+
+
+
+
+
+
+
+
+Irish
+ SONG.
+
+
+
+
+AH Brother Teague! Why didst thou go?
+
+
+Whillilla lilla lilla lilla lilla lilla loo!
+
+
+And leave thy Friends in grief and wo,
+
+
+Aboo aboo aboo aboo aboo aboo aboo!
+
+
+
+
+
+
+Hadst thou not store of Houshold-stuff
+
+
+Whillilla
+ &c.
+
+
+Potates and Usquebagh enough
+
+
+Aboo
+ &c.
+
+
+
+
+
+
+Three Sheep, one Garroon, and a Cow
+
+
+Whillilla
+ &c.
+
+
+A Garden, Cabin and a Plough
+
+
+Aboo
+ &c.
+
+
+
+
+
+
+Hadst thou not Bonny-clabbar store
+
+
+Whillilla
+ &c.
+
+
+If not enough wee'd giv'n thee more.
+
+
+Aboo
+ &c.
+
+
+
+
+
+
+Why wouldst thou Teague! Ah tell me why
+
+
+Whillilla
+ &c.
+
+
+Thus play the Fool and maake a dy
+
+
+Aboo
+ &c.
+
+
+
+
+
+
+Why didst thou touch the fatal shore
+
+
+Whillilla
+ &c.
+
+
+Where we shall never see thee more
+
+
+Aboo aboo aboo aboo aboo aboo aboo!
+
+
+
+
+[While they are in the midst of their Harmony comes a Shot from the Town, and kills the two Fryars and several others—, all the rest start up and run away.]
+
+
+
+
+
+
+
+
+
+
+SCENE VII. 
+Derry.
+
+
+The Walls—, Captains, Souldiers,
+ &c.
+
+
+
+
+1 
+Sol.
+
+
+We've spoil'd their howling, why 'twas more unsufferable
+
+
+Then all their Canon—, there was a yell
+
+
+Fearful enough to've frighted him almost
+
+
+From his long sleep agen.
+
+
+
+
+
+
+2 
+Sol.
+
+
+But Oh! those holy Cheats—, those goodly Friars
+
+
+How they both caper'd when the Chain-shot came
+
+
+And Circumciz'd 'em just i'th' middle!
+
+
+By this time if their Souls are not so gross
+
+
+Pursy and unwieldy as their Carcasses,
+
+
+They may have reach'd their Friend who went before 'em.
+
+
+
+
+
+
+1. 
+Capt.
+
+
+Never insult over an Enemy
+
+
+Conquer'd or slain—, if either, that's enough
+
+
+The rest is base—, 'Tis true o're you they wou'd
+
+
+But even there o'recome 'em as in Battle.
+
+
+—Come Captain—, Let's to our Charge— the 
+Irish
+ Prisoners
+
+
+See how they brook confinement here.
+
+
+
+
+
+
+2. 
+Capt.
+
+
+Agreed—
+
+
+
+
+[
+They open a Door, and the Prisoners come forth—,
+ Talbot, Macdonald, 
+&c. discontented and gloomy.
+]
+
+
+
+
+1. 
+Capt.
+
+
+to 
+Talbot.
+ You're Melancholy Colonel—, we are come
+
+
+To give you some diversion— not insult you
+
+
+What's now your Fate, to morrow may be ours.
+
+
+
+
+
+
+Talbot.
+
+
+Such Rebels merit not so good—.
+
+
+
+
+
+
+2. 
+Capt.
+
+
+We Scorn
+
+
+The name and thing—, nor wou'd, nor ever did
+
+
+Yet take it in the Field—.
+
+
+
+
+
+
+Macdonald.
+
+
+Can you deny it?
+
+
+To reason calmly—, took you not up Arms
+
+
+Against your Kings Lieutenant here at first,
+
+
+And since even he himself in Person's come
+
+
+Continue in your stubborn disobedience?
+
+
+
+
+
+
+
+
+1. 
+Capt.
+
+
+For our first taking Arms, 'twas on advice
+
+
+Of Massacres intended—, and as some
+
+
+Of you acknowledge, actually proposed
+
+
+To th' Deputy—. Those barbarous attempts
+
+
+All Nations own 'tis lawful to repel
+
+
+With utmost Force, since that's the only Law
+
+
+Can either authorize or from 'em shield.
+
+
+The last is not forgot—. For our remaining
+
+
+In such a posture, 'tis for 
+Englands
+ King
+
+
+And 
+Ireland
+'s too we fight—. This ever was
+
+
+Since Conquer'd, a Dependant held inseparable
+
+
+From th' 
+English
+ Crown, when quitted, thrown away
+
+
+And slighted by that Bigot Prince who wore it
+
+
+Placed on two Royal Heads, the next in blood
+
+
+And brightest pair in 
+Europe—,
+ those we own
+
+
+Our rightful King and Queen, and you no better
+
+
+Than that foul name with which you've branded us.
+
+
+
+
+
+
+Talbot.
+
+
+The Massacre you talk of with such dread
+
+
+Was no more real than that common place
+
+
+Of cruelty—, the bloody Forty one—
+
+
+When, after infinite insufferable
+
+
+And odious provocations the poor Natives
+
+
+Took for themselves and their Religion both
+
+
+Just necessary Arms, Commission'd by
+
+
+The King himself—. The Murthers buzz'd so loud
+
+
+Were Executions which in War will ever
+
+
+Be more or less—, and those you first begun
+
+
+How many Thousands in the Isle 
+Magee;
+
+
+Before a stroke was struck by ours— and then
+
+
+We offer'd Murtherers on either side
+
+
+Shou'd have fair Trial—, this you ne're accepted
+
+
+Because you dared not.
+
+
+
+
+
+
+2. 
+Capt.
+
+
+Only there you're right.
+
+
+We dared not be indeed such hardy Fools
+
+
+To trust our Lives with 
+Irish
+ Consciences
+
+
+Judges and Jury all your Countrymen
+
+
+
+
+Who do notorious Justice when they meet us,
+
+
+And before such you did propose a Tryal
+
+
+Of which there was no need, for all the 
+Irish
+
+
+Had been acquitted, all the 
+English
+ guilty.
+
+
+That of 
+Magee
+ was a full year at least
+
+
+After your horrid Massacre begun,
+
+
+And only warm revenge for many Murthers.
+
+
+Which you began er'e any provocation
+
+
+The hour, the day prefixt all o're the Kingdom
+
+
+Own'd by your own, and not by you denyed;
+
+
+Who only say you were provoked to what
+
+
+You did— but how— had you not your Estates,
+
+
+Liberties, Lives, although a conquer'd Nation;
+
+
+Were not your Lawyers, nay some Judges 
+Irish,
+
+
+Was it Religion then? But was not that
+
+
+Which you call so, allowed more bare then ever,
+
+
+Convents and Nunneries every where connived at,
+
+
+No man molested, Mass in publick said
+
+
+All o're the Kingdom, spite of all the Laws
+
+
+Point-blank against it— as for your Commissions
+
+
+Your great 
+Oneal
+ himself, and Lord 
+Mac-guire
+
+
+Own'd at their death 'twas all a Forgery.
+
+
+
+
+
+
+Butler,
+
+
+Well Gentlemen, which ever part went wrong
+
+
+Or this or that can never now recall it.
+
+
+But one things certain, and you've treated us
+
+
+So generously we cannot but in kindness
+
+
+Advise you on't— You see no succours yet
+
+
+From 
+England
+ come, or if they are in vain
+
+
+Kilmore
+ is ours, and we a Boom have fastned
+
+
+Across the 
+Lough
+ that 'tis impossible
+
+
+By that way to releive you; —your Provisions
+
+
+I see come short, you may have yet fair Terms;
+
+
+If you stand out there's not a man escapes,
+
+
+Yield then and let not such brave men be ruin'd.
+
+
+
+
+
+
+1 
+Capt.
+
+
+Captain we thank you for your kind advice
+
+
+But should the Souldiers hear you'd not be safe
+
+
+
+
+From worrying, nor shou'd we propose it.
+
+
+We're one and all— There's not a private Centinel
+
+
+But willingly wou'd eat the Flesh from one arm
+
+
+And fight with t'other, ere they wou'd surrender,
+
+
+—Besides for yet a while we're richly stored
+
+
+Tallow and Starch, —why 'tis luxurious diet.
+
+
+And when that fails, and all besides, the Garrison
+
+
+Sir, we have heard e'm swear't, and do believe it
+
+
+Will first eat you, and then themselves, e're yield.
+
+
+Tho' every hour we expect releif
+
+
+And know the English are ith' 
+Lough
+ already.
+
+
+And will be here—
+
+
+(A shout without) But we must to our Charges.
+
+
+For business calls, we wish you well to bear
+
+
+What can't he mended.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+SCENE VIII. 
+Derry-Walls
+
+
+Enter Governour, Colonels, Captains.
+
+
+
+
+Govern.
+
+
+Too well appears the reason of that shout
+
+
+I'th' Irish Camp— See in the 
+Lough
+ below
+
+
+The English Ships attempting our relief,
+
+
+The first is stranded, while the barbarous Enemy,
+
+
+Runs down in Sholes to Fire, or kill, or take 'em,
+
+
+While with insulting Flowts they call t'our Guards,
+
+
+And bid us send our Carpenters to help 'em.
+
+
+
+
+
+
+1 
+Col.
+
+
+Some of their mirth is spoiled with that broad∣side,
+
+
+Full in the midst o'th' Rabble— nay the shock
+
+
+Unless— I see as many, what they wish.
+
+
+Has floated her again.
+
+
+
+
+
+
+2 
+Col.
+
+
+'T has done it really
+
+
+Not only in your fancy, now Salvation!
+
+
+The Boom is broke, with Wind and Tide they come,
+
+
+And scatter storms of Fire and Death about 'em
+
+
+
+
+Till 
+Kilmore
+ rattles, and the bloody strand
+
+
+Lies spread with Carcasses, and Legs and Arms,
+
+
+Bodies and Heads and Men alive and dead,
+
+
+Fly every where so fast as if they strove
+
+
+Which shou'd outrun the other.
+
+
+
+
+
+
+Gov.
+
+
+They have reached the Key, relief & life comes with 'em.
+
+
+
+
+Enter English
+ Captains.
+
+
+
+
+Govern.
+
+
+Brave Countreymen there's little need to tell you,
+
+
+You're welcome here, for all that's left of 
+Derry
+
+
+Confesses it, those living Carcasses
+
+
+You see remaining fain wou'd smile, had they
+
+
+But flesh enough to do it, not great 
+Orange,
+
+
+Our now great King was with more joy received,
+
+
+In gasping 
+England
+ when he came to save it
+
+
+From the same Enemy, then you are here.
+
+
+
+
+
+
+Engl.
+
+
+C. Nor with less Joy we bring you this relief
+
+
+Then wee'd our selves receive it, but what news
+
+
+From th' Enemies Camp, must we go visit them,
+
+
+Or won't they be so civil to attend us.
+
+
+
+
+
+
+Govern.
+
+
+They do what they were born to run away.
+
+
+Fire all their very Tents and Huts, and worse,
+
+
+The Countrey too least we should make advantage.
+
+
+Whole waggon-loads of Arms thrown into th' River.
+
+
+Bursting their largest Guns, as too unweieldy
+
+
+For thir light March, O had we but some Horse
+
+
+To give 'em one kind Farewell, 'tis so strange
+
+
+For those who have been Neighbours now so long
+
+
+To part abruptly.
+
+
+
+
+
+
+Engl.
+
+
+Capt. We again shall find 'em,
+
+
+For 
+Schombergh
+ speedily is here designed
+
+
+With twenty thousand men to march for 
+Dublin.
+
+
+And end the War.
+
+
+
+
+
+
+Governour,
+
+
+Impatiently we wait,
+
+
+Till that wish day when we agen may meet,
+
+
+Those who so often grovelled at our Feet. 
+Ex. Omn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACT. IV. SCENE. First. 
+Dublin.
+
+
+Tyrconnel, Rice, Nugent,
+ &c. 
+Neagle.
+
+
+
+
+Tyrc.
+
+
+Derry
+ reliev'd, and 
+Inniskilling
+ lost,
+
+
+Sure destiny mistakes, or we do so.
+
+
+Macarty
+ Prisoner, 
+Hamilton
+ baffled, 
+English
+ landed
+
+
+And more still coming! What will next be done.
+
+
+Were all my Goods aboard, as once before
+
+
+And I there too, I scarcely shou'd look back
+
+
+To be Lieutenant, Or indeed a something
+
+
+Which bears some lesser name, (the King's scarce more
+
+
+
+
+Aside.
+
+
+
+
+Nug.
+
+
+The glorious Cause we now are all embarkt in
+
+
+Is firm enough to stand in spite of all
+
+
+Th'attempts against it of weak Hereticks,
+
+
+What are two Towns? they yet have won no more
+
+
+Nay only kept 'em, and for the disgrace
+
+
+Incurred by missing them, there are excuses
+
+
+Sound plausibly enough, which wee'l transmit
+
+
+To our Friends in 
+England,
+ as our selves wee'l use 'em.
+
+
+—Alas, 'twas place, a little mean
+
+
+And worthless Town, we only lay before it
+
+
+For Recreation, might have taken it
+
+
+When e're we pleased, at an hours warning had we
+
+
+But strained our Forees there, 'tis true wee'd some,
+
+
+Some few perhaps of note who dy'd in th' Army,
+
+
+But there are many ways of death besides
+
+
+
+
+The Sword and Cannon, several brought Diseases
+
+
+That left 'em there, tho' lives and all went with 'em.
+
+
+The usual chance of War, not to be avoided.
+
+
+—For what's to come we've still a numerous Army,
+
+
+A noble body of Horse as are in 
+Europe,
+
+
+Ten Thousand with the least— with these wee'l tug.
+
+
+At least this Summer ore, the fickle English
+
+
+By then perhaps will tired and weary grow
+
+
+Of their new King, or 
+France
+ will be at leisure
+
+
+To give their Arms a powerful diversion
+
+
+And us assistance here. His Privateers
+
+
+Will scowr our Seas, and pick each Vessel up
+
+
+That peeps abroad, this will breed Discontents
+
+
+In those enough inclin'd to't without Cause,
+
+
+Besides we still have a strong party there
+
+
+Desperate and Resolute—, they may produce
+
+
+Something themselves thats not contemptible,
+
+
+But come the worst, 'tis but to Fire the Countrey,
+
+
+Kill all the Heretics, and run away
+
+
+By th' Light their Houses make.
+
+
+
+
+
+
+Neagle,
+
+
+But still for Money
+
+
+The Life oth' cause—, That must be got or all
+
+
+Yet done or counselled will be lost and nothing.
+
+
+
+
+
+
+Rice,
+
+
+We shall have shortly large supplies from 
+France
+
+
+Some we already have.
+
+
+
+
+
+
+Neagle,
+
+
+All far too little
+
+
+But our Invention must supply what's wanting,
+
+
+Money there is ith' Kingdom, and good store
+
+
+This i'le contrive, and speciously, to bring
+
+
+Each Cob into th' 
+Exchequer.
+
+
+
+
+
+
+Tyrconnel,
+
+
+That would half
+
+
+Restore my hopes, but 'tis impossible.
+
+
+
+
+
+
+Neagle,
+
+
+First hear it. I propose new pieces should
+
+
+Be Coyned, of Copper, or some pretty mettal
+
+
+That may look well, their value as we please
+
+
+Let all be obliged to take this Royal money,
+
+
+
+
+From Souldiers or the King; but when they pay
+
+
+Custom or Subsidy, or ought beside
+
+
+Be that in the old Coyn—
+
+
+
+
+
+
+Rice,
+
+
+The only fear
+
+
+Is least they murmur at the imposition.
+
+
+
+
+
+
+Tyrcon.
+
+
+How, murmur at their Prince, d'ye think they'r Rebels
+
+
+If he demands their their Throats, are they not his,
+
+
+Their heads, all at his service, and shou'd tumble
+
+
+Themselves oth' floor for him to tread and spurn 'em,
+
+
+
+
+
+
+Neagle,
+
+
+Not yet so high to run the supposition
+
+
+The Natives never were much used to Money
+
+
+To them 'tis all the same— alas they're scarce
+
+
+So subtle to distinguish one and to'ther
+
+
+And they're ith' right on't, every thing is worth
+
+
+Its settled value, if this buys a Cow
+
+
+And Silver did no more, 'tis the same thing.
+
+
+
+
+
+
+Tyrconnel.
+
+
+To say but truth, the less we are engaged
+
+
+To insulting 
+France
+ the better, they begin
+
+
+To scorn, affront, abuse the Native 
+Irish
+
+
+Which we sure cannot bear.
+
+
+
+
+
+
+Neagle,
+
+
+Nor need we long—
+
+
+When once they'v done their business that they came for
+
+
+We easily can turn 'em home agen.
+
+
+Mean while all may be fair, dissemble what
+
+
+We can't digest, nor can we er'e be greater
+
+
+The King, good man, is old, and minds his Beads,
+
+
+His Priests and Hounds share all his time between 'em.
+
+
+Sometimes wee'l bring him out, and let him walk
+
+
+A turn or two, as the 
+Chinese
+ their Emperors,
+
+
+To let the people know he's still alive.
+
+
+And make all preparation necessary
+
+
+To oppose the English, if they shou'd descend
+
+
+On any part o'th' Island.
+
+
+
+
+
+
+Enter Messenger with a Rope about his neck.
+
+
+
+
+Mess.
+
+
+Post from the North I bear the dreadful news
+
+
+The Sea's all covered with the English Fleet,
+
+
+A thousand Sail I think, for there's no end,
+
+
+And bore directly in for 
+Bangor Bay.
+
+
+
+
+
+
+Tyrc.
+
+
+—'Tis well enough, I doubted they wou'd bid
+
+
+For 
+Dublin,
+ we have time and ground and men,
+
+
+Sufficient for 'em, come they when they will.
+
+
+
+
+Enter another Messenger as the former.
+
+
+
+
+Messenger,
+
+
+The Enemies landed all in 
+Bangor Bay.
+
+
+Belfast
+ already's yielded, 
+Carrick-fergus
+
+
+Invested round, and gone by this, the Countrey
+
+
+Roll in amain, the English drive along
+
+
+And none or can or dare resist the Torrent.
+
+
+
+
+
+
+Nugent,
+
+
+Time enough yet, they will be out of breath
+
+
+And 'twill be our turns then to march and meet 'em.
+
+
+Already we are rendevouzed betwixt
+
+
+Dundalk
+ and famed 
+Tredagh,
+ when they come thither
+
+
+(But first they have the 
+Newry
+ to get through,
+
+
+A Pass that none can force but bulls or Devils)
+
+
+We may speak with 'em.
+
+
+
+
+
+
+Tyrcon.
+
+
+When we know their numbers,
+
+
+For Fame still greatens as it farther goes.
+
+
+Till then lets take what measures now are needful,
+
+
+We've all the Arms already of the Hereticks.
+
+
+If there are any persons yet whose power
+
+
+May injure us, let them too be secured,
+
+
+And to amuse the people, set the Priests
+
+
+To Prayer for good success.
+
+
+
+
+
+
+Rice,
+
+
+If this blow over,
+
+
+Or we but keep 'em there at a due distance
+
+
+Wee'l have a Parliament to attaint the Estates
+
+
+Of all that joyn the English, or absent,
+
+
+And tare in pieces those faint Nun-spun Acts,
+
+
+
+
+Made to the prejudice oth' Loyal Irish,
+
+
+Unsettle and unhinge their Settlements,
+
+
+Law or the Sword wou'd do it, best by both;
+
+
+Dominion to our Country we'l restore,
+
+
+And to proud Conquerers be Slaves no more.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+Scene II. 
+The Newry.
+ Schombergs 
+Army. The
+ Inniskilling 
+Men, &c.
+
+
+
+
+General.
+
+
+Thus far we've only marcht, not fought our way.
+
+
+Here will be occasion for your Valour, if
+
+
+They've but a spark of Courage, and tough work
+
+
+Must needs ensue. The Pass is strong, but must
+
+
+Be won, or we stay here.
+
+
+
+
+
+
+Captain.
+
+
+No, rather in our Graves; we only wait
+
+
+Orders to charge, as they our doing that,
+
+
+Unless they're strangely changed, to run away.
+
+
+
+
+
+
+General.
+
+
+Go take a Party then and try th' event.
+
+
+
+
+The
+ Irish 
+appear posted advantagiously. The
+ English 
+throw themselves upon 'em, who after two or three Fires, fling their Arms into the River, and shift for themselves.
+
+
+
+
+General.
+
+
+Both sides I see are very expeditious.
+
+
+
+
+
+
+Captain.
+
+
+Next for 
+Dundalk.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+
+
+Scene III. Dublin.
+
+
+Tyrconnel, Nugent, Neagle, Irish Lords. To 'em a Messenger.
+
+
+
+
+Mess.
+
+
+The Newry's lost; and on the Plain before
+
+
+Dundalk
+ I saw the 
+English
+ Troops advance
+
+
+Er'e I came thence. By this they must be there.
+
+
+
+
+
+
+Tyrcon.
+
+
+Sure they fly.
+
+
+
+
+
+
+Nug.
+
+
+I doubt tis ours do so. But are our Army
+
+
+Ready to meet 'em there?
+
+
+
+
+
+
+Tyrcon.
+
+
+They'r all prepared.
+
+
+We know their formidable Numbers too;
+
+
+Some twenty thousand only at the most:
+
+
+We thrice out-number 'em; and when they know
+
+
+Our force, will sure retire faster than they
+
+
+March'd forward— but my Lords, I'll to the Army,
+
+
+The King will do no hurt, what's yet left of him:
+
+
+If hee's there too, perhaps some of the Rebels
+
+
+Will yield at his approach. Besides already
+
+
+We've many Friends in 
+Schomberg
+'s Camp, from whence
+
+
+We nere shall want intelligence at least,
+
+
+Perhaps do something more.
+
+
+
+
+
+
+Neag.
+
+
+Success attend your Excellency thither.
+
+
+
+
+
+
+
+
+Scene IV. Dundalk.
+
+
+English Army, General, Council of War, Officers, &c.
+
+
+
+
+General.
+
+
+I know the English Genius and their Fire,
+
+
+My Country-men have ofte felt 'em both.
+
+
+
+
+And now, tis granted they'll but fight their Slaves.
+
+
+— But then the disproportion is so huge,
+
+
+Our Horse so few and weak, their's strong and numerous,
+
+
+Their Foot four times at least more than the 
+English,
+
+
+'Twou'd be too great hazard to attempt;
+
+
+Too great a price, ev'n Victory to gain
+
+
+By breaking all our Army, ere more Force
+
+
+Arrive to joyn us, or advantage offers.
+
+
+We've here firm footing, whence they nere can beat us;
+
+
+If they attempt, they fight at disadvantage;
+
+
+And only come to meet prepared Destruction.
+
+
+
+
+
+
+Officer.
+
+
+We must submit, tho 'tis a thing looks strange
+
+
+To Englishmen thus coopt, to wait the Enemy,
+
+
+Who always used to seek 'em, and dy here
+
+
+By sickness, closeness, and thick foggy Air,
+
+
+Who bravely might for a good purchase sell
+
+
+Our Lives, and get eternal Fame by losing 'em.
+
+
+
+
+
+
+General.
+
+
+Which ever way they'r lost; if in defence
+
+
+Tis of your Country, and obedience to
+
+
+So good a King, you never cou'd fall braver.
+
+
+— But to that reason I before advance
+
+
+Against Engagement, there's perhaps a greater,
+
+
+A secret kept till now — I have Intelligence
+
+
+There's a design form'd to betray the Camp
+
+
+To th' Enemy — We shall hear more on't speedily;
+
+
+The Guards are doubled, and I wait each minute
+
+
+Some false Deserters making to the Enemy,
+
+
+Who are so strictly watcht they can't escape.
+
+
+And here they come—
+
+
+
+
+Enter Souldiers, with a Deserter, his Hands tied,
+ &c.
+
+
+
+
+Deserter.
+
+
+Mercy, my Lord, and I'll discover all.
+
+
+
+
+
+
+Officer.
+
+
+We've seiz'd his Papers which have don't already,
+
+
+A draught of all the Camp, and each weak place
+
+
+Described that's in it— A List of several Officers
+
+
+
+
+And Souldiers, who design to joyn the Enemy,
+
+
+When we engage; or when they'r on the Guard:
+
+
+Deliver up the Gates.
+
+
+
+
+
+
+General.
+
+
+Now Gentlemen,
+
+
+You see my Reason— Go and hang him instantly,
+
+
+As soon as his Confederates are seiz'd:
+
+
+Proclaim immediate Death to every Papist,
+
+
+Who owns not his Religion publickly.
+
+
+Guard well the Avenues. To night my self
+
+
+I'll walk the Rounds to see you do your Duties,
+
+
+And shall severely punish negligence.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+Scene V. Irish Camp.
+
+
+Enter
+ Tyrconel, Hamilton, Clancarty, 
+Monsieur de
+ Rozen, 
+&c.
+
+
+
+
+Tyrcon.
+
+
+Tho' our designs are on their Camp discovered,
+
+
+And that sly Fox their General, posts himself,
+
+
+Where none can touch him— 'tis full out as well;
+
+
+Distempers will their business do, and save
+
+
+Our Swords the Labour— They already drop,
+
+
+Provision comes but slowly, our thick Fogs
+
+
+Please not their queasy Stomachs; they'll begin
+
+
+To wish for home. What if our own fall with 'em,
+
+
+As hundreds do each week? — 'Tis a fair change
+
+
+And we can spare 'em. What's a Subjects Life,
+
+
+A hundreds, thousands, or a millions to
+
+
+A great mans Interest?— The next News we hear,
+
+
+They leave 
+Dundalk,
+ and then — beware their Rear.
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+
+
+
+
+Scene VI. Dundalk, as before.
+
+
+Most of the Souldiers sick, many dead, the rest pining.
+
+
+Enter a Collonel and two Captains.
+
+
+
+
+1. 
+Capt.
+
+
+Ah Collonel! — Was't for this we hither came,
+
+
+To lay our bones in this accursed Country
+
+
+Without a blow— The Land of Want and Famine,
+
+
+Sickness and Misery, and Grief and Death.—
+
+
+
+
+
+
+2. 
+Capt.
+
+
+Death Captain! and d'ye reckon that among the Grievances
+
+
+And cou'd you have the Conscience to ask more?
+
+
+Had we but that, and honestly and fairly
+
+
+Had these two Arms bin torn with Chain-shot from me,
+
+
+Not pined away with dull dull lingring torments
+
+
+Twou'd nere have made me sigh.
+
+
+
+
+
+
+Collon.
+
+
+I own t'is hard.
+
+
+Nor have you only suffered, — None can blame
+
+
+Our prudent General, who moved at last,
+
+
+With the Condition of this Skeleton,
+
+
+Of what was once an Army, has gi'en Orders.
+
+
+To quit this fatal place, and march agen
+
+
+Beyond the 
+Newry,
+ there to quarter till
+
+
+Recruits and better Seasons call for Action.
+
+
+
+
+
+
+Capt.
+
+
+Nay, then there's hope we yet may pay our Land-Lords;
+
+
+And thank them for their courteous Entertainment.
+
+
+Dundalk
+ adieu: Had but the Traytors doom
+
+
+Bin changed, we died, they guarded in our Room,
+
+
+They'd had the worse, we the far better choice,
+
+
+And shou'd at such a wish'd exchange rejoice.
+
+
+V
+lleys of Curses be thy last Farewell,
+
+
+Thou Map of 
+Ireland,
+ and thou Map of Hell.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+
+
+
+
+ACT. V.
+
+
+
+
+Scene I. 
+Irish Army at
+ Dundalk.
+
+
+Tyrconnel, Lazune, Hamilton, Clancarty,
+ &c.
+
+
+
+
+Tyrcon.
+
+
+ONce more we're here agen — tis a kind Omen,
+
+
+May all the rest return as does 
+Dundalk.
+
+
+Quick — after with the Horse, cut off their Rear,
+
+
+And drive the Rebels back into the Sea.
+
+
+— Nor shall that save 'em, thither and beyond
+
+
+We'll follow—
+
+
+
+
+
+
+Hamil.
+
+
+First discover in what order
+
+
+They march, and where they stand — tis probable
+
+
+They'll keep the 
+Newry
+-Pass and in that Country
+
+
+Endeavour to secure their Winter Quarters.
+
+
+
+
+
+
+Clanc.
+
+
+Then we must force it instantly, nor suffer
+
+
+Their harbring there— They'r on the run already,
+
+
+And soon will quit it when our Troops approach,
+
+
+Who so much Valour have already shown
+
+
+
+
+
+
+Tyre.
+
+
+Let it be done, and 
+Ireland
+'s all our own.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+Scene II. 
+The Newry.
+
+
+A Party of Irish — Officers, Souldiers, &c.
+
+
+
+
+Offic.
+
+
+March quick and close— They take not yet th' Alarm.
+
+
+The Town's already ours— The Prisoner whom
+
+
+We lately took, informs there's scrarce a hundred
+
+
+Yet left alive, and those half sick and languishing;
+
+
+The rest or careless are or desperate,
+
+
+Nor dream of that warm visit we shall make 'em.
+
+
+
+
+The Centry discovers 'em, and fires three times, retiring.
+
+
+
+
+
+
+Officer.
+
+
+Discovered— But too late for their prevention;
+
+
+In— and we're Conquerers—
+
+
+
+
+They enter the Town— Several Officers come out in their shirts, and are knockt oth' head. A Drummer beats an Alarm, and a few of the English gather in the Streets.
+
+
+
+
+Eng. Offic.
+
+
+Ha— are you come so far to hinder us
+
+
+From dying now in quiet— Fellow Souldiers,
+
+
+You see 'em— Rally here behind this Cart,
+
+
+And give one Charge— if they march not back
+
+
+At their accustomed pace— I'll e'ne run for 'em.
+
+
+
+
+[The English charge— The Irish run]
+
+
+Enter several English Souldiers crawling upon their Hands and Feet with their Musquets in their Hands.
+
+
+
+
+Officer.
+
+
+Poor Wretches—What d'ye mean— You'r fitter for
+
+
+Your Beds or th' Hospital, than War and Action.
+
+
+
+
+
+
+1 
+Sould.
+
+
+Noble Captain — Let me have but shot at 'em,
+
+
+And then I'll dy contented.
+
+
+
+
+
+
+2. 
+Sould.
+
+
+Now we're their Matches, 'twere not fair to fight 'em,
+
+
+If strong and well as they.
+
+
+
+
+They both get up to a Bank, fire their Pieces at the
+ Irish, 
+and fall dead themselves.
+
+
+
+
+Offic.
+
+
+'Twas done like Englishmen— Their Courage did
+
+
+Almost outlast their Breath— but were too weak
+
+
+To follow these — who, lest agen they rally
+
+
+And come more numerous— Souldiers, post away
+
+
+For speedy Succour.
+
+
+
+
+Exeunt Omnes.
+
+
+
+
+
+
+Scene III. 
+Belfast.
+
+
+General, Several Officers.
+
+
+
+
+Gener.
+
+
+Heaven smiles agen— The Sun has drest the Air
+
+
+With fragrant blooms — nor is the Earth less fair,
+
+
+
+
+Supplies from 
+England
+ every day appear
+
+
+And more— the King himself will soon be here.
+
+
+Who wou'd not fight when such a General leads
+
+
+Who in the Steps of Ancient Heroes treads,
+
+
+Despises Danger, and himself can meet,
+
+
+What wou'd make meaner Souls dissolve to fee't?
+
+
+Each hour we him expect, and when he comes;
+
+
+Then for the Field and Fame, for Palms or Tombs.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+Scene IV. 
+The Royal Fleet at the Bay of
+ Bangor— 
+The
+ Mary 
+Yacht with the Standard— All the Shore enlightned with Bonfires.
+ Belfast.
+
+
+The General, Officers, Messenger.
+
+
+
+
+Messeng.
+
+
+From 
+Carick-sergus
+ Garrison I bring
+
+
+News of the safe Arrival of the King.
+
+
+Five hundred Sail attend him — such a sight
+
+
+As glads the Shore more than each Festal Light
+
+
+Kindled at his approach.
+
+
+
+
+
+
+General.
+
+
+A joyful sound!
+
+
+Go fire the Train, and send the News around:
+
+
+Let all our Quarters the blest Tidings hear,
+
+
+And all the Bogs in 
+Ireland
+ quake for fear.
+
+
+Their Fate is come — The Pageant King must run;
+
+
+And once agen fly from the conscious Sun.
+
+
+And in some Monastery hide his Head
+
+
+Midst lonely Tombs, and the polluted Dead.
+
+
+While that bright Hero who supplies his place,
+
+
+Sways his strong Scepter with so great a Grace:
+
+
+In trembling 
+France
+ shall give new wonders Birth,
+
+
+And rend the witherd 
+Lilies
+ from the Earth.
+
+
+
+
+Exeunt.
+
+
+
+
+
+
+The end of the First Part.
+
+
+
+
+
+
+
+
+

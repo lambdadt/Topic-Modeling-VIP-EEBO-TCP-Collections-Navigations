@@ -1,0 +1,5016 @@
+A brief history of Moscovia and of other less-known countries lying eastward of Russia as far as Cathay, gather'd from the writings of several eye-witnesses / by John Milton.
+Milton, John, 1608-1674.
+Approx. 101 KB of XML-encoded text transcribed from 59 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-01 (EEBO-TCP Phase 1).
+A50886
+
+
+
+
+Wing M2096
+
+
+
+ESTC R12100
+
+
+
+
+
+ocm 11824989
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A brief history of Moscovia and of other less-known countries lying eastward of Russia as far as Cathay, gather'd from the writings of several eye-witnesses / by John Milton.
+Milton, John, 1608-1674.
+[8], 109 p.   
+
+
+London :
+
+
+Printed by M. Flesher, for Brabazon Alymer ...,
+
+
+1682.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Soviet Union --  Description and travel --  Early works to 1800.
+Russia --  History --  To 1533.
+Russia --  History --  1533-1613.
+2002-06
+TCP
+Assigned for keying and markup
+2002-06
+Aptara
+Keyed and coded from ProQuest page images
+2002-07
+Mona Logarbo
+Sampled and proofread
+2002-10
+Aptara
+Rekeyed and resubmitted
+2002-11
+Chris Scherer
+Sampled and proofread
+2002-11
+Chris Scherer
+Text and markup reviewed and edited
+2002-12
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+M2096
+
+
+11824989
+
+
+49654
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Brief
+HISTORY
+OF
+MOSCOVIA:
+AND
+Of other less-known Coun∣tries
+lying eastward of 
+Russia
+ as
+far as 
+Cathay.
+
+
+Gather'd from the Writings of se∣veral
+Eye-witnesses.
+
+
+By
+ IOHN MILTON.
+
+
+LONDON,
+
+Printed by 
+M. Flesher,
+ for 
+Brabazon Ayl∣mer
+
+at the 
+Three Pigeons
+ against the
+
+Royal Exchange.
+ 1682.
+
+
+
+
+
+
+
+
+
+
+The Authour's
+PREFACE.
+
+
+THE study of Geogra∣phy
+is both profitable
+and delightfull; but the Wri∣ters
+thereof, though some of
+them exact enough in setting
+down Longitudes and Lati∣tudes,
+yet in those other re∣lations
+of Manners, Religi∣on,
+Government and such
+like, accounted Geographi∣cal,
+have for the most
+part miss'd their proportions.
+
+
+Some too brief and deficient
+satisfy not; others too volu∣minous
+and impertinent cloy
+and weary out the Reader;
+while they tell long Stories
+of absurd Superstitions, Ce∣remonies,
+quaint Habits,
+and other petty Circumstan∣ces
+little to the purpose.
+Whereby that which is usefull,
+and onely worth observation,
+in such a wood of words, is
+either overslip't, or soon for∣gotten:
+which perhaps brought
+into the mind of some men,
+more learned and judicious,
+who had not the leisure or
+purpose to write an entire
+Geography, yet at least to as∣say
+something in the descrip∣tion
+
+
+of one or two Countreys,
+which might be as a Pattern
+or Example, to render others
+more cautious hereafter, who
+intended the whole work. And
+this perhaps induc'd 
+Paulus
+Jovius
+ to describe onely 
+Mus∣covy
+
+and 
+Britain.
+ Some such
+thoughts, many years since,
+led me at a vacant time to
+attempt the like argument;
+and I began with 
+Muscovy,
+
+as being the most northern
+Region of 
+Europe
+ reputed
+civil; and the more northern
+Parts thereof, first discovered
+by 
+English
+ Voiages. Where∣in
+I saw I had by much the
+advantage of 
+Jovius.
+ What
+was scatter'd in many Vo∣lumes,
+
+
+and observ'd at seve∣ral
+times by Eye-witnesses,
+with no cursory pains I laid
+together, to save the Reader
+a far longer travaile of wan∣dring
+through so many desert
+Authours; who yet with some
+delight drew me after them,
+from the eastern Bounds of
+
+Russia,
+ to the Walls of 
+Ca∣thay,
+
+in several late Iour∣neys
+made thither overland
+by 
+Russians,
+ who describe the
+Countreys in their way far
+otherwise than our common
+Geographers. From procee∣ding
+further other occasions
+diverted me. This Essay,
+such as it is, was thought by
+some, who knew of it, not
+
+
+amiss to be published; that
+so many things remarkable,
+dispers'd before, now brought
+under one view, might not
+hazard to be otherwise lost,
+nor the labour lost of collec∣ting
+them.
+
+
+J. M.
+
+
+
+
+
+
+
+
+ADVERTISEMENT.
+
+
+This Book was writ by the
+Authour's own hand, before he
+lost his sight. And sometime
+before his death dispos'd of it to
+be printed. But it being small,
+the Bookseller hop'd to have pro∣cured
+some other suitable Piece
+of the same Authour's to have
+joyn'd with it, or else it had been
+publish'd 'ere now.
+
+
+
+
+
+
+
+
+
+
+
+
+MOSCOVIA:
+OR,
+Relations of Moscovia,
+As far as hath been discover'd by
+English VOYAGES;
+
+
+Gather'd from the Writings of se∣veral
+Eye-witnesses: And of o∣ther
+less-known Countries ly∣ing
+Eastward of Russia as far as
+Cathay, lately discovered at se∣veral
+times by Russians.
+
+
+
+
+CHAP. I.
+
+
+A brief Description.
+
+
+THE Empire of 
+Moscovia,
+
+or as others call it, 
+Russia,
+
+is bounded on the North
+with 
+Lapland
+ and the Ocean;
+
+
+Southward by the 
+Crim Tartar;
+
+on the West by 
+Lituania, Livo∣nia
+
+and 
+Poland;
+ on the East by
+the River 
+Ob,
+ or 
+Oby,
+ and the
+
+Nagayan Tartars
+ on the 
+Volga,
+ as
+far as 
+Astracan.
+
+
+The north parts of this Coun∣try
+are so barren,
+ that the Inha∣bitants
+fetch their Corn a 1000
+miles, and so cold in Winter that
+the very Sap of their Wood-fewel
+burning on the fire, freezes at the
+Brands end where it drops. The
+Mariners which were left a ship∣board
+in the first English Voyage
+thither,
+ in going up onely from
+their Cabins to the Hatches,
+ had
+their breath so congeal'd by the
+cold, that they fell down as it
+were stifl'd. The Bay of Saint
+
+Ni∣cholas,
+ where they first put in,
+lyeth in 64 degrees;
+ call'd so
+from the Abby there built of
+Wood; wherein are 20 Monks;
+unlearned, as then they found
+them, and great Drunkards:
+
+
+their Church is fair, full of Ima∣ges,
+and Tapers. There are be∣sides
+but 6 Houses, whereof one
+built by the English. In the Bay
+over against the Abby is 
+Rose
+Island,
+ full of damask and red
+Roses,
+ Violets, and wild Rose∣mary;
+the Isle is in circuit 7 or 8
+miles: about the midst of 
+May
+
+the snow there is clear'd, having
+two months been melting; then
+the ground in 14 daies is dry,
+and Grass knee-deep within a
+month: after 
+September
+ Frost
+returns, and Snow a yard high:
+it hath a House built by the En∣glish
+near to a fresh fair Spring
+North-east of the Abby on the
+other side of 
+Duina
+ is the Castle
+of 
+Archangel;
+ where the English
+have another House. The River
+
+Duina
+ beginning about 700 miles
+within the Country, having first
+receiv'd 
+Pinega
+ falls here into the
+Sea, very large and swift, but
+shallow. It runneth pleasantly
+
+
+between Hills on either side; be∣set
+like a Wilderness with high
+Firre, and other Trees: their
+Boats of Timber without any
+Iron in them, are either to sail,
+or to be drawn up with Ropes
+against the stream.
+
+
+North-east beyond 
+Archangel
+
+standeth 
+Lampas,
+ where twice a
+year is kept a great Fair of 
+Rus∣ses,
+Tartars
+ and 
+Samoeds:
+ and
+to the Land-ward 
+Mezen,
+ and
+
+Slobotca
+ two Towns of traffick
+between the River 
+Pechora,
+ or
+
+Petzora,
+ and 
+Duina;
+ To Seaward
+lies the Cape of 
+Candinos,
+ and
+the Island of 
+Colgoieve
+ about
+30 leagues from the Bar of 
+Pe∣chora
+
+in 69 degrees.
+
+
+The River 
+Pechora
+ or 
+Petzora
+
+holding his course through 
+Sibe∣ria,
+
+how far, the 
+Russians
+ therea∣bouts
+know not, runneth into
+the Sea at 72. mouths, full of
+Ice: abounding with Swans,
+Ducks, Geese and Partridge,
+
+
+which they take in 
+Iuly,
+ sell the
+Feathers, and salt the Bodies for
+Winter Provision. On this River
+spreading to a Lake stands the
+Town of 
+Pustozera
+ in 68 degrees,
+having some 80, or 100 Houses,
+where certain Merchants of 
+Hull
+
+winter'd in the year 1611. The
+Town 
+Pechora
+ small and poor
+hath 3 Churches. They traded
+there up the River 4 daies jour∣ney
+to 
+Oustzilma
+ a small Town
+of 60 Houses.
+ The 
+Russians
+ that
+have travail'd, say that this River
+springs out of the Mountains of
+
+Iougoria
+ and runs through 
+Per∣mia.
+
+Not far from the Mouth
+thereof are the Straits of 
+Vaigats,
+
+of which hereafter: more east∣ward
+is the Point of 
+Naramzy,
+
+and next to that, the River 
+Ob.
+
+Beyond which, the 
+Muscovites
+
+have extended lately their domini∣on.
+Touching the 
+Riphaean
+ Moun∣tains
+whence 
+Tanais
+ was ancient∣ly
+thought to spring, our men
+
+
+could hear nothing; but rather
+that the whole Country is Cham∣pain,
+and in the northmost part
+huge and desert Woods of Firre,
+abounding with Black Wolves,
+Bears, Buffs, and another Beast
+call'd Rossomakka, whose Female
+bringeth forth by passing through
+some narrow place, as between
+two Stakes; and so presseth her
+Womb to a disburthening. Tra∣vailing
+southward they found the
+Country more pleasant,
+ fair and
+better inhabited, Corn, Pasture,
+Meadows and huge Woods.
+ 
+Ar∣kania
+
+(if it be not the same with
+
+Archangel
+) is a place of English
+trade, from whence a days jour∣ney
+distant, but from Saint 
+Ni∣cholas
+
+a 100 versts, 
+Colmogro
+
+stands on the 
+Duina:
+ a great
+Town not wall'd, but scatter'd.
+The English have here Lands of
+their own, given them by the
+Emperour, and fair Houses; not
+far beyond, 
+Pinega
+ running be∣tween
+
+
+Rocks of Alabaster and
+great Woods, meets with 
+Duina.
+
+From 
+Colmogro
+ to 
+Vstiug
+ are 500
+versts or little miles, an ancient
+City upon the Confluence of 
+Iu∣ga,
+
+and 
+Sucana
+ into 
+Duina
+ which
+there first receives his name.
+Thence continuing by water to
+
+Wologda;
+ a great City so nam'd
+of the River which passes through
+the midst; it hath a Castle wall'd
+about with Brick and Stone, and
+many wooden Churches, two for
+every Parish, the one in Winter
+to be heated, the other us'd in
+Summer; this is a Town of much
+Traffick a 1000 miles from Saint
+
+Nicholas.
+ All this way by water
+no lodging is to be had but un∣der
+open Sky by the River side,
+and other provision onely what
+they bring with them. From 
+Wo∣logda
+
+by 
+Sled
+ they go to 
+Yeraslave
+
+on the 
+Volga,
+ whose breadth is
+there at least a mile over; and
+thence runs 2700 versts to the 
+Ca∣spian
+
+
+
+Sea,
+ having his head Spring
+out of 
+Bealozera,
+ which is a Lake,
+
+amidst whereof is built a strong
+Tower wherein the Kings of 
+Mos∣covy
+
+reserve their Treasure in
+time of War. From this Town
+to 
+Rostove,
+ then to 
+Pereslave
+ a
+great Town situate on a fair
+Lake; thence to 
+Mosco.
+
+
+Between 
+Yeraslave
+ and 
+Mosco
+
+which is 200 miles, the Country
+is so fertile, so populous and full of
+Villages, that in a forenoon 7 or
+800 
+Sleds
+ are usually seen com∣ing
+with Salt Fish,
+ or laden back
+with Corn.
+
+
+Mosco
+ the chief City, lying in
+55 degrees, distant from Saint
+
+Nicholas
+ 1500 miles, is reputed
+to be greater than 
+London
+ with
+the Suburbs,
+ but rudely built,
+their Houses and Churches most
+of Timber, few of Stone, their
+Streets unpav'd; it hath a fair
+Castle four-square, upon a Hill,
+two miles about, with Brick
+
+
+Walls very high, and some say
+18 foot thick, 16 Gates, and as
+many Bulwarks; in the Castle
+are kept the chief Markets, and
+in Winter on the River being
+then firm Ice. This River 
+Mos∣cua
+
+on the south-west side enclo∣ses
+the Castle, wherein are nine
+fair Churches with round gilded
+Towers, and the Emperour's Pa∣lace;
+which neither within, nor
+without is equal for state to the
+King's Houses in 
+England
+ but ra∣ther
+like our Buildings of old
+fashion with small Windows,
+some of Glass, some with Latices,
+or Iron Bars.
+
+
+They who travail from 
+Mosco
+
+to the 
+Caspian,
+ go by Water
+down the 
+Moscua
+ to the River
+
+Occa;
+ then by certain Castles to
+
+Rezan,
+ a famous City now rui∣nate;
+the 10
+th
+ day to 
+Nysnovo∣grod
+
+where 
+Occa
+ falls into 
+Volga,
+
+which the 
+Tartars
+ call 
+Edel.
+
+From thence the 11
+th
+ day to 
+Ca∣zan
+
+
+
+a 
+Tartan
+ City of great wealth
+heretofore, now under the 
+Rus∣sian;
+
+wall'd at first with Timber
+and Earth, but since by the Em∣perour
+
+Vasiliwich
+ with free Stone.
+From 
+Cazan
+ to the River 
+Cama
+
+falling into 
+Volga
+ from the Pro∣vince
+of 
+Permia,
+ the People
+dwelling on the left side are 
+Gen∣tiles,
+
+and live in Woods without
+Houses:
+ beyond them to 
+Astra∣can,
+Tartars
+ of 
+Mangat,
+ and 
+Na∣gay;
+
+on the right side those of
+
+Crimme.
+ From 
+Mosco
+ to 
+Astra∣can
+
+is about 600 leagues. The
+Town is situate in an Island on a
+Hill-side wall'd with Earth, but
+the Castle with Earth and Tim∣ber;
+the Houses except that of
+the Governour's, and some few
+others, poor and simple; the
+Ground utterly barren, and with∣out
+Wood: they live there on
+Fish, and Sturgeon especially;
+which hanging up to dry in the
+Streets and Houses brings whole
+
+
+swarms of Flies, and infection to
+the Aire, and oft great Pestilence.
+This Island in length 12 leagues,
+3 in breadth is the 
+Russian
+ limit
+toward the 
+Caspian,
+ which he
+keeps with a strong Garrison;
+being 20 leagues from that Sea
+into which 
+Volga
+ falls at 70
+mouths. From Saint 
+Nicholas,
+
+or from 
+Mosco
+ to the 
+Caspian
+
+they pass in 46 daies and nights,
+most part by Water.
+
+
+West-ward
+ from Saint 
+Nicho∣las
+
+1200 miles,
+ is the City 
+No∣vogrod
+
+58 degrees, the greatest
+Mart-town of all this Dominion,
+and in bigness not inferior to
+
+Mosco.
+ The way thither is
+through the western bottom of
+Saint 
+Nicholas
+ Bay, and so along
+the Shoar full of dangerous
+Rocks to the Monastery 
+Solofky,
+
+wherein are at least 200 Monks;
+the People thereabout in a man∣ner
+Savages, yet Tenants to
+those Monks. Thence to the
+
+
+dangerous River 
+Owiga,
+ wherein
+are Waterfalls as steep as from a
+Mountain, and by the violence
+of their descent kept from free∣zing;
+so that the Boats are to be
+carried there a mile over land:
+which the Tenants of that Abby
+did by command, and were
+guides to the Merchants without
+taking any reward. Thence to
+the Town 
+Povensa
+ standing with∣in
+a mile of the famous Lake
+
+Onega
+ 320 miles long; and in
+some places 70, at narrowest 25
+broad, and of great depth. Thence
+by some Monasteries to the Ri∣ver
+
+Swire;
+ then into the Lake
+
+Ladiscay
+ much longer than 
+One∣ga:
+
+after which into the River
+
+Volhusky
+ which through the midst
+of 
+Novogrod
+ runs into this Lake,
+and this Lake into the 
+Baltick
+
+sound by 
+Narv
+ and 
+Revel.
+ Their
+other Cities toward the western
+bound are 
+Plesco, Smolensko
+ on
+
+Vobsco.
+
+
+The Emperour exerciseth ab∣solute
+power:
+ if any man die
+without male issue,
+ his Land re∣turns
+to the Emperour. Any rich
+man who through age, or other
+impotence is unable to serve the
+Publick, being inform'd of, is
+turn'd out of his Estate, and
+forc'd with his Family to live on
+a small Pension, while some other
+more deserving, is by the Duke's
+authority put into possession. The
+manner of informing the Duke is
+thus. Your Grace, saith one, hath
+such a Subject, abounding with
+Riches, but for service of the
+State unmeet, and you have o∣thers
+poor and in want, but well
+able to doe their Country good
+service. Immediately the Duke
+sends forth to enquire, and cal∣ling
+the Rich man before him,
+Friend, saith he, you have too
+much Living, and are unservicea∣ble
+to your Prince; less will serve
+you, and the rest maintain others
+
+
+who deserve more. The man
+thus call'd to impart his Wealth,
+repines not, but humbly answers,
+that all he hath is God's, and the
+Duke's: as if he made restitution
+of what more justly was ano∣thers,
+than parted with his own.
+Every Gentleman hath rule and
+justice over his own Tenants:
+if the Tenants of two Gentlemen
+agree not, they seek to compose
+it, if they cannot, each brings
+his Tenant before the high Judge
+of that Country. They have no
+Lawyers, but every man pleads
+his own Cause, or else by Bill or
+Answer in writing delivers it
+with his own hands to the Duke:
+yet Justice by corruption of infe∣riour
+Officers is much perverted.
+Where other proof is wanting,
+they may try the matter by per∣sonal
+combat, or by champion.
+If a Debtor be poor, he becomes
+bondman to the Duke, who lets
+out his labour till it pay the dept;
+
+
+till then he remains in bondage:
+
+another tryal they have by lots.
+
+
+The Revenues
+ of the Empe∣rour
+are what he list, and what
+his Subjects are able; and he o∣mits
+not the coursest means to
+raise them: for in every good
+Town there is a drunken Tavern,
+call'd a 
+Cursemay,
+ which the Em∣perour
+either lets out to farm,
+ or
+bestowes on some Duke, or Gen∣tleman
+in reward of his Service;
+who for that time is Lord of the
+whole Town, robbing and spoi∣ling
+at his pleasure; till being
+well enricht, he is sent at his
+own charge to the Wars, and
+there squeez'd of his ill got
+wealth; by which means the
+waging of war is to the Empe∣rour
+little or nothing chargeable.
+
+
+The 
+Russian
+ armeth not less in
+time of war than 300 thousand
+men;
+ half of whom he takes
+with him into the Field,
+ the rest
+bestows in Garrisons on the Bor∣ders.
+
+
+He presseth no Husband∣man
+or Merchant, but the Youth
+of the Realm. He useth no Foot,
+but such as are Pioners, or Gun∣ners,
+of both which sort 30 thou∣sand.
+The rest being Horsemen,
+are all Archers, and ride with a
+short Stirrup after the 
+Turkish.
+
+Their Armour is a Coat of Plate,
+and a Skull on their Heads. Some
+of their Coats are cover'd with
+Velvet, or cloth of Gold; for they
+desire to be gorgeous in Arms,
+but the Duke himself above mea∣sure:
+his Pavilion cover'd with
+cloth of Gold, or Silver, set with
+pretious Stones. They use little
+Drums at the Saddle bow instead
+of Spurs; for at sound thereof the
+Horses run more swiftly.
+
+
+They fight without order;
+ nor
+willingly give battail but by stealth or ambush;
+ of cold and
+hard Diet marvelously patient;
+for when the Ground is cover'd
+with Snow froz'n a yard thick,
+
+
+the common Souldier will lie in
+the Field two months together
+without Tent, or covering over
+head; onely hangs up his Man∣tle
+against that part from whence
+the Weather drives, and kindling
+a little fire, lies him down be∣fore
+it, with his Back under the
+Wind: his Drink, the cold Stream
+mingl'd with Oat-meal, and the
+same all his Food: his Horse fed
+with Green Wood and Bark,
+stands all this while in the open
+Field, yet does his service. The
+Emperour gives no pay at all, but
+to Strangers; yet repaies good
+deserts in war with certain Lands
+during life; and they who often∣est
+are sent to the wars, think
+themselves most favour'd,
+ though
+serving without Wages. On the
+12
+th
+ of 
+December
+ yearly the Em∣perour
+rides into the Field which
+is without the City, with all his
+Nobility on Jennets and Turky
+Horses in great state: before him
+
+
+5000 Harquebusiers, who shoot
+at a bank of Ice till they beat it
+down, the Ordnance, which they
+have very fair of all sorts, they
+plant against two wooden Houses
+fill'd with earth at least 30 foot
+thick, and beginning with the
+smallest, shoot them all off thrice
+over, having beat those two Hou∣ses
+flat. Above the rest 6 great
+Cannon they have, whose Bullet is
+a yard high, so that a man may
+see it flying; then out of Mor∣ter-pieces
+they shoot wild-fire in∣to
+the Aire. Thus the Emperour
+having seen what his Gunners
+can doe, returns home in the
+same order.
+
+
+They follow the 
+Greek
+ Church,
+
+but with excess of Superstitions;
+
+their Service is in the 
+Russian
+
+Tongue. They hold the Ten
+Commandments not to concern
+them, saying that God gave them
+under the Law, which 
+Christ
+ by
+his death on the Cross hath abro∣gated:
+
+
+the Eucharist they re∣ceive
+in both kinds; they ob∣serve
+4 Lents,
+ have Service in
+their Churches daily, from two
+hours before dawn to Evening;
+yet for Whordom, Drunkenness
+and Extortion none worse than
+the Clergy.
+
+
+They have many great and
+rich Monasteries,
+ where they
+keep great hospitality. That of
+
+Trojetes
+ hath in it 700 Friers,
+and is wall'd about with Brick
+very strongly, having many Pie∣ces
+of Brass Ordnance on the
+Walls; most of the Lands,
+Towns and Villages within 40
+miles belong to those Monks,
+who are also as great Merchants
+as any in the Land. During
+Easter Holy-daies when two
+Friends meet they take each
+other by the hand; one of them
+saying, the Lord is risen; the
+other answering,
+ it is so of a
+truth; and then they kiss, whe∣ther
+
+
+Men or Women. The Em∣perour
+esteemeth the Metropoli∣tan
+next to God, after our La∣dy,
+and Saint 
+Nicholas,
+ as being
+his spiritual Officer, himself but
+his temporal.
+ But the 
+Musco∣vites
+
+that border on 
+Tartaria
+
+are yet 
+Pagans.
+
+
+When there is love between
+two,
+ the Man among other tri∣fling
+Gifts,
+ sends to the Woman
+a Whip, to signify, if she offend,
+what the must expect; and it is
+a Rule among them, that if the
+Wife be not beaten once a week,
+she thinks her self not belov'd,
+and is the worse; yet are they
+very obedient, and stir not forth,
+but at some Seasons. Upon ut∣ter
+dislike, the Husband divor∣ces;
+
+which Liberty no doubt
+they receiv'd first with their Re∣ligion
+from the 
+Greek
+ Church,
+and the Imperial Laws.
+
+
+Their Dead they bury with
+new Shooes on their Feet,
+ as to
+
+
+a long Journey;
+ and put Letters
+testimonial in their Hands to
+Saint 
+Nicholas,
+ or Saint 
+Peter,
+
+that this was a 
+Russe
+ of 
+Russes
+
+and dy'd in the true Faith;
+which, as they believe, Saint 
+Pe∣ter
+
+having read, forthwith ad∣mits
+him into Heaven.
+
+
+They have no Learning,
+ nor
+will suffer to be among them;
+
+their greatest friendship is in
+drinking; they are great Tal∣kers,
+Lyars, Flatterers and Dis∣semblers.
+They delight in gross
+Meats and noysom Fish; their
+Drink is better, being sundry
+sorts of Meath; the best made
+with Juice of a sweet and crim∣son
+Berry call'd 
+Maliena,
+ grow∣ing
+also in 
+France;
+ other sorts
+with Black-cherry, or divers o∣ther
+Berries: another Drink they
+use in the Spring drawn from
+the Birch-tree Root, whose Sap
+after 
+Iune
+ dries up. But there is
+no People that live so miserably
+
+
+as the Poor of 
+Russia;
+ if they
+have Straw and Water they
+make shift to live; for Straw
+dry'd and stampt in Winter time
+is their Bread; in Summer Grass
+and Roots; at all times Bark of
+Trees is good Meat with them;
+yet many of them die in the
+Street for hunger, none relieving,
+or regarding them.
+
+
+When they are sent into Fo∣reign
+Countries,
+ or that Strangers
+come thither,
+ they are very
+sumptuous in apparel, else the
+Duke himself goes but meanly.
+
+
+In Winter they travail
+ onely
+upon Sleds,
+ the Wayes being
+hard, and smooth with Snow,
+the Rivers all froz'n: one Horse
+with a Sled will draw a man
+400 miles in 3 daies; in Sum∣mer
+the way is deep, and tra∣vailing
+ill. The 
+Russe
+ of better
+sort goes not out in Winter, but
+on his Sled; in Summer on his
+Horse: in his Sled he sits on a
+
+
+Carpet, or a white Bears Skin;
+the Sled drawn with a Horse
+well deckt, with many Fox or
+Wolve Tayles about his Neck,
+guided by a Boy on his Back,
+other Servants riding on the
+tayle of the Sled.
+
+
+The 
+Russian
+ Sea breeds a cer∣tain
+Beast
+ which they call a
+Morse;
+ who seeks his Food on
+the Rocks, climing up with help
+of his Teeth; whereof they
+make as great account, as we
+of the Elephant's Tooth.
+
+
+
+
+
+
+
+
+CHAP. II.
+
+
+Of Samoedia, Siberia, and other
+Countries north-east subject to
+the Muscovites.
+
+
+NOrth-east of 
+Russia
+ lieth 
+Sa∣moedia
+
+by the River 
+Ob.
+
+This Country was first disco∣ver'd
+by 
+Oneke
+ a 
+Russian;
+ who
+first trading privately among
+them in rich Furrs got great
+Wealth, and the knowledge of
+their Country; then reveal'd his
+discovery to 
+Boris
+ Protectour to
+
+Pheodor,
+ shewing how beneficial
+that Country gain'd, would be
+to the Empire. Who sending
+Ambassadours among them gal∣lantly
+attir'd, by fair means won
+their subjection to the Empire;
+every Head paying yearly two
+Skins of richest Sables. Those Mes∣sengers
+travailing also 200 leagues
+
+
+beyond 
+Ob
+ east-ward, made re∣port
+of pleasant Countries, aboun∣ding
+with Woods and Fountains,
+and People riding on Elks and
+Loshes, others drawn on Sleds
+by Rain-deer, others by Dogs as
+swift as Deer. The 
+Somoeds
+ that
+came along with those Messen∣gers
+returning to 
+Mosco
+ admir'd
+the stateliness of that City, and
+were as much admir'd for excel∣lent
+Shooters, hitting every time
+the breadth of a penny, as far
+distant as hardly could be dis∣cern'd.
+
+
+The River 
+Ob
+ is reported by
+the 
+Russes
+ to be in breadth the
+sayling of a Summer's day:
+ but
+full of Islands and Shoals,
+ having
+neither Woods, nor, till of late,
+Inhabitants. Out of 
+Ob
+ they
+turn into the River 
+Tawze.
+ The
+
+Russians
+ have here, since the 
+Sa∣moeds
+
+yielded them subjection,
+two Governours with 3 or 400
+Gunners; have built Villages
+
+
+and some small Castles; all
+which Place they call 
+Mongozey,
+
+or 
+Molgomzay,
+ Further up-land
+they have also built other Cities
+of Wood,
+ consisting chiefly of
+
+Poles, Tartars
+ and 
+Russes,
+ fugi∣tive
+or condemned men; as 
+Ver∣gateria,
+Siber,
+ whence the whole
+Country is nam'd,
+ 
+Tinna,
+ thence
+
+Tobolsca
+ on this side 
+Ob,
+ on the
+Rivers 
+Irtis,
+ and 
+Tobol,
+ chief
+Seat of the 
+Russian
+ Governour;
+above that, 
+Zergolta
+ in an Island
+of 
+Ob,
+ where they have a Cu∣stom
+house, beyond that on the
+other side 
+Ob, Narim,
+ and 
+Tooi∣na
+
+now a great City.
+ Certain
+Churches also are erected in
+those Parts; but no man forc'd
+to Religion; beyond 
+Narim
+ east∣ward
+on the River 
+Telta
+ is built
+the Castle of 
+Comgoscoi,
+ and all
+this Plantation began since the
+year 1590. with many other
+Towns like these. And these
+are the Countries from whence
+
+
+come all the Sables and rich
+Furrs.
+
+
+The 
+Samoeds
+ have no Towns,
+
+or certain place of abode,
+ but
+up and down where they find
+Moss for their Deer; they live
+in companies peaceably, and are
+govern'd by some of the Ancien∣test
+amongst them, but are Ido∣laters.
+They shoot wondrous
+cunningly; their Arrow heads
+are sharpned Stones, or Fish∣bones,
+which latter serve them
+also for Needles, their Thread
+being the Sinews of certain small
+Beasts, wherewith they sowe the
+Furrs which cloath them; the
+furry side in Summer outward,
+in Winter inward. They have
+many Wives, and their Daugh∣ters
+they sell to him who bids
+most; which, if they be not
+lik't, are turn'd back to their
+Friends, the Husband allowing
+onely to the Father what the
+marriage Feast stood him in.
+
+
+Wives are brought to bed there
+by their Husbands, and the next
+day go about as before. They
+till not the Ground; but live on
+the Flesh of those Wild Beasts
+which they hunt. They are the
+onely Guides to such as travaile
+
+Iougoria, Siberia,
+ or any of those
+north-east parts in Winter; being
+drawn on Sleds with Bucks, ri∣ding
+post day and night, if it be
+Moon-light; and lodge on the
+Snow under Tents of Deer Skins
+in whatever place they find
+enough of white Moss to feed
+their Sled Staggs, turning them
+loose to dig it up themselves out
+of the deep Snow: another 
+Sa∣moede
+
+stepping to the next Wood,
+brings in store of Firing; round
+about which they lodge within
+their Tents, leaving the top
+open to vent Smoak; in which
+manner they are as warm as
+the Stoves in 
+Russia.
+ They car∣ry
+Provision of Meat with them,
+
+
+and partake besides of what Fowle
+or Venison the 
+Samoede
+ kills with
+shooting by the way; their Drink
+is melted Snow. Two Deer be∣ing
+yoak'd to a Sled riding post
+will draw 200 miles in 24 hours
+without resting, and laden with
+their Stuff will draw it 30 miles
+in 12.
+
+
+
+
+
+
+CHAP. III.
+
+
+Of Tingoesia, and the Countries
+adjoyning eastward, as far as
+Cathay.
+
+
+BEyond 
+Narim
+ and 
+Comgoscoi
+
+the Souldiers of those Gar∣risons
+travailing by appointment
+of the 
+Russian
+ Governour in the
+year 1605.
+ found many goodly
+Countries not inhabited;
+ many
+vast Deserts, and Rivers, till at
+the end of ten weeks they spy'd
+
+
+certain Cottages, and Herds,
+or companies of People, which
+came to them with reverent be∣haviour,
+and signify'd to the 
+Sa∣moeds
+
+and 
+Tartars,
+ which were
+Guides to the 
+Russian
+ Souldiers,
+that they were call'd 
+Tingoesi;
+
+that their dwelling was on the
+great River 
+Ienissey.
+ This Ri∣ver
+is said to be far bigger than
+
+Ob;
+ distant from the Mouth
+thereof 4 daies and nights say∣ling;
+
+and likewise falls into the
+Sea of 
+Naramzie;
+ it hath high
+Mountains on the East,
+ some of
+which cast out Fire, to the West
+a plain and fertil Country, which
+in the Spring time it overflowes
+about 70 leagues;
+ all that time
+the Inhabitants keep them in the
+Mountains,
+ and then return with
+their Cattel to the Plain. The
+
+Tingoesi
+ are a very gentle Nation,
+they have great swoln Throats
+like those in 
+Italy
+ that live under
+the 
+Alpes;
+ at perswasion of the
+
+
+
+Samoeds
+ they forthwith submit∣ted
+to the 
+Russian
+ Government;
+and at their request travailing the
+next year to discover still east∣ward,
+they came at length to a
+River, which the Savages of that
+place call'd 
+Pisida,
+ somewhat less
+than 
+Ienissey;
+ beyond which
+hearing ofttimes the towling of
+Brazen Bells, and sometimes the
+noise of Men and Horses, they
+durst not pass over; they saw
+there certain Sayles afar off,
+square, and therefore suppos'd to
+be like 
+Indian
+ or 
+China
+ Sayles, and
+the rather for that they report
+that great Guns have been heard
+shot off from those Vessels. In
+
+April,
+ and 
+May
+ they were much
+delighted with the fair prospect
+of that Country, replenish't with
+many rare Trees, Plants and
+Flowers, Beasts and Fowle.
+Some think here to be the
+Borders of 
+Tangut
+ in the north
+of 
+Cathay.
+ Some of those 
+Sa∣moeds
+
+
+
+about the Year 1610. tra∣vail'd
+so far till they came in
+view of a White City; and heard
+a great din of Bells,
+ and report
+there came to them Men all arm'd
+in Iron from head to foot. And
+in the Year 1611. divers out of
+
+Cathay,
+ and others from 
+Alteen
+Czar
+ who stiles himself the golden
+King, came and traded at 
+Zergol∣ta,
+
+or 
+Surgoot
+ on the River 
+Ob,
+
+bringing with them Plates of Sil∣ver.
+Whereupon 
+Michael Pheo∣dorowick
+
+the 
+Russian
+ Emperour in
+the Year 1619. sent certain of
+his People from 
+Tooma
+ to 
+Alteen,
+
+and 
+Cathay,
+ who return'd with
+Ambassadours from those Princes.
+These relate,
+ that from 
+Tooma
+ in
+ten daies and a half, three daies
+whereof over a Lake, where Ru∣bies
+and Saphirs grow, they came
+to the 
+Alteen
+ King, or King of
+
+Alty;
+ through his Land in five
+weeks they pass'd into the Coun∣try
+of 
+Sheromugaly
+ or 
+Mugalla,
+
+
+
+where reigned a Queen call'd
+
+Manchika;
+ whence in four daies
+they came to the Borders of 
+Ca∣thay,
+
+fenc't with a stone Wall,
+15 fathom high; along the side of
+which, having on the other hand
+many pretty Towns belonging
+to Queen 
+Manchika,
+ they travail'd
+ten daies without seeing any on
+the Wall till they came to the
+Gate. Where they saw very
+great Ordnance lying, and 3000
+men in watch. They traffick
+with other Nations at the Gate,
+and very few at once are suffe∣red
+to enter. They were tra∣vailing
+from 
+Tooma
+ to this Gate
+12 weeks; and from thence to
+the great City of 
+Cathay
+ ten
+daies. Where being conducted
+to the House of Ambassadours,
+within a few daies there came a
+Secretary from King 
+Tambur
+ with
+200 Men well apparell'd, and ri∣ding
+on Asses, to feast them with
+divers sorts of Wine, and to de∣mand
+
+
+their Message; but having
+brought no Presents with them,
+they could not be admitted to his
+sight; onely with his Letter to
+the Emperour they return'd as is
+aforesaid, to 
+Tobolsca.
+ They re∣port
+that the Land of 
+Mugalla
+
+reaches from 
+Boghar
+ to the north
+Sea,
+ and hath many Castles built
+of Stone four-square, with Tow∣ers
+at the Corners cover'd with
+glazed Tiles; and on the Gates
+Alarum-Bells or Watch-Bells twen∣ty
+pound weight of Metal; their
+Houses built also of Stone, the
+Seelings cunningly painted with
+Flowers of all Colours. The Peo∣ple
+are Idolaters; the Country
+exceeding fruitfull. They have
+Asses and Mules, but no Horses.
+The People of 
+Cathay
+ say that
+this great Wall stretches from
+
+Boghar
+ to the north Sea four
+months journey with continual
+Towers a flight-shot distant from
+each other, and Beacons on every
+
+
+Tower; and that this Wall is
+the bound between 
+Mugalla
+ and
+
+Cathay.
+ In which are but five
+Gates; those narrow, and so
+low, that a Horse-man sitting
+upright cannot ride in. Next
+to the Wall is the City 
+Shiro∣kalga;
+
+it hath a Castle well fur∣nish't
+with short Ordnance, and
+small Shot, which they who
+keep watch on the Gates, Tow∣ers
+and Walls, duly at Sun set
+and rising discharge thrice over.
+The City abounds with rich
+Merchandize, Velvets, Damasks,
+Cloth of Gold and Tissue, with
+many sorts of Sugars. Like to
+this is the City 
+Tara,
+ their Mar∣kets
+smell odoriferously with Spi∣ces,
+and 
+Tayth
+ more rich than
+that. 
+Shirooan
+ yet more mag∣nificent,
+half a day's journey
+through, and exceeding popu∣lous.
+From hence to 
+Cathaia
+
+the imperial City is two daies
+journey, built of White-stone
+
+
+four-square, in circuit four daies
+going, corner'd with four White
+Towers, very high and great,
+and others very fair along the
+Wall, white intermingl'd with
+blew, and Loop-holes furnisht
+with Ordnance. In midst of
+this White City stands a Castle
+built of Magnet, where the King
+dwels, in a sumptuous Palace,
+the top whereof is overlaid with
+Gold. The City stands on even
+ground encompass'd with the Ri∣ver
+
+Youga,
+ 7 daies journey from
+the Sea. The People are very
+fair, but not warlike, delighting
+most in rich Traffick. These
+Relations are referr'd hither, be∣cause
+we have them from 
+Russi∣ans;
+
+who report also,
+ that there
+is a Sea beyond 
+Ob
+ so warm that
+all kind of Sea-Fowl live therea∣bout
+as well in Winter as in Sum∣mer.
+Thus much briefly of the
+Sea and Lands between 
+Russia,
+
+and 
+Cathay.
+
+
+
+
+
+
+
+
+CHAP. IV.
+
+
+The Succession of Moscovia
+Dukes and Emperours taken out of
+their Chronicles by a Polack
+with some later Additions.
+
+
+THE great Dukes of 
+Musco∣vy
+
+derive their Pedegree,
+though without ground, from
+
+Augustus Caesar:
+ whom they fa∣ble
+to have sent certain of his
+Kindred to be Governours over
+many remote Provinces; and a∣mong
+them, 
+Prussus
+ over 
+Prussia;
+
+him to have had his Seat on the
+eastern 
+Baltick
+ Shoar by the Ri∣ver
+
+Wixel;
+ of whom 
+Rurek, Si∣naus,
+
+and 
+Truuor
+ descended by
+the Fourth Generation, were by
+the 
+Russians
+ living then without
+Civil Government sent for in the
+Year 573.
+ to bear rule over
+them; at the perswasion of 
+Go∣stomislius
+
+
+
+chief Citizen of 
+Novo∣grod.
+
+They therefore taking
+with them 
+Olechus
+ their Kins∣man
+divided those Countries a∣mong
+themselves, and each in his
+Province taught them Civil Go∣vernment.
+
+
+Ivorson
+ of 
+Rurek,
+ the rest dy∣ing
+without Issue, became Suc∣cessour
+to them all; being left in
+nonage under the protection of
+
+Olechus.
+ He took to wife 
+Olha
+
+Daughter to a Citizen of 
+Plesco;
+
+of whom he begat 
+Stoslaus;
+ but
+after that, being slain by his E∣nemies,
+
+Olha
+ his Wife went to
+
+Constantinople,
+ and was there
+baptiz'd 
+Helena.
+
+
+Stoslaus
+ fought many Battails
+with his Enemies; but was at
+length by them slain, who made
+a Cup of his Scull engrav'n with
+this Sentence in Gold; Seeking
+after other Mens he lost his own
+His Sons were 
+Teropolchus, Ole∣ga
+
+and 
+Volodimir.
+
+
+Volodimir
+ having slain the o∣ther
+two, made himself sole
+Lord of 
+Russia;
+ yet after that
+fact enclining to Christian Reli∣gion,
+had to wife 
+Anna
+ Si∣ster
+of 
+Basilius
+ and 
+Constantine
+Greek
+ Emperours; and with all
+his People in the Year 988.
+
+was baptiz'd, and call'd 
+Basilius.
+
+Howbeit 
+Zonaras
+ reporteth that
+before that time 
+Basilius
+ the
+
+Greek
+ Emperour sent a Bishop
+to them; at whose preaching
+they not being mov'd, but re∣quiring
+a Miracle, he, after de∣vout
+Prayers, taking the Book
+of Gospel into his hands, threw
+it before them all into the Fire:
+which remaining there uncon∣sum'd,
+they were converted.
+
+
+Volodimir
+ had eleven Sons a∣mong
+whom he divided his
+Kingdom; 
+Boristus
+ and 
+Glebus
+
+for their holy Life register'd
+Saints; and their Feast kept eve∣ry
+year in 
+November
+ with great
+
+
+solemnity. The rest through
+contention to have the sole Go∣vernment,
+ruin'd each other;
+leaving onely 
+Iaroslaus
+ inheritour
+of all.
+
+
+Volodimir
+ Son of 
+Iaroslaus
+
+kept his Residence in the ancient
+City 
+Kiow
+ upon the River 
+Bori∣stenes.
+
+And after many conflicts
+with the Sons of his Uncles; and
+having subdu'd all was call'd
+
+Monomachus.
+ He made war with
+
+Constantine
+ the 
+Greek
+ Emperour,
+wasted 
+Thracia,
+ and returning
+home with great spoils to prepare
+new war, was appeas'd by 
+Con∣stantine,
+
+who sent 
+Neophytus
+ Bi∣shop
+of 
+Ephesus,
+ and 
+Eustathius
+
+Abbot of 
+Ierusalem,
+ to present
+him with part of our Saviour's
+Cross, and other rich Gifts, and
+to salute him by the name of
+
+Czar,
+ or 
+Caesar:
+ with whom he
+thenceforth enter'd into league
+and amity.
+
+
+After him in order of des∣cent
+
+Vuszevolodus, George, De∣metrius.
+
+
+Then 
+George,
+ his Son, who
+in the Year 1237.
+ was slain in
+battail by the 
+Tartar
+ Prince 
+Ba∣thy,
+
+who subdu'd 
+Muscovia
+ and
+made it tributary. From that
+time the 
+Tartarians
+ made such
+Dukes of 
+Russia,
+ as they thought
+would be most pliable to their
+ends; of whom they requir'd, as
+oft as Ambassadours came to him
+out of 
+Tartary,
+ to go out and
+meet them; and in his own
+Court to stand bare-headed,
+while they sate and deliver'd
+their Message. At which time
+the 
+Tartars
+ wasted also 
+Polonia,
+Silesia,
+ and 
+Hungaria,
+ till Pope
+
+Innocent
+ the Fourth obtain'd peace
+of them for 5 years. This 
+Ba∣thy,
+
+say the 
+Russians,
+ was the
+Father of 
+Tamerlan,
+ whom they
+call 
+Temirkutla.
+
+
+Then succeeded 
+Iaroslaus
+ the
+Brother of 
+George,
+ then 
+Alexan∣der
+
+his Son.
+
+
+Daniel
+ the Son of 
+Alexander
+
+was he who first made the City
+of 
+Mosco
+ his Royal Seat, builded
+the Castle, and took on him the
+Title of great Duke.
+
+
+Iohn
+ the Son of 
+Daniel
+ was
+sirnamed 
+Kaleta,
+ that word sig∣nifying
+a Scrip, out of which,
+continually carried about with
+him, he was wont to deal his
+Almes.
+
+
+His Son 
+Simeon
+ dying without
+Issue left the Kingdom to 
+Iohn
+
+his next Brother; and he to his
+Son 
+Demetrius,
+ who left two Sons,
+
+Basilius
+ and 
+George.
+
+
+Basilius
+ reigning had a Son of
+his own name, but doubting lest
+not of his own Body, through
+the suspicion he had of his Wife's
+Chastity, him he disinherits, and
+gives the Dukedom to his Bro∣ther
+
+George.
+
+
+George
+ putting his Nephew 
+Basi∣lius
+
+in prison, reigns; yet at his
+death, either through remorse,
+or other cause surrenders him
+the Dukedom.
+
+
+Basilius
+ unexpectedly thus at∣taining
+his supposed right, en∣joy'd
+it not long in quiet; for
+
+Andrew
+ and 
+Demetrius
+ the two
+Sons of 
+George
+ counting it injury
+not to succeed their Father, made
+war upon him, and surprizing
+him on a suddain, put out his
+Eyes. Notwithstanding which,
+the 
+Boiarens,
+ or Nobles kept
+their allegiance to the Duke
+though blind, whom therefore
+they call'd 
+Cziemnox.
+
+
+Iohn Vasiliwich
+ his Son was
+the first who brought the 
+Russian
+
+Name out of obscurity into re∣nown.
+To secure his own Estate
+he put to death as many of his
+kindred as were likely to pre∣tend;
+and stil'd himself great
+Duke of 
+Wolodimiria, Muscovia,
+
+
+Novogardia, Czar
+ of all 
+Russia.
+
+He won 
+Plesco
+ the onely walled
+City in all 
+Muscovy,
+ and 
+Novo∣grod
+
+the richest, from the 
+Litua∣nians,
+
+to whom they had been
+subject 50 years before; and
+from the latter carried home
+300 Waggons laden with Trea∣sure.
+He had war with 
+Alexan∣der
+
+King of 
+Poland,
+ and with the
+
+Livonians;
+ with him, on pre∣tence
+of withdrawing his Daugh∣ter
+
+Helena,
+ whom he had to
+wife, from the 
+Greek
+ Church to
+the 
+Romish;
+ with the 
+Livonians
+
+for no other cause, but to en∣large
+his Bounds: though he
+were often foyl'd by 
+Pletteber∣gius
+
+great Master of the 
+Prussian
+
+Knights. His Wife was Daugh∣ter
+to the Duke of 
+Tyversky;
+ of
+her he begat 
+Iohn,
+ and to him
+resigned his Dukedom; giving
+him to wife the Daughter of 
+Ste∣ven,
+
+Palatine of 
+Moldavia;
+ by
+whom he had Issue 
+Demetrius,
+
+
+
+and deceas'd soon after. 
+Vasili∣wich
+
+therefore reassuming the
+Dukedom married a second Wife
+
+Sophia
+ Daughter to 
+Thomas Pa∣laeologus:
+
+who is said to have re∣ceiv'd
+her Dowry out of the
+Pope's Treasury, upon promise
+of the Duke to become 
+Romish.
+
+
+This Princess of a haughty
+mind, often complaining that she
+was married to the 
+Tartars
+ Vas∣sal,
+at length by continual per∣swasions,
+and by a wile found
+means to ease her Husband, and
+his Country of that Yoke. For
+whereas till then the 
+Tartar
+ had
+his Procurators, who dwelt in
+the very Castle of 
+Mosco,
+ to over∣see
+State-affairs, she fain'd that
+from Heaven she had been
+warn'd, to build a Temple to
+Saint 
+Nicholas
+ on the same place
+where the 
+Tartar
+ Agents had
+their House. Being therefore de∣livered
+of a Son, she made it her
+request to the Prince of 
+Tartary,
+
+
+
+whom she had invited to the
+baptizing, that he would give
+her that House; which obtain∣ing
+she raz'd to the ground; and
+remov'd those Overseers out of
+the Castle: and so by degrees
+dispossess'd them of all, which
+they held in 
+Russia.
+ She pre∣vail'd
+also with her Husband to
+transfer the Dukedom from 
+De∣metrius
+
+the Son of 
+Iohn
+ de∣ceas'd,
+to 
+Gabriel
+ his eldest by
+her.
+
+
+Gabriel
+ no sooner Duke, but
+chang'd his name to 
+Basilius,
+
+and set his mind to doe nobly;
+he recover'd great part of 
+Mus∣covy▪
+
+from 
+Vitoldus
+ Duke of 
+Li∣tuania;
+
+and on the 
+Boristhenes
+
+won 
+Smolensko
+ and many other
+Cities in the Year 1514.
+ He
+divorc'd his first Wife, and of
+
+Helena
+ Daughter to Duke 
+Glin∣sky
+
+begat 
+Iuan Vasiliwich.
+
+
+Iuan Vasiliwich
+ being left a
+Child was committed to 
+George
+
+
+
+his Unkle and Protector; at 25
+years of age he vanquish'd the
+
+Tartars
+ of 
+Cazan
+ and 
+Astracan,
+
+bringing home with him their
+Princes captive; made cruel war
+in 
+Livonia
+ pretending right of
+inheritance. He seem'd excee∣dingly
+devout, and whereas the
+
+Russians
+ in their Churches use
+out of zeal and reverence to
+knock their Heads against the
+ground, his Forehead was seldom
+free of swellings and bruzes, and
+very often seen to bleed. The
+cause of his rigour in government,
+he alledg'd to be the malice and
+treachery of his Subjects. But
+some of the Nobles incited by
+his cruelty,
+ call'd in the Crim
+
+Tartar
+ who in the Year 1571.
+
+broke into 
+Russia,
+ burnt 
+Mosco
+
+to the ground: he reigned 54
+years; had three Sons, of which
+the eldest being strook on a time
+by his Father, with grief thereof
+dy'd; his other Sons were 
+Pheo∣dor
+
+
+
+and 
+Demetrius:
+ in the time
+of 
+Iuan Vasiliwich
+ the 
+English
+
+came first by Sea into the north
+parts of 
+Russia.
+
+
+Pheodor Iuanowick
+ being un∣der
+age was left to the protec∣tion
+of 
+Boris
+ Brother to the
+young Empress,
+ and third Son
+by adoption in the Emperour's
+Will.
+ After 40 daies of mour∣ning,
+
+the appointed time of Co∣ronation
+being come, the Empe∣rour
+issuing out of his Palace,
+the whole Clergy before him,
+enter'd with his Nobility the
+Church of 
+Blaueshina
+ or blessed∣ness;
+whence after Service to
+the Church of 
+Michael,
+ then to
+our Lady Church being the Ca∣thedral.
+In midst whereof a
+Chair of Majesty was plac'd,
+and most unvaluable Garments
+put upon him: there also was
+the imperial Crown set on his
+Head by the Metropolitan, who
+out of a small Book in his hand
+
+
+read Exhortations to the Empe∣rour,
+of justice and peaceable
+government. After this rising
+from his Chair he was invested
+with an upper Robe, so thick
+with Orient Pearls and Stones
+as weigh'd 200 pounds, the
+Train born up by 6 Dukes; his
+Staff imperial was of a Unicorn's
+Horn three foot and a half long,
+beset with rich Stones: his
+Globe, and six Crowns carried
+before him by Princes of the
+Bloud: his Horse at the Church
+door stood ready with a Cove∣ring
+of imbroidered Pearl, Saddle
+and all suitable to the value of
+300 thousand Marks. There
+was a kind of Bridge made
+three waies, 150 fathom long,
+three foot high, two fathom
+broad, whereon the Emperour
+with his Train went from one
+Church to another above the
+infinite throng of People making
+loud Acclamations; At the Em∣perour's
+
+
+returning from those
+Churches they were spread un∣der-foot,
+with Cloth of Gold,
+the Porches with Red Velvet,
+the Bridges with Scarlet and
+Stammel-cloth, all which, as the
+Emperour pass'd by, were cut
+and snatch't by them that stood
+next; besides new minted Coines
+of Gold and Silver cast among
+the People. The Empress in her
+Palace was plac't before a great
+open Window in rich and shi∣ning
+Robes, among her Ladies.
+After this the Emperour came
+into Parliament, where he had a
+Banquet serv'd by his Nobles in
+princely order; two standing on
+either side his Chair with Battel∣axes
+of Gold; three of the next
+Roomes great and large being
+set round with Plate of Gold
+and Silver, from the ground up
+to the roof. This Triumph la∣sted
+a week, wherein many roy∣al
+Pastimes were seen: after
+
+
+which, election was made of the
+Nobles to new Offices and Dig∣nities.
+The conclusion of all was
+a Peal of 170 Brass Ordnance
+two miles without the City, and
+20000 Harquebuzes twice over:
+and so the Emperour with at
+least 50 thousand Horse return'd
+through the City to his Palace:
+where all the Nobility, Officers,
+and Merchants brought him rich
+Presents. Shortly after, the Em∣perour
+by direction of 
+Boris
+ con∣quer'd
+the large Country of 
+Si∣beria,
+
+and took Prisoner the
+King thereof: he remov'd also
+corrupt Officers and former
+Taxes. In sum, a great altera∣tion
+in the Government follow'd,
+yet all quietly, and without tu∣mult.
+These things reported
+abroad strook such awe into
+the neighbour Kings, that the
+Crim 
+Tartar
+ with his Wives al∣so
+and many Nobles valiant and
+personable men came to visit
+
+
+the 
+Russian.
+ There came also
+12 hundred 
+Polish
+ Gentlemen,
+many 
+Circassians,
+ and People of
+other Nations to offer service;
+Ambassadours from the 
+Turk,
+
+the 
+Persian, Georgian,
+ and other
+
+Tartar
+ Princes; from 
+Almany,
+Poland, Sweden, Denmark.
+ But
+this glory lasted not long
+through the treachery of 
+Boris,
+
+who procur'd the death first of
+
+Demetrius,
+ then of the Empe∣rour
+himself, whereby the im∣perial
+Race after the succession
+of 300 years was quite extin∣guish't.
+
+
+Boris,
+ adopted, as before was
+said, third Son to 
+Iuan Vasili∣wich
+
+without impeachment now
+ascended the Throne; but nei∣ther
+did he enjoy long, what he
+had so wickedly compass'd;
+ Di∣vine
+revenge raising up against
+him a Counterfeit of that 
+Deme∣trius
+
+whom he had caus'd to be
+murthered at 
+Ouglets.
+ This Up∣start
+
+
+strength'd with many 
+Poles
+
+and 
+Cossacks
+ appears in arms to
+claim his right out of the hands
+of 
+Boris,
+ who sent against him
+an Army of 200 thousand Men;
+many of whom revolted to this
+
+Demetrius: Peter Basman
+ the
+General returning to 
+Mosco
+ with
+the empty Triumph of a repor∣ted
+Victory. But the Enemy
+still advancing, 
+Boris
+ one day,
+after a plentifull Meal finding
+himself heavy and pain'd in his
+Stomach laid him down on his
+Bed; but 'ere his Doctours, who
+made great haste, came to him,
+was found speechless, and soon
+after dy'd, with grief, as is sup∣pos'd,
+of his ill success against
+
+Demetrius.
+ Before his death,
+though it were speedy, he would
+be shorn, and new christn'd. He
+had but one Son, whom he lov'd
+so fondly, as not to suffer him
+out of sight; using to say he
+was Lord and Father of his Son,
+
+
+and yet his Servant, yea his
+Slave. To gain the Peoples
+love, which he had lost by his
+ill getting the Empire, he us'd
+two Policies; first he caus'd
+
+Mosco
+ to be fir'd in four places,
+that in the quenching thereof he
+might shew his great care and
+tenderness of the People; among
+whom he likewise distributed so
+much of his Bounty, as both
+new-built their Houses, and re∣pair'd
+their Losses. At another
+time the People murmuring,
+that the great Pestilence which
+had then swept away a third
+part of the Nation, was the pu∣nishment
+of their electing him, a
+Murtherer, to reign over them,
+he built Galleries round about
+the utmost Wall of 
+Mosco;
+ and
+there appointed for one whole
+month 20 thousand pound to be
+given to the Poor; which well
+nigh stopt their Mouths. After
+the death of 
+Boris, Peter Basman
+
+
+
+their onely hope and refuge,
+though a Young man, was sent
+again to the Wars, with him
+many 
+English, Scots, French
+
+and 
+Dutch;
+ who all with the o∣ther
+General 
+Goleeche
+ sell off to
+the new 
+Demetrius;
+ whose Mes∣sengers
+coming now to the Sub∣urbs
+of 
+Mosco,
+ were brought by
+the Multitude to that spatious
+Field before the Castle Gate;
+within which the Council were
+then sitting; many of whom
+were by the Peoples threatning
+call'd out and constrain'd to hear
+the Letters of 
+Demetrius
+ openly
+read: which, long 'ere the end,
+wrought so with the Multitude,
+that furiously they broke into
+the Castle, laying violence on
+all they met; when strait ap∣pear'd
+coming towards them two
+Messengers of 
+Demetrius
+ former∣ly
+sent, pittifully whipt and roa∣sted,
+which added to their rage.
+Then was the whole City in an
+
+
+uproar, all the great Counselours
+Houses ransack't, especially of
+the 
+Godonova
+'s the Kindred and
+Family of 
+Boris.
+ Such of the
+Nobles that were best belov'd,
+by entreaty prevail'd at length
+to put an end to this Tumult.
+The Empress flying to a safer
+place had her Collar of Pearl
+pull'd from her Neck; and by
+the next Message command was
+given to secure her with her Son
+and Daughter. Whereupon 
+De∣metrius
+
+by general consent was
+proclaim'd Emperour. The Em∣press
+now seeing all lost, coun∣sel'd
+the Prince her Son to fol∣low
+his Father's example; who,
+it seems, had dispatch't himself
+by Poyson; and with a despe∣rate
+courage beginning the dead∣ly
+Health, was pledg'd effectual∣ly
+by her Son; but the Daugh∣ter
+onely sipping, escap'd. O∣thers
+ascribe this deed to the se∣cret
+Command of 
+Demetrius,
+
+
+
+and Self-murther imputed to
+them, to avoid the envy of such
+a Command.
+
+
+Demetrius Evanowich,
+ for so
+he call'd himself,
+ who succeeded,
+was credibly reported the Son of
+
+Gregory Peupoloy
+ a 
+Russe
+ Gentle∣man,
+and in his younger years
+to have been shorn a Fryar; but
+escaping from the Monastery, to
+have travail'd 
+Germany
+ and other
+Countries, but chiefly 
+Poland:
+
+where he attain'd to good suffici∣ency
+in Arms and other Experi∣ence;
+which rais'd in him such
+high thoughts, as grounding on
+a common belief among the 
+Rus∣sians,
+
+that the young 
+Demetrius
+
+was not dead, but convey'd away,
+and their hatred against 
+Boris,
+
+on this foundation with some
+other circumstances, to build his
+hopes no lower than an Empire;
+which on his first discovery found
+acceptation so generally, as planted
+him at length on the Royal Seat;
+
+
+but not so firmly as the fair be∣ginning
+promis'd; for in a short
+while the 
+Russians
+ finding them∣selves
+abus'd by an Impostor,
+on the sixth day after his marri∣age▪
+observing when his Guard
+of 
+Poles
+ were most secure, rush∣ing
+into the Palace before break
+of day, drag'd him out of his
+Bed, and when he had confes'd
+the fraud, pull'd him to pieces;
+with him 
+Peter Basman
+ was al∣so
+slain, and both their dead Bo∣dies
+laid open in the Market-place.
+He was of no presence,
+but otherwise of a princely dis∣position;
+too bountifull, which
+occasion'd some exactions; in o∣ther
+matters a great lover of ju∣stice,
+not unworthy the Empire
+which he had gotten, and lost
+onely through greatness of mind,
+neglecting the Conspiracy, which
+he knew the 
+Russians
+ were plot∣ting.
+Some say their hatred
+grew, for that they saw him
+
+
+alienated from the 
+Russian
+ Man∣ners
+and Religion, having made
+
+Buchinskoy
+ a learned Protestant
+his Secretary. Some report from
+
+Gilbert
+'s relation, who was a
+
+Scot,
+ and Captain, of his Guard,
+that lying on his Bed awake,
+not long before the Conspiracy,
+he saw the appearance of an aged
+man coming toward him; at
+which he rose, and call'd to
+them that watch'd; but they
+denied to have seen any such
+pass by them. He returning to
+his Bed, and within an hour af∣ter
+troubl'd again with the same
+Apparition, sent for 
+Buchinskoy,
+
+telling him he had now twice
+the same night seen an aged man,
+who at his second coming told
+him, that though he were a good
+Prince of himself, yet for the in∣justice
+and oppression of his infe∣riour
+Ministers, his Empire should
+be taken from him. The Secre∣tary
+counsell'd him to embrace
+
+
+true Religion, affirming that for
+lack thereof, his Officers were so
+corrupt. The Emperour seem'd
+to be much mov'd, and to intend
+what was perswaded him. But
+a few daies after, the other Se∣cretary,
+a 
+Russian,
+ came to him
+with a drawn Sword; of which
+the Emperour made slight at
+first; but he after bold words as∣saulted
+him, strait seconded by
+other Conspiratours crying liber∣ty.
+
+Gilbert
+ with many of the
+Guard oversuddenly surpris'd re∣treated
+to 
+Coluga
+ a Town which
+they fortify'd; most of the other
+Strangers were massacr'd, except
+the 
+English,
+ whose mediation
+sav'd also 
+Buchinskoy. Shusky
+
+who succeeded him reports in a
+Letter to King 
+Iames
+ otherwise
+of him; that his right name was
+
+Gryshca
+ the Son of 
+Boughdan;
+
+that to escape punishment for
+Villanies done, he turn'd Fryar,
+and fell at last to the Black art;
+
+
+and fearing that the Metropoli∣tan
+intended therefore to impri∣son
+him, fled into 
+Lettow;
+ where
+by counsel of 
+Sigismund
+ the 
+Po∣land
+
+King, he began to call him∣self
+
+Demetry
+ of 
+Ouglitts;
+ and by
+many Libels and Spies privily
+sent into 
+Mosco,
+ gave out the
+same; that many Letters and
+Messengers thereupon were sent
+from 
+Boris
+ into 
+Poland,
+ and from
+the Patriarch, to acquaint them
+who the Runnagate was; but
+the 
+Polanders,
+ giving them no
+credit, furnish't him the more
+with Arms and Money, not∣withstanding
+the League; and
+sent the Palatine 
+Sandamersko
+
+and other Lords to accompany
+him into 
+Russia,
+ gaining also a
+Prince of the Crim 
+Tartars
+ to
+his aide; that the Army of 
+Boris
+
+hearing of his sudden death,
+yielded to this 
+Gryshca,
+ who ta∣king
+to wife the Daughter of
+
+Sandamersko,
+ attempted to root
+
+
+out the 
+Russian
+ Clergy, and to
+bring in the 
+Romish
+ Religion,
+for which purpose many Jesuits
+came along with him. Where∣upon
+
+Shusky
+ with the Nobles and
+Metropolitans conspiring against
+him, in half a year gather'd all
+the Forces of 
+Moscovia,
+ and sur∣prising
+him found in writing un∣der
+his own hand all these his
+Intentions; Letters also from the
+Pope and Cardinals to the same
+effect, not onely to set up the
+Religion of 
+Rome,
+ but to force
+it upon all, with death to them
+that refus'd.
+
+
+Vasily Evanowich Shusky
+ after
+the slaughter of 
+Demetry
+ or 
+Grysh∣ca
+
+was elected Emperour;
+ having
+not long before been at the Block
+for reporting to have seen the
+true 
+Demetrius
+ dead and buried;
+but 
+Gryshca
+ not onely recall'd
+him, but advanc'd him, to be
+the instrument of his own ruine.
+He was then about the age of
+
+
+50; nobly descended, never mar∣ried,
+of great wisedom reputed,
+a favourer of the 
+English;
+ for he
+sav'd them from ritling in the
+former Tumults. Some say he
+modestly refus'd the Crown,
+ till
+by lot four times together it fell
+to him;
+ yet after that,
+ growing
+jealous of his Title, remov'd by
+Poyson, and other means all the
+Nobles that were like to stand
+his Rivals; and is said to have
+consulted with Witches of the
+
+Samoeds, Lappians
+ and 
+Tartari∣ans,
+
+about the same fears; and
+being warn'd of one 
+Michalowich,
+
+to have put to death three of
+that name; yet a fourth was re∣serv'd
+by fate to succeed him;
+being then a Youth attendant in
+the Court, one of those that held
+the golden Axes, and least suspec∣ted.
+But before that time he al∣so
+was supplanted by another re∣viving
+
+Demetrius
+ brought in by
+the 
+Poles;
+ whose counterfeited
+
+
+Hand, and strange relating of
+privatest Circumstances had al∣most
+deceiv'd 
+Gilbert
+ himself;
+had not their persons been utter∣ly
+unlike; but 
+Gryshca
+'s Wife so
+far believ'd him for her Hus∣band,
+as to receive him to her
+Bed. 
+Shusky
+ besieg'd in his Castle
+of 
+Mosco,
+ was adventrously sup∣ply'd
+with some Powder and
+Ammunition by the 
+English;
+
+and with 2000 
+French, English
+
+and 
+Scots,
+ with other Forces
+from 
+Charles
+ King of 
+Sweden.
+
+The 
+English
+ after many miseries
+of cold,
+ and hunger and assaults
+by the way, deserted by the
+
+French,
+ yielded most of them to
+the 
+Pole,
+ neer 
+Smolensko,
+ and
+serv'd him against the 
+Russ.
+ Mean
+while this second 
+Demetrius
+ be∣ing
+now rejected by the 
+Poles,
+
+with those 
+Russians
+ that sided
+with him laid siege to 
+Mosco:
+Zolkiewsky
+ for 
+Sigismund
+ King of
+
+Poland
+ Beleaguers on the other
+
+
+side with forty thousand Men;
+whereof 1500 
+English, Scotch,
+
+and 
+French. Shusky
+ despairing
+success betakes him to a Mona∣stery;
+but with the City is yiel∣ded
+to the 
+Pole;
+ who turns now
+his force against the Counterfeit
+
+Demetrius;
+ he seeking to fly is
+by a 
+Tartar
+ slain in his Camp.
+
+Smolensko
+ held out a siege of two
+years, then surrender'd. 
+Shusky
+
+the Emperour carried away into
+
+Poland,
+ there ended miserably in
+prison. But before his departure
+out of 
+Muscovy
+ the 
+Polanders
+ in
+his name sending for the chief
+Nobility as to a last farewell,
+cause them to be entertain'd in a
+secret place, and there dispatch'd:
+by this means the easier to subdue
+the People. Yet the 
+Poles
+ were
+starv'd at length out of those Pla∣ces
+in 
+Mosco
+ which they had for∣tify'd.
+Wherein the 
+Russians
+ who
+besieg'd them, found, as is repor∣ted,
+60 Barrels of Man's Flesh
+
+
+powder'd, being the Bodies of
+such as dy'd among them, or
+were slain in fight.
+
+
+After which the Empire of
+
+Russia
+ broke to pieces,
+ the prey
+of such as could catch, every one
+naming himself, and striving to
+be accounted that 
+Demetrius
+ of
+
+Ouglitts.
+ Some chose 
+Vladislaus
+
+King 
+Sigismund
+'s Son, but he not
+accepting, they fell to a popular
+Government; killing all the No∣bles
+under pretence of favouring
+the 
+Poles.
+ Some overtures of re∣ceiving
+them were made, as some
+say, to King 
+Iames,
+ and Sir 
+Iohn
+Meric,
+ and Sir 
+William Russel
+ im∣ploy'd
+therein. Thus 
+Russia
+ re∣maining
+in this confusion, it
+happen'd that a mean Man, a
+Butcher dwelling in the North
+about 
+Duina,
+ inveying against
+the baseness of their Nobility,
+
+and the corruption of Officers,
+
+uttered words, that if they would
+but choose a faithfull Treasurer
+
+
+to pay well the Souldiers, and
+a good General (naming one
+
+Pozarsky
+ a poor Gentleman, who
+after good service done liv'd not
+far off retir'd and neglected;) that
+then he doubted not to drive out
+the 
+Poles.
+ The People assent,
+and choose that General; the
+Butcher they make their Treasu∣rer
+who both so well discharg'd
+their Places, that with an Army
+soon gather'd they raise the siege
+of 
+Mosco,
+ which the 
+Polanders
+
+had renew'd; and with 
+Boris Li∣cin
+
+another great Souldier of that
+Countrey fall into consultation
+about the choise of an Emperour,
+and chose at last 
+Michalowich,
+ or
+
+Michael Pheodorowich,
+ the fatal
+Youth, whose name 
+Shusky
+ so
+fear'd.
+
+
+Michael Pheodorowich
+ thus e∣lected
+by the valour of 
+Pozarsky
+
+and 
+Boris Licin,
+ made them both
+Generals of his Forces, joyning
+with them another great Com∣mander
+
+
+of the 
+Cossacks
+ whose aid
+had much befriended him; the
+Butcher also was made a Coun∣selour
+of State. Finally a Peace
+was made up between the 
+Russi∣ans
+
+and the 
+Poles;
+ and that part∣ly
+by the mediation of King
+
+Iames.
+
+
+
+
+
+
+
+
+CHAP. V.
+
+
+The first discovery of Russia by
+the North-east, 1553 with the
+English Embassies, and Enter∣tainments
+at that Court, untill
+the Year 1604.
+
+
+THE discovery of 
+Russia
+ by
+the northern Ocean,
+ made
+first,
+ of any Nation that we
+know, by 
+English
+ men, might
+have seem'd an enterprise almost
+heroick; if any higher end than
+the excessive love of Gain and
+Traffick, had animated the de∣sign.
+Nevertheless that in re∣gard
+that many things not un∣profitable
+to the knowledge of
+Nature, and other Observations
+are hereby come to light, as
+good events ofttimes arise from
+evil occasions, it will not be the
+worst labour to relate briefly the
+
+
+beginning, and prosecution of
+this adventurous Voiage; untill
+it became at last a familiar Pas∣sage.
+
+
+When our Merchants perceiv'd
+the Commodities of 
+England
+ to
+be in small request abroad, and
+foreign Merchandize to grow
+higher in esteem and value than
+before, they began to think with
+themselves how this might be
+remedied. And seeing how the
+
+Spaniards
+ and 
+Portugals
+ had en∣creas'd
+their Wealth by discove∣ry
+of new Trades and Countries,
+they resolv'd upon some new and
+strange Navigation. At the same
+time 
+Sebastian Chabota,
+ a man
+for the knowledge of Sea-affairs
+much renown'd in those daies,
+happen'd to be in 
+London.
+ With
+him first they consult; and by
+his advice conclude to furnish
+out three Ships for the search
+and discovery of the northern
+parts. And having heard that a
+
+
+certain Worm is bred in that
+Ocean, which many times ea∣teth
+through the strongest Oak,
+they contrive to cover some part
+of the Keel of those Ships with
+thin sheets of Lead; and victual
+them for 18 months; allowing
+equally to their journey their
+stay, and their return. Arms
+also they provide and store of
+Munition, with sufficient Cap∣tains
+and Governours for so great
+an enterprise. To which among
+many, and some void of experi∣ence
+that offer'd themselves, Sir
+
+Hugh Willowby
+ a valiant Gentle∣man
+earnestly requested to have
+the charge. Of whom before all
+others both for his goodly perso∣nage,
+and singular skill in the
+services of War, they made
+choise to be Admiral; and of
+
+Richard Chancelor,
+ a man great∣ly
+esteem'd for his skill, to be
+chief Pilot. This man was
+brought up by Mr. 
+Henry Sid∣ney,
+
+
+
+afterwards Deputy of 
+Ire∣land,
+
+who coming where the
+Adventurers were gather'd toge∣ther;
+though then a young
+man, with a grave and eloquent
+Speech commended 
+Chancelor
+
+unto them.
+
+
+After this, they omitted no
+enquiry after any person that
+might inform them concerning
+those north-easterly parts to
+which the Voiage tended; and
+two 
+Tartarians
+ then of the
+King's Stable were sent for; but
+they were able to answer no∣thing
+to purpose. So after much
+debate it was concluded that by
+the 20
+th
+ of 
+May
+ the Ships should
+depart. Being come near 
+Green∣wich
+
+where the Court then lay,
+presently the Courtiers came
+running out, the Privy Council
+at the Windows, the rest on the
+Towers and Battlements. The
+Mariners all apparell'd in Watch∣et,
+or sky-coloured Cloth, dis∣charge
+
+
+their Ordnance; the
+noise whereof, and of the People
+shouting is answer'd from the
+Hills and Waters with as loud
+an Echo. Onely the good King
+
+Edward
+ then sick beheld not
+this sight, but dy'd soon after.
+From hence putting into 
+Har∣wich,
+
+they staid long and lost
+much time. At length passing
+by 
+Shetland,
+ they kenn'd a far
+off 
+Aegelands,
+ being an innumera∣ble
+sort of Islands call'd 
+Rost
+Islands
+ in 66 degrees. Thence
+to 
+Lofoot
+ in 68. to 
+Seinam
+ in
+70 degrees; these Islands belong
+all to the Crown of 
+Denmark.
+
+Whence departing Sir 
+Hugh Wil∣lowby
+
+set out his Flag by which
+he call'd together the chief men
+of his other Ships to counsel;
+where they conclude, in case
+they happen'd to be scatter'd by
+Tempest, that 
+Wardhouse
+ a no∣ted
+Haven in 
+Finmark
+ be the
+appointed place of their meeting.
+
+
+The very same day after noon
+so great a Tempest arose, that
+the Ships were some driv'n one
+way, some another in great pe∣ril.
+The General with his lou∣dest
+voice call'd to 
+Chancelor
+ not
+to be far from him; but in vain,
+for the admiral sayling much
+better than his Ship, and bearing
+all her Sayles was carried with
+great swiftness soon out of sight;
+but before that, the Ship-boat
+striking against her Ship was
+overwhelmed in view of the 
+Bo∣naventure
+
+whereof 
+Chancelor
+ was
+Captain.
+ The third Ship also in
+the same Storm was lost. But
+Sir 
+Hugh Willowby
+ escaping that
+Storm, and wandring on those
+desolate Seas till the 18
+th
+ of 
+Sep∣tember
+
+put into a Haven where
+they had Weather as in the depth
+of Winter; and there determi∣ning
+to abide till Spring, sent
+out three men southwest to find
+Inhabitants; who journy'd three
+
+
+daies but found none; then other
+three went westward four daies
+journey, and lastly three south∣east
+three daies; but they all re∣turning
+without news of People,
+or any sign of Habitation, Sir
+
+Hugh
+ with the company of his
+two Ships abode there till 
+Ianua∣ry,
+
+as appears by a Will since
+found in one of the Ships; but
+then perish'd all with cold. This
+River or Haven was 
+Arzina
+ in
+
+Lapland
+ neer to 
+Kegor,
+ where
+they were found dead the year
+after by certain 
+Russian
+ Fisher∣men.
+Whereof the 
+English
+ A∣gent
+at 
+Mosco
+ having notice,
+sent and recover'd the Ships
+with the dead Bodies and most
+of the Goods, and sent them for
+
+England;
+ but the Ships being
+unstanch, as is suppos'd, by
+their two years wintring in 
+Lap∣land,
+
+sunk by the way with
+their Dead, and them also that
+brought them. But now 
+Chan∣celor
+
+
+
+with his Ship and Company
+thus left, shap'd his course to
+
+Wardhouse,
+ the place agreed on
+to expect the rest; where ha∣ving
+staid 7 daies without ty∣dings
+of them, he resolves at
+length to hold on his Voiage;
+and sayl'd so far till he found
+no night, but continual day and
+Sun cleerly shining on that huge
+and vast Sea for certain daies.
+At length they enter into a great
+Bay, nam'd, as they knew after,
+from Saint 
+Nicholas;
+ and spying
+a Fisherboat, made after him to
+know what People they were.
+The Fishermen amaz'd with the
+greatness of his Ship, to them a
+strange and new sight, sought to
+fly; but overtak'n, in great fear
+they prostrate themselves, and
+offer to kiss his Feet; but he ray∣sing
+them up with all signes and
+gestures of courtesie, sought to
+win their friendship. They no
+sooner dismist, but spread abroad
+
+
+the arrival of a strange Nation,
+whose humanity they spake of
+with great affection; whereup∣on
+the People running together,
+with like return of all courteous
+usage receive them; offering them
+Victuals freely; nor refusing to
+traffick, but for a loyal Custom
+which bound them from that,
+without first the consent had of
+their King. After mutual de∣mands
+of each other's Nation
+they found themselves to be in
+
+Russia
+ where 
+Iuan Vasiliwich
+ at
+that time reign'd Emperour.
+To whom privily the Gover∣nour
+of that place sending no∣tice
+of the strange Guests that
+were arriv'd, held in the mean
+while our Men in what su∣spence
+he could. The Empe∣rour
+well pleas'd with so un∣expected
+a Message, invites them
+to his Court, offring them Post∣horses
+at his own charge, or if
+the journey seem'd overlong,
+
+
+that they might freely traffick
+where they were. But 'ere this
+Messenger could return, having
+lost his way, the 
+Muscovites
+
+themselves, loath that our men
+should depart which they made
+shew to doe, furnish't them with
+Guides and other Conveniences
+to bring them to their King's
+presence. 
+Chancelor
+ had now
+gon more than half his jour∣ney,
+when the Sled man sent to
+Court meets him on the way;
+delivers him the Emperour's
+Letters; which when the 
+Rus∣ses
+
+understood, so willing they
+were to obey the Contents
+thereof, that they quarrell'd and
+strove who should have the pre∣ferment
+to put his Horses to the
+Sled. So after a long and trou∣blesome
+journey of 1500 miles
+he arriv'd at 
+Mosco.
+ After he
+had remain'd in the City about
+12 daies, a Messenger was sent
+to bring them to the King's
+
+
+House. Being enter'd within
+the Court Gates, and brought
+into an outward Chamber, they
+beheld there a very honourable
+company to the number of a
+hunder'd sitting all apparell'd in
+Cloth of gold down to their
+Ancles: next conducted to the
+Chamber of presence, there sate
+the Emperour on a lofty and
+very royal Throne; on his
+Head a Diadem of gold, his
+Robe all of Goldsmiths work,
+in his Hand a chrystal Sceptre
+garnish'd and beset with precious
+Stones; no less was his Coun∣tenance
+full of majesty. Beside
+him stood his chief Secretary;
+on his other side the great
+Commander of silence, both in
+Cloth of gold; then sate his
+Council of 150 round about on
+high Seats, clad all as richly.
+
+Chancelor
+ nothing abash'd made
+his obeysance to the Emperour
+after the 
+English
+ manner. The
+
+
+Emperour having taken, and
+read his Letters, after some en∣quiry
+of King 
+Edward
+'s Health,
+invited them to dinner, and till
+then dismiss'd them. But before
+dismission the Secretary presen∣ted
+their Present bareheaded;
+till which time they were all
+cover'd; and before admittance
+our men had charge not to
+speak, but when the Emperour
+demanded ought. Having sat
+two hours in the Secretary's
+Chamber, they were at length
+call'd in to dinner; where the
+Emperour was set at Table,
+now in a Robe of silver, and
+another Crown on his Head.
+This place was call'd the golden
+Palace, but without cause, for
+the 
+English
+ men had seen many
+fairer; round about the room,
+but at distance, were other long
+Tables; in the midst a Cup∣board
+of huge and massy gob∣lets,
+and other Vessels of gold
+
+
+and silver; among the rest four
+great Flagons nigh two yards
+high, wrought in the top with
+devices of Towers and Dragons
+heads. The Guests ascended to
+their Tables by three steps; all
+apparell'd in Linnen, and that
+lin'd with rich Furrs. The Mes∣ses
+came in without order, but
+all in Chargers of gold, both to
+the Emperour, and to the rest
+that din'd there, which were
+two hundred persons; on every
+Board also were set Cups of
+gold without number. The Ser∣vitors
+one hundred and forty
+were likewise array'd in gold,
+and waited with Caps on their
+heads. They that are in high
+favour sit on the same Bench
+with the Emperour, but far off.
+Before Meat came in, accor∣ding
+to the custom of their
+Kings, he sent to every Guest
+a slice of Bread; whom the Of∣ficer
+naming saith thus, 
+Iohn
+
+
+Basiliwich
+ Emperour of 
+Russ,
+ &c.
+doth reward thee with Bread,
+at which words all men stand
+up. Then were Swans in se∣veral
+pieces serv'd in, each piece
+in a several Dish, which the
+great Duke sends about as the
+Bread, and so likewise the Drink.
+In dinner time he twice chang'd
+his Crown, his Waiters thrice
+their Apparel; to whom the
+Emperour in like manner gives
+both Bread and Drink with his
+own hands; which they say is
+done to the intent that he may
+perfectly know his own Hous∣hold;
+and indeed when dinner
+was done, he call'd his Nobles
+every one before him by name;
+and by this time Candles were
+brought in, for it grew dark;
+and the 
+English
+ departed to their
+Lodgings from dinner, an hour
+within night.
+
+
+In the Year 1555.
+ 
+Chancelor
+
+made another voiage to this
+
+
+Place with Letters from Queen
+
+Mary;
+ had a House in 
+Mosco,
+
+and Diet appointed him; and
+was soon admitted to the Empe∣rour's
+presence in a large room
+spread with Carpets; at his en∣tring
+and salutation all stood
+up, the Emperour onely sitting,
+except when the Queen's name
+was read, or spoken; for then
+he himself would rise: at dinner
+he sate bareheaded; his Crown
+and rich Cap standing on a Pi∣nacle
+by.
+ 
+Chancelor
+ returning
+for 
+England, Osep Napea
+ Gover∣nour
+of 
+Wologda
+ came in his
+Ship Ambassadour from the
+
+Russe;
+ but suffering shipwrack
+in 
+Pettislego
+ a Bay in 
+Scotland,
+Chancelor
+ who took more care
+to save the Ambassadour than
+himself was drown'd, the Ship
+rifled, and most of her lading
+made booty by the People
+thereabout.
+
+
+In the Year 1557. 
+Osep Na∣pea
+
+returned into his Countrey
+with 
+Antony Ienkinson
+ who had
+the command of four tall Ships.
+
+He reports of a Whirlpool be∣tween
+the 
+Rost Islands
+ and 
+Lo∣foot
+
+call'd 
+Malestrand;
+ which
+from half ebb till half flood is
+heard to make so terrible a noise,
+as shakes the Door-rings of Hou∣ses
+in those Islands ten mile off;
+Whales that come within the
+Current thereof make a pittifull
+cry; Trees carried in and cast
+out again have the ends and
+boughs of them so beaten, as they
+seem like the stalks of bruized
+Hemp. About 
+Zeinam
+ they saw
+many Whales very monstrous
+hard by their Ships; whereof
+some by estimation sixty foot
+long; they roard hideously, it
+being then the time of their
+engendring. At 
+Wardhouse,
+ he
+saith, the Cattel are fed with
+Fish. Coming to 
+Mosco,
+ he
+
+
+found the Emperour sitting a∣loft
+in a Chair of state, richly
+crown'd, a Staff of gold in his
+hand wrought with costly stone.
+Distant from him sate his Bro∣ther,
+and a Youth the Empe∣rour's
+Son of 
+Casan
+ whom the
+
+Russ
+ had conquer'd; there din'd
+with him diverse Ambassadours,
+Christian and Heathen, diversely
+apparell'd; his Brother with some
+of the chief Nobles sate with
+him at Table: the Guests were
+in all six hundred. In dinner
+time came in six Musicians; and
+standing in the midst, sung three
+several times, but with little or
+no delight to our men; there
+din'd at the same time in other
+Halls two thousand 
+Tartars
+ who
+came to serve the Duke in his
+Wars. The 
+English
+ were set at
+a small Table by themselves di∣rect
+before the Emperour; who
+sent them diverse Bowles of Wine
+and Meath and many Dishes
+
+
+from his own hand: the Messes
+were but mean, but the change
+of Wines and several Meaths
+were wonderfull. As oft as they
+din'd with the Emperour, he
+sent for them in the Morning,
+and invited them with his own
+mouth. On 
+Christmass
+ day be∣ing
+invited,
+ they had for other
+provision as before; but for store
+of gold and silver Plate exces∣sive;
+among which were twelve
+Barrels of silver, hoop'd with fine
+gold containing twelve gallons a∣piece.
+
+
+1560. Was the first 
+English
+
+traffick to the 
+Narve
+ in 
+Livo∣nia,
+
+till then conceal'd by 
+Dan∣skers
+
+and 
+Lubeckers.
+
+
+1561. The same 
+Antony Ien∣kinson
+
+made another voiage to
+
+Mosco;
+ and arriv'd while the
+Emperour was celebrating his
+marriage with a 
+Circassian
+ Lady;
+during which time the City
+Gates for three daies were kept
+
+
+shut; and all men whatsoever
+straitly commanded to keep
+within their Houses; except
+some of his Houshold; the cause
+whereof is not known.
+
+
+1566. He made again the
+same voiage;
+ which now men
+usually made in a month from
+
+London
+ to Saint 
+Nicholas
+ with
+good Windes, being seven hun∣dred
+and fifty leagues.
+
+
+1568. 
+Thomas Randolf,
+ 
+Esq
+
+went Embassadour to 
+Muscovy,
+
+from Queen 
+Elizabeth;
+ and in
+his passage by Sea met nothing
+remarkable save great store of
+Whales, whom they might see
+engendring together, and the
+Sperma-ceti swimming on the
+Water. At 
+Colmogro
+ he was
+met by a Gentleman from the
+Emperour, at whose charge he
+was conducted to 
+Mosco:
+ but
+met there by no man; not so
+much as the 
+English;
+ lodg'd in a
+fair House built for Ambassa∣dours;
+
+
+but there confin'd upon
+some suspicion which the Empe∣rour
+had conceav'd; sent for at
+length after seventeen weeks de∣lay,
+was fain to ride thither on
+a borrow'd Horse, his men on foot.
+In a Chamber before the presence
+were sitting about three hun∣dred
+Persons, all in rich Robes
+taken out of the Emperour's
+Wardrobe for that day; they
+sate on three ranks of Benches,
+rather for shew than that the
+Persons were of honour; being
+Merchants, and other mean In∣habitants.
+The Ambassadour sa∣luted
+them, but by them unsa∣luted
+pass'd on with his Head
+cover'd. At the Presence door
+being receiv'd by two which
+had been his Guardians, and
+brought into the midst, he was
+there will'd to stand still, and
+speak his message from the
+Queen; at whose name the Em∣perour
+stood up, and demanded
+
+
+her health: then giving the
+Ambassadour his Hand to kiss
+fell to many questions. The
+Present being deliver'd, which
+was a great silver Bowle curi∣ously
+grav'n, the Emperour told
+him, he din'd not that day
+openly because of great Affairs;
+but, saith he, I will send thee
+my Dinner, and augment thy
+Allowance. And so dismissing
+him, sent a Duke richly appa∣rell'd
+soon after to his Lodging
+with fifty Persons each of them
+carrying Meat in silver Dishes
+cover'd; which himself deliver'd
+into the Ambassadour's own
+hands tasting first of every
+Dish, and every sort of Drink;
+that done, set him down with
+his Company, took part, and
+went not thence unrewarded.
+The Emperour sent back with
+this Ambassadour another of
+his own call'd 
+Andrew Savin.
+
+
+1571. 
+Ienkinson
+ made a third
+voiage; but was staid long at
+
+Colmogro
+ by reason of the
+Plague in those Parts; at length
+had audience where the Court
+then was, near to 
+Pereslave;
+ to
+which place the Emperour was
+return'd from his 
+Swedish
+ War
+with ill success: and 
+Mosco
+ the
+same year had been wholly
+burnt by the 
+Crim;
+ in it the
+
+English
+ House, and diverse 
+En∣glish
+
+were smother'd in the Sel∣lars,
+multitudes of People in
+the City perish'd, all that were
+young led captive with excee∣ding
+spoil.
+
+
+1583.
+ 
+Iuan Basiliwich
+ having
+the year before sent his Ambassa∣dour
+
+Pheodor Andrewich
+ about
+matters of Commerce,
+ the Queen
+made choice of Sir 
+Ierom Bowes,
+
+one of her houshold, to go into
+
+Russia;
+ who being attended with
+more than forty persons, and ac∣companied
+with the 
+Russe
+ re∣turning
+
+
+home, arriv'd at St. 
+Ni∣colas.
+
+The 
+Dutch
+ by this time
+had intruded into the 
+Muscovy
+-Trade;
+which by privilege long
+before had been granted solely
+to the 
+English;
+ and had cor∣rupted
+to their side 
+Shalkan
+ the
+Chancellor, with others of the
+great ones; who so wrought,
+that a creature of their own was
+sent to meet Sir 
+Ierom
+ at 
+Col∣mogro,
+
+and to offer him occasi∣ons
+of dislike: Until at 
+Vologda
+
+he was receiv'd by another from
+the Emperour; and at 
+Yeraslave
+
+by a Duke well accompanied,
+who presented him with a Coach
+and ten Geldings. Two miles
+from 
+Mosco
+ met him four Gen∣tlemen
+with Two hundred Horse,
+who after short salutation, told
+him what they had to say from the
+Emperour, willing him to alight,
+which the Ambassadour soon re∣fus'd,
+unless they also lighted;
+whereon they stood long deba∣ting;
+
+
+at length agreed, great di∣spute
+follow'd, whose foot should
+first touch the ground. Their
+Message deliver'd, and then em∣bracing,
+they conducted the Am∣bassador
+to a house at 
+Mosco,
+
+built for him purposely. At his
+going to Court he and his fol∣lowers
+honourably mounted and
+apparell'd, the Emperour's Guard
+were set on either side all the
+way about 6000 shot. At the
+Court-gate met him four Noble∣men
+in Cloth of Gold, and rich
+Furr-Caps, embroider'd with Pearl
+and Stone; then four others of
+greater degree, in which passage
+there stood along the Walls, and
+sate on Benches seven or eight
+hundred men in colour'd Sattins
+and Gold. At the Presence-dore
+met him the chief Herald, and
+with him all the great Officers
+of Court, who brought him
+where the Emperour sate: there
+were set by him three Crowns
+
+
+of 
+Muscovy, Cazan
+ and 
+Astracan;
+
+on each side stood two young
+Noblemen, costly apparell'd in
+White; each of them had a broad
+Axe on his shoulder; on the
+Benches round sate above a hun∣dred
+Noblemen. Having giv'n
+the Ambassadour his hand to kiss,
+and enquir'd of the Queens Health,
+he will'd him to go sit in the
+place provided for him, nigh ten
+paces distant; from thence to
+send him the Queens Letters and
+Present. Which the Ambassadour
+thinking not reasonable, step'd
+forward; but the Chancellor
+meeting him, would have tak'n
+his Letters; to whom the Am∣bassadour
+said, that the Queen had
+directed no Letters to him; and
+so went on and deliver'd them
+to the Emperour's own hands;
+and after a short withdrawing in∣to
+the Council-Chamber, where
+he had Conference with some of
+the Council, he was call'd in to
+
+
+dinner: about the midst where∣of,
+the Emperour standing up,
+drank a deep Carouse to the
+Queens Health, and sent to the
+Ambassadour a great Bowl of
+Rhenish-Wine to pledge him.
+But at several times being call'd
+for to treat about Affairs, and not
+yielding ought beyond his Com∣mission,
+the Emperour not wont
+to be gain-say'd, one day especi∣ally
+broke into passion, and with
+a stern countenance told him, he
+did not reckon the Queen to be
+his fellow; for there are, quoth
+he, her betters. The Ambassa∣dour
+not holding it his part, what∣ever
+danger might ensue, to hear
+any derogate from the Majesty
+of his Prince, with like courage
+and countenance told him, that
+the Queen was equal to any
+in Christendom who thought
+himself greatest; and wanted
+not means to offend her Ene∣mies
+whomsoever. Yea, quoth
+
+
+he, what saist thou of the 
+French
+
+and 
+Spanish
+ Kings? I hold her,
+quoth the Ambassadour, equal
+to either. Then what to the
+
+German
+ Emperour? Her Father,
+quoth he, had the Emperour in
+his pay. This answer mislik'd
+the Duke so far, as that he told
+him, were he not an Ambassa∣dour,
+he would throw him out
+of doors. You may, said the
+Ambassadour, doe your will,
+for I am now fast in your
+Countrey; but the Queen I
+doubt not will know how to
+be reveng'd of any injury offer'd
+to her Ambassadour. Whereat
+the Emperour in great sudden
+bid him get home; and he
+with no more reverence than
+such usage requir'd, saluted the
+Emperour, and went his way.
+Notwithstanding this, the 
+Mus∣covite,
+
+soon as his mood left
+him, spake to them that stood
+by, many praises of the Am∣bassadour,
+
+
+wishing he had such
+a Servant, and presently after
+sent his chief Secretary to tell
+him that whatever had pass'd
+in words, yet for his great re∣spect
+to the Queen, he would
+shortly after dispatch him with
+honour and full contentment,
+and in the mean while he much
+enlarg'd his entertainment. He
+also desir'd that the Points of
+our Religion might be set down,
+and caus'd them to be read to
+his Nobility with much appro∣bation.
+And as the year before
+he had sought in marriage the
+Lady 
+Mary Hastings,
+ which took
+not effect, the Lady and her
+Friends excusing it, he now a∣gain
+renu'd the motion to take
+to wife some one of the Queen's
+Kinswomen either by sending
+an Embassage, or going himself
+with his Treasure into 
+England.
+
+Now happy was that Nobleman
+whom Sir 
+Ierom Bowes
+ in pub∣lick
+
+
+favour'd; unhappy they
+who had oppos'd him: for the
+Emperour, had beaten 
+Shalkan
+
+the Chancelour very grievously
+for that cause, and threatn'd not
+to leave one of his race alive.
+But the Emperour dying soon
+after of a Surfeit, 
+Shalkan
+ to
+whom then almost the whole
+Government was committed,
+caus'd the Ambassadour to re∣main
+close Prisoner in his House
+nine weeks. Being sent for at
+length to have his dispatch, and
+slightly enough conducted to
+the Council Chamber, he was
+told by 
+Shalkan
+ that this Em∣perour
+would condescend to no
+other agreements than were be∣tween
+his Father and the Queen
+before his coming: and so dis∣arming
+both him and his Com∣pany,
+brought them to the Em∣perour
+with many affronts in
+their passage, for which there
+was no help but patience. The
+
+
+Emperour saying but over what
+the Chancelour had said before,
+offer'd him a Letter for the
+Queen: which the Ambassa∣dour,
+knowing it contain'd no∣thing
+to the purpose of his Em∣bassy,
+refus'd, till he saw his
+danger grow too great; nor was
+he suffer'd to reply, or have his
+Interpreter. 
+Shalkan
+ sent him
+word that now the 
+English
+ Em∣perour
+was dead; and hasten'd
+his departure, but with so ma∣ny
+disgraces put upon him, as
+made him fear some mischief in
+his journey to the Sea; having
+onely one mean Gentleman sent
+with him to be his Convoy; he
+commanded the 
+English
+ Mer∣chants
+in the Queen's name to
+accompany him, but such was
+his danger, that they durst not.
+So arming himself and his Fol∣lowers
+in the best wise he
+could, against any outrage, he
+at length recover'd the Shoar of
+
+
+Saint 
+Nicholas.
+ Where he now
+resolv'd to send them back by
+his Conduct some of the af∣fronts
+which he had receiv'd.
+Ready therefore to take Ship,
+he causes three or four of his
+valientest and discreetest men to
+take the Emperour's Letter, and
+disgracefull Present, and to deli∣ver
+it, or leave it at the Lodg∣ing
+of his Convoy, which they
+safely did; though follow'd with
+a great Tumult of such as would
+have forc'd them to take it back.
+
+
+1584. At the Coronation of
+
+Pheodor
+ the Emperour▪ 
+Ierom
+Horsey
+ being then Agent in
+
+Russia,
+ and call'd for to court
+with one 
+Iohn de Wale
+ a Mer∣chant
+of the 
+Netherlands
+ and a
+Subject of 
+Spain,
+ some of the
+Nobles would have preferr'd the
+
+Fleming
+ before the 
+English.
+ But
+to that our Agent would in no
+case agree, saying he would ra∣ther
+have his Leggs cut off by
+
+
+the Knees, then bring his pre∣sent
+in course after a Subject of
+
+Spain.
+ The Emperour and Prince
+
+Boris
+ perceiving the controver∣sy,
+gave order to admit 
+Hor∣sey
+
+first: who was dismiss'd with
+large Promises, and seventy Mes∣ses
+with three Carts of several
+Meath sent after him.
+
+
+1588. Dr. 
+Giles Fletcher
+ went
+Ambassadour from the Queen to
+
+Pheodor
+ then Emperour; whose
+Relations being judicious and
+exact are best red entirely by
+themselves.
+ This Emperour up∣on
+report of the great learning
+of 
+Iohn Dee
+ the Mathematician
+invited him to 
+Mosco
+ with offer
+of two thousand pound a year,
+and from Prince 
+Boris
+ one thou∣sand
+Marks; to have his Provi∣sion
+from the Emperour's Ta∣ble,
+to be honourably receiv'd,
+and accounted as one of the
+chief men in the Land. All
+which 
+Dee
+ accepted not.
+
+
+1604. Sir 
+Thomas Smith
+ was
+sent Ambassadour from King
+
+Iames
+ to 
+Boris
+ then Emperour;
+and staid some daies at a place
+five miles from 
+Mosco
+ till he
+was honourably receiv'd into
+the City; met on horseback
+by many thousands of Gentle∣men
+and Nobles on both sides
+the way; where the Ambassa∣dour
+alighting from his Coach
+and mounted on his Horse, rode
+with his Trumpets sounding be∣fore
+him; till a Gentleman of
+the Emperour's Stable brought
+him a Gennet gorgeously trapt
+with gold, pearl and stone, es∣pecially
+with a great Chain of
+plated gold about his Neck,
+and Horses richly adorn'd for
+his Followrs. Then came three
+great Noblemen with an Inter∣preter
+offring a Speech; but the
+Ambassadour deeming it to be
+ceremony, with a brief Com∣plement
+found means to put it
+
+
+by. Thus alighting all, they sa∣luted,
+and gave hands mutually.
+Those three after a tedious pre∣amble
+of the Emperour's Title
+thrice repeated brought a several
+Complement of three words a∣piece,
+as namely, the first, to
+know how the King did, the
+next, how the Ambassadour, the
+third, that there was a fair
+House provided him. Then on
+they went on either hand of the
+Ambassadour, and about six
+thousand Gallants behind them;
+still met within the City by
+more of greater quality to the
+very Gate of his lodging: where
+fifty Gunners were his daily
+Guard both at home and abroad.
+The Prestaves or Gentlemen as∣sign'd
+to have the care of his
+entertainment, were earnest to
+have had the Ambassadour's
+Speech and Message given them
+in writing, that the Interpreter,
+as they pretended, might the
+
+
+better translate it; but he ad∣monish'd
+them of their foolish
+demand. On the day of his au∣dience
+other Gennets were sent
+him and his Attendants to ride
+on, and two white Palfreys to
+draw a rich Chariot, which was
+parcel of the Present; the rest
+whereof was carried by his Fol∣lowers
+through a lane of the
+Emperour's Guard; many Mes∣sengers
+posting up and down the
+while, till they came through
+the great Castle, to the utter∣most
+Court gate. There met by
+a great Duke they were
+brought up stairs through a
+Stone-gallery, where stood on
+each hand many in fair Coats
+of 
+Persian
+ Stuff, Velvet and Da∣mask.
+The Ambassadour by two
+other Counselours being led into
+the presence, after his obeysance
+done, was to stay and hear again
+the long Title repeated; then the
+particular Presents; and so deli∣ver'd
+
+
+as much of his Embassage
+as was then requisite. After
+which the Emperour arising
+from his Throne demandeth of
+the King's health; so did the
+young Prince. The Ambassa∣dour
+then deliver'd his Letters
+into the Emperour's own hand,
+though the Chancelour offer'd
+to have taken them. He bore
+the Majesty of a mighty Empe∣rour;
+his Crown and Sceptre of
+pure gold, a Collar of Pearls
+about his Neck, his Garment
+of crimson Velvet embroider'd
+with precious stone and gold.
+On his right Side stood a fair
+Globe of beaten gold on a Pyra∣mis
+with a Cross upon it 
+ to
+which, before he spake, turning
+a little he crost himself. Not
+much less in splendour on ano∣ther
+Throne sate the Prince. By
+the Emperour stood two Noble∣men
+in Cloth of silver, high
+Caps of black Furr, and Chains
+
+
+of gold hanging to their Feet;
+on their Shoulders two Poleaxes
+of gold; and two of silver by the
+Prince; the ground was all co∣ver'd
+with Arras or Tapistry-Dismist,
+and brought in again to
+dinner they saw the Emperour
+and his Son seated in state, ready
+to dine; each with a Skull of
+Pearl on their bare Heads, their
+Vestments chang'd. In the midst
+of this Hall seem'd to stand a
+Pillar heap'd round to a great
+height with massy Plate curious∣ly
+wrought with Beasts, Fishes
+and Fowl. The Emperour's Ta∣ble
+was serv'd with two hundred
+Noblemen in Coats of gold; the
+Princes Table with young Dukes
+of 
+Casan, Astracan, Siberia, Tar∣taria
+
+and 
+Circassia.
+ The Empe∣rour
+sent from his Table to the
+Ambassadour, thirty Dishes of
+Meat, to each a Loaf of extra∣ordinary
+fine Bread. Then fol∣low'd
+a number more of strange
+
+
+and rare Dishes 
+il'd up by half
+dozens, with boyl'd, roast and
+bak't, most part of them besawc'd
+with Garlick and Onions. In
+midst of dinner calling the Am∣bassadour
+up to him he drank
+the King's health, who receiving
+it from his hand, return'd to his
+place, and in the same Cup be∣ing
+of fair Chrystal pledg'd it
+with all his Company. After
+dinner they were call'd up to
+drink of excellent and strong
+Meath from the Emperour's
+hand; of which when many did
+but sip, he urg'd it not; saying
+he was best pleas'd with what
+was most for their health. Yet
+after that, the same day he sent
+a great and glorious Duke, one
+of them that held the golden
+Poleax, with his Retinue, and
+sundry sorts of Meath to drink
+merrily with the Ambassadour,
+which some of the 
+English
+ did,
+untill the Duke and his Followers
+
+
+light-headed, but well rewarded
+with thirty yards of Cloth of
+gold, and two standing Cups,
+departed. At second audience
+the Ambassadour had like recep∣tion
+as before: and being dis∣miss'd
+had dinner sent after him
+with three hundred several Dishes
+of Fish, it being Lent, of such
+strangeness, greatness and good∣ness
+as scarce would be credible
+to report. The Ambassadour de∣parting
+was brought a mile out
+of the City with like honour as
+he was first met; where lighting
+from the Emperour's Sled, he
+took him to his Coach, made
+fast upon a Sled; the rest to
+their Sleds an easy and pleasant
+passage.
+
+
+
+
+
+
+
+
+
+
+Names of the Authours
+from whence these Re∣lations
+have been ta∣ken;
+being all either
+Eye-witnesses, or im∣mediate
+Relaters from
+such as were.
+
+
+
+
+THE 
+Iournal of Sir
+ Hugh
+Willowby.
+
+
+Discourse of
+ Richard Chancelor.
+
+
+Another of 
+Clement Adams
+ ta∣ken
+from the mouth of 
+Chan∣celor.
+
+
+Notes of
+ Richard Johnson. 
+Ser∣vant
+to
+ Chancelor.
+
+
+The 
+Protonotaries
+ Register.
+
+
+Two Letters of Mr. 
+Hen. Lane.
+
+
+The several Voiages of 
+Jenkinson.
+
+
+Southam 
+and
+ Sparks.
+
+
+The Iournal of 
+Randolf
+ the Embass.
+
+
+Another of Sir 
+Jerom Bowes.
+
+
+The Coronation of 
+Pheodor
+ writ∣ten
+by 
+Jerom Horsey.
+
+
+Gourdon 
+of
+ Hull
+'s Voiage to
+
+Pechora.
+
+
+The Voiage of
+ William Pursglove,
+
+to
+ Pechora.
+
+
+Of
+ Josias Logan.
+
+
+Hessel Gerardus, 
+out of
+ Purchas,
+
+part 3. l.
+ 3.
+
+
+Russian 
+Relations in
+ Purch. 797.
+ibid. 806. ibid.
+
+
+The Embassage of Sir 
+Thomas
+Smith.
+
+
+Papers of Mr. 
+Hackluit.
+
+
+Jansonius.
+
+
+
+
+The End.
+
+
+
+
+
+
+
+
+

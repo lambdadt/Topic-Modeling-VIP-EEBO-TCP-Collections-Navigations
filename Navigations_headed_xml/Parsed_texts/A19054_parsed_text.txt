@@ -1,0 +1,779 @@
+Nevves out of East India of the cruell and bloody vsage of our English merchants and others at Amboyna, by the Netherlandish gouernour and councell there. To the tune of Braggendary.
+Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A19054
+
+
+
+
+STC 547
+
+
+
+ESTC S117782
+
+
+
+
+
+99852992
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Nevves out of East India of the cruell and bloody vsage of our English merchants and others at Amboyna, by the Netherlandish gouernour and councell there. To the tune of Braggendary.
+[2] p. : ill.  
+
+
+Printed at London :
+
+
+For F. Coules, dwelling at the vpper end of the Old-Baily,
+
+
+[1624]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Nederlandsche Oost-Indische Compagnie --  Early works to 1800.
+Ambon (Indonesia) --  History --  Massacre, 1624 --  Early works to 1800.
+2013-06
+TCP
+Assigned for keying and markup
+2013-07
+SPi Global
+Keyed and coded from ProQuest page images
+2013-09
+Colm MacCrossan
+Sampled and proofread
+2013-09
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+547
+
+
+S117782
+
+
+99852992
+
+
+18350
+
+
+
+
+
+
+
+
+
+
+
+
+Newes out of East India: Of the cruell and bloody vsage of our English Mer¦chants and others at 
+Amboyna,
+ by the Netherlandish Gouernour and Councell there.
+
+
+To the tune of Braggendary.
+
+
+
+
+depiction of scenes of torture and execution: a half-naked man hanging stretched in an X on a door frame, his face bound, while a man on a stool pours water over his head and another man tickles him under the arm with feathers; a second half-naked man kneeling in prayer with his hands bound while another man stands behind him with a drawn sword raised to strike; a third half-naked man sitting on the ground
+
+
+
+
+
+
+FRom 
+India
+ Land such newes I haue,
+
+
+of death and deadly dole,
+
+
+As may inforce a déepe remorse,
+
+
+to each good Christian soule.
+
+
+To thinke what English blood was shed,
+
+
+Vpon a small occasion bred.
+
+
+Oh heauen looke downe,
+
+
+vpon poore innocent soules.
+
+
+
+
+
+
+Betwéene the English and the Dutch,
+
+
+hath béene a long debate:
+
+
+And mischiefes many hath béene wrought,
+
+
+against our Merchants state,
+
+
+Where Merchant-men haue lost their liues,
+
+
+Their goods, their children, and their wiues:
+
+
+Oh heauen looke downe,
+
+
+vpon poore innocent soules.
+
+
+
+
+
+
+A towne there stands 
+Amboyna
+ call'd.
+
+
+a Castle in the same;
+
+
+Made rich by these Low-Country States,
+
+
+and Merchants of great name:
+
+
+Who on a time a plot deuiz'd,
+
+
+To haue our Englishmen surpriz'd.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+They gaue out words our Englishmen,
+
+
+by secret treason wrought,
+
+
+The towne and Castle to blow vp,
+
+
+and so in question brought,
+
+
+Our English Merchants dwelling there,
+
+
+With all that held our Country deare.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+Their Gouernor a Councell cal'd,
+
+
+and yet no reason why,
+
+
+That twenty of our Englishmen
+
+
+should there their causes try:
+
+
+Aad answer for a thing not done,
+
+
+Nor any way there thought vpon.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+To cruell tortures day by day,
+
+
+our English thus were brought:
+
+
+Where strange tormenting instruments
+
+
+vpon their bodies wrought:
+
+
+To make them all confesse and say,
+
+
+They sought 
+Amboyna
+ to betray.
+
+
+Oh heauen looke downe, &.
+
+
+
+
+
+
+The first they laid vpon a Racke,
+
+
+with armes and legs abroad,
+
+
+And spred him, till he did confesse
+
+
+and most vntruly show'd,
+
+
+How that our Englishmen conspir'd,
+
+
+To haue the town and castle fier'd.
+
+
+Oh heauen looke downe,
+
+
+vpon poore innocent soules.
+
+
+
+
+
+
+
+
+The second Part,
+
+
+To the same tune.
+
+
+
+
+THe second of these wofull men,
+
+
+they bound vnto a stake:
+
+
+And throtle him about the necke,
+
+
+till he could hardly speake.
+
+
+Which cruell torments to auoyd,
+
+
+Said that the towne should be destroyd.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+The third they bound in Iron chaines,
+
+
+which griped him so sore,
+
+
+That all his body round about,
+
+
+did gush out bloody gore:
+
+
+From which to find some ease he sayd,
+
+
+Amboyna
+ should haue béene betrayd.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+They whipt the fourth man at a post,
+
+
+vniustly without fault:
+
+
+And washt his bloody body ore,
+
+
+with vineger and salt.
+
+
+And to the fifth like punishment,
+
+
+Though to no ill he gaue consent.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+With water they stuft vp the sixth,
+
+
+vntill his body swel'd:
+
+
+The seuenth likewise with twisted coard,
+
+
+most barbarously compeld,
+
+
+To say our English friends were those,
+
+
+That were the townesmens greatest foes.
+
+
+Oh heauen looke downe,
+
+
+
+
+
+
+The eight with burning pincers pul'd,
+
+
+made challenge of the rest:
+
+
+Though most vntrue, to ease himselfe,
+
+
+and so false things confest.
+
+
+So did the nynth by their pretence,
+
+
+Bring in most wrongfull euidence.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+The tenth they hung vp by the armes
+
+
+two foot aboue the ground:
+
+
+And so with scorching candles burn'd
+
+
+his back and body round:
+
+
+With all the other parts about,
+
+
+Till drops of fat the lights put out.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+The rest of these distressed soules,
+
+
+were vsed in like sort:
+
+
+At which the cruell Gouernor,
+
+
+made his tormenting sport.
+
+
+Till nynetéene of our Englishmen,
+
+
+Felt more then common tortures then.
+
+
+Oh heauen looke downe,
+
+
+vpon poore innocent soules
+
+
+
+
+
+
+Then Captaine 
+Towerson
+ came in place,
+
+
+to answer with the rest:
+
+
+To whom was told the treason was
+
+
+by those before confest.
+
+
+Though all as false as God was true,
+
+
+Yet they affirme, the same he knew.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+For which his goods were seized on,
+
+
+which all our English had:
+
+
+And so vnto the Iudgement seat,
+
+
+as traitors they were led.
+
+
+And there vniustly iudg'd to dye,
+
+
+Which was performed immediately,
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+Ten of our men they hang'd forthwith,
+
+
+the other ten went frée:
+
+
+Which was a wrongfull Iudgement giuen,
+
+
+and full of griefe to sée.
+
+
+That after all these torments past,
+
+
+They thus should suffer death at last.
+
+
+Oh heauen looke downe, &c.
+
+
+
+
+
+
+But on the execution day,
+
+
+as God did so dispose,
+
+
+A sudden darkenesse and a gust
+
+
+of violent winds arose.
+
+
+Which cast two of their ships away,
+
+
+As they at road in harbour lay.
+
+
+Thus heauen lookes downe, &c.
+
+
+
+
+
+
+Yea here to make Gods vengeance more,
+
+
+the chiefest of that plot.
+
+
+In this tormenting of our friends,
+
+
+as then escaped not,
+
+
+But felt Gods heauy Iron hand,
+
+
+And could no way the same withstand,
+
+
+Thus Heauen lookes downe &c.
+
+
+
+
+
+
+For comming to the graues where as
+
+
+the murthered bodies lay:
+
+
+He fell starke mad, and would not thence,
+
+
+with life depart away.
+
+
+But dyed most strangely in that place,
+
+
+Euen as a wretch bereft of grace:
+
+
+Thus heauen lookes downe, &c.
+
+
+
+
+
+
+Thus haue you heard what bloody déeds,
+
+
+were late in 
+India
+ done:
+
+
+To make vs all in 
+England
+ heere,
+
+
+with sorrow to thinke vpon,
+
+
+What sad misfortune should be hap,
+
+
+To take our friends in such a trap,
+
+
+Yet heauen lookes downe,
+
+
+Vpon poore innocent soules.
+
+
+
+
+
+
+
+
+
+
+The names of those executed.
+
+
+
+
+1 Captaine Gabriel Towerson.
+
+
+2 Samuel Colson Factor.
+
+
+3 Emanuel Tomson Assistant.
+
+
+4 Timothy Iohnson Assistant.
+
+
+5 Iohn Wetherall Factor.
+
+
+6 Iohn Clarke Assistant.
+
+
+7 William Griggs Factor.
+
+
+8 Abel Price Chyrurgian.
+
+
+9 Robert Browne Taylor.
+
+
+10 Iohn Fardo steward of the English house.
+
+
+As also nyne natiue Indians suffered together with them.
+
+
+
+
+
+
+
+
+The names of those pardoned.
+
+
+
+
+1 Iohn Beomont.
+
+
+2 Edward Collins.
+
+
+3 William Webber.
+
+
+4 Ephraim Ramsey.
+
+
+5 George Sharocke.
+
+
+6 Iohn Sadler.
+
+
+7 Iohn Powell.
+
+
+8 Thomas Ladbrooke.
+
+
+9 A Portingall.
+
+
+
+
+
+
+
+
+
+
+
+
+You may read more of this bloody Tragedy in a booke printed by authory. 1624.
+
+
+
+
+
+
+Printed at London for 
+F. Coules,
+ dwelling at the vpper end of the Old-Baily.
+
+
+
+
+
+
+
+
+

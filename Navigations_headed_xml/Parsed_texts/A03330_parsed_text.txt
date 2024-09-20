@@ -1,0 +1,1234 @@
+Nevv-Englands plantation. Or, A short and true description of the commodities and discommodities of that countrey. Written by Mr. Higgeson, a reuerend diuine now there resident. Whereunto is added a letter, sent by Mr. Graues an enginere, out of New-England
+Higginson, Francis, 1587-1630.
+Approx. 33 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2003-09 (EEBO-TCP Phase 1).
+A03330
+
+
+
+
+STC 13450
+
+
+
+ESTC S106176
+
+
+
+
+
+99841899
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+Nevv-Englands plantation. Or, A short and true description of the commodities and discommodities of that countrey. Written by Mr. Higgeson, a reuerend diuine now there resident. Whereunto is added a letter, sent by Mr. Graues an enginere, out of New-England
+Higginson, Francis, 1587-1630.
+Graves, Thomas, enginere.
+The second edition
+[28] p.   
+
+
+London :
+
+
+Printed by T. & R. Cotes, for Michael Sparke, dwelling at the signe of the Blew Bible in Greene Arbor in the little Old Bailey,
+
+
+1630.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+New England --  Description and travel --  To 1775.
+2003-02
+TCP
+Assigned for keying and markup
+2003-02
+SPi Global
+Keyed and coded from ProQuest page images
+2003-06
+Emma (Leeson) Huber
+Sampled and proofread
+2003-06
+Emma (Leeson) Huber
+Text and markup reviewed and edited
+2003-08
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+13450
+
+
+99841899
+
+
+6514
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEW-ENGLANDS PLANTATION. OR, A SHORT AND TRVE DESCRIPTION OF THE COMMODITIES AND DISCOMMODITIES of that Countrey. Written by M
+r
+. 
+Higgeson,
+ a reuerend Diuine now there resident. Whereunto is added a Letter, sent by M
+r
+. 
+Graues
+ an Enginere, out of 
+New-England,
+
+
+The second Edition enlarged.
+
+
+LONDON, Printed by 
+T.
+ & 
+R. Cotes,
+ for 
+Michael Sparke,
+ dwelling at the Signe of the 
+Blew Bible
+ in 
+Greene Arbor
+ in the little 
+Old Bailey.
+ 1630.
+
+
+
+
+
+
+
+
+
+
+To the Reader.
+
+
+R
+Eader, do not disdaine to reade this Relation; and looke not here to haue a large Gate and no building within; a full-stuffed Title with no matter in the Booke: But here reade the truth, and that thou shalt find without any frothy bum∣basted words, or any quaint new-deuised ad∣ditions, onely as it was written (not intended for the Presse) by a reuerend Diuine now there liuing, who onely sent it to some Friends here, who were desirous of his Relations; which is an Epitomy of their proceedings in the Plantation. And for thy part if thou meanest to be no Planter nor Venturer, doe but lend thy good Prayers for the furthrance of it. And so I rest a well-wisher to all the good designes both of them which are gone, and of them that are to goe.
+
+
+M. S.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEW-ENGLANDS PLANTATION.
+
+
+L
+Etting passe our Voyage by Sea, we will now begin our discourse on the shore of 
+New-England.
+ And be∣cause the life and wel-fare of euerie Creature here below, and the commodi∣ousnesse of the Countrey whereas such Creatures liue, doth by the most wise ordering of Gods prouidence, depend next vnto himselfe, vpon the temperature and disposition of the foure Elements, Earth, Water, Aire and Fire (For as of the mixture of all these, all sublunarie thin
+ are compo∣sed; so by the more or lesse inioyment of the wholesome temper and conuenient vse of these, consisteth the onely well-being both of Man and Beast in a more or lesse comfortable measure in all Countreys vnder the Heauens) Therefore I will indeauour to shew you what 
+New-England
+ is by the consideration of each of these apart, and truly endeauour by Gods helpe to report nothing but the naked truth, and that both to tell you of the discommodi∣ties as well as of the commodities, though as
+
+
+the idle Prouerbe is
+ 
+Tra
+ellers may lye by au∣thoritie,
+ and so may take too much sinfull li∣bertie that way. Yet I may say of my selfe as once 
+Nehemiah
+ did in another case: 
+Shall such a Man as I lye?
+ No verily: It becommeth not a Preacher of Truth to bee a Writer of Falshod in any degree: and therefore I haue beene carefull to report nothing of 
+New-England
+ but what I haue partly seene with mine owne Eyes, and partly heard and inqui∣red from the mouths of verie honest and religious persons, who by liuing in the Coun∣trey a good space of time haue had experience and knowledge of the state thereof, & whose testimonies I doe beleeue as my selfe.
+
+
+First therefore of the Earth of 
+New-England
+ and all the appertenances thereof: It is a Land of diuers and sundry sorts all about 
+Masathu∣lets
+ Bay, and at 
+Charles
+ Riuer is as fat blacke Earth as can be seene any where: and in other places you haue a clay soyle, in other grauell, in other sand
+s it is all about our Plantation at 
+Salem,
+ for so our Towne is now named, 
+Psal.
+ 76.2.
+
+
+The forme of the Earth here in the super∣ficies of it is neither too flat in the plainnesse; nor too high in Hils, but partakes of both in a mediocritie, and fit for Pasture, or for Plow or Meddow ground, as Men please to employ it: though all the Countrey bee as it were a thicke Wood for the generall, yet in diuers places there is much ground cleared by the 
+Indians,
+ and especially about the Plantation:
+
+
+and I am told that about three miles from vs a Man may stand on a little hilly place and see diuers thousands of acres of ground as good as need to be, and not a Tree in the same. It is thought here is good Clay to make Bricke and Tyles and Earthen-Pots as needs to bee. At this instant we are setting a Bricke-Kill on worke to make Brickes and Tiles for the building of our Houses. For Stone, here is plentie of Slates at the Ile of Slate in 
+Masa∣thulets
+ Bay, and Lime-stone, Free-stone, and Smooth-stone, and Iron-stone, and Marble-stone also in such store, that we haue great Rockes of it, and a Harbour hard by. Our Plantation is from thence called Marble-har∣bour.
+
+
+Of Minerals there hath yet beene but little triall made, yet we are not without great hope of being furnished in that Soyle.
+
+
+The fertilitie of the Soyle is to be admired at, as appeareth in the aboundance of Grasse that groweth euerie where both verie thicke, verie long, and verie high in diuers places: but it groweth verie wildly with a great stalke and a broad and ranker blade, because it neuer had been eaten with Cattle, nor mowed with a Sythe, and seldome trampled on by foot. It is scarce to be beleeued how our Kine and Goats, Horses and Hogges doe thriue and prosper here and like well of this Countrey.
+
+
+In our Plantation we haue already a quart of Milke for a penny: but the aboundant en∣crease of Corne proues this Countrey to bee
+
+
+a wonderment. Thirtie, fortie, fiftie, sixtie are ordinarie here: yea 
+Iosephs
+ encrease in 
+Aegypt
+ is out-stript here with vs. Our planters hope to haue more then a hundred fould this yere: and all this while I am within compasse; what will you say of two hundred fould and vp∣wards? It is almost incredible what great gaine some of our English Planters haue had by our Indian Corne. Credible persons haue assured me, and the partie himselfe auouched the truth of it to me, that of the setting of 13 Gallons of Corne hee hath had encrease of it 52 Hogsheads, euery Hogshead holding seuen Bushels of 
+London
+ measure, and euery Bushell was by him sold and trusted to the 
+Indians
+ for so much Beauer as was worth 18 shillings; and so of this 13 Gallons of Corne which was worth 6 shillings & pence, he made about 327 pounds of it the yeere following, as by recko∣ning will appeare: where you may see how God blessed husbandry in this Land. There is not such great and plentifull eares of Corne I suppose any where else to bee found but in this Countrey: being also of varietie of co∣lours, as red, blew and yellow, &c. and of one Corne there springeth foure or fiue hundred. I haue sent you many Eares of diuers colours that you might see the truth of it.
+
+
+Little Children here by setting of Corne may earne much more then their owne main∣tenance.
+
+
+They haue tryed our 
+English
+ Corne at new 
+Plimouth
+ Plantation, so that all our seuerall
+
+
+Graines will grow here verie well, and haue a fitting Soyle for their nature.
+
+
+Our Gouernour hath store of greene Pease growing in his Garden as good as euer I eat in 
+England
+▪
+
+
+This Countrey aboundeth naturally with store of Roots of great varietie and good to eat. Our Turnips, Parsnips and Carrots are here both bigger and sweeter then is ordina∣rily to be found in 
+England.
+ Here are also store of Pumpions, Cowcombers, and other things of that nature which I know not. Also, diuers excellent Pot-herbs grow abundantly among the Grasse, as Strawberrie leaues in all places of the Countrey, and plentie of Strawberries in their time, and Penyroyall, Wintersauerie, Sorrell, Brookelime, Liuerwort, Caruell and Watereresses, also Leekes and Onions are or∣dinarie, and diuers Physicall Herbes. Here are also aboundance of other sweet Herbes de∣lightfull to the smell, whose names we know not, &c. and plentie of single Damaske Roses verie sweet; and two kinds of Herbes that beare two kinds of Flowers very sweet, which they say, are as good to make Cordage or Cloath as any Hempe or Flaxe we haue.
+
+
+Excellent Vines are here vp and downe in the Woods. Our Gouernour hath already planted a Vineyard with great hope of en∣crease.
+
+
+Also, Mulberries, Plums, Raspherries, Cor∣rance, Chesnuts, Filberds, Walnuts, Smalnuts, Hurtleberies & Hawes of Whitethorne neere
+
+
+as good as our Cherries in 
+England,
+ they grow in plentie here.
+
+
+For Wood there is no better in the World I thinke, here being foure sorts of Oke diffe∣ring both in the Lease, Timber, and Colour, all excellent good. There is also good Ash, Elme, Willow, Birch, Beech, Saxafras, Iuniper Ciprus, Cedar, Spruce, Pines & Firre that will yeeld abundance of Turpentine, Pitch, Tarie, Masts and other materials for building both of Ships and Houses. Also here are store of Sumacke Trees, they are good for dying and tanning of Leather, likewise such Trees yeeld a precious Gum called White Beniamen, that they say is excellent for perfumes. Also here be diuers Roots and Berries wherewith the 
+Indians
+ dye excellent holding colours that no raine nor washing can alter. Also, wee haue materials to make Sope-Ashes and Salt-Peter in aboundance.
+
+
+For Beasts there are some Beare
+, and they say some Lyons also; for they haue been seen at Cape 
+A
+e.
+ Also here are seuerall sorts of Deere, some whereof bring three or foure young ones at once, which is not ordinarie in 
+England
+▪ Also Wolues, Foxes, Beauers, Ot∣ters, Martins, great wild Cats, & a great Beast called a Molke as bigge as an Oxe. I haue seen the Skins of all these Beasts since I came to this Plantation excepting Lyons. Also here are great store of Squerrels, some greater, and some smaller and lesser: there are some of the lesser sort, they tell me, that by a certaine Skin
+
+
+will fly from Tree to Tree though they stand farre distant.
+
+
+
+
+Of the waters of 
+New-England
+ with the things belonging to the same.
+
+
+NEw-England
+ hath Water enough both salt and fresh, the greatest Sea in the World, the 
+Atlanticke
+ Sea runs all along the Coast thereof. There are abundance of Ilands along the Shore, some full of Wood and Mast to feed Swine; and others cleere of Wood, and fruitfull to beare Corne. Also we haue store of excellent harbours for Ships, as at Cape 
+Anne,
+ and at 
+Masathulets
+ Bay, and at 
+Salem,
+ and at many other places: and they are the better because for Strangers there is a ve∣rie difficult and dangerous passage into them, but vnto such as are well acquainted with them, they are easie and safe enough. The aboundance of Sea. Fish are almost beyond beleeuing, and sure I should scarce haue belee∣ued it except I had seene it with mine owne Eyes. I saw great store of Whales, and Crampusse, and such aboundance of Make∣rils that it would astonish one to behold, like∣wise Cod-Fish aboundance on the Coast, and in their season are plentifully taken. There is a Fish called a Basse, a most sweet & wholesome Fish as euer I did eat, it is altogether as good as our fresh Sammon; and the season of their comming was begun when wee came first to 
+New-England
+ in 
+Iune,
+ and so continued about
+
+
+three 
+ space. Of this Fish our Fishers take many hundreds together, which I haue seene lying on the shore to my admiration; yea their N
+ts ordinarily take more then they are able to 
+ale to Land, and for want of Boats and Men they are constrained to let a many goe after they haue taken them, and yet sometimes they fill two Boats at a time with them. And besides Basse wee take plentie of Sca
+e and Thornbacke, and abundance of Lobsters, and the least Boy in the Plantation may both catch and eat what he will of them. For my owne part I was soone cloyed with them, they were so great, and far, and lussious. I haue seene some my selfe that haue weighed 16 pound, but others haue had diuers times so great Lobsters as haue weighed 25 pound, as they assure me. Also here is abundance of Herring, Turbut, Sturgion, Cuskes, Hadocks, Mullets, Eeles, Crabs, Muskles and Oysters. Beside there is probability that the Countrey is of an excellent temper for the making of Sa
+ for since our comming our Fishermen haue brought home verie good Salt which they found candied by the standing of the Sea water and the heat of the Sunne, vpon a Rock by the Sea shore: and in diuers Salt Marishes that some haue gone through, they haue found some Salt in some places crushing vn∣der their Feet and cleauing to their Shooes.
+
+
+And as for fresh Water the Countrey is full of daintie Springs, and some great Riuers, and some lesser Brookes; and at 
+Masathulets
+ Bay
+
+
+they digged Wels and found Water at three Foot deepe in most places: and neere 
+Salem
+ they haue as fine cleare Water as wee can de∣sire, and we may digge Wels and finde Water where we list.
+
+
+Thus wee see both Land and Sea abound with store of blessings for the comfortable sustenance of Mans life in 
+New-England.
+
+
+
+
+
+
+Of the Aire of 
+New-England
+ with the Temper and Creatures in it.
+
+
+THe Temper of the Aire of 
+New-England
+ is one speciall thing that commends this place. Experience doth manifest that there is hardly a more healthfull place to be found in the World that agreeth better with our En∣glish Bodyes. Many that haue beene weake and sickly in old 
+England,
+ by comming hither haue beene thoroughly healed and growne healthfull and strong. For here is an extraor∣dinarie cleere and dry Aire that is of a most healing nature to all such as are of a Cold, Melancholy, Flegmatick, Reumaticke temper of body. None can more truly speake hereof by their owne experience then my selfe. My Friends that knew me can well tell how verie sickly I haue been and continually in Physick, being much troubled with a tormenting paine through an extraordinarie weaknesse of my Stomacke, and aboundance of Melancholike humors; but since I came hither on this Voy∣age, I thanke God I haue had perfect health,
+
+
+and freed from paine and vomitings, hauing a Stomacke to digest the hardest and coursest fare, who before could not eat finest meat; and whereas my Stomacke could onely digest and did require such drinke as was both strong and stale, now I can and doe often times drink 
+New-England
+ water verie well, and I that haue not gone without a Cap for many yeeres to∣gether, neither durst leaue off the same, haue now cast away my Cap, and doe weare none at all in the day time: and whereas before∣time I cloathed my selfe with double cloathes and thicke Wastcoats to keepe me warme, euen in the Summer time, I doe now goe as thin clad as any, onely wearing a light Stuffe Cassocke vpon my Shirt and Stuffe Breeches of one thicknesse without Linings. Besides, I haue one of my Children that was formerly most lamentably handled with sore breaking out of both his hands and feet of the Kings-Euill, but since he came hither he is verie well ouer he was, and there is hope of perfect re∣couerie shortly, euen by the verie wholesom∣nesse of the Aire, altering, digesting and dry∣ing vp the cold and crude humors of the Bo∣dy: and therefore I thinke it is a wise course for all cold complections to come to take Phy∣sicke in 
+New-England:
+ for a sup of 
+New-Eng∣lands
+ Aire is better then a whole draught of old 
+Englands
+ Ale.
+
+
+In the Summer time in the midst of 
+Iuly
+ and 
+August,
+ it is a good deale hotter then in old 
+England
+: and in Winter, 
+Ianuary
+ and 
+February
+
+
+
+are much colder as they say: but the Spring and Autumne are of a middle temper.
+
+
+Fowles of the Aire are plentifull here, and of all sorts as we haue in 
+England
+ as farre as I can learne, and a great many of strange Fowles which we know not. Whilst I was writing these things, one of our Men brought home an Eagle which he had killed in the Wood: they say they are good meat. Also here are many kinds of excellent Hawkes, both Sea Hawkes and Land Hawkes: and my selfe walking in the Woods with another in company, sprung a Partridge so bigge that through the heauinesse of his Body could fly but a little way: they that haue killed them, say they are as bigge as our Hens. Here are likewise aboundance of Turkies often killed in the Woods, farre greater than our English Turkies, and exceeding fat, sweet and fleshy, for here they haue aboundance of feeding all the yeere long, as Strawberries, in Summer all places are full of them, and all manner of Ber∣ries and Fruits. In the Winter time I haue seene Flockes of Pidgeons, and haue eaten of them: they doe flye from Tree to Tree as other Birds doe, which our Pidgeons will not do in 
+England
+: they are of all colours as ours are: but their wings and tayles are farr longer, and therefore it is likely they fly swifter to escape the terrible Hawkes in this Countrey. In Winter time this Countrey doth abound with wilde Geese, wild Ducks, and other Sea Fowle, that a great part of winter the Planters
+
+
+haue eaten nothing but roastmeat of diuers Fowles which they haue killed.
+
+
+Thus you haue heard of the Earth, Water and Aire of 
+New-England,
+ now it may bee you expect something to bee said of the Fire proportionable to the rest of the Elements.
+
+
+Indeed I thinke 
+New-England
+ may boast of this Element more then of all the rest: for though it bee heresomewhat cold in the win∣ter, yet here we haue plenty of Fire to warme vs, and that a great deale cheaper then they sel Billets and Faggots in 
+London
+: nay, all 
+Europe
+ is not able to afford to make so great Fire as 
+New-England.
+ A poore Seruant here that is to possesse but 50 Acres of Land, may afford to giue more wood for Timber & Fire as good as the world yeelds, then many Noble men in 
+England
+ can afford to do. Here is good liuing for those that loue good Fires. And although 
+New-England
+ haue no Tallow to make Can∣dles of, yet by the abundance of the Fish thereof, it can afford Oyle for Lampes. Yea our Pine-Trees that are the most plentifull of all wood, doth allow vs plenty of Candles, which are very vsefull in a House: and they are such Candles as the 
+Indians
+ commonly vse, hauing no other, and they are nothing else but the wood of the Pine Tree clouen in two little slices something thin, which are so full of the moysture of Turpentine and Pitch, that they burne as cleere as a Torch. I haue sent you some of them that you may see the experience of them.
+
+
+Thus of 
+New-Englands
+ commodities, now I will tell you of some discommodities that are here to be found.
+
+
+First, in the Summer season for these three months, 
+Iune, Iuly,
+ and 
+August,
+ we are troubled much with little Flyes called Musketoes, be∣ing the same they are troubled with in 
+Lin∣colneshiere
+ and the Fens: and they are nothing but Gnats, which except they bee smoked out of their houses are troublesome in the night season.
+
+
+Secondly, in the Winter season for two months space, the earth is commonly couered with Snow, which is accompanied with sharp biting Frosts, something more sharpe then is in old 
+England,
+ and therefore are forced to make great Fires.
+
+
+Thirdly, this Countrey being very full of Woods, and Wildernesses, doth also much abound with Snakes and Serpents of strange colours, and huge greatnesse: yea there are some Serpents called Rattle-snakes, that haue Rattles in their Tayles, that will not flye from a man as others will, but will flye vpon him and sting him so mortally, that hee will dye within a quarter of an houre after, except the partie stinged haue about him some of the root of an Hearbe called Snake weed to bite on, and then hee shall receiue no harme: but yet seldome fals it out that any hurt is done by these. About three yeeres since, an 
+Indian
+ was stung to death by one of them, but wee heard of none since that time.
+
+
+Fourthly and lastly, Here wants as yet the good company of honest Christians to bring with them Horses, Kine and Sheepe to make vse of this fruitfull Land: great pitty it is to see so much good ground for Corne and for Grasse as any is vnder the Heauens, to lye altogether vnoccupied, when so many honest Men and their Families in old 
+England
+ through the po∣pulousnesse thereof, do make very hard shift to liue one by the other.
+
+
+Now, thus you know what 
+New-England
+ is, as also with the commodities and discommo∣dities thereof: now I will shew you a little of the Inhabitants thereof, and their gouern∣ment.
+
+
+For their Gouernours they haue Kings, which they call 
+Saggamores,
+ some greater, and some lesser, according to the number of their Subiects.
+
+
+The greatest 
+Saggamores
+ about vs can not make aboue three hundred Men, and other lesse 
+Saggamores
+ haue not aboue fifteene Sub∣iects, and others neere about vs but two.
+
+
+Their Subiects aboue twelue yeeres since were swept away by a great & grieuous Plague that was amongst them, so that there are verie few left to inhabite the Countrey.
+
+
+The 
+Indians
+ are not able to make vse of the one fourth part of the Land, neither haue they any setled places, as Townes to dwell in, nor any ground as they challenge for their owne possession, but change their habitation from place to place.
+
+
+For their Statures, they are a tall and strong limmed People, their colours are tawny, they goe naked, saue onely they are in part couered with Beasts Skins on one of their Shoulders, and weare something before their Priuities: their Haire is generally blacke, and cut before like our Gentlewomen, and one locke longer then the rest, much like to our Gentlemen, which fashion I thinke came from hence into 
+England.
+
+
+For their weapons, they haue Bowes and Arrowes, some of them headed with Bone, and some with Brasse: I haue sent you some of them for an example.
+
+
+The Men for the most part liue idlely, they doe nothing but hunt and fish: their wiues set their Corne and doe all their other worke. They haue little Houshold stuffe, as a Kettle, and some other Vessels like Trayes, Spoones, Dishes and Baskets.
+
+
+Their Houses are verie little and homely, be∣ing made with small Poles pricked into the ground, and so bended and fastned at the tops, and on the sides they are matted with Boughes, and couered on the Roofe with Sedge and old Mats▪ and for their beds that they take their rest on, they haue a Mat.
+
+
+They doe generally professe to like well of our comming and planting here; partly because there is abundance of ground that they cannot possesse nor make vse of, and partly because our being heere will bee a meanes both of reliefe to them when they want, and also a
+
+
+defence from their Enemies, wherewith (I said) before this Plantation begun, they were often indangered.
+
+
+For their Religion, they doe worship two Gods, a good God and an euill God: the good God they call 
+Tantum
+ and their euill God whom they feare will doe them hurt, they call 
+Squantum.
+
+
+For their dealing with vs, we neither feare them nor trust them, for fourtie of our Mus∣keteeres will driue fiue hundred of them out of the Field. We vse them kindly, they will come into our Horses sometimes by halfe a douzen or halfe a score at a time when we are at victuals, but will aske or take nothing but what we giue them.
+
+
+We purpose to learne their language as soone as we can, which will be a meanes to do them good.
+
+
+
+
+
+
+Of the present condition of the Plantation, and what it is.
+
+
+WHen we came first to 
+Nethum kek,
+ we found about halfe a score Houses, and a faire House newly built for the Gouerners, we found also aboundance of Corne planted by them, verie good and well liking. And we brought with vs about two hundred Passen∣gers and Planters more, which by common consent of the old Planters were all combi∣ned together into one Body Pol
+icke, vnder the same Gouernour.
+
+
+There are in all of vs both old and new Planters about three hundred, whereof two hundred of them are setled at 
+Nehum-kek,
+ now called 
+Salem
+: and the rest haue Planted them∣selues at 
+Masathulets
+ Bay, beginning to build a Towne there which we doe call 
+Cherton,
+ or 
+Charles
+ Towne.
+
+
+We that are setled at 
+Salem
+ make what haste we can to build Houses, so that within a short time we shall haue a faire Towne.
+
+
+We haue great Ordnance, wherewith we doubt not but we shall fortifie our selues in a short time to keepe out a potent Aduersarie. But that which is our greatest comfort, and meanes of defence aboue all other, is, that we haue here the true Religion and holy Ordi∣nances of Almightie God taught amongst vs: Thankes be to God, we haue here plentie of Preaching, and diligent Catechizing, with strickt and carefull exercise, and good and commendable orders to bring our People in∣to a Christian conuersation with whome we haue to doe withall. And thus we doubt not but God will be with vs, and 
+if God be with vs, who can be against vs
+?
+
+
+
+
+Here ends Master Higgesons Relation of New-England.
+
+
+
+
+
+
+
+
+
+
+
+
+A Letter sent from 
+New-England,
+ by Master 
+Graues,
+ Engynere now there Resident.
+
+
+T
+Hus much I can affirme in generall, that I neuer came in a more goodly Country in all my life, all things considered: if it hath not at any time beene manured and husbanded, yet it is very beautifull in open Lands, mixed with goodly woods, and againe open plaines, in some places fiue hundred Acres, some places more, some lesse, not much troublesome for to cleere for the Plough to goe in, no place barren, but on the tops of the Hils, the grasse & weedes grow vp to a mans face, in the Lowlands & by fresh Riuers aboundance of grasse and large Med∣dowes without any Tree or shrubbe to hinder the Sith: I neuer saw except in Hungaria, vnto which I alwayes paralell this countrie, in all our most respects, for every thing that is heere eyther sowne or planted prospereth farre better then in Old England: the increase of Corne is here farre beyond expectation, as I haue seene here by experience in Barly, the which because it is somuch aboue your conception I will not mention: And Cattell doe prosper very well, and those that are bredd heere farr greater then
+
+
+those with you in England. Vines doe grow heere plentifully laden with the biggest Grapes that ever I saw, some I haue seene foure inches about, so that I 
+m bold to say of this countrie, as it is commonly said in Germany of Hungari
+, that for Cattel, Corne, and Wine is excelleth. We haue many more hopefull commodities here in this countrie, the which time will teach to make good vse of: In the meane time wee abound with such things which next vnder God doe make vs subsist, as Fish, Foule, Deere, and sundrie sorts of fruites, as Musk-millions water-millions, Indian-Pompions, Indian Pease Beanes, & many other odde fruits that I cannot name, all which are made good and pleasant through this maine blessing of God, the health∣fulnesse of the countrie which farre exceedeth all parts that euer I haue beene in▪ It is obseru∣ed that few or none doe heere fall sicke, vnlesse of the Scuruy that they bring from aboard the Shippe with them, whereof I haue cured some of my Companie onely by labour. Thus ma∣king an end of an imperfect Description, and committing you to God, &c.
+
+
+
+
+
+
+
+
+A Catalogue of such needfull things as euery Planter doth or ought to prouide to go to 
+New-England
+; as namely for one man, which be∣ing doubled, may serue for as many as you please, 
+viz.
+
+
+
+
+Victuals for a whole yeere for a man, and so after the rate for more.
+
+
+8
+ BVshels of meale.
+
+
+2
+ Bushels of pease
+
+
+2
+ Bushels of Otemeale.
+
+
+1
+ Gallon of Aquavitae.
+
+
+1
+ Gallon of Oyle.
+
+
+2
+ Gallons of Vineger.
+
+
+1
+ Firkin of Butter.
+
+
+
+
+
+
+Apparell.
+
+
+1
+ Monmoth Cap.
+
+
+3
+ Falling bands.
+
+
+3
+ Shirts.
+
+
+1
+ Wast-coat.
+
+
+1
+ Suit of Canuase.
+
+
+1
+ Suit of Frize.
+
+
+1
+ Suit of Cloth.
+
+
+3
+ Paire of Stockings.
+
+
+4
+ Paire of Shooes.
+
+
+2
+ Paire of Sheets.
+
+
+7
+ Ells of Canuas to make a bed and boulster.
+
+
+1
+ Paire of Blankets.
+
+
+1
+ Course Rug.
+
+
+
+
+
+
+Armes.
+
+
+1
+ Armor compleat.
+
+
+1
+ Long peece.
+
+
+1
+ Sword.
+
+
+1
+ Belt.
+
+
+1
+ Bandilier.
+
+
+20
+ Pound of powder.
+
+
+60
+ Pound of Lead.
+
+
+1
+ Pistoll and Goose shot.
+
+
+
+
+
+
+Tooles.
+
+
+1
+ Broad Howe
+
+
+1
+ Narrow Howe.
+
+
+1
+ Broad Axe.
+
+
+1
+ Felling Axe.
+
+
+1
+ Steele Handsawe.
+
+
+1
+ Whipsawe
+
+
+1
+ Hammer.
+
+
+1
+ Shouell.
+
+
+1
+ Spade.
+
+
+2
+ Aug
+es.
+
+
+4
+ Chissels.
+
+
+2
+ Percers stocked.
+
+
+1
+ Gimblet.
+
+
+1
+ Hatchet.
+
+
+2
+ Frowes.
+
+
+1
+ Hand-Bill.
+
+
+1
+ Grindstone.
+
+
+1
+ Pickaxe.
+
+
+Nayles of all sorts.
+
+
+
+
+
+
+Houshold imple∣ments.
+
+
+1
+ Iron pot.
+
+
+1
+ Kettell.
+
+
+1
+ Frying pan.
+
+
+1
+ Gridiron.
+
+
+2
+ Skellets.
+
+
+1
+ Spit.
+
+
+Woodden Platers.
+
+
+Dishes.
+
+
+Spoones.
+
+
+Trenchers.
+
+
+
+
+
+
+Spices.
+
+
+Sugar.
+
+
+Pepper.
+
+
+Cloues.
+
+
+Mace.
+
+
+Cinnamon.
+
+
+Nutmegs.
+
+
+Fruit.
+
+
+
+
+Also there are diuers other things neces∣sary to be taken ouer to this Plantation, as Bookes, Nets, Hookes and Lines, Cheese, Bacon, Kine, Goats, &c.
+
+
+
+
+
+
+
+
+The names of the most remarkable places in 
+New-England.
+
+
+
+
+
+
+The old names.
+
+
+The new names.
+
+
+
+
+
+
+Cape
+ Cod.
+
+
+Cape
+ Iames.
+
+
+
+
+
+
+The Harbor of Cape
+ Cod.
+
+
+Milford 
+Hauen.
+
+
+
+
+
+
+Chawum.
+
+
+Barwick.
+
+
+
+
+
+
+Accomack.
+
+
+Plimouth.
+
+
+
+
+
+
+Sagoquas.
+
+
+Oxford.
+
+
+
+
+
+
+Massachusets 
+Mount.
+
+
+Cheuit 
+Hils.
+
+
+
+
+
+
+Massachusits 
+Riuer.
+
+
+Charles 
+Riuer.
+
+
+
+
+
+
+Totan.
+
+
+Famouth.
+
+
+
+
+
+
+A great Bay by Cape
+ Anne.
+
+
+Bristow.
+
+
+
+
+
+
+Cape
+ Tragabig sanda.
+
+
+Cape
+ Anne.
+
+
+
+
+
+
+Naemback.
+
+
+Bastable, 
+so named by King
+ Charles: 
+But by the new Planters now called
+ Salem.
+
+
+
+
+
+
+Aggawom.
+
+
+Southampton.
+
+
+
+
+
+
+Smiths 
+Iles.
+
+
+Smiths 
+Iles.
+
+
+
+
+
+
+Passataquack.
+
+
+Hull.
+
+
+
+
+
+
+Accominticus.
+
+
+Boston.
+
+
+
+
+
+
+Sassanows 
+Mount.
+
+
+Snowdon 
+hill.
+
+
+
+
+
+
+Sow
+catuck.
+
+
+Ipswich.
+
+
+
+
+
+
+Bahanna.
+
+
+Dartmouth.
+
+
+
+
+
+
+A good Harbor with∣in that Bay.
+
+
+Sandwich.
+
+
+
+
+
+
+Ancociscos 
+Mount.
+
+
+Shuters 
+hill.
+
+
+
+
+
+
+Ancocisco.
+
+
+The
+ Base.
+
+
+
+
+
+
+Anmoughcawgen.
+
+
+Cambridge.
+
+
+
+
+
+
+Kenebecka.
+
+
+Edenborow.
+
+
+
+
+
+
+Sagadahock.
+
+
+Leth.
+
+
+
+
+
+
+Pemmayquid.
+
+
+S. Iohns 
+towne.
+
+
+
+
+
+
+Segocket.
+
+
+Norwich.
+
+
+
+
+
+
+Mecadacut.
+
+
+Dunbarton.
+
+
+
+
+
+
+Pennobscot.
+
+
+Aberden.
+
+
+
+
+
+
+Nusket.
+
+
+Low mounds,
+
+
+
+
+
+
+Monahigan.
+
+
+Barties 
+Iles.
+
+
+
+
+
+
+Matinack.
+
+
+Willowbies 
+Iles.
+
+
+
+
+
+
+Metinacus.
+
+
+Haughtons 
+Iles.
+
+
+
+
+
+
+But whosoeuer desireth to know as much as yet can be discouered, I aduise them to buy Captaine
+ Iohn Smiths 
+booke of the descrip∣tion of
+ New England 
+in Folio; and reade from Fol. 203. to the end; and there let the Reader expect to haue full content.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

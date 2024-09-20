@@ -1,0 +1,183 @@
+A Letter from an officer belonging to the ordnance on board the fleet lying in the bay before the Isle of Man giving an account of the Duke of Schomberg's arrival and landing of the forces under his command at Carrick Fergus in Ireland.
+Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A48046
+
+
+
+
+Wing L1448
+
+
+
+ESTC R30962
+
+
+
+
+
+ocm 11748200
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A Letter from an officer belonging to the ordnance on board the fleet lying in the bay before the Isle of Man giving an account of the Duke of Schomberg's arrival and landing of the forces under his command at Carrick Fergus in Ireland.
+1 sheet ([2]) p.   
+
+
+London :
+
+
+Printed for Ric. Chiswell ...,
+
+
+MDCLXXXIX [1689]
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.
+Ireland --  History --  War of 1689-1691.
+2013-09
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Colm MacCrossan
+Sampled and proofread
+2013-10
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+L1448
+
+
+R30962
+
+
+11748200
+
+
+48555
+
+
+
+
+
+
+
+
+
+
+
+
+A LETTER FROM AN OFFICER Belonging to the ORDNANCE On BOARD the FLEET Lying in the BAY before the ISLE of 
+MAN,
+ Giving an ACCOUNT of the Duke of 
+Schom∣berg
+'s Arrival and Landing of the FORCES under his Command at 
+Carrick Fergus
+ IN IRELAND.
+
+
+From the ISLE of
+ MAN August 15th.
+
+
+YEsterday seven Night, we arrived at the Camp that was formed near 
+Highlake
+ in Order to be Transported for 
+Ireland,
+ and last 
+Saturday
+ we shipt our Stores and Pro∣visions that we brought with us, as also two hundred and fifty draught Horses, belonging to our Train of Artillery; after which we went on Board our selves. On 
+Monday
+ mor∣ning very early the Duke of 
+Schomberg
+ our General, with Lieu∣tenant General 
+Solmes,
+ set Sail, having embarqued two days before, the Wind being fair at East, with four Frigats, and
+
+about seventy or eighty Sail of other Ships, on board which there were about twelve hundred Land Souldiers for the Irish Expedition; having given Orders that the Vessels on which the Artillery, Provisions and Victuals were shipp'd, should make what haste they could after them under the Convoy of three Frigates, that were left to accompany us, and joyn him in this Bay; about eight of the Clock that morning, which was some hours after the General had been under sail, we set sail, and the Wind continuing fair, we came on 
+Tuesday
+ mor∣ning to an Anchor in this place, being about forty and four sail in all; it was no small surprise to us, that after we had safely, and with what haste we could come to the place of Rende∣vouz to find no tidings of our General, nor meet with any Orders from him, there being no body left to direct us what we should do, or what Course we should steer; however we were resolved to stay until we heard from his Grace, which we had the good luck to do this Morning by the 
+Antelope
+ Frigat, who sail'd out of 
+Highlake
+ with the General, and brought us Orders from his Excellency to sail with all possible speed from hence, and to come and joyn him in the 
+Lough
+ of 
+Car∣rick Fergus,
+ where the Captain said he had left him, landing the Forces in the Country on 
+Antrim-side.
+
+
+The Captain tells us, that the General having fair wind did not think it needful to put in and come to Anchor in this Place being resolv'd to make the best of it, and proceed on his way, and farther tells us that the Town of 
+Carrick Fergus
+ was not all burnt down, but only some Fort, or Castle that was on a Rock that was blown up. Thus Major General 
+Macarty
+ was certainly wounded and taken Prisoner by the 
+Inneskilling
+ Men who had given a very great defeat to the Irish Army, as they were endeavouring to retire from the North, after the Relief of 
+London Derry,
+ and that it was credibly reported in those Parts, that there was hardly a Body of five hundred Irish together in all the North Counties of that Kingdom.
+
+
+
+
+
+
+
+
+
+
+LICENSED 
+
+
+August
+ th 19.
+
+
+J. Fraser.
+
+
+
+
+
+
+LONDON
+ Printed for 
+Ric. Chiswell.
+ at the 
+Rose
+ and 
+Crown
+ in St. 
+Paul's Church Yard.
+ MDCLXXXIX.
+
+
+
+
+
+
+
+
+

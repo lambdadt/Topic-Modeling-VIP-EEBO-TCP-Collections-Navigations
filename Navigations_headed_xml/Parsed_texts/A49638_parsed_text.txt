@@ -1,0 +1,285 @@
+The last nevves from Ireland being a relation of the hostile and bloody proceedings of the rebellious papists there at this present vvherein is declared the many, great and cruell outrages committed by them both with fire and sword against the Protestants in severall parts of that kingdome : also the names of the townes and castles, they have suprized,  taken the burnt : with a full discoverie of thier trayterous and wicked intentions : related in a letter and dated at Dublin, October 27, 1641, and read in Parliament here, Novemb. 5, 1641.
+Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2014-11 (EEBO-TCP Phase 2).
+A49638
+
+
+
+
+Wing L492
+
+
+
+ESTC R1510
+
+
+
+
+
+ocm 12773791
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+The last nevves from Ireland being a relation of the hostile and bloody proceedings of the rebellious papists there at this present vvherein is declared the many, great and cruell outrages committed by them both with fire and sword against the Protestants in severall parts of that kingdome : also the names of the townes and castles, they have suprized,  taken the burnt : with a full discoverie of thier trayterous and wicked intentions : related in a letter and dated at Dublin, October 27, 1641, and read in Parliament here, Novemb. 5, 1641.
+[7] p.   
+
+
+London :
+
+
+Printed for John Thomas,
+
+
+1641.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Ireland --  History --  Rebellion of 1641.
+2013-09
+TCP
+Assigned for keying and markup
+2013-09
+SPi Global
+Keyed and coded from ProQuest page images
+2013-10
+Colm MacCrossan
+Sampled and proofread
+2013-10
+Colm MacCrossan
+Text and markup reviewed and edited
+2014-03
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+L492
+
+
+R1510
+
+
+12773791
+
+
+93712
+
+
+
+
+
+
+
+
+
+
+
+
+THE LAST NEVVES FROM IRELAND BEING A RELATION Of the Hostile and bloody proceedings of the Rebel∣lious Papists there, at this present. VVherein is declared the many, great, and cruell outrages committed by them, both with fire and Sword against the 
+Protestants,
+ in severall parts of that Kingdome. Also the names of the Townes and Ca∣stles, they have surprized, taken, and burnt. With a full Discoverie of their Trayterous and wicked intentions. Related in a Letter, and dated at 
+Dublin, October,
+ 27. 1641. And read in Parliament here, 
+Novemb.
+ 5, 1641.
+
+
+LONDON, Printed for JOHN THOMAS. 1641.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE Bloody Proceedings of the 
+Irish
+ Rebels, related in a Letter, dated at 
+Dub∣lin
+ the 27. of 
+Octob.
+ 1641.
+
+
+T
+Here was on Friday last a cruell plot of Treason discovered, as great as the Gun-powder Treason, my Lord 
+Matquers,
+ and divers others taken and imprisoned in the Castle of 
+Dublin,
+ my Lord 
+Len∣ricole
+ came to this Town on Munday night, and is suspected, he is privately layd for, They plotted to surprise the Castle of 
+Dublin
+ on Sunday last in the evening at Prayer time; and to have killed the War∣ders and possessed themselves of the Kings store, and then to have mastered the 
+English,
+ but God prevented their bloody intentions, the Rebels have done much hurt in the North parts of 
+Ireland,
+ they have burned 
+Armagh, Longnall,
+ the 
+Neuery,
+ and seeke to make a∣way my Lord 
+Marre,
+ but he escaped them to 
+Tre∣dath,
+ they have burned 
+Dundalke,
+ they Massacre the 
+English
+ in those parts, men, women, and children, my
+
+Lord 
+Blaney
+ fled to this Towne, but they have taken his Castles and all that belong to him, with his Lady and children, this City is all up in Armes, and all from 16. to 60. are warned to be in readinesse, there was two Merchants in 
+Christs Church-yard
+ killed by the Rebels, last Munday Mr. 
+Champion
+ and Mr. 
+Hayward.
+ I heare to day that the Lord 
+Burlasses
+ Troope will bring twelve of the Rebels that they have taken, The 
+Neuery
+ is taken and 
+Dundalke
+ is beaten downe, they have lately killed one Mr. 
+Iremonger,
+ Attorney of the Kings Bench, 
+Belterbat
+ is taken for certaine, all being inhabited with 
+English,
+ they yeelded upon composi∣tion, the Rebels are 5000 strong, whereof 2000 are armed with the Armes they tooke forth of the 
+Ne∣very.
+
+
+
+
+
+
+
+
+A True and perfect Relation how this bloody and damnable Conspiracy was first discovered.
+
+
+T
+He Execution of their bloody Tragedy inten∣ded against the Protestants, both in 
+Dublin,
+ and other parts of the Kingdome, should have bin on Saturday, but by Gods great mercy & good∣nesse, their Hellish and damnable intention was brought to light, being discovered on Friday night, by Sir 
+John Clotworthies
+ man, on Sunday after there was a great confusion in the City, where was joy mixt with sorrow, for our happy deliverance, yet were we much perplexed & trou∣bled with the feares and terrors of our approaching Enemies, expecting every moment, when the City should be surprised and taken, such is the greatnesse of our feares, that wee take no rest neither day nor night, these disloyall and wicked Re∣bels, have taken two Castles in the North parts of this King∣dome, besides two other Towns of great strength with much munition in it, and it is thought they still increase in great Multitudes, here is a Lord taken, and divers others of note, to the number of forty, all which are now in Prison, the Lords name is 
+Maguere,
+ these Papists or 
+Rebels
+ call it a Religious Warre, Ruine and Desolation they threaten to the poore Pro∣testants, for they are ten to one, throughout this Kingdome, so that unlesse the King and Parliament helpe and relieve us, we shall utterly be destroyed and roted out of the Land, GOD in his mercy looke upon us in these great straights and extremities, and deliver us out of the hands of these viperous and blood-thirsty people, who is sa∣tisfied with nothing but blood, they increase daily, commit∣ting most bloody and wicked outrages, their first intention
+
+was to murder the two chiefe Iustices, & all the Privy Coun∣sell that were Protestants, likewise to seaze upon all the Kings Ports, Castles, and Magazins whatsoever, and to murder all persons that should oppose them in their intentions and de∣signes.
+
+
+
+
+These are their pretences for the taking up of Armes.
+
+
+1. 
+To have their Crowne not to be dependant upon England, nor to be a conquered nation.
+
+
+2. 
+To have their Irish Lawes established, and such as should be made hereafter.
+
+
+3 
+To have free liberty of the exercise of Religion.
+
+
+
+
+The Lord Matquers is one of the chiefest amongst these Trayterous Rebels, and their intention was this.
+
+
+
+
+1. 
+To murther the English and Protestants in the Kingdome of Ireland.
+
+
+2. 
+To murder the
+ 2. 
+Lords chiefe Justices, & Pri∣vy Councell at Dublin.
+
+
+3. 
+To seaze upon all the Kings, Castles, Forts, and Magazins throughout all the Kingdome of Ireland.
+
+
+4. 
+The City and Castle of Dublin, First if they could get the Castle, they then would make the City yeeld presently, by shooting from the Castle the tops of the chin∣neys to affright them, but if that prevailed not, they would batter downe their houses about their eares, the Lord chiefe Justices and privy Councellors, sate in Con∣sultation all night, for the safe-guard and security of the City, and Castle of Dublin, and the next morning they apprehended many of these Traytors, together with the Lord Matquers, who the day before, had forsaken his Lodgings, and hid himselfe in a Garret, there were found at his Lodgings great store of skaines, Hammers
+
+and Hatchets without halves, the same day newes was brought to
+ Dublin, 
+that severall places and Forts was seized upon in
+ conno, 
+and
+ monno, 
+and in divers other places, many Villages plundered, whereupon
+ 500 
+horse and
+ 500 
+foote were raised to guard the city. and
+ 100 
+put into the Castle under the command of Sir
+ Fran∣cis Willoughby, 
+for the defence and safety of the Castle.
+
+
+
+
+This Conspiracy was first revealed to Sir 
+John Bur∣lacy,
+ and other Justices of the Peace, by one who was servant to Sir 
+John Clotworthy
+ an Irish Knight, and a Parliament man.
+
+
+It is reported that some of these Rebels confessed they were to have an Army of 7000 men from seve∣rall parts of Ireland, which should be all Papists and Jesuites, and to surprise all the fortes and Castles a∣bout 
+Dublin,
+ and to cut the throates of the chiefest Noble-men, Gentry, and others of this Kingdome that then were present.
+
+
+The City of 
+Dublin
+ and the Townes and Castles adjoyning is in very great danger, they are gathered to a strong head, still approaching neerer unto it, ta∣king Townes and Castles in severall Provinces where they fall, plundering all places they come into, the Murders and out-rages daily committed by them, is great and intolerable, the Tyrannicall power they ex∣ercise upon the poore 
+Protestants,
+ not to be parral∣lel'd, amongst Pagans or Infidels, so farre doe these bloody Miscreants degenerate from the name of Chri∣stians; Thus much have I thought good to informe you of the miserable estate and condition of this Kingdome at this present.
+
+
+FINIS.
+
+
+
+
+
+
+
+
+

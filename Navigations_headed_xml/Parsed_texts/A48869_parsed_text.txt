@@ -1,0 +1,1969 @@
+A short relation of the river Nile of its sourse and current, of its overflowing the Campagnia of Ægypt, till it runs into the Mediterranean, and of other curiosities / written by an eye-witnesse, who lived many years in the chief kingdoms of the Abyssine empire.
+Itinerário. English. Selections
+Lobo, Jerónimo, 1596?-1678.
+Approx. 99 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2011-04 (EEBO-TCP Phase 2).
+A48869
+
+
+
+
+Wing L2733
+
+
+
+ESTC R12438
+
+
+
+
+
+ocm 12254599
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+A short relation of the river Nile of its sourse and current, of its overflowing the Campagnia of Ægypt, till it runs into the Mediterranean, and of other curiosities / written by an eye-witnesse, who lived many years in the chief kingdoms of the Abyssine empire.
+Itinerário. English. Selections
+Lobo, Jerónimo, 1596?-1678.
+Wyche, Peter, Sir, 1628-1699?
+[8], 105 p.   
+
+
+London :
+
+
+Printed for John Martyn ...,
+
+
+1669.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Date palm --  Early works to 1800.
+Animals, Mythical --  Early works to 1800.
+Prester John (Legendary character)
+Africa --  Description and travel.
+Nile River.
+Red Sea --  Description and travel.
+2009-11
+TCP
+Assigned for keying and markup
+2009-12
+SPi Global
+Keyed and coded from ProQuest page images
+2010-01
+Kayla Ondracek
+Sampled and proofread
+2010-01
+Kayla Ondracek
+Text and markup reviewed and edited
+2010-04
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+L2733
+
+
+12254599
+
+
+57309
+
+
+
+
+
+
+
+
+
+
+
+
+Novemb. 1668.
+At a meeting of the Council of the Royal Society of
+ London 
+for Improving Na∣tural Knowledg.
+
+
+Ordered
+
+
+That these Discourses, 
+viz.
+ A short Relation of the River 
+Nile,
+ &c. Of the 
+Unicorne;
+ Why the 
+Abys∣sine
+ Emperour is called 
+Prester John
+ of the 
+Indyes;
+ A tract of the Red Sea. Of Palme trees, Transla∣ted out of a Portuguese Manuscript at the desire of the Royal Society, by 
+Sr. Peter Wyche K
+t
+.
+ fellow of the same, be printed by their Prin∣ter.
+
+
+BROUNKER
+ Pres.
+
+
+
+
+
+
+
+
+A short RELATION Of the RIVER NILE, Of its Sourse and Current; 
+Of its Overflowing the
+ Cam∣pagnia 
+of
+ AEGYPT, 
+till it runs into the
+ MEDITERRANEAN: And of other Curiosities:
+
+
+Written by an Eye-witnesse, who lived many years in the chief Kingdoms of the
+ ABYSSINE EMPIRE.
+
+
+LONDON,
+ Printed for 
+John Martyn,
+ Printer to the 
+Royal Society
+ and are to be Sold at the Sign of the 
+Bell
+ without 
+Temple Bar,
+ 1669.
+
+
+
+
+
+
+
+
+
+
+To the Right Honourable, HENRY L
+d.
+ ARLINGTON, one of the Lords of his MA∣JESTIES most Honourable Pri∣vie Councill; AND Principall Secretary of State.
+
+
+My Lord,
+
+
+THE thoughtfull provision for my Journey, into 
+Russia
+ (whither his Ma∣jesty hath been pleased to
+
+send me) hindered me from a more solemne Dedication of these Discourses to Your Lordship: They were by Curious 
+S
+ir
+ Robert South∣well
+ procured from an in∣quisitive and observing Je∣suite at 
+Lisbon,
+ who had lived many years in 
+Aethi∣opia
+ and the 
+Indies;
+ so writ as to seem a candid Relation of matter of Fact, contai
+ a more precize and minut
+ account of some Historica
+ and Naturall Curiosities then is in any one Tract ex∣tant,
+
+and give the 
+Portu∣guese
+ their just and undoubt∣ed Title of Discovering dai∣ly to the 
+West,
+ the Won∣ders and Mysteries of the 
+East.
+ The 
+Royal Society
+ commanded me to Translate them, and ordered the Im∣pression. My Lord, Your benigne and encouraging Pa∣tronage, for all subtile and nice Enquiries; Your pecu∣liar province to get intelli∣gence from the 
+South,
+ and my particular obligations, countenance this Dedication,
+
+which (were I not in 
+pro∣cinctu
+) the copious argu∣ment of Your Lordships vir∣tues and perfections, would justly make much larger; now it must only excuse the faults of the Translation, and pub∣lish my zeal of being esteem∣ed,
+
+
+My Lord,
+ 
+Your Lordships most devoted Kinsman, and humble Servant; Peter Wyche
+
+
+
+
+
+
+
+
+
+
+
+
+A short Relation Of the RIVER NILE, &c.
+
+
+THe 
+Abyssine
+ Emperour (vul∣garly, though falsly called 
+Presbyter John
+ of the 
+Indies
+) is Lord of the most ancient and largest Dominions of those many Kingdoms and Provinces into which 
+Africa
+ is divided: This Em∣pire,
+
+is the most Easterly part of all 
+Africa,
+ called 
+Ethiopia
+ above 
+E∣gypt,
+ not without reason, all 
+Egypt
+ lying below it, and the same Situ∣ation have to it most of the bor∣dering Kingdoms.
+
+
+The 
+Red Sea
+ bounds it on the East, 
+Egypt
+ on the North; On the West, the 
+Island
+ of 
+Africa,
+ and on the South, the 
+Indian-Sea;
+ with this difference, that Eastward this Kingdom reacheth the 
+Red Sea,
+ though at present the 
+Turks
+ cour∣taile its greatnesse, by keeping the whole Shore of that Sea with two 
+Forts
+ in the 
+Islands
+ of 
+Suaguem
+ and 
+Massuba
+ and one upon the main Land called 
+Arquico,
+ which serves for no other use, than the defence of the Water drunck in the 
+Island
+ of 
+Massuba,
+ drawn out of Wells called 
+Cacimbas
+ sunk near the head of a River, dry in the summer, full in the Winter, fetch'd daily in Boats called 
+Geluas.
+
+
+
+
+The 
+Island
+ of 
+Massuba
+ and fort of 
+Arquico
+ are too leagues distant. This, the onely 
+Port
+ where is im∣ported what 
+Ethiopia
+ wants, and whence the natural Commodities are exported, that, in circuit about twelve hundred fathoms; shap'd like a mans foot, hath a conveni∣ent Haven, little or no defence, though Garison'd by near sixty 
+Turks,
+ white and black: The Customhouse is inhabited by the 
+Basha's
+ Lieutenant, (called 
+Caqua
+) and other Officers.
+
+
+The 
+Island
+ of 
+Suaguem
+ with the third Fort, is lesse, but better de∣fended by Art and Nature, incom∣passed with many Shoals, inhabi∣ted by an hundred 
+Turks;
+ being the residence of the 
+Basha
+ out of the limits of the Empire, and of natural right belonging to a pow∣erfull and warlike King, whose Kingdom is called 
+Ballow,
+ (anci∣ently 
+Negran
+) the Inhabitants are
+
+Moors, the Men, Horses and Sheep the fairest I have any where seen; the water-mellons the most delici∣ous I have ever tasted.
+
+
+Toward the North, between 
+Egypt
+ and this Empire lies the fa∣mous Desart of 
+Thebaide
+ so re∣nowned for the ancient 
+Ancorets,
+ where begins the Kingdom of 
+Bal∣low
+ above mentioned.
+
+
+This Empire reacheth West∣ward so far into the main Land that the Kingdom of 
+Congo
+ was its tributary, as the great Historian 
+John de Barros,
+ affirmed in his first decade: At present it extends not further than the Kingdom of 
+Naire
+ whose Inhabitants are neither 
+Abyssines
+ nor 
+Ethiopians,
+ yet not de∣fective in policy, garbe or govern∣ment: The soyle is rich in Gold∣mines of the same quality of those of 
+Sofalla,
+ lying under the same parallel and not far distant, they pay a Tax yearly tribute of their
+
+Gold to the 
+Abyssine
+ Emperour, the Coyne called 
+Miloqueas,
+ the value ten thousand pieces of Eight.
+
+
+The Greatnesse of this Empire is toward the South more re∣strain'd, there lying betwixt it and the Sea, divers Nations of Moors and Pagans, barbarous to extremi∣ty, which never did, nor do ac∣knowledg themselves Vassals to the Emperour, who live in tents like the mountanous 
+Africans.
+ The chief amongst them is elected every Eight year, with the Title of 
+Caraye Primeyro
+ afterwards cal∣led 
+Luba.
+ The Moors bordering on the Sea-coast have Kings, the greatest of them called 
+Macheda.
+
+
+This Empire anciently com∣manded many Kingdoms and Provinces, their own Annals and some Historians count above twenty, with almost as many Pro∣vinces: What at present passeth
+
+for current; is, that its Greatness was notorious, though now limi∣ted to five Kingdoms, each about the bigness of 
+Portugal,
+ and to six Provinces, every one little diffe∣rent from
+ 
+Beyra
+ or 
+Alenteyo.
+
+
+One of these, and among the biggest is called 
+Agaos;
+ the Inha∣bitants of the same name, whether these bestowed their Name, or took it, from the Province. This is divided into Diverse Territo∣ries, the most famous called 
+Tun∣cua,
+ deservedly glorious in two re∣spects, being the Country of the famous 
+Ʋnicorne
+ (of which I shall speak in this discourse, and onely now say tis not the 
+Abbada
+ (right∣ly taken by Authors for the 
+Rhino∣ceros,
+) being in shape, a quite dif∣ferent Animal) and having in it the so long sought for Head of 
+Nile,
+ concealed so many Age, dis∣covered by the industrious Portu∣guees.
+
+
+
+
+The higher part of this Pro∣vince is mountanous and woody, yet not without Vallyes and Groves of Cedars, for goodness and scent, not inferiour to those of Mount 
+Lebanus,
+ their thickness is a great inconvenience to Travel∣lers, but suites with the inclination of the native 
+Agoas,
+ who being professedly 
+Pagans
+ and so of little faith or loyalty, live commonly in Rebellion, thereto invited, not more by their own natural dispo∣sition than the convenience of certain caves, into which in time of warr they retire, these Caverns have but one entrance, are capa∣ble of one or two families, which are ordinarily great among the 
+Pagans
+ increased by their wives, multiplied proportionable to the Cows they keep, allowing to ten Cows one woman.
+
+
+What is most admirable in those subterraneous Caves or Ca∣verns
+
+is, that they receive not onely their Goods and Cattle (which are their whole Estates, personal and real, they living little on their crop) but they ordinari∣ly find in them water sufficient to serve them the summer months, when onely they are assaulted, and are without apprehensions of be∣ing conquered, though with smoak, by fire made at the mouth of the Cave, having Vents by which they receive sufficient light, and can conveigh the smoak, if attempted by fire.
+
+
+In this Territory of 
+Toncua
+ is the known head and sourse of the River 
+Nile,
+ by the natives called 
+Abani (i.e.)
+ the Father of Waters, from the great collection it makes in the Kingdoms and Provinces through which it passeth; for the greatest part of 
+Ethiopia
+ being mountanous, and the Torrents swel'd in the winter, the moun∣tains
+
+so transmit them as to increas the Rivers, which falling into the 
+Nile,
+ make no little addition to its greatness, causing it to run with such a stock of water as overflows the plain of 
+Egypt:
+ this is the Ri∣ver, the Scripture in, 
+Genesis.
+ 2. calleth 
+Gihon,
+ which encompassed the land of 
+Ethiopia,
+ so doth 
+Nile,
+ with its turnings and Meanders.
+
+
+The Head rises in the most plea∣sant Recesse of the Territory, ha∣ving two Springs, called 
+Eyes,
+ each about the bigness of a Coach-wheel, distant twenty paces: The 
+Pagan
+ Inhabitants adore as an I∣dol, the biggest, offering to it many Sacrifices of Cows which they kill there, flinging the head into the spring, eat the flesh as holy, lay the bones together in a place design∣ed for that purpose, which at pre∣sent make a considerable Hill, and would make it much bigger if carnivorous Beasts and Birds of
+
+Prey did not by picking them, les∣sen and scatter them.
+
+
+These two springs rise in a little field covered over with green and thick wood, Travellers, especially Horsemen are easily convinc'd that this ground stands in the wa∣ter, from the trembling and hol∣low sound, this field is lost in a Lake where 'tis un∣der water.
+ This Plain is on the top of a high mountain, over∣looking many spaci∣ous Vallies and from this hight insensibly descends; from the midle of this Descent is seen, near a Trench entangled with shrubs, the bigger of these springs whose bottom is not to be reached with a Lance of five and twenty palmes, which by the way meets with (as is gues'd) the roots
+
+of the Neighbouring shrubs, so hinder'd further passage; the o∣ther spring is to be fathom'd at six∣teen Palmes.
+
+
+From the biggest spring runs in a streight line a green and pleasant Wood seeming to follow the course of the water, which though under ground, leaves the veine to be track'd by its re-appearing at the distance of little more than an hundred paces, at this appearance the quantity of water is so incon∣siderable, as onely to make a very little Rivulet, which grows present∣ly bigger, by the assistance of o∣ther springs bringing in their wa∣ter. At little more than three dayes journey from the Head, the River is large, deep enough for Vessels to sail in, and so broad that I doubt whether a strong arm can throw a stone over it.
+
+
+A little above a hundred paces from this place, this River so con∣veys
+
+it self betwixt rocks, as in the year 1629. I passed it without wet∣ting my foot; in my journey from the Kingdom of 
+Gojama
+ to the Province of 
+Dambeha
+ when, the Passengers being many; and the Boats but few (which I will anon describe) I with my companions going along the banks of the Ri∣ver, and engaged among many little Rivulets, leaping from stone to stone, got dry to the other side; the same did immediately many others, naming it the Passage of Father 
+Jeronimo,
+ I being the first who discovered or attempted it.
+
+
+This is the ordinary passage o∣ver the 
+Nile
+ most frequented by Travellers, who come from the Court and Province of 
+Dambeha
+ for the Kingdom of 
+Gojama,
+ the Territory called 
+Bed,
+ the passage over in Boats with head and Sterne, made of grosse and
+
+thick
+ matt, strong∣ly joyned and put to∣gether yet not secure from falling in pieces, which often happens and the Passengers left in the water; they are rowed with long round poles, being without the use or know∣ledge of any other Oars; are ca∣pable of receiving about ten per∣sons with some baggage, many swim over; so do all the beasts, and both man and beast go in danger of some mortall accident from the Sea-horses and Croco∣diles, both bred in the 
+Nile,
+ and infesting the passages.
+
+
+From this place the 
+Nile
+ grows crooked, making almost a semi∣circle: Two dayes journey from this passage it runs by a point of land into a Lake of fresh water called by the Natives 
+Dambeha,
+ abounding with wild-foul, some
+
+there is, but little fish, the reason conceived that the Sea-Horses fright, and the 
+Crocodiles
+ devour them, this Sea is in length twenty five leagues, fifteen over at the largest place, about the middle are divers 
+Islands
+ of different big∣nesse, full of Wood, some inhabit∣ed, others desart: The biggest called 
+Dec,
+ two leagues long, but narrow, hither are banished con∣demned persons sent for security, whereas the Boats not being ma∣ny, and pain of death to any who without leave go to the 
+Island,
+ all means of escape is desperate, swimming is lesse inviting, the Lake being full of Sea-horses and 
+Crocodiles,
+ which to meet is cer∣tain death.
+
+
+The point of this Lake is with so much violence broken by the 
+Nile,
+ that the current is divided in the water and Mud till it for∣ceth a passage at another place.
+
+The 
+Nile
+ is for about a quarter of a league detained in this Lake, leaving that, it makes a beautifull and large Tour, so great, as to contain in the circumference a Kingdome call'd 
+Gojama
+ about the bignesse of 
+Portugal,
+ and a great part of another call'd 
+Da∣motes.
+ By this circuit the 
+Nile
+ re∣turns again within lesse than two dayes journey of its head; hence taking a south east course run∣ning through many Kingdoms and Provinces, it falls into 
+Egypt,
+ by the way in diverse places are made those so canazing and stu∣pendious Cataracts, so famous for their noyse, when the water fal∣ling with its whole Body sinks and hollows the 
+Abysse
+ which receives it. Yet doth not the greatnesse of the noyse deafen the neighbour∣ing Inhabitants, as some fabulously write, if so, the populousnesse of the adjacent places would swarm
+
+with deaf multitudes, which hear the noyse and find not that effect. One of these Cataracts is emi∣nently remarkable, as will ap∣pear in the relation of what hath surpriz'd and allured many.
+
+
+At the first or second Cataract the 
+Nile
+ makes; The water from an high and craggy rock is praec∣pitated with all its masse into a large and deep 
+Abysse,
+ the noyse heard three long leagues, and th
+ rebound, (which spends it self i
+ minute atomes and subtile smoak seen as farr. The water to adm
+∣ration being shot with so muc
+ Violence as to fall at a distanc
+ makes an arch, and under that leaves a larg Road where peopl
+ passe, in security not to be we
+ There are convenient seats cu
+ out in the Rock for Travellers 
+ rest themselves, where they enjo
+ the most pleasant sight Imagin
+∣tion can fancy, made by the su
+
+
+reflection on the water, so produ∣cing glorious and pleasing Co∣lours, resembling those of the Rainbow, which at this nearnesse of the water, most deliciously sa∣tisfy and feast the Eye.
+
+
+The 
+Nile
+ was never under any Bridg, before we arrived in 
+E∣thiopia;
+ The first made in the Kingdom of 
+Amara,
+ where be∣twixt two high Rocks was a streight and dangerous passage: The 
+Nile
+ ran deep and violent be∣tween, all ran great hazzard, ma∣ny lost in the passage, the winter chiefly increased the difficulty; The 
+Abyssines
+ were incapable of removing this evil, ignorant what Bridges were, and without Work∣men to make them: The Emper∣or, informed what a Bridge was, how conveniently made in so nar∣row a Passage, and we having brought from 
+India,
+ in the Patri∣arks company, two stone-cutters,
+
+designed for building Churches in 
+Ethiopia,
+ One was recommend∣ed to this work, who made this first Bridg, of a beautifull stru∣cture and great convenience to Passengers: Thus was the 
+Nile
+ at first brought under a strange Do∣minion.
+
+
+This discourse is not improper∣ly ended, by a reflection why an∣ciently 
+Alexander
+ the Great and 
+Julius Caesar
+ using so great dili∣gence to discover the head of 
+Nile,
+ miscarried in the Enterprize: The reason was, because they sent discoverers against the stream: Thus going by Land, the length of the journey, the many King∣doms and Provinces to be travel∣led through, the swarms of Barba∣rous people to be incountred, so many unwholesom Clymates to be pass'd, made their advance im∣possible; going by water, the same difficulties increas'd, attend them:
+
+The violent Current of 
+Nile
+ stopt their passage, and coming to the first Cataract, they could not proceed, but were forced back with lost Labour; and being with∣out either knowledge of, or com∣merce with the 
+Abyssine
+ Empire by the Red sea, they neither ven∣tured that way, nor conceived their designe so feisible. Thus were their endeavours frustrated; the knowledg of this Province would, by some of the 
+Ports
+ of the Red sea, have brought them into the 
+Abyssine
+ Empire, thence two months journey had made them drink in this so desirable, so concealed, and so famous Spring. This secret, (with divers others of many parts of the world, and their discovery) was received for the indefatigable industry of the 
+Portuguees,
+ who have seen with their Eyes, what many have desi∣red, but could not obtaine.
+
+
+
+
+
+
+The true Cause of the River 
+Nile
+'s overflowing and drown∣ing the Campagnia of 
+Egypt
+ at the heighth of Summer in 
+Europe.
+
+
+DIvers causes were by the An∣cients assigned, for the 
+Nile's
+ overflowing in the hottest Sum∣mer months in 
+Europe,
+ according to the Opinion of the Writers, every one asserted what was in the reach of his reason, yet all wandred from the truth. The little knowledge had of the sourse and current of this so famous Ri∣ver, of the places it passeth through, and chiefly of the inland of 
+Ethiopia,
+ where it riseth, occasi∣oned such variety of Opinions, without the discovery of the truth reserved for the Navigation and Commerce of the 
+Portuguees.
+
+
+The great quantity of Snow,
+
+which falls in the rigour of Win∣ter on the inland mountains of 
+Ethiopia,
+ and is melted by the in∣tense heat of the Summer, is not, as some affirme, the cause of this Rivers overflowing; 
+Ethiopia
+ ha∣ving not so sharp colds as to be∣get Snow, unknown in this Coun∣try, nor conceivable from our re∣lation: Two Places onely have a thick white Frost, and Haile in great quantities, which resemble, but are not, Snow; One is in the Kingdom of 
+Tigre,
+ upon the high mountains of 
+Seman,
+ the other in the Kingdom of 
+Damotis,
+ in the Territory called 
+Namora
+ of the cold Climate, which melted, do superficially water the mountains, therefore mistaken for Snow, semetimes fall with a Current in∣to the low-lands, yet not so consi∣derably, as to swell the Rivers, much lesse to cause the innundati∣on of 
+Nile.
+
+
+
+
+Neither do the great Winds, which in those months of the overflowing of 
+Nile,
+ blow in at the mouth of the River, where it runs into the Mediterranean, cause this Innundation; as others assert, who say, those winds repell the water, which being detained, with the water which descends, increas∣eth to that Excesse, to force the 
+Nile
+ out of its Channel, and stagnate in the Plains of 
+Egypt,
+ so enriching and fatning the soyle, by the slyme brought from those places through which it passeth.
+
+
+Other reasons, of the same cre∣dit, given by Authors, I omitt, in hast to declare the true one, onely attainable by such who have lived some years in 
+Ethiopia.
+ The truth in short, is, that, the winter in 
+Ethiopia,
+ is the same and at the same time, as in 
+India,
+ and other places under the 
+Torrid Zone,
+ be∣ginning at the end of 
+May,
+ or the
+
+first days of 
+June,
+ and in all 
+August
+ (the reason of the fairest weather in 
+Europe
+) spends its greatest fury; the overflowing of 
+Nile,
+ being at the height in these months, the ig∣norance of Summers and Winters begat the Opinions mentioned: Whereas, the greatest part of 
+E∣thiopia
+ being mountanous, and the 
+Nile
+ in its course through many Kingdoms and Provinces of the Inland, collecting the Rain wa∣ters which fall from the Moun∣tains, and receiving into it many great Rivers, thus becomes so con∣siderable and masterlesse: As the plain of * 
+Egypt
+ experimentally and to its great benefit finds.
+ As much discountenanced by the Heavens, in being deprived of the common benefit of Rain, as mu∣nificently requited by the water of this famous River, which gave rise to the observation, That the 
+Egyptians
+ never lift up their Eyes
+
+to Heaven, never expect any fa∣vour from God Almighty, but wholly depend upon the 
+Nile;
+ thence receiving that benefit o∣ther places enjoy by Rain; those Verses of 
+Ovid,
+ may seem not Ap∣plicable to the 
+Egyptians.
+
+
+Os homini sublime dedit, coelum{que} videre
+
+
+Jussit, et erectos ad sydera tollere vultus
+
+
+The 
+Nile,
+ running into the Me∣diterranean, washeth the Walls of 
+Grand Cairo,
+ distant from the mouth fifty miles. This River de∣clareth by the way, the more or less abundance to be expected that year; The Harvest, propor∣tionable to the greater or less in∣undation, is thus concluded. The Walls of this populous City have to ward the Ri∣ver
+ a Tower open with an Arch giving passage to the 
+Nile,
+
+
+which according to the waters it brings down, riseth more or less. On the walls of this 
+Tower
+ are from the bottome upward, made marks, or degrees, and by an∣cient custome, as more or fewer of these are covered with water, the Magistrates make it be proclaimed every night in the streets that the knowledge how many degrees the 
+Nile
+ hath that day overflowed may be general. This Proclamation begins at the end of 
+July,
+ and continues all 
+August,
+ when the rise or fall of the River is Particular∣ly observed by the degrees. The abundance of the year is thus guessed at, when the water covers
+
+not sixteen degrees the want of water suggests fear of a Famine; rising towards twenty five, the higher it ascends, the fairer are the hopes of a fruitfull season; passing that number, they are assaulted with new fears of death, the quan∣tity of water not allowing them to sow, or house their Harvest. These months passe not away, without some trouble and anxie∣ty, the weather being every where subject to irregularity, so rain is sometimes too much, sometimes too little, by which the Crop is al∣tered.
+
+
+Another Curiosity makes the 
+Nile
+ famous, whose current stores 
+Gran Cairo
+ with Senna so known, and so experienced in Medicine in the shops of 
+Europe;
+ It is a little shrub peculiar onely to the woods of 
+Ethiopia:
+ the place where I li∣ved in that Kingdom hath great quantity. The Wild 
+Negro's
+ fetch
+
+it from the Inland, and bring it in great Boats to 
+Grand Cairo.
+ The French Consul there hath the Mo∣nopoly of it, for which he presents every new 
+Basshaw
+ with thirty thousand Dollars, and bargains at a certain set price and a day pre∣fixt, to buy all that comes; which he performs Having housed it in his Magazines, he divides it into three parts two are burnt, one re∣served to be transported for 
+Eu∣rope
+ which payes for the two parts consumed: There is less Expence for fraight, the Shops alwayes want the Medicine which goes off at the price demanded: Thus is the account ballanced, a French∣man 
+Zacharias Vermiel,
+ a servant many years in the Consul's house, gave me this Information, his de∣sire to travell, brought him by Land into 
+Ethiopia,
+ where he lived a year in my house, and when we were banished, went into the Em∣perours
+
+army, being grown rich, and turn'd Inhabitant, not per∣mitted to returne, he died there, ten years after his arrival.
+
+
+
+
+
+
+Of the famous 
+Unicorne,
+ where he is bred, and how shap'd.
+
+
+THe 
+Ʋnicorn
+ is the most cele∣brated among Beasts, as a∣mong Birds are the 
+Phaenix,
+ the 
+Pellican
+ and the Bird of 
+Pa∣radice:
+ with which the world is better acquainted by the fancies of Preachers and Poets, than with their native soyle; little know∣ledge is of any of them, for some of them, nothing but the received report, of their being in nature; it deserves reflection, that the in∣dustry and indefatigable labour of men in the discovery of things concealed, can yet give no ac∣count where the 
+Phaenix
+ and Bird
+
+of Paradise are bred: some would have 
+Arabia
+ the Country of the 
+Phaenix,
+ yet are the 
+Arabians
+ with∣out any knowledge of it, and leave the discovery to the work of time. The Bird of Paradise is found dead with her Bill fixt in the ground, in an 
+Island
+ joyning to the 
+Mallucco's
+ not far from 
+Macaca,
+ whence it comes thither, unknown, though great diligence hath been imployed in the search, but without successe: One of them dead came to my hands. I have seen many, the Tayle is worn by Children for a Penashe, the fea∣thers fine and subtile as a very thin cloud; the body not fleshy, resem∣bling that of a Thrush; the many and long feathers (of a pale invivid colour, nearer White than Ash-co∣lour) which cover it, make it of great beauty. Report saies of these Birds, that they alwayes fly, from their birth to their death, not dis∣covered
+
+to have any feet; they live by flyes they catch in the Air, where, their diet being slender, they take some little repose, they fly very high, and come falling down with their wings displayed; As to their Generation, Nature is said to have made a hole in the back of the Male, where the fe∣male laies her Eges, hatcheth her young and feeds them till able to fly: great trouble and affection of the Parent. This is on the ac∣count of the Authors credit which gives the relation; I set down what I have heard. This is cer∣tainly the Bird so lively drawn in our Maps.
+
+
+The 
+Pellican
+ hath better credit (called by 
+Quevedo
+ the self dici∣plining Bird) and hath been dis∣covered in the land of 
+Angola,
+ where some were taken; I have seen two. Some will have a Scar in the brest, from a wound of her
+
+own making there, to feed (as is reported) her young with her own bloud, an action which ordi∣narily suggests devout fancies. So much of Birds. Among Beasts we come to the famous 
+Ʋnicorne,
+ of the more credit, because men∣tioned in holy Scripture, com∣pared to many things,
+ even to God made man. None of the Authors, who speak of the 
+Ʋni∣corne
+ discourse of his birth or Country, satisfied with the deser∣ved Elodiums, by which he is cele∣brated. That secret reserved for those who travell'd and survey'd many Countries.
+
+
+That the 
+Ʋnicorne
+ is not to be confounded with the 
+Abada
+ (com∣monly contended for) is certain, from the difference of the names of 
+Rhinoceros
+ and 
+Ʋnicorne
+ not rea∣sonably to be given to both with∣out distinction, and from the va∣riety of their Bodies and parts; as
+
+appears in the 
+Abada
+ we know, and in the 
+Ʋnicorne
+ we see pain∣ted. This has one great straight horne, of admirable virtue, the 
+Abada
+ or 
+Rhinoceros
+ hath two, a little crooked, not so Soveraigne, though used against poyson. The Country of the 
+Ʋnicorne
+ (an 
+Afri∣can
+ creature, onely known there) is the Province of 
+Agaos
+ in the Kingdom of 
+Damotes;
+ that it may wander into places more remote is not improbable: This Animal is as large as a handsome horse, of a dark brown colour, with the mane and tayle black, both short and thin (though in other places of the same Province they have been observed with them longer and thicker) with a fair beautifull horne, in the forehead, five palms long, as is painted, the colour in∣clining to white: they live in close woods and Thickers, sometimes venture into the Champian, not
+
+often seen, being timerous, are not many, and those concealed in the Woods; The most barbarous and salvage people the world hath, enjoy them and probably feed upon them as upon other Beasts.
+
+
+A Father, my Companion, who spent some time in this Province, upon notice that this so famous Animal was there, used all possible diligence to procure one; the Natives brought him a very young Colt, so tender as in few dayes it died. A 
+Portuguese
+ Cap∣tain, a person of years and credit respected by all his acquaintance, and of great esteem with some Princes of that Empire, under whom he had served, gave me this relation of the great ones: He told me, that returning once from the Army (whither he usually went every Summer with the Em∣perour 
+Malac-Segued
+) with twen∣ty
+
+other 
+Portuguese
+ souldiers in company, they one morning rest∣ed in a little valley encompassed with thick woods, designing to breakfast, while their horses gra∣zed on the good grasse which plentifully grew there, scarce were they sate down, when from the thickest part of the wood, lightly sprang a perfect horse of the same colour, hair and shape before de∣scribed; his carrier was so brisk and wanton, that he took no no∣tice of those new inmates, till in∣gaged amongst them; then as frighted at what he had seen, sud∣denly started back again, yet left the spectators sufficient time to see and observe at their pleasure. The particular survey of his parts sei∣sed them with delight and Admi∣ration, one of his singularities was, a beautifull streight horne on his forehead, like that above mentio∣ned; he appear'd to run about
+
+with Eyes full of fear; our horses seem'd to allow him for one of the same brood, curveted and made towards him; the Souldiers ob∣serving him in lesse than Musket shot, not able to shoot, their mus∣kets being unfixt, endeavoured to encompasse him, out of an assu∣rance, that that was the famous 
+Ʋnicorne
+ so often spoken of, but he prevented them, for perceiving them, with the same violent car∣rier he recovered the wood, lea∣ving the 
+Portuguese
+ satisfied in the truth of such an Animal, discon∣tented at the losse of their Prize. My knowledge of this Captain, makes the truth with me undoubt∣ed.
+
+
+In another Place of the same Province, (the most remote crag∣gy and mountanous part call'd 
+Nanina
+) the same Beast hath been often seen, grazing amongst o∣thers of different kinds. This
+
+place is in the furthest recesse of the Province, therefore the ordi∣nary place of banishment for those the Emperour intends to keep securely; it ends in high mountains which overlook great and vast Plains, and Forrests in∣habited by several sorts of wild beasts: To this place of banish∣ment a Tyrannical Emperour, na∣med 
+Adamas-Segued
+ sent without any cause divers Portugueses, who from the top of these mountains, saw the 
+Ʋnicornes
+ graze in the Plains below, the distance not greater than allowed them so di∣stinct an Observation, as they knew him like a beautifull Gen∣net with a fair horne in his fore∣head. These testimonies, parti∣cularly that of the good old man 
+John Gabriel,
+ with what the Father, my Companion, affirmed of his own knowledge, confirmes me, that this so celebrated 
+Ʋnicorne,
+ is
+
+in this Province, there foaled, and bred.
+
+
+
+
+
+
+The Reason why the 
+Abyssine
+ Emperour is called 
+Prester John
+ of the 
+Indies.
+
+
+THat there was anciently in the East-Indies a puissant Christian Prince, Lord of many Kingdoms and large Territories, is out of question: being groun∣ded on the authentick authority of good Historians and Authors; as undoubted is it, that at present there is no such Prince; his me∣mory perished many ages since, leaving the extent of his Empire undecided. Both these Asserti∣ons are proved by the famous Hi∣storian 
+John de Barros
+ in his Decads. And the advance made by the 
+Portuguese
+ into the 
+Indies,
+ assures us, that at present no such Prince
+
+is known in those many Kingdoms and Provinces of the East, by them discovered.
+
+
+This being out of controversy, yet the Emperour of 
+Ethiopia,
+ in the opinion of many, passeth for that famous 
+Presbyter John
+ of the 
+Indies;
+ by this name commonly, though falsly called, by those who pretend much, but have little knowledg of him.
+
+
+There have not been wanting some late Authors, who upon small grounds, and lesse truth, would maintain this opinion and report, proving by divers Etymo∣logies and interpretations of the word, that the 
+Abyssine
+ Emperour was properly 
+Prester John:
+ But this affirmation being without any ap∣pearance of truth; excuseth me from shewing how little it hath; I onely say, that those who have spent some time in 
+Ethiopia
+ know all reported on this subject to be a
+
+meer fable; never any Prince of this Empire had that Title, neither is the word known in the whole extent of those Dominions.
+
+
+That some Probability spread this report through the world. That this Emperour was the fa∣mous 
+Presbyter John
+ of the 
+Indies;
+ is undeniable: First, his Kingdom being in the Eastern parts, thence, without Examination, if his Em∣pire were properly in the 
+Indies
+ (onely lying betwixt the Ri∣ver 
+Indus
+ and 
+Ganges
+) the opinion first settled on this Bassis. Second∣ly, The ancient 
+Presbyter John
+ pro∣fessing himself a Christian, having for the Embleme of his faith a Crosse in a hand, and when he went forth or a Journey, a Crosse carried before him, being beside a Priest, (all which or the greatest part suites with the 
+Abyssine
+ Em∣perour, for that he was by ancient custome a Priest, is reported of
+
+him by tradition and their own Annals; for the Crosse in particu∣lar, he often carrieth it in his hand, and all there have it in peculiar reverence and devotion) gave ap∣parently this Errour a second rise. Thirdly, Ignorant, in what part of 
+India
+ his Empire was, having often heard of the Christianity of this King and his Subjects, and without any records of the ancient 
+Presby∣ter John,
+ uninquisitive men con∣cluded him the 
+Abyssine
+ Emper∣our: Thus mistakes are common∣ly guilded over with the appear∣ance of truth. We who lived in 
+Ethiopia,
+ reflecting on this, and often discoursing by way of Inqui∣ry, what might most probably be∣get this opinion, derived it from what I shall here offer; If a thing so obsolete admits any conviction, or what is maintained by common opinion is to be refuted.
+
+
+Ethiopia
+ hath an ancient and u∣sual
+
+Custome for slaves to petiti∣on their Masters and subjects their Soveraigne, either in their Ear with an humble and submissive voyce, or at a distance from some eminent place, to tell their grie∣vances, and demand justice a∣gainst their Oppressors, so placing themselves, as to be most conve∣niently heard, every one crys as loud as his voyce can reach, in the language of his own Province or Nation. The 
+Portuguese
+ (frequent here) cry 
+Senhor, Senhor, Senhor;
+ not desisting till their businesse be dispatcht. The Moor crys 
+Acid, Acid, Acid,
+ which signifies the same. The Boor of the Kingdom of 
+Tigere
+ sayes 
+Adaric, Adaric, A∣daric.
+ The Courtier, and those more civilized 
+Abeto, Abeto, Abe∣to,
+ intimating the same. Others bark like Dogs, howle like Wolves, and by imitating the dif∣ferent cryes of other Beasts, are
+
+so understood and known of what place and Province they are.
+
+
+Those of an higher Province, in the heart of this great Empire, (where many ages these Princes kept their Court) when according to this ancient and usual Custom, they present their Petitions, cry 
+Jan Coy (i.e.)
+ my King: (
+Jan
+ signi∣fying King, and 
+Coy
+ my) which supposed, for the cleerer proof of what I endeavour to evince, you are to be reminded: That the 
+A∣byssines
+ affirme their Emperours were Priests, in testimony of that, relate some Miracles wrought by them That the 
+Abyssines
+ are na∣turally Wanderers, particularly undertake pilgrimages to the Ho∣ly Land, which being not far re∣mote, doth more easily engage them in the journey. This they practise at present, though for∣merly they did it more frequently.
+
+
+
+
+It is also notorious, that the 
+French,
+ most of any Nation of 
+Eu∣rope,
+ used the 
+Levantine
+ trade, their concourse was so great, that those Infidels scarce knew any other Europeans, and called all white men (as they still do) 
+Franks
+ by a small corruption from the word 
+Francois.
+ The 
+French
+ necessarily met many 
+Abyssines
+ particularly in 
+Palestine
+ with whom their dis∣course was probable about their Nation and Country: The 
+Abys∣sines
+ speaking of their King, un∣doubtedly gave him the most an∣cient, most usual and most respe∣ctfull title of 
+Jan;
+ neither is it less probable, that for the greater re∣verence of the Royal person, they told them their King was a Priest; thence was he concluded 
+Jan
+ by title, and by office a Priest: All know that among us, 
+Sacerdote
+ and 
+Presbytero
+ are the same, which the Latines call 
+Presbyter
+ and the
+
+French Prester;
+ this word joyned to 
+Jan
+ begets 
+Prester Jan,
+ which with small addition is corrupted into 
+Prester John,
+ intending the same. The 
+French
+ returning home were likely to relate what they be∣lieved and heard in forraigne parts, so spred the report, that the King of the 
+Abyssines
+ was King and Priest 
+Prester Jan;
+ there not being then any knowledge of the true 
+Prester John
+ of the 
+Indies.
+ This report, set abroad, past current, that this famous Prince was with∣out doubt the Emperour of the 
+Abyssines,
+ thence at present vul∣garly called 
+Prester John
+ of the 
+Indies.
+
+
+I may without arrogance think the Conjectures and Probabilities on which this Discourse is groun∣ded, above contempt; both from my own observations and Expe∣rience, and from the approbation of able Judgments; particular∣ly
+
+of great Travellers, and those conversant in 
+Ethiopia,
+ who found them agree with their informati∣on; if any are dissatisfied with this Tract, let them not condemn the good will that offers it, and take my word to acquiesce in any bet∣ter proposed.
+
+
+
+
+
+
+A short Tract of the 
+Red Sea,
+ and of the Cause of this name by which 'tis commonly known.
+
+
+THe Red Sea bounds the Territories of the 
+Abyssine
+ Empire which Eastward drinks those Waters; having therefore discoursed what names the 
+Abys∣sine
+ Emperour 
+Prester John,
+ we may conveniently inquire after the true cause that calls that boundary of this Empire the Red Sea.
+
+
+The Name of Red Sea com∣monly
+
+given to the 
+Arabian
+ Gulf, is very ancient, the mistake lyes onely in the Reason, I shall relate what I think most sutable to my own survey and experience.
+
+
+The Ancients named the most Easterly poynt of all 
+Africa Aro∣matum Prom.
+ the Cape of spices; because all those Ships, which brought them from the Coast of 
+India,
+ and traded with the Ports of that Sea, first made that Headland, called at present by all Mariners 
+Guarda fuy,
+ the Inland is the King∣dom of 
+Adel,
+ the Inhabitants all Moors and stout Souldiers; The defect of Rain, is here the same as in 
+Egypt
+ supplyed by the many and great Rivers, running from the mountains of 
+Ethiopia,
+ which on that side bound this Kingdom. This Promontory is answered by another in 
+Arabia
+ the happy, dire∣ctly opposite, called 
+Cape Fartach
+ from a City and people of the
+
+same name inhabiting the main Land, Warlike Moors, and so re∣puted; the distance between these two Capes is fifty leagues.
+
+
+The largnesse of the Ocean be∣gins to be restrained from these two Promontories to the en∣trance of the Red Sea, in length an hundred and fifty leagues: the two shoars all the way comming closer till they meet at four leagues distance in the narrowest part of the streight where this Sea looseth the name of the 
+Arabian Gulf,
+ and within is called the Red Sea; which extends three hun∣dred and eighty leagues to 
+Sues
+ near the bottom of that streight, in the largest place, betwixt 
+Ma∣suba
+ and the 
+Island
+ of 
+Camaran,
+ the bredth is forty leagues, near 
+Sues
+ onely three, which is yet narrower at the bottom.
+
+
+Authors divide this Sea into three parts▪ the Midle is clear
+
+and navigable, not without some small 
+Islands
+ and Rocks which ap∣pearing above water are of little danger; the other two parts near the two shoars of 
+Arabia
+ and 
+Ethi∣opia
+ are of very bad passage, full of Shoals, Rocks and white Cor∣ral, which, in the night especially, endanger Passengers.
+
+
+The Mouth is double, made by an 
+Island
+ called 
+Nahum
+ or 
+Babel∣mandel,
+ two leagues in length, less than a quarter in breadth, all an high wild barren Rock, parched with the Wind and Sun, without a∣ny Grasse, possest by an abundance of Sea-foul.
+
+
+The entrance on the side of 
+A∣rabia
+ being clear and deep is the ordinary passage for Ships of bur∣then; the other part of the mouth toward 
+Ethiopia
+ though three leagues over, is so full of Shoals, as none venters through, but in little vessels, called by the Natives 
+Ge∣luas.
+
+
+Near the 
+Island
+ is a narrow Channel of a good depth, which I twise passed, but too dangerous for great Ships, joyning on the 
+Island.
+
+
+Within this straight begins the Red sea, the Easterly Shoar called 
+Arabia Petrea.
+ Twelve leagues higher than the mouth is the City 
+Mocha,
+ rich and of great trade: Forty further is the 
+Island
+ of 
+Ca∣maran;
+ then follow 
+Rido, Loia, Zebita
+ and 
+Goro;
+ this latter, with∣in sight, and within half a dayes journey of Mount 
+Sinai.
+ Hither lyes 
+Gida
+ the Port of famous 
+Me∣cha
+ or 
+Medina,
+ where is the tomb of 
+Mahomet.
+ At the bottom of this straight is 
+Sues,
+ anciently a City of 
+Heroes;
+ at present a poor fishing Village, wanting the trade of Spices from 
+India
+ which arrive there as to the Mart of the East and Levant, and the general Fair of the 
+Indies.
+ This City from
+
+Grand Cairo
+ twenty five leagues; sixteen from the nearest part of the 
+Nile,
+ and forty one from the Mediterranean.
+
+
+Crossing from hence to the o∣ther shoar of 
+Ethiopia,
+ the first Ci∣ty is 
+Alcocere,
+ formerly rich and populous, now a poor Village. Little further, is 
+Corondelo,
+ where the Children of 
+Izrael
+ at their comming out of 
+Egypt,
+ past over to the other shore of 
+Arabia,
+ the Sea opening for three leagues, (the distance betwixt both the Shoars) into a fair large way, as seems to be intimated in the book of
+ 
+Wisdom;
+ or dividing it self into twelve parts, as may be ga∣thered from the
+ 
+Psalmist.
+ Not far distant, is a place called 
+Risa,
+ whence are exported and import∣ed Commodities from and for 
+E∣gypt.
+ This place is situated in the hollow of high mountains, which run along in a Bridge, discove∣rable
+
+from most parts of the Red Sea;
+ when, from these mountains to∣ward the Sea it is win∣ter, on the other side of them is summer; so 
+vice versa.
+ Hence to 
+Suaguem,
+ is desart, but the Road for 
+Grand Cairo.
+ The 
+Island
+ of 
+Suaguem,
+ (where the 
+Turks
+ de∣tain'd me sometimes Prisoner) is round and little, full of Inhabi∣tants: the residence and Court of a 
+Bashaw,
+ having in it the Custom-house, where all Merchants Ships unlade. Half the profit, by agree∣ment, accrews to a King of the In∣land, called 
+Balen.
+ An hundred leagues further is the 
+Island Massu∣ba
+ in circuit twelve hundred fa∣thoms, shaped like a mans foot. Between this and the main Land, Ships have a convenient Road. Here resides the 
+Bashaw's
+ Lieute∣nant call'd 
+Caqua,
+ judge of the
+
+Custom-house. Two leagues fur∣ther is a Fortresse called 
+Arquico,
+ (where I was sometime Prisoner) ill fortified with stone and Clay; worse provided with Amunition, onely defends the water which e∣very day goes in Boats, (called 
+Gel∣luas
+) for 
+Massuba,
+ destitute of any other liquor. Below this 
+Island
+ is that of 
+Daleca,
+ where Pearle is fish't; in length sixteen leagues, straight and populous. Few leagues lower is the Port of 
+Bailur
+ in the Kingdom of 
+Dancali,
+ where I landed going into 
+Ethiopia.
+ Twelve leagues further, we re∣turn again to the straight of 
+Ba∣belmandel.
+
+
+This general knowledg presup∣posed, we come to speak of the Original of the name, for which divers reasons are given. By my Observations, in six weeks I was at one time upon that Sea, and twenty dayes at another, when my
+
+Inquiries were very severe and scrupulous, I found not any opi∣nion warrantably grounded. So general a Name is vainly contend∣ed for, and not to be allowed, by certain red spots which appear, and to some, seem to proceed, from certain parts of a Whale; those spots not alwayes appear∣ing, and the Whales being very few in those shallows; in the O∣cean, out of the straight there are many. Neither did I in all my voy∣age upon that Sea observe any such discolouring.
+
+
+A second Reason for this Name is fetch'd from some Hills of red earth, whose dust carried by the fury of the Winds and falling into the waters, changeth it to this co∣lour: This opinion seems fabu∣lous, for by curious search, no such Hills are discoverable, neither could the Dust be so considera∣ble, to make the spots so great, as
+
+would give the General name to the whole Sea. Others contend, that the red Coral which grows in the bottom of this Sea, by reflecti∣on on the water begets the same apparent colour, and gives the name: This Opinion is equally false: The Coral at the bottom of the Sea being not red enough to create any such apparent colour or name; the red is faint, nearer white, than any other colour, enli∣vened by an Artificial compositi∣on. Upon the shore of this Sea I have gatheted some, not in bran∣ches but in little pieces, called shop-ware, (being ground and there exposed) The Sun gave it out of the water a very vivid co∣lour; this confirm'd me, that the name proceeded from the Coral.
+
+
+I shall now declare my opinion, if any voyce be permitted me up∣on this Subject. What I shall af∣firme, I saw with my Eyes, and
+
+discours'd the matter with my Companions capable of giving their Judgment. Being Prisoner to the 
+Turks,
+ and sayling in those Seas, one of my companions and of the Company of Jesus hapen∣ed to be Patriarch of 
+Ethiopia,
+ ex∣cellently skill'd in Divine and Prophane Learning; We con∣cluded the water of that Sea, not different from that of the Ocean; in some places we observed, a long tract of water bluish, caus∣ed by the great depth: In others, found divers white spots proceed∣ing from the white sand, and the shallownesse: Other places were discoloured green, by the mudd which covered the bottom. In o∣ther parts of the water, where it was as clear as in any other Sea, were some reddish spots; We found these spots (which were many) to be caused by a weed resembling that we cal 
+Cargaco,
+
+
+rooted in the bottom; some that was loose and swum almost on the surface of the water we took up, and casting Anchor thereabouts, made an Indian dive to the bot∣tom for more. Upon strict ex∣amination, it prov'd to be that the 
+Ethiopians
+ call 
+Sufo,
+ which in great quantity, grows in 
+India
+ and di∣vers parts of 
+Asia.
+ The same name of 
+Sufo,
+ is given to the seed; to a meat made of it, like Almond∣milk, well tasted, (and often eaten by me) and to the Flower, which resembles 
+Saffron
+ and may be mi∣staken for it. Of this is made a Red-colour call'd 
+Sufo,
+ used for dying cloath in 
+Ethiopia
+ and 
+India
+ (some of which Cloath furnish'd my poor Church in 
+Ethiopia
+ with a sure of Hangings) The weed, seed, meat, flower, and colour a∣gree in the same name of 
+Sufo,
+ which considered, put us in mind, that the Scripture, in St. 
+Jerome's
+
+
+Translation calls the Red Sea, in stead of 
+Mare Rubrum, Bahar Suf,
+ making 
+Suf
+ and Red the same in 
+Hebrew:
+ This Sea therefore, being so near rather between 
+Ethiopia
+ and 
+Palestine,
+ and in both places 
+Suf
+ signifying Red, our observati∣on named the Sea, not from any such colour appearing in the wa∣ter but from the growth of that weed, which in the 
+Hebrew
+ and 
+E∣thìopian
+ language signifies 
+Rubrum.
+ And by Experiment, the flower boyled, and mixt with juyce of limes, makes so beautifull a Red, that it's nearer an incarnate than Red, and if durable would be de∣servedly of great esteem.
+
+
+Considering the weaknesse of the other reasons; from our Dis∣course had on that Sea, we con∣cluded the name derived from no other cause, than from the growth of the weed 
+Sufo;
+ insufficient of it self to produce that colour, but
+
+whose flower makes it, and the Natives give the name of the weed to the Colour.
+
+
+
+
+
+
+A Discourse of 
+Palme-trees,
+ Of their Variety, their Fruit, (and the usefullnesse of it,) Of their proper Soyle.
+
+
+OF all the Trees, created by God Almighty for the orna∣ment of the Earth and service of Man, the 
+Palme-tree
+ is the most usefull and profitable to humane society: Though for this end the Author of Nature created all Plants, all which, with all their vir∣tue are at man's devotion, yet none serves so munificently, and for so many uses as the 
+Palm-tree.
+ For from her deepest roots, which take first possession of the Earth and vegetation, to the highest leaf of her adorned head, with the va∣riety,
+
+propriety, excellency of her fruit, in fine, with all her virtue, is man substantially served, and paid his due tribute; What I shall say in this Tract will disengage this truth.
+
+
+The 
+Palme-tree
+ is advanced by one peculiar Excellency, by which, without any second, she hath the advantage of all other Trees, well satisfied in paying man once a year their Tribute, rest from their labour. The 
+Palme-tree
+ takes no repose, but every month in the year presents new fruit: A beautifull cluster of thirty, forty, sometimes more Cocoes, or nuts monthly appearing; and though not above seven, twelve at the most, come to be ripe and attain the last perfection, (there not be∣ing strength and nourishment for so many) yet is it questionless, that the 
+Palme-tree
+ by her fruitfulnesse was by God peculiarly created
+
+for the advantage of mankind; If Vigour to perform her natural propensity be wanting, yet is her generous inclination apparent.
+
+
+We may truly say of the 
+Palme-tree,
+ that not being, (which is not contended for) that so singular and excellent tree, peculiar to the happinesse of Heaven, which the
+ Scripture calls the Tree of life, which beareth twelve manner of fruits, and yieldeth her fruit every month, yet that it is a similitude or Embleme of that faecundity. That by the frequency and goodnesse of her fruit, and by the great be∣nefit man enjoys by it, it is a cer∣tain Tree of life on Earth, as the other is truly in Heaven, and the most beneficial the earth produ∣ceth, shall appear in this Dis∣course.
+
+
+The most favourable Climate or Soyle, and which with greatest propriety and in most abundance
+
+produceth this famous Tree, (which strangers, divine and hu∣mane writings, and the Natives, in the property of their language call'd the 
+Palm-tree
+) is 
+Asia,
+ par∣ticularly that part of it, called 
+In∣dia,
+ containing the Kingdoms and Provinces, which lye betwixt, and are bounded by the two famous Rivers 
+Indus
+ and 
+Ganges,
+ both so well known in History. How re∣ligious fables have made 
+Ganges,
+ and how vain a sanctity, blind I∣dolatry attributed to those wa∣ters, (in which to wash, is suffici∣ent to be cleansed from fault and punishment, and be secured of Salvation) much might be said, by what I have observed and heard of this superstition; but that is not the task of this discourse, intend∣ed onely of 
+Palme-trees.
+
+
+The land nearest the Sea side produceth the fairest; the Air from the Sea, being very favou∣rable
+
+and benigne to them. Though strangers give the same name of 
+Palm-tree
+ to divers sorts of this tree, all cannot challenge it, neither enjoy the Excellencies, proper to the 
+Palme-tree
+ called 
+Coco:
+ The Natives distinguish them by particular names, and reckon up eight sorts, all different in their Truncks, leaves, fruit, pro∣fit and appearance, yet enjoy the general name of 
+Palme-trees,
+ having I know not what likenesse, by which they lay claime to it, be∣sides the proper name of each species.
+
+
+The chiefest and most famous, and which best retains the proper∣ty of the 
+Palme-tree,
+ is that which bears 
+Coco's;
+ of these some are wilde, some cultivated, some, but few, called 
+Barcas,
+ which amongst them signifie excellent; and when they knavishly put off any thing for excellent, they say 'tis 
+Barca.
+
+
+The Nut 
+Barca
+ is savoury, whole∣some, not to be surfeited on, though eaten in never so great a quantity; But as all Trees are not 
+Barca's,
+ so not all the Nuts, and the same Tree bears 
+Barca's
+ and others: The Natives distinguish and very much vallue them. The Nut 
+Barca,
+ when crude and unripe is called 
+Lanha Taugi (i.e.)
+ excel∣lent and sweet; is refreshing, wholesome, of great use in Fe∣vers. If the Roots of this Tree touch the Sea or any brackish wa∣ter, the bearing is very much im∣proved.
+
+
+Of the other seven sorts, some are esteemed wild, from their fruit, soyle, and the little manuring they require. The Tree called 
+Cajuri,
+ is the peculiar one which bears 
+Dates,
+ though in 
+India
+ this tree yields none, but affords a cer∣tain liquor which they distil, and of it make wine. Another sort
+
+named 
+Trefulim,
+ from her fruit of the same name 
+Arequeira
+ of whose leaves are made great umbrel∣las, large enough to shelter one or two men from the rigour of the Sun or rain, without which none could travell: There are lesse, for the same use, like our umbrellas, which also keep off the raine. This tree yields no fruit.
+
+
+Another tree there is, (the name not much in use,) by the leafe, trunck, and make, of the race of 
+Palme-trees;
+ the fruit called 
+de Raposa (i.e.)
+ the 
+Foxes
+ fruit; eaten, of no good taste, such a Crab as ne∣ver ripens, and if brought to matu∣rity, would prove a wild 
+Date,
+ being so in the form, colour, bunch or cluster. The tree called 
+Berlim,
+ bears no fruit, onely used for a∣dorning Churches; the boughs of so fit a size and proportion for this use, as if foly created by God
+
+almighty for his service, not of less esteem and value, because service∣able to divine worship, this dedi∣cation supplyes the defect of fruit for the service of man, and may reasonably rank the tree above the fruitfull.
+
+
+The last the Earth produceth, called 
+Macomeira,
+ is without doubt a species of the 
+Palme-tree;
+ her fruit in clusters of thirty or more, every one as big as an ordi∣nary Apple; when ripe, of a Date-colour, and very gratefull, the rind as hard as Tow, oftner suck'd than eaten; if swallowed, of very hard disgestion; In sent, exceed∣ing the
+ 
+Camoesa:
+ the stone, cal∣led 
+Coquinho,
+ very hard, though green, is soveraign against many diseases.
+
+
+These are the 
+Palme-trees
+ the Earth produceth, which challeng a right in that name. The Sea affords one, which though at the
+
+bottom of the deep and so undis∣covered, the fruit called 
+Coco,
+ and surnamed 
+Maldiva,
+ (because the Sea about those 
+Islands
+ affords that Plant in greatest abundance) gives us the Information. The 
+Maldives
+ are a Ridge of great and small 
+Islands,
+ reaching near two hundred leagues, are counted from North to South, distant from the shoar, thirty or forty leagues, the Natives affirme them to be Eleven thousand: He was at leisure, and of no small curiosity who counted them. But not to enquire too strictly and minutely into their number, the Ocean a∣bout these 
+Islands
+ most abound with these Nuts, which are rare; the Sea casts them upon the shoar, or they swim upon the water, yet have I seen them from the coast of 
+Melinde
+ to the Cape of 
+Guarda∣fuy,
+ for above two hundred leagues: they are little less than a
+
+man's head, grow two together, joyned one to the other, not all along, but near two thirds; the colour of the Rind, (which is hard though thin) black; the Europe∣ans make of it Bodies of Birds, 
+e. g.
+ of a Peacock, adding to it feet, neck, head and wings, and that perfection of parts the Bird de∣signed requires. The Pulpe or kernell of this fruit is very firme, as in those that grow at Land; of very great esteem with the Na∣tives; I have seen it sold for its weight in silver, being esteemed a singular Remedy against all di∣seases, particularly against poyson, pounded in a Mortar (made for that purpose) with a little water, till it grows white, and so drank. In 
+India
+ they make frequent use of this remedy, having it in abun∣dance. So much of the 
+Palme-tree
+ and the Nutt 
+Maldiva;
+ I am now to discourse of the inestimable pro∣fit
+
+of the other sorts.
+
+
+Palme-trees,
+ of what species so∣ever, have neither a thick Trunck, nor boughes like other trees. As they grow in height, their boughes come out at the top, and open to make room for others; as the old ones fall, they leave an impression in the Tree where they were; If any have two truncks, the thing is very peculiar, and shewn as noto∣rious: I have seen one or two such, in all the time and places I was in 
+India:
+ One of them near the Coast of 
+Melinde,
+ whence I imbarked for the 
+Island Pate,
+ to see a thing so remarkable. The tree called 
+Macomeira,
+ (from the fruit named 
+Macoma
+) is the onely one, that grown to the height of a man, divides her self into two trunks, each of which at the same distance is divided into other two, so grows on, each Trunck producing two, till she arrives to
+
+that hight, the Natives allow pro∣portionable to the species. The tree called 
+Trafulim
+ grows the tal∣lest, and for hight, were the thick∣nesse proportionable, (celfity is more considerable in this, than any other of the sorts) and the na∣ture of the wood solid, and strong, might make a Mast for a great Vessel, but it wants sufficient sub∣stance, neither are those trees which yield 
+Coco's
+ proper for that use; In little Vessels they serve, as will be immediately related.
+
+
+That the most favourable situ∣ation for the growth and fertility of these trees is the ground near∣est the Sea, has been said before: and if the roots reach the mudd of salt-water, they thrive best with that watering. Experience hath found, that those 
+Palme-trees,
+ which grow nearest houses inha∣bited, are the most fruitfull; there∣fore the Natives, if possible, con∣trive
+
+to dwell in the 
+Palme-Or∣chards,
+ having there their goods and Estates, (as will presently be said) their pleasure and recreati∣on: These are the reall Estates in 
+India,
+ as Vineyards and Olive-yards in 
+Europe:
+ amongst these is arable Land, which they sow, and have a Crop of Rice, Wheat and other grain; I have seen fair and beautifull 
+Palme-trees
+ in the In∣land, remote from the Sea, always in Plains, never upon Hills, where they come to no maturity, either because in low grounds they shel∣ter one the other, or that on the hills the wind shakes them too violently, to the no little detri∣ment of their fruit, being tall and tender with all their boughes and fruit on the top, they are obnoxi∣ous to the wind, the whole weight being at the head, the body high, tender and fragile: they may be fitly compar'd to the Mast of a
+
+ship with round top and top-mast without the help of shrouds to support it.
+
+
+These trees are planted, by sowing the 
+Coco's
+ or Nuts in a Bed, and covering them with Earth: A little time will put forth a shoot, the ordinary product of seed; ar∣rived at some growth, they are transplanted into a place designed for that purpose. There ranked in fit distance, order and propor∣tion, where they remain till arrive to perfection, And be∣ing planted in a line, make a fair shew in the field, so pleasant to the Natives, that no Garden in 
+Europe
+ is with more care manured, or of greater, if of equal satisfact∣ion. This hath been experienced by presenting them with our Ra∣rities, who neglect them and sigh after the 
+Palme-trees
+ of their own Country; though there is not a more melancholy and unpleasant
+
+sight to the Europeans, than to be in a Palme-Orchard, where no∣thing is to be seen but Truncks of Trees set in order, which appear withered without any foliage; all the greenesse being above, the sight there is little enjoyed; be∣held at a distance, no Prospect so gratefull. Being young plants, their mortall Enemies are the Cat∣tle, which risle their beauty, and with their teeth do them no little damage; that begets a necessity to encompasse them with fences.
+
+
+These Plants are manured with small expence, ordinarily they re∣quire not much watering: grown to some bignesse, they lay Ashes to their Roots, all sorts of shell∣fish, particularly, little fish, called by the Natives 
+Cuta,
+ putrefied at the foot of the tree, are of admi∣rable effect; but all trees cannot be so indulged; this is supplyed by Mud taken out of salt mar∣shes,
+
+by which their fruitfulnesse is very much advanced. They bear fruit at five years if planted in soft Artificial Beds, so taking root sooner and with greater ease; At seven, if the Earth be firme and hard, spreading their roots leisure∣ly and with more difficulty. I one∣ly know one spot of Ground in the 
+Island
+ of 
+Ceilaon
+ so fruitfull and proper for these trees, that in two years they come to their growth, get strength, and are laden with fruit.
+
+
+The fruit of this tree, (whatso∣ever the species is) comes forth thus; From the stem of the 
+Palme,
+ shoots out a Twig, made like a mans Arme, not unlike a Moorish simiter, which the Nati∣ves call 
+Poyo.
+ This opens and puts forth a cluster of thirty, fifty, eighty, sometimes an hundred 
+Coquinhos
+ or Nuts, about the big∣nesse of an Hasle-nut; should all
+
+come to perfection the quantity were stupendious, but the Parent wanting sap and nourishment for so many young ones, the greatest part falls off and comes to no∣thing; few remain of the first ap∣pearing multitude, twelve or four∣teen in every cluster may come to maturity, according to the good∣nesse of the ground, or the soyling implyed: Nature supplies the lost ones, by putting forth imme∣diately another cluster before the first is ripe or cleared of the flow∣er; the same happens to the latter fruit, and so to more, every month a bunch appearing, and all the trees having four or five clust∣ers of different ages, some in the blossom, others newly cleared of the flower, as big as ordinary nuts, others larger, some come to perfection: The 
+Palme-tree
+ re∣sembles an indulgent mother, en∣viron'd with greater and smaller
+
+Children, at the same time feeding these and bearing others; a rarity not experienced in other trees.
+
+
+The Emolument of this fruit 
+Coco
+ is very extraordinary, for di∣vers wayes it proves good meat; while the kernell is yet in water and full of liquor, the Nut green, and not come to maturity, the Na∣tives drink it as an exquisite Re∣gallo, being sweet and recreative, affording a good Cup of whole∣some water called 
+Lanha;
+ arrived to a greater consistence, like that of Cream, they eat it with spoons, then called 
+Cocanha:
+ come to the last perfection, it is eaten, is savory and well tasted: but being ex∣treamly hot and of hard digesti∣on, much of it is unwholesome, the Nut 
+Barca
+ excepted, which is sa∣voury and harmlesse. The thin Rind which covers the kernell, black, and good in Medicine.
+
+This Nut grated and put into the hollow joynts of Canes called 
+Bambus
+ is boyled, and of it made
+ 
+Cuscus.
+ The gratings, steeped in water and squeezed, the milk they yield, makes a kind of broath, frequent amongst them called 
+Cerul,
+ which is very delici∣ous: the Nut 
+Coco
+ is eaten other different wayes, which deservedly advance the esteem of this provi∣sion. The two Rinds taken off, the kernell divided into two parts, and exposed to dry in the Sun, when dryed is called 
+Copra,
+ of this, great quantities, go for the Inland Country, and where no Olive-trees grow, Oyle made of it, which is toothsom, wholesom, good for wounds and sores. This 
+Copra
+ eaten with 
+Igra,
+ (a sort of course muscovados sugar) made of the sweat of the 
+Palme tree,
+ as shall immediately be related) is a great dainty with the 
+Indians.
+
+
+And that no part of the 
+Coco
+ may seem not valuable, and declaring the obligation humane life hath to the Palmtree, The outmost Rind, called 
+Cairo,
+ not unlike Tow, well macerated and drawn into threds, affords all sorts of fine Thred, and Ropes big enough for the greatest Vessels and Ships, which are of great esteem for good and secure Cables, they will endure stretch∣ing, and rot not in Salt-water; these advantages have they above Cables made of Hemp. The se∣cond Rind, the immediate cover of the 
+Coco,
+ when green, is eaten like 
+Chardons,
+ is tender, crackles in the mouth, and of the same ef∣fect in the stomach, blacks the lips and fingers like 
+Chardons;
+ when ripe is very hard and thin, called 
+Charetta,
+ made up for divers uses; Chark'd, it admirably tempers I∣ron, accordingly esteemed by Artificers.
+
+
+
+
+Besides the related, divers o∣ther Emoluments accrue from the Palmtree and her Fruit; the Palm∣tree alone being sufficient to build, rig, and fraight a ship, with bread, Wine, water, Oyle, Vinegar, Su∣gar, and other Commodities, all afforded by the Palmtree. I have sayled in Vessels, where the bot∣tom and the whole 
+Cargo
+ hath been from the munificence of the Palmtree; I will take upon me to make good what I have asserted.
+
+
+The Vessels are by the Natives called 
+Pangayos,
+ on which I have Coasted the land of 
+Melinde,
+ and gone into the 
+Red-Sea:
+ they ven∣ture not far from shoar, being weak, without any binding of I∣ron, unable to endure any stress of weather, or beating of the waves, therefore lanch not out into the main Ocean. The Palmtree yields Plank, though weak and spungy, as if made of Tow: the Planks are
+
+sowed together with fine thred made of the outmost Rind of the Nut (as hath been said) the seams are Caulk'd with Okum of 
+Cairo,
+ after paid over (as is usual) with the fat of Fish, serving instead of hot Pitch: where there is any use of Nails, that is supplyed by woo∣den Pins, made of a certain spe∣cies of the Palmtree; the Mast is provided by the same Tree, and requires not much pains to fashion it; Ropes of all bignesses are made of 
+Cayro (i.e)
+ the rind of the 
+Coco:
+ Sayls are woven of the Leavs of the Palmtree called 
+Cajuris,
+ of which are also made Sacks (called 
+Macondas
+) in which they carry Millet, or any other thing at plea∣sure; Bread (before mentioned) the same Nut supplies, either dry, then called 
+Copra,
+ or green, when named 
+Puto;
+ which grated and put into hollow Canes is 
+Cuscus:
+ Water proceeds from the same
+
+Nuts being green, before the Ker∣nel arrives to a due consistency, clear as Rock water, fresher and better: Oyle is made of 
+Copra
+ (
+i.e.
+ the Nut dryed in the Sun) in great quantity used by all people in 
+In∣dia,
+ having no other of their own growth, besides what is drawn from a seed called 
+Gergelim,
+ of small value, onely used by the poor.
+
+
+The Wine requires more pains and assiduity: When the 
+Palm-tree
+ puts forth her shoot or 
+Poyo
+ (shap'd like a 
+Moorish Simiter
+) before the cluster appears, they cut three fin∣gers breadth from the point, and tying it near the Incision with a reed to prevent slitting, put the end of the shoot into a pitcher made for that purpose, called 
+Gor∣go;
+ leaving it there, the shoots, like Vines pruned, but in greater abun∣dance, weep that juyce, which should have produced 
+Coco's.
+ This Liquor is twice drawn in the natu∣ral
+
+day; in the morning, that which was wept by night, and in the E∣vening, the distillation of the day: At these times, a man deputed to that business, and of a certain Ex∣traction, called 
+Bandarins,
+ with a goad hung at his girdle, and with a Pruning-hook in his hand, climbs the tallest Palmtree: some of which, peculiarly those called 
+Ca∣juris,
+ are of a prodigious height, they climb as on a Ladder by notches made in the Trunck of the Tree, and with as much security as Sea-men run up to the Main∣top: In other less Palmtrees, (seeming to be of that Race which yields 
+Dates
+) they make a hole in the Trunck, there lodging a Cane through which the Liquor distills, which when the Tree affords, she bears no 
+Coco's.
+ This Liquor is sweet, medicinal, clears the Body from humours, is drunk for a 
+Re∣gallo,
+ and called 
+Sura;
+ set to the
+
+Fire in great Vessels, is distilled as in a Limbeck, with this caution, That they continually cast cold water upon the Vessel, least as strong water, it should take fire, This is the Wine made of the Palm-tree, called by the Natives 
+Ʋrraca,
+ it entoxicates in litle quan∣tity, flyes to the head, and is of strange effect; much more power∣full if distilled over again, when it becomes a 
+Quintessence.
+ Of this 
+Ʋrraca
+ is made excellent Vinegar, by putting into it two or three fired sticks, or a great stone well heated. Sugar is made of the sweet 
+Sura
+ coming fresh from the Tree, which boyled till it coagulates be∣comes good Sugar, perfect in tast and colour. The Merchandize af∣forded by the Palmtree, and la∣den on Vessels, are dryed 
+Coco's
+ or Nuts, the Rind, and many other Commodities before mentioned: this justifies the Palm-tree's build∣ing,
+
+rigging and lading a Vessel with goods and Ship-provisions for the Mariners; all her own pro∣duct.
+
+
+The Palmtree being so benefici∣al and advantageous to humane life, doubtless no Tree in any known part of the World may come into competition with it; and amongst all her advantages, no other so well satisfies the sight when laden with great and smaller Clusters, some ripe, others colour∣ing; some in the blossom, others forwarder; the grateful appear∣ance of her Fruit is no less pleasant than her admirable foecundity: Her tallness not inferior to a high 
+Cyprus-tree,
+ her Trunck slender, without the help of Boughs to climb by, her Nuts retired at the top, amongst her leavs and branch∣es, makes her resemble a fond Mo∣ther, bringing her Children about her the better to preserve them,
+
+and cutting off all intercourse tending to their destruction.
+
+
+All places produce not 
+Coco's
+ of the same bigness, which are great or small according to the nature of the Climate, and quality of the Soyl fitted for the production of that fruit. The Coast of 
+Malabar
+ being cool, and abounding with Rivers (which spring in the Moun∣tains of 
+Gate,
+ to whose foot this Coast extends) affords such large and fair 
+Coco's
+ that the 
+Lanhas (i. e.)
+ young and imperfect Nuts of 
+Cochim
+ and those Territories, are every one sufficient to quench the thirst of two persons. After these are cryed up these of the Island of 
+Ceilon,
+ where the ground is very rank and luxuriant, yet inferiour to the Soyl of 
+Malaca,
+ and the places adjoyning, where the 
+Coco's
+ are the greatest. Those of 
+Arabia the Happy
+ are fairer than any yet spoken of; the goodness of the
+
+Soyl, and nature of the Climate, being proportionably advantage∣ous, the name of 
+Happy
+ proves it. Of all these places and sorts of Fruit I am an Eye-witness; Two peculiar virtues of these 
+Coco's,
+ are not to be passed over in silence: The first, That when the Cluster begins to appear, being yet co∣vered with the flower; gathered, pounded, boyled in three pints of Cows milk, tis an infallible cure for the 
+Yellow-jaundies;
+ beside the opinion had of this remedy, I speak by experience, having with it in few days cured one troubled with this disease. The second is, That in the opinion of the Women, (where fancy most domineers) the water of 
+Lanhas
+ makes a wash for the face, which eminently betters the Complexion, either by creating it where Nature bestow'd it not, or advancing it where Nature is deficient, or preserving it where it
+
+was naturally allowed. From what hath been said, is evidently con∣cluded; That if the Author of Na∣ture created all Trees for the ser∣vice of man, the Palmtree of all those doth most industruously serve and advantage him, by so many wayes, and so considerable productions; and because that which bears 
+Dates
+ is of the true Race of Palmtrees, somthing is to be said of that and her Fruit.
+
+
+Those Trees which bear 
+Dates,
+ yield them not in 
+India;
+ there on∣ly affording the 
+Sura
+ before men∣tioned, of which Wine is made Northward, those Trees grow in the greatest quantity; some have 
+Dates,
+ which appear in fair clusters but come not to maturity: the reason must be in the Climate which favours them not. In 
+Africa
+ they attain the highest perfection, 
+Dates
+ being the natural Fruit of that part of the World; those of
+
+Arabia,
+ where they grow in great quantities, are excellent; pleasant to the sight in beautiful Clusters, (which beginning to ripen appear in various colours, consisting of a faint Vermilian, and paled white∣ness, called the 
+Date-colour
+) and more acceptable to the tast. 
+Ara∣bia
+ produceth divers sorts, parti∣cularly 
+the Happy;
+ (
+Petrea
+ is not without them.) A baser sort there is, which serves for common su∣stenance, given to Horses for Pro∣vender: Others there are of a more exquisite tast and value, amongst them those called 
+Muxa∣nas,
+ which are the least, but natu∣rally recompenced by an excellent flavour; few of them exported out of 
+Arabia;
+ the 
+Xarifes
+ reserv∣ing them for themselves as excel∣lent, and give the reason that their exquisitness makes them properly theirs, challenging the best things in the World, as the posterity of
+
+Mahomet,
+ and for the Religion they profess, which they would falsly put off for Orthodox. This Fruit ripens not upon the Tree if there be not near it, or in sight, the Fruit called the 
+Male;
+ a secret in Nature found by experience, the cause yet undiscovered.
+
+
+Writing this, I remember a dis∣course I had with an Old man, but a credulous Christian; As we were eating some of these 
+Dates,
+ I was observing, That the stone beaten and drank in water was good for Women in strong labour, to ease their pangs, and facilitate their Delivery; and that it had on one side the perfect shape of the letter O. the good Old man in great devotion and simplicity, answered me with a story, which with him passed for infallible; 
+That the letter
+ O, 
+remained upon the stone of a
+ Date, 
+for a remembrance that our
+ Blessed Lady 
+the Virgin,
+
+with her Divine Babe in her arms, resting her self at the foot of a
+ Palm∣tree, (
+which inclined her Branches, and offered a Cluster of
+ Dates 
+to her Creatour
+) 
+our
+ Lady 
+pluck'd some of the
+ Dates, 
+and eating them, satisfied with the tast and flavour, cryed out in amazement,
+ Oh how sweet they are! 
+this Exclamation engraved the letter
+ O; 
+first word of her speech upon the
+ Date-stone, 
+which being very hard, better pre∣served it.
+ I have related this sto∣ry of more piety and plain devo∣tion, than truth and certainty, for the Readers diversion and enter∣tainment; Yet not to believe this Old-wives Fable would be with them scandalous. There are some Palmtrees which bear a Fruit cal∣led 
+Macomas,
+ of a singular virtue, (besides their scent, more grateful than that of a 
+Camojesa,
+ and their perfect 
+Date colour:
+) This Fruit eaten upon an overcharged sto∣mach,
+
+after too much repletion, in a very little time digests all, and begets a fresh Appetite; God be praised these Trees are so far re∣moved from Europe, that our E∣picures are without the advan∣tage of their Fruit, which would advance the luxury of those men St. 
+Paul
+ speaks of, 
+Quorum Venter Deus est,
+ whose God is their Belly, from their frequent sacrifices made to it; I have had experience of this natural virtue of this Fruit: The Stone eaten is good against 
+Hypocondraical
+ Vapours.
+
+
+Another Fruit called 
+Trefolim
+ (which hath the name of the Tree which bears it) grows in Clusters of fifteen or more, each as big as two fists joyned; the first colour green, when ripe ends in a Pur∣ple colour; opened, hath three partitions, repleat with a certain substance like ill coagulated milk; fresh and cooling, of an insipid
+
+tast, yet commonly eaten for a 
+Re∣gallo;
+ the Kernell of a faint white; the Fruit of a Palmtree called 
+A∣reica,
+ not much differing from the 
+Trefolim,
+ is of eminent esteem with the Native 
+Indians:
+ The Island of 
+Ceilon
+ produceth the most and best. These 
+Coco's
+ are exported and prove good Merchandize, not bigger ordinarily than an Hasle∣nut, the Kernell firm and hard, the usual dainty of the 
+Indians,
+ who accustomed to chaw the leaf of an herb bigger, thicker, and of a clearer green than an Ivy-leaf, are forced to champ 
+Areica;
+ from warming and recovering the sto∣mach, esteemed very cordial and delicious; the juyce contracteth the mouth like Alum, or a 
+Cypress-Apple
+ if chawed, which sometimes supplyes the virtue of 
+Areica,
+ this fruit like 
+Dates
+ grows in Clusters, two hundred or more counted in a bunch; exquisite Beads are made
+
+of them, white, streak'd with black: The 
+Indians
+ so dote on this fruit, as to have it common in their mouths, thence transmit the juyce to their stomach, which it fortifies and strengthens, fastens the teeth and helps digestion; therefore the last thing done at meals is to chaw a piece of this, which they as high∣ly prize, as the 
+Europeans
+ their choycest fruit; but from the ex∣perience of both, I am for my Country-men. The 
+Coco
+ or Nut of 
+Maldiva
+ is another fruit of the Palmtree; we have already spo∣ken of its shape, virtue, price, and value; the fruit commonly called 
+Coco
+ is found on the Sea, or cast upon the shoar, the make of the Tree which produceth them, na∣ture hath hid at the bottom of the deep, and charged her self with its Culture. I shall conclude this Discourse of Palmtrees, with this observation, That nothing has life
+
+without Enemies of that life, which by divers wayes and strata∣gems attempt and assault it: The vegetation of the 
+Palme-tree
+ wants not these, by the 
+Indians
+ called sicknesses and diseases, which pre∣judice this so adventageous Tree and her fruit, by which Man is so plentifully provided, as he is said to live and dye, the same is said of the Palmetree, which, like man, hath infirmities and diseases, by which, and many accidents, they pine away, decay, dry up, and at last dye. There is a long list of diseases incident to this Tree, which work her death if Reme∣dies are not timely applyed.
+
+
+A mortall Enemy to this Tree, is a certain species of black wormes, which are naturally so provided, as easily to pierce any Timber green or dry, thereby conveying themselves into the heart of it, neither doth this con∣sume
+
+much time, they desisting not till they arrive at the inner∣most sap, living on what they corrode and deface, casting out the remainder. This in the 
+Palme-tree
+ is effected with more facility and less time, the wood being tender, and the marrow (the part fed upon) savory: With greater gusto, and by natural instinct, they get to the top of the Tree; and what they did in the Trunck, do in the Eye of the 
+Palme-tree,
+ with more ease and satisfaction; devouring the Eye, which is Ex∣treamly white, tender, sweet, de∣licious and gratefull, to a miracle. A 
+Palme-tree
+ is often cut down, to come at the Eye, as her choycest fruit and dainty; I have had great experience of its goodnesse; the worme hath no ill palate in the choyce of this morsell; timely re∣medy not applyed, the worm leaves not, till, (as they call it) she
+
+procures the death of the poor Tree. To prevent this, the pro∣prietor, or those called Bandarins, (the onely men charged with these Trees) are obliged to watch these thieves; and with Iron In∣struments, invented for that pur∣pose, (sometimes made streight, when the holes go so, sometimes crooked when they make their way by turnings and meanders) to pursue them, till they seize them, and upon their forked point draw them out dead.
+
+
+Another distemper fastens on these Trees, through the careless∣nesse or little dexterity of the Bandarins, when they clime the Tree, to empty the Sura, out of the Gorgo or Vessel, into their Gourds; if by chance, any drop lights on the Tree, by a natural malignity, it engenders another worme which attaques and de∣vours the Eye. This disaster is
+
+desperate beyond the help of re∣medy, the Master looseth the Tree, but the Custom of the Country, obligeth the Bandarin to make satisfaction: the price of every such neglect is ten 
+Pardaos,
+ in our money, three
+ 
+Mil-Rees:
+ The great abundance of these trees in 
+India,
+ lessens the mulct; Every 
+Palme-tree
+ well manured, and growing in good ground, yields the owner one 
+Pardao
+ year∣ly. According to this Estimate, every Proprietary, gives a near guesse at the Rent of his Or∣chard.
+
+
+A third disease seizeth this Tree (her Emolument to man seeming to beget her more Ene∣mies to lessen her value) which is no open and violent adversary, but created by the same Earth, which gives growth and nourish∣ment to the root of the tree, and is no faint resemblance of a
+
+Nurse, who for want of milk, or having it spoyled, sees her Nursl∣ing pine away, and (without ume∣ly prevention) languish till it dyes. The 
+Palme-tree
+ is not se∣cure from this danger, the Earth which produceth it, in a long tract of time, or by some maligne in∣fluence, growing barren; this defect is communicated to the Tree, which renders it infirme, vitiated, barren till it fails utterly. This distemper and indisposition of the Earth, (which the 
+Palme-tree,
+ by an attractive virtue sucks in, with the moysture that nourish∣eth it, and conveyes throughout from root to head) is discovered, by a reddish minute sand, appear∣ing in the Earth; The disease di∣lates not onely in the body, but outwardly on the trunck of the Tree; when the 
+Bandarin
+ per∣ceives this, he is forced through the sound part of the tree to make
+
+a great hole, to hinder the conta∣gious creeping further, as is pra∣ctized in Gangrenes, where the sound part is cut off: the parts af∣fected without, are unbark'd, and where the sand appears they run in hot Irons. These cures not timely applyed, the profitable tree perisheth.
+
+
+These disasters are accompani∣ed with a secret of Nature, worth reflection. Two or three years before this untimely death, these Trees are said to be laden with 
+Co∣co's
+ or Nuts, so beyond Custome, that this unusual excesse is suspici∣ous to the Natives, and awakens them to watch the diseases inci∣dent to the Palmetree, so to hinder them by a timely preven∣tion; Nature by this overplus, seems to supply the absence and losse of this Tree; and the be∣neficial Palme, foreseeing the End of her munificence, strives
+
+to recompence her Owner.
+
+
+There is yet in the Palmetree a thing more excellent, delicious, more gratefull to the palate, than hath been mentioned; a Morsell to be compared with whatsoever is esteemed most delicate, is that they call Palmito, the innermost Eye of the tree; which being cut out and stript of the boughes, may passe for the Center of all the branches, which in the heart of the Tree, before they shoot forth are so joyned and united, as to appear the same thing. The substance of this 
+Palmito
+ is white like milk, delicious in extreamity, coagulat∣ed, tender, of a taste above milk, more delightfull and of a better Confection; 
+in fine a Bocone
+ plea∣sing in the highest, and free from all fulsomenesse. What I have said is without exaggeration, the Reader I am sure, would, if he tasted it, be of my opinion, who
+
+am able to give a sufficient ac∣count of this 
+Palmito,
+ for besides my experience of it in 
+India,
+ where other provision wanted not, at the Cape of good Hope (where the Vessel, we came in for 
+Portugal,
+ suffered shipwrack, at the land called 
+Terra de Natal,
+ and where we spent eight months on shoar, in the place we were first cast upon, to build two barks to save our Company) I had leisure enough to be convinced of its ex∣quisitenesse, there scarcity of pro∣vision, obliged us to make use of what we found; 'twas our good fortune to light on great store of Palmetrees, not of those which yield 
+Coco's
+ or Nuts, but of that species which bear Dates; there, having known in 
+India
+ what the 
+Palmito
+ was, we in a short time fur∣nished our selves with as many as grew in a leagues compasse; the 
+Palmito
+ served us for food and
+
+dainty, neither was its gratefull∣nesse hightned by our hunger.
+
+
+The Fruitfullnesse and profit of the Palmetree, lasts many years; there are signs for a near guesse, at her precise duration. This tree puts forth every year four Branches, which leisurely dis∣play themselves in the forme of a Crosse, after three or four years decay; which the Palmetree of her self casts off, or they are lopt off by the Bandarins, every one leaves a mark where it grew: By these is given a probable conje∣cture at the age of the tree. That it may appear how the whole Palmetree is serviceable to hu∣mane life, nothing superfluous, but all substantially profitable, from the deepest root to the high∣est leaves: The Root (as hath been said before, where we spoke of the virtue of the other parts) Chark'd, gives an excellent tem∣per
+
+to Iron; The boughes and leaves, made up with a wick, serve for a torch, (called by them 
+Chuli
+) with this Travellers are secure from all danger of Serpents, which abound in 
+India,
+ are of ex∣quisite poyson, and their multi∣tude makes them frequent the Roads, and assault Passengers: They fly from the light of this 
+Chuli;
+ of another service when they fish in the Rivers, in stead of a Candle as is usual in 
+Portugal:
+ Of the leaves besides, are made great Parasols, capable to shelter two persons from the Sun or Rain; these require a man to carry them (there are persons deputed for that office) and are called 
+Boy de Sombrero;
+ small portable ones there are for the same use, none walking in the streets, winter or summer without great or little Pa∣rasols. The leaves have another use; of them are made Cover∣ings
+
+for their Palanquins or Lit∣ters, in which one person is com∣modiously carried and defended from the rain and sun. Some Palmetrees afford leaves called 
+Olhas,
+ which serve for Books and Paper, with a small Iron Pencil in stead of a pen, they open and grave the letters, upon the leaf or 
+Olha,
+ without the use of Inke, as fast and as easily, as the swiftest writer. The leafs of the Tree 
+Cajuri
+ dried, remain of a lively white colour, which are made in∣to hatts, of great account though cheap, being so becoming, so ac∣curately wrought and light, that every body the 
+vice-roy
+ not ex∣cepted, desires to wear them: the 
+Indians
+ call them 
+Palhate.
+ The Bark of the 
+Poyo
+ or twig on which grow the fair clusters of 
+Coc'os,
+ being of a thicker and stronger substance furnish the Common people, particularly the Banderins,
+
+who dresse the Palmetrees with Caps made like the English ordi∣nary Riding-caps.
+
+
+To end the discourse, I shall ob∣serve, (what challenges a reflecti∣on) the natural fabrick of the Palmetree; that the trunk being very slender and disproportiona∣ble to the tallnesse, the whole weight of the boughes, (called Palmes) and of the fruit, being at the top, in a manner at the verti∣cal point of the slim body, the boughes, as they grow, displaying themselves, and amongst them hanging the fair clusters of 
+Coco's,
+ the shock of winds, should with∣out doubt, easily break and ruine this disproportioned Machin. Provident nature, against this, hath for every new birth of those boughes provided swathes, of the same matter and texture of the Palmetree, not unlike course cloath or Canvas: with these the
+
+branches and what grows there, are swathed so strongly and se∣curely as to defy any violence of winds to disjoynt them: they are liable to be shak'd, yet not where they have this Girdle, which to break is a work of Iron. By these the Palmetree, as a tender mother, gathers her Children about her, as secure from being lost and scat∣tered, as they are well defended against any violence of wind, which would tear and force them from her bosom.
+
+
+This is what, for the satisfaction of the Curious, could be known of the Palmetree, of what species soever; who desires a more parti∣cular and severe relation, may travell into 
+India,
+ and those other parts where this Tree grows, may enquire more minutely, and per∣haps loose his labour.
+
+
+Finis.
+
+
+
+
+
+
+
+
+
+
+

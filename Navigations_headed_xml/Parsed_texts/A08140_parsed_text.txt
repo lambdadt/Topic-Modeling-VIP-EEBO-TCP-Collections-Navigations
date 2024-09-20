@@ -1,0 +1,988 @@
+July 22. Numb. 41. More newes of the Duke of Brunswick Relating the late and full ouerthrow giuen by him to two regiments of Monsieur Tilly. The continuance of Bethlem Gabers warlike preparations. Some new propositions made by the emperour vnto him. Count Mansfields march out of Embdenland, vnto Meppen. With other newes of the Prince of Orang and Spinolaes last designes. Together with diuers other particulars, from seuerall places and the continuation of our former newes.
+Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.
+Ann Arbor, MI ; Oxford (UK) :
+Text Creation Partnership,
+2004-08 (EEBO-TCP Phase 1).
+A08140
+
+
+
+
+STC 18507.120
+
+
+
+ESTC S119826
+
+
+
+
+
+99855032
+
+
+
+
+This text has been selected for inclusion in the EEBO-TCP: Navigations collection, funded by the National Endowment for the Humanities. To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication ( http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to http://www.textcreationpartnership.org/ for more information.
+Early English books online text creation partnership.  Navigations series.
+July 22. Numb. 41. More newes of the Duke of Brunswick Relating the late and full ouerthrow giuen by him to two regiments of Monsieur Tilly. The continuance of Bethlem Gabers warlike preparations. Some new propositions made by the emperour vnto him. Count Mansfields march out of Embdenland, vnto Meppen. With other newes of the Prince of Orang and Spinolaes last designes. Together with diuers other particulars, from seuerall places and the continuation of our former newes.
+Butter, Nathaniel, d. 1664, publisher.
+Sheffard, William, publisher.
+[2], 22 p.   
+
+
+London :
+
+
+printed [by Eliot's Court Press] for Nathaniel Butter, and William Sheffard,
+
+
+1623.
+
+
+Header created with script mrcb2eeboutf.xsl on 2016-01-29.
+Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)
+eng
+Tilly, Jean T'Serclaes, --  Comte de, 1559-1632.
+Thirty Years' War, 1618-1648 --  Early works to 1800.
+Europe --  History --  17th century --  Newspapers --  Early works to 1800.
+2004-02
+TCP
+Assigned for keying and markup
+2004-03
+Apex CoVantage
+Keyed and coded from ProQuest page images
+2004-04
+Judith Siefring
+Sampled and proofread
+2004-04
+Judith Siefring
+Text and markup reviewed and edited
+2004-07
+pfs
+Batch review (QC) and XML conversion
+
+
+
+
+
+
+18507.120
+
+
+99855032
+
+
+20502
+
+
+
+
+
+
+
+
+
+
+
+
+MORE NEWES OF THE DVKE OF 
+BRUNSWICK. Relating
+ The late and full ouerthrow giuen by him to two Regiments of 
+Monsieur Tilly.
+ The continuance of 
+Bethlem Cabors
+ warlike preparations. Some new propositions made by the Emperour vnto him. Count 
+Mansfields
+ march out of 
+Embdenland,
+ vnto 
+Meppen.
+ With other newes of the Prince of 
+ and 
+Spinolaes
+ last designes. 
+Together with
+ Diuers other particulars, from seuerall places AND The Continuation of our former Newes.
+
+
+LONDON, Printed for 
+Nathaniel Butter,
+ and 
+William Sheffard,
+ 1623.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE CONTINVATI∣ON OF OVR FORMER newes out of 
+Turky, Hungary, Austria, Bo∣hemia, Silesia, Saxonie, Hassia,
+ the 
+Palla∣tinate,
+ the 
+Low Countries,
+ and di∣uers other places of the vpper and lower 
+Germanie.
+
+
+T
+Here hath in some former bookes, beene mention made of the Empe∣rours proffering of the vpper 
+Hun∣gary
+ vnto 
+Bethlem Gabor,
+ vpon con∣dition that he would lay downe Armes, and suffer the Emperour to enioy the rest quietly: but this proffer being as it seemes refused, and 
+Bethlem Gabor
+ continuing his preparations; there hath it seemes beene aduice ta∣ken since the Pallatine or chiefe Gouernour of 
+Hun∣gary
+ and other of the States comming vnto 
+Vienna,
+ to alter the person of the King of 
+Hungary
+ (though the kingdome should still remaine vnto the house of 
+Austria
+) which was by consulting how to make the
+
+
+Emperours Sonne King of 
+Hungary
+ vpon his fathers resignation. That so, as 
+Bethlem Gabors
+ quarrell hath beene partly personall to the Emperour, as well as titular, against the King of 
+Hungary;
+ much of the earnestnesse might this way be broken, by altering the person of the King, with whom he maintained the seud; which new King also, might likewise vpon other and easier termes, entertaine a treaty of compo∣sition, then the Maiestie of an Emperour m
+ght rea∣dily stoope vnto. And this great designe to haue beene agreed vpon, before the Hungarians departure homeward, (who went to prepare the subiects a∣gainst the next Diet, to accept of this alteration) the letters from 
+Vienna
+ dated Iune 20, intimate vnto vs.
+
+
+But whither this that followes be any thing to that purpose we cannot tell; that is, whether this messen∣ger was sent to propound this businesse vnto the Duke of 
+Bauaria,
+ and to prepare his assistance to the election of the Emperours 
+, seeing it does also some way concerne him, to diuert 
+Bethlem Gabors
+ Friends, or to make him more enemies, he being as formidable vnto the Duke as vnto the Emperour. Howeuer thus the former letters write, that the Count of 
+Hohenzolleren
+ was in great poast hast pre∣sently vpon the conclusion of the former designe for the Emperours sonne with the Hungarians, sent vn∣to 
+Munchen
+ vnto the Duke of 
+Bauaria.
+ The letters name no more of the errand, but matters of great importance and secrecy. From which towne of 
+Mun∣chen
+ the Count of 
+Hohenzolleren
+ aforesaid (hauing treated with the Duke) is to goe towards the Impe∣riall Diet either at 
+Franckford
+ or 
+C
+llen,
+ as the Hun∣garians
+
+
+doe to theirs at 
+Presburgh:
+ And it is thought that if all hold on stilll, this businesse shall also be propounded vnto the Princes or their Commissio∣ners, that are there to meet at that Diet.
+
+
+The prosecution against those of the religion in 
+Bohemia,
+ is not much slackened in the meane time, And concerning those of the lower Palatinate, the letters from 
+Straesburgh
+ lune 23. relate; how that his Imperiall Maiestie hath written to the towne of 
+Spiers;
+ that they should freely and forthwith deliuer ouer all such places, as haue beene hitherto, and now are possessed by Heretiques (the stile that he vouch∣safes the Protestants) into the hands of Catholique professors, and principally, hath he recommended the godly 
+Capuchi
+ 
+riers (to whose order the Em∣perour seemes to be much addicted) to be placed in them. In the same letters, he hath also giuen order, that there be dilligent and strict enquiry made, whe∣ther any townesmen of 
+Spiers▪
+ hath any good
+ of any subiect of the Palatinate, vnder his roofe or custo∣die, which haue beene in these last warres sent thither out of the Palatinate to be kept there for the more safety, which deuice seing it was done since the wa
+s, and the proscribing of their Prince, and the giuing away of his countrie; the Emperour will not suffer that the goods be kept by any subiect of the Empire, but be deliuered ouer, as confiscated goods, vnto the Imperiall officers, that with them those Garri∣sons now left in the Palatinate might be paid: which hath beene partly performed already. Thus farre the lettters.
+
+
+As for other businesse of the Palatinate; where∣as
+
+
+vpon the comming in of 
+Don Guilielmo,
+ the new Gouernour of 
+Franckendall,
+ and of the other townes left by 
+Don Cordoua,
+ there had beene a new and intol∣lerable taxation laid vpon the countrey of 45000. Rix Dollars a moneth, which was to continue for whole 18. moneths, (that is during the whole time of the cessation of Armes) this time is now by the gra∣cious endeuours of his Maiestie of great 
+Britaine
+ shortned, being to continue no more then 3. months, and yet is that summe of 45000, brought downe to 25000. And after this, as if all there were there se∣cure and quiet, 
+Don Gulielmo
+ hath betaken himselfe to his solace this hot season with his wife and fami∣lie, in some garden houses at 
+Creatznach.
+
+
+The newes in the other part of the Empire, is most about the vnruly 
+Cosacks;
+ who haue made them∣selues so welcome, that the country of 
+Silesia
+ is resol∣ued, whatsoeuer come of it, to suffer no more of their Nation to come amongst them. The S
+ therefore and great men of the Country, haue in their owne name (it seemes) with the generall good liking of the whole Country, euery where affixed Proclamations to incite one another, to take vp Armes, and to keepe out those 
+Cosacks
+ which are comming after. The te∣nor is to this purpose: That seeing these idle and vn∣necessarie hangbies and followers of the 
+Cosacks
+ Ar∣mie, wenches and boyes, haue many times hereto∣fore (being winked at) most shamefully pillaged and spoiled their Country, to the great impouerishment and disgrace of the Inhabitants, that these outrages are vnfit to be tolerated by free men any more: we wish and aduise therefore all the seruiceable horse
+
+
+and foot of this Country to be ready to take the Al∣arme vpon the first approach of the next 
+Cosacks,
+ that they may by their publike Armes conioyned, rep
+ll or destroy so wicked a people. And this is their Pro∣clamations, which the Princes and States haue giuen out withall, that they will answer vnto the Emperor▪ And thus they write from 
+Bresl
+w
+ in 
+Silesia
+ it selfe, Iune 20. Which way therefore these 12000 
+Cosacks,
+ which haue beene leuied by the Prince of 
+Rac
+d,
+ and left vpon the borders of 
+Silesia
+ and 
+Poland,
+ will get into the Empire, does not yet appeare; which may be the reason that those 12000 
+Cosacks
+ are said to haue enquartered themselues in and about the towne and Duchie of 
+Crossen
+ by 
+Franckford
+ vpon 
+Oder,
+ (which belongs vnto the Marquesse of 
+Brandenburg,
+ and touches vpon 
+Silesia
+) as if they would not ad∣uenture to come into 
+Silesia
+ without the Countries le
+ue, or the Emperours peremptorie commission. This resolution of the 
+S
+estans
+ to keepe out the 
+Co∣sacks,
+ is confirmed also by the letters from 
+Prage▪
+ Iune 20.
+
+
+Thus some of the Emperours friends hauing been hitherto as troublesome, as others of his enemies; there haue beene many consultations held to make a faire end of these foule matters. Halfe (that is the vpper 
+Hungary
+) hath beene as tis said, offerd to 
+Beth∣lem Gabor
+ before; but that seeming to little for him, who in title had once all; that is the title of the whole kingdome of 
+Hungary,
+ and hauing so sure a friend of the Turke, who hath promised to reestate him in the whole kingdome once againe, maugre his enemies; there haue beene other and more silken propositions
+
+
+made vnto him vnder hand; and namely the Empe∣rours owne and only daughter, hath beene offered him to wife, shee hauing this twelue month (or there∣abouts) beene a widdower. This hauing beene pri∣
+ady and ouertly done, we haue not yet heard of any successe; or that he being a man of fiftie yeeres of age, and one who hath no apparent hope of issue from his owne bodie, hath listned to a treatie of ma∣riage with a faire Ladie. But on the contrary rather we heare, that he suspecting that it was not all of good will, and knowing that he hath lost so much time, as he should take to consider of it, did in the meane time goe on with his warlike preparations, as fast as euer. Lately therefore hath he drawne downe his forces of the 
+Walachians,
+ in the vpper 
+Hungarie,
+ neerer to the borders of the Empire▪ and his aids of Turkes and 
+artars are sent to 
+Cantsia,
+ and 
+Er∣larre.
+ Thus they write from 
+Vienna,
+ lunc 18. This 
+Canisia
+ is seated in the vpper 
+Hungarie
+ vpon the lit∣tle riuer 
+Zala,
+ neere the place where it fals into the reater flood 
+Drauus,
+ or the 
+Thrab,
+ which riuer 
+Dra∣uus
+ hereabouts parts 
+Hungarie
+ from 
+Styria,
+ which is part of the Emperors dominions.
+
+
+While all this was a doing, the same letters mention a treason to haue beene intended against 
+Bethlem Gabor,
+ which was to make him away by poyson. Who was the author of this we heare not, but the discouerie was made by the honestie of his owne Cooke, who should (peraduenture) haue beene corrupted to haue poysoned his Lord in a dish of meat or broth.
+
+
+The same Letters likewise relate, that after all the former Treaties, Offers, and Propositions, made vn∣this 
+Bethlem Gabor,
+ hee perseuering notwithstanding in his former intentions, had lately minted both gold and siluer Coynes, impaling vpon them his owne Armes of the Principalitie of 
+Transilvania, &c
+ with the Armes of the Kingdome of 
+Hungary,
+ wri∣ting himselfe vpon that Coyne, 
+King of Hungary 
+∣lect:
+ by which it seemes hee meanes to make good his former Election notwithstanding his after relin∣quishment of that Title vnto the Emperour, in lieu of diuers Townes and Honors conferred vpon him by the Emperour, both in 
+Hungaria,
+ where he holds great 
+Wardein, &c.
+ and in 
+Silesia,
+ where hee is Duke of 
+Opp
+lin
+ and 
+Ratibor:
+ which Title how hee will be able to make good, time will shew.
+
+
+Concerning the Duke of 
+Saxony
+ and his procee∣dings, wee heare no more then this, how that he ha∣uing an Army of about 24000 men of his owne in a readinesse, it hath beene lately thought, and yet is, that he hath an intention to forme a Campe in his owne Countrey of 
+Duringen,
+ that so hee might bee neer both to 
+Tilly
+ and the Duke of 
+Brunswicke,
+ what∣soeuer should happen.
+
+
+Lodowicke
+ Landtgraue of 
+Darmstadt,
+ in whose quarrell, as it is thought, 
+Tilly
+ came into 
+Hessenland,
+ is still busie about fortifying his Towne of 
+G
+es
+n,
+ fearing he may haue vse of his wals.
+
+
+Turne wee now vnto 
+Monseur Tilly
+ and his de∣signes, of whose remouing his former Quarters fur∣ther into 
+Hessenland,
+ from the Duke of 
+Brunswicke,
+ and his taking vp the passages against him, and his
+
+
+beginning to leaue the Land of 
+Hessen
+ altogether, we gaue you a very large Discourse in our last booke printed 
+Iuly
+ 18. After which, thus they write of him from diuers place, 
+Iuly
+ 5, and 6. 
+Monseur Tilly
+ is now at last quite remoued out of the Bishopricke of 
+Hierschvels
+ in the Land of 
+Hessen,
+ and hee will doe his best endeuour (as it is thought) to cut off Duke 
+Christian
+ of 
+Brunswickes
+ passage, from going vpwards, vpon which occasion drawing neerer one to another, they may happen to encounter.
+
+
+Hee had sometimes before, quartered part of his Forces in the Duke of 
+Saxonies
+ dominions of 
+Du∣ringen,
+ about 
+Isenach,
+ which hee hath now also quit, re
+y
+ing his Forces backe againe through 
+Hessen∣land,
+ to lye at 
+Werra,
+ expecting some Forces, which were to come in vnto him, where of those Crabats, which lay about 
+Wormbes
+ in the 
+Palatinate,
+ were first looked for: who hauing beene at his last com∣ming downe towards 
+Hessenland
+ quite cashierd, and they vpon that, being marcht vpwards a whole daies iourney aboue 
+Nuremberg
+ in the vpper 
+Palatinate,
+ are now with all haste and earnestnesse called backe againe, to come to his ayde. And of their returne through the Bishopricke of 
+Bambarg,
+ wee haue by other Letters heard how that they would not out from thence, vntill they had gotten money of the Country people, which was the last that wee heard of them.
+
+
+Another Friend which 
+Monseur Tilly
+ expected to come with all speede vnto him was the Baron of 
+Anholt,
+ of whose march and neernesse to him, wee told you in our last, since when, wee heare for cer∣taine,
+
+
+that the Landtgraue Maurice of 
+Hessen,
+ hath with 14000 men way laid him, and stopt vp all the passages in his owne Countrey, to keepe him from ioyning with 
+Tilly.
+ So that 
+Anholt
+ bringing but 6000 with him, how likely they are to force their passage that way, through 14000 men laid with ad∣uantage, is easie to iudge.
+
+
+After this, 
+Monseur Tilly,
+ partly for that hee was extreamly pressed with hunger, and partly for suspition of 
+Brunswicke
+ neernesse and strength, and his iealousie of his intention to make vpwards, hee quite remoued with his whole Army into the Bi∣shopricke of 
+Eischvelt.
+
+
+So that as on the one side hee freed the 
+Landt∣graue
+ of 
+Hessen
+ of his present feare of him, and gaue him liberty withall, to imploy those Forces (which hee was before enforced to keepe for the guard of his owne person and palace, about the Towne of 
+Cassel
+) in blocking vp the passages against 
+Anholt.
+ So on the other side hath hee both before and be∣hinde him, done his best endeauour to stoppe vp all the passages by which 
+Brunswicke
+ might come at him.
+
+
+Leauing therefore the Land of 
+Hessen
+ with some few Forces onely in it, in Garison, to assure certaine places vnto him, as at 
+Witzenhowsen
+ by name▪ hee left 500 Musketiers: At 
+Allendorss
+ 400 Musket∣tiers, and at 
+Eishwege
+ as many, hee afterwards mar∣ched in a good order, and in fayre Battaglia out of the Land.
+
+
+The Fort of 
+Wanfreid
+ they in their way spoyled and forsooke, for hauing no vse of it themselues,
+
+
+they left it as vselesse to their Enemies.
+
+
+These foure a
+ore mentioned Townes, of 
+Wit∣zenho
+sen, Allendorss, Eis
+hwege,
+ and 
+Wanfriede,
+ are on the East Confines of 
+Hessenland,
+ still tou∣ching vpon 
+Duringen, Allendorss,
+ and 
+Eis
+hwege,
+ and being on the Westerne banckes of the Riuer W
+a, on 
+Has
+a
+ side, and the other two on the East, towards 
+Duringen,
+ and all foure are in the way from 
+Isenach, Cru
+tzbergh
+ and 
+Ber
+ka
+ (where his Quarters last lay) towards the County of 
+Plesse
+ and Bishopricke of 
+Eischvelt,
+ whither hee then went, which is to the North of 
+Hessenland.
+ The Towne of 
+Duderstadt,
+ whereabouts 
+Brunswicke
+ lies, being left to the East and right hand of him, and still somewhat before him.
+
+
+And thus with driuing away the Cattell, in get∣ting vp all the meat, Corne, flesh, wine, and all such prouision that Souldiers need, and vse thus to make booty of: they drew all vp into the Bishopricke of 
+Eischvelt,
+ all I say saue onely the three insatiable Regiments (as our Le
+e
+s call them) of the Duke of 
+Saxen La
+nburg,
+ the D
+ke of 
+Holstem,
+ and of 
+Furstenberg,
+ who being vsed to pillaging, (for which they haue beene obserued more then the rest of their fellowes) would not follow the Army, but falling to their old trade of foraging, they came short home: of which aduenture, with the manner also of the archieuement, wee shall now tell you more by and by.
+
+
+Wee left Duke 
+Christian
+ in our last, at the Fort of 
+Duderstad
+ in the 
+ishopricke of 
+Eischvelt,
+ of his march thither, with the order of his Army, we
+
+
+haue since receiued this following particular.
+
+
+The 16 of 
+Iune (stylo novo)
+ the Duke 
+Christian
+ beganne to march vpwards with his whole Forces, being 28000 Horse and Foote, which fayre Army was diuided into three Squadrons or Diuisions: the Vantguard, the Battaile, and the Arrierguard: The Van was led by Duke 
+William
+ of 
+Saxen We
+∣mar:
+ the Duke of 
+Brunswicke
+ himselfe had the m
+ine Battaile or body of the Army. The Re
+re was brought vp by Collonell 
+Kniphowsen.
+ In this faire and wa
+like equipage, the 28 of 
+Iune,
+ they by faire and easie marches, came into the Bishopricke of 
+Eischvelt,
+ all the three Diuisions together, both Horse, Foot, Baggage, Cannon, and Ammunition, so that they were 12. dayes in this march from 
+Hal∣berstad
+ to 
+Eischvelt.
+
+
+This order of their march, with their number, strengths, prouisions, and resolutions, was (as the Letters doe report) by priuate intelligence of some Camp-Traytors, particularly described vnto 
+Mons
+ Tilly,
+ which was at last discouered by an intercep∣ted Letter, with a further practice also of corre∣spondency with the Enemy, how a plot should bee laid to deliuer the Duke of 
+Brunswicke
+ into 
+Mons: Tillies
+ hands aliue.
+
+
+The Discouery being thus happily made, the Tray∣tor was by his owne hand writing found out, appre∣hended, and sent prisoner vnto Duke 
+Christians
+ Bro∣ther the Duke of 
+Brunswicke,
+ residing at his towne 
+Wolfenbuttle.
+
+
+Thus the whole state of the Campe being made knowne vnto the Enemy, caused the Duke to double
+
+
+his guards, and looke to his watches more narrowly, and to entrench and to fortifie himselfe the more strongly; whereupon followed the building of this Fort at 
+Duderstads,
+ (where the Army now rested) and to lay his men at more security, the towne of 
+Heigerstad
+ which belongeth vnto the Bishop Elector of 
+Mentz,
+ was for the time taken in, and souldiers quartered in it. And thus write the seuerall Letters from the neighbour places: 
+Brunswicke
+ lying here∣abouts, and Monseur 
+Tilly
+ hauing drawne his Forces as neere that 
+ay as should serue his owne turne for the cutting off of the others passages, and putting betweene him and those places, whither he suspected 
+Brunswicke
+ to be likely to march.
+
+
+The Armies lay at this distance and posture some few dayes, awaiting some occasion of aduantage; which thus at last presented it selfe, after some weeke or 9. daies expectation.
+
+
+Tilly
+ hauing giuen order that all his Army should follow him out of 
+Hessenland
+ into 
+Eischuels,
+ the three vnsatiable Regiments of the Duke of 
+Saxen Lawen∣burgh,
+ of 
+Holstein
+ and 
+Furstenberg
+ afore-mentioned, would needs trye their fortunes abroad awhile; think∣ing first to serue their owne turnes of sorrage vpon the Countrie, and then to recouer to the place ap∣pointed for the generall Rendezvous safely and time enough. With this resolution, they first of all pil∣lage, and set fire afterwards, to the towne of 
+Alme∣r
+de
+ and other townes in 
+Hessenland,
+ which lay be∣tweene their last quarters of 
+Bercka,
+ and the Riuer of 
+Werra
+ toward 
+Hisch
+elt
+ aforesaid: which townes they l
+uing burnt or aburning, they came to the towne
+
+
+of 
+Witzenhowsen
+ aforesaid, where their Generall had left a Garison of his owne; There passing the bridge, the Regiment of 
+Furstenberg,
+ vpon what occasion I know not, would needs part company, and make towards the Camp. But the other two Regiments of 
+Saxen Lawenburg
+ and 
+Holstein
+ not thus contented, would needs turne againe to the Northwest and left hand of the Country, contrarie to their Generals di∣rections, who suspecting that hee might haue vse of his whole Army, had commanded all to keepe toge∣ther; but these two being horse Regiments, and for that, trusting to come in at pleasure, fell vpon the Hassi
+n Lordship of 
+Plassa
+ or 
+Plessen,
+ (as we take it) 
+Gottingen
+ and 
+Bodenste
+n,
+ all which are by name ex∣pressed in our Letter. To one of which places, the Duke of 
+Saxen Lawenberg
+ would needs send 20. of his horse to be quartered. But the Boers of the Country being frighted with this approach of their enemies, whom they knew by their colours to be the Harpies that they had before heard of, presently tooke the Hubbub, and away they goe with it towards 
+Duder∣stad,
+ to Duke 
+Christians
+ quarters, to which the towne of 
+Dodenstein
+ was something too neare to be aduen∣tured vpon to bee for
+aged by a party of horse, in such a neerenesse of an Army Royall. 
+Hrunswicke
+ ha∣uing by these frighted Boers, and his owne Skowts, gotten true and timely intelligence of these two Regiments thus stragling from the droue; presently sent out the Count of 
+St
+rum
+ with 400. Dragoniers, and 300 other horse, together with Colonell 
+ip∣
+owsen
+ with 700. Muskettier
+, and 3 troops of horse; how many were o
+ these last 3. troopes of horse of
+
+
+Colonell 
+Kniphowsen
+ is vncertaine; but it is likely that they altogether made vp enough to encounter the two Regiments of enemies, who might well bee betwixt three or foure thousand men, if not full so many.
+
+
+The Boers and Skowtmasters that brought the newes, leading these 
+Brunswickers
+ the right way to meet with them; an ambush was presently drest in a place of couert and aduantage; the order of the for∣ragers was thus:
+
+
+The Regiment of the Duke of 
+Saxen Lawenberg
+ went before, their baggage and pillage (wi
+h which they had filled 160. Wagons, as ou
+ Letters men∣tion) were disposed in the middle, and the Duke of 
+Holsteins
+ Troopes closed vp the Reere.
+
+
+They were (it seemes) drawing homeward, and their martiall order was not, as it appeares, any bet∣ter then that of foragers vses to be, wild, and in single Troopes and scattered Bands; or at least their ene∣mies had taken such order with them, that the place where they meant to giue them the 
+Bon jour,
+ and to set vpon them, should not bee so 
+it for Bat∣taglia.
+
+
+Thus the forrage
+s marching boldly and brauely on, were at vnawares fallen into the Ambush of their enemies; which was of purpose laid in such a strait, that those of Monseur 
+Tilly,
+ could by no meanes put out their Troopes into order of battell, no nor so much as haue roome or time allotted them to make a Barricado of their owne Wagons and car∣riages, thereby to breake the force of the assailants horse.
+
+
+But being thus on a sudden fallen into their ene∣mies claws, where they had not field roome enough to shew their valour, and how much men that are in passion, would doe to keepe their owne; those of 
+Brunswicke
+ start vpon euery side of them, and reso∣lutely gaue the Charge. At the first on-set 3. troopes of those of 
+Tilly,
+ which it seemes were advanct fore∣most, and fatally before their fellowes, they present∣ly beate downe and cut to pieces; this being done, in the heate of blood, and the first fortune, they set vpon the rest, which stood all this while coopt vp betweene them; So that the 
+Brunswickers
+ ranging the Dragoniers in the Vantgard, the Horse in the Reere, and the Muskettiers to flancker them in the wings, on both sides the way, both before and be∣hind, they gaue a fresh Charge: the enemy being not able to ca
+ himselfe into order, his thin Fyles were presently rowted; and those that could, breaking ou
+, fled towards 
+Willzhowsen,
+ (their owne Garrison in H
+ssen-land, where they had before passed the bridge) those of 
+Stiru
+ and 
+Kniphowsen
+ following in the heate of blood and the vnslaughter, had the killing of them, some 3. houres together (as some Letters mention) and euen to the gates of 
+Willzhow∣sen:
+ Some of the rest, did (for the time) saue them∣selues in a neighbour Wood, whither they escaped: but such order was taken with them, that diverse 
+owt
+s and multitudes of Boores out of the neere country of 
+Brunswick,
+ being employed vpon it they hembd in the Wood 
+ound about, so pounding them in, that what for their hand gunnes and Fire∣lo
+kes, which the Boores car
+ed, a Souldier could
+
+
+not peepe out of the Wood, but the Boores would take him off presently. So that our Letters being written presently vpō the end of the battell, reports, that there are very few of those of 
+Tilly
+ in the wood, that are like to come off with their liues; for as hun∣ger and courage driues them out, they are snapt vp by these Boores, who being vsd to kill Crowes and Vermine vpon their owne Lands, are very good markesmen (especially the Ayme being better, where the mark is aliue) with these firelocks, which are a great deale surer shooters, and fitter for their handling, than the warre-like Musket.
+
+
+But leauing these in a wood, and to their hard for∣tune, the rest of 
+Brunswicks
+ men returning from the Chase, found, that besides those wounded men that escapt, and those that were kild in the way, & those in the wood, (which they held as good as dead) that they had left 700▪ men dead vpon the place; which number is the generall report of all those Letters, that wee can heare of to haue since his coming into England, about this businesse. There were taken some 300. or 400. prisoners, and amongst the rest, our Letters mention these men of Note and Office. One Sergeant Maior to a Regiment, a Ri
+master, or a Commander of the Horse, and another Baron besides. All the baggage, armes, and horses, were taken, and in the 160. Wagons, were found two tun of Gold in readie money.
+
+
+And this is the Description of this Battell, and we beleeue, the most particular, & the largest that hath come into England. What was done since the sight, our Letters could not stay to tell vs, for they beare
+
+
+date the 28. of our Iune (that is Saterday last was three-weeks) from the Land
+graue of 
+Hessens
+ chiefe towne of 
+Cassel
+ in 
+Hessenland;
+ which was within a day or two of the time, and a dayes iourney of the place, where, and when, this Battell was strooken.
+
+
+And for the truth of it, our Letters subioyne this conclusiō; how that besides other reports & Letters, that one 
+Faber,
+ a very honest and substantiall man, being at that time Burgomaster or Maior of 
+Budens∣berg,
+ whom the former Regiments of Saxon, Low∣enburg, and Holsteyn had taken and carried away prisoner along with them, in chaynes, and with the white staffe of his office in his hand, vntill he should pay 600. Ri
+e Dollars, which they required for his ransome. This 
+Faber,
+ I say, breaking loose after this Battell, and being restored to his libertie, came here to this towne of 
+Cassel;
+ where vpon his owne word he confirmed all this; affirming moreouer, that the duke of Saxon 
+Sawenburg
+ himselfe, was likewise left dead vpon the place; which addes much also to the Victory.
+
+
+Our Letters conclude with this. Thus hath 
+Bruns∣wick
+ giuen Monsieur 
+Tilly
+ the first blow, and found two tun of Gold amongst the spoyles. Vnto which, euery mans iudgement can readily adde this; that 
+Brunswick
+ being thus bloudded, will now fight vp∣on all opportunities, so that we may cr
+ long, hap∣pen to heare of a maine Battell.
+
+
+About the time of this Battell, other Letters tell vs, that the Duke of 
+Brunswick
+ had again two other faire brasse Peices new cast at the town of 
+Brunswick
+ in 
+Brunswickland,
+ which are now carried vnto him;
+
+
+So that he hath now had 9. very excellent brasse peices from that one Towne, and is very well pro∣uided of all necessa
+i
+s.
+
+
+Brunswick▪
+ hauing thus begun to play his part▪ let vs next speake of the Count of 
+Mansfeild.
+ Of whom our former Letters of the 
+Hessenland
+ tell vs; how that they had heard by a Gentleman of very good ac∣count, comming out of Holland, that 
+Mansfeild
+ was now ready to rise with 24000. men; so that we hope (say the 
+Hessian
+ Letters) that wee shall be no more troubled with the hostile excursions and passages of 
+Tilly, Anholt,
+ and 
+Cordova,
+ from all whom, we hope that 
+Brunswick
+ and 
+Mansfeild
+ will ere long finally froe vs for this yeare. But neerer home, (that is, from Amsterdam) Iuly 10. they write; how that Count 
+Mansfeld
+ did then daily send diverse of his troopes towardes 
+Weppen,
+ and that it is thought, that he will very speedily goe himselfe with the rest into the field. And from other places about the same time they write; how that he was even then with all his Forces alreadie gone out of Embdenland towardes 
+Weppen
+ aforesayd, where he lyeth at this present, and we vnderstand (say the Letters) that hee will there forme an Army.
+
+
+There come daily great store of new French Gen∣tlemen, and others, into the 
+Low Countries,
+ who go all directly towards Count 
+Mansfield.
+ Who hath lately by sound of Tr
+mpet proclaimed a free lea∣ger, to every man that will come to serue him; which promise of due pay and provision, in the name of his Maiesty the French King, his High∣
+sse the Duke of 
+S
+y,
+ & of the Illustrious Lords
+
+
+of the State of 
+Venice,
+ whose Generall he hath pr
+∣claimed himselfe; whom, whosoever are willing to serue vnder his Ensignes, publique notice is gi∣ven, for them to repaire to 
+Mepp
+n
+ to giue in their names, and they shall be forthwith put into pay. Thus farre the letters: by which meanes indeed he may quickly haue 24000. men, as the former let∣ters mention that he then had, although somthing with the most, as we beleeue.
+
+
+To countenance all this, & to make good 
+Mans∣fields
+ Proclamation, is 
+Marco Antonio Merigini,
+ Am∣bassador for the State of 
+Venice
+ (where he is also an 
+Illustrissimo
+) who hath beene in former times Am∣bassadour from that State vnto the Duke of 
+Sav
+y,
+ at 
+Thurino,
+ new arrived (before Iuly the 10.) at 
+Rot∣terdā:
+ whence he directly went towards the 
+Hagu
+,
+ and is from thence presently to goe vnto Count 
+Mansfields
+ Camp, where the Duke of 
+Sav
+yes
+ Am∣bassador is likewise; there to treate, and giue di∣rection and assurance vnto the Count of 
+Mansfield.
+ Thus write the letters from 
+Amsterdam,
+ Iuly 10.
+
+
+Other letters from 
+Cullen,
+ Iuly the 6. affirme the same of Count 
+Mansfields
+ going towards 
+M
+ppen,
+ adding withall, that there i
+ 
+ suspition, of his pur∣pose to besiege 
+inge
+.
+ So that it is very likely that the warres will be setled in those p
+, say the let∣ters. Which also mention the former Proclamati∣on, let vp in divers 
+ownes of East Frie
+land, and there abouts, for a free leager at Mepp
+n. The meaning of the free leager is, that the souldiers shal there pay no excise for their victuall
+, but shall 
+ it at the same rate that the S
+ hath, and without
+
+
+any other imposition: by which reason, victualls will be cheaper in the Camp, then in the Cities. This towne of Meppen is vpon the river of Hase, neare where it fals into the greater river of Ems, not farre from Embdenland, and betweene that, and the other towne and Cou
+trie of Lingen.
+
+
+Of the King of 
+Denmarke
+ we haere no more, but that he daily encreaseth his forces.
+
+
+Of Don 
+Gonsales
+ and 
+Cordova,
+ they write from 
+C
+llen,
+ Iuly the 5. that a few dayes since, three foot Companies of souldiers, crossed the Rhine at Mul∣heim, as also a ship of horse: marching all, both horse and foot, with sound of Drum and Ensignes displayed in order of Battalia, from their landing place at Mulheim, towardes Wipper-port, in the land of Bergh. And againe, Iuly the 3. and 4. there were divers Companies and troopes, both horse & foot, which marching by land through the City of Cullen, went thence towards Mulheim, where they were wafted over the riuer Rhine. And there are more Regiments both of horse and foot, daily ex∣pected to come out of Germany, which are to goe towards Westphalia. So that Count 
+Mansfield,
+ makes still Don 
+Cordova
+ to wait vpon him.
+
+
+It is here confidently reported, that the Marquis 
+Spinola
+ is to come to M
+lheim. Thus farre the let∣ters. In the meane time is the Marquis 
+Spinola
+ said to cause a strong fort to be made vpon the front
+ers of Picardy, at which the French King is sayd to be much displeased: but wee doe not yet heare of any thing, what he means to do for the hinderance of it. From Brussel
+ is there word brought, of a
+
+
+Poast newly come out of Spaine, which letters of Exchange for 400. or 500000. Crownes, for the payment of 
+Spinolaes
+ souldiers: who brought word also, that there were three millions of Crownes more, to be presently made over into Italy & Flan∣ders. Which noyse of money, may the better per∣swade the truth of the comming home of the silver sleet, with nine millions (as tis reported) of which the Kings part comes to one and a halfe, and the rest is for the Merchants. This is the newes of 
+Am∣sterdam.
+
+
+The Garrison of Saint 
+Hertoghenbosh,
+ labours hard and daily vpon their out work and new Scon∣ces, and will by no meanes suffer any man, though they come with pasport out of these Countries, to view their fortifications. It is thought that 
+Spinola
+ will very shortly be in the field.
+
+
+Of Prince 
+Henry
+ of 
+Nassawes
+ expedition, in company of Mounsieur 
+Marquet,
+ this wee heare more, that he arrived at 
+Emmerick,
+ Iuly 8. and the next day he with Monsieur 
+Marquet
+ went vpwards: 200. horse, and a 1000 foot, which he brought to 
+Emmerick,
+ hee sent towards 
+Rees
+ before, and with the horse which lay about 
+Emmerick
+ the night be∣fore, and those of 
+Z
+lp
+in
+ and 
+Doe
+burgh,
+ they fol∣lowed vp about no one. Our towne gates were here kept shut about the same time, so that no passengers goe out to tell the designe any where abroad. The report is, that these forces went to provide the towne of 
+Meurs
+ with men, victuals, and other ne∣cessaries, seeing that the enemy beginnes to gather very strong there abouts, and wil no longer obserue
+
+
+
+
+
+
+
+
+
