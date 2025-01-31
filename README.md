@@ -4,12 +4,20 @@ File distribution for EEBO-TCP Collections: Navigations, a project funded by the
 
 # Installation
 Python 3.10
-- `spacy` (3.8.4)
-  - `python -m spacy download en_core_web_sm`
 - `scikit-learn` (1.6.1)
 - `numpy` (2.2.2)
 - `pandas` (2.2.3)
+- `nltk` (3.9.1)
+- `spacy` (3.8.4)
+  - `python -m spacy download en_core_web_sm`
 
 # Operations
-## Identify stop words, compute TF-IDF
+## Preprocessing
+### Generate word count vectors & TF-IDF matrix
+```sh
+python -m preprocess make_vectors -o out/vectors --vector_dim_limit 5000
+```
+Run `python -m preprocess make_vectors --help` to explore more options.
+
+### (Data Exploration) Identify stop words, compute TF-IDF
 Run `stopwords_vectors.ipynb`.
