@@ -25,7 +25,7 @@ The documents in our dataset are provided in header XML format. These XML files 
 This project requires Python 3.10 and the following dependencies:
 
 ```bash
-pip install spacy==3.8.4 scikit-learn==1.6.1 numpy==2.2.2 pandas==2.2.3
+pip install spacy==3.8.4 scikit-learn==1.6.1 numpy==2.2.2 pandas==2.2.3 nltk==3.9.1
 python -m spacy download en_core_web_sm
 ```
 
