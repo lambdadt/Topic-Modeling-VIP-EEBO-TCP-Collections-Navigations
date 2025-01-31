@@ -130,7 +130,7 @@ def make_vectors():
     print()
 
     # Create count vectors
-    tfidf_mat = np.zeros((n_docs, vocab_lm_size))
+    tf_mat = np.zeros((n_docs, vocab_lm_size))
     cvec_mat = np.zeros((n_docs, vocab_lm_size))
     for doc_idx, d_i in enumerate(tqdm(doc_infos, desc="Computing count vectors")):
         cvec = np.zeros(vocab_lm_size)
@@ -141,13 +141,13 @@ def make_vectors():
             word_idx = vocab_lm_indices[word_lm]
             cvec[word_idx] += 1
         cvec_mat[doc_idx] = cvec
-        tfidf_mat[doc_idx] = cvec / vocab_lm_size
+        tf_mat[doc_idx] = cvec / cvec.sum()
         d_i['count_vector'] = cvec
     print("Computing TF-IDF...")
-    wcounts_a = (tfidf_mat > 0).astype(int).sum(axis=0).astype(float)
-    assert np.all(wcounts_a)
-    idf_a = np.log10(np.divide(n_docs, wcounts_a))
-    tfidf_mat = np.broadcast_to(idf_a, tfidf_mat.shape) * tfidf_mat
+    woccurrences_a = (cvec_mat > 0).astype(int).sum(axis=0).astype(float)
+    assert np.all(woccurrences_a)
+    idf_a = np.log10(np.divide(n_docs, woccurrences_a))
+    tfidf_mat = np.broadcast_to(idf_a, tf_mat.shape) * tf_mat
     print()
 
     doc_fp_list = [str(d['path']) for d in doc_infos]
