@@ -19,7 +19,7 @@ def make_vectors():
     ap.add_argument('--output_dir', '-o', required=True)
     ap.add_argument('--parsed_texts_dir', default="Navigations_headed_xml/Parsed_texts",
                     help=".txt files in this directory will be searched for recursively.")
-    ap.add_argument('--stemmer', default="", choices=["", "Porter", "Snowball"],
+    ap.add_argument('--stemmer', default='None', choices=['None', 'Porter', 'Snowball', 'WordNetLemmatizer'],
                     help="If not provided (default), WordNet Lemmatizer will be used.")
     ap.add_argument('--rare_word_threshold', default=0.0, type=float, help="Cull words (after lemmatization) used fewer then x%%")
     ap.add_argument('--vector_dim_limit', default=100_000, type=int, help="Rare words will be culled. -1 means no limit.")
@@ -57,7 +57,7 @@ def make_vectors():
     # Tokenize
     pat = re.compile('(?u)\\b\\w\\w+\\b')
     tokens_all = []
-    for d_i in tqdm(doc_infos, desc="Tokenizing"):
+    for d_i in tqdm(doc_infos, desc="Tokenizing docs"):
         tokens = re.findall(pat, d_i['text'].lower())
         d_i['tokens'] = tokens
         tokens_all.extend(tokens)
@@ -77,9 +77,18 @@ def make_vectors():
             print("Using Snowball Stemmer.")
             lm = nltk.stem.SnowballStemmer('english')
             is_stemmer = True
-        case _:
+        case 'WordNetLemmatizer':
             print("Using WordNet Lemmatizer.")
             lm = nltk.wordnet.WordNetLemmatizer()
+        case 'None':
+            print("No stemmer/lemmatizer used.")
+            class IdentityLM:
+                def lemmatize(self, w):
+                    return w
+            lm = IdentityLM()
+        case _:
+            print("Unknown stemmer/lemmitizer: '{}'. Aborting.".format(args.stemmer))
+            exit(1)
     
     tokens_all_lm = []
     word2lm = dict()
@@ -141,7 +150,9 @@ def make_vectors():
             word_idx = vocab_lm_indices[word_lm]
             cvec[word_idx] += 1
         cvec_mat[doc_idx] = cvec
-        tf_mat[doc_idx] = cvec / cvec.sum()
+        n_words_in_doc = cvec.sum()
+        if n_words_in_doc > 0:
+            tf_mat[doc_idx] = cvec / n_words_in_doc 
         d_i['count_vector'] = cvec
     print("Computing TF-IDF...")
     woccurrences_a = (cvec_mat > 0).astype(int).sum(axis=0).astype(float)
