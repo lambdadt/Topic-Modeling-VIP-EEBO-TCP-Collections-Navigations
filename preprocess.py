@@ -40,7 +40,9 @@ def make_vectors():
     for root, dirs, files in os.walk(parsed_texts_dir, topdown=False, followlinks=True):
         for fn in files:
             path = Path(root, fn)
-            if path.suffix.lower() == ".txt":
+            # if path.suffix.lower() == ".txt":
+            if path.name.lower().endswith("parsed_text.txt"):
+            # if path.name.lower().endswith("footnotes.txt"):
                 doc_paths.append(path)
     print("Found {} documents.".format(len(doc_paths)))
 
@@ -93,7 +95,7 @@ def make_vectors():
     tokens_all_lm = []
     word2lm = dict()
     vocab_lm = set()
-    for word in tqdm(vocab, desc="Lemmatizing/Stemming"):
+    for word in tqdm(tokens_all, desc="Lemmatizing/Stemming"):
         if is_stemmer:
             word_lm = lm.stem(word)
         else:
