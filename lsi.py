@@ -1,8 +1,6 @@
-#!/usr/bin/env python3
-
 ###############################################################################
 # REFERENCE:
-# Probabilistic Latent Semantic Analysis
+# Latent Semantic Analysis
 # Source: https://nlp.stanford.edu/IR-book/html/htmledition/latent-semantic-indexing-1.html
 # Author: Taehwan Park
 ###############################################################################

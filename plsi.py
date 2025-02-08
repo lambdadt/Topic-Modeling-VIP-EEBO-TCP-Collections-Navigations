@@ -1,10 +1,8 @@
-#!/usr/bin/env python3
-
 ###############################################################################
 # REFERENCE:
 # Probabilistic Latent Semantic Analysis
 # Source: https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis
-# Author: Taehwan Park (modified)
+# Author: Taehwan Park
 ###############################################################################
 
 import argparse
