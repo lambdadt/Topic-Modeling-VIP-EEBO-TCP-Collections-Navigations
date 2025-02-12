@@ -225,8 +225,8 @@ def main():
     P_zw_tfidf = pd.read_csv(zw_path)
 
     # Create lookup tables
-    index2filename = pd.read_csv("./out/vectors/count_vectors.csv").iloc[:, 0].to_dict()
-    vocab_list = list(pd.read_csv("./out/vectors/tfidf.csv", index_col=0).columns)
+    index2filename = pd.read_csv("./out/vectors/count_vectors.csv").iloc[:, 0].to_dict() # use threshold-5/ for files with larger vocab size
+    vocab_list = list(pd.read_csv("./out/vectors/tfidf.csv", index_col=0).columns) # use threshold-5/ for files with larger vocab size
     index2word = {i: word for i, word in enumerate(vocab_list)}
 
     # Precompute document lengths

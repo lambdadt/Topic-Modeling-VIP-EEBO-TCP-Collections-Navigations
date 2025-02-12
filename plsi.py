@@ -176,8 +176,8 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     # Load data
-    count_vectors_df = pd.read_csv("./out/vectors/count_vectors.csv", index_col=0) # threshold-5/
-    tfidf_df = pd.read_csv("./out/vectors/tfidf.csv", index_col=0)
+    count_vectors_df = pd.read_csv("./out/vectors/count_vectors.csv", index_col=0) # use threshold-5/ for files with larger vocab size
+    tfidf_df = pd.read_csv("./out/vectors/tfidf.csv", index_col=0) # use threshold-5/ for files with larger vocab size
 
     # Select a subset of documents based on the provided percentage
     if args.pct_docs < 100:
@@ -185,9 +185,6 @@ def main():
         n_select = int(n_total * args.pct_docs / 100)
         count_vectors_df = count_vectors_df.iloc[:n_select]
         tfidf_df = tfidf_df.iloc[:n_select]
-
-    with open("./out/vectors/meta.json", "r", encoding="utf-8") as f:
-        meta_data = json.load(f)
 
     vocabulary = list(count_vectors_df.columns)
 
