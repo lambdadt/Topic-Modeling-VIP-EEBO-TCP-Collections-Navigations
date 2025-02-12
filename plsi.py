@@ -21,7 +21,7 @@ def plsi(
     verbose: bool = False
 ) -> tuple[np.ndarray, np.ndarray]:
     """
-    Runs the PLSI algorithm using an EM approach.
+    Runs the PLSI algorithm using a vectorized EM approach.
 
     Parameters
     ----------
@@ -46,54 +46,54 @@ def plsi(
     n_docs, n_words = doc_word_matrix.shape
     np.random.seed(0)
 
-    # Random initialization of doc-topic (P_dz) and topic-word (P_zw)
+    # Random initialization for document-topic and topic-word distributions
     P_dz = np.random.rand(n_docs, n_topics)
     P_zw = np.random.rand(n_topics, n_words)
 
-    # Normalize distributions
+    # Normalize the initial distributions
     P_dz /= P_dz.sum(axis=1, keepdims=True)
     P_zw /= P_zw.sum(axis=1, keepdims=True)
 
-    # Posterior P(z|d,w)
-    P_z_given_d_w = np.zeros((n_docs, n_words, n_topics), dtype=float)
-
     prev_likelihood = 0.0
+
     for iteration in tqdm(range(max_iter), desc="EM iterations"):
-        # E-step: Calculate P(z|d,w)
-        for i in range(n_docs):
-            for w in range(n_words):
-                topic_probs = P_dz[i, :] * P_zw[:, w]
-                total_prob = topic_probs.sum()
-                if total_prob > 0:
-                    P_z_given_d_w[i, w, :] = topic_probs / total_prob
-                else:
-                    P_z_given_d_w[i, w, :] = 0.0
+        # ---- E-step: Compute P(z|d,w) ----
+        # Instead of looping over docs and words, use broadcasting:
+        #   P_dz has shape (n_docs, n_topics) and P_zw has shape (n_topics, n_words).
+        # We first transpose P_zw to (n_words, n_topics) and then multiply.
+        temp = P_dz[:, None, :] * P_zw.T[None, :, :]  # shape: (n_docs, n_words, n_topics)
+        total_prob = np.sum(temp, axis=2, keepdims=True)  # shape: (n_docs, n_words, 1)
+        # Avoid division by zero by using the 'where' parameter.
+        P_z_given_d_w = np.divide(temp, total_prob, out=np.zeros_like(temp), where=total_prob != 0)
 
-        # M-step: Update P_zw
-        for z in range(n_topics):
-            for w in range(n_words):
-                P_zw[z, w] = np.sum(doc_word_matrix[:, w] * P_z_given_d_w[:, w, z])
-            row_sum = P_zw[z, :].sum()
-            if row_sum > 0:
-                P_zw[z, :] /= row_sum
+        # ---- M-step: Update P_zw ----
+        # For each topic z and word w:
+        #   P_zw[z, w] = sum_d (doc_word_matrix[d, w] * P_z_given_d_w[d, w, z])
+        weighted = doc_word_matrix[:, :, None] * P_z_given_d_w  # shape: (n_docs, n_words, n_topics)
+        # Sum over documents (axis=0) gives shape (n_words, n_topics); then transpose to (n_topics, n_words)
+        P_zw_new = weighted.sum(axis=0).T
+        # Normalize each topic (row) so that they sum to 1
+        row_sum = P_zw_new.sum(axis=1, keepdims=True)
+        P_zw = np.divide(P_zw_new, row_sum, out=np.zeros_like(P_zw_new), where=row_sum != 0)
 
-        # M-step: Update P_dz
-        for i in range(n_docs):
-            for z in range(n_topics):
-                P_dz[i, z] = np.sum(doc_word_matrix[i, :] * P_z_given_d_w[i, :, z])
-            row_sum = P_dz[i, :].sum()
-            if row_sum > 0:
-                P_dz[i, :] /= row_sum
+        # ---- M-step: Update P_dz ----
+        # For each document d and topic z:
+        #   P_dz[d, z] = sum_w (doc_word_matrix[d, w] * P_z_given_d_w[d, w, z])
+        weighted_dz = doc_word_matrix[:, :, None] * P_z_given_d_w  # shape: (n_docs, n_words, n_topics)
+        P_dz_new = weighted_dz.sum(axis=1)  # Sum over words (axis=1) results in shape (n_docs, n_topics)
+        # Normalize each document (row) so that they sum to 1
+        row_sum_dz = P_dz_new.sum(axis=1, keepdims=True)
+        P_dz = np.divide(P_dz_new, row_sum_dz, out=np.zeros_like(P_dz_new), where=row_sum_dz != 0)
 
-        # Compute log-likelihood for convergence checking
-        likelihood = 0.0
-        for i in range(n_docs):
-            for w in range(n_words):
-                prob_dw = (P_dz[i, :] * P_zw[:, w]).sum()
-                count_dw = doc_word_matrix[i, w]
-                if prob_dw > 0:
-                    likelihood += count_dw * np.log(prob_dw)
+        # ---- Log-Likelihood Calculation ----
+        # For each document d and word w, the probability is:
+        #   prob_dw = sum_z (P_dz[d, z] * P_zw[z, w])
+        prob_dw = np.dot(P_dz, P_zw)  # shape: (n_docs, n_words)
+        # Compute log-likelihood only where prob_dw is non-zero to avoid log(0)
+        mask = prob_dw > 0
+        likelihood = np.sum(doc_word_matrix[mask] * np.log(prob_dw[mask]))
 
+        # Check for convergence
         if iteration > 0 and abs(likelihood - prev_likelihood) < tol:
             print(f"Early stopping at iteration {iteration+1}")
             break
@@ -176,7 +176,7 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     # Load data
-    count_vectors_df = pd.read_csv("./out/vectors/count_vectors.csv", index_col=0)
+    count_vectors_df = pd.read_csv("./out/vectors/count_vectors.csv", index_col=0) # threshold-5/
     tfidf_df = pd.read_csv("./out/vectors/tfidf.csv", index_col=0)
 
     # Select a subset of documents based on the provided percentage
