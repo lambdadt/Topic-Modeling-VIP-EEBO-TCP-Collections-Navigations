@@ -1,0 +1,457 @@
+
+############################################################
+#              TABLE 1: DOC COUNT PER TOPIC             #
+############################################################
+
+     Topic  |       Count  |     Percent
+----------------------------------------
+         4  |         122  |      16.51%
+         2  |          97  |      13.13%
+         9  |          92  |      12.45%
+         1  |          81  |      10.96%
+         6  |          69  |       9.34%
+         8  |          62  |       8.39%
+         3  |          58  |       7.85%
+         5  |          56  |       7.58%
+         7  |          55  |       7.44%
+         0  |          47  |       6.36%
+
+############################################################
+#   TABLE 2: TOP WORDS PER TOPIC (WITH AVERAGE VALUE)   #
+############################################################
+
+######## Topic 0 ########
+Documents: 47 (6.36%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | wee             |   0.003534 |      0.35%
+   2 | have            |   0.003416 |      0.34%
+   3 | haue            |   0.003254 |      0.33%
+   4 | vnto            |   0.003171 |      0.32%
+   5 | whiche          |   0.002793 |      0.28%
+   6 | vpon            |   0.002678 |      0.27%
+   7 | unto            |   0.002536 |      0.25%
+   8 | bee             |   0.002405 |      0.24%
+   9 | vienna          |   0.002341 |      0.23%
+  10 | was             |   0.002294 |      0.23%
+  11 | doe             |   0.002240 |      0.22%
+  12 | us              |   0.002141 |      0.21%
+  13 | our             |   0.002132 |      0.21%
+  14 | your            |   0.002067 |      0.21%
+  15 | saynt           |   0.001987 |      0.20%
+  16 | yeare           |   0.001949 |      0.19%
+  17 | vs              |   0.001917 |      0.19%
+  18 | 2014            |   0.001804 |      0.18%
+  19 | had             |   0.001789 |      0.18%
+  20 | every           |   0.001772 |      0.18%
+
+######## Topic 1 ########
+Documents: 81 (10.96%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | vpon            |   0.007191 |      0.72%
+   2 | vnto            |   0.004888 |      0.49%
+   3 | hee             |   0.003783 |      0.38%
+   4 | towne           |   0.003169 |      0.32%
+   5 | my              |   0.002920 |      0.29%
+   6 | riuer           |   0.002902 |      0.29%
+   7 | upon            |   0.002674 |      0.27%
+   8 | you             |   0.002467 |      0.25%
+   9 | maister         |   0.002407 |      0.24%
+  10 | hym             |   0.002379 |      0.24%
+  11 | sayd            |   0.002372 |      0.24%
+  12 | wee             |   0.002313 |      0.23%
+  13 | hauing          |   0.002229 |      0.22%
+  14 | vs              |   0.002199 |      0.22%
+  15 | themselues      |   0.002185 |      0.22%
+  16 | againe          |   0.002103 |      0.21%
+  17 | vnder           |   0.002041 |      0.20%
+  18 | owne            |   0.001963 |      0.20%
+  19 | beene           |   0.001928 |      0.19%
+  20 | city            |   0.001896 |      0.19%
+
+######## Topic 2 ########
+Documents: 97 (13.13%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.006211 |      0.62%
+   2 | upon            |   0.004830 |      0.48%
+   3 | haue            |   0.003710 |      0.37%
+   4 | you             |   0.002859 |      0.29%
+   5 | turks           |   0.002578 |      0.26%
+   6 | wee             |   0.002395 |      0.24%
+   7 | we              |   0.002371 |      0.24%
+   8 | bee             |   0.002366 |      0.24%
+   9 | themselues      |   0.002241 |      0.22%
+  10 | your            |   0.002168 |      0.22%
+  11 | river           |   0.001931 |      0.19%
+  12 | than            |   0.001913 |      0.19%
+  13 | east            |   0.001861 |      0.19%
+  14 | stock           |   0.001850 |      0.19%
+  15 | beene           |   0.001796 |      0.18%
+  16 | vp              |   0.001721 |      0.17%
+  17 | wyth            |   0.001682 |      0.17%
+  18 | duke            |   0.001662 |      0.17%
+  19 | majesty         |   0.001642 |      0.16%
+  20 | themselves      |   0.001625 |      0.16%
+
+######## Topic 3 ########
+Documents: 58 (7.85%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | vnto            |   0.003198 |      0.32%
+   2 | grete           |   0.002983 |      0.30%
+   3 | londe           |   0.002872 |      0.29%
+   4 | st              |   0.002802 |      0.28%
+   5 | haue            |   0.002800 |      0.28%
+   6 | her             |   0.002688 |      0.27%
+   7 | kynge           |   0.002532 |      0.25%
+   8 | hee             |   0.002374 |      0.24%
+   9 | 52              |   0.002359 |      0.24%
+  10 | 53              |   0.002307 |      0.23%
+  11 | hys             |   0.002269 |      0.23%
+  12 | was             |   0.002257 |      0.23%
+  13 | he              |   0.002216 |      0.22%
+  14 | fairs           |   0.002013 |      0.20%
+  15 | than            |   0.001992 |      0.20%
+  16 | up              |   0.001953 |      0.20%
+  17 | us              |   0.001952 |      0.20%
+  18 | its             |   0.001923 |      0.19%
+  19 | 00              |   0.001865 |      0.19%
+  20 | fleet           |   0.001849 |      0.18%
+
+######## Topic 4 ########
+Documents: 122 (16.51%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.004821 |      0.48%
+   2 | furlongs        |   0.003106 |      0.31%
+   3 | you             |   0.002836 |      0.28%
+   4 | maiestie        |   0.002629 |      0.26%
+   5 | doe             |   0.002567 |      0.26%
+   6 | majesties       |   0.002395 |      0.24%
+   7 | ships           |   0.002293 |      0.23%
+   8 | 2013            |   0.002187 |      0.22%
+   9 | having          |   0.002186 |      0.22%
+  10 | maiesties       |   0.002164 |      0.22%
+  11 | french          |   0.001994 |      0.20%
+  12 | ireland         |   0.001986 |      0.20%
+  13 | haue            |   0.001919 |      0.19%
+  14 | vs              |   0.001908 |      0.19%
+  15 | wee             |   0.001871 |      0.19%
+  16 | majesty         |   0.001862 |      0.19%
+  17 | realme          |   0.001822 |      0.18%
+  18 | bee             |   0.001771 |      0.18%
+  19 | fleet           |   0.001731 |      0.17%
+  20 | towne           |   0.001646 |      0.16%
+
+######## Topic 5 ########
+Documents: 56 (7.58%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | hym             |   0.006950 |      0.69%
+   2 | haue            |   0.006738 |      0.67%
+   3 | vs              |   0.003401 |      0.34%
+   4 | kynge           |   0.003160 |      0.32%
+   5 | majesties       |   0.002893 |      0.29%
+   6 | hee             |   0.002740 |      0.27%
+   7 | wyll            |   0.002437 |      0.24%
+   8 | rycharde        |   0.002417 |      0.24%
+   9 | majesty         |   0.002380 |      0.24%
+  10 | lorde           |   0.002372 |      0.24%
+  11 | have            |   0.002369 |      0.24%
+  12 | vnto            |   0.002351 |      0.24%
+  13 | he              |   0.002311 |      0.23%
+  14 | whan            |   0.002302 |      0.23%
+  15 | kyng            |   0.002221 |      0.22%
+  16 | towne           |   0.002192 |      0.22%
+  17 | we              |   0.002185 |      0.22%
+  18 | wales           |   0.002162 |      0.22%
+  19 | shippes         |   0.002099 |      0.21%
+  20 | londe           |   0.002046 |      0.20%
+
+######## Topic 6 ########
+Documents: 69 (9.34%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | haue            |   0.007131 |      0.71%
+   2 | theyr           |   0.006425 |      0.64%
+   3 | have            |   0.004901 |      0.49%
+   4 | my              |   0.004042 |      0.40%
+   5 | whiche          |   0.003887 |      0.39%
+   6 | grete           |   0.003604 |      0.36%
+   7 | hym             |   0.003394 |      0.34%
+   8 | vs              |   0.002843 |      0.28%
+   9 | your            |   0.002672 |      0.27%
+  10 | upon            |   0.002470 |      0.25%
+  11 | we              |   0.002451 |      0.25%
+  12 | suche           |   0.002327 |      0.23%
+  13 | her             |   0.002273 |      0.23%
+  14 | duke            |   0.002232 |      0.22%
+  15 | vp              |   0.002003 |      0.20%
+  16 | us              |   0.001932 |      0.19%
+  17 | thy             |   0.001770 |      0.18%
+  18 | you             |   0.001766 |      0.18%
+  19 | wyll            |   0.001688 |      0.17%
+  20 | him             |   0.001686 |      0.17%
+
+######## Topic 7 ########
+Documents: 55 (7.44%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | myles           |   0.007979 |      0.80%
+   2 | haue            |   0.006972 |      0.70%
+   3 | hym             |   0.004000 |      0.40%
+   4 | have            |   0.003622 |      0.36%
+   5 | vpon            |   0.003328 |      0.33%
+   6 | sayd            |   0.003028 |      0.30%
+   7 | ye              |   0.002963 |      0.30%
+   8 | you             |   0.002961 |      0.30%
+   9 | vs              |   0.002932 |      0.29%
+  10 | syr             |   0.002892 |      0.29%
+  11 | hee             |   0.002838 |      0.28%
+  12 | item            |   0.002811 |      0.28%
+  13 | daye            |   0.002789 |      0.28%
+  14 | vnto            |   0.002583 |      0.26%
+  15 | citie           |   0.002303 |      0.23%
+  16 | londe           |   0.002207 |      0.22%
+  17 | euery           |   0.002146 |      0.21%
+  18 | vij             |   0.002098 |      0.21%
+  19 | north           |   0.002086 |      0.21%
+  20 | wolde           |   0.002052 |      0.21%
+
+######## Topic 8 ########
+Documents: 62 (8.39%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | haue            |   0.005764 |      0.58%
+   2 | hym             |   0.005092 |      0.51%
+   3 | upon            |   0.003529 |      0.35%
+   4 | have            |   0.003063 |      0.31%
+   5 | grete           |   0.002845 |      0.28%
+   6 | vnto            |   0.002844 |      0.28%
+   7 | vpon            |   0.002379 |      0.24%
+   8 | you             |   0.002192 |      0.22%
+   9 | doe             |   0.002192 |      0.22%
+  10 | yere            |   0.002089 |      0.21%
+  11 | every           |   0.002083 |      0.21%
+  12 | theyr           |   0.002082 |      0.21%
+  13 | vs              |   0.002067 |      0.21%
+  14 | east            |   0.002013 |      0.20%
+  15 | cyte            |   0.001924 |      0.19%
+  16 | vp              |   0.001862 |      0.19%
+  17 | river           |   0.001852 |      0.19%
+  18 | we              |   0.001837 |      0.18%
+  19 | son             |   0.001807 |      0.18%
+  20 | your            |   0.001789 |      0.18%
+
+######## Topic 9 ########
+Documents: 92 (12.45%)  |  Average row value: 0.000200
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.006776 |      0.68%
+   2 | haue            |   0.004932 |      0.49%
+   3 | wyth            |   0.004730 |      0.47%
+   4 | vpon            |   0.003379 |      0.34%
+   5 | was             |   0.002855 |      0.29%
+   6 | 00              |   0.002700 |      0.27%
+   7 | up              |   0.002575 |      0.26%
+   8 | my              |   0.002534 |      0.25%
+   9 | vnto            |   0.002524 |      0.25%
+  10 | river           |   0.002481 |      0.25%
+  11 | 2013            |   0.002447 |      0.24%
+  12 | subiects        |   0.002433 |      0.24%
+  13 | mr              |   0.002196 |      0.22%
+  14 | proclamation    |   0.002186 |      0.22%
+  15 | hée             |   0.002180 |      0.22%
+  16 | maiestie        |   0.002179 |      0.22%
+  17 | corne           |   0.002164 |      0.22%
+  18 | ireland         |   0.002159 |      0.22%
+  19 | irish           |   0.002126 |      0.21%
+  20 | dublin          |   0.002068 |      0.21%
+
+
+############################################################
+# TABLE 3: TOP 5 DOCS PER TOPIC & THEIR TOPIC'S BEST WORDS #
+############################################################
+
+######## Topic 0 ########
+Documents: 47 (6.36%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      396 | Navigations_headed_xml/Parsed_texts/A34277_parsed_text.txt   |     6701 |   0.377542
+   2 |      691 | Navigations_headed_xml/Parsed_texts/A22176_parsed_text.txt   |    23184 |   0.355128
+   3 |      197 | Navigations_headed_xml/Parsed_texts/A38515_parsed_text.txt   |    13032 |   0.353004
+   4 |       57 | Navigations_headed_xml/Parsed_texts/A33452_parsed_text.txt   |    10743 |   0.317801
+   5 |      379 | Navigations_headed_xml/Parsed_texts/A56484_parsed_text.txt   |     7877 |   0.305424
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | wee             |   0.003534
+   2 | have            |   0.003416
+   3 | haue            |   0.003254
+   4 | vnto            |   0.003171
+   5 | whiche          |   0.002793
+
+######## Topic 1 ########
+Documents: 81 (10.96%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      540 | Navigations_headed_xml/Parsed_texts/A41360_parsed_text.txt   |    12356 |   0.395217
+   2 |      137 | Navigations_headed_xml/Parsed_texts/A48339_parsed_text.txt   |   291278 |   0.314398
+   3 |      481 | Navigations_headed_xml/Parsed_texts/A08307_parsed_text.txt   |    66979 |   0.302435
+   4 |      421 | Navigations_headed_xml/Parsed_texts/A58224_parsed_text.txt   |     5634 |   0.288115
+   5 |      340 | Navigations_headed_xml/Parsed_texts/A11585_parsed_text.txt   |   150260 |   0.275981
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | vpon            |   0.007191
+   2 | vnto            |   0.004888
+   3 | hee             |   0.003783
+   4 | towne           |   0.003169
+   5 | my              |   0.002920
+
+######## Topic 2 ########
+Documents: 97 (13.13%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |        5 | Navigations_headed_xml/Parsed_texts/A48578_parsed_text.txt   |   550827 |   0.325223
+   2 |      694 | Navigations_headed_xml/Parsed_texts/A54105_parsed_text.txt   |    14061 |   0.292474
+   3 |      178 | Navigations_headed_xml/Parsed_texts/A35908_parsed_text.txt   |    10536 |   0.292172
+   4 |      252 | Navigations_headed_xml/Parsed_texts/A46883_parsed_text.txt   |    11869 |   0.278143
+   5 |      475 | Navigations_headed_xml/Parsed_texts/A35623_parsed_text.txt   |    10537 |   0.277111
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | have            |   0.006211
+   2 | upon            |   0.004830
+   3 | haue            |   0.003710
+   4 | you             |   0.002859
+   5 | turks           |   0.002578
+
+######## Topic 3 ########
+Documents: 58 (7.85%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      541 | Navigations_headed_xml/Parsed_texts/A53241_parsed_text.txt   |   114777 |   0.444915
+   2 |      222 | Navigations_headed_xml/Parsed_texts/A55497_parsed_text.txt   |   132987 |   0.431773
+   3 |      149 | Navigations_headed_xml/Parsed_texts/A40597_parsed_text.txt   |     7400 |   0.330244
+   4 |      440 | Navigations_headed_xml/Parsed_texts/A35158_parsed_text.txt   |    69022 |   0.324473
+   5 |      728 | Navigations_headed_xml/Parsed_texts/A53149_parsed_text.txt   |    16937 |   0.319453
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | vnto            |   0.003198
+   2 | grete           |   0.002983
+   3 | londe           |   0.002872
+   4 | st              |   0.002802
+   5 | haue            |   0.002800
+
+######## Topic 4 ########
+Documents: 122 (16.51%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |       91 | Navigations_headed_xml/Parsed_texts/A43412_parsed_text.txt   |    73355 |   0.460760
+   2 |      708 | Navigations_headed_xml/Parsed_texts/A53224_parsed_text.txt   |   968573 |   0.416657
+   3 |      325 | Navigations_headed_xml/Parsed_texts/A32650_parsed_text.txt   |     5092 |   0.357053
+   4 |      514 | Navigations_headed_xml/Parsed_texts/A40373_parsed_text.txt   |   129447 |   0.322420
+   5 |      202 | Navigations_headed_xml/Parsed_texts/A22151_parsed_text.txt   |     5387 |   0.313982
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | have            |   0.004821
+   2 | furlongs        |   0.003106
+   3 | you             |   0.002836
+   4 | maiestie        |   0.002629
+   5 | doe             |   0.002567
+
+######## Topic 5 ########
+Documents: 56 (7.58%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      500 | Navigations_headed_xml/Parsed_texts/A39489_parsed_text.txt   |     8468 |   0.454925
+   2 |      255 | Navigations_headed_xml/Parsed_texts/A10728_parsed_text.txt   |   205344 |   0.404512
+   3 |      515 | Navigations_headed_xml/Parsed_texts/A46323_parsed_text.txt   |     8660 |   0.392207
+   4 |      613 | Navigations_headed_xml/Parsed_texts/A39488_parsed_text.txt   |     5522 |   0.376177
+   5 |      522 | Navigations_headed_xml/Parsed_texts/A20662_parsed_text.txt   |     8595 |   0.375661
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | hym             |   0.006950
+   2 | haue            |   0.006738
+   3 | vs              |   0.003401
+   4 | kynge           |   0.003160
+   5 | majesties       |   0.002893
+
+######## Topic 6 ########
+Documents: 69 (9.34%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      673 | Navigations_headed_xml/Parsed_texts/A19038_parsed_text.txt   |    18478 |   0.366622
+   2 |      516 | Navigations_headed_xml/Parsed_texts/A08101_parsed_text.txt   |    31615 |   0.318075
+   3 |      672 | Navigations_headed_xml/Parsed_texts/A08159_parsed_text.txt   |    14232 |   0.304041
+   4 |      333 | Navigations_headed_xml/Parsed_texts/A11564_parsed_text.txt   |     6894 |   0.302350
+   5 |      372 | Navigations_headed_xml/Parsed_texts/A48084_parsed_text.txt   |     8754 |   0.294951
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | haue            |   0.007131
+   2 | theyr           |   0.006425
+   3 | have            |   0.004901
+   4 | my              |   0.004042
+   5 | whiche          |   0.003887
+
+######## Topic 7 ########
+Documents: 55 (7.44%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |       53 | Navigations_headed_xml/Parsed_texts/A04024_parsed_text.txt   |    61637 |   0.486350
+   2 |      650 | Navigations_headed_xml/Parsed_texts/A06861_parsed_text.txt   |    16666 |   0.481477
+   3 |      620 | Navigations_headed_xml/Parsed_texts/A11090_parsed_text.txt   |   115233 |   0.397047
+   4 |      611 | Navigations_headed_xml/Parsed_texts/A20033_parsed_text.txt   |    37571 |   0.373659
+   5 |      317 | Navigations_headed_xml/Parsed_texts/A01564_parsed_text.txt   |     9831 |   0.364629
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | myles           |   0.007979
+   2 | haue            |   0.006972
+   3 | hym             |   0.004000
+   4 | have            |   0.003622
+   5 | vpon            |   0.003328
+
+######## Topic 8 ########
+Documents: 62 (8.39%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      680 | Navigations_headed_xml/Parsed_texts/A03319_parsed_text.txt   |  2147099 |   0.501534
+   2 |      399 | Navigations_headed_xml/Parsed_texts/A12689_parsed_text.txt   |    44300 |   0.388431
+   3 |      359 | Navigations_headed_xml/Parsed_texts/A28785_parsed_text.txt   |   543195 |   0.380961
+   4 |      721 | Navigations_headed_xml/Parsed_texts/A19054_parsed_text.txt   |     9083 |   0.330477
+   5 |      710 | Navigations_headed_xml/Parsed_texts/A21330_parsed_text.txt   |    42319 |   0.308197
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | haue            |   0.005764
+   2 | hym             |   0.005092
+   3 | upon            |   0.003529
+   4 | have            |   0.003063
+   5 | grete           |   0.002845
+
+######## Topic 9 ########
+Documents: 92 (12.45%)
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      368 | Navigations_headed_xml/Parsed_texts/A21923_parsed_text.txt   |    12735 |   0.399526
+   2 |      453 | Navigations_headed_xml/Parsed_texts/A38952_parsed_text.txt   |    10470 |   0.386402
+   3 |       29 | Navigations_headed_xml/Parsed_texts/A53237_parsed_text.txt   |     3591 |   0.371027
+   4 |      535 | Navigations_headed_xml/Parsed_texts/A48046_parsed_text.txt   |     5554 |   0.364745
+   5 |      180 | Navigations_headed_xml/Parsed_texts/A40561_parsed_text.txt   |     6761 |   0.363443
+
+Rank | Word            |      Value
+-----------------------------------
+   1 | have            |   0.006776
+   2 | haue            |   0.004932
+   3 | wyth            |   0.004730
+   4 | vpon            |   0.003379
+   5 | was             |   0.002855
+
