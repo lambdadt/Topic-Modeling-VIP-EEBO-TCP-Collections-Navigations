@@ -43,3 +43,53 @@ Run `python -m preprocess make_vectors --help` to explore more options.
 Run the following Jupyter Notebook to identify stop words and compute TF-IDF:
 
 Run `stopwords_vectors.ipynb`.
+
+### Running PLSI
+
+The `plsi.py` script runs the Probabilistic Latent Semantic Analysis (PLSI) algorithm on preprocessed data.
+
+**Important Notes:**
+- The script expects two CSV files in the specified `--input_dir`: `count_vectors.csv` and `tfidf.csv`.  
+- Both files must have identical dimensions as they represent different representations (raw counts vs. TF-IDF) of the same document-word matrix.  
+- These CSV files can be generated using the `preprocess.py` script as shown above.
+- The output files, `PLSI_P_dz_*.csv` and `PLSI_P_zw_*.csv`, are used as inputs to the `visualization.py` script. Ensure they are stored in the expected output directory.
+
+#### Command-line Arguments
+
+- **--topics** *int*  
+  Number of topics to discover. Default is `10`.
+
+- **--verbose** *flag*  
+  Enable verbose printing for debugging purposes (currently not active).
+
+- **--input_dir** *str*  
+  Path to the directory containing the input CSV files (`count_vectors.csv` and `tfidf.csv`).  
+  Default is `/out/vectors`.
+
+- **--output_dir** *str*  
+  Path to the directory where the output files will be saved.  
+  Default is `vectors_in_csv/plsi_vectors`.  
+  **Note:** The generated output files will be used as inputs to `visualization.py`.
+
+- **--max_iter** *int*  
+  Maximum number of EM iterations to perform. Default is `50`.
+
+- **--tol** *float*  
+  Convergence threshold based on the change in log-likelihood between iterations. Default is `1e-5`.
+
+- **--pct_docs** *float*  
+  Percentage of documents to use from the input CSV files (range: `0-100`). Default is `100`.  
+  Use this parameter to run the algorithm on a subset of the data for faster experimentation.
+
+- **--matrix_type** *str*  
+  Specify which matrix to use for running PLSI. Options are `tfidf` (default) or `count`.  
+  This selects whether the algorithm processes the TF-IDF matrix or the count vectors.
+
+#### Example Usage
+
+```sh
+python plsi.py --topics 10 --input_dir out/vectors --output_dir vectors_in_csv/plsi_vectors --max_iter 100 --tol 1e-5 --pct_docs 100 --matrix_type count
+```
+
+In this example, the script runs with 10 topics on the count vectors (using 100% of the documents), with up to 100 iterations and a tolerance of `1e-5`. It runs for approximately 1 minute and 50 seconds (1.09s/it).
+

@@ -156,15 +156,19 @@ def main():
                         help="Number of topics to discover (default=10).")
     parser.add_argument("--verbose", action="store_true",
                         help="Enable verbose printing (default=False).")
-    parser.add_argument("--output_dir", type=str, default="out/plsi_vectors",
-                        help="Path to the output directory (default=out/plsi_vectors).")
+    parser.add_argument("--input_dir", type=str, default="out/vectors",
+                        help="Path to the input directory (default=out/vectors).")
+    parser.add_argument("--output_dir", type=str, default="vectors_in_csv/plsi_vectors",
+                        help="Path to the output directory (default=vectors_in_csv/plsi_vectors).")
     parser.add_argument("--max_iter", type=int, default=50,
                         help="Maximum number of EM iterations (default=50).")
     parser.add_argument("--tol", type=float, default=1e-5,
                         help="Convergence threshold (default=1e-5).")
     parser.add_argument("--pct_docs", type=float, default=100,
                         help="Percentage of documents to use from CSV files (0-100, default=100).")
-
+    parser.add_argument("--matrix_type", type=str, choices=["tfidf", "count"], default="tfidf",
+                        help="Matrix type to use (default=tfidf).")
+    
     args = parser.parse_args()
 
     verbose = args.verbose
@@ -176,8 +180,11 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     # Load data
-    count_vectors_df = pd.read_csv("./out/vectors/count_vectors.csv", index_col=0) # use threshold-5/ for files with larger vocab size
-    tfidf_df = pd.read_csv("./out/vectors/tfidf.csv", index_col=0) # use threshold-5/ for files with larger vocab size
+    count_vectors_path = os.path.join(args.input_dir, "count_vectors.csv")
+    tfidf_path = os.path.join(args.input_dir, "tfidf.csv")
+
+    count_vectors_df = pd.read_csv(count_vectors_path, index_col=0)
+    tfidf_df = pd.read_csv(tfidf_path, index_col=0)
 
     # Select a subset of documents based on the provided percentage
     if args.pct_docs < 100:
@@ -188,36 +195,37 @@ def main():
 
     vocabulary = list(count_vectors_df.columns)
 
-    # Example usage: run PLSI on TF-IDF
-    P_dz_tfidf, P_zw_tfidf = run_plsi(
-        matrix_df=tfidf_df,
-        vocabulary=vocabulary,
-        n_topics=n_topics,
-        max_iter=max_iter,
-        tol=tol,
-        matrix_name="TF-IDF",
-        verbose=verbose
-    )
+    if args.matrix_type == "tfidf":
+        # Run PLSI on TF-IDF
+        P_dz, P_zw = run_plsi(
+            matrix_df=tfidf_df,
+            vocabulary=vocabulary,
+            n_topics=n_topics,
+            max_iter=max_iter,
+            tol=tol,
+            matrix_name="TF-IDF",
+            verbose=verbose
+        )
+        suffix = ""
+    else:
+        # Run PLSI on Count Vectors
+        P_dz, P_zw = run_plsi(
+            matrix_df=count_vectors_df,
+            vocabulary=vocabulary,
+            n_topics=n_topics,
+            max_iter=max_iter,
+            tol=tol,
+            matrix_name="Count Vectors",
+            verbose=verbose
+        )
+        suffix = "_count"
 
     # Save the normalized distributions P_dz and P_zw to CSV
-    dz_filename = f"PLSI_P_dz_{n_topics}topics_{max_iter}iter.csv"
-    zw_filename = f"PLSI_P_zw_{n_topics}topics_{max_iter}iter.csv"
+    dz_filename = f"PLSI_P_dz_{n_topics}topics_{max_iter}iter{suffix}.csv"
+    zw_filename = f"PLSI_P_zw_{n_topics}topics_{max_iter}iter{suffix}.csv"
 
-    pd.DataFrame(P_dz_tfidf).to_csv(os.path.join(args.output_dir, dz_filename), index=False)
-    pd.DataFrame(P_zw_tfidf).to_csv(os.path.join(args.output_dir, zw_filename), index=False)
-
-    # Uncomment the following code to also run on Count Vectors
-    # P_dz_count, P_zw_count = run_plsi(
-    #     matrix_df=count_vectors_df,
-    #     vocabulary=vocabulary,
-    #     n_topics=n_topics,
-    #     max_iter=max_iter,
-    #     tol=tol,
-    #     matrix_name="Count Vectors",
-    #     verbose=verbose
-    # )
-    # pd.DataFrame(P_dz_count).to_csv(os.path.join(args.output_dir, f"PLSI_P_dz_{n_topics}topics_{max_iter}iter_count.csv"), index=False)
-    # pd.DataFrame(P_zw_count).to_csv(os.path.join(args.output_dir, f"PLSI_P_zw_{n_topics}topics_{max_iter}iter_count.csv"), index=False)
+    pd.DataFrame(P_dz).to_csv(os.path.join(args.output_dir, dz_filename), index=False)
+    pd.DataFrame(P_zw).to_csv(os.path.join(args.output_dir, zw_filename), index=False)
 
 
 if __name__ == "__main__":
