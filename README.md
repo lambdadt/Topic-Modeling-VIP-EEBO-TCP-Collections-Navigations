@@ -44,6 +44,8 @@ Run the following Jupyter Notebook to identify stop words and compute TF-IDF:
 
 Run `stopwords_vectors.ipynb`.
 
+---
+
 ### Running PLSI
 
 The `plsi.py` script runs the Probabilistic Latent Semantic Analysis (PLSI) algorithm on preprocessed data.
@@ -93,3 +95,53 @@ python plsi.py --topics 10 --input_dir out/vectors --output_dir vectors_in_csv/p
 
 In this example, the script runs with 10 topics on the count vectors (using 100% of the documents), with up to 100 iterations and a tolerance of `1e-5`. It runs for approximately 1 minute and 50 seconds (1.09s/it).
 
+---
+
+### Running LSI
+
+The `lsi.py` script runs the Latent Semantic Analysis (LSA) algorithm on preprocessed data.
+
+**Important Notes:**
+- The script expects two CSV files in the specified `--input_dir`: `count_vectors.csv` and `tfidf.csv`.
+- Both files must have identical dimensions as they represent different representations (raw counts vs. TF-IDF) of the same document-word matrix.
+- These CSV files can be generated using the `preprocess.py` script as shown above.
+- The output files vary depending on the `--output_type` argument:
+  - If `--output_type` is set to `prob` (default), the output files `LSI_P_dz_*.csv` and `LSI_P_zw_*.csv` (probability files) are saved. These are used as inputs to the `visualization.py` script.
+  - If `--output_type` is set to `svd`, the output files `LSI_U_*.csv`, `LSI_S_*.csv`, and `LSI_Vt_*.csv` (SVD files) are saved for further inspection.
+
+#### Command-line Arguments
+
+- **--topics** *int*  
+  Number of topics to discover. Default is `10`.
+
+- **--verbose** *flag*  
+  Enable verbose logging for debugging purposes (currently not active).
+
+- **--input_dir** *str*  
+  Path to the directory containing the input CSV files (`count_vectors.csv` and `tfidf.csv`).  
+  Default is `out/vectors`.
+
+- **--output_dir** *str*  
+  Path to the directory where the output files will be saved.  
+  Default is `out/lsi_vectors`.
+
+- **--pct_docs** *float*  
+  Percentage of documents to use from the input CSV files (range: `0-100`). Default is `100`.  
+  Use this parameter to run the algorithm on a subset of the data for faster experimentation.
+
+- **--matrix_type** *str*  
+  Specify which matrix to use for running LSA. Options are `tfidf` (default) or `count`.  
+  This selects whether the algorithm processes the TF-IDF matrix or the count vectors.
+
+- **--output_type** *str*  
+  Specify the type of output files to save. Options are:
+  - `prob` (default): Save probability files (document-topic and topic-word distributions).
+  - `svd`: Save SVD files (U, S, and Vt matrices) for further inspection.
+
+#### Example Usage
+
+```sh
+python lsi.py --topics 10 --input_dir out/vectors --output_dir vectors_in_csv/lsi_vectors --pct_docs 100 --matrix_type count --output_type prob
+```
+
+In this example, the script runs with 10 topics on the count vectors (using 100% of the documents) and saves the probability files. It takes less than 2 seconds.

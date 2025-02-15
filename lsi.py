@@ -51,7 +51,7 @@ def lsa(
     # Weight the matrices with the square roots of the singular values.
     sqrt_s_k = np.sqrt(s_k)
     doc_topic = U_k * sqrt_s_k[np.newaxis, :]      # shape: (n_docs, n_topics)
-    topic_word = sqrt_s_k[:, np.newaxis] * Vt_k    # shape: (n_topics, n_words)
+    topic_word = sqrt_s_k[:, np.newaxis] * Vt_k       # shape: (n_topics, n_words)
 
     # Take the absolute values to mimic non-negative probabilities.
     doc_topic = np.abs(doc_topic)
@@ -124,21 +124,29 @@ def main():
                         help="Number of topics to discover (default=10).")
     parser.add_argument("--verbose", action="store_true",
                         help="Enable verbose logging (default=False).")
-    parser.add_argument("--output_dir", type=str, default="out/lsi_vectors",
-                        help="Path to the output directory (default=out/lsi_vectors).")
+    parser.add_argument("--input_dir", type=str, default="out/vectors",
+                        help="Path to the input directory (default=out/vectors).")
+    parser.add_argument("--output_dir", type=str, default="vectors_in_csv/lsi_vectors",
+                        help="Path to the output directory (default=vectors_in_csv/lsi_vectors).")
     parser.add_argument("--pct_docs", type=float, default=100,
                         help="Percentage of documents to use from CSV files (0-100).")
+    parser.add_argument("--matrix_type", type=str, choices=["tfidf", "count"], default="tfidf",
+                        help="Matrix type to use (default=tfidf).")
+    parser.add_argument("--output_type", type=str, choices=["prob", "svd"], default="prob",
+                        help="Type of output files to save: 'prob' for probability files (default) or 'svd' for SVD files.")
 
     args = parser.parse_args()
     verbose = args.verbose
     n_topics = args.topics
 
-    # Ensure output directory exists
+    # Ensure output directory exists.
     os.makedirs(args.output_dir, exist_ok=True)
 
-    # Load data
-    count_vectors_df = pd.read_csv("./out/vectors/count_vectors.csv", index_col=0)
-    tfidf_df = pd.read_csv("./out/vectors/tfidf.csv", index_col=0)
+    # Load data from the input directory.
+    count_vectors_path = os.path.join(args.input_dir, "count_vectors.csv")
+    tfidf_path = os.path.join(args.input_dir, "tfidf.csv")
+    count_vectors_df = pd.read_csv(count_vectors_path, index_col=0)
+    tfidf_df = pd.read_csv(tfidf_path, index_col=0)
 
     # Select a subset of documents based on the provided percentage (if < 100).
     if args.pct_docs < 100:
@@ -147,37 +155,38 @@ def main():
         count_vectors_df = count_vectors_df.iloc[:n_select]
         tfidf_df = tfidf_df.iloc[:n_select]
 
-    with open("./out/vectors/meta.json", "r", encoding="utf-8") as f:
-        meta_data = json.load(f)
-
     # Retrieve vocabulary from DataFrame columns.
     vocabulary = list(count_vectors_df.columns)
 
-    # Run LSA on Count Vectors (uncomment to use).
-    # P_dz_count, P_zw_count, U_k_count, s_k_count, Vt_k_count = run_lsa(
-    #     matrix_df=count_vectors_df,
-    #     vocabulary=vocabulary,
-    #     n_topics=n_topics,
-    #     matrix_name="Count Vectors",
-    #     verbose=verbose
-    # )
-    # pd.DataFrame(U_k_count).to_csv(f"{args.output_dir}/LSI_U_{n_topics}_count.csv", index=False)
-    # pd.DataFrame(s_k_count).to_csv(f"{args.output_dir}/LSI_S_{n_topics}_count.csv", index=False)
-    # pd.DataFrame(Vt_k_count).to_csv(f"{args.output_dir}/LSI_Vt_{n_topics}_count.csv", index=False)
+    # Determine which matrix to use based on the matrix_type argument.
+    if args.matrix_type == "tfidf":
+        matrix_df = tfidf_df
+        matrix_name = "TF-IDF"
+        suffix = ""
+    else:
+        matrix_df = count_vectors_df
+        matrix_name = "Count Vectors"
+        suffix = "_count"
 
-    # Run LSA on TF-IDF
-    P_dz_tfidf, P_zw_tfidf, U_k_tfidf, s_k_tfidf, Vt_k_tfidf = run_lsa(
-        matrix_df=tfidf_df,
+    # Run LSA on the selected matrix.
+    P_dz, P_zw, U_k, s_k, Vt_k = run_lsa(
+        matrix_df=matrix_df,
         vocabulary=vocabulary,
         n_topics=n_topics,
-        matrix_name="TF-IDF",
+        matrix_name=matrix_name,
         verbose=verbose
     )
 
-    # Save U, S, Vt from TF-IDF-based LSA
-    pd.DataFrame(U_k_tfidf).to_csv(f"{args.output_dir}/LSI_U_{n_topics}.csv", index=False)
-    pd.DataFrame(s_k_tfidf).to_csv(f"{args.output_dir}/LSI_S_{n_topics}.csv", index=False)
-    pd.DataFrame(Vt_k_tfidf).to_csv(f"{args.output_dir}/LSI_Vt_{n_topics}.csv", index=False)
+    # Save the output files based on the output_type argument.
+    if args.output_type == "prob":
+        # Save probability files: Document-topic and Topic-word distributions.
+        pd.DataFrame(P_dz).to_csv(os.path.join(args.output_dir, f"LSI_P_dz_{n_topics}topics{suffix}.csv"), index=False)
+        pd.DataFrame(P_zw).to_csv(os.path.join(args.output_dir, f"LSI_P_zw_{n_topics}topics{suffix}.csv"), index=False)
+    else:
+        # Save SVD files: U, S, and Vt matrices.
+        pd.DataFrame(U_k).to_csv(os.path.join(args.output_dir, f"LSI_U_{n_topics}topics{suffix}.csv"), index=False)
+        pd.DataFrame(s_k).to_csv(os.path.join(args.output_dir, f"LSI_S_{n_topics}topics{suffix}.csv"), index=False)
+        pd.DataFrame(Vt_k).to_csv(os.path.join(args.output_dir, f"LSI_Vt_{n_topics}topics{suffix}.csv"), index=False)
 
 
 if __name__ == "__main__":
