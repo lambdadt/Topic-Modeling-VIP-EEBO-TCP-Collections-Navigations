@@ -200,14 +200,16 @@ def interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_len
 
 def main():
     parser = argparse.ArgumentParser(description="Visualization of PLSI's P_dz and P_zw matrices")
-    parser.add_argument("--input_dir", type=str, default="vectors_in_csv/plsi_vectors",
-                        help="Path to the input directory (default=vectors_in_csv/plsi_vectors).")
+    parser.add_argument("--matrix_dir", type=str, default="vectors_in_csv/plsi_vectors",
+                        help="Path to the directory containing the probability matrices (default=vectors_in_csv/plsi_vectors).")
+    parser.add_argument("--data_dir", type=str, default="out/vectors",
+                        help="Path to the directory containing data files (count_vectors.csv and tfidf.csv) (default=out/vectors).")
     parser.add_argument("--dz_filename", type=str,
-                        help="Path to the input plsi_P_dz matrix (default=None).")
+                        help="Filename of the input PLSI_P_dz matrix (default=None).")
     parser.add_argument("--zw_filename", type=str,
-                        help="Path to the input plsi_P_zw matrix (default=None).")
-    parser.add_argument("--output_dir", type=str, default="out/visualizations/plsi",
-                        help="Path to the output directory (default=out/visualizations/plsi).")
+                        help="Filename of the input PLSI_P_zw matrix (default=None).")
+    parser.add_argument("--output_dir", type=str, default="vectors_in_csv/plsi_txt_reports",
+                        help="Path to the output directory (default=vectors_in_csv/plsi_txt_reports).")
     parser.add_argument("--verbose", action="store_true",
                         help="Enable verbose printing (default=False).")
     
@@ -216,17 +218,17 @@ def main():
 
     os.makedirs(args.output_dir, exist_ok=True)
 
-    # Construct full file paths
-    dz_path = os.path.join(args.input_dir, args.dz_filename)
-    zw_path = os.path.join(args.input_dir, args.zw_filename)
+    # Construct full file paths for probability matrices
+    dz_path = os.path.join(args.matrix_dir, args.dz_filename)
+    zw_path = os.path.join(args.matrix_dir, args.zw_filename)
 
-    # Read CSV files
+    # Read probability CSV files
     P_dz_tfidf = pd.read_csv(dz_path)
     P_zw_tfidf = pd.read_csv(zw_path)
 
-    # Create lookup tables
-    index2filename = pd.read_csv("./out/vectors/count_vectors.csv").iloc[:, 0].to_dict() # use threshold-5/ for files with larger vocab size
-    vocab_list = list(pd.read_csv("./out/vectors/tfidf.csv", index_col=0).columns) # use threshold-5/ for files with larger vocab size
+    # Create lookup tables from the data directory
+    index2filename = pd.read_csv(os.path.join(args.data_dir, "count_vectors.csv")).iloc[:, 0].to_dict()  # use threshold-5/ for files with larger vocab size
+    vocab_list = list(pd.read_csv(os.path.join(args.data_dir, "tfidf.csv"), index_col=0).columns)  # use threshold-5/ for files with larger vocab size
     index2word = {i: word for i, word in enumerate(vocab_list)}
 
     # Precompute document lengths
