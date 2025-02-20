@@ -18,7 +18,8 @@ def plsi(
     n_topics: int,
     max_iter: int = 50,
     tol: float = 1e-5,
-    verbose: bool = False
+    verbose: bool = False,
+    count_matrix: np.ndarray=None,
 ) -> tuple[np.ndarray, np.ndarray]:
     """
     Runs the PLSI algorithm using a vectorized EM approach.
@@ -35,6 +36,9 @@ def plsi(
         Convergence threshold for the change in log-likelihood.
     verbose : bool
         Whether to print additional details.
+    count_matrix: np.ndarray
+        A 2D array of shape (n_docs, n_words) containing counts. This is used for log-likelihood calculation.
+        If not provided, it will by substituted by doc_word_matrix.
 
     Returns
     -------
@@ -45,10 +49,12 @@ def plsi(
     """
     n_docs, n_words = doc_word_matrix.shape
     np.random.seed(0)
+    if count_matrix is None:
+        count_matrix = doc_word_matrix
 
     # Random initialization for document-topic and topic-word distributions
-    P_dz = np.random.rand(n_docs, n_topics)
-    P_zw = np.random.rand(n_topics, n_words)
+    P_dz = np.random.rand(n_docs, n_topics)  # P(z|d)
+    P_zw = np.random.rand(n_topics, n_words) # P(w|z)
 
     # Normalize the initial distributions
     P_dz /= P_dz.sum(axis=1, keepdims=True)
@@ -81,7 +87,7 @@ def plsi(
         #   P_dz[d, z] = sum_w (doc_word_matrix[d, w] * P_z_given_d_w[d, w, z])
         weighted_dz = doc_word_matrix[:, :, None] * P_z_given_d_w  # shape: (n_docs, n_words, n_topics)
         P_dz_new = weighted_dz.sum(axis=1)  # Sum over words (axis=1) results in shape (n_docs, n_topics)
-        # Normalize each document (row) so that they sum to 1
+        # Normalize each document (row) along the topic axes so that they sum to 1
         row_sum_dz = P_dz_new.sum(axis=1, keepdims=True)
         P_dz = np.divide(P_dz_new, row_sum_dz, out=np.zeros_like(P_dz_new), where=row_sum_dz != 0)
 
@@ -91,7 +97,7 @@ def plsi(
         prob_dw = np.dot(P_dz, P_zw)  # shape: (n_docs, n_words)
         # Compute log-likelihood only where prob_dw is non-zero to avoid log(0)
         mask = prob_dw > 0
-        likelihood = np.sum(doc_word_matrix[mask] * np.log(prob_dw[mask]))
+        likelihood = np.sum(count_matrix[mask] * np.log(prob_dw[mask]))
 
         # Check for convergence
         if iteration > 0 and abs(likelihood - prev_likelihood) < tol:
@@ -111,7 +117,8 @@ def run_plsi(
     max_iter: int = 50,
     tol: float = 1e-5,
     matrix_name: str = "Count Vectors",
-    verbose: bool = False
+    verbose: bool = False,
+    count_matrix: pd.DataFrame=None,
 ) -> tuple[np.ndarray, np.ndarray]:
     """
     Wrapper to run PLSI on a given DataFrame, then optionally print detailed topic/document info.
@@ -132,6 +139,8 @@ def run_plsi(
         Descriptor for logging (e.g., "Count Vectors" or "TF-IDF").
     verbose : bool
         Whether to print additional details.
+    count_matrix: pd.DataFrame
+        Rows = documents, Columns = words. Values must be number of word occurrences.
 
     Returns
     -------
@@ -142,11 +151,13 @@ def run_plsi(
     """
     doc_word_matrix = matrix_df.values
     n_docs, n_words = doc_word_matrix.shape
+    if count_matrix is not None:
+        count_matrix = count_matrix.values
 
     print(f"\n--- Running PLSI on {matrix_name} ---")
     print(f"Data: {n_docs} documents x {n_words} words | Topics: {n_topics}")
 
-    P_dz, P_zw = plsi(doc_word_matrix, n_topics, max_iter=max_iter, tol=tol, verbose=verbose)
+    P_dz, P_zw = plsi(doc_word_matrix, n_topics, max_iter=max_iter, tol=tol, verbose=verbose, count_matrix=count_matrix)
     return P_dz, P_zw
 
 
@@ -183,7 +194,9 @@ def main():
     count_vectors_path = os.path.join(args.input_dir, "count_vectors.csv")
     tfidf_path = os.path.join(args.input_dir, "tfidf.csv")
 
+    print("Reading count vectors from '{}'...".format(count_vectors_path))
     count_vectors_df = pd.read_csv(count_vectors_path, index_col=0)
+    print("Reading TFIDF from '{}'...".format(tfidf_path))
     tfidf_df = pd.read_csv(tfidf_path, index_col=0)
 
     # Select a subset of documents based on the provided percentage
@@ -204,7 +217,8 @@ def main():
             max_iter=max_iter,
             tol=tol,
             matrix_name="TF-IDF",
-            verbose=verbose
+            verbose=verbose,
+            count_matrix=count_vectors_df,
         )
         suffix = ""
     else:
@@ -216,7 +230,8 @@ def main():
             max_iter=max_iter,
             tol=tol,
             matrix_name="Count Vectors",
-            verbose=verbose
+            verbose=verbose,
+            count_matrix=count_vectors_df,
         )
         suffix = "_count"
 

@@ -133,7 +133,7 @@ The `lsi.py` script runs the Latent Semantic Analysis (LSA) algorithm on preproc
   Specify which matrix to use for running LSA. Options are `tfidf` (default) or `count`.  
   This selects whether the algorithm processes the TF-IDF matrix or the count vectors.
 
-- **--output_type** *str*  
+- **--output_type** *str* (**not implemented**)
   Specify the type of output files to save. Options are:
   - `prob` (default): Save probability files (document-topic and topic-word distributions).
   - `svd`: Save SVD files (U, S, and Vt matrices) for further inspection.
@@ -174,6 +174,7 @@ The script performs two main functions:
    - Identify the document's best topic (the topic with the highest probability).
    - View a table of top words for that best topic (similar to Table 2).
    - Exit the interactive mode by typing “exit” or “quit”.
+   Set `--skip_interactive_mode` to skip this.
 
 #### Command-line Arguments
 
@@ -200,6 +201,9 @@ The script performs two main functions:
 - **--verbose** *flag*  
   Enable verbose printing for debugging purposes.  
   *Default: False*
+
+- **--skip_intearctive_mode** *flag*
+  Disable interactive mode.
 
 #### Example Usage
 ```sh
