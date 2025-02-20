@@ -53,8 +53,8 @@ def plsi(
         count_matrix = doc_word_matrix
 
     # Random initialization for document-topic and topic-word distributions
-    P_dz = np.random.rand(n_docs, n_topics)
-    P_zw = np.random.rand(n_topics, n_words)
+    P_dz = np.random.rand(n_docs, n_topics)  # P(z|d)
+    P_zw = np.random.rand(n_topics, n_words) # P(w|z)
 
     # Normalize the initial distributions
     P_dz /= P_dz.sum(axis=1, keepdims=True)
@@ -87,7 +87,7 @@ def plsi(
         #   P_dz[d, z] = sum_w (doc_word_matrix[d, w] * P_z_given_d_w[d, w, z])
         weighted_dz = doc_word_matrix[:, :, None] * P_z_given_d_w  # shape: (n_docs, n_words, n_topics)
         P_dz_new = weighted_dz.sum(axis=1)  # Sum over words (axis=1) results in shape (n_docs, n_topics)
-        # Normalize each document (row) so that they sum to 1
+        # Normalize each document (row) along the topic axes so that they sum to 1
         row_sum_dz = P_dz_new.sum(axis=1, keepdims=True)
         P_dz = np.divide(P_dz_new, row_sum_dz, out=np.zeros_like(P_dz_new), where=row_sum_dz != 0)
 
