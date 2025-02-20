@@ -212,6 +212,8 @@ def main():
                         help="Path to the output directory (default=vectors_in_csv/plsi_txt_reports).")
     parser.add_argument("--verbose", action="store_true",
                         help="Enable verbose printing (default=False).")
+    parser.add_argument("--skip_interactive_mode", action="store_true",
+                        help="Skip interactive mode.")
     
     args = parser.parse_args()
     verbose = args.verbose
@@ -254,7 +256,8 @@ def main():
     print(f"Visualization output has been written to: {output_filename}")
 
     # Enter interactive mode
-    interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths)
+    if not args.skip_interactive_mode:
+        interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths)
 
 
 if __name__ == "__main__":
