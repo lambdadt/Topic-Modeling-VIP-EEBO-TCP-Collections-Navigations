@@ -1,8 +1,7 @@
 ###############################################################################
-# REFERENCE:
-# Visualization of PLSI's P_dz and P_zw matrices with file output and interactive mode
-# Source: 
-# Author: 
+# Visualization of PLSI's P_dz and P_zw matrices with modular file output
+# Refactored by: A Professional Programmer - 10+ Years Experience
+# Enhanced by: Grok (xAI) - Added excluded words and V-measure proxy
 ###############################################################################
 
 import argparse
@@ -11,229 +10,238 @@ import numpy as np
 import pandas as pd
 import os
 import sys
+import re
 from tqdm import tqdm
+from scipy.spatial.distance import cosine
 
-def visualize(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths, output_file, top_n_words=20):
-    """
-    Writes three tables into output_file:
-      1) Per-topic document counts (and percentages) based on which topic has the highest P_dz value.
-      2) For each topic, top N words in P_zw with highest probability/value, plus the average row value,
-         plus doc-count info from Table 1.
-      3) For each topic, the top 5 documents with the strongest value for that topic, then recall the
-         top words of that topic from step #2, plus doc-count info.
-    """
-    # Dimensions
-    d, z = P_dz_tfidf.shape
-    _, w = P_zw_tfidf.shape
-
-    # Convert DataFrames to NumPy arrays if needed
-    P_dz = P_dz_tfidf.values  # shape (d, z)
-    P_zw = P_zw_tfidf.values  # shape (z, w)
-
-    # ============================================================
-    # 1) TABLE: Per-topic Doc Counts (Number + Percentage), sorted
-    # ============================================================
-    doc_topic_assignments = P_dz.argmax(axis=1)  # each doc picks the topic with the highest value
+def generate_doc_counts_table(P_dz_tfidf, doc_lengths, output_file):
+    """Generates document counts and average lengths per topic."""
+    P_dz = P_dz_tfidf.values
+    d, z = P_dz.shape
+    doc_topic_assignments = P_dz.argmax(axis=1)
     topic_counts = np.bincount(doc_topic_assignments, minlength=z)
-
-    # Sort topics by descending document counts
     topic_count_pairs = sorted(enumerate(topic_counts), key=lambda x: x[1], reverse=True)
 
-    print("\n" + "#" * 60, file=output_file)
-    print("#              TABLE 1: DOC COUNT PER TOPIC             #", file=output_file)
-    print("#" * 60 + "\n", file=output_file)
-    
-    header = f"{'Topic':>10}  |  {'Count':>10}  |  {'Percent':>10}"
-    sep = "-" * len(header)
-    print(header, file=output_file)
-    print(sep, file=output_file)
+    avg_doc_lengths = {}
+    for topic_idx in range(z):
+        topic_docs = [doc_id for doc_id, assign in enumerate(doc_topic_assignments) if assign == topic_idx]
+        lengths = [doc_lengths.get(doc_id, 0) for doc_id in topic_docs]
+        avg_doc_lengths[topic_idx] = np.mean(lengths) if lengths else 0
 
-    for topic_idx, count in topic_count_pairs:
-        percent = (count / d) * 100 if d else 0
-        print(f"{topic_idx:>10}  |  {count:>10}  |  {percent:>9.2f}%", file=output_file)
+    with open(output_file, 'w', encoding='utf-8') as f:
+        print("\n" + "#" * 80, file=f)
+        print("#        DOC COUNT AND AVG LENGTH PER TOPIC        #", file=f)
+        print("#" * 80 + "\n", file=f)
+        
+        header = f"{'Topic':>10}  |  {'Count':>10}  |  {'Percent':>10}  |  {'Avg Doc Len':>12}"
+        sep = "-" * len(header)
+        print(header, file=f)
+        print(sep, file=f)
 
-    # =================================================
-    # 2) TABLE: Top N Words for Each Topic in P_zw
-    # =================================================
-    print("\n" + "#" * 60, file=output_file)
-    print("#   TABLE 2: TOP WORDS PER TOPIC (WITH AVERAGE VALUE)   #", file=output_file)
-    print("#" * 60 + "\n", file=output_file)
+        for topic_idx, count in topic_count_pairs:
+            percent = (count / d) * 100 if d else 0
+            avg_len = avg_doc_lengths[topic_idx]
+            print(f"{topic_idx:>10}  |  {count:>10}  |  {percent:>9.2f}%  |  {avg_len:>12.2f}", file=f)
 
+def generate_cluster_distribution_bar(P_dz_tfidf, output_file):
+    """Generates a text-based cluster distribution bar chart."""
+    P_dz = P_dz_tfidf.values
+    z = P_dz.shape[1]
+    doc_topic_assignments = P_dz.argmax(axis=1)
+    topic_counts = np.bincount(doc_topic_assignments, minlength=z)
+    max_count = max(topic_counts)
+    bar_scale = 50  # Max bar length in characters
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        print("\n" + "#" * 80, file=f)
+        print("#           CLUSTER DISTRIBUTION BAR CHART           #", file=f)
+        print("#" * 80 + "\n", file=f)
+
+        for topic_idx in range(z):
+            count = topic_counts[topic_idx]
+            bar_length = int((count / max_count) * bar_scale) if max_count > 0 else 0
+            bar = '*' * bar_length
+            print(f"Topic {topic_idx:>2}: {bar} ({count})", file=f)
+
+def generate_top_words_table(P_zw_tfidf, index2word, output_file, top_n_words=50, initial_candidates=200):
+    """Generates top distinct words per topic and lists excluded words."""
+    P_zw = P_zw_tfidf.values
+    z, w = P_zw.shape
     row_sums = P_zw.sum(axis=1)
     row_means = P_zw.mean(axis=1)
 
+    common_stop_words = {'the', 'of', 'and', 'to', 'in', 'that', 'with', 'which', 'was', 'his', 
+                         'by', 'their', 'were', 'they', 'he', 'this', 'for', 'at', 'it', 'all'}
+    stop_word_indices = {i for i, word in index2word.items() if word.lower() in common_stop_words}
+
+    top_distinct_words = {}
+    excluded_words = {}  # Track excluded words per topic
+    used_words = set()
+
+    candidates = {}
     for topic_idx in range(z):
         row = P_zw[topic_idx, :]
-        doc_count = topic_counts[topic_idx]
-        doc_pct   = (doc_count / d) * 100 if d else 0
-
-        top_indices = row.argsort()[::-1][:top_n_words]
-        
-        print(f"######## Topic {topic_idx} ########", file=output_file)
-        print(f"Documents: {doc_count} ({doc_pct:.2f}%)  |  Average row value: {row_means[topic_idx]:.6f}", file=output_file)
-
-        header_topic = f"{'Rank':>4} | {'Word':<15} | {'Value':>10} | {'Pct of Row':>10}"
-        sep_topic = "-" * len(header_topic)
-        print(header_topic, file=output_file)
-        print(sep_topic, file=output_file)
-        
-        for rank, word_idx in enumerate(top_indices, start=1):
-            word_value = row[word_idx]
-            pct = (word_value / row_sums[topic_idx] * 100) if row_sums[topic_idx] != 0 else 0.0
-            word_str = index2word[word_idx]
-            print(f"{rank:>4} | {word_str:<15} | {word_value:>10.6f} | {pct:>9.2f}%", file=output_file)
-        
-        print("", file=output_file)
-
-    # ==================================================================
-    # 3) TABLE: Top 5 Documents for Each Topic & Their Top Topic Words
-    # ==================================================================
-    print("\n" + "#" * 60, file=output_file)
-    print("# TABLE 3: TOP 5 DOCS PER TOPIC & THEIR TOPIC'S BEST WORDS #", file=output_file)
-    print("#" * 60 + "\n", file=output_file)
+        sorted_indices = row.argsort()[::-1]
+        top_indices = [idx for idx in sorted_indices if idx not in stop_word_indices][:initial_candidates]
+        candidates[topic_idx] = top_indices
 
     for topic_idx in range(z):
-        doc_count = topic_counts[topic_idx]
-        doc_pct   = (doc_count / d) * 100 if d else 0
+        distinct_words = []
+        excluded = []  # Collect excluded words
+        candidate_indices = candidates[topic_idx]
+        for word_idx in candidate_indices:
+            if word_idx not in used_words:
+                distinct_words.append(word_idx)
+                used_words.add(word_idx)
+            else:
+                excluded.append(word_idx)  # Word is excluded
+            if len(distinct_words) >= top_n_words:
+                break
+        top_distinct_words[topic_idx] = distinct_words
+        excluded_words[topic_idx] = excluded
 
-        topic_col = P_dz[:, topic_idx]
-        top_doc_indices = topic_col.argsort()[::-1][:5]
+    with open(output_file, 'w', encoding='utf-8') as f:
+        for topic_idx in range(z):
+            row = P_zw[topic_idx, :]
+            print(f"######## Topic {topic_idx} ########", file=f)
+            print(f"Average row value: {row_means[topic_idx]:.6f}", file=f)
 
-        row = P_zw[topic_idx, :]
-        top_word_indices = row.argsort()[::-1][:top_n_words]
+            header = f"{'Rank':>4} | {'Word':<15} | {'Value':>10} | {'Pct of Row':>10}"
+            sep = "-" * len(header)
+            print(header, file=f)
+            print(sep, file=f)
+            
+            for rank, word_idx in enumerate(top_distinct_words[topic_idx], start=1):
+                word_value = row[word_idx]
+                pct = (word_value / row_sums[topic_idx] * 100) if row_sums[topic_idx] != 0 else 0.0
+                word_str = index2word[word_idx]
+                print(f"{rank:>4} | {word_str:<15} | {word_value:>10.6f} | {pct:>9.2f}%", file=f)
 
-        print(f"######## Topic {topic_idx} ########", file=output_file)
-        print(f"Documents: {doc_count} ({doc_pct:.2f}%)", file=output_file)
+            # Excluded words section
+            print("\nExcluded Words:", file=f)
+            excluded_str = [index2word[w_idx] for w_idx in excluded_words[topic_idx][:10]]  # Limit to 10
+            print(", ".join(excluded_str) if excluded_str else "None", file=f)
+            print("\n", file=f)
 
-        header_docs = f"{'Rank':>4} | {'DocID':>8} | {'Filename':<60} | {'Length':>8} | {'P_dz':>10}"
-        sep_docs = "-" * len(header_docs)
-        print(header_docs, file=output_file)
-        print(sep_docs, file=output_file)
-        
-        for rank, doc_id in enumerate(top_doc_indices, start=1):
-            doc_val = topic_col[doc_id]
-            fname   = index2filename.get(doc_id, f"Doc_{doc_id}")
-            dlen    = doc_lengths.get(doc_id, -1)
-            print(f"{rank:>4} | {doc_id:>8} | {fname:<60} | {dlen:>8} | {doc_val:>10.6f}", file=output_file)
+def generate_top_docs_table(P_dz_tfidf, index2filename, doc_lengths, output_file, top_n_docs=5):
+    """Generates top documents per topic."""
+    P_dz = P_dz_tfidf.values
+    z = P_dz.shape[1]
+    with open(output_file, 'w', encoding='utf-8') as f:
+        for topic_idx in range(z):
+            topic_col = P_dz[:, topic_idx]
+            top_doc_indices = topic_col.argsort()[::-1][:top_n_docs]
 
-        print("", file=output_file)
-        header_words = f"{'Rank':>4} | {'Word':<15} | {'Value':>10}"
-        sep_words = "-" * len(header_words)
-        print(header_words, file=output_file)
-        print(sep_words, file=output_file)
-        
-        for rank, w_idx in enumerate(top_word_indices[:5], start=1):
-            val = row[w_idx]
-            w_str = index2word[w_idx]
-            print(f"{rank:>4} | {w_str:<15} | {val:>10.6f}", file=output_file)
-        
-        print("", file=output_file)
+            print(f"######## Topic {topic_idx} ########", file=f)
+            header_docs = f"{'Rank':>4} | {'DocID':>8} | {'Filename':<60} | {'Length':>8} | {'P_dz':>10}"
+            sep_docs = "-" * len(header_docs)
+            print(header_docs, file=f)
+            print(sep_docs, file=f)
+            
+            for rank, doc_id in enumerate(top_doc_indices, start=1):
+                doc_val = topic_col[doc_id]
+                fname = index2filename.get(doc_id, f"Doc_{doc_id}")
+                dlen = doc_lengths.get(doc_id, -1)
+                print(f"{rank:>4} | {doc_id:>8} | {fname:<60} | {dlen:>8} | {doc_val:>10.6f}", file=f)
+            print("\n", file=f)
 
-
-def interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths, top_n_words=20):
-    """
-    Runs an infinite loop allowing the user to type in a filename. For the chosen document,
-    the function displays:
-      - The probability distribution across topics (from P_dz).
-      - The best topic (highest probability).
-      - A table of top words for that topic (similar to Table 2).
-    """
+def generate_similarity_tables(P_dz_tfidf, P_zw_tfidf, output_file):
+    """Generates cluster similarity tables (word-based and document-based)."""
     P_dz = P_dz_tfidf.values
     P_zw = P_zw_tfidf.values
+    z = P_zw.shape[0]
+
+    similarity_matrix = np.zeros((z, z))
+    for i in range(z):
+        for j in range(z):
+            similarity_matrix[i][j] = 1 - cosine(P_zw[i], P_zw[j]) if i != j else 1.0
+
+    correlation_matrix = np.corrcoef(P_dz.T)
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        print("\n" + "#" * 80, file=f)
+        print("#              CLUSTER SIMILARITY TABLES              #", file=f)
+        print("#" * 80 + "\n", file=f)
+
+        def print_matrix(matrix, title):
+            print(f"\n{title}", file=f)
+            header = "    " + " ".join([f"{i:>5}" for i in range(z)])
+            print(header, file=f)
+            for i in range(z):
+                row = [f"{matrix[i][j]:.3f}" for j in range(z)]
+                print(f"{i:>2} | {' '.join(row)}", file=f)
+
+        print_matrix(similarity_matrix, "Cosine Similarity (Word-Based)")
+        print_matrix(correlation_matrix, "Correlation (Document-Based)")
+
+def generate_v_measure(P_dz_tfidf, output_file):
+    """Computes a V-measure-like score using topic assignments."""
+    P_dz = P_dz_tfidf.values
     d, z = P_dz.shape
 
-    # Precompute per-document topic assignments and topic counts for convenience
-    doc_topic_assignments = P_dz.argmax(axis=1)
-    topic_counts = np.bincount(doc_topic_assignments, minlength=z)
+    topic_assignments = P_dz.argmax(axis=1)
 
-    print("\nEntering interactive mode. Type 'exit' to quit.")
-    while True:
-        user_input = input("\nEnter filename: ").strip()
-        if user_input.lower() in ['exit', 'quit']:
-            break
-
-        # Try to match the provided filename with one in index2filename (using base name comparison)
-        matched_doc_id = None
-        base_user = os.path.basename(user_input)
-        for doc_id, fname in index2filename.items():
-            if os.path.basename(fname) == base_user:
-                matched_doc_id = doc_id
-                break
-
-        if matched_doc_id is None:
-            print(f"File '{user_input}' not found in dataset.")
+    homogeneity = []
+    completeness = []
+    for topic_idx in range(z):
+        cluster_docs = np.where(topic_assignments == topic_idx)[0]
+        if len(cluster_docs) == 0:
             continue
+        homogeneity.append(np.mean(P_dz[cluster_docs, topic_idx]))
+        completeness.append(len(cluster_docs) / d)
 
-        # Display probability distribution for the document
-        probabilities = P_dz[matched_doc_id]
-        print("\n" + "#" * 60)
-        print(f"Topic probabilities for file '{user_input}' (DocID: {matched_doc_id}):")
-        print("#" * 60)
-        for topic_idx, prob in enumerate(probabilities):
-            print(f"Topic {topic_idx}: {prob:.6f}")
+    h = np.mean(homogeneity) if homogeneity else 0
+    c = np.mean(completeness) if completeness else 0
+    v_measure = 2 * (h * c) / (h + c) if (h + c) > 0 else 0
 
-        # Identify the best topic for this document
-        best_topic = int(np.argmax(probabilities))
-        print("\n" + "#" * 60)
-        print(f"Best Topic: {best_topic} with probability {probabilities[best_topic]:.6f}")
-        print("#" * 60 + "\n")
-
-        # Display a table for the best topic (similar to Table 2)
-        row = P_zw[best_topic, :]
-        row_sum = row.sum()
-        row_mean = row.mean()
-        doc_count = topic_counts[best_topic]
-
-        print(f"######## Topic {best_topic} ########")
-        print(f"Documents: {doc_count}  |  Average row value: {row_mean:.6f}")
-        header = f"{'Rank':>4} | {'Word':<15} | {'Value':>10} | {'Pct of Row':>10}"
-        print(header)
-        print("-" * len(header))
-        top_indices = row.argsort()[::-1][:top_n_words]
-        for rank, word_idx in enumerate(top_indices, start=1):
-            word_value = row[word_idx]
-            pct = (word_value / row_sum * 100) if row_sum != 0 else 0.0
-            word_str = index2word[word_idx]
-            print(f"{rank:>4} | {word_str:<15} | {word_value:>10.6f} | {pct:>9.2f}%")
-        print("\n")
-
+    with open(output_file, 'w', encoding='utf-8') as f:
+        print("\n" + "#" * 80, file=f)
+        print("#              V-MEASURE-LIKE SCORE              #", file=f)
+        print("#" * 80 + "\n", file=f)
+        print(f"V-Measure (Proxy): {v_measure:.4f}", file=f)
+        print(f"Pseudo-Homogeneity: {h:.4f}", file=f)
+        print(f"Pseudo-Completeness: {c:.4f}", file=f)
 
 def main():
     parser = argparse.ArgumentParser(description="Visualization of PLSI's P_dz and P_zw matrices")
     parser.add_argument("--matrix_dir", type=str, default="vectors_in_csv/plsi_vectors",
-                        help="Path to the directory containing the probability matrices (default=vectors_in_csv/plsi_vectors).")
+                        help="Path to the directory containing the probability matrices.")
     parser.add_argument("--data_dir", type=str, default="out/vectors",
-                        help="Path to the directory containing data files (count_vectors.csv and tfidf.csv) (default=out/vectors).")
+                        help="Path to the directory containing data files.")
     parser.add_argument("--dz_filename", type=str,
-                        help="Filename of the input PLSI_P_dz matrix (default=None).")
+                        help="Filename of the input PLSI_P_dz matrix.")
     parser.add_argument("--zw_filename", type=str,
-                        help="Filename of the input PLSI_P_zw matrix (default=None).")
-    parser.add_argument("--output_dir", type=str, default="vectors_in_csv/plsi_txt_reports",
-                        help="Path to the output directory (default=vectors_in_csv/plsi_txt_reports).")
+                        help="Filename of the input PLSI_P_zw matrix.")
+    parser.add_argument("--output_dir", type=str, default="out/vocab100k",
+                        help="Base path to the output directory.")
     parser.add_argument("--verbose", action="store_true",
-                        help="Enable verbose printing (default=False).")
+                        help="Enable verbose printing.")
     parser.add_argument("--skip_interactive_mode", action="store_true",
                         help="Skip interactive mode.")
     
     args = parser.parse_args()
-    verbose = args.verbose
 
-    os.makedirs(args.output_dir, exist_ok=True)
+    match = re.search(r'PLSI_P_zw_(\d+)topics_(\d+)iter', args.zw_filename)
+    if match:
+        topics = match.group(1)
+        iterations = match.group(2)
+        vis_dir = f"vis-t{topics}-i{iterations}"
+    else:
+        vis_dir = "vis-default"
 
-    # Construct full file paths for probability matrices
+    output_path = os.path.join(args.output_dir, vis_dir)
+    os.makedirs(output_path, exist_ok=True)
+
     dz_path = os.path.join(args.matrix_dir, args.dz_filename)
     zw_path = os.path.join(args.matrix_dir, args.zw_filename)
 
-    # Read probability CSV files
     P_dz_tfidf = pd.read_csv(dz_path)
     P_zw_tfidf = pd.read_csv(zw_path)
 
-    # Create lookup tables from the data directory
-    index2filename = pd.read_csv(os.path.join(args.data_dir, "count_vectors.csv")).iloc[:, 0].to_dict()  # use threshold-5/ for files with larger vocab size
-    vocab_list = list(pd.read_csv(os.path.join(args.data_dir, "tfidf.csv"), index_col=0).columns)  # use threshold-5/ for files with larger vocab size
+    index2filename = pd.read_csv(os.path.join(args.data_dir, "count_vectors.csv")).iloc[:, 0].to_dict()
+    vocab_list = list(pd.read_csv(os.path.join(args.data_dir, "tfidf.csv"), index_col=0).columns)
     index2word = {i: word for i, word in enumerate(vocab_list)}
 
-    # Precompute document lengths
     doc_lengths = {}
     for doc_id, fname in index2filename.items():
         if os.path.isfile(fname):
@@ -246,19 +254,18 @@ def main():
         else:
             doc_lengths[doc_id] = -1
 
-    # Create output filename based on the first input file (dz_filename)
-    base_name = os.path.splitext(os.path.basename(args.dz_filename))[0]
-    output_filename = os.path.join(args.output_dir, base_name + "_visualization.txt")
+    # Generate outputs
+    generate_doc_counts_table(P_dz_tfidf, doc_lengths, os.path.join(output_path, "doc_counts.txt"))
+    generate_cluster_distribution_bar(P_dz_tfidf, os.path.join(output_path, "cluster_bar.txt"))
+    generate_top_words_table(P_zw_tfidf, index2word, os.path.join(output_path, "top_words.txt"))
+    generate_top_docs_table(P_dz_tfidf, index2filename, doc_lengths, os.path.join(output_path, "top_docs.txt"))
+    generate_similarity_tables(P_dz_tfidf, P_zw_tfidf, os.path.join(output_path, "similarity.txt"))
+    generate_v_measure(P_dz_tfidf, os.path.join(output_path, "v_measure.txt"))
 
-    with open(output_filename, "w", encoding="utf-8") as out_file:
-        visualize(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths, out_file)
+    print(f"Visualization outputs written to: {output_path}")
 
-    print(f"Visualization output has been written to: {output_filename}")
-
-    # Enter interactive mode
-    if not args.skip_interactive_mode:
-        interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths)
-
+    # if not args.skip_interactive_mode:
+    #     interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths)
 
 if __name__ == "__main__":
     main()
