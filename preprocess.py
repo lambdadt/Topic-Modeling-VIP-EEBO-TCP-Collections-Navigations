@@ -23,6 +23,8 @@ def make_vectors():
                     help="If not provided (default), WordNet Lemmatizer will be used.")
     ap.add_argument('--rare_word_threshold', default=0.0, type=float, help="Cull words (after lemmatization) used fewer then x%%")
     ap.add_argument('--vector_dim_limit', default=100_000, type=int, help="Rare words will be culled. -1 means no limit.")
+    ap.add_argument('--tfidf_reweighted_count_vectors_as_float', action='store_true',
+                    help="After reweighting the count vectors with TF-IDF, return the resulting matrix with floats, instead of rounding to nearist integers.")
     args = ap.parse_args()
 
     output_dir = Path(args.output_dir)
@@ -140,7 +142,7 @@ def make_vectors():
     print("Final vocabulary size: {}".format(vocab_lm_size))
     print()
 
-    # Create count vectors
+    # Create count vectors & TF-IDF
     tf_mat = np.zeros((n_docs, vocab_lm_size))
     cvec_mat = np.zeros((n_docs, vocab_lm_size))
     for doc_idx, d_i in enumerate(tqdm(doc_infos, desc="Computing count vectors")):
@@ -161,22 +163,38 @@ def make_vectors():
     assert np.all(woccurrences_a)
     idf_a = np.log10(np.divide(n_docs, woccurrences_a))
     tfidf_mat = np.broadcast_to(idf_a, tf_mat.shape) * tf_mat
-    print()
+
+    # Reweight count vectors
+    print("Computing count vectors reweighted by TF-IDF...")
+    rowsum = tfidf_mat.sum(axis=1, keepdims=True)
+    tfidf_dist_mat = np.divide(tfidf_mat, rowsum, out=np.zeros_like(tfidf_mat), where=rowsum != 0)
+    tfidf_reweighted_cvects = tfidf_dist_mat * cvec_mat.sum(axis=1, keepdims=True)
+    if not args.tfidf_reweighted_count_vectors_as_float:
+        tfidf_reweighted_cvects = np.round(tfidf_reweighted_cvects).astype(int)
 
     doc_fp_list = [str(d['path']) for d in doc_infos]
     cvec_df = pd.DataFrame(cvec_mat, columns=vocab_lm_list, index=doc_fp_list)
     tfidf_df = pd.DataFrame(tfidf_mat, columns=vocab_lm_list, index=doc_fp_list)
+    tfidf_reweighted_cvec_df = pd.DataFrame(tfidf_reweighted_cvects, columns=vocab_lm_list, index=doc_fp_list)
 
     meta_outpath = output_dir / "meta.json"
     cvec_outpath = output_dir / "count_vectors.csv"
     tfidf_outpath = output_dir / "tfidf.csv"
+    tfidf_reweighted_cvec_outpath = output_dir / "tfidf_reweighted_count_vectors.csv"
     print("Writing metadata to '{}'...".format(meta_outpath))
     with open(meta_outpath, 'w', encoding='utf-8') as f:
         meta = {
             'vocabulary': list(vocab_lm),
             'vocabulary_raw': list(vocab),
             'count_vectors': {
-                'save_path': str(cvec_outpath),
+                'vanilla': {
+                    'save_path': str(cvec_outpath),
+                },
+                'reweighted': {
+                    'tfidf': {
+                        'save_path': str(tfidf_reweighted_cvec_outpath),
+                    },
+                },
             },
             'tfidf': {
                 'save_path': str(tfidf_outpath),
@@ -187,6 +205,8 @@ def make_vectors():
     cvec_df.to_csv(cvec_outpath)
     print("Writing TF-IDF matrix to '{}'...".format(tfidf_outpath))
     tfidf_df.to_csv(tfidf_outpath)
+    print("Writing count vectors reweighted by TF-IDF to: '{}'...".format(tfidf_reweighted_cvec_outpath))
+    tfidf_reweighted_cvec_df.to_csv(tfidf_reweighted_cvec_outpath)
     print("Done")
 
 if __name__ == '__main__':
