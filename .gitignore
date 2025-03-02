@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 out/
 __pycache__/
+/.env
+/wandb/
+/.vscode/

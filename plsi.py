@@ -7,11 +7,18 @@
 
 import argparse
 import json
-import numpy as np
-import pandas as pd
 import os
 import sys
+from typing import Optional
+import contextlib
+import datetime
+
+import numpy as np
+import pandas as pd
 from tqdm import tqdm
+import wandb
+from dotenv import load_dotenv
+
 
 def plsi(
     doc_word_matrix: np.ndarray,
@@ -20,6 +27,7 @@ def plsi(
     tol: float = 1e-5,
     verbose: bool = False,
     count_matrix: np.ndarray=None,
+    use_wandb: bool=False,
 ) -> tuple[np.ndarray, np.ndarray]:
     """
     Runs the PLSI algorithm using a vectorized EM approach.
@@ -39,6 +47,8 @@ def plsi(
     count_matrix: np.ndarray
         A 2D array of shape (n_docs, n_words) containing counts. This is used for log-likelihood calculation.
         If not provided, it will by substituted by doc_word_matrix.
+    use_wandb: bool
+        Will log to Weights & Biases
 
     Returns
     -------
@@ -98,6 +108,9 @@ def plsi(
         # Compute log-likelihood only where prob_dw is non-zero to avoid log(0)
         mask = prob_dw > 0
         likelihood = np.sum(count_matrix[mask] * np.log(prob_dw[mask]))
+        if use_wandb:
+            wandb.log({'train/iteration': iteration,
+                       'train/loglikelihood': likelihood})
 
         # Check for convergence
         if iteration > 0 and abs(likelihood - prev_likelihood) < tol:
@@ -119,6 +132,7 @@ def run_plsi(
     matrix_name: str = "Count Vectors",
     verbose: bool = False,
     count_matrix: pd.DataFrame=None,
+    wandb_project: Optional[str]=None,
 ) -> tuple[np.ndarray, np.ndarray]:
     """
     Wrapper to run PLSI on a given DataFrame, then optionally print detailed topic/document info.
@@ -141,6 +155,8 @@ def run_plsi(
         Whether to print additional details.
     count_matrix: pd.DataFrame
         Rows = documents, Columns = words. Values must be number of word occurrences.
+    wandb_project: Optional[str]
+        Will use wandb to log training progress with given project name if set.
 
     Returns
     -------
@@ -156,8 +172,22 @@ def run_plsi(
 
     print(f"\n--- Running PLSI on {matrix_name} ---")
     print(f"Data: {n_docs} documents x {n_words} words | Topics: {n_topics}")
+    if wandb_project:
+        run_name = "{} T{} V{}".format(datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S"), n_topics, len(vocabulary))
+        print(f"Logging to Weights & Biases (Project: {wandb_project}, Run: {run_name})")
+        cm = wandb.init(project=wandb_project, name=run_name,
+            config={
+                'matrix': matrix_name,
+                'vocabulary_size': len(vocabulary),
+                'n_topics': n_topics,
+                'max_iter': max_iter,
+        })
+    else:
+        cm = contextlib.nullcontext()
+    with cm:
+        P_dz, P_zw = plsi(doc_word_matrix, n_topics, max_iter=max_iter, tol=tol, verbose=verbose, count_matrix=count_matrix,
+                          use_wandb=bool(wandb_project))
 
-    P_dz, P_zw = plsi(doc_word_matrix, n_topics, max_iter=max_iter, tol=tol, verbose=verbose, count_matrix=count_matrix)
     return P_dz, P_zw
 
 
@@ -177,10 +207,16 @@ def main():
                         help="Convergence threshold (default=1e-5).")
     parser.add_argument("--pct_docs", type=float, default=100,
                         help="Percentage of documents to use from CSV files (0-100, default=100).")
-    parser.add_argument("--matrix_type", type=str, choices=["tfidf", "count"], default="tfidf",
+    parser.add_argument("--matrix_type", type=str, choices=["tfidf", "count", "tfidf_reweighted_count_vectors"], default="tfidf",
                         help="Matrix type to use (default=tfidf).")
+    parser.add_argument("--use_wandb", action='store_true',
+                        help="Log training progress to Weights & Biases.")
+    parser.add_argument("--wandb_project", type=str, default="VIP-Topic-Modelling-pLSI",
+                        help="wandb project name that will be applied if --use_wandb is set.")
     
     args = parser.parse_args()
+
+    load_dotenv()
 
     verbose = args.verbose
     n_topics = args.topics
@@ -191,7 +227,8 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     # Load data
-    count_vectors_path = os.path.join(args.input_dir, "count_vectors.csv")
+    count_vectors_path = os.path.join(args.input_dir,
+        ("count_vectors" if args.matrix_type == 'count' else 'tfidf_reweighted_count_vectors') + ".csv")
     tfidf_path = os.path.join(args.input_dir, "tfidf.csv")
 
     print("Reading count vectors from '{}'...".format(count_vectors_path))
@@ -208,6 +245,10 @@ def main():
 
     vocabulary = list(count_vectors_df.columns)
 
+    if args.use_wandb:
+        print("Using Weights and Biases.")
+        wandb.login()
+
     if args.matrix_type == "tfidf":
         # Run PLSI on TF-IDF
         P_dz, P_zw = run_plsi(
@@ -219,6 +260,7 @@ def main():
             matrix_name="TF-IDF",
             verbose=verbose,
             count_matrix=count_vectors_df,
+            wandb_project=args.wandb_project if args.use_wandb else None,
         )
         suffix = ""
     else:
@@ -229,9 +271,10 @@ def main():
             n_topics=n_topics,
             max_iter=max_iter,
             tol=tol,
-            matrix_name="Count Vectors",
+            matrix_name="Count Vectors" if args.matrix_type == 'count' else 'Count Vectors (Reweighted by TF-IDF)',
             verbose=verbose,
             count_matrix=count_vectors_df,
+            wandb_project=args.wandb_project if args.use_wandb else None,
         )
         suffix = "_count"
 
