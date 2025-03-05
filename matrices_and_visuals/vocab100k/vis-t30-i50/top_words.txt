@@ -1,0 +1,1200 @@
+######## Topic 0 ########
+Documents: 27
+Top Word: and (0.030258)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.011186 |      1.12%
+   2 | my              |   0.004959 |      0.50%
+   3 | us              |   0.004525 |      0.45%
+   4 | upon            |   0.003818 |      0.38%
+   5 | you             |   0.002986 |      0.30%
+   6 | than            |   0.002882 |      0.29%
+   7 | me              |   0.002648 |      0.26%
+   8 | up              |   0.002515 |      0.25%
+   9 | must            |   0.002223 |      0.22%
+  10 | own             |   0.002088 |      0.21%
+  11 | only            |   0.001786 |      0.18%
+  12 | unto            |   0.001726 |      0.17%
+  13 | england         |   0.001613 |      0.16%
+  14 | never           |   0.001528 |      0.15%
+  15 | over            |   0.001482 |      0.15%
+  16 | country         |   0.001443 |      0.14%
+  17 | themselves      |   0.001358 |      0.14%
+  18 | every           |   0.001349 |      0.13%
+  19 | french          |   0.001322 |      0.13%
+  20 | because         |   0.001310 |      0.13%
+  21 | ad              |   0.001279 |      0.13%
+  22 | park            |   0.001179 |      0.12%
+  23 | let             |   0.001170 |      0.12%
+  24 | little          |   0.001162 |      0.12%
+  25 | could           |   0.001155 |      0.12%
+  26 | how             |   0.001148 |      0.11%
+  27 | think           |   0.001130 |      0.11%
+  28 | scots           |   0.001114 |      0.11%
+  29 | might           |   0.001107 |      0.11%
+  30 | your            |   0.001100 |      0.11%
+
+Topic-Specific Excluded Words:
+and, the, of, to, in, that, as, it, their, for, they, we, is, be, but, are, with, not, our, so, or, them, by, this, if, no, will, all, more, may, an, at, some, what, there, which, when, his, such, any, from, those, one, these, well, yet, then, would, he, on, much, been, now, where, out, can, good, who, very, nor, man, had, do, make, many, here, did, like, english, people, were, great, other, him, most, into, way, men, take
+
+
+######## Topic 1 ########
+Documents: 9
+Top Word: the (0.064383)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | name            |   0.003918 |      0.39%
+   2 | unto            |   0.003568 |      0.36%
+   3 | called          |   0.002767 |      0.28%
+   4 | earle           |   0.002321 |      0.23%
+   5 | have            |   0.002286 |      0.23%
+   6 | upon            |   0.002126 |      0.21%
+   7 | sea             |   0.001995 |      0.20%
+   8 | england         |   0.001929 |      0.19%
+   9 | ancient         |   0.001864 |      0.19%
+  10 | castle          |   0.001820 |      0.18%
+  11 | sonne           |   0.001737 |      0.17%
+  12 | towne           |   0.001588 |      0.16%
+  13 | her             |   0.001584 |      0.16%
+  14 | lord            |   0.001570 |      0.16%
+  15 | henry           |   0.001535 |      0.15%
+  16 | whose           |   0.001531 |      0.15%
+  17 | shire           |   0.001481 |      0.15%
+  18 | doth            |   0.001467 |      0.15%
+  19 | kings           |   0.001463 |      0.15%
+  20 | little          |   0.001445 |      0.14%
+  21 | france          |   0.001438 |      0.14%
+  22 | river           |   0.001391 |      0.14%
+  23 | call            |   0.001332 |      0.13%
+  24 | country         |   0.001315 |      0.13%
+  25 | old             |   0.001254 |      0.13%
+  26 | times           |   0.001197 |      0.12%
+  27 | named           |   0.001194 |      0.12%
+  28 | thus            |   0.001194 |      0.12%
+  29 | ireland         |   0.001191 |      0.12%
+  30 | william         |   0.001166 |      0.12%
+
+Topic-Specific Excluded Words:
+the, of, and, in, that, it, as, to, by, this, with, which, his, for, is, was, but, king, from, so, their, he, who, or, all, were, they, there, out, an, also, at, most, had, now, into, time, first, not, these, hath, are, great, when, very, one, after, be, place, where, on, them, whom, him, same, our, those, many, both, more, much, yet, english, about, man, well, other, some, no, made, part, long, before
+
+
+######## Topic 2 ########
+Documents: 12
+Top Word: the (0.112683)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | west            |   0.007119 |      0.71%
+   2 | north           |   0.006327 |      0.63%
+   3 | east            |   0.006158 |      0.62%
+   4 | south           |   0.006122 |      0.61%
+   5 | miles           |   0.004165 |      0.42%
+   6 | sea             |   0.003522 |      0.35%
+   7 | you             |   0.003519 |      0.35%
+   8 | have            |   0.003218 |      0.32%
+   9 | upon            |   0.003158 |      0.32%
+  10 | side            |   0.002942 |      0.29%
+  11 | town            |   0.002858 |      0.29%
+  12 | water           |   0.002840 |      0.28%
+  13 | called          |   0.002675 |      0.27%
+  14 | river           |   0.002483 |      0.25%
+  15 | england         |   0.002347 |      0.23%
+  16 | 00              |   0.002173 |      0.22%
+  17 | leagues         |   0.002075 |      0.21%
+  18 | parts           |   0.001961 |      0.20%
+  19 | island          |   0.001754 |      0.18%
+  20 | between         |   0.001677 |      0.17%
+  21 | see             |   0.001646 |      0.16%
+  22 | county          |   0.001575 |      0.16%
+  23 | half            |   0.001533 |      0.15%
+  24 | ship            |   0.001518 |      0.15%
+  25 | foot            |   0.001508 |      0.15%
+  26 | ships           |   0.001492 |      0.15%
+  27 | places          |   0.001469 |      0.15%
+  28 | point           |   0.001460 |      0.15%
+  29 | small           |   0.001453 |      0.15%
+  30 | length          |   0.001448 |      0.14%
+
+Topic-Specific Excluded Words:
+the, of, and, in, is, to, it, from, by, for, or, that, at, be, as, this, are, which, but, land, there, on, part, two, may, so, into, all, with, being, one, about, place, great, then, not, other, if, here, same, out, first, good, very, where, three, will, also, now, many, more, some
+
+
+######## Topic 3 ########
+Documents: 20
+Top Word: the (0.049502)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | hym             |   0.009905 |      0.99%
+   2 | kynge           |   0.006656 |      0.67%
+   3 | whan            |   0.004226 |      0.42%
+   4 | ye              |   0.004042 |      0.40%
+   5 | theyr           |   0.003854 |      0.39%
+   6 | kyng            |   0.003791 |      0.38%
+   7 | haue            |   0.003771 |      0.38%
+   8 | yere            |   0.003490 |      0.35%
+   9 | came            |   0.003273 |      0.33%
+  10 | londe           |   0.003242 |      0.32%
+  11 | sayd            |   0.003201 |      0.32%
+  12 | than            |   0.003122 |      0.31%
+  13 | tyme            |   0.002979 |      0.30%
+  14 | grete           |   0.002922 |      0.29%
+  15 | whiche          |   0.002798 |      0.28%
+  16 | me              |   0.002712 |      0.27%
+  17 | vnto            |   0.002610 |      0.26%
+  18 | syr             |   0.002425 |      0.24%
+  19 | sholde          |   0.002220 |      0.22%
+  20 | vpon            |   0.002059 |      0.21%
+  21 | hys             |   0.002050 |      0.20%
+  22 | ne              |   0.001993 |      0.20%
+  23 | wolde           |   0.001988 |      0.20%
+  24 | called          |   0.001962 |      0.20%
+  25 | myght           |   0.001945 |      0.19%
+  26 | moche           |   0.001850 |      0.18%
+  27 | pope            |   0.001816 |      0.18%
+  28 | yf              |   0.001791 |      0.18%
+  29 | her             |   0.001786 |      0.18%
+  30 | you             |   0.001760 |      0.18%
+
+Topic-Specific Excluded Words:
+the, of, and, to, that, he, in, was, his, for, they, all, this, is, with, be, as, so, it, were, there, had, but, after, men, them, at, by, not, other, man, made, de, shall, on, no, many, an, god, come, we, also, out, good, well
+
+
+######## Topic 4 ########
+Documents: 21
+Top Word: the (0.088713)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | turks           |   0.005004 |      0.50%
+   2 | grand           |   0.002709 |      0.27%
+   3 | upon            |   0.002625 |      0.26%
+   4 | army            |   0.002228 |      0.22%
+   5 | duke            |   0.002018 |      0.20%
+   6 | count           |   0.001921 |      0.19%
+   7 | general         |   0.001741 |      0.17%
+   8 | town            |   0.001726 |      0.17%
+   9 | have            |   0.001710 |      0.17%
+  10 | vizier          |   0.001691 |      0.17%
+  11 | horse           |   0.001682 |      0.17%
+  12 | having          |   0.001580 |      0.16%
+  13 | than            |   0.001546 |      0.15%
+  14 | war             |   0.001527 |      0.15%
+  15 | city            |   0.001527 |      0.15%
+  16 | emperor         |   0.001452 |      0.15%
+  17 | enemy           |   0.001431 |      0.14%
+  18 | up              |   0.001360 |      0.14%
+  19 | thousand        |   0.001348 |      0.13%
+  20 | prince          |   0.001226 |      0.12%
+  21 | hungary         |   0.001190 |      0.12%
+  22 | hundred         |   0.001190 |      0.12%
+  23 | themselves      |   0.001188 |      0.12%
+  24 | side            |   0.001145 |      0.11%
+  25 | forces          |   0.001126 |      0.11%
+  26 | camp            |   0.001109 |      0.11%
+  27 | ad              |   0.001102 |      0.11%
+  28 | year            |   0.001097 |      0.11%
+  29 | only            |   0.001095 |      0.11%
+  30 | march           |   0.001079 |      0.11%
+
+Topic-Specific Excluded Words:
+the, of, and, to, in, with, that, which, was, by, were, his, their, for, on, all, be, at, this, they, as, or, it, but, from, being, had, so, not, them, he, who, an, into, other, great, made, time, some, place, two, men, one, him, de, more, about, before, where, is, these, been, out, such, much, under, also, those, there, many, no, any, should, re, yet, day, most, first, three, now, without, taken, after, sent
+
+
+######## Topic 5 ########
+Documents: 31
+Top Word: the (0.085130)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.009474 |      0.95%
+   2 | upon            |   0.004275 |      0.43%
+   3 | only            |   0.003176 |      0.32%
+   4 | than            |   0.002997 |      0.30%
+   5 | you             |   0.002154 |      0.22%
+   6 | its             |   0.002106 |      0.21%
+   7 | several         |   0.001949 |      0.19%
+   8 | church          |   0.001921 |      0.19%
+   9 | every           |   0.001706 |      0.17%
+  10 | themselves      |   0.001693 |      0.17%
+  11 | must            |   0.001536 |      0.15%
+  12 | your            |   0.001402 |      0.14%
+  13 | give            |   0.001277 |      0.13%
+  14 | self            |   0.001276 |      0.13%
+  15 | thing           |   0.001260 |      0.13%
+  16 | holy            |   0.001258 |      0.13%
+  17 | whole           |   0.001219 |      0.12%
+  18 | things          |   0.001217 |      0.12%
+  19 | years           |   0.001201 |      0.12%
+  20 | tis             |   0.001190 |      0.12%
+  21 | never           |   0.001188 |      0.12%
+  22 | himself         |   0.001167 |      0.12%
+  23 | having          |   0.001136 |      0.11%
+  24 | say             |   0.001129 |      0.11%
+  25 | up              |   0.001083 |      0.11%
+  26 | tho             |   0.001082 |      0.11%
+  27 | year            |   0.001079 |      0.11%
+  28 | because         |   0.001072 |      0.11%
+  29 | order           |   0.001072 |      0.11%
+  30 | state           |   0.001067 |      0.11%
+
+Topic-Specific Excluded Words:
+the, of, to, and, that, in, is, it, they, which, are, be, as, not, all, this, for, their, by, so, them, he, but, or, do, at, with, from, one, has, there, those, an, these, any, his, who, more, if, no, on, been, other, some, great, may, will, was, him, what, most, very, such, when, shall, much, time, were, without, first, our, had, make, would, same, into, we, can, after, yet, god, being, people, made, under
+
+
+######## Topic 6 ########
+Documents: 7
+Top Word: the (0.065090)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | hee             |   0.005274 |      0.53%
+   2 | vnto            |   0.001927 |      0.19%
+   3 | came            |   0.001670 |      0.17%
+   4 | wee             |   0.001602 |      0.16%
+   5 | indians         |   0.001532 |      0.15%
+   6 | amongst         |   0.001395 |      0.14%
+   7 | dayes           |   0.001365 |      0.14%
+   8 | kingdome        |   0.001358 |      0.14%
+   9 | thousand        |   0.001353 |      0.14%
+  10 | bee             |   0.001305 |      0.13%
+  11 | hundred         |   0.001284 |      0.13%
+  12 | her             |   0.001242 |      0.12%
+  13 | although        |   0.001181 |      0.12%
+  14 | foure           |   0.001164 |      0.12%
+  15 | himselfe        |   0.001158 |      0.12%
+  16 | say             |   0.001085 |      0.11%
+  17 | call            |   0.001061 |      0.11%
+  18 | another         |   0.001058 |      0.11%
+  19 | things          |   0.001050 |      0.10%
+  20 | might           |   0.001039 |      0.10%
+  21 | kings           |   0.001027 |      0.10%
+  22 | order           |   0.001025 |      0.10%
+  23 | sea             |   0.001015 |      0.10%
+  24 | sonne           |   0.001007 |      0.10%
+  25 | persia          |   0.001000 |      0.10%
+  26 | small           |   0.001000 |      0.10%
+  27 | yeares          |   0.000999 |      0.10%
+  28 | called          |   0.000962 |      0.10%
+  29 | gold            |   0.000957 |      0.10%
+  30 | name            |   0.000948 |      0.09%
+
+Topic-Specific Excluded Words:
+the, and, of, to, in, they, that, which, their, with, his, them, is, it, for, was, by, as, or, him, from, all, this, so, he, not, but, were, had, great, other, at, did, many, one, some, who, are, such, there, king, after, made, an, day, more, be, into, no, these, much, any, two, time, without, then, when, out, people, good, first, men, like, those, very, should, if, where, yet, god, our, same, de, would, whom, most, what, place, nor, make, others, hath, put, do, long, three
+
+
+######## Topic 7 ########
+Documents: 177
+Top Word: and (0.055592)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | england         |   0.003556 |      0.36%
+   2 | have            |   0.003240 |      0.32%
+   3 | trade           |   0.002729 |      0.27%
+   4 | company         |   0.002384 |      0.24%
+   5 | goods           |   0.002269 |      0.23%
+   6 | ships           |   0.002242 |      0.22%
+   7 | your            |   0.002209 |      0.22%
+   8 | upon            |   0.002207 |      0.22%
+   9 | every           |   0.001785 |      0.18%
+  10 | persons         |   0.001746 |      0.17%
+  11 | majesty         |   0.001593 |      0.16%
+  12 | subjects        |   0.001569 |      0.16%
+  13 | sir             |   0.001556 |      0.16%
+  14 | ship            |   0.001503 |      0.15%
+  15 | india           |   0.001485 |      0.15%
+  16 | thereof         |   0.001466 |      0.15%
+  17 | new             |   0.001445 |      0.14%
+  18 | aforesaid       |   0.001407 |      0.14%
+  19 | majesties       |   0.001335 |      0.13%
+  20 | master          |   0.001252 |      0.13%
+  21 | money           |   0.001182 |      0.12%
+  22 | person          |   0.001139 |      0.11%
+  23 | lord            |   0.001097 |      0.11%
+  24 | nation          |   0.001065 |      0.11%
+  25 | court           |   0.001062 |      0.11%
+  26 | merchants       |   0.001055 |      0.11%
+  27 | pay             |   0.001029 |      0.10%
+  28 | act             |   0.001013 |      0.10%
+  29 | sea             |   0.001005 |      0.10%
+  30 | whatsoever      |   0.000999 |      0.10%
+
+Topic-Specific Excluded Words:
+and, the, of, to, or, be, in, for, by, any, shall, as, said, their, all, that, other, this, with, our, such, may, text, his, not, at, from, is, them, english, tcp, if, which, being, time, king, either, are, it, will, same, on, so, page, xml, no, has, great, do, images, one, under, within, an, london, been, most, more, law, made, what, partnership, org, creation, http, tei, markup, present, they, work, now, but, nor, according, before, out, part, against, well, we, men, taken, copyright, coded, encoded, www, unicode, guidelines, keyed, eebo, hath, textcreationpartnership, schema, utf, navigations, characters, keying
+
+
+######## Topic 8 ########
+Documents: 16
+Top Word: the (0.085441)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | river           |   0.004634 |      0.46%
+   2 | city            |   0.004515 |      0.45%
+   3 | town            |   0.004257 |      0.43%
+   4 | sea             |   0.004181 |      0.42%
+   5 | called          |   0.003798 |      0.38%
+   6 | miles           |   0.003381 |      0.34%
+   7 | hundred         |   0.003024 |      0.30%
+   8 | its             |   0.003006 |      0.30%
+   9 | upon            |   0.002730 |      0.27%
+  10 | built           |   0.002680 |      0.27%
+  11 | south           |   0.002431 |      0.24%
+  12 | north           |   0.002388 |      0.24%
+  13 | large           |   0.002378 |      0.24%
+  14 | gold            |   0.002363 |      0.24%
+  15 | rich            |   0.002164 |      0.22%
+  16 | side            |   0.002137 |      0.21%
+  17 | west            |   0.002083 |      0.21%
+  18 | strong          |   0.002065 |      0.21%
+  19 | chief           |   0.002065 |      0.21%
+  20 | east            |   0.002026 |      0.20%
+  21 | water           |   0.001993 |      0.20%
+  22 | high            |   0.001944 |      0.19%
+  23 | parts           |   0.001919 |      0.19%
+  24 | through         |   0.001879 |      0.19%
+  25 | houses          |   0.001835 |      0.18%
+  26 | towns           |   0.001777 |      0.18%
+  27 | leagues         |   0.001756 |      0.18%
+  28 | five            |   0.001681 |      0.17%
+  29 | country         |   0.001616 |      0.16%
+  30 | stone           |   0.001606 |      0.16%
+
+Topic-Specific Excluded Words:
+the, and, of, is, in, are, with, on, it, which, by, they, from, great, this, or, to, their, for, very, but, hath, many, two, where, all, one, other, there, them, into, three, as, at, an, being, here, about, most, some, place, well, part, king, good, also, these, like, so, people
+
+
+######## Topic 9 ########
+Documents: 8
+Top Word: the (0.085046)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.005089 |      0.51%
+   2 | upon            |   0.004351 |      0.44%
+   3 | call            |   0.002979 |      0.30%
+   4 | city            |   0.002524 |      0.25%
+   5 | several         |   0.002080 |      0.21%
+   6 | only            |   0.001684 |      0.17%
+   7 | em              |   0.001607 |      0.16%
+   8 | us              |   0.001602 |      0.16%
+   9 | up              |   0.001600 |      0.16%
+  10 | among           |   0.001363 |      0.14%
+  11 | four            |   0.001356 |      0.14%
+  12 | her             |   0.001335 |      0.13%
+  13 | persia          |   0.001280 |      0.13%
+  14 | over            |   0.001231 |      0.12%
+  15 | name            |   0.001219 |      0.12%
+  16 | year            |   0.001169 |      0.12%
+  17 | themselves      |   0.001153 |      0.12%
+  18 | certain         |   0.001086 |      0.11%
+  19 | little          |   0.001078 |      0.11%
+  20 | himself         |   0.001058 |      0.11%
+  21 | another         |   0.001053 |      0.11%
+  22 | years           |   0.001049 |      0.10%
+  23 | kingdom         |   0.001005 |      0.10%
+  24 | thousand        |   0.000982 |      0.10%
+  25 | court           |   0.000975 |      0.10%
+  26 | having          |   0.000967 |      0.10%
+  27 | country         |   0.000966 |      0.10%
+  28 | use             |   0.000955 |      0.10%
+  29 | every           |   0.000933 |      0.09%
+  30 | persians        |   0.000928 |      0.09%
+
+Topic-Specific Excluded Words:
+the, of, and, to, that, in, they, which, is, their, it, as, are, his, or, with, for, he, at, but, be, all, not, by, who, so, from, there, had, him, this, was, great, other, those, king, into, any, one, them, very, also, two, same, were, an, no, make, made, some, out, after, we, about, these, where, time, much, on, then, most, more, day, first, what, being, three, before, would, when, may, place, do, if, such, part, nor, go, hath, take, whom, without, put, people, come, under, man, many, should, way, above
+
+
+######## Topic 10 ########
+Documents: 4
+Top Word: the (0.089900)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | you             |   0.024537 |      2.45%
+   2 | left            |   0.013922 |      1.39%
+   3 | right           |   0.013158 |      1.32%
+   4 | furlongs        |   0.006594 |      0.66%
+   5 | your            |   0.005867 |      0.59%
+   6 | through         |   0.005807 |      0.58%
+   7 | miles           |   0.005625 |      0.56%
+   8 | town            |   0.004881 |      0.49%
+   9 | road            |   0.004734 |      0.47%
+  10 | enter           |   0.004641 |      0.46%
+  11 | small           |   0.004635 |      0.46%
+  12 | pass            |   0.004543 |      0.45%
+  13 | village         |   0.004300 |      0.43%
+  14 | market          |   0.004236 |      0.42%
+  15 | st              |   0.004131 |      0.41%
+  16 | over            |   0.003871 |      0.39%
+  17 | cross           |   0.003821 |      0.38%
+  18 | church          |   0.003661 |      0.37%
+  19 | her             |   0.003396 |      0.34%
+  20 | whence          |   0.002859 |      0.29%
+  21 | hill            |   0.002789 |      0.28%
+  22 | end             |   0.002718 |      0.27%
+  23 | bridg           |   0.002702 |      0.27%
+  24 | house           |   0.002488 |      0.25%
+  25 | beyond          |   0.002479 |      0.25%
+  26 | castle          |   0.002409 |      0.24%
+  27 | mile            |   0.002404 |      0.24%
+  28 | leave           |   0.002328 |      0.23%
+  29 | knight          |   0.002319 |      0.23%
+  30 | little          |   0.002182 |      0.22%
+
+Topic-Specific Excluded Words:
+the, and, to, at, of, on, by, in, from, which, with, way, for, an, it, is, london, where, good, well, or, come, are, as, then
+
+
+######## Topic 11 ########
+Documents: 2
+Top Word: the (0.062224)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | yere            |   0.007474 |      0.75%
+   2 | hym             |   0.006342 |      0.63%
+   3 | kyng            |   0.004357 |      0.44%
+   4 | tyme            |   0.003655 |      0.37%
+   5 | hem             |   0.003442 |      0.34%
+   6 | than            |   0.003323 |      0.33%
+   7 | grete           |   0.003114 |      0.31%
+   8 | al              |   0.002870 |      0.29%
+   9 | her             |   0.002658 |      0.27%
+  10 | kynge           |   0.002547 |      0.25%
+  11 | oute            |   0.002405 |      0.24%
+  12 | shold           |   0.002336 |      0.23%
+  13 | soo             |   0.002301 |      0.23%
+  14 | whan            |   0.002047 |      0.20%
+  15 | cyte            |   0.001996 |      0.20%
+  16 | libro           |   0.001964 |      0.20%
+  17 | thre            |   0.001934 |      0.19%
+  18 | sonne           |   0.001929 |      0.19%
+  19 | see             |   0.001883 |      0.19%
+  20 | thenne          |   0.001866 |      0.19%
+  21 | toke            |   0.001769 |      0.18%
+  22 | ben             |   0.001758 |      0.18%
+  23 | wold            |   0.001754 |      0.18%
+  24 | bisshop         |   0.001752 |      0.18%
+  25 | me              |   0.001709 |      0.17%
+  26 | rome            |   0.001680 |      0.17%
+  27 | cam             |   0.001616 |      0.16%
+  28 | pope            |   0.001595 |      0.16%
+  29 | hadde           |   0.001594 |      0.16%
+  30 | atte            |   0.001589 |      0.16%
+
+Topic-Specific Excluded Words:
+the, and, of, that, in, to, was, he, his, for, is, with, by, but, were, it, this, men, be, as, not, made, they, after, also, had, at, one, other, so, on, there, de, an, come, many, man, him, day
+
+
+######## Topic 12 ########
+Documents: 37
+Top Word: the (0.054353)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.009534 |      0.95%
+   2 | upon            |   0.002889 |      0.29%
+   3 | us              |   0.002816 |      0.28%
+   4 | up              |   0.002738 |      0.27%
+   5 | water           |   0.002642 |      0.26%
+   6 | than            |   0.002639 |      0.26%
+   7 | island          |   0.002398 |      0.24%
+   8 | sea             |   0.002338 |      0.23%
+   9 | little          |   0.002083 |      0.21%
+  10 | small           |   0.002024 |      0.20%
+  11 | only            |   0.001951 |      0.20%
+  12 | having          |   0.001838 |      0.18%
+  13 | themselves      |   0.001808 |      0.18%
+  14 | found           |   0.001714 |      0.17%
+  15 | its             |   0.001623 |      0.16%
+  16 | fish            |   0.001612 |      0.16%
+  17 | trees           |   0.001562 |      0.16%
+  18 | came            |   0.001473 |      0.15%
+  19 | indians         |   0.001471 |      0.15%
+  20 | near            |   0.001452 |      0.15%
+  21 | islands         |   0.001423 |      0.14%
+  22 | till            |   0.001410 |      0.14%
+  23 | over            |   0.001357 |      0.14%
+  24 | wind            |   0.001351 |      0.14%
+  25 | my              |   0.001320 |      0.13%
+  26 | again           |   0.001314 |      0.13%
+  27 | never           |   0.001308 |      0.13%
+  28 | new             |   0.001296 |      0.13%
+  29 | country         |   0.001294 |      0.13%
+  30 | could           |   0.001274 |      0.13%
+
+Topic-Specific Excluded Words:
+the, of, and, they, to, in, it, that, as, their, them, are, is, with, which, for, but, we, at, or, there, not, so, some, very, this, by, these, all, one, be, our, from, on, about, when, were, like, an, was, much, where, being, any, other, had, out, more, those, men, made, yet, if, then, good, who, land, make, no, into, long, time, many, such, here, will, before, do, after, been, day, come, most, also, english, great, well, may, man
+
+
+######## Topic 13 ########
+Documents: 23
+Top Word: and (0.049216)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | you             |   0.008982 |      0.90%
+   2 | her             |   0.007821 |      0.78%
+   3 | my              |   0.005547 |      0.55%
+   4 | your            |   0.005217 |      0.52%
+   5 | nature          |   0.003899 |      0.39%
+   6 | have            |   0.003454 |      0.35%
+   7 | parts           |   0.003436 |      0.34%
+   8 | she             |   0.003433 |      0.34%
+   9 | world           |   0.003056 |      0.31%
+  10 | though          |   0.002922 |      0.29%
+  11 | how             |   0.002896 |      0.29%
+  12 | must            |   0.002740 |      0.27%
+  13 | thy             |   0.002463 |      0.25%
+  14 | know            |   0.002444 |      0.24%
+  15 | thou            |   0.002176 |      0.22%
+  16 | earth           |   0.002142 |      0.21%
+  17 | lord            |   0.002130 |      0.21%
+  18 | let             |   0.002097 |      0.21%
+  19 | body            |   0.002002 |      0.20%
+  20 | see             |   0.001998 |      0.20%
+  21 | doth            |   0.001974 |      0.20%
+  22 | say             |   0.001941 |      0.19%
+  23 | life            |   0.001936 |      0.19%
+  24 | onely           |   0.001880 |      0.19%
+  25 | cannot          |   0.001807 |      0.18%
+  26 | self            |   0.001773 |      0.18%
+  27 | me              |   0.001732 |      0.17%
+  28 | ther            |   0.001594 |      0.16%
+  29 | things          |   0.001591 |      0.16%
+  30 | reason          |   0.001574 |      0.16%
+
+Topic-Specific Excluded Words:
+and, the, to, of, in, that, for, is, as, be, but, not, it, so, or, by, all, his, they, god, then, their, are, will, may, no, if, yet, more, when, with, from, such, this, there, man, can, what, men, an, one, some, was, would, which, he, like, hath, now, shall, them, those, nor, other, were, out, should, much, make, good, being, him, did, our, made, well, many, part, into, any
+
+
+######## Topic 14 ########
+Documents: 5
+Top Word: the (0.058599)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | haue            |   0.006115 |      0.61%
+   2 | called          |   0.002400 |      0.24%
+   3 | vnto            |   0.002083 |      0.21%
+   4 | themselues      |   0.002033 |      0.20%
+   5 | hundred         |   0.001687 |      0.17%
+   6 | saith           |   0.001677 |      0.17%
+   7 | name            |   0.001641 |      0.16%
+   8 | certaine        |   0.001634 |      0.16%
+   9 | vp              |   0.001582 |      0.16%
+  10 | euery           |   0.001516 |      0.15%
+  11 | citie           |   0.001467 |      0.15%
+  12 | her             |   0.001454 |      0.15%
+  13 | world           |   0.001446 |      0.14%
+  14 | sonne           |   0.001398 |      0.14%
+  15 | riuer           |   0.001397 |      0.14%
+  16 | thousand        |   0.001394 |      0.14%
+  17 | vpon            |   0.001349 |      0.13%
+  18 | sea             |   0.001341 |      0.13%
+  19 | thus            |   0.001279 |      0.13%
+  20 | temple          |   0.001261 |      0.13%
+  21 | ouer            |   0.001222 |      0.12%
+  22 | himselfe        |   0.001156 |      0.12%
+  23 | fiue            |   0.001100 |      0.11%
+  24 | hauing          |   0.001089 |      0.11%
+  25 | earth           |   0.001043 |      0.10%
+  26 | another         |   0.001037 |      0.10%
+  27 | iewes           |   0.000994 |      0.10%
+  28 | religion        |   0.000973 |      0.10%
+  29 | water           |   0.000968 |      0.10%
+  30 | diuers          |   0.000953 |      0.10%
+
+Topic-Specific Excluded Words:
+the, and, of, in, their, they, which, to, with, his, that, is, are, as, by, this, he, it, but, was, or, them, on, all, not, him, for, other, were, from, one, an, some, had, these, so, after, also, king, then, there, be, great, god, before, those, at, men, into, many, hath, out, like, first, if, when, two, where, people, about, man, three, being, who, may, both, such, time, others, made, would, no, most, now, whom, more, will, same, much, shall, long, against
+
+
+######## Topic 15 ########
+Documents: 7
+Top Word: the (0.076820)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | having          |   0.002986 |      0.30%
+   2 | could           |   0.002385 |      0.24%
+   3 | prince          |   0.002342 |      0.23%
+   4 | army            |   0.002231 |      0.22%
+   5 | himself         |   0.002041 |      0.20%
+   6 | own             |   0.001810 |      0.18%
+   7 | might           |   0.001682 |      0.17%
+   8 | son             |   0.001620 |      0.16%
+   9 | upon            |   0.001526 |      0.15%
+  10 | death           |   0.001479 |      0.15%
+  11 | country         |   0.001447 |      0.14%
+  12 | court           |   0.001399 |      0.14%
+  13 | city            |   0.001369 |      0.14%
+  14 | whole           |   0.001368 |      0.14%
+  15 | thus            |   0.001303 |      0.13%
+  16 | duke            |   0.001296 |      0.13%
+  17 | though          |   0.001281 |      0.13%
+  18 | princes         |   0.001252 |      0.13%
+  19 | ing             |   0.001177 |      0.12%
+  20 | whose           |   0.001165 |      0.12%
+  21 | religion        |   0.001158 |      0.12%
+  22 | france          |   0.001156 |      0.12%
+  23 | horse           |   0.001156 |      0.12%
+  24 | therefore       |   0.001148 |      0.11%
+  25 | tartars         |   0.001095 |      0.11%
+  26 | enemies         |   0.001085 |      0.11%
+  27 | themselves      |   0.001055 |      0.11%
+  28 | name            |   0.001029 |      0.10%
+  29 | kings           |   0.000997 |      0.10%
+  30 | than            |   0.000970 |      0.10%
+
+Topic-Specific Excluded Words:
+the, of, to, his, and, he, was, their, with, they, in, by, him, for, were, but, had, who, being, as, them, king, which, at, great, not, that, so, all, some, this, from, into, very, out, made, against, no, sent, most, after, would, an, where, did, before, be, when, men, people, more, time, both, whom, many, such, these, there, been, re, other, de, any, it, much, long, or, first, place, put, now, those, without, should, rest, two, under, last
+
+
+######## Topic 16 ########
+Documents: 3
+Top Word: 10 (0.021676)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | 10              |   0.021676 |      2.17%
+   2 | 12              |   0.020638 |      2.06%
+   3 | 11              |   0.015471 |      1.55%
+   4 | 20              |   0.015005 |      1.50%
+   5 | 15              |   0.014805 |      1.48%
+   6 | 13              |   0.014095 |      1.41%
+   7 | 14              |   0.013971 |      1.40%
+   8 | 16              |   0.013813 |      1.38%
+   9 | 18              |   0.013307 |      1.33%
+  10 | 17              |   0.012325 |      1.23%
+  11 | 30              |   0.011133 |      1.11%
+  12 | 19              |   0.010429 |      1.04%
+  13 | 22              |   0.010032 |      1.00%
+  14 | 24              |   0.009497 |      0.95%
+  15 | 21              |   0.009421 |      0.94%
+  16 | 23              |   0.009122 |      0.91%
+  17 | 25              |   0.007571 |      0.76%
+  18 | 27              |   0.007121 |      0.71%
+  19 | 26              |   0.006988 |      0.70%
+  20 | 28              |   0.006959 |      0.70%
+  21 | min             |   0.006619 |      0.66%
+  22 | 50              |   0.006561 |      0.66%
+  23 | 32              |   0.005752 |      0.58%
+  24 | 40              |   0.005653 |      0.57%
+  25 | deg             |   0.005558 |      0.56%
+  26 | 52              |   0.005390 |      0.54%
+  27 | 51              |   0.005085 |      0.51%
+  28 | 31              |   0.005048 |      0.50%
+  29 | 33              |   0.004860 |      0.49%
+  30 | line            |   0.004560 |      0.46%
+
+Topic-Specific Excluded Words:
+the, to, in, 29, on
+
+
+######## Topic 17 ########
+Documents: 31
+Top Word: the (0.101438)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | have            |   0.004733 |      0.47%
+   2 | ships           |   0.004430 |      0.44%
+   3 | upon            |   0.004112 |      0.41%
+   4 | us              |   0.003954 |      0.40%
+   5 | fleet           |   0.002673 |      0.27%
+   6 | ship            |   0.002635 |      0.26%
+   7 | general         |   0.002409 |      0.24%
+   8 | came            |   0.002351 |      0.24%
+   9 | war             |   0.002337 |      0.23%
+  10 | having          |   0.002093 |      0.21%
+  11 | admiral         |   0.001987 |      0.20%
+  12 | dutch           |   0.001923 |      0.19%
+  13 | majesty         |   0.001921 |      0.19%
+  14 | states          |   0.001849 |      0.18%
+  15 | sea             |   0.001825 |      0.18%
+  16 | themselves      |   0.001813 |      0.18%
+  17 | order           |   0.001678 |      0.17%
+  18 | could           |   0.001663 |      0.17%
+  19 | up              |   0.001593 |      0.16%
+  20 | captain         |   0.001586 |      0.16%
+  21 | might           |   0.001512 |      0.15%
+  22 | leagues         |   0.001372 |      0.14%
+  23 | sail            |   0.001358 |      0.14%
+  24 | towards         |   0.001283 |      0.13%
+  25 | enemies         |   0.001243 |      0.12%
+  26 | peace           |   0.001228 |      0.12%
+  27 | french          |   0.001211 |      0.12%
+  28 | several         |   0.001207 |      0.12%
+  29 | company         |   0.001199 |      0.12%
+  30 | likewise        |   0.001169 |      0.12%
+
+Topic-Specific Excluded Words:
+the, of, to, and, that, in, they, their, with, which, were, had, was, we, by, them, at, on, our, his, all, from, be, for, it, as, men, but, there, not, who, de, so, great, he, english, two, made, those, about, other, after, any, into, day, said, king, same, being, out, some, one, would, sent, or, time, should, been, before, an, this, very, no, him, most, without, make, taken, come, much, also, go, more, shall, against, under, where, what, then, three, put
+
+
+######## Topic 18 ########
+Documents: 16
+Top Word: the (0.070911)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | called          |   0.005372 |      0.54%
+   2 | went            |   0.002486 |      0.25%
+   3 | countrey        |   0.002407 |      0.24%
+   4 | came            |   0.002365 |      0.24%
+   5 | towne           |   0.002308 |      0.23%
+   6 | say             |   0.002126 |      0.21%
+   7 | sea             |   0.001929 |      0.19%
+   8 | chap            |   0.001828 |      0.18%
+   9 | doe             |   0.001598 |      0.16%
+  10 | another         |   0.001573 |      0.16%
+  11 | citie           |   0.001549 |      0.15%
+  12 | little          |   0.001485 |      0.15%
+  13 | through         |   0.001463 |      0.15%
+  14 | things          |   0.001462 |      0.15%
+  15 | side            |   0.001342 |      0.13%
+  16 | church          |   0.001295 |      0.13%
+  17 | goe             |   0.001241 |      0.12%
+  18 | water           |   0.001230 |      0.12%
+  19 | hée             |   0.001186 |      0.12%
+  20 | because         |   0.001135 |      0.11%
+  21 | thence          |   0.001133 |      0.11%
+  22 | saw             |   0.001127 |      0.11%
+  23 | named           |   0.001104 |      0.11%
+  24 | dayes           |   0.001098 |      0.11%
+  25 | high            |   0.001028 |      0.10%
+  26 | lord            |   0.001011 |      0.10%
+  27 | too             |   0.000982 |      0.10%
+  28 | onely           |   0.000979 |      0.10%
+  29 | my              |   0.000977 |      0.10%
+  30 | thrée           |   0.000950 |      0.09%
+
+Topic-Specific Excluded Words:
+the, and, of, that, in, to, they, is, it, which, there, for, this, was, their, great, with, are, as, he, all, them, his, other, from, by, but, men, so, him, where, many, one, or, also, on, be, not, were, being, hath, at, land, when, then, into, out, these, an, some, very, people, made, two, place, come, no, man, good, about, had, king, our, like, after, time, go, those, day, before, well, make, did, first, do, if, long, within, way, most, would, without, much, now, others, here, will, shall, more, who, yet, said, may, any, nor
+
+
+######## Topic 19 ########
+Documents: 44
+Top Word: the (0.040448)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | my              |   0.009658 |      0.97%
+   2 | her             |   0.008397 |      0.84%
+   3 | me              |   0.007439 |      0.74%
+   4 | she             |   0.005212 |      0.52%
+   5 | us              |   0.004274 |      0.43%
+   6 | you             |   0.004201 |      0.42%
+   7 | have            |   0.003647 |      0.36%
+   8 | could           |   0.003357 |      0.34%
+   9 | upon            |   0.003200 |      0.32%
+  10 | having          |   0.002640 |      0.26%
+  11 | might           |   0.002346 |      0.23%
+  12 | himself         |   0.002334 |      0.23%
+  13 | came            |   0.002192 |      0.22%
+  14 | up              |   0.002065 |      0.21%
+  15 | self            |   0.001987 |      0.20%
+  16 | your            |   0.001823 |      0.18%
+  17 | how             |   0.001769 |      0.18%
+  18 | went            |   0.001687 |      0.17%
+  19 | told            |   0.001550 |      0.15%
+  20 | unto            |   0.001403 |      0.14%
+  21 | little          |   0.001386 |      0.14%
+  22 | see             |   0.001338 |      0.13%
+  23 | found           |   0.001338 |      0.13%
+  24 | gave            |   0.001275 |      0.13%
+  25 | never           |   0.001265 |      0.13%
+  26 | know            |   0.001177 |      0.12%
+  27 | saw             |   0.001170 |      0.12%
+  28 | took            |   0.001147 |      0.11%
+  29 | death           |   0.001100 |      0.11%
+  30 | than            |   0.001062 |      0.11%
+
+Topic-Specific Excluded Words:
+the, to, and, of, he, that, his, was, him, in, had, with, for, it, as, not, so, this, all, but, which, we, be, were, them, they, would, at, our, who, by, should, great, one, being, an, then, from, what, there, made, no, very, into, if, time, did, some, out, much, king, where, on, after, more, when, such, good, man, any, said, been, now, well, other, day, before, these, two, do, come, their, many, whom, will, make, god, without, about, take, go, put, place, de, three
+
+
+######## Topic 20 ########
+Documents: 7
+Top Word: the (0.079124)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | church          |   0.006606 |      0.66%
+   2 | house           |   0.003603 |      0.36%
+   3 | called          |   0.003503 |      0.35%
+   4 | have            |   0.003367 |      0.34%
+   5 | city            |   0.003305 |      0.33%
+   6 | street          |   0.003094 |      0.31%
+   7 | lane            |   0.002697 |      0.27%
+   8 | sir             |   0.002619 |      0.26%
+   9 | her             |   0.002568 |      0.26%
+  10 | lord            |   0.002556 |      0.26%
+  11 | henry           |   0.002536 |      0.25%
+  12 | parish          |   0.002394 |      0.24%
+  13 | iohn            |   0.002364 |      0.24%
+  14 | side            |   0.002209 |      0.22%
+  15 | court           |   0.002140 |      0.21%
+  16 | ward            |   0.002099 |      0.21%
+  17 | maior           |   0.002077 |      0.21%
+  18 | thomas          |   0.002037 |      0.20%
+  19 | saint           |   0.001940 |      0.19%
+  20 | william         |   0.001937 |      0.19%
+  21 | upon            |   0.001913 |      0.19%
+  22 | st              |   0.001798 |      0.18%
+  23 | unto            |   0.001771 |      0.18%
+  24 | hall            |   0.001759 |      0.18%
+  25 | kings           |   0.001717 |      0.17%
+  26 | edward          |   0.001656 |      0.17%
+  27 | gave            |   0.001644 |      0.16%
+  28 | west            |   0.001640 |      0.16%
+  29 | yeere           |   0.001561 |      0.16%
+  30 | pounds          |   0.001424 |      0.14%
+
+Topic-Specific Excluded Words:
+the, of, and, in, to, by, for, this, was, or, that, is, london, his, said, be, as, with, there, on, at, which, it, all, king, one, other, their, then, so, but, time, were, also, same, first, he, an, now, great, any, from, hath, being, are, them, made, they, had, such, two, shall, within
+
+
+######## Topic 21 ########
+Documents: 6
+Top Word: the (0.068718)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | call            |   0.003451 |      0.35%
+   2 | city            |   0.003320 |      0.33%
+   3 | up              |   0.002718 |      0.27%
+   4 | several         |   0.002101 |      0.21%
+   5 | emperor         |   0.001985 |      0.20%
+   6 | countrey        |   0.001951 |      0.20%
+   7 | because         |   0.001926 |      0.19%
+   8 | upon            |   0.001911 |      0.19%
+   9 | water           |   0.001831 |      0.18%
+  10 | over            |   0.001781 |      0.18%
+  11 | near            |   0.001672 |      0.17%
+  12 | through         |   0.001657 |      0.17%
+  13 | amongst         |   0.001641 |      0.16%
+  14 | onely           |   0.001639 |      0.16%
+  15 | four            |   0.001604 |      0.16%
+  16 | you             |   0.001494 |      0.15%
+  17 | though          |   0.001445 |      0.14%
+  18 | manner          |   0.001414 |      0.14%
+  19 | than            |   0.001378 |      0.14%
+  20 | came            |   0.001342 |      0.13%
+  21 | thereof         |   0.001314 |      0.13%
+  22 | down            |   0.001290 |      0.13%
+  23 | again           |   0.001243 |      0.12%
+  24 | mountain        |   0.001228 |      0.12%
+  25 | days            |   0.001228 |      0.12%
+  26 | province        |   0.001222 |      0.12%
+  27 | chineses        |   0.001159 |      0.12%
+  28 | having          |   0.001152 |      0.12%
+  29 | another         |   0.001128 |      0.11%
+  30 | have            |   0.001120 |      0.11%
+
+Topic-Specific Excluded Words:
+the, and, of, to, in, which, with, they, their, by, that, he, or, his, for, them, it, but, from, on, be, not, as, is, this, him, all, being, so, also, at, are, one, if, great, an, after, were, was, two, other, out, when, before, into, like, no, where, first, some, yet, three, these, any, about, then, time, long, many, same, will, such, more, may, would, much, what, made
+
+
+######## Topic 22 ########
+Documents: 2
+Top Word: the (0.057855)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | iohn            |   0.004133 |      0.41%
+   2 | have            |   0.003179 |      0.32%
+   3 | sir             |   0.002942 |      0.29%
+   4 | son             |   0.002898 |      0.29%
+   5 | thomas          |   0.002884 |      0.29%
+   6 | church          |   0.002557 |      0.26%
+   7 | thereof         |   0.002517 |      0.25%
+   8 | upon            |   0.002425 |      0.24%
+   9 | lands           |   0.002269 |      0.23%
+  10 | ioh             |   0.002221 |      0.22%
+  11 | earl            |   0.002178 |      0.22%
+  12 | her             |   0.001880 |      0.19%
+  13 | heir            |   0.001790 |      0.18%
+  14 | heirs           |   0.001775 |      0.18%
+  15 | unto            |   0.001693 |      0.17%
+  16 | prior           |   0.001675 |      0.17%
+  17 | per             |   0.001666 |      0.17%
+  18 | held            |   0.001659 |      0.17%
+  19 | warwick         |   0.001606 |      0.16%
+  20 | william         |   0.001550 |      0.15%
+  21 | viz             |   0.001535 |      0.15%
+  22 | wife            |   0.001527 |      0.15%
+  23 | mannour         |   0.001502 |      0.15%
+  24 | ric             |   0.001463 |      0.15%
+  25 | henry           |   0.001374 |      0.14%
+  26 | whereof         |   0.001354 |      0.14%
+  27 | lord            |   0.001304 |      0.13%
+  28 | year            |   0.001294 |      0.13%
+  29 | robert          |   0.001287 |      0.13%
+  30 | find            |   0.001281 |      0.13%
+
+Topic-Specific Excluded Words:
+the, of, in, and, to, de, that, his, for, by, it, which, this, was, as, at, with, he, said, but, had, be, will, is, one, time, then, being, all, from, their, here, so, him, there, who, an, not, were, king, same, also, after, other, them, before, or, on, they, made, should, two, part, those, land, whom, place, did, first
+
+
+######## Topic 23 ########
+Documents: 92
+Top Word: the (0.039981)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | haue            |   0.007866 |      0.79%
+   2 | vs              |   0.004910 |      0.49%
+   3 | my              |   0.004709 |      0.47%
+   4 | wee             |   0.003973 |      0.40%
+   5 | vpon            |   0.003949 |      0.39%
+   6 | hee             |   0.003781 |      0.38%
+   7 | her             |   0.003637 |      0.36%
+   8 | could           |   0.002589 |      0.26%
+   9 | doe             |   0.002398 |      0.24%
+  10 | came            |   0.002146 |      0.21%
+  11 | vp              |   0.002143 |      0.21%
+  12 | hauing          |   0.001958 |      0.20%
+  13 | captaine        |   0.001933 |      0.19%
+  14 | me              |   0.001932 |      0.19%
+  15 | againe          |   0.001743 |      0.17%
+  16 | found           |   0.001684 |      0.17%
+  17 | might           |   0.001655 |      0.17%
+  18 | beene           |   0.001652 |      0.17%
+  19 | owne            |   0.001625 |      0.16%
+  20 | bee             |   0.001590 |      0.16%
+  21 | themselues      |   0.001536 |      0.15%
+  22 | himselfe        |   0.001510 |      0.15%
+  23 | your            |   0.001487 |      0.15%
+  24 | selfe           |   0.001446 |      0.14%
+  25 | ouer            |   0.001429 |      0.14%
+  26 | you             |   0.001386 |      0.14%
+  27 | though          |   0.001370 |      0.14%
+  28 | downe           |   0.001294 |      0.13%
+  29 | ship            |   0.001213 |      0.12%
+  30 | vnto            |   0.001196 |      0.12%
+
+Topic-Specific Excluded Words:
+the, to, and, of, with, in, that, his, our, for, as, their, they, we, but, which, so, by, had, all, them, was, he, not, were, at, this, him, it, from, then, some, or, would, be, there, those, where, such, men, one, great, being, any, more, many, yet, did, no, good, much, if, time, on, who, most, two, will, day, an, out, made, like, should, what, are, now, after, before, well, these, other, both, when, land, into, very, make, about, come, long, man, first, sent, three, may, set
+
+
+######## Topic 24 ########
+Documents: 14
+Top Word: the (0.085461)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | you             |   0.004190 |      0.42%
+   2 | st              |   0.003376 |      0.34%
+   3 | little          |   0.003328 |      0.33%
+   4 | church          |   0.002923 |      0.29%
+   5 | see             |   0.002611 |      0.26%
+   6 | house           |   0.002227 |      0.22%
+   7 | its             |   0.001993 |      0.20%
+   8 | saw             |   0.001963 |      0.20%
+   9 | four            |   0.001922 |      0.19%
+  10 | side            |   0.001893 |      0.19%
+  11 | seen            |   0.001845 |      0.18%
+  12 | city            |   0.001690 |      0.17%
+  13 | built           |   0.001660 |      0.17%
+  14 | have            |   0.001597 |      0.16%
+  15 | us              |   0.001569 |      0.16%
+  16 | hand            |   0.001513 |      0.15%
+  17 | me              |   0.001512 |      0.15%
+  18 | large           |   0.001349 |      0.13%
+  19 | old             |   0.001321 |      0.13%
+  20 | water           |   0.001298 |      0.13%
+  21 | near            |   0.001287 |      0.13%
+  22 | over            |   0.001283 |      0.13%
+  23 | found           |   0.001269 |      0.13%
+  24 | her             |   0.001248 |      0.12%
+  25 | foot            |   0.001237 |      0.12%
+  26 | monsieur        |   0.001222 |      0.12%
+  27 | came            |   0.001219 |      0.12%
+  28 | fine            |   0.001188 |      0.12%
+  29 | places          |   0.001184 |      0.12%
+  30 | stone           |   0.001179 |      0.12%
+
+Topic-Specific Excluded Words:
+the, of, in, and, to, is, it, which, this, we, that, was, with, at, are, there, by, but, as, very, great, on, be, for, not, one, they, from, were, some, here, place, two, an, all, or, where, who, our, so, these, had, made, other, about, his, may, out, also, into, de, most, much, part, he, their, those, well, three, work, same, many, after, when, been, them, first, more, good, time, make, long
+
+
+######## Topic 25 ########
+Documents: 4
+Top Word: the (0.065194)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | anno            |   0.005049 |      0.50%
+   2 | sir             |   0.004872 |      0.49%
+   3 | year            |   0.004579 |      0.46%
+   4 | henry           |   0.004491 |      0.45%
+   5 | county          |   0.004185 |      0.42%
+   6 | john            |   0.004038 |      0.40%
+   7 | ut              |   0.003483 |      0.35%
+   8 | edward          |   0.003386 |      0.34%
+   9 | prius           |   0.003319 |      0.33%
+  10 | st              |   0.002850 |      0.28%
+  11 | lord            |   0.002651 |      0.27%
+  12 | years           |   0.002580 |      0.26%
+  13 | bishop          |   0.002446 |      0.24%
+  14 | william         |   0.002413 |      0.24%
+  15 | family          |   0.002407 |      0.24%
+  16 | thomas          |   0.002401 |      0.24%
+  17 | ar              |   0.002387 |      0.24%
+  18 | born            |   0.002199 |      0.22%
+  19 | son             |   0.002066 |      0.21%
+  20 | church          |   0.002039 |      0.20%
+  21 | third           |   0.001975 |      0.20%
+  22 | earl            |   0.001948 |      0.19%
+  23 | richard         |   0.001946 |      0.19%
+  24 | name            |   0.001934 |      0.19%
+  25 | called          |   0.001808 |      0.18%
+  26 | second          |   0.001774 |      0.18%
+  27 | thereof         |   0.001770 |      0.18%
+  28 | tho             |   0.001730 |      0.17%
+  29 | queen           |   0.001724 |      0.17%
+  30 | since           |   0.001669 |      0.17%
+
+Topic-Specific Excluded Words:
+the, of, in, and, to, was, his, it, this, he, by, that, at, is, for, which, de, who, as, king, from, with, an, but, not, on, first, be, or, so, him, their, being, had, then, one, were, place, will, some, into, after, about, many, made
+
+
+######## Topic 26 ########
+Documents: 18
+Top Word: the (0.087197)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | haue            |   0.005485 |      0.55%
+   2 | vnto            |   0.004072 |      0.41%
+   3 | theyr           |   0.003761 |      0.38%
+   4 | sea             |   0.002749 |      0.27%
+   5 | whiche          |   0.002632 |      0.26%
+   6 | you             |   0.001885 |      0.19%
+   7 | called          |   0.001801 |      0.18%
+   8 | vse             |   0.001793 |      0.18%
+   9 | water           |   0.001416 |      0.14%
+  10 | founde          |   0.001411 |      0.14%
+  11 | vs              |   0.001367 |      0.14%
+  12 | reason          |   0.001350 |      0.14%
+  13 | citie           |   0.001323 |      0.13%
+  14 | maner           |   0.001312 |      0.13%
+  15 | lande           |   0.001304 |      0.13%
+  16 | al              |   0.001290 |      0.13%
+  17 | therefore       |   0.001278 |      0.13%
+  18 | golde           |   0.001234 |      0.12%
+  19 | your            |   0.001217 |      0.12%
+  20 | north           |   0.001169 |      0.12%
+  21 | south           |   0.001143 |      0.11%
+  22 | leagues         |   0.001141 |      0.11%
+  23 | thereof         |   0.001141 |      0.11%
+  24 | certayne        |   0.001133 |      0.11%
+  25 | doe             |   0.001112 |      0.11%
+  26 | degr            |   0.001110 |      0.11%
+  27 | suche           |   0.001088 |      0.11%
+  28 | lyke            |   0.001045 |      0.10%
+  29 | ilande          |   0.001039 |      0.10%
+  30 | vnder           |   0.001031 |      0.10%
+
+Topic-Specific Excluded Words:
+the, of, and, to, in, that, they, is, as, with, it, are, for, or, be, by, them, which, this, other, from, so, but, not, we, also, great, at, there, these, one, all, then, our, very, any, were, men, into, more, same, he, an, his, such, on, had, their, some, may, if, two, being, when, good, many, no, where, yet, do, before, about, made, out, those, place, after, make, most, hath, much, take, day, people, both, shall
+
+
+######## Topic 27 ########
+Documents: 7
+Top Word: the (0.100957)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | hee             |   0.004591 |      0.46%
+   2 | bee             |   0.004187 |      0.42%
+   3 | called          |   0.003301 |      0.33%
+   4 | vpon            |   0.003169 |      0.32%
+   5 | yeere           |   0.003072 |      0.31%
+   6 | foure           |   0.002605 |      0.26%
+   7 | doe             |   0.002502 |      0.25%
+   8 | onely           |   0.002386 |      0.24%
+   9 | lord            |   0.002355 |      0.24%
+  10 | thereof         |   0.002017 |      0.20%
+  11 | my              |   0.001935 |      0.19%
+  12 | hundred         |   0.001838 |      0.18%
+  13 | old             |   0.001836 |      0.18%
+  14 | beene           |   0.001663 |      0.17%
+  15 | whereof         |   0.001639 |      0.16%
+  16 | city            |   0.001587 |      0.16%
+  17 | neere           |   0.001565 |      0.16%
+  18 | you             |   0.001561 |      0.16%
+  19 | horse           |   0.001523 |      0.15%
+  20 | chiefe          |   0.001522 |      0.15%
+  21 | owne            |   0.001466 |      0.15%
+  22 | towne           |   0.001349 |      0.13%
+  23 | miles           |   0.001326 |      0.13%
+  24 | saint           |   0.001308 |      0.13%
+  25 | church          |   0.001286 |      0.13%
+  26 | side            |   0.001270 |      0.13%
+  27 | sir             |   0.001252 |      0.13%
+  28 | citie           |   0.001135 |      0.11%
+  29 | betweene        |   0.001134 |      0.11%
+  30 | cities          |   0.001089 |      0.11%
+
+Topic-Specific Excluded Words:
+the, of, to, and, in, for, that, by, this, his, be, which, they, is, at, or, as, was, not, it, from, their, them, any, he, being, were, one, these, with, then, same, if, him, into, two, some, more, had, other, out, day, all, no, should, said, time, shall, first, after, three, part, who, but, may, so, yet, most, made, there, like, place, will, many, without, hath, are, make, when, on, man, way, men, did
+
+
+######## Topic 28 ########
+Documents: 12
+Top Word: the (0.068452)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | unto            |   0.004205 |      0.42%
+   2 | upon            |   0.003442 |      0.34%
+   3 | ap              |   0.002708 |      0.27%
+   4 | christ          |   0.002680 |      0.27%
+   5 | have            |   0.001998 |      0.20%
+   6 | ad              |   0.001852 |      0.19%
+   7 | son             |   0.001769 |      0.18%
+   8 | lord            |   0.001605 |      0.16%
+   9 | wales           |   0.001601 |      0.16%
+  10 | prince          |   0.001581 |      0.16%
+  11 | own             |   0.001575 |      0.16%
+  12 | himself         |   0.001401 |      0.14%
+  13 | might           |   0.001331 |      0.13%
+  14 | therefore       |   0.001318 |      0.13%
+  15 | called          |   0.001316 |      0.13%
+  16 | themselves      |   0.001308 |      0.13%
+  17 | having          |   0.001308 |      0.13%
+  18 | church          |   0.001298 |      0.13%
+  19 | up              |   0.001272 |      0.13%
+  20 | england         |   0.001271 |      0.13%
+  21 | quod            |   0.001241 |      0.12%
+  22 | pro             |   0.001215 |      0.12%
+  23 | faith           |   0.001118 |      0.11%
+  24 | though          |   0.001097 |      0.11%
+  25 | only            |   0.001093 |      0.11%
+  26 | est             |   0.001054 |      0.11%
+  27 | non             |   0.001047 |      0.10%
+  28 | country         |   0.001001 |      0.10%
+  29 | per             |   0.000982 |      0.10%
+  30 | power           |   0.000972 |      0.10%
+
+Topic-Specific Excluded Words:
+the, and, of, to, in, his, he, that, by, them, be, their, it, as, was, they, him, with, which, this, for, not, or, from, but, all, had, is, so, king, shall, at, being, god, were, any, who, an, time, such, should, after, on, now, also, hath, these, may, other, into, no, if, against, before, whom, then, great, first, one, law, both, made, english, said, same, those, when, there, more, de, what, people, out, yet, where, are, some, would
+
+
+######## Topic 29 ########
+Documents: 77
+Top Word: the (0.073568)
+Rank | Word            |      Value | Pct of Row
+------------------------------------------------
+   1 | haue            |   0.009775 |      0.98%
+   2 | vnto            |   0.008096 |      0.81%
+   3 | vpon            |   0.004996 |      0.50%
+   4 | you             |   0.004250 |      0.43%
+   5 | riuer           |   0.001944 |      0.19%
+   6 | vs              |   0.001880 |      0.19%
+   7 | vp              |   0.001812 |      0.18%
+   8 | your            |   0.001799 |      0.18%
+   9 | themselues      |   0.001785 |      0.18%
+  10 | towne           |   0.001772 |      0.18%
+  11 | ouer            |   0.001592 |      0.16%
+  12 | vnder           |   0.001560 |      0.16%
+  13 | euery           |   0.001515 |      0.15%
+  14 | bee             |   0.001460 |      0.15%
+  15 | prince          |   0.001459 |      0.15%
+  16 | al              |   0.001451 |      0.15%
+  17 | la              |   0.001361 |      0.14%
+  18 | duke            |   0.001337 |      0.13%
+  19 | countrie        |   0.001294 |      0.13%
+  20 | giue            |   0.001208 |      0.12%
+  21 | owne            |   0.001170 |      0.12%
+  22 | peace           |   0.001138 |      0.11%
+  23 | diuers          |   0.001116 |      0.11%
+  24 | neuer           |   0.001106 |      0.11%
+  25 | speake          |   0.001102 |      0.11%
+  26 | doth            |   0.001100 |      0.11%
+  27 | hauing          |   0.001092 |      0.11%
+  28 | citie           |   0.001090 |      0.11%
+  29 | princes         |   0.001065 |      0.11%
+  30 | maiestie        |   0.001049 |      0.10%
+
+Topic-Specific Excluded Words:
+the, of, and, to, in, that, is, be, as, it, for, or, all, by, not, with, great, are, they, which, this, so, his, their, at, other, from, de, hath, king, there, also, them, same, good, any, do, but, may, shall, god, one, most, he, into, on, these, what, him, such, if, said, those, no, text, more, well, many, then, will, people, an, where, should, we, some, before, now, make, tcp
+
+

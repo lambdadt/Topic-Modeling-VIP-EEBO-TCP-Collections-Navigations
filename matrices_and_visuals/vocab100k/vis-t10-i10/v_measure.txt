@@ -1,0 +1,55 @@
+
+################################################################################
+#              V-MEASURE SCORE              #
+################################################################################
+
+Number of topics (z): 10
+Number of words (w): 100000
+
+Predicted cluster sizes (|C_j|):
+Topic 0: 12047 words
+Topic 1: 13815 words
+Topic 2: 13417 words
+Topic 3: 9100 words
+Topic 4: 13423 words
+Topic 5: 10781 words
+Topic 6: 14110 words
+Topic 7: 9495 words
+Topic 8: 9844 words
+Topic 9: 10563 words
+
+True cluster sizes (|T_k|):
+Topic 0: 10173 words
+Topic 1: 10644 words
+Topic 2: 13512 words
+Topic 3: 7731 words
+Topic 4: 13019 words
+Topic 5: 8148 words
+Topic 6: 13252 words
+Topic 7: 9128 words
+Topic 8: 7456 words
+Topic 9: 6937 words
+
+Total assignments in contingency table: 116595.0
+
+Contingency Table (True vs Predicted):
+True \ Pred |         0     1     2     3     4     5     6     7     8     9
+ 0         |  3269   947   698   735  1011   861   975   698   762   964
+ 1         |   846  4424   947   505  1134   765   883   516   657   817
+ 2         |  1189  1980  5915   994  1097  1208  1355   717  1399  1267
+ 3         |   968   742   756  2497   657  1032   919   792   750   858
+ 4         |  1262  1458   841   495  5511   703   881   940   917  1202
+ 5         |   826   760   735   821   668  2691   857   647   722   717
+ 6         |   771   973  1135   718   733   994  5875   480   406   642
+ 7         |  1250  1001   960  1041  1122  1145  1055  3141  1209  1200
+ 8         |   766   746   684   610   720   660   563   806  2286   652
+ 9         |   900   784   746   684   770   722   747   758   736  2244
+
+H(T): 3.2807
+H(C): 3.3041
+H(T|C): 2.9993
+H(C|T): 2.7831
+
+Homogeneity: 0.0858
+Completeness: 0.1577
+V-Measure: 0.1111
