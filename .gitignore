@@ -4,3 +4,5 @@ __pycache__/
 /.env
 /wandb/
 /.vscode/
+pace-ice-scripts/wandb/
+matrices_and_visuals/vocab100k/*.csv

@@ -262,7 +262,6 @@ def main():
             count_matrix=count_vectors_df,
             wandb_project=args.wandb_project if args.use_wandb else None,
         )
-        suffix = ""
     else:
         # Run PLSI on Count Vectors
         P_dz, P_zw = run_plsi(
@@ -276,7 +275,8 @@ def main():
             count_matrix=count_vectors_df,
             wandb_project=args.wandb_project if args.use_wandb else None,
         )
-        suffix = "_count"
+
+    suffix = "_" + args.matrix_type
 
     # Save the normalized distributions P_dz and P_zw to CSV
     dz_filename = f"PLSI_P_dz_{n_topics}topics_{max_iter}iter{suffix}.csv"
