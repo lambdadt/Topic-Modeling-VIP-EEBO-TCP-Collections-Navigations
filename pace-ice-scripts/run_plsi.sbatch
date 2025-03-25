@@ -31,7 +31,7 @@ ARTIFACT_FOLDER=${ROOT_FOLDER}/matrices_and_visuals/vocab100k #  ${ROOT_FOLDER}/
 MATRIX_TYPE=tfidf_reweighted_count_vectors # count, tfidf, tfidf_reweighted_count_vectors
 
 # Create wandb project name
-WANDB_PROJECT="VIP-Topic-Modelling-pLSI-T${N_TOPICS}-I${MAX_ITER}"
+WANDB_PROJECT="VIP-Topic-Modelling-pLSI"
 
 # Optional: Verify CPU usage
 echo "Running on $(nproc) cores"
