@@ -72,6 +72,10 @@ def plsi(
 
     prev_likelihood = 0.0
 
+    if use_wandb:
+        wandb.define_metric('train/iteration')
+        wandb.define_metric('train/*', step_metric='train/iteration')
+
     for iteration in tqdm(range(max_iter), desc="EM iterations"):
         # ---- E-step: Compute P(z|d,w) ----
         # Instead of looping over docs and words, use broadcasting:
