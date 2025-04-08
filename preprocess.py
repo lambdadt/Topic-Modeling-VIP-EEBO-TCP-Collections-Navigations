@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 import nltk
+from bs4 import BeautifulSoup
 
 from pathlib import Path
 import sys
@@ -12,6 +13,99 @@ import os
 import os.path as osp
 import math
 import collections
+import xml.etree.ElementTree as ET
+
+
+def decode_xml_texts():
+    ap = argparse.ArgumentParser(description="""
+    Decode XML encoded texts from https://textcreationpartnership.org/about-the-tcp/historical-documentation/tcp-production-files/ to be used for topic modelling.
+    """)
+    ap.add_argument('--input_dir', '-i', required=True, help="Directory containing EEBO-TCP XML files (e.g., Navigations_headed_xml/A0-A5/) from which XML files will be read. Not recursive.")
+    ap.add_argument('--output_dir', '-o', required=True, help="Directory where decoded text files will be output. Output file naming may vary depending on --method. See Navigations_headed_xml/Parsed_texts/ for reference.")
+    ap.add_argument('--method', default='Spring2025', choices=['Fall2024', 'Spring2025'])
+    ap.add_argument('--doc_start_num', type=int, default=-1, help="num is '00005' for file 'A00005.headed.xml. Set to value 0 or greater to enable (otherwise all XMLs will be considered without file name based filtering).")
+    ap.add_argument('--doc_end_num', type=int, default=-1, help="See --doc_start_num")
+    args = ap.parse_args()
+
+    all_xml_paths = [p for p in Path(args.input_dir).iterdir() if p.suffix.lower() == ".xml"]
+    print("{} XML files found under input dir ({})".format(len(all_xml_paths), args.input_dir))
+    output_dir = Path(args.output_dir)
+    output_dir.mkdir(exist_ok=True, parents=True)
+    print("Outputs will be saved to: {}".format(output_dir))
+
+    n_failed = 0
+    for ixml, xml_path in enumerate(all_xml_paths):
+        print(75 * "=")
+        print("Parsing XML [{}/{}]: {}".format(ixml+1, len(all_xml_paths), xml_path))
+        doc_prefix_alphabet = None
+        doc_num_str = None
+        m = re.match(r"^([A-Z])(\d+).headed.xml$", xml_path.name)
+        if m:
+            doc_prefix_alphabet = m.group(1)
+            doc_num_str = m.group(2)
+            doc_num = int(doc_num_str)
+            if ((args.doc_start_num >= 0 and doc_num < args.doc_start_num) or 
+                (args.doc_end_num >= 0 and doc_num > args.doc_end_num)):
+                continue
+
+        with open(xml_path, encoding='utf-8') as f:
+            xml_text = f.read()
+        soup = BeautifulSoup(xml_text, 'lxml')
+
+        idg_e = soup.select_one('IDG[id]')
+        if idg_e is None:
+            print("IDG element with 'id' attribute not found. Skipping.")
+            n_failed += 1
+            continue
+        doc_id = idg_e.attrs['id']
+        m = re.match(r"^([A-Z])(\d+)$", doc_id)
+        if m:
+            doc_prefix_alphabet = m.group(1)
+            doc_num_str = m.group(2)
+
+        if args.method == 'Spring2025':
+            raise NotImplementedError()
+        elif args.method == 'Fall2024':
+            output_text_path = output_dir / f"{doc_id}_parsed_text.txt"
+            output_footnotes_path = output_dir / f"{doc_id}_footnotes.txt"
+            text_content, footnotes = None, None
+            try:
+                text_content, footnotes = parse_xml_fall2024(xml_path)
+            except ET.ParseError as e:
+                print(f"Failed to parse {xml_filename}: {e}")
+                n_failed += 1
+            if text_content:
+                with open(output_text_path, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(text_content))
+                print(f"Text content saved to: {output_text_path}")
+            if footnotes:
+                with open(output_footnotes_path, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(footnotes))
+                print(f"Footnotes content saved to: {output_footnotes_path}")
+        print()
+    print("Failed to parse {} XML documents.".format(n_failed))
+
+
+def parse_xml_fall2024(input_file):
+    tree = ET.parse(input_file)
+    root = tree.getroot()
+    # Initialize variables to store text and footnotes
+    text_content = []
+    footnotes = []
+    # Recursive function to extract text and footnotes
+    def extract_content(element):
+        for child in element:
+            if child.tag.lower() in ['note', 'footnote', 'ref', 'fn']:  # Assuming footnotes are in these tags
+                footnotes.append(child.text.strip() if child.text else '')
+            else:
+                if child.text:
+                    text_content.append(child.text)
+                extract_content(child)  # Recurse into child elements
+            if child.tail:
+                text_content.append(child.tail)
+    # Start extraction
+    extract_content(root)
+    return text_content, footnotes
 
 
 def make_vectors():
@@ -210,7 +304,7 @@ def make_vectors():
     print("Done")
 
 if __name__ == '__main__':
-    main_funs = [make_vectors.__name__]
+    main_funs = [make_vectors.__name__, decode_xml_texts.__name__]
 
     if len(sys.argv) <= 1:
         print("Missing operation (must be one of {})".format(main_funs))
