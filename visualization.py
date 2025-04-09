@@ -7,6 +7,7 @@ import sys
 import re
 from tqdm import tqdm
 from scipy.spatial.distance import cosine
+import matplotlib.pyplot as plt
 
 # --- Function Definitions ---
 
@@ -37,8 +38,9 @@ def generate_doc_counts_table(P_dz_tfidf, doc_lengths, topic_counts, output_file
         print(header, file=f)
         print(sep, file=f)
 
+        d_total = P_dz.shape[0]
         for topic_idx, count in topic_count_pairs:
-            percent = (count / d) * 100 if d else 0
+            percent = (count / d_total) * 100 if d_total else 0
             avg_len = avg_doc_lengths[topic_idx]
             print(f"{topic_idx:>10}  |  {count:>10}  |  {percent:>9.2f}%  |  {avg_len:>12.2f}", file=f)
 
@@ -101,7 +103,8 @@ def generate_top_words_table(P_zw_tfidf, index2word, high_df_indices, topic_coun
 
             for rank, word_idx in enumerate(candidates[topic_idx], start=1):
                 word_value = row[word_idx]
-                pct = (word_value / row.sum()) * 100 if row.sum() != 0 else 0.0
+                total_row_sum = row.sum()
+                pct = (word_value / total_row_sum) * 100 if total_row_sum != 0 else 0.0
                 word_str = index2word[word_idx]
                 print(f"{rank:>4} | {word_str:<15} | {word_value:>10.6f} | {pct:>9.2f}%", file=f)
 
@@ -263,6 +266,88 @@ def generate_v_measure(P_zw_tfidf, output_file):
         print(f"Completeness: {c:.4f}", file=f)
         print(f"V-Measure: {v_measure:.4f}", file=f)
 
+def generate_topic_histograms_combined(P_dz_tfidf, output_file, bins=9):
+    """
+    Create a single image with subplots showing a histogram for each topic.
+    Modifications:
+      - We trim the histogram range to (0.1, 1.0).
+      - We fix the y-axis from 0 to 100.
+      - We place x-ticks at 0.1 increments, from 0.1 to 1.0.
+      - We add borders to the bars and horizontal grid lines for readability.
+    """
+    # Ensure output directory exists
+    output_dir = os.path.dirname(output_file)
+    os.makedirs(output_dir, exist_ok=True)
+    
+    P_dz = P_dz_tfidf.values
+    doc_count, n_topics = P_dz.shape
+    
+    # We'll assume the user wants 5 columns (since topics is a multiple of 10).
+    ncols = 5
+    nrows = n_topics // ncols
+    
+    fig, axes = plt.subplots(nrows, ncols, figsize=(ncols * 4, nrows * 3))
+    axes = axes.flatten()
+    
+    for topic_idx in range(n_topics):
+        ax = axes[topic_idx]
+        topic_proportions = P_dz[:, topic_idx]
+        
+        # Only show the range from 0.1 to 1.0 with borders (edgecolor) and some padding (rwidth)
+        ax.hist(topic_proportions, bins=bins, range=(0.1, 1.0), edgecolor='black', rwidth=0.8)
+        
+        # Set fixed x-axis range
+        ax.set_xlim(0.1, 1.0)
+        # Set fixed y-axis range to 0..100
+        ax.set_ylim(0, 100)
+        
+        # Set x-ticks at 0.1 intervals
+        ax.set_xticks([i / 10 for i in range(1, 11)])  # 0.1 to 1.0
+        
+        # Add horizontal grid lines
+        ax.grid(axis='y', color='gray', linestyle='--', linewidth=0.5)
+        
+        ax.set_title(f"Topic {topic_idx}")
+        ax.set_xlabel("Proportion")
+        ax.set_ylabel("Documents")
+    
+    plt.tight_layout()
+    plt.savefig(output_file)
+    plt.close()
+
+def generate_neff_histogram(P_dz_tfidf, output_file):
+    """
+    Compute the effective number of topics (N_eff) for each document and plot a histogram.
+    N_eff is computed as:
+         N_eff = exp( - sum(p_i * log(p_i)) )
+    where p_i are the topic probabilities for a given document.
+    
+    The histogram is binned into intervals such that each bin represents values within
+    (i - 0.5, i + 0.5] for integer i. For example, both 1.7 and 2.3 will fall into the bin centered at 2.
+    """
+    P_dz = P_dz_tfidf.values
+    # Compute entropy for each row, handling 0 probabilities
+    entropy = -np.sum(np.where(P_dz > 0, P_dz * np.log(P_dz), 0), axis=1)
+    neff = np.exp(entropy)
+    
+    n_topics = P_dz.shape[1]
+    # Define bin edges so that each bin is centered at an integer
+    bin_edges = np.arange(0.5, n_topics + 1, 1)  # edges: 0.5, 1.5, 2.5, ..., n_topics + 0.5
+    
+    plt.figure()
+    plt.hist(neff, bins=bin_edges, edgecolor='black', rwidth=0.8)
+    
+    # Set x-ticks at the center of each bin with labels as the integer (1,2,3,...)
+    tick_positions = (bin_edges[:-1] + bin_edges[1:]) / 2
+    tick_labels = [str(int(x)) for x in tick_positions]
+    plt.xticks(tick_positions, tick_labels)
+    
+    plt.xlabel("Effective Number of Topics (N_eff)")
+    plt.ylabel("Frequency")
+    plt.title("Histogram of N_eff")
+    plt.savefig(output_file)
+    plt.close()
+
 def interactive_loop(P_dz_tfidf, P_zw_tfidf, index2filename, index2word, doc_lengths):
     pass
 
@@ -328,6 +413,7 @@ def main():
     doc_topic_assignments = P_dz.argmax(axis=1)
     topic_counts = np.bincount(doc_topic_assignments, minlength=P_dz.shape[1])
 
+    # Write out high DF words
     with open(os.path.join(output_path, "stopwords.txt"), 'w', encoding='utf-8') as f:
         print("\n" + "#" * 80, file=f)
         print("#        HIGH DOCUMENT FREQUENCY WORDS EXCLUDED        #", file=f)
@@ -336,12 +422,21 @@ def main():
         high_df_words_list = sorted([index2word[idx] for idx in high_df_indices])
         print(", ".join(high_df_words_list) if high_df_words_list else "None", file=f)
 
+    # Generate outputs
     generate_doc_counts_table(P_dz_tfidf, doc_lengths, topic_counts, os.path.join(output_path, "doc_counts.txt"))
     generate_cluster_distribution_bar(P_dz_tfidf, os.path.join(output_path, "cluster_bar.txt"))
     generate_top_words_table(P_zw_tfidf, index2word, high_df_indices, topic_counts, os.path.join(output_path, "top_words.txt"))
     generate_top_docs_table(P_dz_tfidf, index2filename, doc_lengths, os.path.join(output_path, "top_docs.txt"))
     generate_similarity_tables(P_dz_tfidf, P_zw_tfidf, os.path.join(output_path, "similarity.txt"))
     generate_v_measure(P_zw_tfidf, os.path.join(output_path, "v_measure.txt"))
+    
+    # Generate a combined histogram image for all topics (trim <0.1, max y=100)
+    combined_hist_file = os.path.join(output_path, "hist_all_topics.png")
+    generate_topic_histograms_combined(P_dz_tfidf, combined_hist_file)
+    
+    # Generate histogram of N_eff values
+    neff_hist_file = os.path.join(output_path, "hist_neff.png")
+    generate_neff_histogram(P_dz_tfidf, neff_hist_file)
 
     print(f"Visualization outputs written to: {output_path}")
 

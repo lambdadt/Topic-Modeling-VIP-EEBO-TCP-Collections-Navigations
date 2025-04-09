@@ -17,7 +17,7 @@ module load anaconda3/2022.05.0.1
 source activate vip-ted
 
 # Set the number of topics and iterations
-N_TOPICS=30 
+N_TOPICS=40 
 N_ITER=100   
 ROOT_FOLDER=..
 ARTIFACT_FOLDER=${ROOT_FOLDER}/matrices_and_visuals/vocab100k #  ${ROOT_FOLDER}/out/vocab100k, ${ROOT_FOLDER}/matrices_and_visuals/vocab100k
