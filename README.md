@@ -1,5 +1,6 @@
 # Georgia Tech VIP: Unlocking and Analyzing Historical Texts - Topic Modeling of EEBO-TCP Data
 - [Wiki](https://github.com/VIP-TopicModeling/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/wiki)
+- [Algorithms doc](https://github.com/VIP-TopicModeling/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/tree/master/docs/algorithms/Algorithms.pdf)
 
 ## Introduction
 Welcome to the EEBO Topic Modeling Project repository. This project aims to analyze a collection of Early English documents to identify prevalent themes of the time. Additionally, we seek to explore relationships between specific authors, publishers, and topics. For instance, determining if Author A frequently wrote about Topic T1 or if Publisher P significantly published documents on Topic T2. Our methodologies include utilizing algorithms such as Latent Dirichlet Allocation (LDA), Probabilistic Latent Semantic Indexing (PLSI), and BERTopic.
