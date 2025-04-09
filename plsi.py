@@ -19,6 +19,8 @@ from tqdm import tqdm
 import wandb
 from dotenv import load_dotenv
 
+from models_common import compute_proxy_completeness_measure, compute_proxy_homogeneity_score, compute_proxy_v_measure
+
 
 def plsi(
     doc_word_matrix: np.ndarray,
@@ -28,6 +30,7 @@ def plsi(
     verbose: bool = False,
     count_matrix: np.ndarray=None,
     use_wandb: bool=False,
+    logging_steps: int=5,
 ) -> tuple[np.ndarray, np.ndarray]:
     """
     Runs the PLSI algorithm using a vectorized EM approach.
@@ -49,6 +52,8 @@ def plsi(
         If not provided, it will by substituted by doc_word_matrix.
     use_wandb: bool
         Will log to Weights & Biases
+    logging_steps: int
+        Additional metrics will be logged every logging_steps. -1 will disable these metrics.
 
     Returns
     -------
@@ -116,6 +121,19 @@ def plsi(
             wandb.log({'train/iteration': iteration,
                        'train/loglikelihood': likelihood})
 
+        # ---- Additional Metrics ----
+        if logging_steps > 0 and (iteration > 0 and iteration % logging_steps == 0):
+            completeness = compute_proxy_completeness_measure(P_zw)
+            homogeneity_r = compute_proxy_homogeneity_score(P_zw
+            , 'reciprocal')
+            v_measure = compute_proxy_v_measure(P_zw, 'binary')
+            if use_wandb:
+                wandb.log({
+                    'train/completeness': completeness,
+                    'train/homogeneity_r': homogeneity_r,
+                    'train/v_measure': v_measure,
+                })
+
         # Check for convergence
         if iteration > 0 and abs(likelihood - prev_likelihood) < tol:
             print(f"Early stopping at iteration {iteration+1}")
@@ -136,6 +154,7 @@ def run_plsi(
     matrix_name: str = "Count Vectors",
     verbose: bool = False,
     count_matrix: pd.DataFrame=None,
+    logging_steps: int=5,
     wandb_project: Optional[str]=None,
 ) -> tuple[np.ndarray, np.ndarray]:
     """
@@ -189,8 +208,7 @@ def run_plsi(
     else:
         cm = contextlib.nullcontext()
     with cm:
-        P_dz, P_zw = plsi(doc_word_matrix, n_topics, max_iter=max_iter, tol=tol, verbose=verbose, count_matrix=count_matrix,
-                          use_wandb=bool(wandb_project))
+        P_dz, P_zw = plsi(doc_word_matrix, n_topics, max_iter=max_iter, tol=tol, verbose=verbose, count_matrix=count_matrix, logging_steps=logging_steps, use_wandb=bool(wandb_project))
 
     return P_dz, P_zw
 
@@ -213,6 +231,8 @@ def main():
                         help="Percentage of documents to use from CSV files (0-100, default=100).")
     parser.add_argument("--matrix_type", type=str, choices=["tfidf", "count", "tfidf_reweighted_count_vectors"], default="tfidf",
                         help="Matrix type to use (default=tfidf).")
+    parser.add_argument("--logging_steps", type=int, default=5,
+                        help="Additional metrics will be logged every logging_steps training steps. If set to -1 they will not be computed.")
     parser.add_argument("--use_wandb", action='store_true',
                         help="Log training progress to Weights & Biases.")
     parser.add_argument("--wandb_project", type=str, default="VIP-Topic-Modelling-pLSI",
@@ -264,6 +284,7 @@ def main():
             matrix_name="TF-IDF",
             verbose=verbose,
             count_matrix=count_vectors_df,
+            logging_steps=args.logging_steps,
             wandb_project=args.wandb_project if args.use_wandb else None,
         )
     else:
