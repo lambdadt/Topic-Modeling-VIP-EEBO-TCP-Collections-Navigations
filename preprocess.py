@@ -125,7 +125,7 @@ def parse_xml_fall2024(input_file):
 def make_vectors():
     ap = argparse.ArgumentParser()
     ap.add_argument('--output_dir', '-o', required=True)
-    ap.add_argument('--parsed_texts_dir', default="Navigations_headed_xml/Parsed_texts",
+    ap.add_argument('--parsed_texts_dir', '-i', default="Navigations_headed_xml/Parsed_texts",
                     help=".txt files in this directory will be searched for recursively.")
     ap.add_argument('--stemmer', default='None', choices=['None', 'Porter', 'Snowball', 'WordNetLemmatizer'],
                     help="If not provided (default), WordNet Lemmatizer will be used.")
@@ -133,6 +133,8 @@ def make_vectors():
     ap.add_argument('--vector_dim_limit', default=100_000, type=int, help="Rare words will be culled. -1 means no limit.")
     ap.add_argument('--tfidf_reweighted_count_vectors_as_float', action='store_true',
                     help="After reweighting the count vectors with TF-IDF, return the resulting matrix with floats, instead of rounding to nearist integers.")
+    ap.add_argument('--filter', choices=['txt', 'parsed_text', 'footnotes'], default='parsed_text',
+                    help="If set to `txt` will read all .txt files.")
     args = ap.parse_args()
 
     output_dir = Path(args.output_dir)
@@ -150,10 +152,11 @@ def make_vectors():
     for root, dirs, files in os.walk(parsed_texts_dir, topdown=False, followlinks=True):
         for fn in files:
             path = Path(root, fn)
-            # if path.suffix.lower() == ".txt":
-            if path.name.lower().endswith("parsed_text.txt"):
-            # if path.name.lower().endswith("footnotes.txt"):
-                doc_paths.append(path)
+            if ((args.filter == 'txt' and path.suffix.lower() != '.txt') or
+                (args.filter == 'parsed_text' and not path.name.lower().endswith("parsed_text.txt")) or
+                (args.filter == 'footnotes' and not path.name.lower().endswith("footnotes.txt"))):
+                continue
+            doc_paths.append(path)
     print("Found {} documents.".format(len(doc_paths)))
 
     doc_infos = []
