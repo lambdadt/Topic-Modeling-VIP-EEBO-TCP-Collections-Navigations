@@ -20,15 +20,23 @@ def decode_xml_texts():
     ap = argparse.ArgumentParser(description="""
     Decode XML encoded texts from https://textcreationpartnership.org/about-the-tcp/historical-documentation/tcp-production-files/ to be used for topic modelling.
     """)
-    ap.add_argument('--input_dir', '-i', required=True, help="Directory containing EEBO-TCP XML files (e.g., Navigations_headed_xml/A0-A5/) from which XML files will be read. Not recursive.")
+    ap.add_argument('--input_dir', '-i', required=True, help="Directory containing EEBO-TCP XML files (e.g., Navigations_headed_xml/A0-A5/) from which XML files will be read. Not recursive. Can also pass the path of a single file.")
     ap.add_argument('--output_dir', '-o', required=True, help="Directory where decoded text files will be output. Output file naming may vary depending on --method. See Navigations_headed_xml/Parsed_texts/ for reference.")
     ap.add_argument('--method', default='Spring2025', choices=['Fall2024', 'Spring2025'])
     ap.add_argument('--doc_start_num', type=int, default=-1, help="num is '00005' for file 'A00005.headed.xml. Set to value 0 or greater to enable (otherwise all XMLs will be considered without file name based filtering).")
     ap.add_argument('--doc_end_num', type=int, default=-1, help="See --doc_start_num")
     args = ap.parse_args()
 
-    all_xml_paths = [p for p in Path(args.input_dir).iterdir() if p.suffix.lower() == ".xml"]
-    print("{} XML files found under input dir ({})".format(len(all_xml_paths), args.input_dir))
+    input_dir = Path(args.input_dir)
+    if input_dir.is_dir():
+        all_xml_paths = [p for p in Path(args.input_dir).iterdir() if p.suffix.lower() == ".xml"]
+    elif input_dir.is_file():
+        all_xml_paths = [Path(input_dir)]
+    else:
+        print("Input directory is invalid: {}".format(input_dir))
+        exit(1)
+    all_xml_paths = sorted(all_xml_paths)
+    print("{} XML file(s) found under input dir ({}).".format(len(all_xml_paths), args.input_dir))
     output_dir = Path(args.output_dir)
     output_dir.mkdir(exist_ok=True, parents=True)
     print("Outputs will be saved to: {}".format(output_dir))
@@ -36,7 +44,7 @@ def decode_xml_texts():
     n_failed = 0
     for ixml, xml_path in enumerate(all_xml_paths):
         print(75 * "=")
-        print("Parsing XML [{}/{}]: {}".format(ixml+1, len(all_xml_paths), xml_path))
+        print("Parsing XML [{}/{}]: {} (#failed: {})".format(ixml+1, len(all_xml_paths), xml_path, n_failed))
         doc_prefix_alphabet = None
         doc_num_str = None
         m = re.match(r"^([A-Z])(\d+).headed.xml$", xml_path.name)
@@ -50,21 +58,27 @@ def decode_xml_texts():
 
         with open(xml_path, encoding='utf-8') as f:
             xml_text = f.read()
-        soup = BeautifulSoup(xml_text, 'lxml')
+        soup = BeautifulSoup(xml_text, 'lxml-xml')
 
-        idg_e = soup.select_one('IDG[id]')
+        idg_e = soup.select_one('IDG[ID]')
         if idg_e is None:
-            print("IDG element with 'id' attribute not found. Skipping.")
+            print("IDG element with 'ID' attribute not found. Skipping.")
             n_failed += 1
             continue
-        doc_id = idg_e.attrs['id']
-        m = re.match(r"^([A-Z])(\d+)$", doc_id)
-        if m:
-            doc_prefix_alphabet = m.group(1)
-            doc_num_str = m.group(2)
+        doc_id = idg_e.attrs['ID']
 
         if args.method == 'Spring2025':
-            raise NotImplementedError()
+            del_tags = ['IDNO', 'AVAILABILITY', 'IDG', 'HEADER', 'FILEDESC', 'PUBLICATIONSTMT',
+                        'PUBPLACE', 'PUBLISHER', 'SERIESSTMT', 'NOTESSTMT'] # , 'FIGURE', 'HI'
+            for e in soup.find_all(del_tags):
+                e.decompose()
+            # While this ignores most structures (e.g., pages separated by PB, ITEM, TITLE, BODY, TEXT, DIVx etc.)
+            # seems to produce a readable result with reasonable amount of white space between elements.
+            text_content = soup.text.strip()
+            output_text_path = output_dir / f"{doc_id}_simplified_content.txt"
+            with open(output_text_path, 'w', encoding='utf-8') as f:
+                f.write(text_content)
+            print(f"Text content saved to: {output_text_path}")
         elif args.method == 'Fall2024':
             output_text_path = output_dir / f"{doc_id}_parsed_text.txt"
             output_footnotes_path = output_dir / f"{doc_id}_footnotes.txt"
@@ -72,7 +86,7 @@ def decode_xml_texts():
             try:
                 text_content, footnotes = parse_xml_fall2024(xml_path)
             except ET.ParseError as e:
-                print(f"Failed to parse {xml_filename}: {e}")
+                print(f"Failed to parse {xml_path}: {e}")
                 n_failed += 1
             if text_content:
                 with open(output_text_path, 'w', encoding='utf-8') as f:
@@ -83,7 +97,7 @@ def decode_xml_texts():
                     f.write('\n'.join(footnotes))
                 print(f"Footnotes content saved to: {output_footnotes_path}")
         print()
-    print("Failed to parse {} XML documents.".format(n_failed))
+    print("Done")
 
 
 def parse_xml_fall2024(input_file):
