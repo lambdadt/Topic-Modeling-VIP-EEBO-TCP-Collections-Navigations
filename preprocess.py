@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 import nltk
+from bs4 import BeautifulSoup
 
 from pathlib import Path
 import sys
@@ -12,12 +13,119 @@ import os
 import os.path as osp
 import math
 import collections
+import xml.etree.ElementTree as ET
+
+
+def decode_xml_texts():
+    ap = argparse.ArgumentParser(description="""
+    Decode XML encoded texts from https://textcreationpartnership.org/about-the-tcp/historical-documentation/tcp-production-files/ to be used for topic modelling.
+    """)
+    ap.add_argument('--input_dir', '-i', required=True, help="Directory containing EEBO-TCP XML files (e.g., Navigations_headed_xml/A0-A5/) from which XML files will be read. Not recursive. Can also pass the path of a single file.")
+    ap.add_argument('--output_dir', '-o', required=True, help="Directory where decoded text files will be output. Output file naming may vary depending on --method. See Navigations_headed_xml/Parsed_texts/ for reference.")
+    ap.add_argument('--method', default='Spring2025', choices=['Fall2024', 'Spring2025'])
+    ap.add_argument('--doc_start_num', type=int, default=-1, help="num is '00005' for file 'A00005.headed.xml. Set to value 0 or greater to enable (otherwise all XMLs will be considered without file name based filtering).")
+    ap.add_argument('--doc_end_num', type=int, default=-1, help="See --doc_start_num")
+    args = ap.parse_args()
+
+    input_dir = Path(args.input_dir)
+    if input_dir.is_dir():
+        all_xml_paths = [p for p in Path(args.input_dir).iterdir() if p.suffix.lower() == ".xml"]
+    elif input_dir.is_file():
+        all_xml_paths = [Path(input_dir)]
+    else:
+        print("Input directory is invalid: {}".format(input_dir))
+        exit(1)
+    all_xml_paths = sorted(all_xml_paths)
+    print("{} XML file(s) found under input dir ({}).".format(len(all_xml_paths), args.input_dir))
+    output_dir = Path(args.output_dir)
+    output_dir.mkdir(exist_ok=True, parents=True)
+    print("Outputs will be saved to: {}".format(output_dir))
+
+    n_failed = 0
+    for ixml, xml_path in enumerate(all_xml_paths):
+        print(75 * "=")
+        print("Parsing XML [{}/{}]: {} (#failed: {})".format(ixml+1, len(all_xml_paths), xml_path, n_failed))
+        doc_prefix_alphabet = None
+        doc_num_str = None
+        m = re.match(r"^([A-Z])(\d+).headed.xml$", xml_path.name)
+        if m:
+            doc_prefix_alphabet = m.group(1)
+            doc_num_str = m.group(2)
+            doc_num = int(doc_num_str)
+            if ((args.doc_start_num >= 0 and doc_num < args.doc_start_num) or 
+                (args.doc_end_num >= 0 and doc_num > args.doc_end_num)):
+                continue
+
+        with open(xml_path, encoding='utf-8') as f:
+            xml_text = f.read()
+        soup = BeautifulSoup(xml_text, 'lxml-xml')
+
+        idg_e = soup.select_one('IDG[ID]')
+        if idg_e is None:
+            print("IDG element with 'ID' attribute not found. Skipping.")
+            n_failed += 1
+            continue
+        doc_id = idg_e.attrs['ID']
+
+        if args.method == 'Spring2025':
+            del_tags = ['IDNO', 'AVAILABILITY', 'IDG', 'HEADER', 'FILEDESC', 'PUBLICATIONSTMT',
+                        'PUBPLACE', 'PUBLISHER', 'SERIESSTMT', 'NOTESSTMT'] # , 'FIGURE', 'HI'
+            for e in soup.find_all(del_tags):
+                e.decompose()
+            # While this ignores most structures (e.g., pages separated by PB, ITEM, TITLE, BODY, TEXT, DIVx etc.)
+            # seems to produce a readable result with reasonable amount of white space between elements.
+            text_content = soup.text.strip()
+            output_text_path = output_dir / f"{doc_id}_simplified_content.txt"
+            with open(output_text_path, 'w', encoding='utf-8') as f:
+                f.write(text_content)
+            print(f"Text content saved to: {output_text_path}")
+        elif args.method == 'Fall2024':
+            output_text_path = output_dir / f"{doc_id}_parsed_text.txt"
+            output_footnotes_path = output_dir / f"{doc_id}_footnotes.txt"
+            text_content, footnotes = None, None
+            try:
+                text_content, footnotes = parse_xml_fall2024(xml_path)
+            except ET.ParseError as e:
+                print(f"Failed to parse {xml_path}: {e}")
+                n_failed += 1
+            if text_content:
+                with open(output_text_path, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(text_content))
+                print(f"Text content saved to: {output_text_path}")
+            if footnotes:
+                with open(output_footnotes_path, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(footnotes))
+                print(f"Footnotes content saved to: {output_footnotes_path}")
+        print()
+    print("Done")
+
+
+def parse_xml_fall2024(input_file):
+    tree = ET.parse(input_file)
+    root = tree.getroot()
+    # Initialize variables to store text and footnotes
+    text_content = []
+    footnotes = []
+    # Recursive function to extract text and footnotes
+    def extract_content(element):
+        for child in element:
+            if child.tag.lower() in ['note', 'footnote', 'ref', 'fn']:  # Assuming footnotes are in these tags
+                footnotes.append(child.text.strip() if child.text else '')
+            else:
+                if child.text:
+                    text_content.append(child.text)
+                extract_content(child)  # Recurse into child elements
+            if child.tail:
+                text_content.append(child.tail)
+    # Start extraction
+    extract_content(root)
+    return text_content, footnotes
 
 
 def make_vectors():
     ap = argparse.ArgumentParser()
     ap.add_argument('--output_dir', '-o', required=True)
-    ap.add_argument('--parsed_texts_dir', default="Navigations_headed_xml/Parsed_texts",
+    ap.add_argument('--parsed_texts_dir', '-i', default="Navigations_headed_xml/Parsed_texts",
                     help=".txt files in this directory will be searched for recursively.")
     ap.add_argument('--stemmer', default='None', choices=['None', 'Porter', 'Snowball', 'WordNetLemmatizer'],
                     help="If not provided (default), WordNet Lemmatizer will be used.")
@@ -25,6 +133,8 @@ def make_vectors():
     ap.add_argument('--vector_dim_limit', default=100_000, type=int, help="Rare words will be culled. -1 means no limit.")
     ap.add_argument('--tfidf_reweighted_count_vectors_as_float', action='store_true',
                     help="After reweighting the count vectors with TF-IDF, return the resulting matrix with floats, instead of rounding to nearist integers.")
+    ap.add_argument('--filter', choices=['txt', 'parsed_text', 'footnotes'], default='parsed_text',
+                    help="If set to `txt` will read all .txt files.")
     args = ap.parse_args()
 
     output_dir = Path(args.output_dir)
@@ -42,10 +152,11 @@ def make_vectors():
     for root, dirs, files in os.walk(parsed_texts_dir, topdown=False, followlinks=True):
         for fn in files:
             path = Path(root, fn)
-            # if path.suffix.lower() == ".txt":
-            if path.name.lower().endswith("parsed_text.txt"):
-            # if path.name.lower().endswith("footnotes.txt"):
-                doc_paths.append(path)
+            if ((args.filter == 'txt' and path.suffix.lower() != '.txt') or
+                (args.filter == 'parsed_text' and not path.name.lower().endswith("parsed_text.txt")) or
+                (args.filter == 'footnotes' and not path.name.lower().endswith("footnotes.txt"))):
+                continue
+            doc_paths.append(path)
     print("Found {} documents.".format(len(doc_paths)))
 
     doc_infos = []
@@ -210,7 +321,7 @@ def make_vectors():
     print("Done")
 
 if __name__ == '__main__':
-    main_funs = [make_vectors.__name__]
+    main_funs = [make_vectors.__name__, decode_xml_texts.__name__]
 
     if len(sys.argv) <= 1:
         print("Missing operation (must be one of {})".format(main_funs))

@@ -1,5 +1,6 @@
 # Georgia Tech VIP: Unlocking and Analyzing Historical Texts - Topic Modeling of EEBO-TCP Data
 - [Wiki](https://github.com/VIP-TopicModeling/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/wiki)
+- [Algorithms doc](https://github.com/VIP-TopicModeling/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations/tree/master/docs/algorithms/Algorithms.pdf)
 
 ## Introduction
 Welcome to the EEBO Topic Modeling Project repository. This project aims to analyze a collection of Early English documents to identify prevalent themes of the time. Additionally, we seek to explore relationships between specific authors, publishers, and topics. For instance, determining if Author A frequently wrote about Topic T1 or if Publisher P significantly published documents on Topic T2. Our methodologies include utilizing algorithms such as Latent Dirichlet Allocation (LDA), Probabilistic Latent Semantic Indexing (PLSI), and BERTopic.
@@ -26,7 +27,7 @@ The documents in our dataset are provided in header XML format. These XML files 
 This project requires Python 3.10 and the following dependencies:
 
 ```bash
-pip install spacy==3.8.4 scikit-learn==1.6.1 numpy==2.2.2 pandas==2.2.3 nltk==3.9.1 wandb==0.19.7 python-dotenv==1.0.1
+pip install spacy==3.8.4 scikit-learn==1.6.1 numpy==2.2.2 pandas==2.2.3 nltk==3.9.1 wandb==0.19.7 python-dotenv==1.0.1 beautifulsoup==4.13.3 lxml==5.3.2
 python -m spacy download en_core_web_sm
 ```
 
