@@ -1,0 +1,300 @@
+######## Topic 0 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      187 | ../Navigations_headed_xml/Parsed_texts/A58175_parsed_text.txt |  1168271 |   0.619597
+   2 |      119 | ../Navigations_headed_xml/Parsed_texts/A40385_parsed_text.txt |   514373 |   0.584391
+   3 |      209 | ../Navigations_headed_xml/Parsed_texts/A58478_parsed_text.txt |    65620 |   0.497756
+   4 |      525 | ../Navigations_headed_xml/Parsed_texts/A45906_parsed_text.txt |   211334 |   0.446635
+   5 |      137 | ../Navigations_headed_xml/Parsed_texts/A45661_parsed_text.txt |   170140 |   0.444911
+
+
+######## Topic 1 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      460 | ../Navigations_headed_xml/Parsed_texts/A17832_parsed_text.txt |  4263034 |   0.746839
+   2 |      614 | ../Navigations_headed_xml/Parsed_texts/A12718_parsed_text.txt |   576907 |   0.455601
+   3 |      722 | ../Navigations_headed_xml/Parsed_texts/A08536_parsed_text.txt |  1881585 |   0.426912
+   4 |      361 | ../Navigations_headed_xml/Parsed_texts/A17848_parsed_text.txt |   509224 |   0.418395
+   5 |      316 | ../Navigations_headed_xml/Parsed_texts/A32776_parsed_text.txt |   290616 |   0.324189
+
+
+######## Topic 2 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      721 | ../Navigations_headed_xml/Parsed_texts/A33988_parsed_text.txt |   227259 |   0.975916
+   2 |      671 | ../Navigations_headed_xml/Parsed_texts/A37731_parsed_text.txt |   158688 |   0.775746
+   3 |      150 | ../Navigations_headed_xml/Parsed_texts/A59133_parsed_text.txt |    27723 |   0.426788
+   4 |      261 | ../Navigations_headed_xml/Parsed_texts/A52487_parsed_text.txt |   314569 |   0.418038
+   5 |      204 | ../Navigations_headed_xml/Parsed_texts/A48428_parsed_text.txt |   110135 |   0.394461
+
+
+######## Topic 3 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      519 | ../Navigations_headed_xml/Parsed_texts/A10728_parsed_text.txt |   205344 |   0.996674
+   2 |       73 | ../Navigations_headed_xml/Parsed_texts/A00007_parsed_text.txt |  1277284 |   0.992773
+   3 |       61 | ../Navigations_headed_xml/Parsed_texts/A23592_parsed_text.txt |  1285490 |   0.992725
+   4 |      253 | ../Navigations_headed_xml/Parsed_texts/A00005_parsed_text.txt |  1303022 |   0.990875
+   5 |      413 | ../Navigations_headed_xml/Parsed_texts/A06812_parsed_text.txt |   209566 |   0.959251
+
+
+######## Topic 4 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      546 | ../Navigations_headed_xml/Parsed_texts/A57999_parsed_text.txt |  3016866 |   0.860960
+   2 |      274 | ../Navigations_headed_xml/Parsed_texts/A43882_parsed_text.txt |   166571 |   0.656293
+   3 |       83 | ../Navigations_headed_xml/Parsed_texts/A35758_parsed_text.txt |   137427 |   0.620992
+   4 |      277 | ../Navigations_headed_xml/Parsed_texts/A57997_parsed_text.txt |  2100611 |   0.609323
+   5 |      644 | ../Navigations_headed_xml/Parsed_texts/A56484_parsed_text.txt |     7877 |   0.555216
+
+
+######## Topic 5 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      609 | ../Navigations_headed_xml/Parsed_texts/A42564_parsed_text.txt |   664101 |   0.741216
+   2 |      386 | ../Navigations_headed_xml/Parsed_texts/A48403_parsed_text.txt |  1017298 |   0.658170
+   3 |      706 | ../Navigations_headed_xml/Parsed_texts/A30473_parsed_text.txt |   287572 |   0.584425
+   4 |      251 | ../Navigations_headed_xml/Parsed_texts/A48116_parsed_text.txt |   141562 |   0.566933
+   5 |      521 | ../Navigations_headed_xml/Parsed_texts/A30320_parsed_text.txt |    56538 |   0.563703
+
+
+######## Topic 6 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      423 | ../Navigations_headed_xml/Parsed_texts/A01864_parsed_text.txt |   954539 |   0.606524
+   2 |      699 | ../Navigations_headed_xml/Parsed_texts/A03066_parsed_text.txt |  1183357 |   0.588397
+   3 |      263 | ../Navigations_headed_xml/Parsed_texts/A03065_parsed_text.txt |   538189 |   0.578191
+   4 |      668 | ../Navigations_headed_xml/Parsed_texts/A22928_parsed_text.txt |  1062869 |   0.437199
+   5 |      585 | ../Navigations_headed_xml/Parsed_texts/A04361_parsed_text.txt |    71629 |   0.365718
+
+
+######## Topic 7 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |       12 | ../Navigations_headed_xml/Parsed_texts/A32381_parsed_text.txt |     6459 |   0.970049
+   2 |      258 | ../Navigations_headed_xml/Parsed_texts/A45846_parsed_text.txt |     7284 |   0.957260
+   3 |      712 | ../Navigations_headed_xml/Parsed_texts/A32649_parsed_text.txt |     5899 |   0.953351
+   4 |      168 | ../Navigations_headed_xml/Parsed_texts/A32650_parsed_text.txt |     5092 |   0.947567
+   5 |      435 | ../Navigations_headed_xml/Parsed_texts/A32553_parsed_text.txt |     8040 |   0.944931
+
+
+######## Topic 8 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      371 | ../Navigations_headed_xml/Parsed_texts/A50651_parsed_text.txt |   293403 |   0.738152
+   2 |       29 | ../Navigations_headed_xml/Parsed_texts/A33302_parsed_text.txt |   109952 |   0.728917
+   3 |      557 | ../Navigations_headed_xml/Parsed_texts/A33311_parsed_text.txt |   673453 |   0.629340
+   4 |      108 | ../Navigations_headed_xml/Parsed_texts/A37736_parsed_text.txt |   100284 |   0.544917
+   5 |      686 | ../Navigations_headed_xml/Parsed_texts/A57948_parsed_text.txt |    45326 |   0.532344
+
+
+######## Topic 9 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      135 | ../Navigations_headed_xml/Parsed_texts/A53322_parsed_text.txt |  2992323 |   0.609437
+   2 |      443 | ../Navigations_headed_xml/Parsed_texts/A31753_parsed_text.txt |  1315995 |   0.607323
+   3 |      695 | ../Navigations_headed_xml/Parsed_texts/A42086_parsed_text.txt |   435452 |   0.568983
+   4 |      506 | ../Navigations_headed_xml/Parsed_texts/A53223_parsed_text.txt |  1624932 |   0.559772
+   5 |       40 | ../Navigations_headed_xml/Parsed_texts/A54357_parsed_text.txt |   175025 |   0.490413
+
+
+######## Topic 10 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      485 | ../Navigations_headed_xml/Parsed_texts/A43412_parsed_text.txt |    73355 |   0.914731
+   2 |      230 | ../Navigations_headed_xml/Parsed_texts/A53224_parsed_text.txt |   968573 |   0.906073
+   3 |      424 | ../Navigations_headed_xml/Parsed_texts/A53241_parsed_text.txt |   114777 |   0.805115
+   4 |      336 | ../Navigations_headed_xml/Parsed_texts/A53234_parsed_text.txt |    96208 |   0.599184
+   5 |      291 | ../Navigations_headed_xml/Parsed_texts/A40841_parsed_text.txt |    55708 |   0.203610
+
+
+######## Topic 11 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      290 | ../Navigations_headed_xml/Parsed_texts/A03319_parsed_text.txt |  2147099 |   0.856057
+   2 |      315 | ../Navigations_headed_xml/Parsed_texts/A50181_parsed_text.txt |    41050 |   0.261108
+   3 |      620 | ../Navigations_headed_xml/Parsed_texts/A06811_parsed_text.txt |   224410 |   0.182427
+   4 |      507 | ../Navigations_headed_xml/Parsed_texts/A21330_parsed_text.txt |    42319 |   0.058472
+   5 |       78 | ../Navigations_headed_xml/Parsed_texts/A06861_parsed_text.txt |    16666 |   0.049297
+
+
+######## Topic 12 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      139 | ../Navigations_headed_xml/Parsed_texts/A33345_parsed_text.txt |   347191 |   0.598129
+   2 |      288 | ../Navigations_headed_xml/Parsed_texts/A36106_parsed_text.txt |  1972237 |   0.592813
+   3 |      698 | ../Navigations_headed_xml/Parsed_texts/A25996_parsed_text.txt |    45960 |   0.581744
+   4 |      580 | ../Navigations_headed_xml/Parsed_texts/A55601_parsed_text.txt |    82215 |   0.576602
+   5 |      471 | ../Navigations_headed_xml/Parsed_texts/A57484_parsed_text.txt |   974684 |   0.559110
+
+
+######## Topic 13 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      540 | ../Navigations_headed_xml/Parsed_texts/A53049_parsed_text.txt |   895564 |   0.683667
+   2 |      366 | ../Navigations_headed_xml/Parsed_texts/A53044_parsed_text.txt |   233381 |   0.545861
+   3 |        0 | ../Navigations_headed_xml/Parsed_texts/A01867_parsed_text.txt |   125620 |   0.503320
+   4 |      104 | ../Navigations_headed_xml/Parsed_texts/A43912_parsed_text.txt |    33641 |   0.429829
+   5 |      227 | ../Navigations_headed_xml/Parsed_texts/A07832_parsed_text.txt |   264015 |   0.391342
+
+
+######## Topic 14 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |       60 | ../Navigations_headed_xml/Parsed_texts/A10228_parsed_text.txt |  3344656 |   0.634984
+   2 |      264 | ../Navigations_headed_xml/Parsed_texts/A10231_parsed_text.txt |  5523888 |   0.608507
+   3 |      447 | ../Navigations_headed_xml/Parsed_texts/A05331_parsed_text.txt |  1394876 |   0.496691
+   4 |      382 | ../Navigations_headed_xml/Parsed_texts/A18071_parsed_text.txt |   216766 |   0.238387
+   5 |      626 | ../Navigations_headed_xml/Parsed_texts/A10591_parsed_text.txt |    22511 |   0.194535
+
+
+######## Topic 15 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      278 | ../Navigations_headed_xml/Parsed_texts/A35310_parsed_text.txt |   975187 |   0.459542
+   2 |      517 | ../Navigations_headed_xml/Parsed_texts/A58415_parsed_text.txt |    42369 |   0.398677
+   3 |      630 | ../Navigations_headed_xml/Parsed_texts/A50886_parsed_text.txt |    90711 |   0.397794
+   4 |      266 | ../Navigations_headed_xml/Parsed_texts/A54677_parsed_text.txt |   594908 |   0.396065
+   5 |      534 | ../Navigations_headed_xml/Parsed_texts/A29431_parsed_text.txt |    14400 |   0.368404
+
+
+######## Topic 16 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      308 | ../Navigations_headed_xml/Parsed_texts/A36049_parsed_text.txt |   161732 |   0.999975
+   2 |      246 | ../Navigations_headed_xml/Parsed_texts/A28785_parsed_text.txt |   543195 |   0.999806
+   3 |      735 | ../Navigations_headed_xml/Parsed_texts/A55497_parsed_text.txt |   132987 |   0.790207
+   4 |      179 | ../Navigations_headed_xml/Parsed_texts/A51876_parsed_text.txt |   359609 |   0.420019
+   5 |      336 | ../Navigations_headed_xml/Parsed_texts/A53234_parsed_text.txt |    96208 |   0.382528
+
+
+######## Topic 17 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      689 | ../Navigations_headed_xml/Parsed_texts/A48414_parsed_text.txt |   990107 |   0.814971
+   2 |       54 | ../Navigations_headed_xml/Parsed_texts/A38925_parsed_text.txt |    56240 |   0.741447
+   3 |      697 | ../Navigations_headed_xml/Parsed_texts/A39450_parsed_text.txt |   382363 |   0.620431
+   4 |      387 | ../Navigations_headed_xml/Parsed_texts/A31291_parsed_text.txt |   140713 |   0.616790
+   5 |      348 | ../Navigations_headed_xml/Parsed_texts/A46402_parsed_text.txt |   188498 |   0.600319
+
+
+######## Topic 18 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      402 | ../Navigations_headed_xml/Parsed_texts/A06817_parsed_text.txt |   265857 |   0.856932
+   2 |       49 | ../Navigations_headed_xml/Parsed_texts/A51759_parsed_text.txt |   252832 |   0.580679
+   3 |      690 | ../Navigations_headed_xml/Parsed_texts/A09829_parsed_text.txt |   314182 |   0.497615
+   4 |      229 | ../Navigations_headed_xml/Parsed_texts/A01426_parsed_text.txt |   245784 |   0.491910
+   5 |      130 | ../Navigations_headed_xml/Parsed_texts/A00611_parsed_text.txt |   180481 |   0.449555
+
+
+######## Topic 19 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      147 | ../Navigations_headed_xml/Parsed_texts/A43915_parsed_text.txt |   194793 |   0.803097
+   2 |      589 | ../Navigations_headed_xml/Parsed_texts/A42700_parsed_text.txt |   158213 |   0.794932
+   3 |      125 | ../Navigations_headed_xml/Parsed_texts/A44634_parsed_text.txt |   173497 |   0.771104
+   4 |      334 | ../Navigations_headed_xml/Parsed_texts/A50693_parsed_text.txt |   105384 |   0.763381
+   5 |      294 | ../Navigations_headed_xml/Parsed_texts/A55115_parsed_text.txt |   152003 |   0.715843
+
+
+######## Topic 20 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |        4 | ../Navigations_headed_xml/Parsed_texts/A13053_parsed_text.txt |  3145643 |   0.787740
+   2 |      188 | ../Navigations_headed_xml/Parsed_texts/A44731_parsed_text.txt |   839229 |   0.748432
+   3 |      738 | ../Navigations_headed_xml/Parsed_texts/A44732_parsed_text.txt |   836418 |   0.746459
+   4 |      684 | ../Navigations_headed_xml/Parsed_texts/A29941_parsed_text.txt |   124173 |   0.453368
+   5 |      474 | ../Navigations_headed_xml/Parsed_texts/A31599_parsed_text.txt |   363684 |   0.307192
+
+
+######## Topic 21 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      182 | ../Navigations_headed_xml/Parsed_texts/A39068_parsed_text.txt |   382798 |   0.807931
+   2 |      568 | ../Navigations_headed_xml/Parsed_texts/A36730_parsed_text.txt |  1890004 |   0.636069
+   3 |      273 | ../Navigations_headed_xml/Parsed_texts/A51184_parsed_text.txt |  1642214 |   0.606114
+   4 |      597 | ../Navigations_headed_xml/Parsed_texts/A53222_parsed_text.txt |  2417592 |   0.478265
+   5 |      579 | ../Navigations_headed_xml/Parsed_texts/A52346_parsed_text.txt |  1363847 |   0.442825
+
+
+######## Topic 22 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |       45 | ../Navigations_headed_xml/Parsed_texts/A36791_parsed_text.txt |  4273637 |   0.963388
+   2 |      490 | ../Navigations_headed_xml/Parsed_texts/A12598_parsed_text.txt |  1077383 |   0.415553
+   3 |      390 | ../Navigations_headed_xml/Parsed_texts/A12689_parsed_text.txt |    44300 |   0.140464
+   4 |      656 | ../Navigations_headed_xml/Parsed_texts/A31570_parsed_text.txt |   336006 |   0.090312
+   5 |      562 | ../Navigations_headed_xml/Parsed_texts/A50824_parsed_text.txt |  1283482 |   0.065782
+
+
+######## Topic 23 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      120 | ../Navigations_headed_xml/Parsed_texts/A08210_parsed_text.txt |   167621 |   0.770524
+   2 |      354 | ../Navigations_headed_xml/Parsed_texts/A11831_parsed_text.txt |    27098 |   0.742706
+   3 |      577 | ../Navigations_headed_xml/Parsed_texts/A12461_parsed_text.txt |   994255 |   0.719834
+   4 |      298 | ../Navigations_headed_xml/Parsed_texts/A19644_parsed_text.txt |   132051 |   0.675105
+   5 |      201 | ../Navigations_headed_xml/Parsed_texts/A11056_parsed_text.txt |    71675 |   0.648785
+
+
+######## Topic 24 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      399 | ../Navigations_headed_xml/Parsed_texts/A26310_parsed_text.txt |    86944 |   0.672084
+   2 |      592 | ../Navigations_headed_xml/Parsed_texts/A31044_parsed_text.txt |   138338 |   0.632416
+   3 |      350 | ../Navigations_headed_xml/Parsed_texts/A29361_parsed_text.txt |   545270 |   0.616319
+   4 |      486 | ../Navigations_headed_xml/Parsed_texts/A51007_parsed_text.txt |  1028264 |   0.523151
+   5 |      248 | ../Navigations_headed_xml/Parsed_texts/A45662_parsed_text.txt |   132783 |   0.481511
+
+
+######## Topic 25 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      524 | ../Navigations_headed_xml/Parsed_texts/A54665_parsed_text.txt |  1832161 |   0.916676
+   2 |      666 | ../Navigations_headed_xml/Parsed_texts/A47358_parsed_text.txt |   640735 |   0.664647
+   3 |      669 | ../Navigations_headed_xml/Parsed_texts/A58992_parsed_text.txt |  1110324 |   0.623080
+   4 |      701 | ../Navigations_headed_xml/Parsed_texts/A40672_parsed_text.txt |  4037820 |   0.582034
+   5 |      316 | ../Navigations_headed_xml/Parsed_texts/A32776_parsed_text.txt |   290616 |   0.213538
+
+
+######## Topic 26 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      707 | ../Navigations_headed_xml/Parsed_texts/A14328_parsed_text.txt |   404009 |   0.865927
+   2 |       84 | ../Navigations_headed_xml/Parsed_texts/A20049_parsed_text.txt |  2149610 |   0.817805
+   3 |      144 | ../Navigations_headed_xml/Parsed_texts/A16195_parsed_text.txt |   121917 |   0.748678
+   4 |      369 | ../Navigations_headed_xml/Parsed_texts/A07873_parsed_text.txt |   183494 |   0.698874
+   5 |      655 | ../Navigations_headed_xml/Parsed_texts/A09429_parsed_text.txt |   319398 |   0.567144
+
+
+######## Topic 27 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      160 | ../Navigations_headed_xml/Parsed_texts/A07834_parsed_text.txt |  3892899 |   0.586832
+   2 |      109 | ../Navigations_headed_xml/Parsed_texts/A34660_parsed_text.txt |    32353 |   0.340038
+   3 |      659 | ../Navigations_headed_xml/Parsed_texts/A00682_parsed_text.txt |    54646 |   0.303424
+   4 |      126 | ../Navigations_headed_xml/Parsed_texts/A07623_parsed_text.txt |   181217 |   0.296978
+   5 |      560 | ../Navigations_headed_xml/Parsed_texts/A08067_parsed_text.txt |    53334 |   0.287878
+
+
+######## Topic 28 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      535 | ../Navigations_headed_xml/Parsed_texts/A33602_parsed_text.txt |   952538 |   0.714065
+   2 |      454 | ../Navigations_headed_xml/Parsed_texts/A51818_parsed_text.txt |   131290 |   0.681784
+   3 |      208 | ../Navigations_headed_xml/Parsed_texts/A55772_parsed_text.txt |   318141 |   0.589975
+   4 |      693 | ../Navigations_headed_xml/Parsed_texts/A34868_parsed_text.txt |  1432453 |   0.533590
+   5 |      331 | ../Navigations_headed_xml/Parsed_texts/A50829_parsed_text.txt |   582650 |   0.403199
+
+
+######## Topic 29 ########
+Rank |    DocID | Filename                                                     |   Length |       P_dz
+------------------------------------------------------------------------------------------------------
+   1 |      224 | ../Navigations_headed_xml/Parsed_texts/A18468_parsed_text.txt |    33687 |   0.830158
+   2 |        6 | ../Navigations_headed_xml/Parsed_texts/A02964_parsed_text.txt |    27259 |   0.796025
+   3 |      645 | ../Navigations_headed_xml/Parsed_texts/A05374_parsed_text.txt |   133717 |   0.716683
+   4 |       69 | ../Navigations_headed_xml/Parsed_texts/A11090_parsed_text.txt |   115233 |   0.642581
+   5 |      245 | ../Navigations_headed_xml/Parsed_texts/A18449_parsed_text.txt |    39351 |   0.630775
+
+
