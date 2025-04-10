@@ -2,297 +2,535 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document Topic Graph</title>
+  <title>Advanced Document Topic Dashboard</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <style>
+    /* Layout Styles */
     body {
       margin: 0;
       font-family: sans-serif;
       display: flex;
       height: 100vh;
       overflow: hidden;
-    }
-    #sidebar {
-      width: 25%;
-      padding: 15px;
-      box-sizing: border-box;
-      background: #f9f9f9;
-      border-right: 1px solid #ddd;
-      overflow-y: auto;
+      background-color: #0d1117;
+      color: #e6edf3;
     }
     #graphContainer {
-      width: 75%;
+      width: 70%;
       height: 100%;
     }
-    svg {
-      width: 100%;
-      height: 100%;
+    #sidebar {
+      width: 30%;
+      padding: 15px;
+      box-sizing: border-box;
+      background: #161b22;
+      border-left: 1px solid #30363d;
+      overflow-y: auto;
     }
-    circle {
-      stroke: #000;
-      stroke-width: 0.5px;
+    /* Accordion and Controls Styles */
+    .accordion-section {
+      margin-bottom: 15px;
+      border: 1px solid #30363d;
+      border-radius: 4px;
     }
-    line {
-      stroke: #999;
-      stroke-opacity: 0.6;
+    .accordion-header {
+      padding: 10px;
+      background-color: #21262d;
+      cursor: pointer;
+      font-weight: bold;
     }
-    label, input, button {
+    .accordion-content {
+      display: none;
+      padding: 10px;
+      border-top: 1px solid #30363d;
+    }
+    .accordion-content.active {
+      display: block;
+    }
+    label, input, select, button, small {
       display: block;
       margin-bottom: 8px;
       font-size: 14px;
+      color: #c9d1d9;
     }
-    input {
+    input, select {
       width: 80px;
       padding: 4px;
+      background-color: #0d1117;
+      border: 1px solid #30363d;
+      color: #e6edf3;
     }
     button {
       padding: 6px 12px;
       font-size: 14px;
-      background-color: #007BFF;
+      background-color: #238636;
       color: white;
       border: none;
       border-radius: 6px;
       cursor: pointer;
     }
     button:hover {
-      background-color: #0056b3;
+      background-color: #2ea043;
     }
+    /* Graph Styles */
+    svg {
+      width: 100%;
+      height: 100%;
+      background-color: #0d1117;
+    }
+    circle {
+      stroke: #ffffff;
+      stroke-width: 0.2px;
+    }
+    circle.highlighted {
+      stroke: #f97316;
+      stroke-width: 2;
+    }
+    line {
+      stroke: #8899aa;
+      stroke-opacity: 0.3;
+      stroke-width: 0.5px;
+    }
+    /* Metadata Table Styles */
     #metadata {
-      margin-top: 20px;
       font-size: 13px;
+      white-space: pre-wrap;
     }
     table {
       border-collapse: collapse;
       width: 100%;
     }
     th, td {
-      border: 1px solid #ccc;
+      border: 1px solid #30363d;
       padding: 4px;
       text-align: left;
+      color: #e6edf3;
+    }
+    tr.cluster-row:hover {
+      background-color: #2d333b;
+      cursor: pointer;
+    }
+    /* Tooltip Styles */
+    #tooltip {
+      position: absolute;
+      padding: 10px;
+      background: #161b22;
+      color: #f0f6fc;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+      font-size: 12px;
+      z-index: 9999;
+      pointer-events: none;
+    }
+    /* Modal Styles: Horizontal, top of the screen */
+    #clusterModal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: auto;
+      display: none;
+      background: rgba(0, 0, 0, 0.8);
+      z-index: 10000;
+    }
+    #clusterModal .modal-content {
+      background: #161b22;
+      padding: 20px;
+      width: 100%;
+      max-height: 50vh;
+      overflow-y: auto;
+      position: relative;
+    }
+    #clusterModal .close {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      cursor: pointer;
+      font-size: 24px;
+      font-weight: bold;
+      color: #f0f6fc;
     }
   </style>
 </head>
 <body>
-<div id="sidebar">
-  <label for="threshold">Similarity Threshold (0-1):</label>
-  <input type="number" id="threshold" min="0" max="1" step="0.01" value="0.9">
-  <label for="numClusters"># of Largest Clusters to Keep:</label>
-  <input type="number" id="numClusters" min="1" step="1" value="100">
-  <label for="topN">Top-N Topics per Cluster:</label>
-  <input type="number" id="topN" min="1" max="20" step="1" value="3">
-  <button id="updateGraph">Update Graph</button>
-  <div id="metadata"></div>
-</div>
-<div id="graphContainer">
-  <svg></svg>
-</div>
-<script>
-const numDocs = 739;
-const numTopics = 20;
-// Load CSV from local file
-let topicMatrix = [];
-d3.csv("p-document-topic.csv").then(data => {
-  topicMatrix = data.map(row => Object.values(row).map(Number));
-  drawGraph(parseFloat(document.getElementById("threshold").value), parseInt(document.getElementById("numClusters").value));
-});
-
-function cosineSimilarity(a, b) {
-  let dot = a.reduce((sum, ai, i) => sum + ai * b[i], 0);
-  let normA = Math.sqrt(a.reduce((sum, ai) => sum + ai * ai, 0));
-  let normB = Math.sqrt(b.reduce((sum, bi) => sum + bi * bi, 0));
-  return dot / (normA * normB);
-}
-
-function computeLinks(threshold) {
-  const links = [];
-  for (let i = 0; i < numDocs; i++) {
-    for (let j = i + 1; j < numDocs; j++) {
-      const sim = cosineSimilarity(topicMatrix[i], topicMatrix[j]);
-      if (sim > threshold) {
-        links.push({ source: i, target: j });
-      }
+  <div id="graphContainer">
+    <svg></svg>
+  </div>
+  <div id="sidebar">
+    <!-- Combined Graph & Similarity Controls -->
+    <div class="accordion-section">
+      <div class="accordion-header">Graph & Similarity Controls</div>
+      <div class="accordion-content">
+        <label for="threshold">Similarity Threshold (0-1):</label>
+        <input type="number" id="threshold" min="0" max="1" step="0.01" value="0.9">
+        <label for="similarityMetric">Select Similarity Metric:</label>
+        <select id="similarityMetric">
+          <option value="cosine">Cosine Similarity</option>
+          <option value="euclidean">Euclidean Similarity</option>
+        </select>
+        <label for="numClusters"># of Largest Clusters to Keep:</label>
+        <input type="number" id="numClusters" min="1" step="1" value="100">
+        <label for="topicSumThreshold">Topic Probability Sum Threshold:</label>
+        <input type="number" id="topicSumThreshold" min="0" max="1" step="0.01" value="0.9">
+        <button id="updateGraph">Update Graph</button>
+      </div>
+    </div>
+    <!-- Simulation Controls -->
+    <div class="accordion-section">
+      <div class="accordion-header">Simulation Controls</div>
+      <div class="accordion-content">
+        <label for="linkDistance">Link Distance:</label>
+        <input type="number" id="linkDistance" step="1" value="30">
+        <label for="chargeStrength">Charge Strength:</label>
+        <input type="number" id="chargeStrength" step="1" value="-100">
+        <button id="updateSimulation">Update Simulation</button>
+      </div>
+    </div>
+    <!-- Metadata Section -->
+    <div class="accordion-section">
+      <div class="accordion-header">Metadata</div>
+      <div class="accordion-content">
+        <div id="metadata"></div>
+      </div>
+    </div>
+    <!-- Topic Viewer -->
+    <div class="accordion-section">
+      <div class="accordion-header">Topic Viewer</div>
+      <div class="accordion-content">
+        <label for="topicSelect">Select Topic:</label>
+        <select id="topicSelect">
+          <option value="">-- Choose Topic --</option>
+        </select>
+        <label for="topicFilterThreshold">Topic Filter Threshold (0-1):</label>
+        <input type="number" id="topicFilterThreshold" min="0" max="1" step="0.01" value="0.5">
+        <button id="applyTopicFilter">Apply Topic Filter</button>
+        <div id="topicWords"></div>
+        <small>This threshold sets the minimum probability a document must have for the selected topic to be included.</small>
+      </div>
+    </div>
+  </div>
+  <!-- Modal for Cluster Vocabulary -->
+  <div id="clusterModal">
+    <div class="modal-content">
+      <!-- Modal content injected here -->
+    </div>
+  </div>
+  <script>
+    // -------------------- Accordion Logic --------------------
+    for (const header of document.querySelectorAll('.accordion-header')) {
+      header.addEventListener('click', () => {
+        const content = header.nextElementSibling;
+        content.classList.toggle('active');
+      });
     }
-  }
-  return links;
-}
-
-function findClusters(nodes, links) {
-  const adjacency = new Map();
-  nodes.forEach(n => adjacency.set(n.id, []));
-  links.forEach(l => {
-    adjacency.get(l.source.id).push(l.target.id);
-    adjacency.get(l.target.id).push(l.source.id);
-  });
-
-  const visited = new Set();
-  const clusters = [];
-
-  function dfs(node, cluster) {
-    visited.add(node);
-    cluster.push(node);
-    adjacency.get(node).forEach(neighbor => {
-      if (!visited.has(neighbor)) dfs(neighbor, cluster);
+    // -------------------- Global Variables --------------------
+    const numDocs = 739;
+    const numTopics = 20;
+    let topicMatrix = [];
+    let topicWordMap = {}; // { topicNum: [{word, value}, ...] }
+    window.topicMatrix = topicMatrix;
+    // -------------------- Data Loading --------------------
+    d3.csv("p-document-topic.csv").then(data => {
+      topicMatrix = data.map(row => Object.values(row).map(Number));
+      window.topicMatrix = topicMatrix;
+      const threshold = parseFloat(document.getElementById("threshold").value);
+      const numClusters = parseInt(document.getElementById("numClusters").value);
+      drawGraph(threshold, numClusters);
     });
-  }
-
-  nodes.forEach(n => {
-    if (!visited.has(n.id)) {
-      const cluster = [];
-      dfs(n.id, cluster);
-      clusters.push(cluster);
+    fetch("topic-words.txt")
+      .then(resp => resp.text())
+      .then(parseTopicWords);
+    function parseTopicWords(text) {
+      const blocks = text.split(/#+\s*Topic\s*(\d+)\s*#+/g).slice(1);
+      for (let i = 0; i < blocks.length; i += 2) {
+        const topicNum = parseInt(blocks[i]);
+        const blockText = blocks[i + 1];
+        const words = [...blockText.matchAll(/\d+\s*\|\s*(\w+)\s*\|\s*([\d\.]+)/g)]
+                      .map(match => ({ word: match[1], value: parseFloat(match[2]) }));
+        topicWordMap[topicNum] = words;
+      }
+      populateTopicDropdown();
     }
-  });
-
-  return clusters;
-}
-
-function getClusterCentroid(cluster) {
-  const vec = Array(topicMatrix[0].length).fill(0);
-  cluster.forEach(id => {
-    topicMatrix[id].forEach((val, i) => vec[i] += val);
-  });
-  return vec.map(v => v / cluster.length);
-}
-
-function updateMetadata(clusters, totalNodes, visibleNodes) {
-  const topN = parseInt(document.getElementById("topN").value) || 3;
-  const percent = ((visibleNodes / totalNodes) * 100).toFixed(2);
-  const container = document.getElementById("metadata");
-  container.innerHTML =
-    `<b>Total Nodes:</b> ${totalNodes}<br>` +
-    `<b>Visualized Nodes:</b> ${visibleNodes} (${percent}%)<br>` +
-    `<b>Clusters:</b> ${clusters.length}<br><table border="1" cellpadding="4"><tr><th>Cluster #</th><th>Node Count</th><th>Top-N Topics</th></tr>` +
-    clusters.map((c, i) => {
-      const centroid = getClusterCentroid(c);
-      const topTopics = centroid
-        .map((v, i) => ({ topic: i, value: v }))
-        .sort((a, b) => b.value - a.value)
-        .slice(0, topN);
-      const sumTop = topTopics.reduce((sum, t) => sum + t.value, 0).toFixed(3);
-      const label = topTopics.map(t => `T${t.topic}: ${t.value.toFixed(3)}`).join(", ");
-      return `<tr><td>${i + 1}</td><td>${c.length}</td><td>${label}<br><em>Sum: ${sumTop}</em></td></tr>`;
-    }).join("") + '</table>';
-}
-
-function drawGraph(threshold, numClustersToKeep) {
-  const allNodes = topicMatrix.map((_, i) => ({ id: i }));
-  const allLinks = computeLinks(threshold).map(link => ({
-    source: allNodes[link.source],
-    target: allNodes[link.target]
-  }));
-
-  const clusters = findClusters(allNodes, allLinks);
-  clusters.sort((a, b) => b.length - a.length);
-  const keptClusters = clusters.slice(0, numClustersToKeep);
-  const keptNodeIds = new Set(keptClusters.flat());
-
-  const filteredNodes = allNodes.filter(n => keptNodeIds.has(n.id));
-  const filteredLinks = allLinks.filter(l => keptNodeIds.has(l.source.id) && keptNodeIds.has(l.target.id));
-
-  updateMetadata(keptClusters, allNodes.length, filteredNodes.length);
-
-  zoomLayer.selectAll("g").remove();
-
-  const link = zoomLayer.append("g")
-    .attr("stroke", "#aaa")
-    .selectAll("line")
-    .data(filteredLinks)
-    .enter().append("line");
-
-  const node = zoomLayer.append("g")
-    .attr("stroke", "#fff")
-    .attr("stroke-width", 1.5)
-    .selectAll("circle")
-    .data(filteredNodes)
-    .enter().append("circle")
-    .attr("r", 3)
-    .attr("fill", "steelblue")
-    .call(drag(simulation));
-
-  node.on("mouseover", (event, d) => {
-    const tooltip = d3.select("body").append("div")
-      .attr("id", "tooltip")
-      .style("position", "absolute")
-      .style("left", `${event.pageX + 10}px`)
-      .style("top", `${event.pageY + 10}px`)
-      .style("padding", "10px")
-      .style("background", "white")
-      .style("border", "1px solid #ccc")
-      .style("border-radius", "6px")
-      .style("box-shadow", "0 2px 6px rgba(0,0,0,0.2)")
-      .style("font-size", "12px")
-      .style("z-index", 9999)
-      .html(`<strong>Doc ${d.id}</strong><br>${topicMatrix[d.id].map((v, i) => `T${i}: ${v.toFixed(3)}`).join("<br>")}`);
-  })
-  .on("mousemove", event => {
-    d3.select("#tooltip")
-      .style("left", `${event.pageX + 10}px`)
-      .style("top", `${event.pageY + 10}px`);
-  })
-  .on("mouseout", () => {
-    d3.select("#tooltip").remove();
-  });
-
-  simulation.nodes(filteredNodes);
-  simulation.force("link").links(filteredLinks);
-  simulation.alpha(1).restart();
-
-  simulation.on("tick", () => {
-    link
-      .attr("x1", d => d.source.x)
-      .attr("y1", d => d.source.y)
-      .attr("x2", d => d.target.x)
-      .attr("y2", d => d.target.y);
-
-    node
-      .attr("cx", d => d.x)
-      .attr("cy", d => d.y);
-  });
-}
-
-const svg = d3.select("svg");
-const width = window.innerWidth;
-const height = window.innerHeight;
-const zoomLayer = svg.append("g").attr("class", "zoom-layer");
-svg.call(d3.zoom().scaleExtent([0.1, 10]).on("zoom", (event) => zoomLayer.attr("transform", event.transform)));
-
-const simulation = d3.forceSimulation()
-  .force("link", d3.forceLink().id(d => d.id).distance(30))
-  .force("charge", d3.forceManyBody().strength(-20))
-  .force("center", d3.forceCenter(width / 2, height / 2));
-
-// drawGraph is now triggered after CSV load
-
-document.getElementById("updateGraph").addEventListener("click", () => {
-  const threshold = parseFloat(document.getElementById("threshold").value);
-  const numClusters = parseInt(document.getElementById("numClusters").value);
-  if (!isNaN(threshold) && threshold >= 0 && threshold <= 1 && !isNaN(numClusters) && numClusters > 0) {
-    drawGraph(threshold, numClusters);
-  } else {
-    alert("Please enter a valid threshold (0-1) and number of clusters > 0.");
-  }
-});
-
-function drag(simulation) {
-  function dragstarted(event, d) {
-    if (!event.active) simulation.alphaTarget(0.3).restart();
-    d.fx = d.x;
-    d.fy = d.y;
-  }
-  function dragged(event, d) {
-    d.fx = event.x;
-    d.fy = event.y;
-  }
-  function dragended(event, d) {
-    if (!event.active) simulation.alphaTarget(0);
-    d.fx = null;
-    d.fy = null;
-  }
-  return d3.drag()
-    .on("start", dragstarted)
-    .on("drag", dragged)
-    .on("end", dragended);
-}
-</script>
+    function populateTopicDropdown() {
+      const select = document.getElementById("topicSelect");
+      Object.keys(topicWordMap).sort((a, b) => +a - +b)
+        .forEach(topic => {
+          const option = document.createElement("option");
+          option.value = topic;
+          option.textContent = `Topic ${topic}`;
+          select.appendChild(option);
+      });
+    }
+    // -------------------- Similarity Functions --------------------
+    function cosineSimilarity(a, b) {
+      let dot = a.reduce((sum, ai, i) => sum + ai * b[i], 0);
+      let normA = Math.sqrt(a.reduce((sum, ai) => sum + ai * ai, 0));
+      let normB = Math.sqrt(b.reduce((sum, bi) => sum + bi * bi, 0));
+      return dot / (normA * normB);
+    }
+    function euclideanDistance(a, b) {
+      const sumSq = a.reduce((sum, value, i) => sum + Math.pow(value - b[i], 2), 0);
+      return Math.sqrt(sumSq);
+    }
+    // Compute links for nodes based on the selected similarity metric.
+    function computeLinksForNodes(nodes, threshold) {
+      const metric = document.getElementById("similarityMetric").value;
+      const links = [];
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          let sim = 0;
+          if(metric === "cosine") {
+            sim = cosineSimilarity(topicMatrix[nodes[i].id], topicMatrix[nodes[j].id]);
+          } else if(metric === "euclidean") {
+            const d = euclideanDistance(topicMatrix[nodes[i].id], topicMatrix[nodes[j].id]);
+            sim = 1 / (1 + d);
+          }
+          if (sim > threshold) {
+            links.push({ source: nodes[i], target: nodes[j] });
+          }
+        }
+      }
+      return links;
+    }
+    // -------------------- Clustering and Metadata --------------------
+    function findClusters(nodes, links) {
+      const adjacency = new Map();
+      nodes.forEach(n => adjacency.set(n.id, []));
+      links.forEach(l => {
+        adjacency.get(l.source.id).push(l.target.id);
+        adjacency.get(l.target.id).push(l.source.id);
+      });
+      const visited = new Set();
+      const clusters = [];
+      function dfs(node, cluster) {
+        visited.add(node);
+        cluster.push(node);
+        adjacency.get(node).forEach(neighbor => {
+          if (!visited.has(neighbor)) dfs(neighbor, cluster);
+        });
+      }
+      nodes.forEach(n => {
+        if (!visited.has(n.id)) {
+          const cluster = [];
+          dfs(n.id, cluster);
+          clusters.push(cluster);
+        }
+      });
+      return clusters;
+    }
+    function getClusterCentroid(cluster) {
+      const vec = Array(topicMatrix[0].length).fill(0);
+      cluster.forEach(id => {
+        topicMatrix[id].forEach((val, i) => vec[i] += val);
+      });
+      return vec.map(v => v / cluster.length);
+    }
+    function updateMetadata(clusters, totalNodes, visibleNodes) {
+      const sumThreshold = parseFloat(document.getElementById("topicSumThreshold").value) || 0.9;
+      const percent = ((visibleNodes / totalNodes) * 100).toFixed(2);
+      const container = document.getElementById("metadata");
+      container.innerHTML =
+        `<b>Total Nodes:</b> ${totalNodes}<br>` +
+        `<b>Visualized Nodes:</b> ${visibleNodes} (${percent}%)<br>` +
+        `<b>Clusters:</b> ${clusters.length}<br><table border="1" cellpadding="4"><tr><th>Cluster #</th><th>Node Count</th><th>Top Topics</th></tr>` +
+        clusters.map((c, i) => {
+          const centroid = getClusterCentroid(c);
+          const sorted = centroid.map((v, i) => ({ topic: i, value: v }))
+                                 .sort((a, b) => b.value - a.value);
+          let cumulative = 0;
+          const topTopics = [];
+          for (const t of sorted) {
+            if (cumulative >= sumThreshold) break;
+            topTopics.push(t);
+            cumulative += t.value;
+          }
+          const sumTop = topTopics.reduce((sum, t) => sum + t.value, 0).toFixed(3);
+          const label = topTopics.map(t => `T${t.topic}: ${t.value.toFixed(3)}`).join(", ");
+          return `<tr class='cluster-row' data-cluster='${c.join(",")}'><td>${i + 1}</td><td>${c.length}</td><td>${label}<br><em>Sum: ${sumTop}</em></td></tr>`;
+        }).join("") +
+        '</table>';
+      document.querySelectorAll(".cluster-row").forEach(row => {
+        const ids = row.dataset.cluster.split(",").map(Number);
+        row.addEventListener("click", (e) => {
+          e.stopPropagation();
+          d3.selectAll("circle").classed("highlighted", false);
+          d3.selectAll("circle").classed("highlighted", d => ids.includes(d.id));
+          showClusterModal(ids);
+        });
+      });
+    }
+    document.body.addEventListener("click", (event) => {
+      const isClusterRow = event.target.closest('.cluster-row');
+      if (!isClusterRow) {
+        d3.selectAll("circle").classed("highlighted", false);
+      }
+    });
+    // -------------------- Graph Drawing and Simulation --------------------
+    const svg = d3.select("svg");
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    const zoomLayer = svg.append("g").attr("class", "zoom-layer");
+    svg.call(d3.zoom().scaleExtent([0.1, 10]).on("zoom", (event) => zoomLayer.attr("transform", event.transform)));
+    let simulation = d3.forceSimulation()
+      .force("link", d3.forceLink().id(d => d.id).distance(+document.getElementById("linkDistance").value))
+      .force("charge", d3.forceManyBody().strength(+document.getElementById("chargeStrength").value))
+      .force("center", d3.forceCenter(width / 2, height / 2));
+    function drawGraph(similarityThreshold, numClustersToKeep) {
+      let nodesToUse = topicMatrix.map((_, i) => ({ id: i }));
+      const topicValue = document.getElementById("topicSelect").value;
+      if (topicValue !== "") {
+        const selectedTopic = parseInt(topicValue);
+        const topicFilterThreshold = parseFloat(document.getElementById("topicFilterThreshold").value);
+        nodesToUse = nodesToUse.filter(n => topicMatrix[n.id][selectedTopic] >= topicFilterThreshold);
+      }
+      const linksToUse = computeLinksForNodes(nodesToUse, similarityThreshold);
+      const clusters = findClusters(nodesToUse, linksToUse);
+      clusters.sort((a, b) => b.length - a.length);
+      const keptClusters = clusters.slice(0, numClustersToKeep);
+      const keptNodeIds = new Set(keptClusters.flat());
+      const filteredNodes = nodesToUse.filter(n => keptNodeIds.has(n.id));
+      const filteredLinks = linksToUse.filter(l => keptNodeIds.has(l.source.id) && keptNodeIds.has(l.target.id));
+      updateMetadata(keptClusters, nodesToUse.length, filteredNodes.length);
+      zoomLayer.selectAll("g").remove();
+      const link = zoomLayer.append("g")
+        .attr("stroke", "#aaa")
+        .selectAll("line")
+        .data(filteredLinks)
+        .enter().append("line");
+      const node = zoomLayer.append("g")
+        .attr("stroke", "#fff")
+        .attr("stroke-width", 1.5)
+        .selectAll("circle")
+        .data(filteredNodes)
+        .enter().append("circle")
+        .attr("r", 3)
+        .attr("fill", "#facc15")
+        .call(drag(simulation));
+      node.on("mouseover", (event, d) => {
+        d3.select("body").append("div")
+          .attr("id", "tooltip")
+          .classed("tooltip", true)
+          .style("left", `${event.pageX + 10}px`)
+          .style("top", `${event.pageY + 10}px`)
+          .html(`<strong>Doc ${d.id}</strong><br>${topicMatrix[d.id].map((v, i) => `T${i}: ${v.toFixed(3)}`).join("<br>")}`);
+      })
+      .on("mousemove", event => {
+        d3.select("#tooltip")
+          .style("left", `${event.pageX + 10}px`)
+          .style("top", `${event.pageY + 10}px`);
+      })
+      .on("mouseout", () => {
+        d3.select("#tooltip").remove();
+      });
+      simulation.nodes(filteredNodes);
+      simulation.force("link").links(filteredLinks);
+      simulation.alpha(1).restart();
+      simulation.on("tick", () => {
+        link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+        node
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+      });
+    }
+    function drag(simulation) {
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+      return d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended);
+    }
+    // -------------------- Modal for Cluster Vocabulary --------------------
+    function showClusterModal(cluster) {
+      const centroid = getClusterCentroid(cluster);
+      const sortedTopics = centroid.map((v, i) => ({ topic: i, value: v }))
+                                   .sort((a, b) => b.value - a.value);
+      const sumThreshold = parseFloat(document.getElementById("topicSumThreshold").value) || 0.9;
+      let cumulative = 0;
+      const topTopics = [];
+      for (const t of sortedTopics) {
+        if (cumulative >= sumThreshold) break;
+        topTopics.push(t);
+        cumulative += t.value;
+      }
+      let modalHTML = `<h2>Cluster Details</h2>`;
+      modalHTML += `<p><strong>Node Count:</strong> ${cluster.length}</p>`;
+      modalHTML += `<h3>Dominant Topics</h3>`;
+      topTopics.forEach(t => {
+        modalHTML += `<div style="margin-bottom: 15px;"><h4>Topic ${t.topic} (Score: ${t.value.toFixed(3)})</h4>`;
+        const vocab = topicWordMap[t.topic];
+        if (vocab) {
+          modalHTML += `<ul>`;
+          vocab.slice(0, 10).forEach(wordObj => {
+            modalHTML += `<li>${wordObj.word} (${wordObj.value.toFixed(6)})</li>`;
+          });
+          modalHTML += `</ul>`;
+        } else {
+          modalHTML += `<p>No vocabulary data available.</p>`;
+        }
+        modalHTML += `</div>`;
+      });
+      modalHTML += `<button id="closeModal">Close</button>`;
+      const modal = document.getElementById("clusterModal");
+      const modalContent = document.querySelector("#clusterModal .modal-content");
+      modalContent.innerHTML = modalHTML;
+      modal.style.display = "block";
+      document.getElementById("closeModal").addEventListener("click", () => {
+        modal.style.display = "none";
+      });
+    }
+    document.getElementById("updateGraph").addEventListener("click", () => {
+      const threshold = parseFloat(document.getElementById("threshold").value);
+      const numClusters = parseInt(document.getElementById("numClusters").value);
+      if (!isNaN(threshold) && threshold >= 0 && threshold <= 1 && !isNaN(numClusters) && numClusters > 0) {
+        drawGraph(threshold, numClusters);
+      } else {
+        alert("Please enter a valid similarity threshold (0-1) and number of clusters > 0.");
+      }
+    });
+    document.getElementById("applyTopicFilter").addEventListener("click", () => {
+      const threshold = parseFloat(document.getElementById("threshold").value);
+      const numClusters = parseInt(document.getElementById("numClusters").value);
+      drawGraph(threshold, numClusters);
+    });
+    document.getElementById("updateSimulation").addEventListener("click", () => {
+      const newLinkDistance = +document.getElementById("linkDistance").value;
+      const newChargeStrength = +document.getElementById("chargeStrength").value;
+      simulation.force("link").distance(newLinkDistance);
+      simulation.force("charge").strength(newChargeStrength);
+      simulation.alpha(1).restart();
+    });
+    const topicSelect = document.getElementById("topicSelect");
+    topicSelect.addEventListener("change", () => {
+      const selectedTopic = topicSelect.value;
+      if (selectedTopic === "") {
+        d3.selectAll("circle").classed("highlighted", false);
+        return;
+      }
+      d3.selectAll("circle").classed("highlighted", d => {
+        if (!window.topicMatrix || !window.topicMatrix[d.id]) return false;
+        const topicVector = window.topicMatrix[d.id];
+        const maxTopic = topicVector.indexOf(Math.max(...topicVector));
+        return maxTopic === parseInt(selectedTopic);
+      });
+    });
+  </script>
 </body>
 </html>
