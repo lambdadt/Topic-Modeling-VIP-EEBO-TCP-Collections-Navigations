@@ -22,9 +22,11 @@ def decode_xml_texts():
     """)
     ap.add_argument('--input_dir', '-i', required=True, help="Directory containing EEBO-TCP XML files (e.g., Navigations_headed_xml/A0-A5/) from which XML files will be read. Not recursive. Can also pass the path of a single file.")
     ap.add_argument('--output_dir', '-o', required=True, help="Directory where decoded text files will be output. Output file naming may vary depending on --method. See Navigations_headed_xml/Parsed_texts/ for reference.")
+    ap.add_argument('--metadata_output_dir', required=True, help="Directory where metadata will be saved.")
     ap.add_argument('--method', default='Spring2025', choices=['Fall2024', 'Spring2025'])
     ap.add_argument('--doc_start_num', type=int, default=-1, help="num is '00005' for file 'A00005.headed.xml. Set to value 0 or greater to enable (otherwise all XMLs will be considered without file name based filtering).")
     ap.add_argument('--doc_end_num', type=int, default=-1, help="See --doc_start_num")
+    ap.add_argument('--dry_run', action='store_true')
     args = ap.parse_args()
 
     input_dir = Path(args.input_dir)
@@ -40,6 +42,12 @@ def decode_xml_texts():
     output_dir = Path(args.output_dir)
     output_dir.mkdir(exist_ok=True, parents=True)
     print("Outputs will be saved to: {}".format(output_dir))
+    metadata_output_dir = Path(args.metadata_output_dir)
+    metadata_output_dir.mkdir(exist_ok=True, parents=True)
+    print("Metadata outputs will be saved to: {}".format(metadata_output_dir))
+
+    metadata_all = []
+    dry_run = args.dry_run
 
     n_failed = 0
     for ixml, xml_path in enumerate(all_xml_paths):
@@ -67,18 +75,26 @@ def decode_xml_texts():
             continue
         doc_id = idg_e.attrs['ID']
 
+        meta = {
+            'doc_id': doc_id,
+            'xml_path': str(xml_path),
+        }
+
         if args.method == 'Spring2025':
             del_tags = ['IDNO', 'AVAILABILITY', 'IDG', 'HEADER', 'FILEDESC', 'PUBLICATIONSTMT',
-                        'PUBPLACE', 'PUBLISHER', 'SERIESSTMT', 'NOTESSTMT'] # , 'FIGURE', 'HI'
+                        'PUBPLACE', 'PUBLISHER', 'SERIESSTMT', 'NOTESSTMT',
+                        'NOTE', 'FOOTNOTE', 'REF', 'FN'] # , 'FIGURE', 'HI'
             for e in soup.find_all(del_tags):
                 e.decompose()
             # While this ignores most structures (e.g., pages separated by PB, ITEM, TITLE, BODY, TEXT, DIVx etc.)
             # seems to produce a readable result with reasonable amount of white space between elements.
             text_content = soup.text.strip()
             output_text_path = output_dir / f"{doc_id}_simplified_content.txt"
-            with open(output_text_path, 'w', encoding='utf-8') as f:
-                f.write(text_content)
+            if not dry_run:
+                with open(output_text_path, 'w', encoding='utf-8') as f:
+                    f.write(text_content)
             print(f"Text content saved to: {output_text_path}")
+            meta['text_doc_path'] = str(output_text_path)
         elif args.method == 'Fall2024':
             output_text_path = output_dir / f"{doc_id}_parsed_text.txt"
             output_footnotes_path = output_dir / f"{doc_id}_footnotes.txt"
@@ -89,14 +105,59 @@ def decode_xml_texts():
                 print(f"Failed to parse {xml_path}: {e}")
                 n_failed += 1
             if text_content:
-                with open(output_text_path, 'w', encoding='utf-8') as f:
-                    f.write('\n'.join(text_content))
+                if not dry_run:
+                    with open(output_text_path, 'w', encoding='utf-8') as f:
+                        f.write('\n'.join(text_content))
                 print(f"Text content saved to: {output_text_path}")
             if footnotes:
                 with open(output_footnotes_path, 'w', encoding='utf-8') as f:
                     f.write('\n'.join(footnotes))
                 print(f"Footnotes content saved to: {output_footnotes_path}")
+            meta['text_doc_path'] = str(output_text_path)
+        
+        # Extract metadata from XML
+        soup = BeautifulSoup(xml_text, 'lxml-xml')
+        header_e = soup.find('HEADER')
+        if header_e is not None:
+            eebo_id_e = header_e.select_one("IDNO[TYPE=DLPS]")
+            meta['eebo_id'] = eebo_id_e.text.strip() if eebo_id_e is not None else None
+            stc_elms = header_e.select("IDNO[TYPE=stc]")
+            if len(stc_elms) > 1:
+                full_estc_text = stc_elms[1].text.strip()
+                meta['estc_number'] = full_estc_text.split('ESTC ')[-1]
+            else:
+                meta['estc_number'] = None
+            title_e = header_e.select_one("TITLESTMT > TITLE[TYPE='245']")
+            meta['title'] = title_e.text.strip() if title_e is not None else None
+            author_e = header_e.select_one("AUTHOR")
+            meta['author'] = author_e.text.strip() if author_e is not None else None
+
+            for ipubstmt, pubstmt in enumerate(header_e.find_all('PUBLICATIONSTMT')):
+                child_tags = {child.name for child in pubstmt.find_all(recursive=False)}
+                publisher = pubstmt.find('PUBLISHER', recursive=False)
+                date = pubstmt.find('DATE', recursive=False)
+                pubplace = pubstmt.find('PUBPLACE', recursive=False)
+                if (publisher is None or "text creation partnership" in publisher.text.lower()) or \
+                   (date is None or 'eebo-tcp' in date.text.lower()) or \
+                    pubplace is None:
+                   continue
+                assert ipubstmt == 1 and len(child_tags) == 3
+                meta['publisher'] = getattr(publisher, 'text', "").strip() or None
+                meta['date'] = getattr(date, 'text', "").strip() or None
+                meta['pubplace'] = getattr(pubplace, 'text', "").strip() or None
+        metadata_all.append(meta)
         print()
+    metadata_df = pd.DataFrame(metadata_all)
+    metadata_csv_save_path = metadata_output_dir / "decoded_documents_metadata.csv"
+    if metadata_csv_save_path.is_file():
+        print("Metadata CSV already exists ({}). It will be merged.".format(metadata_csv_save_path))
+        metadata_df_existing = pd.read_csv(metadata_csv_save_path)
+        print("Old metadata CSV has {} entries (current one has {}). Merging...".format(len(metadata_df_existing), len(metadata_df)))
+        metadata_df_merged = pd.concat([metadata_df_existing, metadata_df], axis='index')
+        print("Merged metadata entries: {}".format(len(metadata_df_merged)))
+        metadata_df = metadata_df_merged
+    print("Saving metadata csv to: {}".format(metadata_csv_save_path))
+    metadata_df.to_csv(metadata_csv_save_path, index=False)
     print("Done")
 
 
@@ -133,7 +194,7 @@ def make_vectors():
     ap.add_argument('--vector_dim_limit', default=100_000, type=int, help="Rare words will be culled. -1 means no limit.")
     ap.add_argument('--tfidf_reweighted_count_vectors_as_float', action='store_true',
                     help="After reweighting the count vectors with TF-IDF, return the resulting matrix with floats, instead of rounding to nearist integers.")
-    ap.add_argument('--filter', choices=['txt', 'parsed_text', 'footnotes'], default='parsed_text',
+    ap.add_argument('--filter', choices=['txt', 'parsed_text', 'footnotes'], default='txt',
                     help="If set to `txt` will read all .txt files.")
     args = ap.parse_args()
 
